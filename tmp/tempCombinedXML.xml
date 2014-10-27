@@ -26356,293 +26356,6 @@
 <!-- -->
 
     </oompPart>
-    <oompPart>
-        <oompID>IDCS-I01-X-2X10-</oompID>
-        <name>2.54 mm 20 Pole (2x10) IDC Socket</name>
-        <hexID>108D</hexID>
-        <oompType>IDCS</oompType>
-        <oompSize>I01</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>2X10</oompDesc>
-        <oompIndex></oompIndex>
-        <oompOwner></oompOwner>
-
-        <!-- OOMP Base-->
-		<oompSort></oompSort>
-			
-        <!-- LED Tags-->
-		<ooLensColor></ooLensColor>
-		<ooForwardVoltage></ooForwardVoltage>
-		<ooForwardCurrent></ooForwardCurrent>
-		<ooIntensity></ooIntensity>
-		<ooPowerAngle></ooPowerAngle>
-		<ooWavelength></ooWavelength>
-		<ooChromaticityX></ooChromaticityX>
-		<ooChromaticityY></ooChromaticityY>
-	
-		<!-- Description Tags-->
-		<ooMaterial></ooMaterial>		
-		<ooNumPins></ooNumPins>
-		<ooTerminalStyle></ooTerminalStyle>
-			
-		<!-- Plug Tags-->
-		<ooPlugID></ooPlugID>
-		<ooPlugOD></ooPlugOD>
-		<ooPlugLength></ooPlugLength>
-				
-		<!-- Maximums -->
-		<ooPowerRating></ooPowerRating>
-		<ooMaxVoltage></ooMaxVoltage>
-		<ooMaxCurrent></ooMaxCurrent>
-		<ooLifetime></ooLifetime>
-		<ooTolerance></ooTolerance>
-		
-		<!-- Size Tags -->		
-		<ooPitch></ooPitch>
-		<ooWidth></ooWidth>
-		<ooHeight></ooHeight>
-		<ooDiameter></ooDiameter>
-		<ooLength></ooLength>
-		<ooDepth></ooDepth>
-		<ooWireSize></ooWireSize>		
-
-		<!-- Hardware Tags -->
-		<ooHeadStyle></ooHeadStyle>
-		<ooWrenchSize></ooWrenchSize>
-		
-		<!-- SEEED OPL (Open Parts Library) -->
-		<ooSEEEDsku></ooSEEEDsku>
-		<ooSEEEDdesc></ooSEEEDdesc>
-		<ooSEEED3dModel></ooSEEED3dModel>
-			
-		
-		<!-- Manucturer Tags -->
-		<ooManufacturer></ooManufacturer>
-		<ooManufacturerPartNumber></ooManufacturerPartNumber>
-		<otherSupplier partNumber=""></otherSupplier>			
-
-		<!-- Hidden Tags-->
-		<ooProjectName1></ooProjectName1>
-		<ooProjectDesc1></ooProjectDesc1>
-		<ooProjectLink1></ooProjectLink1>
-		<ooProjectType1></ooProjectType1>
-		
-		
-		<ooBuyName1></ooBuyName1>
-		<ooBuyDesc1></ooBuyDesc1>
-		<ooBuyLink1></ooBuyLink1>
-		<ooBuyType1></ooBuyType1>
-		
-		<oompAbout></oompAbout>
-		<ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-		
-		
-
-		
-	</oompPart>
-
-
-    <oompPart>
-        <index>4236</index>
-
-<!--OOMP Base -->
-        <oompID>IDCS-I01-X-2X10-01</oompID>
-        <name>2.54 mm 20 Pole (2x10) IDC Socket</name>
-        <hexID>E220</hexID>
-        <oompSort></oompSort>
-        <oompType>IDCS</oompType>
-        <oompSize>I01</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>2X10</oompDesc>
-        <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion>99</oompVersion>
-
-
-<!--Size -->
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize>
-
-
-<!--Manufacturer -->
-        <ooManufacturer></ooManufacturer>
-        <ooManufacturerPartNumber></ooManufacturerPartNumber>
-
-
-<!--Description -->
-        <ooMaterial></ooMaterial>
-        <ooNumPins></ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating>
-
-
-<!--Hardware -->
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize>
-
-
-<!--Maximums -->
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-
-
-<!--Heat Shrink -->
-        <ooShrinkRatio></ooShrinkRatio>
-
-
-<!--LED -->
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY>
-
-
-<!--Plug -->
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength>
-
-
-<!--SEEED OPL (Open Parts Library) -->
-        <ooSEEEDsku></ooSEEEDsku>
-        <ooSEEEDdesc></ooSEEEDdesc>
-
-
-<!--Hidden -->
-        <oompVersion></oompVersion>
-        <ooNameLine1of2></ooNameLine1of2>
-        <ooNameLine2of2></ooNameLine2of2>
-        <ooNameLine1of3></ooNameLine1of3>
-        <ooNameLine2of3></ooNameLine2of3>
-        <ooNameLine3of3></ooNameLine3of3>
-        <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-        <ooSEEED3dModel></ooSEEED3dModel>
-
-
-<!-- -->
-
-    </oompPart>
-
-    <oompPart>
-        <index>4238</index>
-
-<!--OOMP Base -->
-        <oompID>IDCS-I01-X-2X13-01</oompID>
-        <name>2.54 mm 26 Pole (2x13) IDC Socket</name>
-        <hexID>E226</hexID>
-        <oompSort>26</oompSort>
-        <oompType>IDCS</oompType>
-        <oompSize>I01</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>2X13</oompDesc>
-        <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion>99</oompVersion>
-
-
-<!--Size -->
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize>
-
-
-<!--Manufacturer -->
-        <ooManufacturer></ooManufacturer>
-        <ooManufacturerPartNumber></ooManufacturerPartNumber>
-
-
-<!--Description -->
-        <ooMaterial></ooMaterial>
-        <ooNumPins></ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating>
-
-
-<!--Hardware -->
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize>
-
-
-<!--Maximums -->
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-
-
-<!--Heat Shrink -->
-        <ooShrinkRatio></ooShrinkRatio>
-
-
-<!--LED -->
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY>
-
-
-<!--Plug -->
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength>
-
-
-<!--SEEED OPL (Open Parts Library) -->
-        <ooSEEEDsku></ooSEEEDsku>
-        <ooSEEEDdesc></ooSEEEDdesc>
-
-
-<!--Hidden -->
-        <oompVersion></oompVersion>
-        <ooNameLine1of2></ooNameLine1of2>
-        <ooNameLine2of2></ooNameLine2of2>
-        <ooNameLine1of3></ooNameLine1of3>
-        <ooNameLine2of3></ooNameLine2of3>
-        <ooNameLine3of3></ooNameLine3of3>
-        <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-        <ooSEEED3dModel></ooSEEED3dModel>
-
-
-<!-- -->
-
-    </oompPart>
 
     <oompPart>
         <index>4239</index>
@@ -42017,23 +41730,27 @@
 		<type>navigation</type>
 		<value><![CDATA[
 			<div id="oompNavigation" class="oompReverseColors">
+				&nbsp;<br>
 				<center><b>.:OOMP Navigation:.</b><br>
-				<a href="http://212.113.129.33/OO/Projects/oomp/part/pictureIndex"><span  class="oompLink">.:Index:.</span></a>
+				<a href="http://learn.oomlout.co.uk/OO/Projects/oomp/pictureIndex"><span  class="oompLink">.:Index:.</span></a>
 				&#160;&#160;&#160;&#160;&#160;&#160;
-				<a href="http://212.113.129.33/OO/Projects/oomp/part/familyIndex"><span  class="oompLink">.:Families:.</span></a>
+				<a href="http://learn.oomlout.co.uk/OO/Projects/oomp/familyIndex"><span  class="oompLink">.:Families:.</span></a>
 				&#160;&#160;&#160;&#160;&#160;&#160;
-				<a href="http://212.113.129.33/OO/Projects/oomp/part/allParts"><span  class="oompLink">.:All Parts:.</span></a>
+				<a href="http://learn.oomlout.co.uk/OO/Projects/oomp/allParts"><span  class="oompLink">.:All Parts:.</span></a>
 				<br>
 
 				<center><b>.:About OOMP:.</b><br>
-				<a href="http://212.113.129.33/OO/Projects/oomp/idDescribed"><span  class="oompLink">.:ID Described:.</span></a>
+				<a href="http://learn.oomlout.co.uk/OO/Projects/oomp/idDescribed"><span  class="oompLink">.:ID Described:.</span></a>
 				&#160;&#160;&#160;&#160;&#160;&#160;
-				<a href="http://212.113.129.33/OO/Projects/oomp/idCodes"><span  class="oompLink">.:ID Codes:.</span></a>
+				<a href="http://learn.oomlout.co.uk/OO/Projects/oomp/idCodes"><span  class="oompLink">.:ID Codes:.</span></a>
 				&#160;&#160;&#160;&#160;&#160;&#160;
-				<a href="http://212.113.129.33/OO/Projects/oomp/tagsDescribed"><span  class="oompLink">.:Tags Described:.</span></a>
+				<a href="http://learn.oomlout.co.uk/OO/Projects/oomp/tagsDescribed"><span  class="oompLink">.:Tags Described:.</span></a>
+				&#160;&#160;&#160;&#160;&#160;&#160;
+				<a href="http://learn.oomlout.co.uk/OO/Projects/oomp/resources"><span  class="oompLink">.:Resources Described:.</span></a>
 				<br>
 				
 				</center>
+				&nbsp;<br>
 			</div>
 			<br>
 			]]>

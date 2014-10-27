@@ -4,17 +4,26 @@ set WIKBdirectory=C:\GH\oomlout-WIKB\
 
 echo on
 
+REM
+REM 	UPLOADING PART PAGES
+REM
+
+python %WIKBdirectory%WIKBmain.py -rm A -si oomlout -bd C:\KB\oomp-scripts\oomp-gen\parts\ -wb projects/oomp/part/ -fa '-wiki.html'
+
+
+
+
 REM     UPLOADING Index Files
 
 	REM AllParts
-python %WIKBdirectory%WIKBmain.py -si oomlout -bd C:\KB\oomp-scripts\oomp-gen\parts\allParts-wiki.html -wb projects/oomp/part/allParts
+python %WIKBdirectory%WIKBmain.py -si oomlout -bd C:\KB\oomp-scripts\oomp-gen\parts\allParts-wiki.html -wb projects/oomp/allParts
 
 
 	REM PictureIndex
-REM python %WIKBdirectory%WIKBmain.py -si oomlout -bd C:\KB\oomp-scripts\oomp-gen\parts\pictureIndex-wiki.html -wb projects/oomp/part/pictureIndex
+python %WIKBdirectory%WIKBmain.py -si oomlout -bd C:\KB\oomp-scripts\oomp-gen\parts\pictureIndex-wiki.html -wb projects/oomp/pictureIndex
 
 	REM FamilyIndex
-REM python %WIKBdirectory%WIKBmain.py -si oomlout -bd C:\KB\oomp-scripts\oomp-gen\parts\familyIndex-wiki.html -wb projects/oomp/part/familyIndex 
+python %WIKBdirectory%WIKBmain.py -si oomlout -bd C:\KB\oomp-scripts\oomp-gen\parts\familyIndex-wiki.html -wb projects/oomp/familyIndex 
 
 
 
@@ -36,7 +45,7 @@ python %WIKBdirectory%WIKBmain.py -si oomlout -bd C:\KB\oomp-scripts\oomp-gen\pa
 
 
 
-REM     Uploading all part pages
-REM python %WIKBdirectory%WIKBmain.py -rm A -si oomlout -bd C:\KB\oomp-scripts\oomp-gen\parts\ -wb projects/oomp/part/ -fa '-wiki.html'
+
+
 
 

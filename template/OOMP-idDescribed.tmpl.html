@@ -1,6 +1,55 @@
 <html>
 <div id="oompMain">
 @@navigation,oompBasic.type,value@@
+<h1>ID Explained</h1>
+</html>
+==Summary==
+An OOMP ID at first glance can look like a random collection of letters and numbers (ie. '''RESE-W04-X-O561-01'''). However it is in fact lovingly crafted to contain enough detail about a part to make it unique, describe it well, and deduce it's name. 
 
+==ID==
+Each OOMP ID has 5 parts.
+
+===.:Type:.===
+This denotes the type of a component. 
+(ex. '''CAPT''' - Capacitor (Tantalum), '''RESE''' - Resistor)
+===.:Size:.===
+This denotes the major size of a component, usually used to define it's physical form factor. 
+(ex. '''I01''' - 2.54 mm, '''0603''' - SMD 0603, '''W04''' - 1/4 Watt Resistor)
+===.:Color:.===
+This denotes the color of the component, or if relevant the material it is made from. 
+(ex. '''R''' - Red, '''C''' - Clear, '''M''' - Metal, '''X''' - None)
+===.:Description:.===
+This denotes either an additional detail about a component 
+(ex. '''FROS''' - Frosted '''STAN''' - Standard)
+or the value of the component. 
+(ex. '''220UF''' - 220 uf, '''36P''' - 36 Pole, '''O561''' - 560 Ohm)
+===.:Index:.===
+This is used to fine tune a component either if a particular supplier, or a special specification not catered to in the other elements is required. 
+(ex. '''67''' - +/-1% Precision, '''0'''1 - Normal)
+
+'''ID: TYPE - SIZE - COLOR - DESCRIPTION - INDEX'''
+
+(ex. '''RESE-W04-X-O561-01''' - 1/4 Watt 560 Ohm Resistor)
+
+==Name==
+
+An OOMP ID can also be used to construct the name of a component. To do this we use the 5 elements of the ID and a conversion chart. 
+Name: '''SIZE DESCRIPTION COLOR TYPE INDEX'''
+
+(ex. 
+'''RESE-W04-X-O561-01''' - 1/4 Watt 560 Ohm Resistor 
+'''LEDS-10-G-FROS-01''' - 10mm Frosted Green LED)
+
+==Hex ID==
+
+Each component is assigned a unique hexadecimal code. This is used to make linking to the component easy. 
+(ex. 
+'''CRHO-I01-B-03PI-01''' 2.54mm 3 Pin Black Crimp Housing
+Hex ID: DA03 Link: http://oom.lt/DA03/)
+
+
+
+
+<html>
 </div>
 </html>

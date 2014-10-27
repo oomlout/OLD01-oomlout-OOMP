@@ -1,5 +1,16 @@
-@echo off
+@echo on
 set TPGEdirectory=C:\GH\oomlout-TPGE\
+
+
+
+REM
+REM     Generating all part pages
+REM
+
+python %TPGEdirectory%TPGEmain.py -rm A -bd C:\KB\oomp-scripts\oomp-gen\parts\ -xa .oomp -ex C:\KB\oomp-scripts\oomp-gen\parts\ -tm template/OOMP-template.tmpl.html -of C:\KB\oomp-scripts\oomp-gen\parts\%%%%ID%%%%\%%%%ID%%%%-wiki.html
+
+
+
 
 REM
 REM      Generating Index Files
@@ -10,9 +21,9 @@ set extra=allParts
 python %TPGEdirectory%TPGEmain.py -bd C:\KB\oomp-scripts\oomp-gen\parts\ -xa .oomp -ex C:\KB\oomp-scripts\oomp-gen\parts\,C:\GH\oomlout-OOMP\ -tm template/OOMP-%extra%.tmpl.html -of C:\KB\oomp-scripts\oomp-gen\parts\%extra%-wiki.html
 	
 	REM PictureIndex
-REM python %TPGEdirectory%TPGEmain.py -bd C:\KB\oomp-scripts\oomp-gen\parts\ -xa .oomp -ex C:\KB\oomp-scripts\oomp-gen\parts\,C:\GH\oomlout-OOMP\ -tm template/OOMP-pictureIndex.tmpl.html -of C:\KB\oomp-scripts\oomp-gen\parts\pictureIndex-wiki.html
+python %TPGEdirectory%TPGEmain.py -bd C:\KB\oomp-scripts\oomp-gen\parts\ -xa .oomp -ex C:\KB\oomp-scripts\oomp-gen\parts\,C:\GH\oomlout-OOMP\ -tm template/OOMP-pictureIndex.tmpl.html -of C:\KB\oomp-scripts\oomp-gen\parts\pictureIndex-wiki.html
 	REM FamilyIndex
-REM python %TPGEdirectory%TPGEmain.py -bd C:\KB\oomp-scripts\oomp-gen\parts\ -xa .oomp -ex C:\KB\oomp-scripts\oomp-gen\parts\,C:\GH\oomlout-OOMP\ -tm template/OOMP-familyIndex.tmpl.html -of C:\KB\oomp-scripts\oomp-gen\parts\familyIndex-wiki.html
+python %TPGEdirectory%TPGEmain.py -bd C:\KB\oomp-scripts\oomp-gen\parts\ -xa .oomp -ex C:\KB\oomp-scripts\oomp-gen\parts\,C:\GH\oomlout-OOMP\ -tm template/OOMP-familyIndex.tmpl.html -of C:\KB\oomp-scripts\oomp-gen\parts\familyIndex-wiki.html
 
 
 REM
@@ -36,11 +47,3 @@ set extra=resources
 	REM All Parts
 python %TPGEdirectory%TPGEmain.py -bd C:\KB\oomp-scripts\oomp-gen\parts\ -xa .oomp -ex C:\KB\oomp-scripts\oomp-gen\parts\,C:\GH\oomlout-OOMP\ -tm template/OOMP-%extra%.tmpl.html -of C:\KB\oomp-scripts\oomp-gen\parts\%extra%-wiki.html
 		
-
-REM
-REM     Generating all part pages
-REM
-
-REM python %TPGEdirectory%TPGEmain.py -rm A -bd C:\KB\oomp-scripts\oomp-gen\parts\ -xa .oomp -ex C:\KB\oomp-scripts\oomp-gen\parts\ -tm template/OOMP-template.tmpl.html -of C:\KB\oomp-scripts\oomp-gen\parts\%%%%ID%%%%\%%%%ID%%%%-wiki.html
-
-
