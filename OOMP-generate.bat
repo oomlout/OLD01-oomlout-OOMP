@@ -7,7 +7,7 @@ REM
 REM     Generating all part pages
 REM
 
-python %TPGEdirectory%TPGEmain.py -rm A -bd C:\KB\oomp-scripts\oomp-gen\parts\ -xa .oomp -ex C:\KB\oomp-scripts\oomp-gen\parts\ -tm template/OOMP-template.tmpl.html -of C:\KB\oomp-scripts\oomp-gen\parts\%%%%ID%%%%\%%%%ID%%%%-wiki.html
+python %TPGEdirectory%TPGEmain.py -rm A -bd C:\KB\oomp-scripts\oomp-gen\parts\ -xa .oomp -ex C:\KB\oomp-scripts\oomp-gen\parts\,C:\GH\oomlout-OOMP\ -tm template/OOMP-template.tmpl.html -of C:\KB\oomp-scripts\oomp-gen\parts\%%%%ID%%%%\%%%%ID%%%%-wiki.html
 
 
 

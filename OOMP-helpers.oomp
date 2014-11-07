@@ -29,4 +29,13 @@
 			]]>
 			</value>
 	</oompBasic>
+	<oompBasic>
+		<type>bottomText</type>
+		<value><![CDATA[
+==Extra Details==
+Page last updated: {{CURRENTYEAR}}-{{CURRENTMONTH}}-{{CURRENTDAY2}} {{CURRENTTIME}}<br>
+Spotted a mistake, want to add more? Let us know oomp@oomlout.com
+			]]>
+			</value>
+	</oompBasic>
 </xml>

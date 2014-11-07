@@ -1,7 +1,8 @@
 @echo off
 set TPGEdirectory=C:\GH\oomlout-TPGE\
 set WIKBdirectory=C:\GH\oomlout-WIKB\
-set id=IDCS-I01-X-2X10-
+set id=CRHO-I01-B-03PI-01
+
 
 
 REM
@@ -17,7 +18,7 @@ python %WIKBdirectory%WIKBmain.py -si oomlout -bd C:\KB\oomp-scripts\oomp-gen\pa
 REM
 REM Generate Info Page
 REM
-set extra=familyIndex
+REM set extra=familyIndex
 	REM      Generate Page
 REM python %TPGEdirectory%TPGEmain.py -bd C:\KB\oomp-scripts\oomp-gen\parts\ -xa .oomp -ex C:\KB\oomp-scripts\oomp-gen\parts\,C:\GH\oomlout-OOMP\ -tm template/OOMP-%extra%.tmpl.html -of C:\KB\oomp-scripts\oomp-gen\parts\%extra%-wiki.html
 	
