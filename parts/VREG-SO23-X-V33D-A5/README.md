@@ -24,12 +24,12 @@ Description __V33D__ 3.3v
 Index: __A5__
 
 
- # Images
+# Images
 ![VREG-SO23-X-V33D-A5](http://oomlout.com/oomp-gen/parts/VREG-SO23-X-V33D-A5/VREG-SO23-X-V33D-A5_420.jpg)
 
 
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/VREG-SO23-X-V33D-A5
 

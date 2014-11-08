@@ -24,12 +24,12 @@ Description __L1000__ 1 m
 Index: __01__
 
 
- # Images
+# Images
 ![RIBC-WIRE-Z-L1000-01](http://oomlout.com/oomp-gen/parts/RIBC-WIRE-Z-L1000-01/RIBC-WIRE-Z-L1000-01_420.jpg)
 
 
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/RIBC-WIRE-Z-L1000-01
 

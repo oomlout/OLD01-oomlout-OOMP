@@ -24,12 +24,12 @@ Description __2X7__ 14 Pole (2x7)
 Index: __01__
 
 
- # Images
+# Images
 ![IDCS-I01-X-2X7-01](http://oomlout.com/oomp-gen/parts/IDCS-I01-X-2X7-01/IDCS-I01-X-2X7-01_420.jpg)
 
 
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/IDCS-I01-X-2X7-01
 

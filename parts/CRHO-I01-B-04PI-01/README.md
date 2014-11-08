@@ -24,14 +24,14 @@ Description __04PI__ 4 Pin
 Index: __01__
 
 
- # Images
+# Images
 ![CRHO-I01-B-04PI-01](http://oomlout.com/oomp-gen/parts/CRHO-I01-B-04PI-01/CRHO-I01-B-04PI-01_420.jpg)
 
 ## About
 
 These four pin connectors are often used simply when you find you have four wires that need connecting. That said a common usage is with data buses, most notably I2C (power (+/gnd) SDA, SCL), or they can also be found on stepper motors when they are being driven in bipolar mode (A+, A-, B+, B-).
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/CRHO-I01-B-04PI-01
 

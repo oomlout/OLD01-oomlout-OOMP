@@ -24,12 +24,12 @@ Description __A01__ 1 Amp
 Index: __V8__
 
 
- # Images
+# Images
 ![REFU-1206-X-A01-V8](http://oomlout.com/oomp-gen/parts/REFU-1206-X-A01-V8/REFU-1206-X-A01-V8_420.jpg)
 
 
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/REFU-1206-X-A01-V8
 

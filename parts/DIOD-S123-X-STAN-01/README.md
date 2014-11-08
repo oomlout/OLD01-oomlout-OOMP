@@ -24,12 +24,12 @@ Description __STAN__
 Index: __01__
 
 
- # Images
+# Images
 ![DIOD-S123-X-STAN-01](http://oomlout.com/oomp-gen/parts/DIOD-S123-X-STAN-01/DIOD-S123-X-STAN-01_420.jpg)
 
 
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/DIOD-S123-X-STAN-01
 

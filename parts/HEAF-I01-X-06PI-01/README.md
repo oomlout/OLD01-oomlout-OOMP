@@ -24,12 +24,12 @@ Description __06PI__ 6 Pin
 Index: __01__
 
 
- # Images
+# Images
 ![HEAF-I01-X-06PI-01](http://oomlout.com/oomp-gen/parts/HEAF-I01-X-06PI-01/HEAF-I01-X-06PI-01_420.jpg)
 
 
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAF-I01-X-06PI-01
 

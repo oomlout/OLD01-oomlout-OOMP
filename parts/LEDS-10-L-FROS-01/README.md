@@ -24,12 +24,12 @@ Description __FROS__ Frosted
 Index: __01__
 
 
- # Images
+# Images
 ![LEDS-10-L-FROS-01](http://oomlout.com/oomp-gen/parts/LEDS-10-L-FROS-01/LEDS-10-L-FROS-01_420.jpg)
 
 
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/LEDS-10-L-FROS-01
 

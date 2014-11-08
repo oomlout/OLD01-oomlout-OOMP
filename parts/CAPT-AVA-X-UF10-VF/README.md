@@ -24,12 +24,12 @@ Description __UF10__ 10 uF
 Index: __VF__
 
 
- # Images
+# Images
 ![CAPT-AVA-X-UF10-VF](http://oomlout.com/oomp-gen/parts/CAPT-AVA-X-UF10-VF/CAPT-AVA-X-UF10-VF_420.jpg)
 
 
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPT-AVA-X-UF10-VF
 

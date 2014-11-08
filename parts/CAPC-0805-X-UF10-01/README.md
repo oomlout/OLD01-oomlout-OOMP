@@ -24,12 +24,12 @@ Description __UF10__ 10 uF
 Index: __01__
 
 
- # Images
+# Images
 ![CAPC-0805-X-UF10-01](http://oomlout.com/oomp-gen/parts/CAPC-0805-X-UF10-01/CAPC-0805-X-UF10-01_420.jpg)
 
 
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPC-0805-X-UF10-01
 

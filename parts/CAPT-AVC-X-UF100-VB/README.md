@@ -24,12 +24,12 @@ Description __UF100__ 100 uF
 Index: __VB__
 
 
- # Images
+# Images
 ![CAPT-AVC-X-UF100-VB](http://oomlout.com/oomp-gen/parts/CAPT-AVC-X-UF100-VB/CAPT-AVC-X-UF100-VB_420.jpg)
 
 
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPT-AVC-X-UF100-VB
 

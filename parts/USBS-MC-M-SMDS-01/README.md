@@ -24,12 +24,12 @@ Description __SMDS__ SMD
 Index: __01__
 
 
- # Images
+# Images
 ![USBS-MC-M-SMDS-01](http://oomlout.com/oomp-gen/parts/USBS-MC-M-SMDS-01/USBS-MC-M-SMDS-01_420.jpg)
 
 
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/USBS-MC-M-SMDS-01
 

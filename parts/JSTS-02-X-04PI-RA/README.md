@@ -24,12 +24,12 @@ Description __04PI__ 4 Pin
 Index: __RA__
 
 
- # Images
+# Images
 ![JSTS-02-X-04PI-RA](http://oomlout.com/oomp-gen/parts/JSTS-02-X-04PI-RA/JSTS-02-X-04PI-RA_420.jpg)
 
 
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/JSTS-02-X-04PI-RA
 

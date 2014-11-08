@@ -25,6 +25,9 @@ python %WIKBdirectory%WIKBmain.py -si oomlout -bd C:\KB\oomp-scripts\oomp-gen\pa
 	REM FamilyIndex
 python %WIKBdirectory%WIKBmain.py -si oomlout -bd C:\KB\oomp-scripts\oomp-gen\parts\familyIndex-wiki.html -wb projects/oomp/familyIndex 
 
+	REm Completness Test
+set extra=completenessIndex
+python %WIKBdirectory%WIKBmain.py -si oomlout -bd C:\KB\oomp-scripts\oomp-gen\parts\%extra%-wiki.html -wb projects/oomp/%extra%
 
 
 REM

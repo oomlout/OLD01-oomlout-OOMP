@@ -24,12 +24,12 @@ Description __UF22__ 22 uF
 Index: __VA__
 
 
- # Images
+# Images
 ![CAPT-AVC-X-UF22-VA](http://oomlout.com/oomp-gen/parts/CAPT-AVC-X-UF22-VA/CAPT-AVC-X-UF22-VA_420.jpg)
 
 
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPT-AVC-X-UF22-VA
 

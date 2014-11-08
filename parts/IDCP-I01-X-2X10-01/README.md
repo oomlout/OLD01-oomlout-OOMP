@@ -24,12 +24,12 @@ Description __2X10__ 20 Pole (2x10)
 Index: __01__
 
 
- # Images
+# Images
 ![IDCP-I01-X-2X10-01](http://oomlout.com/oomp-gen/parts/IDCP-I01-X-2X10-01/IDCP-I01-X-2X10-01_420.jpg)
 
 
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/IDCP-I01-X-2X10-01
 

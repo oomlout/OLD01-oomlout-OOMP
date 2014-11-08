@@ -24,12 +24,12 @@ Description __A05D__ 500 mA
 Index: __01__
 
 
- # Images
+# Images
 ![DIOS-S123-X-A05D-01](http://oomlout.com/oomp-gen/parts/DIOS-S123-X-A05D-01/DIOS-S123-X-A05D-01_420.jpg)
 
 
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/DIOS-S123-X-A05D-01
 

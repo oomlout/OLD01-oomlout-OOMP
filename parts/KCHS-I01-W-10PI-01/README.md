@@ -24,12 +24,12 @@ Description __10PI__ 10 Pin
 Index: __01__
 
 
- # Images
+# Images
 ![KCHS-I01-W-10PI-01](http://oomlout.com/oomp-gen/parts/KCHS-I01-W-10PI-01/KCHS-I01-W-10PI-01_420.jpg)
 
 
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/KCHS-I01-W-10PI-01
 

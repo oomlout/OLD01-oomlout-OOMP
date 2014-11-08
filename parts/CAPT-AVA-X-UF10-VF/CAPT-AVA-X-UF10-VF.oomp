@@ -95,7 +95,44 @@
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>
         <ooSEEED3dModel></ooSEEED3dModel>
-
+		<sourceList>
+			<manufacturer>
+				<company>AVX</company>
+				<companyCode>C-ACXX</companyCode>
+				<name></name>
+				<partID>TAJA106K016RNJ</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+				
+			<bigDistributor>
+				<company>DigiKey</company>
+				<companyCode>C-DIGK</companyCode>
+				<name>CAP TANT 10UF 16V 10% 1206</name>
+				<partID>478-1655-1-ND</partID>
+				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/TAJA106K016RNJ/478-1655-1-ND/564687]]></link>
+				<note></note>
+			</bigDistributor>					
+			<bigDistributor>
+				<company>Mouser</company>
+				<companyCode>C-MOUS</companyCode>
+				<name>Tantalum Capacitors - Solid SMD 16volts 10uF 10%</name>
+				<partID>581-TAJA106K016R</partID>
+				<link><![CDATA[http://uk.mouser.com/ProductDetail/AVX/TAJA106K016RNJ/?qs=sGAEpiMZZMuEN2agSAc2pmRv4r8cj6yFp4GfU7lrKPQ%3d]]></link>
+				<note></note>
+			</bigDistributor>					
+		</sourceList>
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD CAP Tantalum 10uF-16V 10%</oplName>
+				<oplID>0130050P1</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage>AVX-A</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Capacitor]]></oplLink>
+			</oplSystem>
+		</oplList>
 
 <!-- -->
 

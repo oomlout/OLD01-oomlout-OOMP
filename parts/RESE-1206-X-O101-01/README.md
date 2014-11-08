@@ -24,12 +24,12 @@ Description __O101__ 100 Ohm
 Index: __01__
 
 
- # Images
+# Images
 ![RESE-1206-X-O101-01](http://oomlout.com/oomp-gen/parts/RESE-1206-X-O101-01/RESE-1206-X-O101-01_420.jpg)
 
 
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-1206-X-O101-01
 

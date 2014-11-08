@@ -24,12 +24,12 @@ Description __2X13__ 26 Pole (2x13)
 Index: __01__
 
 
- # Images
+# Images
 ![IDCP-I01-X-2X13-01](http://oomlout.com/oomp-gen/parts/IDCP-I01-X-2X13-01/IDCP-I01-X-2X13-01_420.jpg)
 
 
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/IDCP-I01-X-2X13-01
 

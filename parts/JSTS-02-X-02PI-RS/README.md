@@ -24,12 +24,12 @@ Description __02PI__ 2 Pin
 Index: __RS__
 
 
- # Images
+# Images
 ![JSTS-02-X-02PI-RS](http://oomlout.com/oomp-gen/parts/JSTS-02-X-02PI-RS/JSTS-02-X-02PI-RS_420.jpg)
 
 
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/JSTS-02-X-02PI-RS
 

@@ -24,12 +24,12 @@ Description __K328__ AtMega328P
 Index: __01__
 
 
- # Images
+# Images
 ![ICIC-DI28-X-K328-01](http://oomlout.com/oomp-gen/parts/ICIC-DI28-X-K328-01/ICIC-DI28-X-K328-01_420.jpg)
 
 
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/ICIC-DI28-X-K328-01
 

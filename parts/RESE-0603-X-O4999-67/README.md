@@ -27,7 +27,6 @@ Index: ____
 
 
 
- ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-0603-X-O4999-67
 

@@ -24,14 +24,14 @@ Description __08PI__ 8 Pin
 Index: __01__
 
 
- # Images
+# Images
 ![CRHO-I01-B-08PI-01](http://oomlout.com/oomp-gen/parts/CRHO-I01-B-08PI-01/CRHO-I01-B-08PI-01_420.jpg)
 
 ## About
 
 These eight pin connectors are often used simply when you find you have eight wires that need connecting. However if you know of a common usage please let us know.
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/CRHO-I01-B-08PI-01
 

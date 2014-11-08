@@ -27,7 +27,6 @@ Index: ____
 
 
 
- ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/LEDS-05-R-TINT-01
 

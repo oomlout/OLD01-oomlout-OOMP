@@ -24,12 +24,12 @@ Description __2x4P__
 Index: __01__
 
 
- # Images
+# Images
 ![IDCC-I01-X-2x4P-01](http://oomlout.com/oomp-gen/parts/IDCC-I01-X-2x4P-01/IDCC-I01-X-2x4P-01_420.jpg)
 
 
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/IDCC-I01-X-2x4P-01
 

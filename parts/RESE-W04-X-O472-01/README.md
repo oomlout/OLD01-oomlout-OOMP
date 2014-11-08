@@ -24,12 +24,12 @@ Description __O472__ 4.7k Ohm
 Index: __01__
 
 
- # Images
+# Images
 ![RESE-W04-X-O472-01](http://oomlout.com/oomp-gen/parts/RESE-W04-X-O472-01/RESE-W04-X-O472-01_420.jpg)
 
 
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-W04-X-O472-01
 

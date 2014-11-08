@@ -24,12 +24,12 @@ Description __A05D__ 500 mA
 Index: __V8__
 
 
- # Images
+# Images
 ![REFU-1206-X-A05D-V8](http://oomlout.com/oomp-gen/parts/REFU-1206-X-A05D-V8/REFU-1206-X-A05D-V8_420.jpg)
 
 
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/REFU-1206-X-A05D-V8
 

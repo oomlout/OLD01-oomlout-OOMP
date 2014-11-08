@@ -24,12 +24,12 @@ Description __A01__ 1 Amp
 Index: __01__
 
 
- # Images
+# Images
 ![DIOS-D214-X-A01-01](http://oomlout.com/oomp-gen/parts/DIOS-D214-X-A01-01/DIOS-D214-X-A01-01_420.jpg)
 
 
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/DIOS-D214-X-A01-01
 

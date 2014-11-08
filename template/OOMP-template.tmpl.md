@@ -25,7 +25,7 @@ Description __@@%%ID%%,oompPart.oompID,oompDesc@@__ @@@1%%ID%%,oompPart.oompID,o
 Index: __@@%%ID%%,oompPart.oompID,oompIndex@@__
 
 
- **%%ID%%,oompPart.oompID,oompID**# Images
+**%%ID%%,oompPart.oompID,oompID**# Images
 ![%%ID%%](http://oomlout.com/oomp-gen/parts/%%ID%%/%%ID%%_420.jpg)
 #$$%%ID%%_RE.jpg$$<span class="plainlinks">[http://oomlout.com/oomp-gen/parts/%%ID%%/%%ID%%_RE.jpg http://oomlout.com/oomp-gen/parts/%%ID%%/%%ID%%_RE_140.jpg]</span>
 #$$%%ID%%_01.jpg$$<span class="plainlinks">[http://oomlout.com/oomp-gen/parts/%%ID%%/%%ID%%_01.jpg http://oomlout.com/oomp-gen/parts/%%ID%%/%%ID%%_01_140.jpg]</span>
@@ -36,7 +36,7 @@ Index: __@@%%ID%%,oompPart.oompID,oompIndex@@__
 
 **%%ID%%,oompPart.oompID,oompAbout**@@%%ID%%,oompPart.oompID,oompAbout@@
 
- ## Full Details
+**%%ID%%,oompPart.oompID,oompID**## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/%%ID%%
 

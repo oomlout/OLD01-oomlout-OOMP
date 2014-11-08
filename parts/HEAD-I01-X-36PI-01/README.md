@@ -24,14 +24,14 @@ Description __36PI__ 36 Pin
 Index: __01__
 
 
- # Images
+# Images
 ![HEAD-I01-X-36PI-01](http://oomlout.com/oomp-gen/parts/HEAD-I01-X-36PI-01/HEAD-I01-X-36PI-01_420.jpg)
 
 ## About
 
 These 36 pin strips are by far the most common length. They are designed to be snapped to any length (using either pliers or snips) so are the most useful to have in your toolbox.
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAD-I01-X-36PI-01
 

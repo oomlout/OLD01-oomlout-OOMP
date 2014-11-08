@@ -75,7 +75,45 @@
 <!--SEEED OPL (Open Parts Library) -->
         <ooSEEEDsku>0130170P1</ooSEEEDsku>
         <ooSEEEDdesc>SMD CAP Tantalum 100uF-10V 10%</ooSEEEDdesc>
-
+		<sourceList>
+			<manufacturer>
+				<company>AVX</company>
+				<companyCode>C-AVXX</companyCode>
+				<name></name>
+				<partID></partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+				
+			<bigDistributor>
+				<company>DigiKey</company>
+				<companyCode>C-DIGK</companyCode>
+				<name>CAP TANT 100UF 10V 10% 2312</name>
+				<partID>478-1704-1-ND</partID>
+				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/TAJC107K010RNJ/478-1704-1-ND/564736]]></link>
+				<note></note>
+			</bigDistributor>					
+			<bigDistributor>
+				<company>Mouser</company>
+				<companyCode>C-MOUS</companyCode>
+				<name>Tantalum Capacitors - Solid SMD 10volts 100uF 10%</name>
+				<partID>581-TAJC107K010R</partID>
+				<link><![CDATA[http://uk.mouser.com/ProductDetail/AVX/TAJC107K010RNJ/?qs=sGAEpiMZZMuEN2agSAc2puzB8URFjVxw2am8tcMhFvs%3d]]></link>
+				<note></note>
+			</bigDistributor>					
+		</sourceList>
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD CAP Tantalum 100uF-10V 10</oplName>
+				<oplID>0130170P1</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage>AVX-C</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Capacitor]]></oplLink>
+			</oplSystem>
+		</oplList>
+			
 
 <!--Hidden -->
         <oompVersion></oompVersion>

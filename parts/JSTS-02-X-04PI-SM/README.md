@@ -24,12 +24,12 @@ Description __04PI__ 4 Pin
 Index: __SM__
 
 
- # Images
+# Images
 ![JSTS-02-X-04PI-SM](http://oomlout.com/oomp-gen/parts/JSTS-02-X-04PI-SM/JSTS-02-X-04PI-SM_420.jpg)
 
 
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/JSTS-02-X-04PI-SM
 

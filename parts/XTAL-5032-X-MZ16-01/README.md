@@ -24,12 +24,12 @@ Description __MZ16__ 16 MHz
 Index: __01__
 
 
- # Images
+# Images
 ![XTAL-5032-X-MZ16-01](http://oomlout.com/oomp-gen/parts/XTAL-5032-X-MZ16-01/XTAL-5032-X-MZ16-01_420.jpg)
 
 
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/XTAL-5032-X-MZ16-01
 

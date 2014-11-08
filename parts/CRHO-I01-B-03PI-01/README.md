@@ -24,14 +24,14 @@ Description __03PI__ 3 Pin
 Index: __01__
 
 
- # Images
+# Images
 ![CRHO-I01-B-03PI-01](http://oomlout.com/oomp-gen/parts/CRHO-I01-B-03PI-01/CRHO-I01-B-03PI-01_420.jpg)
 
 ## About
 
 This three pin housing is great for connecting externally mounted potentiometers. Also commonly found on hobby servos or any item requiring power (+,gnd) and a signal line. (WS2812 LED strings, analog temperature sensors etc.)
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/CRHO-I01-B-03PI-01
 

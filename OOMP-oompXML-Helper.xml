@@ -102,8 +102,8 @@
 	<!--Put this in -->
 		<sourceList>
 			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
+				<company>Yageo</company>
+				<companyCode>C-YAGE</companyCode>
 				<name></name>
 				<partID></partID>
 				<link></link>
@@ -111,11 +111,19 @@
 			</manufacturer>
 				
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
+				<company>DigiKey</company>
+				<companyCode>C-DIGK</companyCode>
 				<name></name>
 				<partID></partID>
-				<link></link>
+				<link><![CDATA[ ]]></link>
+				<note></note>
+			</bigDistributor>					
+			<bigDistributor>
+				<company>Mouser</company>
+				<companyCode>C-MOUS</companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[ ]]></link>
 				<note></note>
 			</bigDistributor>					
 		</sourceList>
@@ -127,7 +135,7 @@
 				<oplID></oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
-				<oplLink></oplLink>
+				<oplLink><![CDATA[ ]]></oplLink>
 			</oplSystem>
 		</oplList>
 			

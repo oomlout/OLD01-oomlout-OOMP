@@ -24,14 +24,14 @@ Description __06PI__ 6 Pin
 Index: __01__
 
 
- # Images
+# Images
 ![CRHO-I01-B-06PI-01](http://oomlout.com/oomp-gen/parts/CRHO-I01-B-06PI-01/CRHO-I01-B-06PI-01_420.jpg)
 
 ## About
 
 These six pin connectors are often used simply when you find you have six wires that need connecting. However they can occasionally be found on a stepper motor being driven in uni-polar mode (A,B,ABCom,C,D,CDCom), or are also handy when paired with a ten pin connector to attach a parallel LCD screen to a project.
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/CRHO-I01-B-06PI-01
 

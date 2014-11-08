@@ -24,12 +24,12 @@ Description __20__ x 20 mm
 Index: __70__
 
 
- # Images
+# Images
 ![NSCR-M3-X-20-70](http://oomlout.com/oomp-gen/parts/NSCR-M3-X-20-70/NSCR-M3-X-20-70_420.jpg)
 
 
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/NSCR-M3-X-20-70
 

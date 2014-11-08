@@ -24,12 +24,12 @@ Description __O271__ 270 Ohm
 Index: __01__
 
 
- # Images
+# Images
 ![RESE-W04-X-O271-01](http://oomlout.com/oomp-gen/parts/RESE-W04-X-O271-01/RESE-W04-X-O271-01_420.jpg)
 
 
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-W04-X-O271-01
 

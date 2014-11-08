@@ -24,14 +24,14 @@ Description __02PI__ 2 Pin
 Index: __01__
 
 
- # Images
+# Images
 ![CRHO-I01-B-02PI-01](http://oomlout.com/oomp-gen/parts/CRHO-I01-B-02PI-01/CRHO-I01-B-02PI-01_420.jpg)
 
 ## About
 
 This two pin housing is most often used for connecting power to a project. When doing this it's best to use the convention of red for positive, and black for ground. Another common usage is when connecting an externally mounted button.
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/CRHO-I01-B-02PI-01
 

@@ -24,12 +24,12 @@ Description __K125__ Quad Buffer
 Index: __01__
 
 
- # Images
+# Images
 ![ICIC-TS14-X-K125-01](http://oomlout.com/oomp-gen/parts/ICIC-TS14-X-K125-01/ICIC-TS14-X-K125-01_420.jpg)
 
 
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/ICIC-TS14-X-K125-01
 

@@ -24,12 +24,12 @@ Description __DPDT__ DPDT
 Index: __01__
 
 
- # Images
+# Images
 ![SWIS-09-X-DPDT-01](http://oomlout.com/oomp-gen/parts/SWIS-09-X-DPDT-01/SWIS-09-X-DPDT-01_420.jpg)
 
 
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/SWIS-09-X-DPDT-01
 

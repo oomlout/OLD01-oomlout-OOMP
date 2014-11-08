@@ -24,12 +24,12 @@ Description __SMDS__ SMD
 Index: __01__
 
 
- # Images
+# Images
 ![BUTP-07-X-SMDS-01](http://oomlout.com/oomp-gen/parts/BUTP-07-X-SMDS-01/BUTP-07-X-SMDS-01_420.jpg)
 
 
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/BUTP-07-X-SMDS-01
 

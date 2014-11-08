@@ -24,12 +24,12 @@ Description __300L__
 Index: __01__
 
 
- # Images
+# Images
 ![RIBC-W40-Z-300L-01](http://oomlout.com/oomp-gen/parts/RIBC-W40-Z-300L-01/RIBC-W40-Z-300L-01_420.jpg)
 
 
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/RIBC-W40-Z-300L-01
 

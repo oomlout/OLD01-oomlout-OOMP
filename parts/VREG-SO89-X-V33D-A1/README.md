@@ -24,12 +24,12 @@ Description __V33D__ 3.3v
 Index: __A1__
 
 
- # Images
+# Images
 ![VREG-SO89-X-V33D-A1](http://oomlout.com/oomp-gen/parts/VREG-SO89-X-V33D-A1/VREG-SO89-X-V33D-A1_420.jpg)
 
 
 
- ## Full Details
+## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/VREG-SO89-X-V33D-A1
 
