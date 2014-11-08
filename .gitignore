@@ -2,10 +2,10 @@
 ## OOMLOUT
 #################
 
-.jpg
-.pdf
-.zip
-
+*.jpg
+*.pdf
+*.zip
+/tmp
 
 #################
 ## Eclipse
@@ -204,7 +204,7 @@ $RECYCLE.BIN/
 dist/
 build/
 eggs/
-parts/
+#parts/
 var/
 sdist/
 develop-eggs/
