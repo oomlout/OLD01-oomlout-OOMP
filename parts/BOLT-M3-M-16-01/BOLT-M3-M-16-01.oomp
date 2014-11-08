@@ -75,7 +75,34 @@
 <!--SEEED OPL (Open Parts Library) -->
         <ooSEEEDsku></ooSEEEDsku>
         <ooSEEEDdesc></ooSEEEDdesc>
-
+		
+		<sourceList>
+			<manufacturer>
+				<company>Duratool</company>
+				<companyCode></companyCode>
+				<name>Screw, Pozi Pan, Steel, BZP, M3X16</name>
+				<partID>M316 PRSTMCZ100-</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+				
+			<bigDistributor>
+				<company>Farnell</company>
+				<companyCode>C-FARN</companyCode>
+				<name>DURATOOL - M316 PRSTMCZ100- - SCREW, POZI PAN, STEEL, BZP, M3X16</name>
+				<partID>1420393</partID>
+				<link>http://uk.farnell.com/duratool/m316-prstmcz100/screw-pozi-pan-steel-bzp-m3x16/dp/1420393?Ntt=SCREW%2C+POZI+PAN%2C+STEEL%2C+BZP%2C+M3X16</link>
+				<note></note>
+			</bigDistributor>					
+		</sourceList>
+		<oplList>
+			<oplSystem>
+				<oplScheme></oplScheme>
+				<oplCode></oplCode>
+				<oplName></oplName>
+				<oplID></oplID>
+			</oplSystem>
+		</oplList>
 
 <!--Hidden -->
         <oompVersion></oompVersion>

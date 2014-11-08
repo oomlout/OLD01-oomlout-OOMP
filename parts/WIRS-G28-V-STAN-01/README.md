@@ -1,0 +1,35 @@
+
+
+ ## Summary
+Name: __28 AWG Purple Stranded Wire__
+ID: __WIRS-G28-V-STAN-01__
+Hex ID: __1051__
+WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/WIRS-G28-V-STAN-01__
+Short URL: __http://oom.lt/1051__
+
+Type: __WIRS__ Stranded Wire 
+Size: __G28__ 28 AWG 
+Color: __V__ Purple 
+Description __STAN__  
+Index: __01__
+
+
+(http://oomlout.com/oomp-gen/parts/WIRS-G28-V-STAN-01/WIRS-G28-V-STAN-01_420.jpg)
+
+
+ ## Full Details
+ http://learn.oomlout.co.uk/OO/Projects/oomp/part/WIRS-G28-V-STAN-01
+
+
+
+
+
+
+
+
+
+
+
+
+
+
