@@ -1,0 +1,23 @@
+<xml>
+    <oompPart>
+            <oompID>CRHO-I01-B-12PI-01</oompID>
+            <name>2.54 mm 12 Pin Black Crimp Housing</name>
+            <hexID>DA0C</hexID>
+			<otherSupplier partNumber=""></otherSupplier>
+            <partNumberFarnell></partNumberFarnell>
+            <oompType>CRHO</oompType>
+            <oompSize>I01</oompSize>
+            <oompColor>B</oompColor>
+            <oompDesc>12PI</oompDesc>
+            <oompIndex>01</oompIndex>
+            <ooPitch>2.54 mm</ooPitch>
+            <ooMaxCurrent>3 A</ooMaxCurrent>
+            <ooMaxVoltage>250 V</ooMaxVoltage>
+            <ooWidth>30.68 mm</ooWidth>
+            <ooHeight>14 mm</ooHeight>
+            <ooDepth>2.5 mm</ooDepth>
+            <ooMaterial>Plastic</ooMaterial>
+			<otherSupplier partNumber="02052">C-4UCN</otherSupplier>		
+			<oompVersion>10</oompVersion>			
+    </oompPart>
+</xml>

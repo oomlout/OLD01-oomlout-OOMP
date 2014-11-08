@@ -1,0 +1,162 @@
+table, th, td
+{
+	/*border: 1px solid black;*/
+	border-spacing:0px 0px;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-left:0px;
+	padding-right:0px;
+}
+
+#oompMain{
+	width:100%;
+	font-family:Verdana, sans-serif;
+	color:#000000;
+}
+
+.fixedWidth {
+    table-layout: fixed;
+}
+.tableTop {
+    vertical-align: top;
+}
+
+.oompReverseColors{
+	color:#FFFFFF;
+	background-color:#555;
+}
+
+.oompDescText{
+	font-size: 20px;
+	line-height:150%;
+	text-align:center;
+	font-weight:bold;
+}
+
+
+
+.oompIDText{
+	color:#FFFFFF;
+	background-color:#555;
+	font-size: 20px;
+	line-height:110%;
+	text-align:center;
+	font-weight:bold;
+	transform:rotate(90deg);
+	-ms-transform:rotate(90deg); /* IE 9 */
+	-webkit-transform:rotate(90deg); /* Safari and Chrome */
+}
+
+
+.oompBigLetterText{
+	font-size: 50px;
+	font-weight:bold;
+}
+
+.oompHexCodeText{
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.oompNameText{
+	padding-left:5px;
+	padding-right:5px;
+	font-size: 10px;
+}
+
+.oompValueText{
+	padding-left:5px;
+	padding-right:5px;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: right;
+}
+
+.oompLink{
+	font-weight:normal;
+	font-size: 14px;
+	text-align: center;
+	color:#FFFFFF;
+	background-color:#555;
+	line-height:150%;
+}
+
+.oompTitle2{
+	color:#FFFFFF;
+	background-color:#555;
+	font-weight:bold;
+	font-size: 14px;
+	line-height:150%;
+	text-align: center;
+}
+
+.aboutText{
+	padding-top:15px;
+	padding-bottom:15px;
+	padding-left:15px;
+	padding-right:15px;
+	color:#000000;
+	background-color:#FFFFFF;
+	font-weight:normal;
+	font-size: 14px;
+	line-height:140%;
+	text-align: left;
+}
+.sourcingText{
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-left:5px;
+	padding-right:5px;
+	color:#000000;
+	background-color:#FFFFFF;
+	font-weight:normal;
+	font-size: 14px;
+	line-height:130%;
+	text-align: center;
+}
+
+
+.oompText{
+	font-weight:normal;
+	font-size: 14px;
+	line-height:120%;
+	text-align: center;
+}
+
+
+
+.oompResourceTitle{
+	color:#FFFFFF;
+	background-color:#555;
+	font-weight:bold;
+	font-size: 14px;
+	line-height:120%;
+	text-align: center;
+}
+
+a:link:hover, a:visited:hover, a:link:focus, a:visited:focus, a:link:active, a:visited:active {
+    text-decoration: none;
+}
+
+.oompResourceText{
+	font-weight:bold;
+	font-size: 12px;
+	line-height:150%;
+	text-align: center;
+}
+
+.oompSmall{
+	font-weight:bold;
+	font-size: 10px;
+}
+
+.oompIndexHex{
+	font-weight:bold;
+	font-size: 16px;
+	line-height:200%;
+}
+
+.oompIndexLlink{
+	font-weight:bold;
+	font-size: 10px;
+}

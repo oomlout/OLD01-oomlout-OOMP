@@ -1,0 +1,2136 @@
+<xml>
+	<oompSize>
+            <code>0603</code>
+            <name>SMD (0603)</name>
+    </oompSize>
+    <oompSize>
+            <code>0805</code>
+            <name>SMD (0805)</name>
+    </oompSize>
+    <oompSize>
+            <code>1206</code>
+            <name>SMD (1206)</name>
+    </oompSize>
+    <oompSize>
+            <code>1812</code>
+            <name>SMD (1812)</name>
+    </oompSize>
+    <oompSize>
+            <code>1268</code>
+            <name>SMD (1206-8)</name>
+    </oompSize>
+    <oompSize>
+            <code>D214</code>
+            <name>SMD (DO-214)</name>
+    </oompSize>
+	<oompSize>
+            <code>MMA</code>
+            <name>SMD (Mini MELF)</name>
+    </oompSize>
+	    <oompSize>
+            <code>5032</code>
+            <name>SMD (5032)</name>
+    </oompSize>
+    <oompSize>
+            <code>AVA</code>
+            <name>SMD (AVX-A)</name>
+    </oompSize>
+    <oompSize>
+            <code>AVB</code>
+            <name>SMD (AVX-B)</name>
+    </oompSize>
+    <oompSize>
+            <code>AVC</code>
+            <name>SMD (AVX-C)</name>
+    </oompSize>
+    <oompSize>
+            <code>S123</code>
+            <name>SMD (SOD-123)</name>
+    </oompSize>	
+    <oompSize>
+            <code>SO123</code>
+            <name>SMD (SOT-123)</name>
+    </oompSize>	
+	    <oompSize>
+            <code>SO223</code>
+            <name>SMD (SOT-223)</name>
+    </oompSize>	
+	
+    <oompSize>
+            <code>SO23</code>
+            <name>SMD (SOT-23)</name>
+    </oompSize>	
+    <oompSize>
+            <code>SO89</code>
+            <name>SMD (SOT-89)</name>
+    </oompSize>	
+	<oompSize>
+			<code>T92</code>
+			<name>TO-92</name>
+    </oompSize>
+	<oompSize>
+			<code>T252</code>
+			<name>TO-252</name>
+    </oompSize>
+	<oompSize>	
+			<code>G28</code>
+			<name>28 AWG</name>	
+	</oompSize>
+	<oompSize>
+            <code>P400</code>
+            <name>400 Point</name>
+    </oompSize>
+    <oompSize>
+            <code>P830</code>
+            <name>830 Point</name>
+    </oompSize>
+    <oompSize>
+            <code>W04</code>
+            <name>1/4 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W08</code>
+            <name>1/8 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W1</code>
+            <name>1 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W2</code>
+            <name>2 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W3</code>
+            <name>3 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W4</code>
+            <name>4 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W5</code>
+            <name>5 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W6</code>
+            <name>6 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W7</code>
+            <name>7 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W8</code>
+            <name>8 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W9</code>
+            <name>9 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W10</code>
+            <name>10 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W11</code>
+            <name>11 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W12</code>
+            <name>12 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W13</code>
+            <name>13 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W14</code>
+            <name>14 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W15</code>
+            <name>15 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W16</code>
+            <name>16 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W17</code>
+            <name>17 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W18</code>
+            <name>18 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W19</code>
+            <name>19 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W20</code>
+            <name>20 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W21</code>
+            <name>21 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W22</code>
+            <name>22 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W23</code>
+            <name>23 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W24</code>
+            <name>24 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W25</code>
+            <name>25 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W26</code>
+            <name>26 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W27</code>
+            <name>27 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W28</code>
+            <name>28 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W29</code>
+            <name>29 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W30</code>
+            <name>30 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W31</code>
+            <name>31 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W32</code>
+            <name>32 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W33</code>
+            <name>33 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W34</code>
+            <name>34 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W35</code>
+            <name>35 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W36</code>
+            <name>36 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W37</code>
+            <name>37 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W38</code>
+            <name>38 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W39</code>
+            <name>39 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W40</code>
+            <name>40 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W41</code>
+            <name>41 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W42</code>
+            <name>42 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W43</code>
+            <name>43 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W44</code>
+            <name>44 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W45</code>
+            <name>45 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W46</code>
+            <name>46 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W47</code>
+            <name>47 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W48</code>
+            <name>48 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W49</code>
+            <name>49 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W50</code>
+            <name>50 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W51</code>
+            <name>51 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W52</code>
+            <name>52 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W53</code>
+            <name>53 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W54</code>
+            <name>54 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W55</code>
+            <name>55 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W56</code>
+            <name>56 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W57</code>
+            <name>57 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W58</code>
+            <name>58 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W59</code>
+            <name>59 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W60</code>
+            <name>60 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W61</code>
+            <name>61 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W62</code>
+            <name>62 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W63</code>
+            <name>63 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W64</code>
+            <name>64 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W65</code>
+            <name>65 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W66</code>
+            <name>66 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W67</code>
+            <name>67 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W68</code>
+            <name>68 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W69</code>
+            <name>69 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W70</code>
+            <name>70 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W71</code>
+            <name>71 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W72</code>
+            <name>72 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W73</code>
+            <name>73 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W74</code>
+            <name>74 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W75</code>
+            <name>75 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W76</code>
+            <name>76 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W77</code>
+            <name>77 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W78</code>
+            <name>78 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W79</code>
+            <name>79 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W80</code>
+            <name>80 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W81</code>
+            <name>81 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W82</code>
+            <name>82 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W83</code>
+            <name>83 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W84</code>
+            <name>84 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W85</code>
+            <name>85 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W86</code>
+            <name>86 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W87</code>
+            <name>87 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W88</code>
+            <name>88 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W89</code>
+            <name>89 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W90</code>
+            <name>90 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W91</code>
+            <name>91 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W92</code>
+            <name>92 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W93</code>
+            <name>93 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W94</code>
+            <name>94 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W95</code>
+            <name>95 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W96</code>
+            <name>96 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W97</code>
+            <name>97 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W98</code>
+            <name>98 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>W99</code>
+            <name>99 Watt</name>
+    </oompSize>
+    <oompSize>
+            <code>TH</code>
+            <name></name>
+    </oompSize>
+	    <oompSize>
+            <code>SM</code>
+            <name></name>
+    </oompSize>
+	<oompSize>
+            <code>MC</code>
+            <name>Micro</name>
+    </oompSize>
+	<oompSize>
+            <code>MN</code>
+            <name>Mini</name>
+    </oompSize>
+    <oompSize>
+            <code>SC</code>
+            <name>Solid</name>
+    </oompSize>
+    <oompSize>
+            <code>01D</code>
+            <name>0.1 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>02D</code>
+            <name>0.2 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>03D</code>
+            <name>0.3 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>04D</code>
+            <name>0.4 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>05D</code>
+            <name>0.5 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>06D</code>
+            <name>0.6 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>07D</code>
+            <name>0.7 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>08D</code>
+            <name>0.8 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>09D</code>
+            <name>0.9 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>10D</code>
+            <name>1 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>11D</code>
+            <name>1.1 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>12D</code>
+            <name>1.2 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>13D</code>
+            <name>1.3 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>14D</code>
+            <name>1.4 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>15D</code>
+            <name>1.5 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>16D</code>
+            <name>1.6 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>17D</code>
+            <name>1.7 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>18D</code>
+            <name>1.8 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>19D</code>
+            <name>1.9 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>20D</code>
+            <name>2 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>21D</code>
+            <name>2.1 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>22D</code>
+            <name>2.2 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>23D</code>
+            <name>2.3 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>24D</code>
+            <name>2.4 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>25D</code>
+            <name>2.5 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>26D</code>
+            <name>2.6 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>27D</code>
+            <name>2.7 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>28D</code>
+            <name>2.8 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>29D</code>
+            <name>2.9 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>30D</code>
+            <name>3.0 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>35D</code>
+            <name>3.5 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>I01</code>
+            <name>2.54 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>I02</code>
+            <name>5.08 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>I03</code>
+            <name>7.62 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>I04</code>
+            <name>10.16 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>I05</code>
+            <name>12.7 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>I06</code>
+            <name>15.24 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>I07</code>
+            <name>17.78 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>I08</code>
+            <name>20.32 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>I09</code>
+            <name>22.86 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>01</code>
+            <name>1 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>02</code>
+            <name>2 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>03</code>
+            <name>3 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>04</code>
+            <name>4 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>05</code>
+            <name>5 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>06</code>
+            <name>6 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>07</code>
+            <name>7 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>08</code>
+            <name>8 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>09</code>
+            <name>9 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>10</code>
+            <name>10 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>11</code>
+            <name>11 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>12</code>
+            <name>12 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>13</code>
+            <name>13 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>14</code>
+            <name>14 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>15</code>
+            <name>15 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>16</code>
+            <name>16 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>17</code>
+            <name>17 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>18</code>
+            <name>18 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>19</code>
+            <name>19 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>20</code>
+            <name>20 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>21</code>
+            <name>21 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>22</code>
+            <name>22 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>23</code>
+            <name>23 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>24</code>
+            <name>24 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>25</code>
+            <name>25 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>26</code>
+            <name>26 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>27</code>
+            <name>27 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>28</code>
+            <name>28 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>29</code>
+            <name>29 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>30</code>
+            <name>30 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>31</code>
+            <name>31 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>32</code>
+            <name>32 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>33</code>
+            <name>33 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>34</code>
+            <name>34 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>35</code>
+            <name>35 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>36</code>
+            <name>36 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>37</code>
+            <name>37 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>38</code>
+            <name>38 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>39</code>
+            <name>39 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>40</code>
+            <name>40 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>41</code>
+            <name>41 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>42</code>
+            <name>42 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>43</code>
+            <name>43 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>44</code>
+            <name>44 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>45</code>
+            <name>45 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>46</code>
+            <name>46 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>47</code>
+            <name>47 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>48</code>
+            <name>48 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>49</code>
+            <name>49 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>50</code>
+            <name>50 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>51</code>
+            <name>51 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>52</code>
+            <name>52 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>53</code>
+            <name>53 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>54</code>
+            <name>54 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>55</code>
+            <name>55 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>56</code>
+            <name>56 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>57</code>
+            <name>57 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>58</code>
+            <name>58 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>59</code>
+            <name>59 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>60</code>
+            <name>60 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>61</code>
+            <name>61 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>62</code>
+            <name>62 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>63</code>
+            <name>63 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>64</code>
+            <name>64 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>65</code>
+            <name>65 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>66</code>
+            <name>66 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>67</code>
+            <name>67 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>68</code>
+            <name>68 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>69</code>
+            <name>69 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>70</code>
+            <name>70 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>71</code>
+            <name>71 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>72</code>
+            <name>72 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>73</code>
+            <name>73 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>74</code>
+            <name>74 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>75</code>
+            <name>75 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>76</code>
+            <name>76 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>77</code>
+            <name>77 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>78</code>
+            <name>78 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>79</code>
+            <name>79 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>80</code>
+            <name>80 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>81</code>
+            <name>81 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>82</code>
+            <name>82 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>83</code>
+            <name>83 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>84</code>
+            <name>84 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>85</code>
+            <name>85 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>86</code>
+            <name>86 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>87</code>
+            <name>87 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>88</code>
+            <name>88 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>89</code>
+            <name>89 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>90</code>
+            <name>90 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>91</code>
+            <name>91 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>92</code>
+            <name>92 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>93</code>
+            <name>93 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>94</code>
+            <name>94 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>95</code>
+            <name>95 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>96</code>
+            <name>96 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>97</code>
+            <name>97 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>98</code>
+            <name>98 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>99</code>
+            <name>99 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>100</code>
+            <name>100 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>101</code>
+            <name>101 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>102</code>
+            <name>102 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>103</code>
+            <name>103 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>104</code>
+            <name>104 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>105</code>
+            <name>105 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>106</code>
+            <name>106 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>107</code>
+            <name>107 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>108</code>
+            <name>108 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>109</code>
+            <name>109 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>110</code>
+            <name>110 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>111</code>
+            <name>111 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>112</code>
+            <name>112 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>113</code>
+            <name>113 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>114</code>
+            <name>114 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>115</code>
+            <name>115 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>116</code>
+            <name>116 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>117</code>
+            <name>117 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>118</code>
+            <name>118 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>119</code>
+            <name>119 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>120</code>
+            <name>120 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>121</code>
+            <name>121 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>122</code>
+            <name>122 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>123</code>
+            <name>123 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>124</code>
+            <name>124 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>125</code>
+            <name>125 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>126</code>
+            <name>126 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>127</code>
+            <name>127 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>128</code>
+            <name>128 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>129</code>
+            <name>129 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>130</code>
+            <name>130 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>131</code>
+            <name>131 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>132</code>
+            <name>132 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>133</code>
+            <name>133 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>134</code>
+            <name>134 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>135</code>
+            <name>135 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>136</code>
+            <name>136 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>137</code>
+            <name>137 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>138</code>
+            <name>138 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>139</code>
+            <name>139 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>140</code>
+            <name>140 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>141</code>
+            <name>141 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>142</code>
+            <name>142 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>143</code>
+            <name>143 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>144</code>
+            <name>144 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>145</code>
+            <name>145 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>146</code>
+            <name>146 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>147</code>
+            <name>147 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>148</code>
+            <name>148 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>149</code>
+            <name>149 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>150</code>
+            <name>150 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>151</code>
+            <name>151 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>152</code>
+            <name>152 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>153</code>
+            <name>153 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>154</code>
+            <name>154 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>155</code>
+            <name>155 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>156</code>
+            <name>156 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>157</code>
+            <name>157 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>158</code>
+            <name>158 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>159</code>
+            <name>159 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>160</code>
+            <name>160 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>161</code>
+            <name>161 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>162</code>
+            <name>162 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>163</code>
+            <name>163 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>164</code>
+            <name>164 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>165</code>
+            <name>165 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>166</code>
+            <name>166 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>167</code>
+            <name>167 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>168</code>
+            <name>168 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>169</code>
+            <name>169 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>170</code>
+            <name>170 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>171</code>
+            <name>171 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>172</code>
+            <name>172 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>173</code>
+            <name>173 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>174</code>
+            <name>174 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>175</code>
+            <name>175 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>176</code>
+            <name>176 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>177</code>
+            <name>177 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>178</code>
+            <name>178 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>179</code>
+            <name>179 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>180</code>
+            <name>180 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>181</code>
+            <name>181 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>182</code>
+            <name>182 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>183</code>
+            <name>183 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>184</code>
+            <name>184 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>185</code>
+            <name>185 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>186</code>
+            <name>186 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>187</code>
+            <name>187 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>188</code>
+            <name>188 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>189</code>
+            <name>189 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>190</code>
+            <name>190 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>191</code>
+            <name>191 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>192</code>
+            <name>192 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>193</code>
+            <name>193 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>194</code>
+            <name>194 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>195</code>
+            <name>195 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>196</code>
+            <name>196 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>197</code>
+            <name>197 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>198</code>
+            <name>198 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>199</code>
+            <name>199 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>200</code>
+            <name>200 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>201</code>
+            <name>201 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>202</code>
+            <name>202 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>203</code>
+            <name>203 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>204</code>
+            <name>204 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>205</code>
+            <name>205 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>206</code>
+            <name>206 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>207</code>
+            <name>207 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>208</code>
+            <name>208 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>209</code>
+            <name>209 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>210</code>
+            <name>210 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>211</code>
+            <name>211 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>212</code>
+            <name>212 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>213</code>
+            <name>213 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>214</code>
+            <name>214 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>215</code>
+            <name>215 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>216</code>
+            <name>216 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>217</code>
+            <name>217 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>218</code>
+            <name>218 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>219</code>
+            <name>219 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>220</code>
+            <name>220 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>221</code>
+            <name>221 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>222</code>
+            <name>222 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>223</code>
+            <name>223 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>224</code>
+            <name>224 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>225</code>
+            <name>225 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>226</code>
+            <name>226 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>227</code>
+            <name>227 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>228</code>
+            <name>228 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>229</code>
+            <name>229 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>230</code>
+            <name>230 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>231</code>
+            <name>231 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>232</code>
+            <name>232 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>233</code>
+            <name>233 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>234</code>
+            <name>234 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>235</code>
+            <name>235 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>236</code>
+            <name>236 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>237</code>
+            <name>237 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>238</code>
+            <name>238 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>239</code>
+            <name>239 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>240</code>
+            <name>240 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>241</code>
+            <name>241 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>242</code>
+            <name>242 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>243</code>
+            <name>243 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>244</code>
+            <name>244 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>245</code>
+            <name>245 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>246</code>
+            <name>246 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>247</code>
+            <name>247 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>248</code>
+            <name>248 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>249</code>
+            <name>249 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>250</code>
+            <name>250 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>1W</code>
+            <name>1 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>2W</code>
+            <name>2 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>3W</code>
+            <name>3 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>4W</code>
+            <name>4 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>5W</code>
+            <name>5 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>6W</code>
+            <name>6 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>7W</code>
+            <name>7 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>8W</code>
+            <name>8 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>9W</code>
+            <name>9 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>10W</code>
+            <name>10 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>11W</code>
+            <name>11 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>12W</code>
+            <name>12 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>13W</code>
+            <name>13 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>14W</code>
+            <name>14 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>15W</code>
+            <name>15 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>16W</code>
+            <name>16 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>17W</code>
+            <name>17 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>18W</code>
+            <name>18 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>19W</code>
+            <name>19 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>20W</code>
+            <name>20 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>21W</code>
+            <name>21 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>22W</code>
+            <name>22 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>23W</code>
+            <name>23 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>24W</code>
+            <name>24 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>25W</code>
+            <name>25 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>26W</code>
+            <name>26 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>27W</code>
+            <name>27 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>28W</code>
+            <name>28 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>29W</code>
+            <name>29 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>30W</code>
+            <name>30 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>31W</code>
+            <name>31 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>32W</code>
+            <name>32 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>33W</code>
+            <name>33 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>34W</code>
+            <name>34 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>35W</code>
+            <name>35 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>36W</code>
+            <name>36 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>37W</code>
+            <name>37 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>38W</code>
+            <name>38 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>39W</code>
+            <name>39 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>40W</code>
+            <name>40 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>41W</code>
+            <name>41 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>42W</code>
+            <name>42 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>43W</code>
+            <name>43 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>44W</code>
+            <name>44 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>45W</code>
+            <name>45 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>46W</code>
+            <name>46 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>47W</code>
+            <name>47 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>48W</code>
+            <name>48 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>49W</code>
+            <name>49 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>50W</code>
+            <name>50 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>51W</code>
+            <name>51 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>52W</code>
+            <name>52 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>53W</code>
+            <name>53 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>54W</code>
+            <name>54 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>55W</code>
+            <name>55 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>56W</code>
+            <name>56 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>57W</code>
+            <name>57 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>58W</code>
+            <name>58 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>59W</code>
+            <name>59 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>60W</code>
+            <name>60 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>61W</code>
+            <name>61 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>62W</code>
+            <name>62 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>63W</code>
+            <name>63 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>64W</code>
+            <name>64 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>65W</code>
+            <name>65 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>66W</code>
+            <name>66 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>67W</code>
+            <name>67 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>68W</code>
+            <name>68 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>69W</code>
+            <name>69 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>70W</code>
+            <name>70 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>71W</code>
+            <name>71 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>72W</code>
+            <name>72 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>73W</code>
+            <name>73 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>74W</code>
+            <name>74 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>75W</code>
+            <name>75 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>76W</code>
+            <name>76 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>77W</code>
+            <name>77 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>78W</code>
+            <name>78 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>79W</code>
+            <name>79 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>80W</code>
+            <name>80 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>81W</code>
+            <name>81 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>82W</code>
+            <name>82 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>83W</code>
+            <name>83 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>84W</code>
+            <name>84 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>85W</code>
+            <name>85 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>86W</code>
+            <name>86 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>87W</code>
+            <name>87 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>88W</code>
+            <name>88 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>89W</code>
+            <name>89 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>90W</code>
+            <name>90 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>91W</code>
+            <name>91 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>92W</code>
+            <name>92 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>93W</code>
+            <name>93 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>94W</code>
+            <name>94 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>95W</code>
+            <name>95 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>96W</code>
+            <name>96 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>97W</code>
+            <name>97 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>98W</code>
+            <name>98 Wire</name>
+    </oompSize>
+    <oompSize>
+            <code>99W</code>
+            <name>99 Wire</name>
+    </oompSize>
+	<oompSize>
+            <code>M1</code>
+            <name>M1</name>
+    </oompSize>
+	<oompSize>
+            <code>M2</code>
+            <name>M2</name>
+    </oompSize>
+	<oompSize>
+            <code>M3</code>
+            <name>M3</name>
+    </oompSize>
+	<oompSize>
+            <code>M4</code>
+            <name>M4</name>
+    </oompSize>
+	<oompSize>
+            <code>M5</code>
+            <name>M5</name>
+    </oompSize>
+	<oompSize>
+            <code>M6</code>
+            <name>M6</name>
+    </oompSize>
+	<oompSize>
+            <code>M7</code>
+            <name>M7</name>
+    </oompSize>
+	<oompSize>
+            <code>M8</code>
+            <name>M8</name>
+    </oompSize>
+	<oompSize>
+            <code>M9</code>
+            <name>M9</name>
+    </oompSize>
+	<oompSize>
+            <code>M10</code>
+            <name>M10</name>
+    </oompSize>
+	<oompSize>
+            <code>M12</code>
+            <name>M12</name>
+    </oompSize>
+	<oompSize>
+            <code>M15</code>
+            <name>M15</name>
+    </oompSize>
+	<oompSize>
+            <code>M20</code>
+            <name>M20</name>
+    </oompSize>	
+	<oompSize>
+            <code>DI28</code>
+            <name>28 Pin DIP</name>
+    </oompSize>	
+	<oompSize>
+            <code>SS28</code>
+            <name>28 Pin SMD (SSOP)</name>
+    </oompSize>		
+	<oompSize>
+            <code>TQ32</code>
+            <name>32 Pin SMD (TQFP)</name>
+    </oompSize>			
+	<oompSize>
+            <code>TS14</code>
+            <name>14 Pin SMD (TSSOP)</name>
+    </oompSize>				
+	
+</xml>

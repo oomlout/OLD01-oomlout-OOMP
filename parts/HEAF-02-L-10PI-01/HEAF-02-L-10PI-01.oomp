@@ -1,0 +1,87 @@
+<xml>
+    <oompPart>
+        <oompID>HEAF-02-L-10PI-01</oompID>
+        <name>2 mm 10 Pin Blue Female Header</name>
+        <hexID>10DE</hexID>
+        <oompType>HEAF</oompType>
+        <oompSize>02</oompSize>
+        <oompColor>L</oompColor>
+        <oompDesc>10PI</oompDesc>
+        <oompIndex>01</oompIndex>
+        <oompOwner></oompOwner>
+
+        <!-- OOMP Base-->
+		<oompSort></oompSort>
+			
+        <!-- LED Tags-->
+		<ooLensColor></ooLensColor>
+		<ooForwardVoltage></ooForwardVoltage>
+		<ooForwardCurrent></ooForwardCurrent>
+		<ooIntensity></ooIntensity>
+		<ooPowerAngle></ooPowerAngle>
+		<ooWavelength></ooWavelength>
+		<ooChromaticityX></ooChromaticityX>
+		<ooChromaticityY></ooChromaticityY>
+	
+		<!-- Description Tags-->
+		<ooMaterial></ooMaterial>		
+		<ooNumPins></ooNumPins>
+		<ooTerminalStyle></ooTerminalStyle>
+			
+		<!-- Plug Tags-->
+		<ooPlugID></ooPlugID>
+		<ooPlugOD></ooPlugOD>
+		<ooPlugLength></ooPlugLength>
+				
+		<!-- Maximums -->
+		<ooPowerRating></ooPowerRating>
+		<ooMaxVoltage></ooMaxVoltage>
+		<ooMaxCurrent></ooMaxCurrent>
+		<ooLifetime></ooLifetime>
+		<ooTolerance></ooTolerance>
+		
+		<!-- Size Tags -->		
+		<ooPitch></ooPitch>
+		<ooWidth></ooWidth>
+		<ooHeight></ooHeight>
+		<ooDiameter></ooDiameter>
+		<ooLength></ooLength>
+		<ooDepth></ooDepth>
+		<ooWireSize></ooWireSize>		
+
+		<!-- Hardware Tags -->
+		<ooHeadStyle></ooHeadStyle>
+		<ooWrenchSize></ooWrenchSize>
+		
+		<!-- SEEED OPL (Open Parts Library) -->
+		<ooSEEEDsku>3460510P1</ooSEEEDsku>
+		<ooSEEEDdesc>DIP Blue Female Header</ooSEEEDdesc>
+		<ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:1X10P-2.0-4.3-BLUE-FEMALE.zip</ooSEEED3dModel>
+			
+		
+		<!-- Manucturer Tags -->
+		<ooManufacturer>C-YXCO</ooManufacturer>
+		<ooManufacturerPartNumber></ooManufacturerPartNumber>
+		<otherSupplier partNumber=""></otherSupplier>			
+
+		<!-- Hidden Tags-->
+		<ooProjectName1></ooProjectName1>
+		<ooProjectDesc1></ooProjectDesc1>
+		<ooProjectLink1></ooProjectLink1>
+		<ooProjectType1></ooProjectType1>
+		
+		
+		<ooBuyName1></ooBuyName1>
+		<ooBuyDesc1></ooBuyDesc1>
+		<ooBuyLink1></ooBuyLink1>
+		<ooBuyType1></ooBuyType1>
+		
+		<oompAbout></oompAbout>
+		<ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
+		
+		
+
+		
+	</oompPart>
+</xml>
+

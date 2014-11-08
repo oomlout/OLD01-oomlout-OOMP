@@ -1,0 +1,103 @@
+﻿<xml>
+
+    <oompPart>
+        <index>4094</index>
+
+<!--OOMP Base -->
+        <oompID>CAPT-AVB-X-UF22-VB</oompID>
+        <name>SMD (AVX-B) 22 uF Capacitor (Tantalum) 10v</name>
+        <hexID>0FFE</hexID>
+        <oompSort></oompSort>
+        <oompType>CAPT</oompType>
+        <oompSize>AVB</oompSize>
+        <oompColor>X</oompColor>
+        <oompDesc>UF22</oompDesc>
+        <oompIndex>VB</oompIndex>
+        <oompOwner></oompOwner>
+        <oompVersion>99</oompVersion>
+
+
+<!--Size -->
+        <ooPitch></ooPitch>
+        <ooWidth>2.80 mm</ooWidth>
+        <ooHeight></ooHeight>
+        <ooDiameter></ooDiameter>
+        <ooLength>3.50 mm</ooLength>
+        <ooDepth></ooDepth>
+        <ooWireSize></ooWireSize>
+
+
+<!--Manufacturer -->
+        <ooManufacturer>AVX</ooManufacturer>
+        <ooManufacturerPartNumber>TAJB226K010RNJ</ooManufacturerPartNumber>
+
+
+<!--Description -->
+        <ooMaterial></ooMaterial>
+        <ooNumPins></ooNumPins>
+        <ooTerminalStyle></ooTerminalStyle>
+        <ooPowerRating></ooPowerRating>
+
+
+<!--Hardware -->
+        <ooHeadStyle></ooHeadStyle>
+        <ooWrenchSize></ooWrenchSize>
+
+
+<!--Maximums -->
+        <ooMaxCurrent></ooMaxCurrent>
+        <ooMaxVoltage>10 V</ooMaxVoltage>
+        <ooLifetime></ooLifetime>
+        <ooTolerance>10%</ooTolerance>
+
+
+<!--Heat Shrink -->
+        <ooShrinkRatio></ooShrinkRatio>
+
+
+<!--LED -->
+        <ooLensColor></ooLensColor>
+        <ooForwardVoltage></ooForwardVoltage>
+        <ooForwardCurrent></ooForwardCurrent>
+        <ooIntensity></ooIntensity>
+        <ooPowerAngle></ooPowerAngle>
+        <ooWavelength></ooWavelength>
+        <ooChromaticityX></ooChromaticityX>
+        <ooChromaticityY></ooChromaticityY>
+
+
+<!--Plug -->
+        <ooPlugID></ooPlugID>
+        <ooPlugOD></ooPlugOD>
+        <ooPlugLength></ooPlugLength>
+
+
+<!--SEEED OPL (Open Parts Library) -->
+        <ooSEEEDsku>0130240P1</ooSEEEDsku>
+        <ooSEEEDdesc>SMD CAP Tantalum 22uF-10V 10%</ooSEEEDdesc>
+
+
+<!--Hidden -->
+        <oompVersion></oompVersion>
+        <ooNameLine1of2></ooNameLine1of2>
+        <ooNameLine2of2></ooNameLine2of2>
+        <ooNameLine1of3></ooNameLine1of3>
+        <ooNameLine2of3></ooNameLine2of3>
+        <ooNameLine3of3></ooNameLine3of3>
+        <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
+        <oompAbout></oompAbout>
+        <ooProjectName1></ooProjectName1>
+        <ooProjectDesc1></ooProjectDesc1>
+        <ooProjectLink1></ooProjectLink1>
+        <ooProjectType1></ooProjectType1>
+        <ooBuyName1></ooBuyName1>
+        <ooBuyDesc1></ooBuyDesc1>
+        <ooBuyLink1></ooBuyLink1>
+        <ooBuyType1></ooBuyType1>
+        <ooSEEED3dModel></ooSEEED3dModel>
+
+
+<!-- -->
+
+    </oompPart>
+</xml>

@@ -1,0 +1,384 @@
+<xml>
+
+		<!-- Base Details -->
+
+    <oompTag>
+            <tagName>oompID</tagName>
+            <tagReadable>ID</tagReadable>
+            <tagDescription>Part ID (ie. CRHO-I01-B-01PI-01) </tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>name</tagName>
+            <tagReadable>Name</tagReadable>
+            <tagDescription>Part Name (ie. 2.54mm 1 Pin Black Crimp Housing	)</tagDescription>
+    </oompTag>
+
+    <oompTag>
+            <tagName>hexID</tagName>
+            <tagReadable>Hex ID</tagReadable>
+            <tagDescription>Parts Hex Code (ie. 0F69)</tagDescription>
+    </oompTag>
+
+	
+		<!-- OOMP Details -->
+	
+    <oompTag>
+            <tagName>oompType</tagName>
+            <tagReadable>Type</tagReadable>
+			<tagLabel>type</tagLabel>
+            <tagDescription>OOMP Type, four letter code code - name definitions in oomp-Type-details.oomp</tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>oompSize</tagName>
+            <tagReadable>Size</tagReadable>
+			<tagLabel>size</tagLabel>
+            <tagDescription>OOMP Size, - definitions in oomp-Size-details.oomp</tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>oompColor</tagName>
+            <tagReadable>Color</tagReadable>
+			<tagLabel>color</tagLabel>
+            <tagDescription>OOMP Color, - definitions in oomp-Color-details.oomp</tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>oompDesc</tagName>
+            <tagReadable>Description</tagReadable>
+			<tagLabel>value</tagLabel>
+            <tagDescription>OOMP Desc, - definitions in oomp-Desc-details.oomp</tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>oompIndex</tagName>
+            <tagReadable>Index</tagReadable>
+			<tagLabel></tagLabel>
+            <tagDescription>Index of the part (used to differentiate between various parts</tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>oompOwner</tagName>
+            <tagReadable>Owner</tagReadable>
+			<tagLabel>owner</tagLabel>
+            <tagDescription>The parts owner (this is a two letter code added before the index) - definitions in oomp-Owner-details.oomp</tagDescription>
+    </oompTag>
+
+	
+	
+	<!-- Part Numbers -->
+	
+    <oompTag>
+            <tagName>partNumberFarnell</tagName>
+            <tagReadable>Farnell #</tagReadable>
+            <tagDescription>Part number at Farnell</tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>partNumberRapid</tagName>
+            <tagReadable>Rapid Online #</tagReadable>
+            <tagDescription>Part number for Rapid Online ( http://www.rapidonline.com/ )</tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>partNumberRS</tagName>
+            <tagReadable>RS #</tagReadable>
+            <tagDescription>Part number at RS ( http://uk.rs-online.com/ )</tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>partNumberMouser</tagName>
+            <tagReadable>Mouser #</tagReadable>
+            <tagDescription>Part number at Mouser</tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>partNumberCPC</tagName>
+            <tagReadable>CPC #</tagReadable>
+            <tagDescription>Part number at CPC ( http://cpc.farnell.com/ )</tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>partNumberDigikey</tagName>
+            <tagReadable>Digikey #</tagReadable>
+            <tagDescription>Part number at DigiKey</tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>otherSupplier1</tagName>
+            <tagReadable>Other Supplier 1</tagReadable>
+            <tagDescription>Name of other supplier 1</tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>otherSupplier1PartNumber</tagName>
+            <tagReadable>Other Supplier #</tagReadable>
+            <tagDescription>Part number at other supplier</tagDescription>
+    </oompTag>
+	
+	
+	
+<!-- Generated values for multi line naming -->
+	
+    <oompTag>
+            <tagName>ooNameLine1of2</tagName>
+            <tagReadable>Name Line 1 of 2</tagReadable>
+            <tagDescription>Line 1 of a 2 line named part, blank if the part is three lines long</tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooNameLine2of2</tagName>
+            <tagReadable>Name Line 2 of 2</tagReadable>
+            <tagDescription>Line 2 of a 2 line named part, blank if the part is three lines long</tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooNameLine1of3</tagName>
+            <tagReadable>Name Line 1 of 3</tagReadable>
+            <tagDescription>Line 1 of a 3 line named part, blank if the part name is two lines long</tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooNameLine2of3</tagName>
+            <tagReadable>Name Line 2 of 3</tagReadable>
+            <tagDescription>Line 2 of a 3 line named part, blank if the part name is two lines long</tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooNameLine3of3</tagName>
+            <tagReadable>Name Line 3 of 3</tagReadable>
+            <tagDescription>Line 3 of a 3 line named part, blank if the part name is two lines long</tagDescription>
+    </oompTag>
+	
+	
+<!-- Part Details -->
+	
+	<!-- Dimensions -->
+	
+	<oompTag>
+			
+            <tagName>ooPitch</tagName>
+            <tagReadable></tagReadable>
+            <tagDescription></tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooWidth</tagName>
+            <tagReadable></tagReadable>
+            <tagDescription></tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooHeight</tagName>
+            <tagReadable></tagReadable>
+            <tagDescription></tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooDiameter</tagName>
+            <tagReadable></tagReadable>
+            <tagDescription></tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooLength</tagName>
+            <tagReadable></tagReadable>
+            <tagDescription></tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooTolerance</tagName>
+            <tagReadable></tagReadable>
+            <tagDescription></tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooDepth</tagName>
+            <tagReadable></tagReadable>
+            <tagDescription></tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooMaterial</tagName>
+            <tagReadable></tagReadable>
+            <tagDescription></tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooNumPins</tagName>
+            <tagReadable></tagReadable>
+            <tagDescription></tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooWireSize</tagName>
+            <tagReadable></tagReadable>
+            <tagDescription></tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooTerminalStyle</tagName>
+            <tagReadable></tagReadable>
+            <tagDescription></tagDescription>
+    </oompTag>
+	
+	
+	<!-- Maximums  -->
+	<oompTag>
+            <tagName>ooMaxCurrent</tagName>
+            <tagReadable></tagReadable>
+            <tagDescription></tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooMaxVoltage</tagName>
+            <tagReadable></tagReadable>
+            <tagDescription></tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooLifetime</tagName>
+            <tagReadable></tagReadable>
+            <tagDescription></tagDescription>
+    </oompTag>
+    
+	
+	<!-- LED Specific Details -->
+	
+    <oompTag>
+            <tagName>ooLensColor</tagName>
+            <tagReadable>Lebns Color</tagReadable>
+			<tagLabel>lens color</tagLabel>
+            <tagDescription>The Colour of the Lense (red, green, clear, frosted etc.)</tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooForwardVoltage</tagName>
+            <tagReadable>Forward Voltage</tagReadable>
+			<tagLabel>forward voltage</tagLabel>
+            <tagDescription></tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooForwardCurrent</tagName>
+            <tagReadable>Forward Current</tagReadable>
+			<tagLabel>forward current</tagLabel>
+            <tagDescription></tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooIntensity</tagName>
+            <tagReadable>Intensity</tagReadable>
+			<tagLabel>intensity</tagLabel>
+            <tagDescription></tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooPowerAngle</tagName>
+            <tagReadable>Power Angle</tagReadable>
+			<tagLabel>power angle</tagLabel>
+            <tagDescription></tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooWavelength</tagName>
+            <tagReadable>Wavelength</tagReadable>
+			<tagLabel>wavelength</tagLabel>
+            <tagDescription></tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooChromaticityX</tagName>
+            <tagReadable>Chromaticity X</tagReadable>
+			<tagLabel>chromaticity x</tagLabel>
+            <tagDescription></tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooChromaticityY</tagName>
+            <tagReadable>Chromaticity Y</tagReadable>
+			<tagLabel>chromaticty y</tagLabel>
+            <tagDescription></tagDescription>
+    </oompTag>
+	
+    <oompTag>
+            <tagName>ooPowerRating</tagName>
+            <tagReadable></tagReadable>
+            <tagDescription></tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooPlugID</tagName>
+            <tagReadable></tagReadable>
+            <tagDescription></tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooPlugOD</tagName>
+            <tagReadable></tagReadable>
+            <tagDescription></tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooPlugLength</tagName>
+            <tagReadable></tagReadable>
+            <tagDescription></tagDescription>
+    </oompTag>
+    
+	<oompTag>
+            <tagName>ooFrontDiagram</tagName>
+            <tagReadable></tagReadable>
+            <tagDescription></tagDescription>
+    </oompTag>
+	
+	
+	
+<!-- About -->	
+	
+     <oompTag>
+            <tagName>oompAbout</tagName>
+            <tagReadable></tagReadable>
+            <tagDescription></tagDescription>
+    </oompTag>
+
+<!-- Projects that use -->		
+
+    <oompTag>
+            <tagName>ooProjectName1</tagName>
+            <tagReadable></tagReadable>
+            <tagDescription></tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooProjectDesc1</tagName>
+            <tagReadable></tagReadable>
+            <tagDescription></tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooProjectLink1</tagName>
+            <tagReadable></tagReadable>
+            <tagDescription></tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooProjectType1</tagName>
+            <tagReadable></tagReadable>
+            <tagDescription></tagDescription>
+    </oompTag>
+	
+<!-- Places to buy -->			
+	
+	<oompTag>
+            <tagName>ooBuyName1</tagName>
+            <tagReadable></tagReadable>
+            <tagDescription></tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooBuyDesc1</tagName>
+            <tagReadable></tagReadable>
+            <tagDescription></tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooBuyLink1</tagName>
+            <tagReadable></tagReadable>
+            <tagDescription></tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooBuyType1</tagName>
+            <tagReadable></tagReadable>
+            <tagDescription></tagDescription>
+    </oompTag>
+	
+<!-- Manufacturer Part Details -->
+	
+    <oompTag>
+            <tagName>ooManufacturer</tagName>
+            <tagReadable></tagReadable>
+            <tagDescription></tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooManufacturerPartNumber</tagName>
+            <tagReadable></tagReadable>
+            <tagDescription></tagDescription>
+    </oompTag>
+	
+<!--- SEEED OPL Details -->	
+	
+    <oompTag>
+            <tagName>ooSEEEDsku</tagName>
+            <tagReadable></tagReadable>
+            <tagDescription></tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooSEEEDdesc</tagName>
+            <tagReadable></tagReadable>
+            <tagDescription></tagDescription>
+    </oompTag>
+    <oompTag>
+            <tagName>ooSEEED3dModel</tagName>
+            <tagReadable></tagReadable>
+            <tagDescription></tagDescription>
+    </oompTag>
+	
+	
+</xml>

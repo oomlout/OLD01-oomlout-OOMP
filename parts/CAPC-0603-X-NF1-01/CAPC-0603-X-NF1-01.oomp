@@ -1,0 +1,103 @@
+﻿<xml>
+
+    <oompPart>
+        <index>4091</index>
+
+<!--OOMP Base -->
+        <oompID>CAPC-0603-X-NF1-01</oompID>
+        <name>SMD (0603) 1 nF Capacitor (Ceramic)</name>
+        <hexID>0FFB</hexID>
+        <oompSort></oompSort>
+        <oompType>CAPC</oompType>
+        <oompSize>0603</oompSize>
+        <oompColor>X</oompColor>
+        <oompDesc>NF1</oompDesc>
+        <oompIndex>01</oompIndex>
+        <oompOwner></oompOwner>
+        <oompVersion>99</oompVersion>
+
+
+<!--Size -->
+        <ooPitch></ooPitch>
+        <ooWidth>0.8 mm</ooWidth>
+        <ooHeight></ooHeight>
+        <ooDiameter></ooDiameter>
+        <ooLength>1.6 mm</ooLength>
+        <ooDepth></ooDepth>
+        <ooWireSize></ooWireSize>
+
+
+<!--Manufacturer -->
+        <ooManufacturer>Yageo</ooManufacturer>
+        <ooManufacturerPartNumber>CC0603KRX7R9BB102</ooManufacturerPartNumber>
+
+
+<!--Description -->
+        <ooMaterial></ooMaterial>
+        <ooNumPins></ooNumPins>
+        <ooTerminalStyle></ooTerminalStyle>
+        <ooPowerRating></ooPowerRating>
+
+
+<!--Hardware -->
+        <ooHeadStyle></ooHeadStyle>
+        <ooWrenchSize></ooWrenchSize>
+
+
+<!--Maximums -->
+        <ooMaxCurrent></ooMaxCurrent>
+        <ooMaxVoltage>50v</ooMaxVoltage>
+        <ooLifetime></ooLifetime>
+        <ooTolerance>10%</ooTolerance>
+
+
+<!--Heat Shrink -->
+        <ooShrinkRatio></ooShrinkRatio>
+
+
+<!--LED -->
+        <ooLensColor></ooLensColor>
+        <ooForwardVoltage></ooForwardVoltage>
+        <ooForwardCurrent></ooForwardCurrent>
+        <ooIntensity></ooIntensity>
+        <ooPowerAngle></ooPowerAngle>
+        <ooWavelength></ooWavelength>
+        <ooChromaticityX></ooChromaticityX>
+        <ooChromaticityY></ooChromaticityY>
+
+
+<!--Plug -->
+        <ooPlugID></ooPlugID>
+        <ooPlugOD></ooPlugOD>
+        <ooPlugLength></ooPlugLength>
+
+
+<!--SEEED OPL (Open Parts Library) -->
+        <ooSEEEDsku>0100370P1</ooSEEEDsku>
+        <ooSEEEDdesc>SMD CAP Ceramic 1nF-50V-10%-X7R</ooSEEEDdesc>
+
+
+<!--Hidden -->
+        <oompVersion></oompVersion>
+        <ooNameLine1of2></ooNameLine1of2>
+        <ooNameLine2of2></ooNameLine2of2>
+        <ooNameLine1of3></ooNameLine1of3>
+        <ooNameLine2of3></ooNameLine2of3>
+        <ooNameLine3of3></ooNameLine3of3>
+        <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
+        <oompAbout></oompAbout>
+        <ooProjectName1></ooProjectName1>
+        <ooProjectDesc1></ooProjectDesc1>
+        <ooProjectLink1></ooProjectLink1>
+        <ooProjectType1></ooProjectType1>
+        <ooBuyName1></ooBuyName1>
+        <ooBuyDesc1></ooBuyDesc1>
+        <ooBuyLink1></ooBuyLink1>
+        <ooBuyType1></ooBuyType1>
+        <ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:Capacitor0603.zip</ooSEEED3dModel>
+
+
+<!-- -->
+
+    </oompPart>
+</xml>

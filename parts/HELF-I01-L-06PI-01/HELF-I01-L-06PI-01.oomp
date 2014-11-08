@@ -1,0 +1,103 @@
+﻿<xml>
+
+    <oompPart>
+        <index>4285</index>
+
+<!--OOMP Base -->
+        <oompID>HELF-I01-L-06PI-01</oompID>
+        <name>2.54 mm 6 Pin Blue Female Header (Long)</name>
+        <hexID>10BD</hexID>
+        <oompSort></oompSort>
+        <oompType>HELF</oompType>
+        <oompSize>I01</oompSize>
+        <oompColor>L</oompColor>
+        <oompDesc>06PI</oompDesc>
+        <oompIndex>01</oompIndex>
+        <oompOwner></oompOwner>
+        <oompVersion>99</oompVersion>
+
+
+<!--Size -->
+        <ooPitch></ooPitch>
+        <ooWidth></ooWidth>
+        <ooHeight></ooHeight>
+        <ooDiameter></ooDiameter>
+        <ooLength></ooLength>
+        <ooDepth></ooDepth>
+        <ooWireSize></ooWireSize>
+
+
+<!--Manufacturer -->
+        <ooManufacturer>C-YXCO</ooManufacturer>
+        <ooManufacturerPartNumber>F185-2203A1BSYC2</ooManufacturerPartNumber>
+
+
+<!--Description -->
+        <ooMaterial></ooMaterial>
+        <ooNumPins></ooNumPins>
+        <ooTerminalStyle></ooTerminalStyle>
+        <ooPowerRating></ooPowerRating>
+
+
+<!--Hardware -->
+        <ooHeadStyle></ooHeadStyle>
+        <ooWrenchSize></ooWrenchSize>
+
+
+<!--Maximums -->
+        <ooMaxCurrent></ooMaxCurrent>
+        <ooMaxVoltage></ooMaxVoltage>
+        <ooLifetime></ooLifetime>
+        <ooTolerance></ooTolerance>
+
+
+<!--Heat Shrink -->
+        <ooShrinkRatio></ooShrinkRatio>
+
+
+<!--LED -->
+        <ooLensColor></ooLensColor>
+        <ooForwardVoltage></ooForwardVoltage>
+        <ooForwardCurrent></ooForwardCurrent>
+        <ooIntensity></ooIntensity>
+        <ooPowerAngle></ooPowerAngle>
+        <ooWavelength></ooWavelength>
+        <ooChromaticityX></ooChromaticityX>
+        <ooChromaticityY></ooChromaticityY>
+
+
+<!--Plug -->
+        <ooPlugID></ooPlugID>
+        <ooPlugOD></ooPlugOD>
+        <ooPlugLength></ooPlugLength>
+
+
+<!--SEEED OPL (Open Parts Library) -->
+        <ooSEEEDsku>3300060P1</ooSEEEDsku>
+        <ooSEEEDdesc>Micro SD Card Socket</ooSEEEDdesc>
+
+
+<!--Hidden -->
+        <oompVersion></oompVersion>
+        <ooNameLine1of2></ooNameLine1of2>
+        <ooNameLine2of2></ooNameLine2of2>
+        <ooNameLine1of3></ooNameLine1of3>
+        <ooNameLine2of3></ooNameLine2of3>
+        <ooNameLine3of3></ooNameLine3of3>
+        <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
+        <oompAbout></oompAbout>
+        <ooProjectName1></ooProjectName1>
+        <ooProjectDesc1></ooProjectDesc1>
+        <ooProjectLink1></ooProjectLink1>
+        <ooProjectType1></ooProjectType1>
+        <ooBuyName1></ooBuyName1>
+        <ooBuyDesc1></ooBuyDesc1>
+        <ooBuyLink1></ooBuyLink1>
+        <ooBuyType1></ooBuyType1>
+        <ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:1X6P-2.54-8.5%2B2.5-12.3-BLUE-FEMALE.zip</ooSEEED3dModel>
+
+
+<!-- -->
+
+    </oompPart>
+</xml>

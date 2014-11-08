@@ -1,0 +1,22 @@
+<xml>
+    <oompPart>
+            <oompID>CRHO-I01-B-20PI-01</oompID>
+            <name>2.54 mm 20 Pin Black Crimp Housing</name>
+            <hexID>DA14</hexID>
+            <oompType>CRHO</oompType>
+            <oompSize>I01</oompSize>
+            <oompColor>B</oompColor>
+            <oompDesc>20PI</oompDesc>
+            <oompIndex>01</oompIndex>
+            <ooNameLine3of3>Crimp </ooNameLine3of3>
+            <ooPitch>2.54 mm</ooPitch>
+            <ooMaxCurrent>3 A</ooMaxCurrent>
+            <ooMaxVoltage>250 V</ooMaxVoltage>
+            <ooWidth>51.00 mm</ooWidth>
+            <ooHeight>14 mm</ooHeight>
+            <ooDepth>2.5 mm</ooDepth>
+            <ooMaterial>Plastic</ooMaterial>
+			<otherSupplier partNumber="02060">C-4UCN</otherSupplier>			
+			<oompVersion>10</oompVersion>
+    </oompPart>
+</xml>

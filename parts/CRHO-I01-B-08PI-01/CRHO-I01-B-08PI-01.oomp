@@ -1,0 +1,103 @@
+﻿<xml>
+
+    <oompPart>
+        <index>3951</index>
+
+<!--OOMP Base -->
+        <oompID>CRHO-I01-B-08PI-01</oompID>
+        <name>2.54 mm 8 Pin Black Crimp Housing</name>
+        <hexID>DA08</hexID>
+        <oompSort>08</oompSort>
+        <oompType>CRHO</oompType>
+        <oompSize>I01</oompSize>
+        <oompColor>B</oompColor>
+        <oompDesc>08PI</oompDesc>
+        <oompIndex>01</oompIndex>
+        <oompOwner></oompOwner>
+        <oompVersion>10</oompVersion>
+
+
+<!--Size -->
+        <ooPitch>2.54 mm</ooPitch>
+        <ooWidth>20.52 mm</ooWidth>
+        <ooHeight>14 mm</ooHeight>
+        <ooDiameter></ooDiameter>
+        <ooLength></ooLength>
+        <ooDepth>2.5 mm</ooDepth>
+        <ooWireSize></ooWireSize>
+
+
+<!--Manufacturer -->
+        <ooManufacturer></ooManufacturer>
+        <ooManufacturerPartNumber></ooManufacturerPartNumber>
+
+
+<!--Description -->
+        <ooMaterial>Plastic</ooMaterial>
+        <ooNumPins></ooNumPins>
+        <ooTerminalStyle>DuPont</ooTerminalStyle>
+        <ooPowerRating></ooPowerRating>
+
+
+<!--Hardware -->
+        <ooHeadStyle></ooHeadStyle>
+        <ooWrenchSize></ooWrenchSize>
+
+
+<!--Maximums -->
+        <ooMaxCurrent>3 A</ooMaxCurrent>
+        <ooMaxVoltage>250 V</ooMaxVoltage>
+        <ooLifetime></ooLifetime>
+        <ooTolerance></ooTolerance>
+
+
+<!--Heat Shrink -->
+        <ooShrinkRatio></ooShrinkRatio>
+
+
+<!--LED -->
+        <ooLensColor></ooLensColor>
+        <ooForwardVoltage></ooForwardVoltage>
+        <ooForwardCurrent></ooForwardCurrent>
+        <ooIntensity></ooIntensity>
+        <ooPowerAngle></ooPowerAngle>
+        <ooWavelength></ooWavelength>
+        <ooChromaticityX></ooChromaticityX>
+        <ooChromaticityY></ooChromaticityY>
+
+
+<!--Plug -->
+        <ooPlugID></ooPlugID>
+        <ooPlugOD></ooPlugOD>
+        <ooPlugLength></ooPlugLength>
+
+
+<!--SEEED OPL (Open Parts Library) -->
+        <ooSEEEDsku></ooSEEEDsku>
+        <ooSEEEDdesc></ooSEEEDdesc>
+
+
+<!--Hidden -->
+        <oompVersion></oompVersion>
+        <ooNameLine1of2></ooNameLine1of2>
+        <ooNameLine2of2></ooNameLine2of2>
+        <ooNameLine1of3></ooNameLine1of3>
+        <ooNameLine2of3></ooNameLine2of3>
+        <ooNameLine3of3></ooNameLine3of3>
+        <ooFrontDiagram></ooFrontDiagram>
+        <oompAbout>These eight pin connectors are often used simply when you find you have eight wires that need connecting. However if you know of a common usage please let us know.</oompAbout>
+        <ooProjectName1></ooProjectName1>
+        <ooProjectDesc1></ooProjectDesc1>
+        <ooProjectLink1></ooProjectLink1>
+        <ooProjectType1></ooProjectType1>
+        <ooBuyName1></ooBuyName1>
+        <ooBuyDesc1></ooBuyDesc1>
+        <ooBuyLink1></ooBuyLink1>
+        <ooBuyType1></ooBuyType1>
+        <ooSEEED3dModel></ooSEEED3dModel>
+
+
+<!-- -->
+
+    </oompPart>
+</xml>

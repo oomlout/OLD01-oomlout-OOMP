@@ -1,0 +1,103 @@
+﻿<xml>
+
+    <oompPart>
+        <index>4118</index>
+
+<!--OOMP Base -->
+        <oompID>RESE-0805-X-O822-01</oompID>
+        <name>SMD (0805) 8.2k Ohm Resistor</name>
+        <hexID>1016</hexID>
+        <oompSort></oompSort>
+        <oompType>RESE</oompType>
+        <oompSize>0805</oompSize>
+        <oompColor>X</oompColor>
+        <oompDesc>O822</oompDesc>
+        <oompIndex>01</oompIndex>
+        <oompOwner></oompOwner>
+        <oompVersion>99</oompVersion>
+
+
+<!--Size -->
+        <ooPitch></ooPitch>
+        <ooWidth>1.25 mm</ooWidth>
+        <ooHeight></ooHeight>
+        <ooDiameter></ooDiameter>
+        <ooLength>2.0mm</ooLength>
+        <ooDepth></ooDepth>
+        <ooWireSize></ooWireSize>
+
+
+<!--Manufacturer -->
+        <ooManufacturer>RC0805JR-078K2L</ooManufacturer>
+        <ooManufacturerPartNumber></ooManufacturerPartNumber>
+
+
+<!--Description -->
+        <ooMaterial>Carbon Film</ooMaterial>
+        <ooNumPins></ooNumPins>
+        <ooTerminalStyle></ooTerminalStyle>
+        <ooPowerRating>1/8 W</ooPowerRating>
+
+
+<!--Hardware -->
+        <ooHeadStyle></ooHeadStyle>
+        <ooWrenchSize></ooWrenchSize>
+
+
+<!--Maximums -->
+        <ooMaxCurrent></ooMaxCurrent>
+        <ooMaxVoltage>150</ooMaxVoltage>
+        <ooLifetime></ooLifetime>
+        <ooTolerance>5%</ooTolerance>
+
+
+<!--Heat Shrink -->
+        <ooShrinkRatio></ooShrinkRatio>
+
+
+<!--LED -->
+        <ooLensColor></ooLensColor>
+        <ooForwardVoltage></ooForwardVoltage>
+        <ooForwardCurrent></ooForwardCurrent>
+        <ooIntensity></ooIntensity>
+        <ooPowerAngle></ooPowerAngle>
+        <ooWavelength></ooWavelength>
+        <ooChromaticityX></ooChromaticityX>
+        <ooChromaticityY></ooChromaticityY>
+
+
+<!--Plug -->
+        <ooPlugID></ooPlugID>
+        <ooPlugOD></ooPlugOD>
+        <ooPlugLength></ooPlugLength>
+
+
+<!--SEEED OPL (Open Parts Library) -->
+        <ooSEEEDsku>0020360P1</ooSEEEDsku>
+        <ooSEEEDdesc>SMD RES 8.2K-5%-1/8W</ooSEEEDdesc>
+
+
+<!--Hidden -->
+        <oompVersion></oompVersion>
+        <ooNameLine1of2></ooNameLine1of2>
+        <ooNameLine2of2></ooNameLine2of2>
+        <ooNameLine1of3></ooNameLine1of3>
+        <ooNameLine2of3></ooNameLine2of3>
+        <ooNameLine3of3></ooNameLine3of3>
+        <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
+        <oompAbout></oompAbout>
+        <ooProjectName1></ooProjectName1>
+        <ooProjectDesc1></ooProjectDesc1>
+        <ooProjectLink1></ooProjectLink1>
+        <ooProjectType1></ooProjectType1>
+        <ooBuyName1></ooBuyName1>
+        <ooBuyDesc1></ooBuyDesc1>
+        <ooBuyLink1></ooBuyLink1>
+        <ooBuyType1></ooBuyType1>
+        <ooSEEED3dModel></ooSEEED3dModel>
+
+
+<!-- -->
+
+    </oompPart>
+</xml>

@@ -1,0 +1,103 @@
+﻿<xml>
+
+    <oompPart>
+        <index>4103</index>
+
+<!--OOMP Base -->
+        <oompID>RESE-0603-X-O472-01</oompID>
+        <name>SMD (0603) 4.7k Ohm Resistor</name>
+        <hexID>AF472</hexID>
+        <oompSort>4700</oompSort>
+        <oompType>RESE</oompType>
+        <oompSize>0603</oompSize>
+        <oompColor>X</oompColor>
+        <oompDesc>O472</oompDesc>
+        <oompIndex>01</oompIndex>
+        <oompOwner></oompOwner>
+        <oompVersion>99</oompVersion>
+
+
+<!--Size -->
+        <ooPitch></ooPitch>
+        <ooWidth>1.6 mm</ooWidth>
+        <ooHeight></ooHeight>
+        <ooDiameter></ooDiameter>
+        <ooLength>3.2 mm</ooLength>
+        <ooDepth></ooDepth>
+        <ooWireSize></ooWireSize>
+
+
+<!--Manufacturer -->
+        <ooManufacturer>Yageo</ooManufacturer>
+        <ooManufacturerPartNumber>RC0603JR-074K7L</ooManufacturerPartNumber>
+
+
+<!--Description -->
+        <ooMaterial>Carbon Film</ooMaterial>
+        <ooNumPins></ooNumPins>
+        <ooTerminalStyle></ooTerminalStyle>
+        <ooPowerRating>1/10 W</ooPowerRating>
+
+
+<!--Hardware -->
+        <ooHeadStyle></ooHeadStyle>
+        <ooWrenchSize></ooWrenchSize>
+
+
+<!--Maximums -->
+        <ooMaxCurrent></ooMaxCurrent>
+        <ooMaxVoltage>50 V</ooMaxVoltage>
+        <ooLifetime></ooLifetime>
+        <ooTolerance>5%</ooTolerance>
+
+
+<!--Heat Shrink -->
+        <ooShrinkRatio></ooShrinkRatio>
+
+
+<!--LED -->
+        <ooLensColor></ooLensColor>
+        <ooForwardVoltage></ooForwardVoltage>
+        <ooForwardCurrent></ooForwardCurrent>
+        <ooIntensity></ooIntensity>
+        <ooPowerAngle></ooPowerAngle>
+        <ooWavelength></ooWavelength>
+        <ooChromaticityX></ooChromaticityX>
+        <ooChromaticityY></ooChromaticityY>
+
+
+<!--Plug -->
+        <ooPlugID></ooPlugID>
+        <ooPlugOD></ooPlugOD>
+        <ooPlugLength></ooPlugLength>
+
+
+<!--SEEED OPL (Open Parts Library) -->
+        <ooSEEEDsku>0010030P1</ooSEEEDsku>
+        <ooSEEEDdesc></ooSEEEDdesc>
+
+
+<!--Hidden -->
+        <oompVersion></oompVersion>
+        <ooNameLine1of2></ooNameLine1of2>
+        <ooNameLine2of2></ooNameLine2of2>
+        <ooNameLine1of3></ooNameLine1of3>
+        <ooNameLine2of3></ooNameLine2of3>
+        <ooNameLine3of3></ooNameLine3of3>
+        <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
+        <oompAbout></oompAbout>
+        <ooProjectName1></ooProjectName1>
+        <ooProjectDesc1></ooProjectDesc1>
+        <ooProjectLink1></ooProjectLink1>
+        <ooProjectType1></ooProjectType1>
+        <ooBuyName1></ooBuyName1>
+        <ooBuyDesc1></ooBuyDesc1>
+        <ooBuyLink1></ooBuyLink1>
+        <ooBuyType1></ooBuyType1>
+        <ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:Resistor0603.zip</ooSEEED3dModel>
+
+
+<!-- -->
+
+    </oompPart>
+</xml>

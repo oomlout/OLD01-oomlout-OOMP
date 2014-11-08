@@ -1,0 +1,103 @@
+﻿<xml>
+
+    <oompPart>
+        <index>3968</index>
+
+<!--OOMP Base -->
+        <oompID>HEAD-I01-X-36PI-01</oompID>
+        <name>2.54 mm 36 Pin Header</name>
+        <hexID>E636</hexID>
+        <oompSort></oompSort>
+        <oompType>HEAD</oompType>
+        <oompSize>I01</oompSize>
+        <oompColor>X</oompColor>
+        <oompDesc>36PI</oompDesc>
+        <oompIndex>01</oompIndex>
+        <oompOwner></oompOwner>
+        <oompVersion>10</oompVersion>
+
+
+<!--Size -->
+        <ooPitch>2.54 mm</ooPitch>
+        <ooWidth>91.44mm</ooWidth>
+        <ooHeight>11.54 mm</ooHeight>
+        <ooDiameter></ooDiameter>
+        <ooLength></ooLength>
+        <ooDepth>2.54 mm</ooDepth>
+        <ooWireSize></ooWireSize>
+
+
+<!--Manufacturer -->
+        <ooManufacturer></ooManufacturer>
+        <ooManufacturerPartNumber></ooManufacturerPartNumber>
+
+
+<!--Description -->
+        <ooMaterial></ooMaterial>
+        <ooNumPins></ooNumPins>
+        <ooTerminalStyle></ooTerminalStyle>
+        <ooPowerRating></ooPowerRating>
+
+
+<!--Hardware -->
+        <ooHeadStyle></ooHeadStyle>
+        <ooWrenchSize></ooWrenchSize>
+
+
+<!--Maximums -->
+        <ooMaxCurrent>3 A</ooMaxCurrent>
+        <ooMaxVoltage>1000 V</ooMaxVoltage>
+        <ooLifetime></ooLifetime>
+        <ooTolerance></ooTolerance>
+
+
+<!--Heat Shrink -->
+        <ooShrinkRatio></ooShrinkRatio>
+
+
+<!--LED -->
+        <ooLensColor></ooLensColor>
+        <ooForwardVoltage></ooForwardVoltage>
+        <ooForwardCurrent></ooForwardCurrent>
+        <ooIntensity></ooIntensity>
+        <ooPowerAngle></ooPowerAngle>
+        <ooWavelength></ooWavelength>
+        <ooChromaticityX></ooChromaticityX>
+        <ooChromaticityY></ooChromaticityY>
+
+
+<!--Plug -->
+        <ooPlugID></ooPlugID>
+        <ooPlugOD></ooPlugOD>
+        <ooPlugLength></ooPlugLength>
+
+
+<!--SEEED OPL (Open Parts Library) -->
+        <ooSEEEDsku></ooSEEEDsku>
+        <ooSEEEDdesc></ooSEEEDdesc>
+
+
+<!--Hidden -->
+        <oompVersion></oompVersion>
+        <ooNameLine1of2></ooNameLine1of2>
+        <ooNameLine2of2></ooNameLine2of2>
+        <ooNameLine1of3></ooNameLine1of3>
+        <ooNameLine2of3></ooNameLine2of3>
+        <ooNameLine3of3></ooNameLine3of3>
+        <ooFrontDiagram></ooFrontDiagram>
+        <oompAbout>These 36 pin strips are by far the most common length. They are designed to be snapped to any length (using either pliers or snips) so are the most useful to have in your toolbox.</oompAbout>
+        <ooProjectName1></ooProjectName1>
+        <ooProjectDesc1></ooProjectDesc1>
+        <ooProjectLink1></ooProjectLink1>
+        <ooProjectType1></ooProjectType1>
+        <ooBuyName1></ooBuyName1>
+        <ooBuyDesc1></ooBuyDesc1>
+        <ooBuyLink1></ooBuyLink1>
+        <ooBuyType1></ooBuyType1>
+        <ooSEEED3dModel></ooSEEED3dModel>
+
+
+<!-- -->
+
+    </oompPart>
+</xml>

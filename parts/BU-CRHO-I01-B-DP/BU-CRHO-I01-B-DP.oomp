@@ -1,0 +1,75 @@
+  <xml>
+		<oompPart>
+		<!--- Base Details -->
+		<hexID>0000</hexID>
+		<oompID>BU-CRHO-I01-B-DP</oompID>
+		<name>Deluxe Make Your Own Cable Bundle</name>
+		<oompType>CRHO</oompType>
+		<oompSize>I01</oompSize>
+		<oompColor>B</oompColor>
+		<oompOwner>DP</oompOwner>
+		<oompDesc></oompDesc>
+        <oompVersion>10</oompVersion>		
+		<!--- Part Details -->
+		<partList>
+			<part>
+				<partID>CRHO-I01-B-01PI-01</partID>
+				<partQty>50</partQty>
+			</part>
+			<part>
+				<partID>CRHO-I01-B-02PI-01</partID>
+				<partQty>50</partQty>
+			</part>
+			<part>
+				<partID>CRHO-I01-B-03PI-01</partID>
+				<partQty>50</partQty>
+			</part>
+			<part>
+				<partID>CRHO-I01-B-04PI-01</partID>
+				<partQty>25</partQty>
+			</part>
+			<part>
+				<partID>CRHO-I01-B-05PI-01</partID>
+				<partQty>25</partQty>
+			</part>
+			<part>
+				<partID>CRHO-I01-B-06PI-01</partID>
+				<partQty>25</partQty>
+			</part>
+			<part>
+				<partID>CRHO-I01-B-08PI-01</partID>
+				<partQty>25</partQty>
+			</part>
+			<part>
+				<partID>CRHO-I01-B-10PI-01</partID>
+				<partQty>25</partQty>
+			</part>
+			<part>
+				<partID>HEAD-I01-X-36PI-01</partID>
+				<partQty>5</partQty>
+			</part>
+			<part>
+				<partID>HEAL-I01-X-36PI-01</partID>
+				<partQty>5</partQty>
+			</part>
+			<part>
+				<partID>RBCC-40W-Z-L100-01</partID>
+				<partQty>2</partQty>
+			</part>
+			<part>
+				<partID>RBCC-40W-Z-L200-01</partID>
+				<partQty>2</partQty>
+			</part>			
+			<part>
+				<partID>RBCC-40W-Z-L300-01</partID>
+				<partQty>2</partQty>
+			</part>	
+		</partList>
+		
+		
+		<!--- Description Details -->
+		<bundleDesc></bundleDesc>
+		<bundleShort></bundleShort>
+		<bundleBuy></bundleBuy>
+		</oompPart>	
+	</xml>

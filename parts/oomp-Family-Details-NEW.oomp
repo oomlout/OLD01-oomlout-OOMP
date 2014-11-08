@@ -1,0 +1,255 @@
+<xml>
+	<!-- 2Digit followed by 3 digit spaces -->
+	<oompFamily>
+		<familyName>1/4 Watt Resistor</familyName>
+		<familyType>RESE</familyType>
+		<familySize>W04</familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>AE</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>AE###</familyHexNameSpaceDisplay>
+		<familyAbout></familyAbout>
+	</oompFamily>
+	<oompFamily>
+		<familyName>SMD (0603) Resistor</familyName>
+		<familyType>RESE</familyType>
+		<familySize>0603</familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>AF</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>AF###</familyHexNameSpaceDisplay>	
+		<familyAbout></familyAbout>
+	</oompFamily>
+
+
+	<!-- 2Digit followed by 2 digit spaces -->
+	<oompFamily>
+		<familyName>2.54 mm Black Crimp Housing</familyName>
+		<familyType>CRHO</familyType>
+		<familySize>I01</familySize>
+		<familyColor>B</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>DA</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>DA##</familyHexNameSpaceDisplay>
+		<familyAbout>These little plastic bits are everywhere. They're Used for connecting wires to 2.54 mm (HEAD-I01, HEAL-I01) headers that are found on almost every PCB. While very handy, they are not keyed, so it's easy to plug them in backwards. Because of this it's best to avoid them when frequent connecting/un-connecting is required, or the design is to be used by untrained persons. While these connectors are everywhere they are (slowly) falling out of favor, being replaced by finer pitch connectors that allow denser connections.</familyAbout>
+	</oompFamily>
+	<oompFamily>
+		<familyName>M3 Nylon Standoff (F-F)</familyName>
+		<familyType>NHFF</familyType>
+		<familySize>M3</familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>DB</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>DB##</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
+		</oompFamily>	
+	<oompFamily>
+		<familyName>M3 Nylon Standoff (M-F)</familyName>
+		<familyType>NHFM</familyType>
+		<familySize>M3</familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>DC</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>DC##</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
+		</oompFamily>		
+	<oompFamily>
+		<familyName>M3 Nylon Screw Cross Head</familyName>
+		<familyType>NSCR</familyType>
+		<familySize>M3</familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>70</familyIndex>	
+		<familyHexNameSpace>DD</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>DD##</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
+	</oompFamily>		
+	<oompFamily>
+		<familyName>M3 Standoff (F-F)</familyName>
+		<familyType>HSFF</familyType>
+		<familySize>M3</familySize>
+		<familyColor>M</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>DE</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>DE##</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
+	</oompFamily>		
+	<oompFamily>
+		<familyName>M3 Standoff (M-F)</familyName>
+		<familyType>HSFM</familyType>
+		<familySize>M3</familySize>
+		<familyColor>M</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>DF</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>DF##</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
+	</oompFamily>		
+	<oompFamily>
+		<familyName>M3 Screw Cross Head</familyName>
+		<familyType>SCRE</familyType>
+		<familySize>M3</familySize>
+		<familyColor>M</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>70</familyIndex>	
+		<familyHexNameSpace>E0</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>E0##</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
+	</oompFamily>			
+	<oompFamily>
+		<familyName>M3 Hex Bolt</familyName>
+		<familyType>BOLT</familyType>
+		<familySize>M3</familySize>
+		<familyColor>M</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>E1</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>E1##</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
+	</oompFamily>				
+	<oompFamily>
+		<familyName>2.54mm IDC Socket</familyName>
+		<familyType>IDCS</familyType>
+		<familySize>I01</familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>E2</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>E2##</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
+	</oompFamily>	
+	<oompFamily>
+		<familyName>2.54mm IDC Plug</familyName>
+		<familyType>IDCP</familyType>
+		<familySize>I01</familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>E3</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>E3##</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
+	</oompFamily>		
+	
+	<oompFamily>
+		<familyName>2.54 mm White Keyed Connector Housing</familyName>
+		<familyType>KCHO</familyType>
+		<familySize>I01</familySize>
+		<familyColor>W</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>E4</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>E4##</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
+	</oompFamily>		
+	<oompFamily>
+		<familyName>2.54 mm White Keyed Connector Socket</familyName>
+		<familyType>KCHS</familyType>
+		<familySize>I01</familySize>
+		<familyColor>W</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>E5</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>E5##</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
+	</oompFamily>		
+	<oompFamily>
+		<familyName>2.54 mm Pin Header</familyName>
+		<familyType>HEAD</familyType>
+		<familySize>I01</familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>E6</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>E6##</familyHexNameSpaceDisplay>		
+		<familyAbout>These are absolutely everywhere. They're used for making board to board connections (when paired with HEAD-I01) or board to wire connections (when paired with CRHO-I01). While ubiquitous they are not always the best choice, The lack of a key means plugging them in backwards is always a worry, and when a lot of connections are required the pitch means a lot of real estate gets occupied.</familyAbout>
+	</oompFamily>			
+		<oompFamily>
+		<familyName>2.54 mm Pin Header (Long)</familyName>
+		<familyType>HEAL</familyType>
+		<familySize>I01</familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>E7</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>E7##</familyHexNameSpaceDisplay>		
+		<familyAbout>These are rather rare, but can be super useful. One side of a standard 2.54 mm header is the perfect length for soldering, on these headers that side is the right length for plugging into a breadboard. They are also handy when connecting two female connectors (CRHO-I01) together. It means these are great when prototyping, allowing you to connect a wire with the right connector (CRHO-I01) to your breadboard, or butt two wires together even though they may not have been designed to connect to one another.</familyAbout>
+	</oompFamily>			
+	
+	<!-- SKIP EE RESERVED FOR 3 Digit Followed by 1 -->
+	
+	
+	<!-- 3Digit followed by 1 digit spaces -->
+	<oompFamily>
+		<familyName>40 Wire Rainbow Crimped Ribbon Cable</familyName>
+		<familyType>RBCC</familyType>
+		<familySize>40W</familySize>
+		<familyColor>Z</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>EE1</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>EE1#</familyHexNameSpaceDisplay>		
+		<familyAbout>These ribbon cables on their own aren't very handy but when paired with the right crimp housing (CRHO-I01) become the answer to all your board connecting woes. The pre-crimped ends slide easily into a crimp housing making constructing custom cables a cinch, and the rainbow nature means it's easy to make your project colorful. While they are great, being un-keyed means plugging the constructed cable in backwards is possible, and with a 2.54 mm spacing quite a bit of real estate is used for multi-wire connections.</familyAbout>
+	</oompFamily>	
+
+	<oompFamily>
+		<familyName>10 mm Frosted LED</familyName>
+		<familyType>LEDS</familyType>
+		<familySize>10</familySize>
+		<familyColor></familyColor>
+		<familyDesc>FROS</familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>EE0</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>EE0#</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
+	</oompFamily>	
+	<oompFamily>
+		<familyName>40 Wire Rainbow Crimped Ribbon Cable Keyed</familyName>
+		<familyType>RBCC</familyType>
+		<familySize>40W</familySize>
+		<familyColor>Z</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>80</familyIndex>	
+		<familyHexNameSpace>EE2</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>EE2#</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
+	</oompFamily>	
+	<oompFamily>
+		<familyName>6 mm Heat Shrink</familyName>
+		<familyType>HESH</familyType>
+		<familySize>06</familySize>
+		<familyColor></familyColor>
+		<familyDesc>STAN</familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>EE5</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>EE5#</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
+	</oompFamily>	
+	<oompFamily>
+		<familyName>3 mm Heat Shrink</familyName>
+		<familyType>HESH</familyType>
+		<familySize>03</familySize>
+		<familyColor></familyColor>
+		<familyDesc>STAN</familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>EE4</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>EE4#</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
+	</oompFamily>	
+	<oompFamily>
+		<familyName>1.5 mm Heat Shrink</familyName>
+		<familyType>HESH</familyType>
+		<familySize>15D</familySize>
+		<familyColor></familyColor>
+		<familyDesc>STAN</familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>EE3</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>EE3#</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
+	</oompFamily>			
+</xml>
