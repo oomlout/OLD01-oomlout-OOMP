@@ -95,7 +95,10 @@
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>
         <ooSEEED3dModel></ooSEEED3dModel>
-		
+
+	<!--Cdata example -->		
+<![CDATA[		
+]]>
 	<!--Put this in -->
 		<sourceList>
 			<manufacturer>
@@ -118,10 +121,13 @@
 		</sourceList>
 		<oplList>
 			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
+				<oplScheme>SEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
 				<oplName></oplName>
 				<oplID></oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink></oplLink>
 			</oplSystem>
 		</oplList>
 			

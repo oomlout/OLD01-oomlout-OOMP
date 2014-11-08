@@ -76,6 +76,36 @@
         <ooSEEEDsku>3100060P1</ooSEEEDsku>
         <ooSEEEDdesc>SMD Button	</ooSEEEDdesc>
 
+		<sourceList>
+			<manufacturer>
+				<company>Shenzhen Best</company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID>TS-1188E</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+				
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link></link>
+				<note></note>
+			</bigDistributor>					
+		</sourceList>
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD Button</oplName>
+				<oplID>3100060P1</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage>4P-SMD-7.0X3.5X3.5H-90D</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Connector]]></oplLink>
+			</oplSystem>
+		</oplList>
 
 <!--Hidden -->
         <oompVersion></oompVersion>

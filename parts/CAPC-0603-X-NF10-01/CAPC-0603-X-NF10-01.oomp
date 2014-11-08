@@ -76,7 +76,44 @@
         <ooSEEEDsku>0100350P1</ooSEEEDsku>
         <ooSEEEDdesc>SMD CAP Ceramic 10nF-50V-10%-X7R</ooSEEEDdesc>
 
-
+		<sourceList>
+			<manufacturer>
+				<company>Yageo</company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID>CC0603KRX7R9BB103</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+				
+			<bigDistributor>
+				<company>Digikey</company>
+				<companyCode>C-DIGK</companyCode>
+				<name>CAP CER 10000PF 50V 10% X7R 0603</name>
+				<partID>311-1085-2-ND</partID>
+				<link><![CDATA[http://www.digikey.com/product-detail/en/CC0603KRX7R9BB103/311-1085-2-ND/302819]]></link>
+				<note></note>
+			</bigDistributor>				
+			<bigDistributor>
+				<company>Mouser</company>
+				<companyCode>C-MOUS</companyCode>
+				<name>Multilayer Ceramic Capacitors MLCC - SMD/SMT 10nF 50V X7R 10%</name>
+				<partID>603-CC603KRX7R9BB103</partID>
+				<link><![CDATA[http://uk.mouser.com/ProductDetail/Yageo/CC0603KRX7R9BB103/?qs=%2fha2pyFaduh%2bUOWCkAJwPDBTdHczBT8rvHgrBk5f2mwvasGbjGc5Rw%3d%3d]]></link>
+				<note></note>
+			</bigDistributor>					
+		</sourceList>
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD CAP Ceramic 10nF-50V-10%-X7R</oplName>
+				<oplID>0100350P1</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage>0603</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Capacitor]]></oplLink>
+			</oplSystem>
+		</oplList>
 <!--Hidden -->
         <oompVersion></oompVersion>
         <ooNameLine1of2></ooNameLine1of2>

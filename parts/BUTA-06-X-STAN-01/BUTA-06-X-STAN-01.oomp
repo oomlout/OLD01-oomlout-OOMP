@@ -76,6 +76,45 @@
         <ooSEEEDsku>3110040P1</ooSEEEDsku>
         <ooSEEEDdesc>SWITCH TACTILE SPST-NO 0.05A 12V</ooSEEEDdesc>
 
+		<sourceList>
+			<manufacturer>
+				<company>Shenzhen Best</company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID>TS-1109</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company>TE Connectivity</company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID>1825910-6</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>			
+				
+			<bigDistributor>
+				<company>DigiKey</company>
+				<companyCode>C-DIGK</companyCode>
+				<name>SWITCH TACTILE SPST-NO 0.05A 12V</name>
+				<partID>450-1650-ND</partID>
+				<link><![CDATA[http://www.digikey.co.uk/product-search/en?vendor=0&keywords=450-1650-ND]]></link>
+				<note></note>
+			</bigDistributor>					
+		</sourceList>
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SWITCH TACTILE SPST-NO 0.05A 12V</oplName>
+				<oplID>3110040P1</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage>4P-6.0X6.0X5.0H</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Connector]]></oplLink>
+			</oplSystem>
+		</oplList>		
+		
 
 <!--Hidden -->
         <oompVersion></oompVersion>

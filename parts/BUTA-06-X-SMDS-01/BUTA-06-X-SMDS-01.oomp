@@ -76,7 +76,53 @@
         <ooSEEEDsku></ooSEEEDsku>
         <ooSEEEDdesc></ooSEEEDdesc>
 
+		<sourceList>
+			<manufacturer>
+				<company>Diptronics</company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID>DTSM-62K-S-V-T/R(SN431)</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company>Schurter</company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID>1301.9315</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>				
+			<bigDistributor>
+				<company>Mouser</company>
+				<companyCode>C-MOUS</companyCode>
+				<name>Pushbutton Switches SHORT TRAVEL SWITCH 6X6, 5.0MM</name>
+				<partID>693-1301.9315</partID>
+				<link><![CDATA[http://uk.mouser.com/ProductDetail/Schurter/13019315/?qs=sGAEpiMZZMvxtGF7dlGNpine0yr6cgj2blZOKgiiQpQ%3d]]></link>
+				<note></note>
+			</bigDistributor>					
+			<bigDistributor>
+				<company>DigiKey</company>
+				<companyCode>C-DIGK</companyCode>
+				<name>SWITCH TACTILE SPST-NO 0.05A 12V</name>
+				<partID>1301.9315-ND</partID>
+				<link><![CDATA[http://www.digikey.co.uk/product-search/en?x=26&y=16&lang=en&site=uk&KeyWords=1301.9315-ND]]></link>
+				<note></note>
+			</bigDistributor>					
 
+			</sourceList>
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SWITCH TACTILE SPST-NO 0.05A 12V</oplName>
+				<oplID>3100010P1</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage>4P-SMD-6.0X6.0X5.0H</oplPackage>				
+				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Connector]]></oplLink>
+			</oplSystem>
+		</oplList>
+		
 <!--Hidden -->
         <oompVersion></oompVersion>
         <ooNameLine1of2></ooNameLine1of2>

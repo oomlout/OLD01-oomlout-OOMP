@@ -1,31 +1,43 @@
 
 # @@%%ID%%,oompPart.oompID,name@@=
 
- ## Summary
+**%%ID%%,oompPart.oompID,oompID**## Summary
+ 
 Name: __@@%%ID%%,oompPart.oompID,name@@__
+
 ID: __@@%%ID%%,oompPart.oompID,oompID@@__
+
 Hex ID: __@@%%ID%%,oompPart.oompID,hexID@@__
+
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/%%ID%%__
+
 Short URL: __http://oom.lt/@@%%ID%%,oompPart.oompID,hexID@@__
 
+
 Type: __@@%%ID%%,oompPart.oompID,oompType@@__ @@@1%%ID%%,oompPart.oompID,oompType@1,oompType.code,name@@ 
+
 Size: __@@%%ID%%,oompPart.oompID,oompSize@@__ @@@1%%ID%%,oompPart.oompID,oompSize@1,oompSize.code,name@@ 
+
 Color: __@@%%ID%%,oompPart.oompID,oompColor@@__ @@@1%%ID%%,oompPart.oompID,oompColor@1,oompColor.code,name@@ 
+
 Description __@@%%ID%%,oompPart.oompID,oompDesc@@__ @@@1%%ID%%,oompPart.oompID,oompDesc@1,oompDesc.code,name@@ 
+
 Index: __@@%%ID%%,oompPart.oompID,oompIndex@@__
 
 
-## Images
-(http://oomlout.com/oomp-gen/parts/%%ID%%/%%ID%%_420.jpg)
+ **%%ID%%,oompPart.oompID,oompID**# Images
+![%%ID%%](http://oomlout.com/oomp-gen/parts/%%ID%%/%%ID%%_420.jpg)
 #$$%%ID%%_RE.jpg$$<span class="plainlinks">[http://oomlout.com/oomp-gen/parts/%%ID%%/%%ID%%_RE.jpg http://oomlout.com/oomp-gen/parts/%%ID%%/%%ID%%_RE_140.jpg]</span>
 #$$%%ID%%_01.jpg$$<span class="plainlinks">[http://oomlout.com/oomp-gen/parts/%%ID%%/%%ID%%_01.jpg http://oomlout.com/oomp-gen/parts/%%ID%%/%%ID%%_01_140.jpg]</span>
 #$$%%ID%%_02.jpg$$<span class="plainlinks">[http://oomlout.com/oomp-gen/parts/%%ID%%/%%ID%%_02.jpg http://oomlout.com/oomp-gen/parts/%%ID%%/%%ID%%_02_140.jpg]</span>
 #$$%%ID%%_ISO.png$$<span class="plainlinks">[http://oomlout.com/oomp-gen/parts/%%ID%%/%%ID%%_ISO.png http://oomlout.com/oomp-gen/parts/%%ID%%/%%ID%%_ISO_140.png]</span>
 
 **%%ID%%,oompPart.oompID,oompAbout**## About
+
 **%%ID%%,oompPart.oompID,oompAbout**@@%%ID%%,oompPart.oompID,oompAbout@@
 
  ## Full Details
+
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/%%ID%%
 
 # ## Specifications
