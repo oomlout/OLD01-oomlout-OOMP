@@ -24,7 +24,7 @@ Description __O102__ 1k Ohm
 Index: __67__
 
 
-# Images
+## Images
 ![RESE-0603-X-O102-67](http://oomlout.com/oomp-gen/parts/RESE-0603-X-O102-67/RESE-0603-X-O102-67_420.jpg)
 
 

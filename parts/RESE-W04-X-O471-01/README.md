@@ -24,7 +24,7 @@ Description __O471__ 470 Ohm
 Index: __01__
 
 
-# Images
+## Images
 ![RESE-W04-X-O471-01](http://oomlout.com/oomp-gen/parts/RESE-W04-X-O471-01/RESE-W04-X-O471-01_420.jpg)
 
 

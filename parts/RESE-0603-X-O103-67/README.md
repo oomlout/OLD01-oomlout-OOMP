@@ -24,7 +24,7 @@ Description __O103__ 10k Ohm
 Index: __67__
 
 
-# Images
+## Images
 ![RESE-0603-X-O103-67](http://oomlout.com/oomp-gen/parts/RESE-0603-X-O103-67/RESE-0603-X-O103-67_420.jpg)
 
 

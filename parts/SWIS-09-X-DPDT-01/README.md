@@ -24,7 +24,7 @@ Description __DPDT__ DPDT
 Index: __01__
 
 
-# Images
+## Images
 ![SWIS-09-X-DPDT-01](http://oomlout.com/oomp-gen/parts/SWIS-09-X-DPDT-01/SWIS-09-X-DPDT-01_420.jpg)
 
 

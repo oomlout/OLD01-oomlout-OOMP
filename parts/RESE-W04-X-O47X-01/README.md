@@ -24,7 +24,7 @@ Description __O47X__ 4.7 Ohm
 Index: __01__
 
 
-# Images
+## Images
 ![RESE-W04-X-O47X-01](http://oomlout.com/oomp-gen/parts/RESE-W04-X-O47X-01/RESE-W04-X-O47X-01_420.jpg)
 
 

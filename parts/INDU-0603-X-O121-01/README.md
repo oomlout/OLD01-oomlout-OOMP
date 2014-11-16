@@ -24,7 +24,7 @@ Description __O121__ 120 Ohm
 Index: __01__
 
 
-# Images
+## Images
 ![INDU-0603-X-O121-01](http://oomlout.com/oomp-gen/parts/INDU-0603-X-O121-01/INDU-0603-X-O121-01_420.jpg)
 
 

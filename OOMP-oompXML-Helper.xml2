@@ -102,8 +102,8 @@
 	<!--Put this in -->
 		<sourceList>
 			<manufacturer>
-				<company>Yageo</company>
-				<companyCode>C-YAGE</companyCode>
+				<company</company>
+				<companyCode></companyCode>
 				<name></name>
 				<partID></partID>
 				<link></link>
@@ -111,16 +111,16 @@
 			</manufacturer>
 				
 			<bigDistributor>
-				<company>DigiKey</company>
-				<companyCode>C-DIGK</companyCode>
+				<company></company>
+				<companyCode></companyCode>
 				<name></name>
 				<partID></partID>
 				<link><![CDATA[ ]]></link>
 				<note></note>
 			</bigDistributor>					
 			<bigDistributor>
-				<company>Mouser</company>
-				<companyCode>C-MOUS</companyCode>
+				<company></company>
+				<companyCode></companyCode>
 				<name></name>
 				<partID></partID>
 				<link><![CDATA[ ]]></link>
@@ -129,8 +129,8 @@
 		</sourceList>
 		<oplList>
 			<oplSystem>
-				<oplScheme>SEED OPL</oplScheme>
-				<oplCode>C-SEEE</oplCode>
+				<oplScheme></oplScheme>
+				<oplCode></oplCode>
 				<oplName></oplName>
 				<oplID></oplID>
 				<oplFootprint></oplFootprint>
@@ -138,8 +138,9 @@
 				<oplLink><![CDATA[ ]]></oplLink>
 			</oplSystem>
 		</oplList>
-			
-		
+
+<!-- All oomp files		-->
+search-ms:displayname=Search%20Results%20in%20parts&crumb=type%3A.oomp&crumb=location:C%3A%5CGH%5Coomlout-OOMP%5Cparts		
 		
 <!-- -->
 

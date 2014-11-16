@@ -24,7 +24,7 @@ Description __MZ16__ 16 MHz
 Index: __01__
 
 
-# Images
+## Images
 ![XTAL-TH-X-MZ16-01](http://oomlout.com/oomp-gen/parts/XTAL-TH-X-MZ16-01/XTAL-TH-X-MZ16-01_420.jpg)
 
 

@@ -3,18 +3,19 @@ set TPGEdirectory=C:\GH\oomlout-TPGE\
 set WIKBdirectory=C:\GH\oomlout-WIKB\
 set OOBBpartsDirectory=C:\GH\oomlout-OOMP\parts\
 
+set id=BOLT-M3-M-12-01
 
 REM
 REM Generate Part Page
 REM
 
 	REM      Generate Page
-REM python %TPGEdirectory%TPGEmain.py -id %id% -bd %OOBBpartsDirectory%%id%\ -xa .oomp -ex %OOBBpartsDirectory%,C:\GH\oomlout-OOMP\ -tm template/OOMP-template.tmpl.html -of %OOBBpartsDirectory%%id%\%id%-wiki.html
+python %TPGEdirectory%TPGEmain.py -id %id% -bd %OOBBpartsDirectory%%id%\ -xa .oomp -ex %OOBBpartsDirectory%,C:\GH\oomlout-OOMP\OOMP-helpers.oomp -tm template/OOMP-template.tmpl.html -of %OOBBpartsDirectory%%id%\%id%-wiki.html
 
 
 	
 	REM Upload Page
-REM python %WIKBdirectory%WIKBmain.py -si oomlout -bd %OOBBpartsDirectory%%id%\%id%-wiki.html -wb projects/oomp/part/%id% 
+python %WIKBdirectory%WIKBmain.py -si oomlout -bd %OOBBpartsDirectory%%id%\%id%-wiki.html -wb projects/oomp/part/%id% 
 
 REM
 REM Generate Info Page
@@ -30,4 +31,4 @@ REM python %WIKBdirectory%WIKBmain.py -si oomlout -bd %OOBBpartsDirectory%%extra
 
 	REM Making all Markdown Pages
 	REM 	Markdown Pages
-python %TPGEdirectory%TPGEmain.py -rm A -bd %OOBBpartsDirectory% -xa .oomp -ex %OOBBpartsDirectory%,C:\GH\oomlout-OOMP\OOMP-helpers.oomp -tm template/OOMP-template.tmpl.md -of %OOBBpartsDirectory%%%%%ID%%%%\README.md
+REM python %TPGEdirectory%TPGEmain.py -rm A -bd %OOBBpartsDirectory% -xa .oomp -ex %OOBBpartsDirectory%,C:\GH\oomlout-OOMP\OOMP-helpers.oomp -tm template/OOMP-template.tmpl.md -of %OOBBpartsDirectory%%%%%ID%%%%\README.md

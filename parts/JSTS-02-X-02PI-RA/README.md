@@ -24,7 +24,7 @@ Description __02PI__ 2 Pin
 Index: __RA__
 
 
-# Images
+## Images
 ![JSTS-02-X-02PI-RA](http://oomlout.com/oomp-gen/parts/JSTS-02-X-02PI-RA/JSTS-02-X-02PI-RA_420.jpg)
 
 

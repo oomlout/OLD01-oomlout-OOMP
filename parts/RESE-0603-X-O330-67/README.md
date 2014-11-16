@@ -24,7 +24,7 @@ Description __O330__ 33 Ohm
 Index: __67__
 
 
-# Images
+## Images
 ![RESE-0603-X-O330-67](http://oomlout.com/oomp-gen/parts/RESE-0603-X-O330-67/RESE-0603-X-O330-67_420.jpg)
 
 

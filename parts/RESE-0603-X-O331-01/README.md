@@ -24,7 +24,7 @@ Description __O331__ 330 Ohm
 Index: __01__
 
 
-# Images
+## Images
 ![RESE-0603-X-O331-01](http://oomlout.com/oomp-gen/parts/RESE-0603-X-O331-01/RESE-0603-X-O331-01_420.jpg)
 
 

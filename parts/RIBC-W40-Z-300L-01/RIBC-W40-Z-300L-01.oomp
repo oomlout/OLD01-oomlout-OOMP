@@ -10,5 +10,45 @@
             <oompColor>Z</oompColor>
             <oompDesc>300L</oompDesc>
             <oompIndex>01</oompIndex>
-    </oompPart>
+    		<sourceList>
+			<manufacturer>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+				
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[ ]]></link>
+				<note></note>
+			</bigDistributor>					
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[ ]]></link>
+				<note></note>
+			</bigDistributor>					
+		</sourceList>
+		<oplList>
+			<oplSystem>
+				<oplScheme></oplScheme>
+				<oplCode></oplCode>
+				<oplName></oplName>
+				<oplID></oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[ ]]></oplLink>
+			</oplSystem>
+		</oplList>
+
+
+</oompPart>
 </xml>

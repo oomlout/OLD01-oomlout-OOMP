@@ -24,7 +24,7 @@ Description __04PI__ 4 Pin
 Index: __RS__
 
 
-# Images
+## Images
 ![JSTS-02-X-04PI-RS](http://oomlout.com/oomp-gen/parts/JSTS-02-X-04PI-RS/JSTS-02-X-04PI-RS_420.jpg)
 
 

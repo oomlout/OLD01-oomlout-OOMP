@@ -24,7 +24,7 @@ Description __O15X__ 1.5 Ohm
 Index: __01__
 
 
-# Images
+## Images
 ![RESE-W04-X-O15X-01](http://oomlout.com/oomp-gen/parts/RESE-W04-X-O15X-01/RESE-W04-X-O15X-01_420.jpg)
 
 
