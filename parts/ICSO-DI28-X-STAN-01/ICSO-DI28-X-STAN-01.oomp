@@ -1,0 +1,139 @@
+<xml>
+    <oompPart>
+        <index>9876</index>
+
+<com>OOMP Base</com>
+        <oompID>ICSO-DI28-X-STAN-01</oompID>
+        <name>28 Pin DIP IC Socket</name>
+        <hexID>9876</hexID>
+        <oompSort></oompSort>
+        <oompType>ICSO</oompType>
+        <oompSize>DI28</oompSize>
+        <oompColor>X</oompColor>
+        <oompDesc>STAN</oompDesc>
+        <oompIndex>01</oompIndex>
+        <oompOwner></oompOwner>
+        <oompVersion></oompVersion>
+
+
+<com>Size</com>
+        <ooPitch>2.54 mm</ooPitch>
+        <ooWidth>10.16 mm</ooWidth>
+        <ooHeight>5.2 mm</ooHeight>
+        <ooDiameter></ooDiameter>
+        <ooLength>35.56 mm</ooLength>
+        <ooDepth></ooDepth>
+        <ooWireSize></ooWireSize>
+
+<com>Description</com>
+        <ooMaterial></ooMaterial>
+        <ooNumPins>28</ooNumPins>
+        <ooTerminalStyle></ooTerminalStyle>
+        <ooPowerRating></ooPowerRating>
+
+<com>Hardware</com>
+        <ooHeadStyle></ooHeadStyle>
+        <ooWrenchSize></ooWrenchSize>
+
+<com>Maximums</com>
+        <ooMaxCurrent>1 A</ooMaxCurrent>
+        <ooMaxVoltage>250 V</ooMaxVoltage>
+        <ooLifetime></ooLifetime>
+        <ooTolerance></ooTolerance>
+
+<com>Heat Shrink</com>
+        <ooShrinkRatio></ooShrinkRatio>
+
+<com>LED</com>
+        <ooLensColor></ooLensColor>
+        <ooForwardVoltage></ooForwardVoltage>
+        <ooForwardCurrent></ooForwardCurrent>
+        <ooIntensity></ooIntensity>
+        <ooPowerAngle></ooPowerAngle>
+        <ooWavelength></ooWavelength>
+        <ooChromaticityX></ooChromaticityX>
+        <ooChromaticityY></ooChromaticityY>
+
+<com>Plug</com>
+        <ooPlugID></ooPlugID>
+        <ooPlugOD></ooPlugOD>
+        <ooPlugLength></ooPlugLength>
+
+<com>Source List</com>		
+		<sourceList>
+			<manufacturer>
+				<company>Multicomp</company>
+				<companyCode>C-MULTI</companyCode>
+				<name></name>
+				<partID>MC-2227-28-03-F1</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company>TruConnect</company>
+				<companyCode>C-TRUC</companyCode>
+				<name></name>
+				<partID>DS1009-28 AT1NS</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company>TE Connectivity</company>
+				<companyCode>C-TECO</companyCode>
+				<name></name>
+				<partID>1-390261-9</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>			
+				
+			<bigDistributor>
+				<company>RS Electronics</company>
+				<companyCode>C-RSRS</companyCode>
+				<name>TE Connectivity 2.54mm Pitch Vertical 28 Way, Through Hole Stamped Pin Closed Frame IC Dip Socket, 1A</name>
+				<partID>612-8233</partID>
+				<link><![CDATA[http://uk.rs-online.com/web/p/dil-sockets/6128233/?searchTerm=6128233&relevancy-data=636F3D3126696E3D4931384E525353746F636B4E756D6265724D504E266C753D656E266D6D3D6D61746368616C6C26706D3D5E5C647B367D247C5E5C647B377D247C5E5C647B31307D2426706F3D313426736E3D592673743D52535F53544F434B5F4E554D4245522677633D4E4F4E45267573743D3631323832333326]]></link>
+				<note></note>
+			</bigDistributor>				
+			<bigDistributor>
+				<company>Rapid Electronics</company>
+				<companyCode>C-RAPI</companyCode>
+				<name>Tube of 17 28pin DIL Socket, Narrow7.62mm with Central Support</name>
+				<partID>22-0114</partID>
+				<link><![CDATA[http://www.rapidonline.com/cables-connectors/tube-of-17-28pin-dil-socket-narrow7-62mm-with-central-support-22-0114]]></link>
+				<note></note>
+			</bigDistributor>				
+			<bigDistributor>
+				<company>Farnell</company>
+				<companyCode>C-FARN</companyCode>
+				<name>MULTICOMP  MC-2227-28-03-F1  SOCKET IC, TUBE/17, 28WAY</name>
+				<partID>1182590</partID>
+				<link><![CDATA[http://uk.farnell.com/multicomp/mc-2227-28-03-f1/socket-ic-tube-17-28way/dp/1182590?ost=1182590]]></link>
+				<note></note>
+			</bigDistributor>					
+		</sourceList>
+		
+<com>OPL</com>		
+		<oplList>
+			<oplSystem>
+				<oplScheme></oplScheme>
+				<oplCode></oplCode>
+				<oplName></oplName>
+				<oplID></oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[]]></oplLink>
+			</oplSystem>
+		</oplList>
+
+<com>Hidden</com>
+        <oompAbout></oompAbout>
+        <ooProjectName1></ooProjectName1>
+        <ooProjectDesc1></ooProjectDesc1>
+        <ooProjectLink1></ooProjectLink1>
+        <ooProjectType1></ooProjectType1>
+        <ooBuyName1></ooBuyName1>
+        <ooBuyDesc1></ooBuyDesc1>
+        <ooBuyLink1></ooBuyLink1>
+        <ooBuyType1></ooBuyType1>
+    </oompPart>
+</xml>

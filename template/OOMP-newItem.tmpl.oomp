@@ -4,7 +4,7 @@
 
 <com>OOMP Base</com>
         <oompID>!!0,newOOMP.oompType,oompType!!-!!0,newOOMP.oompSize,oompSize!!-!!0,newOOMP.oompColor,oompColor!!-!!0,newOOMP.oompDesc,oompDesc!!-!!0,newOOMP.oompIndex,oompIndex!!</oompID>
-        <name>@@!!0,newOOMP.oompType,oompSize!!,oompSize.code,name@@>>,@@!!0,newOOMP.oompType,oompSize!!,oompSize.code,name@@, >>@@!!0,newOOMP.oompType,oompDesc!!,oompDesc.code,name@@>>,@@!!0,newOOMP.oompType,oompDesc!!,oompDesc.code,name@@, >>@@!!0,newOOMP.oompType,oompColor!!,oompColor.code,name@@>>,@@!!0,newOOMP.oompType,oompColor!!,oompColor.code,name@@, >>@@!!0,newOOMP.oompType,oompType!!,oompType.code,name@@>>,@@!!0,newOOMP.oompType,oompType!!,oompType.code,name@@, >>@@!!0,newOOMP.oompIndex,oompSize!!,oompIndex.code,name@@>>,@@!!0,newOOMP.oompType,oompIndex!!,oompIndex.code,name@@, >></name>
+        <name> @1!!0,newOOMP.oompType,oompSize!!,oompSize.code,name@1>>,@2!!0,newOOMP.oompType,oompSize!!,oompSize.code,name@2, >>@3!!0,newOOMP.oompType,oompDesc!!,oompDesc.code,name@3>>,@4!!0,newOOMP.oompType,oompDesc!!,oompDesc.code,name@4, >>@5!!0,newOOMP.oompType,oompColor!!,oompColor.code,name@5>>,@6!!0,newOOMP.oompType,oompColor!!,oompColor.code,name@6, >>@7!!0,newOOMP.oompType,oompType!!,oompType.code,name@7>>,@8!!0,newOOMP.oompType,oompType!!,oompType.code,name@8, >>@1!!0,newOOMP.oompType,oompIndex!!,oompIndex.code,name@1>>,@2!!0,newOOMP.oompType,oompIndex!!,oompIndex.code,name@2, >></name>
         <hexID>!!0,newOOMP.index,index!!</hexID>
         <oompSort></oompSort>
         <oompType>!!0,newOOMP.oompType,oompType!!</oompType>
@@ -37,9 +37,9 @@
 
 <com>Maximums</com>
         <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage>50 V</ooMaxVoltage>
+        <ooMaxVoltage></ooMaxVoltage>
         <ooLifetime></ooLifetime>
-        <ooTolerance>10%</ooTolerance>
+        <ooTolerance></ooTolerance>
 
 <com>Heat Shrink</com>
         <ooShrinkRatio></ooShrinkRatio>
@@ -62,28 +62,20 @@
 <com>Source List</com>		
 		<sourceList>
 			<manufacturer>
-				<company>Yageo</company>
-				<companyCode>C-YAGE</companyCode>
+				<company></company>
+				<companyCode></companyCode>
 				<name></name>
-				<partID>CC0603KRX7R9BB104</partID>
+				<partID></partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
 				
 			<bigDistributor>
-				<company>DigiKey</company>
-				<companyCode>C-DIGK</companyCode>
-				<name>CAP CER 0.1UF 50V 10% X7R 0603</name>
-				<partID>311-1344-2-ND</partID>
-				<link><![CDATA[http://www.digikey.com/product-detail/en/CC0603KRX7R9BB104/311-1344-2-ND/2103082]]></link>
-				<note></note>
-			</bigDistributor>					
-			<bigDistributor>
-				<company>Mouser</company>
-				<companyCode>C-MOUS</companyCode>
-				<name>Multilayer Ceramic Capacitors MLCC - SMD/SMT 100nF 50V X7R 10%</name>
-				<partID>603-CC603KRX7R9BB104</partID>
-				<link><![CDATA[http://uk.mouser.com/ProductDetail/Yageo/CC0603KRX7R9BB104/?qs=%2fha2pyFaduh%2bUOWCkAJwPDBTdHczBT8rtEow5ZIRr8kbmYWRW8biVA%3d%3d]]></link>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
 				<note></note>
 			</bigDistributor>					
 		</sourceList>
@@ -91,13 +83,13 @@
 <com>OPL</com>		
 		<oplList>
 			<oplSystem>
-				<oplScheme>SEED OPL</oplScheme>
-				<oplCode>C-SEEE</oplCode>
-				<oplName>SMD CAP Ceramic 100nF-50V-10%-X7R</oplName>
-				<oplID>0100020P1</oplID>
+				<oplScheme></oplScheme>
+				<oplCode></oplCode>
+				<oplName></oplName>
+				<oplID></oplID>
 				<oplFootprint></oplFootprint>
-				<oplPackage>0603</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Capacitor]]></oplLink>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[]]></oplLink>
 			</oplSystem>
 		</oplList>
 

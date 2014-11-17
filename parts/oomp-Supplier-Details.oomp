@@ -135,5 +135,12 @@
 		<supplierSearchEnd><![CDATA[]]></supplierSearchEnd>
 		<supplierPartString></supplierPartString>
 	</oompSupplier>			
-	
+	<oompSupplier>
+		<supplierCode>C-RAPI</supplierCode>
+		<supplierName>Rapid Electronics</supplierName>
+		<supplierWebsite>http://www.rapidonline.com/</supplierWebsite>
+		<supplierSearchString><![CDATA[http://www.rapidonline.com/FFSearchResults.aspx?query=]]></supplierSearchString>
+		<supplierSearchEnd><![CDATA[&filterSearchScope=1]]></supplierSearchEnd>
+		<supplierPartString></supplierPartString>
+	</oompSupplier>				
 </xml>
