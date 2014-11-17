@@ -5,104 +5,95 @@
     <oompTag>
             <tagName>oompID</tagName>
             <tagReadable>ID</tagReadable>
-            <tagDescription>Part ID (ie. CRHO-I01-B-01PI-01) </tagDescription>
+			<tagType>OOMP Base</tagType>
+			<tagDescription><![CDATA[Part ID (ex. <b>CRHO-I01-B-01PI-01</b>)]]></tagDescription>
+			<tagSort>10</tagSort>
     </oompTag>
     <oompTag>
             <tagName>name</tagName>
             <tagReadable>Name</tagReadable>
-            <tagDescription>Part Name (ie. 2.54mm 1 Pin Black Crimp Housing	)</tagDescription>
+			<tagType>OOMP Base</tagType>
+            <tagDescription><![CDATA[Part Name (ex. <b>2.54mm 1 Pin Black Crimp Housing</b>)]]></tagDescription>
+			<tagSort>20</tagSort>
     </oompTag>
 
     <oompTag>
             <tagName>hexID</tagName>
             <tagReadable>Hex ID</tagReadable>
-            <tagDescription>Parts Hex Code (ie. 0F69)</tagDescription>
+			<tagType>OOMP Base</tagType>
+            <tagDescription><![CDATA[Parts Hex Code (ex. <b>0F69</b>)]]></tagDescription>
+			<tagSort>30</tagSort>
     </oompTag>
-
-	
+	<oompTag>
+            <tagName>oompSort</tagName>
+            <tagReadable>Sort Order</tagReadable>
+			<tagType>OOMP Base</tagType>
+            <tagDescription>Used to sort components based on their values (ie 10k Ohm resistor = 10000)</tagDescription>
+			<tagSort>40</tagSort>
+    </oompTag>
 		<!-- OOMP Details -->
-	
+
+    <oompTag>
+            <tagName>oompVersion</tagName>
+            <tagReadable></tagReadable>
+			<tagLabel>version</tagLabel>
+			<tagType>Hidden</tagType>
+			<tagDescription>Version of OOMP the part is planned to be in</tagDescription>
+			<tagSort></tagSort>
+    </oompTag>
+		
     <oompTag>
             <tagName>oompType</tagName>
             <tagReadable>Type</tagReadable>
 			<tagLabel>type</tagLabel>
-            <tagDescription>OOMP Type, four letter code code - name definitions in oomp-Type-details.oomp</tagDescription>
+			<tagType>OOMP Base</tagType>
+			<tagDescription><![CDATA[Four letter code defining the type of component. <a href="/oom.php/oomp/idcodesexplained">(Code Description)<a href="https://github.com/oomlout/oomp/blob/master/oomp-Type-details.oomp"> (source) </a> ]]></tagDescription>
+			<tagSort>50</tagSort>
     </oompTag>
     <oompTag>
             <tagName>oompSize</tagName>
             <tagReadable>Size</tagReadable>
 			<tagLabel>size</tagLabel>
-            <tagDescription>OOMP Size, - definitions in oomp-Size-details.oomp</tagDescription>
+			<tagType>OOMP Base</tagType>
+			<tagDescription><![CDATA[Code defining the major size of the component. <a href="/oom.php/oomp/idcodesexplained">(Code Description)<a href="https://github.com/oomlout/oomp/blob/master/oomp-Size-details.oomp"> (source) </a> ]]></tagDescription>
+			<tagSort>60</tagSort>
     </oompTag>
     <oompTag>
             <tagName>oompColor</tagName>
             <tagReadable>Color</tagReadable>
 			<tagLabel>color</tagLabel>
-            <tagDescription>OOMP Color, - definitions in oomp-Color-details.oomp</tagDescription>
+			<tagType>OOMP Base</tagType>
+			<tagDescription><![CDATA[Code defining the color of the component. <a href="/oom.php/oomp/idcodesexplained">(Code Description)<a href="https://github.com/oomlout/oomp/blob/master/oomp-Color-details.oomp"> (source) </a> ]]></tagDescription>
+			<tagSort>70</tagSort>
     </oompTag>
     <oompTag>
             <tagName>oompDesc</tagName>
             <tagReadable>Description</tagReadable>
-			<tagLabel>value</tagLabel>
-            <tagDescription>OOMP Desc, - definitions in oomp-Desc-details.oomp</tagDescription>
+			<tagLabel>style</tagLabel>
+			<tagType>OOMP Base</tagType>
+			<tagDescription><![CDATA[Code describing the component. <a href="/oom.php/oomp/idcodesexplained">(Code Description)<a href="https://github.com/oomlout/oomp/blob/master/oomp-Desc-details.oomp"> (source) </a> ]]></tagDescription>
+			<tagSort>80</tagSort>
     </oompTag>
     <oompTag>
             <tagName>oompIndex</tagName>
             <tagReadable>Index</tagReadable>
-			<tagLabel></tagLabel>
-            <tagDescription>Index of the part (used to differentiate between various parts</tagDescription>
+			<tagLabel>extra</tagLabel>
+			<tagType>OOMP Base</tagType>
+			<tagDescription><![CDATA[Code used to differentiate a xcomponent from other similar ones.<a href="/oom.php/oomp/idcodesexplained">(Code Description)<a href="https://github.com/oomlout/oomp/blob/master/oomp-Index-details.oomp"> (source) </a> ]]></tagDescription>
+			<tagSort></tagSort>
     </oompTag>
     <oompTag>
             <tagName>oompOwner</tagName>
             <tagReadable>Owner</tagReadable>
 			<tagLabel>owner</tagLabel>
-            <tagDescription>The parts owner (this is a two letter code added before the index) - definitions in oomp-Owner-details.oomp</tagDescription>
+			<tagType>OOMP Base</tagType>
+			<tagDescription><![CDATA[Code used to define the owner of a component. This is used to allow individuals or companies to add components without needing to link them to the main OOMP system. <a href="/oom.php/oomp/idcodesexplained">(Code Description)<a href="https://github.com/oomlout/oomp/blob/master/oomp-Owner-details.oomp"> (source) </a> ]]></tagDescription>
+			<tagSort>10000</tagSort>
     </oompTag>
 
 	
 	
 	<!-- Part Numbers -->
-	
-    <oompTag>
-            <tagName>partNumberFarnell</tagName>
-            <tagReadable>Farnell #</tagReadable>
-            <tagDescription>Part number at Farnell</tagDescription>
-    </oompTag>
-    <oompTag>
-            <tagName>partNumberRapid</tagName>
-            <tagReadable>Rapid Online #</tagReadable>
-            <tagDescription>Part number for Rapid Online ( http://www.rapidonline.com/ )</tagDescription>
-    </oompTag>
-    <oompTag>
-            <tagName>partNumberRS</tagName>
-            <tagReadable>RS #</tagReadable>
-            <tagDescription>Part number at RS ( http://uk.rs-online.com/ )</tagDescription>
-    </oompTag>
-    <oompTag>
-            <tagName>partNumberMouser</tagName>
-            <tagReadable>Mouser #</tagReadable>
-            <tagDescription>Part number at Mouser</tagDescription>
-    </oompTag>
-    <oompTag>
-            <tagName>partNumberCPC</tagName>
-            <tagReadable>CPC #</tagReadable>
-            <tagDescription>Part number at CPC ( http://cpc.farnell.com/ )</tagDescription>
-    </oompTag>
-    <oompTag>
-            <tagName>partNumberDigikey</tagName>
-            <tagReadable>Digikey #</tagReadable>
-            <tagDescription>Part number at DigiKey</tagDescription>
-    </oompTag>
-    <oompTag>
-            <tagName>otherSupplier1</tagName>
-            <tagReadable>Other Supplier 1</tagReadable>
-            <tagDescription>Name of other supplier 1</tagDescription>
-    </oompTag>
-    <oompTag>
-            <tagName>otherSupplier1PartNumber</tagName>
-            <tagReadable>Other Supplier #</tagReadable>
-            <tagDescription>Part number at other supplier</tagDescription>
-    </oompTag>
 	
 	
 	
@@ -110,28 +101,38 @@
 	
     <oompTag>
             <tagName>ooNameLine1of2</tagName>
-            <tagReadable>Name Line 1 of 2</tagReadable>
+            <tagReadable></tagReadable>
+			<tagType>Hidden</tagType>
             <tagDescription>Line 1 of a 2 line named part, blank if the part is three lines long</tagDescription>
+			<tagSort></tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooNameLine2of2</tagName>
-            <tagReadable>Name Line 2 of 2</tagReadable>
+            <tagReadable></tagReadable>
+			<tagType>Hidden</tagType>
             <tagDescription>Line 2 of a 2 line named part, blank if the part is three lines long</tagDescription>
+			<tagSort></tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooNameLine1of3</tagName>
-            <tagReadable>Name Line 1 of 3</tagReadable>
+            <tagReadable></tagReadable>
+			<tagType>Hidden</tagType>
             <tagDescription>Line 1 of a 3 line named part, blank if the part name is two lines long</tagDescription>
+			<tagSort></tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooNameLine2of3</tagName>
-            <tagReadable>Name Line 2 of 3</tagReadable>
+            <tagReadable></tagReadable>
+			<tagType>Hidden</tagType>
             <tagDescription>Line 2 of a 3 line named part, blank if the part name is two lines long</tagDescription>
+			<tagSort></tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooNameLine3of3</tagName>
-            <tagReadable>Name Line 3 of 3</tagReadable>
+            <tagReadable></tagReadable>
+			<tagType>Hidden</tagType>
             <tagDescription>Line 3 of a 3 line named part, blank if the part name is two lines long</tagDescription>
+			<tagSort></tagSort>
     </oompTag>
 	
 	
@@ -142,155 +143,254 @@
 	<oompTag>
 			
             <tagName>ooPitch</tagName>
-            <tagReadable></tagReadable>
-            <tagDescription></tagDescription>
+            <tagReadable>Pitch</tagReadable>
+			<tagLabel>pitch</tagLabel>	
+			<tagType>Size</tagType>
+            <tagDescription>The distance between pins. (in mm)</tagDescription>
+			<tagSort>110</tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooWidth</tagName>
-            <tagReadable></tagReadable>
-            <tagDescription></tagDescription>
+            <tagReadable>Width</tagReadable>
+			<tagLabel>width</tagLabel>
+			<tagType>Size</tagType>
+            <tagDescription>The width of the component. (in mm)</tagDescription>
+			<tagSort>120</tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooHeight</tagName>
-            <tagReadable></tagReadable>
-            <tagDescription></tagDescription>
+            <tagReadable>Height</tagReadable>
+			<tagLabel>height</tagLabel>
+			<tagType>Size</tagType>
+            <tagDescription>The height of the component. (in mm)</tagDescription>
+			<tagSort>130</tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooDiameter</tagName>
-            <tagReadable></tagReadable>
-            <tagDescription></tagDescription>
+            <tagReadable>Diameter</tagReadable>
+			<tagLabel>diameter</tagLabel>
+			<tagType>Size</tagType>
+            <tagDescription>The diameter of the component. (in mm)</tagDescription>
+			<tagSort></tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooLength</tagName>
-            <tagReadable></tagReadable>
-            <tagDescription></tagDescription>
-    </oompTag>
-    <oompTag>
-            <tagName>ooTolerance</tagName>
-            <tagReadable></tagReadable>
-            <tagDescription></tagDescription>
+            <tagReadable>Length</tagReadable>
+			<tagLabel>length</tagLabel>
+			<tagType>Size</tagType>
+            <tagDescription>The length of the component. (in mm)</tagDescription>
+			<tagSort></tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooDepth</tagName>
-            <tagReadable></tagReadable>
-            <tagDescription></tagDescription>
+            <tagReadable>Depth</tagReadable>
+			<tagLabel>depth</tagLabel>
+			<tagType>Size</tagType>
+            <tagDescription>The depth of the component. (in mm)</tagDescription>
+			<tagSort>140</tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooMaterial</tagName>
-            <tagReadable></tagReadable>
-            <tagDescription></tagDescription>
+            <tagReadable>Material</tagReadable>
+			<tagLabel>material</tagLabel>
+			<tagType>Description</tagType>			
+            <tagDescription>The material the item is made from. (ex. plastic, metal)</tagDescription>
+			<tagSort>150</tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooNumPins</tagName>
-            <tagReadable></tagReadable>
-            <tagDescription></tagDescription>
+            <tagReadable>Number of Pins</tagReadable>
+			<tagLabel>number of pins</tagLabel>
+			<tagType>Description</tagType>						
+            <tagDescription>The number of pins the component has.</tagDescription>
+			<tagSort></tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooWireSize</tagName>
-            <tagReadable></tagReadable>
-            <tagDescription></tagDescription>
+            <tagReadable>Wire Gauge</tagReadable>
+			<tagLabel>wire gauge</tagLabel>
+			<tagType>Size</tagType>			
+            <tagDescription><![CDATA[The size of wire (in gauge AWG <a href="http://en.wikipedia.org/wiki/American_wire_gauge">(wikipedia))</a>]]></tagDescription>
+			<tagSort></tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooTerminalStyle</tagName>
-            <tagReadable></tagReadable>
-            <tagDescription></tagDescription>
+            <tagReadable>Terminal Style</tagReadable>
+			<tagLabel>terminal style</tagLabel>
+			<tagType>Description</tagType>			
+            <tagDescription>The style of terminal the component uses. (ex. dupont, screw)</tagDescription>
+			<tagSort>160</tagSort>
+    </oompTag>
+
+	<!-- Hardware Part Details -->
+    <oompTag>
+            <tagName>ooHeadStyle</tagName>
+            <tagReadable>Head Style</tagReadable>
+			<tagLabel>head style</tagLabel>
+			<tagType>Hardware</tagType>
+            <tagDescription>The style of screwdriver needed. (ex. Slotted, Cross Head)</tagDescription>
+			<tagSort></tagSort>
+    </oompTag>
+	<oompTag>
+            <tagName>ooWrenchSize</tagName>
+            <tagReadable>Wrench Size</tagReadable>
+			<tagLabel>wrench size</tagLabel>
+			<tagType>Hardware</tagType>
+            <tagDescription>The size of wrench needed for bolts or nuts. (in mm)</tagDescription>
+			<tagSort></tagSort>
     </oompTag>
 	
 	
 	<!-- Maximums  -->
 	<oompTag>
             <tagName>ooMaxCurrent</tagName>
-            <tagReadable></tagReadable>
-            <tagDescription></tagDescription>
+            <tagReadable>Maximum Current</tagReadable>
+			<tagLabel>max. current</tagLabel>
+			<tagType>Maximums</tagType>
+            <tagDescription>The absolute maximum current the component can tolerate (in amps)</tagDescription>
+			<tagSort>90</tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooMaxVoltage</tagName>
-            <tagReadable></tagReadable>
-            <tagDescription></tagDescription>
+            <tagReadable>Maximum Voltage</tagReadable>
+			<tagLabel>max. voltage</tagLabel>
+			<tagType>Maximums</tagType>
+            <tagDescription>The maximum working voltage of the component. (in Volts)</tagDescription>
+			<tagSort>100</tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooLifetime</tagName>
-            <tagReadable></tagReadable>
-            <tagDescription></tagDescription>
+            <tagReadable>Lifetime</tagReadable>
+			<tagLabel>lifetime</tagLabel>
+			<tagType>Maximums</tagType>
+            <tagDescription>The lifetime the component is rated for. (in cycles, hrs) </tagDescription>
+			<tagSort></tagSort>
     </oompTag>
-    
+    <oompTag>
+            <tagName>ooTolerance</tagName>
+            <tagReadable>Tolerance</tagReadable>
+			<tagLabel>tolerance</tagLabel>
+			<tagType>Maximums</tagType>
+            <tagDescription>The tolerance of the components value (ex. +/- 10%)</tagDescription>
+			<tagSort></tagSort>
+    </oompTag>    
+	
+	<!-- Heat Shrink Specific Details -->
+    <oompTag>
+            <tagName>ooShrinkRatio</tagName>
+            <tagReadable>Shrink Ratio</tagReadable>
+			<tagLabel>shrink ratio</tagLabel>
+			<tagType>Heat Shrink</tagType>
+            <tagDescription>The ratio of original size to shrunk size (ex. 2:1)</tagDescription>
+			<tagSort></tagSort>
+    </oompTag>
 	
 	<!-- LED Specific Details -->
 	
     <oompTag>
             <tagName>ooLensColor</tagName>
-            <tagReadable>Lebns Color</tagReadable>
+            <tagReadable>Lens Color</tagReadable>
 			<tagLabel>lens color</tagLabel>
+			<tagType>LED</tagType>
             <tagDescription>The Colour of the Lense (red, green, clear, frosted etc.)</tagDescription>
+			<tagSort></tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooForwardVoltage</tagName>
             <tagReadable>Forward Voltage</tagReadable>
 			<tagLabel>forward voltage</tagLabel>
-            <tagDescription></tagDescription>
+			<tagType>LED</tagType>
+            <tagDescription>The forward voltage of the LED (used in calculating value of current limiting resistor) (in volts)</tagDescription>
+			<tagSort></tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooForwardCurrent</tagName>
             <tagReadable>Forward Current</tagReadable>
 			<tagLabel>forward current</tagLabel>
-            <tagDescription></tagDescription>
+			<tagType>LED</tagType>
+            <tagDescription>The forward current of the LED (used in calculating value of current limiting resistor). This is the maximum safe operating current for the LED to ensure long life. (in mA)</tagDescription>
+			<tagSort></tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooIntensity</tagName>
             <tagReadable>Intensity</tagReadable>
 			<tagLabel>intensity</tagLabel>
-            <tagDescription></tagDescription>
+			<tagType>LED</tagType>
+            <tagDescription><![CDATA[This is the intensity/brightness of an LED. (in mcd <a href="http://en.wikipedia.org/wiki/Candela">(wikipedia)</a>]]></tagDescription>
+			<tagSort></tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooPowerAngle</tagName>
             <tagReadable>Power Angle</tagReadable>
 			<tagLabel>power angle</tagLabel>
-            <tagDescription></tagDescription>
+			<tagType>LED</tagType>
+            <tagDescription>This is the angle over which the LED emits llight. (in deg.)</tagDescription>
+			<tagSort></tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooWavelength</tagName>
             <tagReadable>Wavelength</tagReadable>
 			<tagLabel>wavelength</tagLabel>
-            <tagDescription></tagDescription>
+			<tagType>LED</tagType>
+            <tagDescription><![CDATA[This is the major wavelength the LED emmits it's light in. (in nm <a href="http://en.wikipedia.org/wiki/Light">(wikipedia)</a>)]]></tagDescription>
+			<tagSort></tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooChromaticityX</tagName>
             <tagReadable>Chromaticity X</tagReadable>
 			<tagLabel>chromaticity x</tagLabel>
-            <tagDescription></tagDescription>
+			<tagType>LED</tagType>
+            <tagDescription><![CDATA[The x element of chromaticity, A way of explaining the colour of light an LED emmits. (in Chromaticity <a href="http://en.wikipedia.org/wiki/Chromaticity">(wikipedia)</a>) ]]></tagDescription>
+			<tagSort></tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooChromaticityY</tagName>
             <tagReadable>Chromaticity Y</tagReadable>
 			<tagLabel>chromaticty y</tagLabel>
-            <tagDescription></tagDescription>
+			<tagType>LED</tagType>
+            <tagDescription><![CDATA[The y element of chromaticity, A way of explaining the colour of light an LED emmits. (in Chromaticity <a href="http://en.wikipedia.org/wiki/Chromaticity">(wikipedia)</a>) ]]></tagDescription>
+			<tagSort></tagSort>
     </oompTag>
 	
     <oompTag>
             <tagName>ooPowerRating</tagName>
-            <tagReadable></tagReadable>
-            <tagDescription></tagDescription>
+            <tagReadable>Power Rating</tagReadable>
+			<tagLabel>power rating</tagLabel>
+			<tagType>Description</tagType>
+            <tagDescription>The maximum power a component can dissipate. (in Watts)</tagDescription>
+			<tagSort></tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooPlugID</tagName>
-            <tagReadable></tagReadable>
-            <tagDescription></tagDescription>
+            <tagReadable>Plug ID</tagReadable>
+			<tagLabel>plug id</tagLabel>
+			<tagType>Plug</tagType>
+            <tagDescription>The internal diameter of a plug. (in mm)</tagDescription>
+			<tagSort></tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooPlugOD</tagName>
-            <tagReadable></tagReadable>
-            <tagDescription></tagDescription>
+            <tagReadable>Plug OD</tagReadable>
+			<tagLabel>plug od</tagLabel>
+			<tagType>Plug</tagType>
+            <tagDescription>The external diameter of a plug. (in mm)</tagDescription>
+			<tagSort></tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooPlugLength</tagName>
-            <tagReadable></tagReadable>
-            <tagDescription></tagDescription>
+            <tagReadable>Plug Length</tagReadable>
+			<tagLabel>plug length</tagLabel>
+			<tagType>Plug</tagType>
+            <tagDescription>The length of the plug. (in mm)</tagDescription>
+			<tagSort></tagSort>
     </oompTag>
     
 	<oompTag>
             <tagName>ooFrontDiagram</tagName>
             <tagReadable></tagReadable>
+			<tagType>Hidden</tagType>
             <tagDescription></tagDescription>
+			<tagSort></tagSort>
     </oompTag>
 	
 	
@@ -300,7 +400,9 @@
      <oompTag>
             <tagName>oompAbout</tagName>
             <tagReadable></tagReadable>
+			<tagType>Hidden</tagType>
             <tagDescription></tagDescription>
+			<tagSort></tagSort>
     </oompTag>
 
 <!-- Projects that use -->		
@@ -308,22 +410,30 @@
     <oompTag>
             <tagName>ooProjectName1</tagName>
             <tagReadable></tagReadable>
+			<tagType>Hidden</tagType>
             <tagDescription></tagDescription>
+			<tagSort></tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooProjectDesc1</tagName>
             <tagReadable></tagReadable>
+			<tagType>Hidden</tagType>
             <tagDescription></tagDescription>
+			<tagSort></tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooProjectLink1</tagName>
             <tagReadable></tagReadable>
+			<tagType>Hidden</tagType>
             <tagDescription></tagDescription>
+			<tagSort></tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooProjectType1</tagName>
             <tagReadable></tagReadable>
+			<tagType>Hidden</tagType>
             <tagDescription></tagDescription>
+			<tagSort></tagSort>
     </oompTag>
 	
 <!-- Places to buy -->			
@@ -331,53 +441,71 @@
 	<oompTag>
             <tagName>ooBuyName1</tagName>
             <tagReadable></tagReadable>
+			<tagType>Hidden</tagType>
             <tagDescription></tagDescription>
+			<tagSort></tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooBuyDesc1</tagName>
             <tagReadable></tagReadable>
+			<tagType>Hidden</tagType>
             <tagDescription></tagDescription>
+			<tagSort></tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooBuyLink1</tagName>
             <tagReadable></tagReadable>
+			<tagType>Hidden</tagType>
             <tagDescription></tagDescription>
+			<tagSort></tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooBuyType1</tagName>
             <tagReadable></tagReadable>
+			<tagType>Hidden</tagType>
             <tagDescription></tagDescription>
+			<tagSort></tagSort>
     </oompTag>
 	
 <!-- Manufacturer Part Details -->
 	
     <oompTag>
             <tagName>ooManufacturer</tagName>
-            <tagReadable></tagReadable>
-            <tagDescription></tagDescription>
+            <tagReadable>Manufacturer</tagReadable>
+            <tagDescription>The company that manufacturers the component.</tagDescription>
+			<tagType>Manufacturer</tagType>
+			<tagSort></tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooManufacturerPartNumber</tagName>
-            <tagReadable></tagReadable>
-            <tagDescription></tagDescription>
+            <tagReadable>Manufacturer Part #</tagReadable>
+            <tagDescription>The unique part number used to identify the component by the manufacturer.</tagDescription>
+			<tagType>Manufacturer</tagType>
+			<tagSort></tagSort>
     </oompTag>
 	
-<!--- SEEED OPL Details -->	
+<!-- SEEED OPL Details -->	
 	
     <oompTag>
             <tagName>ooSEEEDsku</tagName>
-            <tagReadable></tagReadable>
-            <tagDescription></tagDescription>
+            <tagReadable>SEEED SKU</tagReadable>
+            <tagDescription><![CDATA[The unique ID used to identify parts within the <a href="http://www.seeedstudio.com/wiki/Open_parts_library">OPL</a>.]]></tagDescription>
+			<tagType>SEEED OPL (Open Parts Library)</tagType>
+			<tagSort></tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooSEEEDdesc</tagName>
-            <tagReadable></tagReadable>
-            <tagDescription></tagDescription>
+            <tagReadable>SEEED Description</tagReadable>
+            <tagDescription><![CDATA[The description used within the <a href="http://www.seeedstudio.com/wiki/Open_parts_library">OPL</a>.]]></tagDescription>
+			<tagType>SEEED OPL (Open Parts Library)</tagType>
+			<tagSort></tagSort>
     </oompTag>
     <oompTag>
             <tagName>ooSEEED3dModel</tagName>
             <tagReadable></tagReadable>
             <tagDescription></tagDescription>
+			<tagType>Hidden</tagType>
+			<tagSort></tagSort>
     </oompTag>
 	
 	
