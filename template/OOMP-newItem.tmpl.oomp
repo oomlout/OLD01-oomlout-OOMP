@@ -1,0 +1,115 @@
+<xml>
+    <oompPart>
+        <index>!!0,newOOMP.index,index!!</index>
+
+<com>OOMP Base</com>
+        <oompID>!!0,newOOMP.oompType,oompType!!-!!0,newOOMP.oompSize,oompSize!!-!!0,newOOMP.oompColor,oompColor!!-!!0,newOOMP.oompDesc,oompDesc!!-!!0,newOOMP.oompIndex,oompIndex!!</oompID>
+        <name>@@!!0,newOOMP.oompType,oompSize!!,oompSize.code,name@@>>,@@!!0,newOOMP.oompType,oompSize!!,oompSize.code,name@@, >>@@!!0,newOOMP.oompType,oompDesc!!,oompDesc.code,name@@>>,@@!!0,newOOMP.oompType,oompDesc!!,oompDesc.code,name@@, >>@@!!0,newOOMP.oompType,oompColor!!,oompColor.code,name@@>>,@@!!0,newOOMP.oompType,oompColor!!,oompColor.code,name@@, >>@@!!0,newOOMP.oompType,oompType!!,oompType.code,name@@>>,@@!!0,newOOMP.oompType,oompType!!,oompType.code,name@@, >>@@!!0,newOOMP.oompIndex,oompSize!!,oompIndex.code,name@@>>,@@!!0,newOOMP.oompType,oompIndex!!,oompIndex.code,name@@, >></name>
+        <hexID>!!0,newOOMP.index,index!!</hexID>
+        <oompSort></oompSort>
+        <oompType>!!0,newOOMP.oompType,oompType!!</oompType>
+        <oompSize>!!0,newOOMP.oompType,oompSize!!</oompSize>
+        <oompColor>!!0,newOOMP.oompType,oompColor!!</oompColor>
+        <oompDesc>!!0,newOOMP.oompType,oompDesc!!</oompDesc>
+        <oompIndex>!!0,newOOMP.oompType,oompIndex!!</oompIndex>
+        <oompOwner>!!0,newOOMP.oompType,oompOwner!!</oompOwner>
+        <oompVersion>!!0,newOOMP.oompType,oompVersion!!</oompVersion>
+
+
+<com>Size</com>
+        <ooPitch></ooPitch>
+        <ooWidth></ooWidth>
+        <ooHeight></ooHeight>
+        <ooDiameter></ooDiameter>
+        <ooLength></ooLength>
+        <ooDepth></ooDepth>
+        <ooWireSize></ooWireSize>
+
+<com>Description</com>
+        <ooMaterial></ooMaterial>
+        <ooNumPins></ooNumPins>
+        <ooTerminalStyle></ooTerminalStyle>
+        <ooPowerRating></ooPowerRating>
+
+<com>Hardware</com>
+        <ooHeadStyle></ooHeadStyle>
+        <ooWrenchSize></ooWrenchSize>
+
+<com>Maximums</com>
+        <ooMaxCurrent></ooMaxCurrent>
+        <ooMaxVoltage>50 V</ooMaxVoltage>
+        <ooLifetime></ooLifetime>
+        <ooTolerance>10%</ooTolerance>
+
+<com>Heat Shrink</com>
+        <ooShrinkRatio></ooShrinkRatio>
+
+<com>LED</com>
+        <ooLensColor></ooLensColor>
+        <ooForwardVoltage></ooForwardVoltage>
+        <ooForwardCurrent></ooForwardCurrent>
+        <ooIntensity></ooIntensity>
+        <ooPowerAngle></ooPowerAngle>
+        <ooWavelength></ooWavelength>
+        <ooChromaticityX></ooChromaticityX>
+        <ooChromaticityY></ooChromaticityY>
+
+<com>Plug</com>
+        <ooPlugID></ooPlugID>
+        <ooPlugOD></ooPlugOD>
+        <ooPlugLength></ooPlugLength>
+
+<com>Source List</com>		
+		<sourceList>
+			<manufacturer>
+				<company>Yageo</company>
+				<companyCode>C-YAGE</companyCode>
+				<name></name>
+				<partID>CC0603KRX7R9BB104</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+				
+			<bigDistributor>
+				<company>DigiKey</company>
+				<companyCode>C-DIGK</companyCode>
+				<name>CAP CER 0.1UF 50V 10% X7R 0603</name>
+				<partID>311-1344-2-ND</partID>
+				<link><![CDATA[http://www.digikey.com/product-detail/en/CC0603KRX7R9BB104/311-1344-2-ND/2103082]]></link>
+				<note></note>
+			</bigDistributor>					
+			<bigDistributor>
+				<company>Mouser</company>
+				<companyCode>C-MOUS</companyCode>
+				<name>Multilayer Ceramic Capacitors MLCC - SMD/SMT 100nF 50V X7R 10%</name>
+				<partID>603-CC603KRX7R9BB104</partID>
+				<link><![CDATA[http://uk.mouser.com/ProductDetail/Yageo/CC0603KRX7R9BB104/?qs=%2fha2pyFaduh%2bUOWCkAJwPDBTdHczBT8rtEow5ZIRr8kbmYWRW8biVA%3d%3d]]></link>
+				<note></note>
+			</bigDistributor>					
+		</sourceList>
+		
+<com>OPL</com>		
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD CAP Ceramic 100nF-50V-10%-X7R</oplName>
+				<oplID>0100020P1</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage>0603</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Capacitor]]></oplLink>
+			</oplSystem>
+		</oplList>
+
+<com>Hidden</com>
+        <oompAbout></oompAbout>
+        <ooProjectName1></ooProjectName1>
+        <ooProjectDesc1></ooProjectDesc1>
+        <ooProjectLink1></ooProjectLink1>
+        <ooProjectType1></ooProjectType1>
+        <ooBuyName1></ooBuyName1>
+        <ooBuyDesc1></ooBuyDesc1>
+        <ooBuyLink1></ooBuyLink1>
+        <ooBuyType1></ooBuyType1>
+    </oompPart>
+</xml>
