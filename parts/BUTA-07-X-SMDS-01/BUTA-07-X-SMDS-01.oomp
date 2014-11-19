@@ -1,0 +1,133 @@
+﻿<xml>
+
+    <oompPart>
+        <index>4296</index>
+
+<!--OOMP Base -->
+        <oompID>BUTA-07-X-SMDS-01</oompID>
+        <name>7 mm SMD Pushbutton</name>
+        <hexID>10C8</hexID>
+        <oompSort></oompSort>
+        <oompType>BUTA</oompType>
+        <oompSize>07</oompSize>
+        <oompColor>X</oompColor>
+        <oompDesc>SMDS</oompDesc>
+        <oompIndex>01</oompIndex>
+        <oompOwner></oompOwner>
+        <oompVersion>99</oompVersion>
+
+
+<!--Size -->
+        <ooPitch></ooPitch>
+        <ooWidth>3.5 mm</ooWidth>
+        <ooHeight>3.55 mm</ooHeight>
+        <ooDiameter></ooDiameter>
+        <ooLength>7 mm</ooLength>
+        <ooDepth></ooDepth>
+        <ooWireSize></ooWireSize>
+
+
+<!--Manufacturer -->
+        <ooManufacturer>C-BEST</ooManufacturer>
+        <ooManufacturerPartNumber>Shenzhen Best Electronics</ooManufacturerPartNumber>
+
+
+<!--Description -->
+        <ooMaterial></ooMaterial>
+        <ooNumPins></ooNumPins>
+        <ooTerminalStyle></ooTerminalStyle>
+        <ooPowerRating></ooPowerRating>
+
+
+<!--Hardware -->
+        <ooHeadStyle></ooHeadStyle>
+        <ooWrenchSize></ooWrenchSize>
+
+
+<!--Maximums -->
+        <ooMaxCurrent></ooMaxCurrent>
+        <ooMaxVoltage></ooMaxVoltage>
+        <ooLifetime></ooLifetime>
+        <ooTolerance></ooTolerance>
+
+
+<!--Heat Shrink -->
+        <ooShrinkRatio></ooShrinkRatio>
+
+
+<!--LED -->
+        <ooLensColor></ooLensColor>
+        <ooForwardVoltage></ooForwardVoltage>
+        <ooForwardCurrent></ooForwardCurrent>
+        <ooIntensity></ooIntensity>
+        <ooPowerAngle></ooPowerAngle>
+        <ooWavelength></ooWavelength>
+        <ooChromaticityX></ooChromaticityX>
+        <ooChromaticityY></ooChromaticityY>
+
+
+<!--Plug -->
+        <ooPlugID></ooPlugID>
+        <ooPlugOD></ooPlugOD>
+        <ooPlugLength></ooPlugLength>
+
+
+<!--SEEED OPL (Open Parts Library) -->
+        <ooSEEEDsku>3100060P1</ooSEEEDsku>
+        <ooSEEEDdesc>SMD Button	</ooSEEEDdesc>
+
+		<sourceList>
+			<manufacturer>
+				<company>Shenzhen Best</company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID>TS-1188E</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+				
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link></link>
+				<note></note>
+			</bigDistributor>					
+		</sourceList>
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD Button</oplName>
+				<oplID>3100060P1</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage>4P-SMD-7.0X3.5X3.5H-90D</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Connector]]></oplLink>
+			</oplSystem>
+		</oplList>
+
+<!--Hidden -->
+        <oompVersion></oompVersion>
+        <ooNameLine1of2></ooNameLine1of2>
+        <ooNameLine2of2></ooNameLine2of2>
+        <ooNameLine1of3></ooNameLine1of3>
+        <ooNameLine2of3></ooNameLine2of3>
+        <ooNameLine3of3></ooNameLine3of3>
+        <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
+        <oompAbout></oompAbout>
+        <ooProjectName1></ooProjectName1>
+        <ooProjectDesc1></ooProjectDesc1>
+        <ooProjectLink1></ooProjectLink1>
+        <ooProjectType1></ooProjectType1>
+        <ooBuyName1></ooBuyName1>
+        <ooBuyDesc1></ooBuyDesc1>
+        <ooBuyLink1></ooBuyLink1>
+        <ooBuyType1></ooBuyType1>
+        <ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:4P-SMD-7.0X3.5X3.5H-90D.zip</ooSEEED3dModel>
+
+
+<!-- -->
+
+    </oompPart>
+</xml>

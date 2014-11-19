@@ -1,155 +1,43 @@
 <xml>
     <oompType>
-            <code>CRHO</code>
-            <name>Crimp Housing</name>
-    </oompType>
-    <oompType>
-            <code>SDCS</code>
-            <name>SD Card Socket</name>
-    </oompType>	
-	<oompType>
-            <code>USBS</code>
-            <name>USB Socket</name>
-    </oompType>	
-    <oompType>
-            <code>SWIS</code>
-            <name>Switch (Slide)</name>
-    </oompType>		
-    <oompType>
-            <code>JSTS</code>
-            <name>JST Socket</name>
-    </oompType>			
-    <oompType>
-            <code>KCHO</code>
-            <name>Keyed Connector Housing</name>
-    </oompType>	
-    <oompType>
-            <code>HEDS</code>
-            <name>Headphone Socket</name>
-    </oompType>	
-    <oompType>
-            <code>KCHS</code>
-            <name>Keyed Connector Socket</name>
-    </oompType>	
-    <oompType>
-            <code>ICIC</code>
-            <name></name>
-    </oompType>
-    <oompType>
-            <code>BOLT</code>
-            <name>Hex Bolt</name>
-    </oompType>
-    <oompType>
-            <code>SCRE</code>
-            <name>Screw</name>
-    </oompType>
-    <oompType>
-            <code>MSCR</code>
-            <name>Machine Screw</name>
-    </oompType>
-    <oompType>
-            <code>NBOL</code>
-            <name>Nylon Bolt</name>
-    </oompType>
-    <oompType>
-            <code>XTAL</code>
-            <name>Crystal</name>
-    </oompType>
-    <oompType>
-            <code>CAPA</code>
-            <name>Capacitor</name>
-    </oompType>
-    <oompType>
-            <code>CAPE</code>
-            <name>Capacitor (Electrolytic)</name>
-    </oompType>
-    <oompType>
-            <code>CAPC</code>
-            <name>Capacitor (Ceramic)</name>
-    </oompType>
-    <oompType>
-            <code>CAPD</code>
-            <name>Capacitor (Ceramic Disc)</name>
-    </oompType>
-    <oompType>
-            <code>CAPT</code>
-            <name>Capacitor (Tantalum)</name>
-    </oompType>
-    <oompType>
-            <code>BUTT</code>
-            <name>Button</name>
-    </oompType>
-    <oompType>
-            <code>BUTP</code>
-            <name>Pushbutton</name>
+            <code>BREB</code>
+            <name>Breadboard</name>
     </oompType>
     <oompType>
             <code>BUTA</code>
             <name>Pushbutton (Tactile)</name>
     </oompType>
     <oompType>
-            <code>VREG</code>
-            <name>Voltage Regulator</name>
-    </oompType>	
-    <oompType>
-            <code>RESE</code>
-            <name>Resistor</name>
+            <code>CAPC</code>
+            <name>Capacitor (Ceramic)</name>
     </oompType>
     <oompType>
-            <code>RESA</code>
-            <name>Resistor Array</name>
+            <code>CAPE</code>
+            <name>Capacitor (Electrolytic)</name>
     </oompType>
     <oompType>
-            <code>LAZE</code>
-            <name></name>
+            <code>CAPT</code>
+            <name>Capacitor (Tantalum)</name>
     </oompType>
     <oompType>
-            <code>RBCC</code>
-            <name>Crimped Ribbon Cable</name>
+            <code>CRHO</code>
+            <name>Crimp Housing</name>
     </oompType>
     <oompType>
-            <code>RIBC</code>
-            <name>Ribbon Cable</name>
+            <code>DCJP</code>
+            <name>DC Jack</name>
     </oompType>
     <oompType>
-            <code>WIRC</code>
-            <name>Crimped Wire</name>
+            <code>DIOD</code>
+            <name>Diode</name>
     </oompType>
-    <oompType>
-            <code>WIRS</code>
-            <name>Stranded Wire</name>
+		<oompType>
+            <code>DIOS</code>
+            <name>Diode (Schottky)</name>
     </oompType>
-    <oompType>
-            <code>UFLS</code>
-            <name>UFL Socket</name>
-    </oompType>
-    <oompType>
-            <code>WIRE</code>
-            <name>Solid Wire</name>
-    </oompType>	
-    <oompType>
-            <code>JUMW</code>
-            <name>Jumper Wire</name>
-    </oompType>
-    <oompType>
-            <code>JUMP</code>
-            <name>Jumper</name>
-    </oompType>
-    <oompType>
-            <code>BREB</code>
-            <name>Breadboard</name>
-    </oompType>
-    <oompType>
-            <code>LEDS</code>
-            <name>LED</name>
-    </oompType>
-    <oompType>
+	<oompType>
             <code>HEAD</code>
             <name>Header</name>
-    </oompType>
-    <oompType>
-            <code>TERS</code>
-            <name>Screw Terminal</name>
     </oompType>
     <oompType>
             <code>HEAF</code>
@@ -160,46 +48,105 @@
             <name>Header (Long)</name>
     </oompType>
     <oompType>
+            <code>HEDS</code>
+            <name>Headphone Socket</name>
+    </oompType>	
+    <oompType>
             <code>HELF</code>
             <name>Female Header (Long)</name>
-    </oompType>
-    <oompType>
-            <code>IDCP</code>
-            <name>IDC Crimp Plug</name>
-    </oompType>
-    <oompType>
-            <code>IDCS</code>
-            <name>IDC Socket</name>
-    </oompType>
-    <oompType>
-            <code>IDCC</code>
-            <name>IDC Connector</name>
-    </oompType>
-    <oompType>
-            <code>DCJP</code>
-            <name>DC Jack</name>
-    </oompType>
-    <oompType>
-            <code>DCJS</code>
-            <name>DC Jack SMD</name>
     </oompType>
     <oompType>
             <code>HESH</code>
             <name>Heat Shrink</name>
     </oompType>
 	<oompType>
-            <code>DIOD</code>
-            <name>Diode</name>
+            <code>ICIC</code>
+            <name></name>
     </oompType>
-		<oompType>
-            <code>DIOS</code>
-            <name>Diode (Schottky)</name>
-    </oompType>
-	
+    <oompType>
+            <code>ICSO</code>
+            <name>IC Socket</name>
+    </oompType>	
 	<oompType>
             <code>INDU</code>
             <name>Inductor</name>
     </oompType>	
+	<oompType>
+            <code>JSTS</code>
+            <name>JST Socket</name>
+    </oompType>			
+    <oompType>
+            <code>JUMP</code>
+            <name>Jumper</name>
+    </oompType>
+    <oompType>
+            <code>KCHO</code>
+            <name>Keyed Connector Housing</name>
+    </oompType>	
+    <oompType>
+            <code>KCHS</code>
+            <name>Keyed Connector Socket</name>
+    </oompType>	
+    <oompType>
+            <code>LEDS</code>
+            <name>LED</name>
+    </oompType>
+    <oompType>
+            <code>MOSN</code>
+            <name>N-Ch. MOSFET</name>
+    </oompType>
+	<oompType>
+            <code>MOSP</code>
+            <name>P-Ch. MOSFET</name>
+    </oompType>
+	<oompType>
+            <code>NHFF</code>
+            <name>Nylon Standoff (F-F)</name>
+    </oompType>	
+	<oompType>
+            <code>NNUT</code>
+            <name>Nylon Nut</name>
+    </oompType>	
+	<oompType>
+            <code>NSCR</code>
+            <name>Nylon Screw</name>
+    </oompType>		
+	<oompType>
+            <code>NUTT</code>
+            <name>Nut</name>
+    </oompType>	
+	<oompType>
+            <code>RBCC</code>
+            <name>Crimped Ribbon Cable</name>
+    </oompType>
+    <oompType>
+            <code>REFU</code>
+            <name>Resetable Fuse</name>
+    </oompType>	
+	<oompType>
+            <code>RESA</code>
+            <name>Resistor Array</name>
+    </oompType>
+    <oompType>
+            <code>RESE</code>
+            <name>Resistor</name>
+    </oompType>
+    <oompType>
+            <code>SCRE</code>
+            <name>Screw</name>
+    </oompType>
+    <oompType>
+            <code>SDCS</code>
+            <name>SD Card Socket</name>
+    </oompType>	
+    <oompType>
+            <code>SWIS</code>
+            <name>Switch (Slide)</name>
+    </oompType>		
+    <oompType>
+            <code>TERS</code>
+            <name>Screw Terminal</name>
+    </oompType>
 	<oompType>
             <code>TRNN</code>
             <name>NPN Transistor</name>
@@ -209,57 +156,23 @@
             <name>PNP Transistor</name>
     </oompType>
 	<oompType>
-            <code>MOSN</code>
-            <name>N-Ch. MOSFET</name>
+            <code>USBS</code>
+            <name>USB Socket</name>
+    </oompType>	
+    <oompType>
+            <code>UFLS</code>
+            <name>UFL Socket</name>
     </oompType>
+    <oompType>
+            <code>VREG</code>
+            <name>Voltage Regulator</name>
+    </oompType>	
+    <oompType>
+            <code>WIRS</code>
+            <name>Stranded Wire</name>
+    </oompType>	
 	<oompType>
-            <code>MOSP</code>
-            <name>P-Ch. MOSFET</name>
+            <code>XTAL</code>
+            <name>Crystal</name>
     </oompType>
-	<oompType>
-            <code>NNUT</code>
-            <name>Nylon Nut</name>
-    </oompType>	
-	<oompType>
-            <code>NHFF</code>
-            <name>Nylon Standoff (F-F)</name>
-    </oompType>	
-	<oompType>
-            <code>HSFF</code>
-            <name>Standoff (F-F)</name>
-    </oompType>	
-	<oompType>
-            <code>NHFM</code>
-            <name>Nylon Standoff (M-F)</name>
-    </oompType>	
-	<oompType>
-     <code>HSFM</code>
-            <name>Standoff (M-F)</name>
-    </oompType>	
-	<oompType>
-            <code>NSCR</code>
-            <name>Nylon Screw</name>
-    </oompType>		
-	<oompType>
-            <code>SCRE</code>
-            <name>Screw</name>
-    </oompType>		
-	<oompType>
-            <code>NUTT</code>
-            <name>Nut</name>
-    </oompType>	
-	<oompType>
-            <code>TSCR</code>
-            <name>Thumb Screw</name>
-    </oompType>	
-	<oompType>
-            <code>REFU</code>
-            <name>Resetable Fuse</name>
-    </oompType>	
-	<oompType>
-            <code>ICSO</code>
-            <name>IC Socket</name>
-    </oompType>	
-				
-	
 </xml>

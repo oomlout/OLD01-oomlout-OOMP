@@ -13,7 +13,7 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RIBC-W40-Z-300L-01__
 Short URL: __http://oom.lt/0F76__
 
 
-Type: __RIBC__ Ribbon Cable 
+Type: __RIBC__  
 
 Size: __W40__ 40 Watt 
 
