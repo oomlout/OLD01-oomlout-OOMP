@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: __12 mm Pushbutton (Tactile)__
+Name: __ 12 mm Pushbutton (Tactile) __
 
 ID: __BUTA-12-X-STAN-01__
 
