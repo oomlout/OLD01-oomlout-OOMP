@@ -1,6 +1,6 @@
 @echo on
 set TPGEdirectory=C:\GH\oomlout-TPGE\
-set REDIdirectory=C:\GH\oomlout-REDI\
+set REDIdirectory=C:\GH\oomlout-OOMP\redirects\
 
 set OOBBpartsDirectory=C:\GH\oomlout-OOMP\parts\
 
