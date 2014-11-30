@@ -6,11 +6,11 @@ Name: __2.54 mm 8 Pin Female Header__
 
 ID: __HEAF-I01-X-08PI-01__
 
-Hex ID: __10D7__
+Hex ID: __EE78__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAF-I01-X-08PI-01__
 
-Short URL: __http://oom.lt/10D7__
+Short URL: __http://oom.lt/EE78__
 
 
 Type: __HEAF__ Female Header 

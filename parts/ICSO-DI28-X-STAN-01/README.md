@@ -6,11 +6,11 @@ Name: __28 Pin DIP IC Socket__
 
 ID: __ICSO-DI28-X-STAN-01__
 
-Hex ID: __9876__
+Hex ID: __E928__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/ICSO-DI28-X-STAN-01__
 
-Short URL: __http://oom.lt/9876__
+Short URL: __http://oom.lt/E928__
 
 
 Type: __ICSO__ IC Socket 

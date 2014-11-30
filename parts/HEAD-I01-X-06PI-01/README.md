@@ -6,11 +6,11 @@ Name: __2.54 mm 6 Pin Header__
 
 ID: __HEAD-I01-X-06PI-01__
 
-Hex ID: __E606__
+Hex ID: __EE86__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAD-I01-X-06PI-01__
 
-Short URL: __http://oom.lt/E606__
+Short URL: __http://oom.lt/EE86__
 
 
 Type: __HEAD__ Header 
