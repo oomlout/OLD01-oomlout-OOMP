@@ -1,0 +1,107 @@
+<xml>
+    <oompPart>
+        <index>9876</index>
+
+<com>OOMP Base</com>
+        <oompID>LEDS-05-G-TINT-01</oompID>
+        <name>5 mm Tinted Green LED</name>
+        <hexID>EE44</hexID>
+        <oompSort>04</oompSort>
+        <oompType>LEDS</oompType>
+        <oompSize>05</oompSize>
+        <oompColor>G</oompColor>
+        <oompDesc>TINT</oompDesc>
+        <oompIndex>01</oompIndex>
+        <oompOwner></oompOwner>
+        <oompVersion></oompVersion>
+
+
+<com>Size</com>
+        <ooPitch></ooPitch>
+        <ooWidth></ooWidth>
+        <ooHeight></ooHeight>
+        <ooDiameter></ooDiameter>
+        <ooLength></ooLength>
+        <ooDepth></ooDepth>
+        <ooWireSize></ooWireSize>
+
+<com>Description</com>
+        <ooMaterial></ooMaterial>
+        <ooNumPins></ooNumPins>
+        <ooTerminalStyle></ooTerminalStyle>
+        <ooPowerRating></ooPowerRating>
+
+<com>Hardware</com>
+        <ooHeadStyle></ooHeadStyle>
+        <ooWrenchSize></ooWrenchSize>
+
+<com>Maximums</com>
+        <ooMaxCurrent></ooMaxCurrent>
+        <ooMaxVoltage></ooMaxVoltage>
+        <ooLifetime></ooLifetime>
+        <ooTolerance></ooTolerance>
+
+<com>Heat Shrink</com>
+        <ooShrinkRatio></ooShrinkRatio>
+
+<com>LED</com>
+        <ooLensColor></ooLensColor>
+        <ooForwardVoltage></ooForwardVoltage>
+        <ooForwardCurrent></ooForwardCurrent>
+        <ooIntensity></ooIntensity>
+        <ooPowerAngle></ooPowerAngle>
+        <ooWavelength></ooWavelength>
+        <ooChromaticityX></ooChromaticityX>
+        <ooChromaticityY></ooChromaticityY>
+
+<com>Plug</com>
+        <ooPlugID></ooPlugID>
+        <ooPlugOD></ooPlugOD>
+        <ooPlugLength></ooPlugLength>
+
+<com>Source List</com>		
+		<sourceList>
+			<manufacturer>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+				
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>					
+		</sourceList>
+		
+<com>OPL</com>		
+		<oplList>
+			<oplSystem>
+				<oplScheme></oplScheme>
+				<oplCode></oplCode>
+				<oplName></oplName>
+				<oplID></oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[]]></oplLink>
+			</oplSystem>
+		</oplList>
+
+<com>Hidden</com>
+        <oompAbout></oompAbout>
+        <ooProjectName1></ooProjectName1>
+        <ooProjectDesc1></ooProjectDesc1>
+        <ooProjectLink1></ooProjectLink1>
+        <ooProjectType1></ooProjectType1>
+        <ooBuyName1></ooBuyName1>
+        <ooBuyDesc1></ooBuyDesc1>
+        <ooBuyLink1></ooBuyLink1>
+        <ooBuyType1></ooBuyType1>
+    </oompPart>
+</xml>

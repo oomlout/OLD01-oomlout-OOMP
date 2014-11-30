@@ -22,6 +22,39 @@
 		<familyHexNameSpaceDisplay>AF###</familyHexNameSpaceDisplay>	
 		<familyAbout></familyAbout>
 	</oompFamily>
+	<oompFamily>
+		<familyName>Through Hole Capacitor (Ceramic) 50 v</familyName>
+		<familyType>CAPC</familyType>
+		<familySize>TH</familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>VC</familyIndex>	
+		<familyHexNameSpace>BA</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>BA###</familyHexNameSpaceDisplay>	
+		<familyAbout></familyAbout>
+	</oompFamily>
+	<oompFamily>
+		<familyName>Through Hole Capacitor (Tantalum) 50 v</familyName>
+		<familyType>CAPT</familyType>
+		<familySize>TH</familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>VC</familyIndex>	
+		<familyHexNameSpace>BB</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>BB###</familyHexNameSpaceDisplay>	
+		<familyAbout></familyAbout>
+	</oompFamily>	
+	<oompFamily>
+		<familyName>Through Hole Capacitor (Electrolytic) 25 v</familyName>
+		<familyType>CAPE</familyType>
+		<familySize>TH</familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>VA</familyIndex>	
+		<familyHexNameSpace>BC</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>BC###</familyHexNameSpaceDisplay>	
+		<familyAbout></familyAbout>
+	</oompFamily>	
 
 
 	<!-- 2Digit followed by 2 digit spaces -->
@@ -169,7 +202,7 @@
 		<familyHexNameSpaceDisplay>E6##</familyHexNameSpaceDisplay>		
 		<familyAbout>These are absolutely everywhere. They're used for making board to board connections (when paired with HEAD-I01) or board to wire connections (when paired with CRHO-I01). While ubiquitous they are not always the best choice, The lack of a key means plugging them in backwards is always a worry, and when a lot of connections are required the pitch means a lot of real estate gets occupied.</familyAbout>
 	</oompFamily>			
-		<oompFamily>
+	<oompFamily>
 		<familyName>2.54 mm Pin Header (Long)</familyName>
 		<familyType>HEAL</familyType>
 		<familySize>I01</familySize>
@@ -180,7 +213,39 @@
 		<familyHexNameSpaceDisplay>E7##</familyHexNameSpaceDisplay>		
 		<familyAbout>These are rather rare, but can be super useful. One side of a standard 2.54 mm header is the perfect length for soldering, on these headers that side is the right length for plugging into a breadboard. They are also handy when connecting two female connectors (CRHO-I01) together. It means these are great when prototyping, allowing you to connect a wire with the right connector (CRHO-I01) to your breadboard, or butt two wires together even though they may not have been designed to connect to one another.</familyAbout>
 	</oompFamily>			
-	
+	<oompFamily>
+		<familyName>Through Hole Crystal</familyName>
+		<familyType>XTAL</familyType>
+		<familySize>TH</familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>E8</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>E8##</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
+	</oompFamily>			
+	<oompFamily>
+		<familyName>DIP IC Socket</familyName>
+		<familyType>ICSO</familyType>
+		<familySize></familySize>
+		<familyColor>X</familyColor>
+		<familyDesc>STAN</familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>E9</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>E9##</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
+	</oompFamily>		
+	<oompFamily>
+		<familyName>Through Hole IC</familyName>
+		<familyType>ICIC</familyType>
+		<familySize></familySize>
+		<familyColor>X</familyColor>
+		<familyDesc>X</familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>EA</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>EA##</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
+	</oompFamily>		
 	<!-- SKIP EE RESERVED FOR 3 Digit Followed by 1 -->
 	
 	
@@ -252,4 +317,59 @@
 		<familyHexNameSpaceDisplay>EE3#</familyHexNameSpaceDisplay>		
 		<familyAbout></familyAbout>
 	</oompFamily>			
-</xml>
+		<oompFamily>
+		<familyName>5 mm Tinted LED</familyName>
+		<familyType>LEDS</familyType>
+		<familySize>05</familySize>
+		<familyColor></familyColor>
+		<familyDesc>TINT</familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>EE4</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>EE4#</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
+	</oompFamily>	
+		<oompFamily>
+		<familyName>Through Hole Diode 50 v</familyName>
+		<familyType>DIOD</familyType>
+		<familySize>TH</familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>VC</familyIndex>	
+		<familyHexNameSpace>EE5</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>EE5#</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
+	</oompFamily>	
+		<oompFamily>
+		<familyName>Pushbutton (Tactile)</familyName>
+		<familyType>BUTA</familyType>
+		<familySize></familySize>
+		<familyColor>X</familyColor>
+		<familyDesc>STAN</familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>EE6</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>EE6#</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
+	</oompFamily>		
+		<oompFamily>
+		<familyName>2.54 mm Female Header</familyName>
+		<familyType>HEAF</familyType>
+		<familySize>I01</familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>EE7</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>EE7#</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
+	</oompFamily>
+		<oompFamily>
+		<familyName>2.54 mm Header</familyName>
+		<familyType>HEAD</familyType>
+		<familySize>I01</familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>EE8</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>EE8#</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
+	</oompFamily>
+	</xml>
