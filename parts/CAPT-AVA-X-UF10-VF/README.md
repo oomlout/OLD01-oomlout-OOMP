@@ -13,36 +13,15 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPT-AVA-X-UF10-VF__
 Short URL: __http://oom.lt/10B1__
 
 
-Type: __CAPT__ Capacitor (Tantalum) 
-
-Size: __AVA__ SMD (AVX-A) 
-
-Color: __X__  
-
-Description __UF10__ 10 uF 
-
-Index: __VF__
+|Type   |Size   |Color   |Description   |Index   |
+|-|-|---|
+| __CAPT__ <br>Capacitor (Tantalum)  | __AVA__<br>SMD (AVX-A)   |__X__<br>    |__UF10__<br>10 uF    | __VF__<br> 16v |
 
 
 ## Images
 ![CAPT-AVA-X-UF10-VF](http://oomlout.com/oomp-gen/parts/CAPT-AVA-X-UF10-VF/CAPT-AVA-X-UF10-VF_420.jpg)
 
-
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPT-AVA-X-UF10-VF
-
-
-
-
-
-
-
-
-
-
-
-
-
 

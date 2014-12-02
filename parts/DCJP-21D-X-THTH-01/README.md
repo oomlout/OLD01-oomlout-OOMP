@@ -13,36 +13,15 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/DCJP-21D-X-THTH-01__
 Short URL: __http://oom.lt/10BB__
 
 
-Type: __DCJP__ DC Jack 
-
-Size: __21D__ 2.1 mm 
-
-Color: __X__  
-
-Description __THTH__ Through Hole 
-
-Index: __01__
+|Type   |Size   |Color   |Description   |Index   |
+|-|-|---|
+| __DCJP__ <br>DC Jack  | __21D__<br>2.1 mm   |__X__<br>    |__THTH__<br>Through Hole    | __01__<br>  |
 
 
 ## Images
 ![DCJP-21D-X-THTH-01](http://oomlout.com/oomp-gen/parts/DCJP-21D-X-THTH-01/DCJP-21D-X-THTH-01_420.jpg)
 
-
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/DCJP-21D-X-THTH-01
-
-
-
-
-
-
-
-
-
-
-
-
-
 

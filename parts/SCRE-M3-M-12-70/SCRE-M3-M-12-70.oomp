@@ -66,7 +66,16 @@
         <ooChromaticityY></ooChromaticityY>
 
 
-<!--Plug -->
+<COM>Common Uses</COM>		
+		<usageList>
+			<useItem>
+				<useID>1</useID>
+				<importance>1</importance>
+				<useTitle></useTitle>
+				<useDescription></useDescription>
+			</useItem>
+		</usageList>
+		<!--Plug -->
         <ooPlugID></ooPlugID>
         <ooPlugOD></ooPlugOD>
         <ooPlugLength></ooPlugLength>

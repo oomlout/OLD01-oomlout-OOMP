@@ -13,36 +13,15 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/ICIC-TS14-X-K125-01_
 Short URL: __http://oom.lt/10E7__
 
 
-Type: __ICIC__  
-
-Size: __TS14__ 14 Pin SMD (TSSOP) 
-
-Color: __X__  
-
-Description __K125__ Quad Buffer 
-
-Index: __01__
+|Type   |Size   |Color   |Description   |Index   |
+|-|-|---|
+| __ICIC__ <br>  | __TS14__<br>14 Pin SMD (TSSOP)   |__X__<br>    |__K125__<br>Quad Buffer    | __01__<br>  |
 
 
 ## Images
 ![ICIC-TS14-X-K125-01](http://oomlout.com/oomp-gen/parts/ICIC-TS14-X-K125-01/ICIC-TS14-X-K125-01_420.jpg)
 
-
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/ICIC-TS14-X-K125-01
-
-
-
-
-
-
-
-
-
-
-
-
-
 

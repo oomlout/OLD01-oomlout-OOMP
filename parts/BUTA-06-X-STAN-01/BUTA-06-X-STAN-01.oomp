@@ -66,7 +66,22 @@
         <ooChromaticityY></ooChromaticityY>
 
 
-<!--Plug -->
+<COM>Common Uses</COM>		
+		<usageList>
+			<useItem>
+				<useID>1</useID>
+				<importance>1</importance>
+				<useTitle>Reset Button</useTitle>
+				<useDescription>a reset button for a microcontroller.</useDescription>
+			</useItem>
+			<useItem>
+				<useID>2</useID>
+				<importance>2</importance>
+				<useTitle>Keypad Button</useTitle>
+				<useDescription>a button on a keypad.</useDescription>
+			</useItem>
+		</usageList>
+		<!--Plug -->
         <ooPlugID></ooPlugID>
         <ooPlugOD></ooPlugOD>
         <ooPlugLength></ooPlugLength>
@@ -77,6 +92,14 @@
         <ooSEEEDdesc>SWITCH TACTILE SPST-NO 0.05A 12V</ooSEEEDdesc>
 
 		<sourceList>
+			<manufacturer>
+				<company>Omron</company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID>B3F-1000</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
 			<manufacturer>
 				<company>Shenzhen Best</company>
 				<companyCode></companyCode>
@@ -101,7 +124,33 @@
 				<partID>450-1650-ND</partID>
 				<link><![CDATA[http://www.digikey.co.uk/product-search/en?vendor=0&keywords=450-1650-ND]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>
+			<bigDistributor>
+				<company>Farnell</company>
+				<companyCode>C-FARN</companyCode>
+				<name>TE CONNECTIVITY / ALCOSWITCH  FSM4JH  SWITCH, SPNO, 0.05A</name>
+				<partID>1555982</partID>
+				<link><![CDATA[http://uk.farnell.com/te-connectivity-alcoswitch/fsm4jh/switch-spno-0-05a/dp/1555982?ost=1555982]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company>RS</company>
+				<companyCode>C-RSRS</companyCode>
+				<name>
+Black Button Tactile Switch, SPST-NO 50 mA@ 24 V dc 1.4mm</name>
+				<partID>479-1413</partID>
+				<link><![CDATA[http://uk.rs-online.com/web/p/tactile-switches/4791413/?searchTerm=479-1413&relevancy-data=636F3D3126696E3D4931384E525353746F636B4E756D6265724D504E266C753D656E266D6D3D6D61746368616C6C26706D3D5E5C647B337D5B5C732D2F255C2E2C5D5C647B332C347D2426706F3D313426736E3D592673743D52535F53544F434B5F4E554D4245522677633D4E4F4E45267573743D3437392D3134313326]]></link>
+				<note></note>
+			</bigDistributor>			
+			<bigDistributor>
+				<company>Rapid Electronics</company>
+				<companyCode>C-RAPI</companyCode>
+				<name>
+Tactile Switch 6x6mm Height 4.3mm</name>
+				<partID>78-3800</partID>
+				<link><![CDATA[http://www.rapidonline.com/electronic-components/tactile-switches-6-x-6mm-200042]]></link>
+				<note></note>
+			</bigDistributor>			
 		</sourceList>
 		<oplList>
 			<oplSystem>
@@ -112,6 +161,16 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage>4P-6.0X6.0X5.0H</oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Connector]]></oplLink>
+			</oplSystem>
+			
+			<oplSystem>
+				<oplScheme>HubStock</oplScheme>
+				<oplCode>C-HUBS</oplCode>
+				<oplName></oplName>
+				<oplID>OMRON/B3F-1000</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://circuithub.com/parts/OMRON/B3F-1000]]></oplLink>
 			</oplSystem>
 		</oplList>		
 		
@@ -124,7 +183,7 @@
         <ooNameLine2of3></ooNameLine2of3>
         <ooNameLine3of3></ooNameLine3of3>
         <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout></oompAbout>
+        <oompAbout>The most commonly used through hole tactile pushbutton. It's often more difficult to find a PCB without one of these than with.</oompAbout>
         <ooProjectName1></ooProjectName1>
         <ooProjectDesc1></ooProjectDesc1>
         <ooProjectLink1></ooProjectLink1>

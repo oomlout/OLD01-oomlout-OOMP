@@ -13,36 +13,15 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/ICIC-DI28-X-K328-01_
 Short URL: __http://oom.lt/EA01__
 
 
-Type: __ICIC__  
-
-Size: __DI28__ 28 Pin DIP 
-
-Color: __X__  
-
-Description __K328__ AtMega328P 
-
-Index: __01__
+|Type   |Size   |Color   |Description   |Index   |
+|-|-|---|
+| __ICIC__ <br>  | __DI28__<br>28 Pin DIP   |__X__<br>    |__K328__<br>AtMega328P    | __01__<br>  |
 
 
 ## Images
 ![ICIC-DI28-X-K328-01](http://oomlout.com/oomp-gen/parts/ICIC-DI28-X-K328-01/ICIC-DI28-X-K328-01_420.jpg)
 
-
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/ICIC-DI28-X-K328-01
-
-
-
-
-
-
-
-
-
-
-
-
-
 

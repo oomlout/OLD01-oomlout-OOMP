@@ -13,36 +13,15 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPT-TH-X-NF100-VC__
 Short URL: __http://oom.lt/B0649__
 
 
-Type: __CAPT__ Capacitor (Tantalum) 
-
-Size: __TH__  
-
-Color: __X__  
-
-Description __NF100__ 100 nF 
-
-Index: __VC__
+|Type   |Size   |Color   |Description   |Index   |
+|-|-|---|
+| __CAPT__ <br>Capacitor (Tantalum)  | __TH__<br>   |__X__<br>    |__NF100__<br>100 nF    | __VC__<br> 50v |
 
 
 ## Images
 ![CAPT-TH-X-NF100-VC](http://oomlout.com/oomp-gen/parts/CAPT-TH-X-NF100-VC/CAPT-TH-X-NF100-VC_420.jpg)
 
-
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPT-TH-X-NF100-VC
-
-
-
-
-
-
-
-
-
-
-
-
-
 

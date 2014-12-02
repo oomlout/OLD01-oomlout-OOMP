@@ -13,38 +13,15 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/CRHO-I01-B-01PI-01__
 Short URL: __http://oom.lt/DA01__
 
 
-Type: __CRHO__ Crimp Housing 
-
-Size: __I01__ 2.54 mm 
-
-Color: __B__ Black 
-
-Description __01PI__ 1 Pin 
-
-Index: __01__
+|Type   |Size   |Color   |Description   |Index   |
+|-|-|---|
+| __CRHO__ <br>Crimp Housing  | __I01__<br>2.54 mm   |__B__<br>Black    |__01PI__<br>1 Pin    | __01__<br>  |
 
 
 ## Images
 ![CRHO-I01-B-01PI-01](http://oomlout.com/oomp-gen/parts/CRHO-I01-B-01PI-01/CRHO-I01-B-01PI-01_420.jpg)
 
-## About
-
-This one pin housing is most often used in prototyping. Utilized when going from a multi-pin inline connector to a single pin.
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/CRHO-I01-B-01PI-01
-
-
-
-
-
-
-
-
-
-
-
-
-
 

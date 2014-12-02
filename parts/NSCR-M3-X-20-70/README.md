@@ -13,36 +13,15 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/NSCR-M3-X-20-70__
 Short URL: __http://oom.lt/DD20__
 
 
-Type: __NSCR__ Nylon Screw 
-
-Size: __M3__ M3 
-
-Color: __X__  
-
-Description __20__ x 20 mm 
-
-Index: __70__
+|Type   |Size   |Color   |Description   |Index   |
+|-|-|---|
+| __NSCR__ <br>Nylon Screw  | __M3__<br>M3   |__X__<br>    |__20__<br>x 20 mm    | __70__<br> Cross Head |
 
 
 ## Images
 ![NSCR-M3-X-20-70](http://oomlout.com/oomp-gen/parts/NSCR-M3-X-20-70/NSCR-M3-X-20-70_420.jpg)
 
-
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/NSCR-M3-X-20-70
-
-
-
-
-
-
-
-
-
-
-
-
-
 

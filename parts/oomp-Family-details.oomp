@@ -233,18 +233,6 @@
 		<familyHexNameSpace>EE3</familyHexNameSpace>
 		<familyHexNameSpaceDisplay>EE3#</familyHexNameSpaceDisplay>		
 		<familyAbout></familyAbout>
-	</oompFamily>			
-		<oompFamily>
-		<familyName>5 mm Tinted LED</familyName>
-		<familyType>LEDS</familyType>
-		<familySize>05</familySize>
-		<familyColor></familyColor>
-		<familyDesc>TINT</familyDesc>
-		<familyIndex>01</familyIndex>	
-		<familyHexNameSpace>EE4</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>EE4#</familyHexNameSpaceDisplay>		
-		<familyAbout></familyAbout>
-	</oompFamily>	
 		<oompFamily>
 		<familyName>Through Hole Diode 50 v</familyName>
 		<familyType>DIOD</familyType>
@@ -289,4 +277,16 @@
 		<familyHexNameSpaceDisplay>EE8#</familyHexNameSpaceDisplay>		
 		<familyAbout></familyAbout>
 	</oompFamily>
+	</oompFamily>			
+		<oompFamily>
+		<familyName>5 mm Tinted LED</familyName>
+		<familyType>LEDS</familyType>
+		<familySize>05</familySize>
+		<familyColor></familyColor>
+		<familyDesc>TINT</familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>EE9</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>EE9#</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
+	</oompFamily>	
 	</xml>

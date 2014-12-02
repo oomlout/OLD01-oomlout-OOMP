@@ -13,36 +13,15 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/DIOD-TH-X-A01-VC__
 Short URL: __http://oom.lt/EE51__
 
 
-Type: __DIOD__ Diode 
-
-Size: __TH__  
-
-Color: __X__  
-
-Description __A01__ 1 Amp 
-
-Index: __VC__
+|Type   |Size   |Color   |Description   |Index   |
+|-|-|---|
+| __DIOD__ <br>Diode  | __TH__<br>   |__X__<br>    |__A01__<br>1 Amp    | __VC__<br> 50v |
 
 
 ## Images
 ![DIOD-TH-X-A01-VC](http://oomlout.com/oomp-gen/parts/DIOD-TH-X-A01-VC/DIOD-TH-X-A01-VC_420.jpg)
 
-
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/DIOD-TH-X-A01-VC
-
-
-
-
-
-
-
-
-
-
-
-
-
 

@@ -13,36 +13,15 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/BREB-P400-C-STAN-01_
 Short URL: __http://oom.lt/1020__
 
 
-Type: __BREB__ Breadboard 
-
-Size: __P400__ 400 Point 
-
-Color: __C__ Clear 
-
-Description __STAN__  
-
-Index: __01__
+|Type   |Size   |Color   |Description   |Index   |
+|-|-|---|
+| __BREB__ <br>Breadboard  | __P400__<br>400 Point   |__C__<br>Clear    |__STAN__<br>    | __01__<br>  |
 
 
 ## Images
 ![BREB-P400-C-STAN-01](http://oomlout.com/oomp-gen/parts/BREB-P400-C-STAN-01/BREB-P400-C-STAN-01_420.jpg)
 
-
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/BREB-P400-C-STAN-01
-
-
-
-
-
-
-
-
-
-
-
-
-
 

@@ -13,36 +13,15 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/DIOD-MMA-X-A03D-01__
 Short URL: __http://oom.lt/10B6__
 
 
-Type: __DIOD__ Diode 
-
-Size: __MMA__ SMD (Mini MELF) 
-
-Color: __X__  
-
-Description __A03D__ 300 mA 
-
-Index: __01__
+|Type   |Size   |Color   |Description   |Index   |
+|-|-|---|
+| __DIOD__ <br>Diode  | __MMA__<br>SMD (Mini MELF)   |__X__<br>    |__A03D__<br>300 mA    | __01__<br>  |
 
 
 ## Images
 ![DIOD-MMA-X-A03D-01](http://oomlout.com/oomp-gen/parts/DIOD-MMA-X-A03D-01/DIOD-MMA-X-A03D-01_420.jpg)
 
-
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/DIOD-MMA-X-A03D-01
-
-
-
-
-
-
-
-
-
-
-
-
-
 

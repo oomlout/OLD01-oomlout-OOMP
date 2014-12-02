@@ -13,36 +13,15 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPT-AVC-X-UF22-VA__
 Short URL: __http://oom.lt/1000__
 
 
-Type: __CAPT__ Capacitor (Tantalum) 
-
-Size: __AVC__ SMD (AVX-C) 
-
-Color: __X__  
-
-Description __UF22__ 22 uF 
-
-Index: __VA__
+|Type   |Size   |Color   |Description   |Index   |
+|-|-|---|
+| __CAPT__ <br>Capacitor (Tantalum)  | __AVC__<br>SMD (AVX-C)   |__X__<br>    |__UF22__<br>22 uF    | __VA__<br> 25v |
 
 
 ## Images
 ![CAPT-AVC-X-UF22-VA](http://oomlout.com/oomp-gen/parts/CAPT-AVC-X-UF22-VA/CAPT-AVC-X-UF22-VA_420.jpg)
 
-
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPT-AVC-X-UF22-VA
-
-
-
-
-
-
-
-
-
-
-
-
-
 

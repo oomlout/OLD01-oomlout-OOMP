@@ -13,36 +13,15 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPC-0603-X-PF27-01_
 Short URL: __http://oom.lt/1003__
 
 
-Type: __CAPC__ Capacitor (Ceramic) 
-
-Size: __0603__ SMD (0603) 
-
-Color: __X__  
-
-Description __PF27__ 27 pF 
-
-Index: __01__
+|Type   |Size   |Color   |Description   |Index   |
+|-|-|---|
+| __CAPC__ <br>Capacitor (Ceramic)  | __0603__<br>SMD (0603)   |__X__<br>    |__PF27__<br>27 pF    | __01__<br>  |
 
 
 ## Images
 ![CAPC-0603-X-PF27-01](http://oomlout.com/oomp-gen/parts/CAPC-0603-X-PF27-01/CAPC-0603-X-PF27-01_420.jpg)
 
-
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPC-0603-X-PF27-01
-
-
-
-
-
-
-
-
-
-
-
-
-
 

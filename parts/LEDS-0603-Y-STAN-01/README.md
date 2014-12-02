@@ -13,36 +13,15 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/LEDS-0603-Y-STAN-01_
 Short URL: __http://oom.lt/1058__
 
 
-Type: __LEDS__ LED 
-
-Size: __0603__ SMD (0603) 
-
-Color: __Y__ Yellow 
-
-Description __STAN__  
-
-Index: __01__
+|Type   |Size   |Color   |Description   |Index   |
+|-|-|---|
+| __LEDS__ <br>LED  | __0603__<br>SMD (0603)   |__Y__<br>Yellow    |__STAN__<br>    | __01__<br>  |
 
 
 ## Images
 ![LEDS-0603-Y-STAN-01](http://oomlout.com/oomp-gen/parts/LEDS-0603-Y-STAN-01/LEDS-0603-Y-STAN-01_420.jpg)
 
-
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/LEDS-0603-Y-STAN-01
-
-
-
-
-
-
-
-
-
-
-
-
-
 

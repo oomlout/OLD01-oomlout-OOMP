@@ -13,36 +13,15 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/INDU-0603-X-O121-01_
 Short URL: __http://oom.lt/105A__
 
 
-Type: __INDU__ Inductor 
-
-Size: __0603__ SMD (0603) 
-
-Color: __X__  
-
-Description __O121__ 120 Ohm 
-
-Index: __01__
+|Type   |Size   |Color   |Description   |Index   |
+|-|-|---|
+| __INDU__ <br>Inductor  | __0603__<br>SMD (0603)   |__X__<br>    |__O121__<br>120 Ohm    | __01__<br>  |
 
 
 ## Images
 ![INDU-0603-X-O121-01](http://oomlout.com/oomp-gen/parts/INDU-0603-X-O121-01/INDU-0603-X-O121-01_420.jpg)
 
-
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/INDU-0603-X-O121-01
-
-
-
-
-
-
-
-
-
-
-
-
-
 

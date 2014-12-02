@@ -13,38 +13,15 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RBCC-40W-Z-L300-01__
 Short URL: __http://oom.lt/EE13__
 
 
-Type: __RBCC__ Crimped Ribbon Cable 
-
-Size: __40W__ 40 Wire 
-
-Color: __Z__ Rainbow 
-
-Description __L300__ 300 mm 
-
-Index: __01__
+|Type   |Size   |Color   |Description   |Index   |
+|-|-|---|
+| __RBCC__ <br>Crimped Ribbon Cable  | __40W__<br>40 Wire   |__Z__<br>Rainbow    |__L300__<br>300 mm    | __01__<br>  |
 
 
 ## Images
 ![RBCC-40W-Z-L300-01](http://oomlout.com/oomp-gen/parts/RBCC-40W-Z-L300-01/RBCC-40W-Z-L300-01_420.jpg)
 
-## About
-
-It's often tempting to use these 300 mm long cables, however they are best avoided if possible. The longer length means there's often extra cable that can clutter a project box, or be caught and unplugged unintentionally. That said they are useful at the early stage of a project where final placement is not known and the added length is an advantage.
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/RBCC-40W-Z-L300-01
-
-
-
-
-
-
-
-
-
-
-
-
-
 

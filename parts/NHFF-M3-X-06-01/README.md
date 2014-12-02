@@ -13,36 +13,15 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/NHFF-M3-X-06-01__
 Short URL: __http://oom.lt/DB06__
 
 
-Type: __NHFF__ Nylon Standoff (F-F) 
-
-Size: __M3__ M3 
-
-Color: __X__  
-
-Description __06__ x 6 mm 
-
-Index: __01__
+|Type   |Size   |Color   |Description   |Index   |
+|-|-|---|
+| __NHFF__ <br>Nylon Standoff (F-F)  | __M3__<br>M3   |__X__<br>    |__06__<br>x 6 mm    | __01__<br>  |
 
 
 ## Images
 ![NHFF-M3-X-06-01](http://oomlout.com/oomp-gen/parts/NHFF-M3-X-06-01/NHFF-M3-X-06-01_420.jpg)
 
-
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/NHFF-M3-X-06-01
-
-
-
-
-
-
-
-
-
-
-
-
-
 

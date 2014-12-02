@@ -13,36 +13,15 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/BUTA-07-X-SMDS-01__
 Short URL: __http://oom.lt/10C8__
 
 
-Type: __BUTA__ Pushbutton (Tactile) 
-
-Size: __07__ 7 mm 
-
-Color: __X__  
-
-Description __SMDS__ SMD 
-
-Index: __01__
+|Type   |Size   |Color   |Description   |Index   |
+|-|-|---|
+| __BUTA__ <br>Pushbutton (Tactile)  | __07__<br>7 mm   |__X__<br>    |__SMDS__<br>SMD    | __01__<br>  |
 
 
 ## Images
 ![BUTA-07-X-SMDS-01](http://oomlout.com/oomp-gen/parts/BUTA-07-X-SMDS-01/BUTA-07-X-SMDS-01_420.jpg)
 
-
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/BUTA-07-X-SMDS-01
-
-
-
-
-
-
-
-
-
-
-
-
-
 

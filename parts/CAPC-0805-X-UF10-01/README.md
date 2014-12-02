@@ -13,36 +13,15 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPC-0805-X-UF10-01_
 Short URL: __http://oom.lt/0FF2__
 
 
-Type: __CAPC__ Capacitor (Ceramic) 
-
-Size: __0805__ SMD (0805) 
-
-Color: __X__  
-
-Description __UF10__ 10 uF 
-
-Index: __01__
+|Type   |Size   |Color   |Description   |Index   |
+|-|-|---|
+| __CAPC__ <br>Capacitor (Ceramic)  | __0805__<br>SMD (0805)   |__X__<br>    |__UF10__<br>10 uF    | __01__<br>  |
 
 
 ## Images
 ![CAPC-0805-X-UF10-01](http://oomlout.com/oomp-gen/parts/CAPC-0805-X-UF10-01/CAPC-0805-X-UF10-01_420.jpg)
 
-
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPC-0805-X-UF10-01
-
-
-
-
-
-
-
-
-
-
-
-
-
 

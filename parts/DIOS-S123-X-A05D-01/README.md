@@ -13,36 +13,15 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/DIOS-S123-X-A05D-01_
 Short URL: __http://oom.lt/10B5__
 
 
-Type: __DIOS__ Diode (Schottky) 
-
-Size: __S123__ SMD (SOD-123) 
-
-Color: __X__  
-
-Description __A05D__ 500 mA 
-
-Index: __01__
+|Type   |Size   |Color   |Description   |Index   |
+|-|-|---|
+| __DIOS__ <br>Diode (Schottky)  | __S123__<br>SMD (SOD-123)   |__X__<br>    |__A05D__<br>500 mA    | __01__<br>  |
 
 
 ## Images
 ![DIOS-S123-X-A05D-01](http://oomlout.com/oomp-gen/parts/DIOS-S123-X-A05D-01/DIOS-S123-X-A05D-01_420.jpg)
 
-
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/DIOS-S123-X-A05D-01
-
-
-
-
-
-
-
-
-
-
-
-
-
 

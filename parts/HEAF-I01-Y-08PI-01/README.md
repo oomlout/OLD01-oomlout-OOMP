@@ -13,36 +13,15 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAF-I01-Y-08PI-01__
 Short URL: __http://oom.lt/10C2__
 
 
-Type: __HEAF__ Female Header 
-
-Size: __I01__ 2.54 mm 
-
-Color: __Y__ Yellow 
-
-Description __08PI__ 8 Pin 
-
-Index: __01__
+|Type   |Size   |Color   |Description   |Index   |
+|-|-|---|
+| __HEAF__ <br>Female Header  | __I01__<br>2.54 mm   |__Y__<br>Yellow    |__08PI__<br>8 Pin    | __01__<br>  |
 
 
 ## Images
 ![HEAF-I01-Y-08PI-01](http://oomlout.com/oomp-gen/parts/HEAF-I01-Y-08PI-01/HEAF-I01-Y-08PI-01_420.jpg)
 
-
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAF-I01-Y-08PI-01
-
-
-
-
-
-
-
-
-
-
-
-
-
 
