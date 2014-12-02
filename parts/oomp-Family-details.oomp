@@ -80,17 +80,10 @@
 		<familyHexNameSpaceDisplay>DB##</familyHexNameSpaceDisplay>		
 		<familyAbout></familyAbout>
 		</oompFamily>	
-	<oompFamily>
-		<familyName>M3 Nylon Standoff (M-F)</familyName>
-		<familyType>NHFM</familyType>
-		<familySize>M3</familySize>
-		<familyColor>X</familyColor>
-		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
-		<familyHexNameSpace>DC</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>DC##</familyHexNameSpaceDisplay>		
-		<familyAbout></familyAbout>
-		</oompFamily>		
+
+		
+		
+		
 	<oompFamily>
 		<familyName>M3 Nylon Screw Cross Head</familyName>
 		<familyType>NSCR</familyType>
@@ -102,28 +95,8 @@
 		<familyHexNameSpaceDisplay>DD##</familyHexNameSpaceDisplay>		
 		<familyAbout></familyAbout>
 	</oompFamily>		
-	<oompFamily>
-		<familyName>M3 Standoff (F-F)</familyName>
-		<familyType>HSFF</familyType>
-		<familySize>M3</familySize>
-		<familyColor>M</familyColor>
-		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
-		<familyHexNameSpace>DE</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>DE##</familyHexNameSpaceDisplay>		
-		<familyAbout></familyAbout>
-	</oompFamily>		
-	<oompFamily>
-		<familyName>M3 Standoff (M-F)</familyName>
-		<familyType>HSFM</familyType>
-		<familySize>M3</familySize>
-		<familyColor>M</familyColor>
-		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
-		<familyHexNameSpace>DF</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>DF##</familyHexNameSpaceDisplay>		
-		<familyAbout></familyAbout>
-	</oompFamily>		
+
+
 	<oompFamily>
 		<familyName>M3 Screw Cross Head</familyName>
 		<familyType>SCRE</familyType>
@@ -135,62 +108,6 @@
 		<familyHexNameSpaceDisplay>E0##</familyHexNameSpaceDisplay>		
 		<familyAbout></familyAbout>
 	</oompFamily>			
-	<oompFamily>
-		<familyName>M3 Hex Bolt</familyName>
-		<familyType>BOLT</familyType>
-		<familySize>M3</familySize>
-		<familyColor>M</familyColor>
-		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
-		<familyHexNameSpace>E1</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>E1##</familyHexNameSpaceDisplay>		
-		<familyAbout></familyAbout>
-	</oompFamily>				
-	<oompFamily>
-		<familyName>2.54mm IDC Socket</familyName>
-		<familyType>IDCS</familyType>
-		<familySize>I01</familySize>
-		<familyColor>X</familyColor>
-		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
-		<familyHexNameSpace>E2</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>E2##</familyHexNameSpaceDisplay>		
-		<familyAbout></familyAbout>
-	</oompFamily>	
-	<oompFamily>
-		<familyName>2.54mm IDC Plug</familyName>
-		<familyType>IDCP</familyType>
-		<familySize>I01</familySize>
-		<familyColor>X</familyColor>
-		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
-		<familyHexNameSpace>E3</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>E3##</familyHexNameSpaceDisplay>		
-		<familyAbout></familyAbout>
-	</oompFamily>		
-	
-	<oompFamily>
-		<familyName>2.54 mm White Keyed Connector Housing</familyName>
-		<familyType>KCHO</familyType>
-		<familySize>I01</familySize>
-		<familyColor>W</familyColor>
-		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
-		<familyHexNameSpace>E4</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>E4##</familyHexNameSpaceDisplay>		
-		<familyAbout></familyAbout>
-	</oompFamily>		
-	<oompFamily>
-		<familyName>2.54 mm White Keyed Connector Socket</familyName>
-		<familyType>KCHS</familyType>
-		<familySize>I01</familySize>
-		<familyColor>W</familyColor>
-		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
-		<familyHexNameSpace>E5</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>E5##</familyHexNameSpaceDisplay>		
-		<familyAbout></familyAbout>
-	</oompFamily>		
 	<oompFamily>
 		<familyName>2.54 mm Pin Header</familyName>
 		<familyType>HEAD</familyType>

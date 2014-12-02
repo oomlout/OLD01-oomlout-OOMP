@@ -1,0 +1,57 @@
+## OOMP -- Template for a picture index
+
+<html>
+
+
+<div id="oompMain">
+
+@@navigation,oompBasic.type,value@@
+
+</html>
+
+= Families: =
+		Within the OOMP ID system there are also families of components. These are common components available in either a variety of colours or values.<br>Each family shares four common elements, either:<br>
+			<center><b>TYPE - SIZE - COLOR - INDEX</b></center>
+			<br>(ex.<br>
+			<center><b>CRHO-I01-B-###-01</b> - 2.54mm XX Pin Black Crimp Housing 
+			<br><b> RESE-W04-X-###-01</b> - 1/4 Watt XXXX Ohm Resistor)</center><br>
+			Or:<br>
+			<center><b>TYPE - SIZE - DESCRPTION - INDEX</b></center>
+			<br>(ex. 
+			<br><center><b>LEDS-10-#-FROS-01</b> - 10 mm Frosted XXX LED 
+			<br><b>WIRS-G28-#-STAN-01</b> - 28 AWG XXX Stranded Wire)</center>
+			<br><br></center>
+		Each family of components is assigned either a two or three charachter hexadecimal name space, then the following one to three charachters are used to describe the individual components value.<br>
+(ex.<br><center><b>CRHO-I01-B</b> 
+<br>Namespace: <b>DA##</b> 
+<br>
+<b>CRHO-I01-B-04PI-01</b> 2.54mm 4 Pin Black Crimp Housing HEX: <b>DA04</b><br>
+<b>CRHO-I01-B-08PI-01</b> 2.54mm 8 Pin Black Crimp Housing HEX: <b>DA08</b><br>
+<b>CRHO-I01-B-10PI-01</b> 2.54mm 10 Pin Black Crimp Housing HEX: <b>DA0A</b><br>
+<b>RESE-W04-X</b><br>Namespace: <b>AE###</b>
+<br>
+<b>RESE-W04-X-O561-01</b> 1/4 Watt 560 Ohm Resistor HEX: <b>AE561</b>
+<br>
+<b>RESE-W04-X-O103-01</b> 1/4 Watt 10 k Ohm Resistor HEX: <b>AE103</b>)
+</center>
+<br><br>
+#^^0,100,%%U%%^^==%%U%%,oompFamily.familyName,familyName==<div class="table"><div class="row"><div class="cell oompReverseColors"><div class="table"><div class="row" style="width: 700px;"><div class="cell"  style="width: 140px;"><center>!!%%U%%,oompFamily.familyName,familyName!!</center><br><center><b>!!%%U%%,oompFamily.familyHexNameSpaceDisplay,familyHexNameSpaceDisplay!!</b></center></div></div></div></div></div><div class="row" style="width: 700px;"><div class="cell oompReverseColors" style="width: 700px;"><div class="table"><div class="row"><div class="cell oompReverseColors" style="width: 140px;"><center>.:Type:.<br><b>!!%%U%%,oompFamily.familyType,familyType!!</center></b></div><div class="cell oompReverseColors"  style="width: 140px;"><center>.:Size:.<br><b>!!%%U%%,oompFamily.familySize,familySize!!</center></b></div><div class="cell oompReverseColors"  style="width: 140px;"><center>.:Color:.<br><b>!!%%U%%,oompFamily.familyColor,familyColor!!</center></b></div><div class="cell oompReverseColors" style="width: 140px;"><center>.:Desc:.<br><b>!!%%U%%,oompFamily.familyDesc,familyDesc!!</center></b></div><div class="cell oompReverseColors" style="width: 140px;"><center>.:Index:.<br><b>!!%%U%%,oompFamily.familyIndex,familyIndex!!</center></b></div></div></div></div></div><div class="row" style="width: 700px;"><div class="cell" style="width: 140px;">^^0,500,%%T%%^^??inFamily,!!%%T%%,oompPart.oompID,oompID!!,!!%%U%%,oompFamily.name,familyName!!??<div class="oompFamilyIndexBox"><a href="http://learn.oomlout.co.uk/OO/Projects/oomp/part/!!%%T%%,oompPart.oompID,oompID!!"><center><span class="oompSmall">!!%%T%%,oompPart.oompType,hexID!!</span><br><span class="wordwrap"><<!!%%U%%,oompFamily.familyType,familyType!!,,@@!!%%T%%,oompPart.oompType,oompType!!,oompType.code,name@@<< <<!!%%U%%,oompFamily.familySize,familySize!!,,@@!!%%T%%,oompPart.oompSize,oompSize!!,oompSize.code,name@@<< <<!!%%U%%,oompFamily.familyColor,familyColor!!,,@@!!%%T%%,oompPart.oompColor,oompColor!!,oompColor.code,name@@<< <<!!%%U%%,oompFamily.familyDesc,familyDesc!!,,@@!!%%T%%,oompPart.oompDesc,oompDesc!!,oompDesc.code,name@@<<  <<!!%%U%%,oompFamily.familyIndex,familyIndex!!,,@@!!%%T%%,oompPart.oompIndex,oompIndex!!,oompIndex.code,name@@<< </span>	<br><span class="oompSmall wordwrap">!!%%T%%,oompPart.oompType,oompID!!</span></center>			</a>			</div>	""</div></div></div><br>&nbsp;<br>&nbsp;""
+
+#</center><br><center><b>!!%%U%%,oompFamily.familyHexNameSpaceDisplay,familyHexNameSpaceDisplay!!</b></center></div></div></div></div></div><div class="row" style="width: 700px;"><div class="cell oompReverseColors" style="width: 700px;"><div class="table"><div class="row"><div class="cell oompReverseColors" style="width: 140px;"><center>.:Type:.<br><b>!!%%U%%,oompFamily.familyType,familyType!!</center></b></div><div class="cell oompReverseColors"  style="width: 140px;"><center>.:Size:.<br><b>!!%%U%%,oompFamily.familySize,familySize!!</center></b></div><div class="cell oompReverseColors"  style="width: 140px;"><center>.:Color:.<br><b>!!%%U%%,oompFamily.familyColor,familyColor!!</center></b></div><div class="cell oompReverseColors" style="width: 140px;"><center>.:Desc:.<br><b>!!%%U%%,oompFamily.familyDesc,familyDesc!!</center></b></div><div class="cell oompReverseColors" style="width: 140px;"><center>.:Index:.<br><b>!!%%U%%,oompFamily.familyIndex,familyIndex!!</center></b></div></div></div></div></div><div class="row" style="width: 700px;"><div class="cell" style="width: 140px;">^^0,500,%%T%%^^??inFamily,!!%%T%%,oompPart.oompID,oompID!!,!!%%U%%,oompFamily.name,familyName!!??<div class="oompFamilyIndexBox"><a href="http://learn.oomlout.co.uk/OO/Projects/oomp/part/!!%%T%%,oompPart.oompID,oompID!!"><center><span class="oompSmall">!!%%T%%,oompPart.oompType,hexID!!</span><br><span class="wordwrap"><<!!%%U%%,oompFamily.familyType,familyType!!,,@@!!%%T%%,oompPart.oompType,oompType!!,oompType.code,name@@<< <<!!%%U%%,oompFamily.familySize,familySize!!,,@@!!%%T%%,oompPart.oompSize,oompSize!!,oompSize.code,name@@<< <<!!%%U%%,oompFamily.familyColor,familyColor!!,,@@!!%%T%%,oompPart.oompColor,oompColor!!,oompColor.code,name@@<< <<!!%%U%%,oompFamily.familyDesc,familyDesc!!,,@@!!%%T%%,oompPart.oompDesc,oompDesc!!,oompDesc.code,name@@<<  <<!!%%U%%,oompFamily.familyIndex,familyIndex!!,,@@!!%%T%%,oompPart.oompIndex,oompIndex!!,oompIndex.code,name@@<< </span>	<br><span class="oompSmall wordwrap">!!%%T%%,oompPart.oompType,oompID!!</span></center>			</a>			</div>	""</div></div></div><br>&nbsp;<br>&nbsp;""
+
+#family summary table
+#^^0,10,%%U%%^^==%%U%%,oompFamily.familyName,familyName==<h1>!!%%U%%,oompFamily.familyName,familyName!! - !!%%U%%,oompFamily.familyName,familyHexNameSpaceDisplay!!</h1>~~{| class="wikitable"~~|-~~|<center>Type<br><b>!!%%U%%,oompFamily.familyName,familyType!!</b></center>~~| <center>Size<br><b>!!%%U%%,oompFamily.familyName,familySize!!</b></center>~~| <center>Color<br><b>!!%%U%%,oompFamily.familyName,familyColor!!</b></center>~~| <center>Desc<br><b>!!%%U%%,oompFamily.familyName,familyDesc!!</b></center>~~|<center>Index<br><b>!!%%U%%,oompFamily.familyName,familyIndex!!</b></center>~~|}         
+
+
+#scrolling through all items
+#<a href="http://learn.oomlout.co.uk/OO/Projects/oomp/part/!!%%T%%,oompPart.oompID,oompID!!"><center><span class="oompSmall">!!%%T%%,oompPart.oompType,hexID!!</span><br><span class="wordwrap"><<!!%%U%%,oompFamily.familyType,familyType!!,,@@!!%%T%%,oompPart.oompType,oompType!!,oompType.code,name@@<< <<!!%%U%%,oompFamily.familySize,familySize!!,,@@!!%%T%%,oompPart.oompSize,oompSize!!,oompSize.code,name@@<< <<!!%%U%%,oompFamily.familyColor,familyColor!!,,@@!!%%T%%,oompPart.oompColor,oompColor!!,oompColor.code,name@@<< <<!!%%U%%,oompFamily.familyDesc,familyDesc!!,,@@!!%%T%%,oompPart.oompDesc,oompDesc!!,oompDesc.code,name@@<<  <<!!%%U%%,oompFamily.familyIndex,familyIndex!!,,@@!!%%T%%,oompPart.oompIndex,oompIndex!!,oompIndex.code,name@@<< </span>	<br><span class="oompSmall wordwrap">!!%%T%%,oompPart.oompType,oompID!!</span></center>			</a>			</div>	""</div></div></div><br>&nbsp;<br>&nbsp;""
+
+# Value test
+#<<!!%%U%%,oompFamily.familyType,familyType!!,,@@!!%%T%%,oompPart.oompType,oompType!!,oompType.code,name@@<< <<!!%%U%%,oompFamily.familySize,familySize!!,,@@!!%%T%%,oompPart.oompSize,oompSize!!,oompSize.code,name@@<< <<!!%%U%%,oompFamily.familyColor,familyColor!!,,@@!!%%T%%,oompPart.oompColor,oompColor!!,oompColor.code,name@@<< <<!!%%U%%,oompFamily.familyDesc,familyDesc!!,,@@!!%%T%%,oompPart.oompDesc,oompDesc!!,oompDesc.code,name@@<<  <<!!%%U%%,oompFamily.familyIndex,familyIndex!!,,@@!!%%T%%,oompPart.oompIndex,oompIndex!!,oompIndex.code,name@@<<
+
+^^0,20,%%U%%^^==%%U%%,oompFamily.familyName,familyName==<h1>!!%%U%%,oompFamily.familyName,familyName!! - !!%%U%%,oompFamily.familyName,familyHexNameSpaceDisplay!!</h1><center>~~~~{| class="wikitable"~~|-~~| <center>Type<br><b>!!%%U%%,oompFamily.familyName,familyType!!</b></center>~~| <center>Size<br><b>!!%%U%%,oompFamily.familyName,familySize!!</b></center>~~| <center>Color<br><b>!!%%U%%,oompFamily.familyName,familyColor!!</b></center>~~| <center>Desc<br><b>!!%%U%%,oompFamily.familyName,familyDesc!!</b></center>~~|<center>Index<br><b>!!%%U%%,oompFamily.familyName,familyIndex!!</b></center>~~|}~~{| class="wikitable"~~|-~~|&nbsp;~~| <center>Hex<br>ID</center>~~|<center>ID</center>~~| <center>Value</center>~~^^0,500,%%T%%^^??inFamily,!!%%T%%,oompPart.oompID,oompID!!,!!%%U%%,oompFamily.name,familyName!!??|-~~|[http://learn.oomlout.co.uk/OO/Projects/oomp/part/!!%%T%%,oompPart.oompID,oompID!! http://www.oomlout.com/oomlout-OOMP/parts/!!%%T%%,oompPart.oompID,oompID!!/!!%%T%%,oompPart.oompID,oompID!!_87.jpg]~~|[http://learn.oomlout.co.uk/OO/Projects/oomp/part/!!%%T%%,oompPart.oompID,oompID!! !!%%T%%,oompPart.oompID,hexID!!]~~|[http://learn.oomlout.co.uk/OO/Projects/oomp/part/!!%%T%%,oompPart.oompID,oompID!! !!%%T%%,oompPart.oompID,oompID!!]~~|[http://learn.oomlout.co.uk/OO/Projects/oomp/part/!!%%T%%,oompPart.oompID,oompID!! <<!!%%U%%,oompFamily.familyType,familyType!!,,@@!!%%T%%,oompPart.oompType,oompType!!,oompType.code,name@@<< <<!!%%U%%,oompFamily.familySize,familySize!!,,@@!!%%T%%,oompPart.oompSize,oompSize!!,oompSize.code,name@@<< <<!!%%U%%,oompFamily.familyColor,familyColor!!,,@@!!%%T%%,oompPart.oompColor,oompColor!!,oompColor.code,name@@<< <<!!%%U%%,oompFamily.familyDesc,familyDesc!!,,@@!!%%T%%,oompPart.oompDesc,oompDesc!!,oompDesc.code,name@@<<  <<!!%%U%%,oompFamily.familyIndex,familyIndex!!,,@@!!%%T%%,oompPart.oompIndex,oompIndex!!,oompIndex.code,name@@<<]~~""~~|}~~~~~~""</center>
+
+
+<html>
+</div>
+</html>
