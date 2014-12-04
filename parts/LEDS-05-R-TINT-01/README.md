@@ -6,11 +6,11 @@ Name: __5 mm Tinted Red LED__
 
 ID: __LEDS-05-R-TINT-01__
 
-Hex ID: __9876__
+Hex ID: __EE91__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/LEDS-05-R-TINT-01__
 
-Short URL: __http://oom.lt/9876__
+Short URL: __http://oom.lt/EE91__
 
 
 |Type   |Size   |Color   |Description   |Index   |

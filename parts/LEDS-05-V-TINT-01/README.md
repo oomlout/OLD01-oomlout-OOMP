@@ -6,11 +6,11 @@ Name: __5 mm Tinted Purple LED__
 
 ID: __LEDS-05-V-TINT-01__
 
-Hex ID: __EE46__
+Hex ID: __EE96__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/LEDS-05-V-TINT-01__
 
-Short URL: __http://oom.lt/EE46__
+Short URL: __http://oom.lt/EE96__
 
 
 |Type   |Size   |Color   |Description   |Index   |

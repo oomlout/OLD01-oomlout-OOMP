@@ -6,7 +6,7 @@
 <!--OOMP Base -->
         <oompID>BUTA-06-X-STAN-01</oompID>
         <name>6 mm Pushbutton (Tactile)</name>
-        <hexID>10DC</hexID>
+        <hexID>EE96</hexID>
         <oompSort></oompSort>
         <oompType>BUTA</oompType>
         <oompSize>06</oompSize>
@@ -136,8 +136,7 @@
 			<bigDistributor>
 				<company>RS</company>
 				<companyCode>C-RSRS</companyCode>
-				<name>
-Black Button Tactile Switch, SPST-NO 50 mA@ 24 V dc 1.4mm</name>
+				<name>Black Button Tactile Switch, SPST-NO 50 mA@ 24 V dc 1.4mm</name>
 				<partID>479-1413</partID>
 				<link><![CDATA[http://uk.rs-online.com/web/p/tactile-switches/4791413/?searchTerm=479-1413&relevancy-data=636F3D3126696E3D4931384E525353746F636B4E756D6265724D504E266C753D656E266D6D3D6D61746368616C6C26706D3D5E5C647B337D5B5C732D2F255C2E2C5D5C647B332C347D2426706F3D313426736E3D592673743D52535F53544F434B5F4E554D4245522677633D4E4F4E45267573743D3437392D3134313326]]></link>
 				<note></note>
@@ -145,12 +144,43 @@ Black Button Tactile Switch, SPST-NO 50 mA@ 24 V dc 1.4mm</name>
 			<bigDistributor>
 				<company>Rapid Electronics</company>
 				<companyCode>C-RAPI</companyCode>
-				<name>
-Tactile Switch 6x6mm Height 4.3mm</name>
+				<name>Tactile Switch 6x6mm Height 4.3mm</name>
 				<partID>78-3800</partID>
 				<link><![CDATA[http://www.rapidonline.com/electronic-components/tactile-switches-6-x-6mm-200042]]></link>
 				<note></note>
-			</bigDistributor>			
+			</bigDistributor>
+			<bigDistributor>
+				<company>Sparkfun</company>
+				<companyCode>C-SPAR</companyCode>
+				<name>Mini Pushbutton Switch</name>
+				<partID>97</partID>
+				<link><![CDATA[https://www.sparkfun.com/products/97]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>Adafruit</company>
+				<companyCode>C-ADAF</companyCode>
+				<name>Tactile Button switch (6mm) x 20 pack</name>
+				<partID>367</partID>
+				<link><![CDATA[http://www.adafruit.com/products/367]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>SEEED Studios</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>SWITCH TACTILE SPST-NO 0.05A 12V</name>
+				<partID>3110040P1</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=101]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>Oomlout</company>
+				<companyCode>C-OOML</companyCode>
+				<name>Pushbuttons (x5)</name>
+				<partID>BUTT-01-05</partID>
+				<link><![CDATA[http://oomlout.co.uk/products/pushbutton-x5]]></link>
+				<note></note>
+			</bigDistributor>				
 		</sourceList>
 		<oplList>
 			<oplSystem>

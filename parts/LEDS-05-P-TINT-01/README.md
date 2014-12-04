@@ -6,11 +6,11 @@ Name: __5 mm Tinted Pink LED__
 
 ID: __LEDS-05-P-TINT-01__
 
-Hex ID: __EE4A__
+Hex ID: __EE9A__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/LEDS-05-P-TINT-01__
 
-Short URL: __http://oom.lt/EE4A__
+Short URL: __http://oom.lt/EE9A__
 
 
 |Type   |Size   |Color   |Description   |Index   |

@@ -6,11 +6,11 @@ Name: __6 mm Pushbutton (Tactile)__
 
 ID: __BUTA-06-X-STAN-01__
 
-Hex ID: __10DC__
+Hex ID: __EE96__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/BUTA-06-X-STAN-01__
 
-Short URL: __http://oom.lt/10DC__
+Short URL: __http://oom.lt/EE96__
 
 
 |Type   |Size   |Color   |Description   |Index   |

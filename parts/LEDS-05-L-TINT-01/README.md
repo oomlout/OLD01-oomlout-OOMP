@@ -6,11 +6,11 @@ Name: __5 mm Tinted Blue LED__
 
 ID: __LEDS-05-L-TINT-01__
 
-Hex ID: __EE45__
+Hex ID: __EE95__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/LEDS-05-L-TINT-01__
 
-Short URL: __http://oom.lt/EE45__
+Short URL: __http://oom.lt/EE95__
 
 
 |Type   |Size   |Color   |Description   |Index   |
