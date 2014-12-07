@@ -8,8 +8,6 @@
 				<a href="http://learn.oomlout.co.uk/OO/Projects/oomp/pictureIndex"><span  class="oompLink">.:Index:.</span></a>
 				&#160;&#160;&#160;&#160;&#160;&#160;
 				<a href="http://learn.oomlout.co.uk/OO/Projects/oomp/familyIndex"><span  class="oompLink">.:Families:.</span></a>
-				&#160;&#160;&#160;&#160;&#160;&#160;
-				<a href="http://learn.oomlout.co.uk/OO/Projects/oomp/allParts"><span  class="oompLink">.:All Parts:.</span></a>
 				<br>
 
 				<center><b>.:About OOMP:.</b><br>
@@ -31,11 +29,11 @@
 	</oompBasic>
 	<oompBasic>
 		<type>bottomText</type>
-		<value><![CDATA[
-==Extra Details==
+		<value><![CDATA[<html>
+<h1>Extra Details</h1>
 Page last updated: %%YEAR%%-%%MONTH%%-%%DAY%% %%HOUR%%:%%MINUTE%%<br>
 Spotted a mistake, want to add more? Let us know oomp@oomlout.com<br>
-All images and resourcesare licensed <b>[https://creativecommons.org/licenses/by-sa/3.0/ CC BY-SA]</b> unless otherwise stated (ie. the datasheets)
+All images and resources are licensed <b><a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA</a></b> unless otherwise stated (ie. the datasheets)<br><br>
 			]]>
 			</value>
 	</oompBasic>
