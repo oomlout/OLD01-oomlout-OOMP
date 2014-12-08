@@ -69,6 +69,10 @@
 			<name>TO-92</name>
     </oompSize>
 	<oompSize>
+			<code>T220</code>
+			<name>TO-220</name>
+    </oompSize>
+	<oompSize>
 			<code>T252</code>
 			<name>TO-252</name>
     </oompSize>
@@ -2115,6 +2119,18 @@
 	<oompSize>
             <code>M20</code>
             <name>M20</name>
+    </oompSize>	
+	<oompSize>
+            <code>DI14</code>
+            <name>14 Pin DIP</name>
+    </oompSize>	
+	<oompSize>
+            <code>DI16</code>
+            <name>16 Pin DIP</name>
+    </oompSize>	
+	<oompSize>
+            <code>DI18</code>
+            <name>18 Pin DIP</name>
     </oompSize>	
 	<oompSize>
             <code>DI28</code>

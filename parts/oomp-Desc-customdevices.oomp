@@ -9,10 +9,18 @@
     </oompDesc>	
 	<oompDesc>
             <code>K125</code>
-            <name>Quad Buffer</name>
+            <name>74HC125 Quad Buffer</name>
     </oompDesc>	
 	<oompDesc>
             <code>K232</code>
             <name>FTDI USB-Serial</name>
+    </oompDesc>	
+	<oompDesc>
+            <code>K595</code>
+            <name>74HC595 8-Bit Shift Register (Latching)</name>
+    </oompDesc>	
+	<oompDesc>
+            <code>K2803</code>
+            <name>ULN2803A Octal Transistor Array</name>
     </oompDesc>	
 </xml>

@@ -1,23 +1,22 @@
-﻿<xml>
-
+<xml>
     <oompPart>
-        <index>4294</index>
+        <index>9876</index>
 
-<!--OOMP Base -->
+<com>OOMP Base</com>
         <oompID>HEAD-I01-X-06PI-01</oompID>
-        <name>2.54 mm 6 Pin Header</name>
-        <hexID>EE86</hexID>
-        <oompSort></oompSort>
+        <name> 2.54 mm 6 Pin Header </name>
+        <hexID>E606</hexID>
+        <oompSort>06</oompSort>
         <oompType>HEAD</oompType>
         <oompSize>I01</oompSize>
         <oompColor>X</oompColor>
         <oompDesc>06PI</oompDesc>
         <oompIndex>01</oompIndex>
         <oompOwner></oompOwner>
-        <oompVersion>99</oompVersion>
+        <oompVersion></oompVersion>
 
 
-<!--Size -->
+<com>Size</com>
         <ooPitch></ooPitch>
         <ooWidth></ooWidth>
         <ooHeight></ooHeight>
@@ -26,36 +25,26 @@
         <ooDepth></ooDepth>
         <ooWireSize></ooWireSize>
 
-
-<!--Manufacturer -->
-        <ooManufacturer></ooManufacturer>
-        <ooManufacturerPartNumber></ooManufacturerPartNumber>
-
-
-<!--Description -->
+<com>Description</com>
         <ooMaterial></ooMaterial>
         <ooNumPins></ooNumPins>
         <ooTerminalStyle></ooTerminalStyle>
         <ooPowerRating></ooPowerRating>
 
-
-<!--Hardware -->
+<com>Hardware</com>
         <ooHeadStyle></ooHeadStyle>
         <ooWrenchSize></ooWrenchSize>
 
-
-<!--Maximums -->
+<com>Maximums</com>
         <ooMaxCurrent></ooMaxCurrent>
         <ooMaxVoltage></ooMaxVoltage>
         <ooLifetime></ooLifetime>
         <ooTolerance></ooTolerance>
 
-
-<!--Heat Shrink -->
+<com>Heat Shrink</com>
         <ooShrinkRatio></ooShrinkRatio>
 
-
-<!--LED -->
+<com>LED</com>
         <ooLensColor></ooLensColor>
         <ooForwardVoltage></ooForwardVoltage>
         <ooForwardCurrent></ooForwardCurrent>
@@ -65,50 +54,13 @@
         <ooChromaticityX></ooChromaticityX>
         <ooChromaticityY></ooChromaticityY>
 
-
-<COM>Common Uses</COM>		
-		<usageList>
-			<useItem>
-				<useID>1</useID>
-				<importance>1</importance>
-				<useTitle></useTitle>
-				<useDescription></useDescription>
-			</useItem>
-		</usageList>
-		<!--Plug -->
+<com>Plug</com>
         <ooPlugID></ooPlugID>
         <ooPlugOD></ooPlugOD>
         <ooPlugLength></ooPlugLength>
 
-
-<!--SEEED OPL (Open Parts Library) -->
-        <ooSEEEDsku></ooSEEEDsku>
-        <ooSEEEDdesc></ooSEEEDdesc>
-
-
-<!--Hidden -->
-        <oompVersion></oompVersion>
-        <ooNameLine1of2></ooNameLine1of2>
-        <ooNameLine2of2></ooNameLine2of2>
-        <ooNameLine1of3></ooNameLine1of3>
-        <ooNameLine2of3></ooNameLine2of3>
-        <ooNameLine3of3></ooNameLine3of3>
-        <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-        <ooSEEED3dModel></ooSEEED3dModel>
-
-
-<!-- -->
-
-    		<sourceList>
+<com>Source List</com>		
+		<sourceList>
 			<manufacturer>
 				<company></company>
 				<companyCode></companyCode>
@@ -123,18 +75,12 @@
 				<companyCode></companyCode>
 				<name></name>
 				<partID></partID>
-				<link><![CDATA[ ]]></link>
-				<note></note>
-			</bigDistributor>					
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
+				<link><![CDATA[]]></link>
 				<note></note>
 			</bigDistributor>					
 		</sourceList>
+		
+<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme></oplScheme>
@@ -143,10 +89,19 @@
 				<oplID></oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
-				<oplLink><![CDATA[ ]]></oplLink>
+				<oplLink><![CDATA[]]></oplLink>
 			</oplSystem>
 		</oplList>
 
-
-</oompPart>
+<com>Hidden</com>
+        <oompAbout></oompAbout>
+        <ooProjectName1></ooProjectName1>
+        <ooProjectDesc1></ooProjectDesc1>
+        <ooProjectLink1></ooProjectLink1>
+        <ooProjectType1></ooProjectType1>
+        <ooBuyName1></ooBuyName1>
+        <ooBuyDesc1></ooBuyDesc1>
+        <ooBuyLink1></ooBuyLink1>
+        <ooBuyType1></ooBuyType1>
+    </oompPart>
 </xml>

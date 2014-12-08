@@ -1,14 +1,14 @@
 <xml>
 	<newOOMP>
-		<oompType>LEDS</oompType>
-		<oompSize>05</oompSize>
-		<oompColor>P</oompColor>
-		<oompDesc>TINT</oompDesc>
-		<oompIndex>01</oompIndex>
+		<oompType>VREG</oompType>
+		<oompSize>T220</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>V05</oompDesc>
+		<oompIndex>A1</oompIndex>
 		<oompOwner></oompOwner>
-		<oompSort>10</oompSort>
+		<oompSort>5</oompSort>
 		<index>9876</index>
-		<hexID>EE4A</hexID>		
+		<hexID>EEEE</hexID>		
 		<version>20</version>
 	</newOOMP>
 </xml>
