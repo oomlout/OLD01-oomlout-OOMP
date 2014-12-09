@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: __2.54 mm 8 Pin Header__
+Name: __ 2.54 mm 8 Pin Header __
 
 ID: __HEAD-I01-X-08PI-01__
 

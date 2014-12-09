@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: __2.54 mm 3 Pin Header__
+Name: __ 2.54 mm 3 Pin Header __
 
 ID: __HEAD-I01-X-03PI-01__
 
