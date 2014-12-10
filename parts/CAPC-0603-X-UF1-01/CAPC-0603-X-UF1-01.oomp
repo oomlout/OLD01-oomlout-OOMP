@@ -93,6 +93,22 @@
 				<link></link>
 				<note></note>			
 			</manufacturer>
+			<manufacturer>
+				<company>AVX Interconnect</company>
+				<companyCode>C-AVXI</companyCode>
+				<name></name>
+				<partID>0603YC105KAT2A</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company>Kemet</company>
+				<companyCode>C-KEME</companyCode>
+				<name></name>
+				<partID>C0603C105K4RACTU</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
 				
 			<bigDistributor>
 				<company>Mouser</company>
@@ -100,6 +116,23 @@
 				<name>Multilayer Ceramic Capacitors MLCC - SMD/SMT 1.0uF 25V X7R 10%</name>
 				<partID>603-CC603KRX7R8BB105</partID>
 				<link><![CDATA[http://uk.mouser.com/ProductDetail/Yageo/CC0603KRX7R8BB105/?qs=%2fha2pyFaduh%2bUOWCkAJwPIJimSXXC4xHuo61QkwPT%2fbs0YjC0G1AHw%3d%3d]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company>Rapid Electronics</company>
+				<companyCode>C-RAPI</companyCode>
+				<name>1uf 16v -20+80% Y5v 0603 Chip Capacitor - Pack of 100</name>
+				<partID>71-1868</partID>
+				<link><![CDATA[http://www.rapidonline.com/electronic-components/1uf-16v-20-80-y5v-0603-chip-capacitor-pack-of-100-71-1868]]></link>
+				<note></note>
+			</bigDistributor>
+				
+			<bigDistributor>
+				<company>SEEED Studios</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>SMD CAP Ceramic 1uF-25V-10%-X7R</name>
+				<partID>0100340P1</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=12]]></link>
 				<note></note>
 			</bigDistributor>					
 		</sourceList>
@@ -113,7 +146,26 @@
 				<oplPackage>0603</oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Capacitor]]></oplLink>
 			</oplSystem>
-		</oplList>
+			<oplSystem>
+				<oplScheme>OctoPart CPL</oplScheme>
+				<oplCode>C-OCTO</oplCode>
+				<oplName>Capacitor 1 uF +-10% 16 V 0603</oplName>
+				<oplID>Capacitor 1 uF +-10% 16 V 0603</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://octopart.com/common-parts-library#Capacitors]]></oplLink>
+			</oplSystem>			
+			<oplSystem>
+				<oplScheme>HubStock</oplScheme>
+				<oplCode>C-HUBS</oplCode>
+				<oplName>KEMET/C0603C105K4RACTU</oplName>
+				<oplID>KEMET/C0603C105K4RACTU</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://circuithub.com/parts/KEMET/C0603C105K4RACTU]]></oplLink>
+			</oplSystem>
+		</oplList>					
+	
 
 <!--Hidden -->
         <oompVersion></oompVersion>

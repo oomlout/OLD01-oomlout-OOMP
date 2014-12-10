@@ -94,7 +94,33 @@
 				<link></link>
 				<note></note>			
 			</manufacturer>
-				
+			<manufacturer>
+				<company>AVX Interconnect</company>
+				<companyCode>C-AVXI</companyCode>
+				<name></name>
+				<partID>06035C103JAT2A</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company>Kemet</company>
+				<companyCode>C-KEME</companyCode>
+				<name></name>
+				<partID>C0603C103J5RACTU</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company>Samsung</company>
+				<companyCode>C-SAMS</companyCode>
+				<name></name>
+				<partID>CL10B103KB8NNNC</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+
+
+			
 			<bigDistributor>
 				<company>Digikey</company>
 				<companyCode>C-DIGK</companyCode>
@@ -110,7 +136,23 @@
 				<partID>603-CC603KRX7R9BB103</partID>
 				<link><![CDATA[http://uk.mouser.com/ProductDetail/Yageo/CC0603KRX7R9BB103/?qs=%2fha2pyFaduh%2bUOWCkAJwPDBTdHczBT8rvHgrBk5f2mwvasGbjGc5Rw%3d%3d]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>	
+			<bigDistributor>
+				<company>Rapid Electronics</company>
+				<companyCode>C-RAPI</companyCode>
+				<name>10nf 50v +-20% Y5v 0603 Chip Capacitor - Pack of 100</name>
+				<partID>71-1856</partID>
+				<link><![CDATA[http://www.rapidonline.com/electronic-components/10nf-50v-20-y5v-0603-chip-capacitor-pack-of-100-71-1856]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>SEEED Studios</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>SMD CAP Ceramic 10nF-50V-10%-X7R</name>
+				<partID>0100350P1</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=18]]></link>
+				<note></note>
+			</bigDistributor>			
 		</sourceList>
 		<oplList>
 			<oplSystem>
@@ -121,6 +163,25 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage>0603</oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Capacitor]]></oplLink>
+			</oplSystem>
+			
+			<oplSystem>
+				<oplScheme>OctoPart CPL</oplScheme>
+				<oplCode>C-OCTO</oplCode>
+				<oplName>Capacitor 10 nF +-5% 50 V 0603</oplName>
+				<oplID>Capacitor 10 nF +-5% 50 V 0603</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage>0603</oplPackage>
+				<oplLink><![CDATA[https://octopart.com/common-parts-library#Capacitors]]></oplLink>
+			</oplSystem>			
+			<oplSystem>
+				<oplScheme>HubStock</oplScheme>
+				<oplCode>C-HUBS</oplCode>
+				<oplName>AI3/06035C-103KAT2A</oplName>
+				<oplID>AI3/06035C-103KAT2A</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage>0603</oplPackage>
+				<oplLink><![CDATA[https://circuithub.com/parts/AI3/06035C-103KAT2A]]></oplLink>
 			</oplSystem>
 		</oplList>
 <!--Hidden -->

@@ -93,6 +93,14 @@
 				<link></link>
 				<note></note>			
 			</manufacturer>
+			<manufacturer>
+				<company>Kemet</company>
+				<companyCode>C-KEME</companyCode>
+				<name></name>
+				<partID>C0603C270J5GACTU</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
 				
 			<bigDistributor>
 				<company>DigiKey</company>
@@ -109,7 +117,25 @@
 				<partID>603-CC603JRNPO9BN270</partID>
 				<link><![CDATA[http://uk.mouser.com/ProductDetail/Yageo/CC0603JRNPO9BN270/?qs=%2fha2pyFaduiZbois2HzNxYhD127NbZ9%2fz2vh2K7BbwyuTgKeYX9QQA%3d%3d]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>	
+			<bigDistributor>
+				<company>Rapid Electronics</company>
+				<companyCode>C-RAPI</companyCode>
+				<name>27pf 50v +-10% Npo 0603 Chip Capacitor - Pack of 100</name>
+				<partID>71-1794</partID>
+				<link><![CDATA[http://www.rapidonline.com/electronic-components/27pf-50v-10-npo-0603-chip-capacitor-pack-of-100-71-1794]]></link>
+				<note></note>
+			</bigDistributor>
+				
+			<bigDistributor>
+				<company>SEEED Studios</company>
+				<companyCode>C-SEEE</companyCode>
+				<name> SMD CAP Ceramic 27pF-50V-5%-NPO</name>
+				<partID>0100410P1</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=46]]></link>
+				<note></note>
+			</bigDistributor>						
+	
 		</sourceList>
 		<oplList>
 			<oplSystem>
@@ -120,6 +146,24 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage>0603</oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Connector]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme>OctoPart CPL</oplScheme>
+				<oplCode>C-OCTO</oplCode>
+				<oplName>Capacitor 27 pF +-5% 50 V 0603</oplName>
+				<oplID>Capacitor 27 pF +-5% 50 V 0603</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://octopart.com/common-parts-library#Capacitors]]></oplLink>
+			</oplSystem>			
+			<oplSystem>
+				<oplScheme>HubStock</oplScheme>
+				<oplCode>C-HUBS</oplCode>
+				<oplName>KEMET/C0603C270J5GACTU</oplName>
+				<oplID>KEMET/C0603C270J5GACTU</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://circuithub.com/parts/KEMET/C0603C270J5GACTU]]></oplLink>
 			</oplSystem>
 		</oplList>
 

@@ -88,7 +88,7 @@
 		<sourceList>
 			<manufacturer>
 				<company>Diptronics</company>
-				<companyCode></companyCode>
+				<companyCode>C-DIPT</companyCode>
 				<name></name>
 				<partID>DTSM-62K-S-V-T/R(SN431)</partID>
 				<link></link>
@@ -96,9 +96,17 @@
 			</manufacturer>
 			<manufacturer>
 				<company>Schurter</company>
-				<companyCode></companyCode>
+				<companyCode>C-SCHU</companyCode>
 				<name></name>
 				<partID>1301.9315</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>				
+			<manufacturer>
+				<company>RVFM</company>
+				<companyCode>C-RVFM</companyCode>
+				<name></name>
+				<partID>DTSM-62K</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>				
@@ -117,7 +125,26 @@
 				<partID>1301.9315-ND</partID>
 				<link><![CDATA[http://www.digikey.co.uk/product-search/en?x=26&y=16&lang=en&site=uk&KeyWords=1301.9315-ND]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>			
+			<bigDistributor>
+				<company>Rapid Electronics</company>
+				<companyCode>C-RAPI</companyCode>
+				<name>3.5mm Smd 6x6mm Tactile Switch</name>
+				<partID>78-1132</partID>
+				<link><![CDATA[http://www.rapidonline.com/electronic-components/3-5mm-smd-6x6mm-tactile-switch-78-1132]]></link>
+				<note></note>
+			</bigDistributor>
+				
+			<bigDistributor>
+				<company>SEEED Studios</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>SWITCH TACTILE SPST-NO 0.05A 12V</name>
+				<partID>3100010P1</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=100]]></link>
+				<note></note>
+			</bigDistributor>				
+			
+							
 
 			</sourceList>
 		<oplList>

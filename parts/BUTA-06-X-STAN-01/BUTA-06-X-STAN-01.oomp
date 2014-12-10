@@ -116,6 +116,15 @@
 				<link></link>
 				<note></note>			
 			</manufacturer>			
+			
+			<manufacturer>
+				<company>RVFM</company>
+				<companyCode>C-RVFM</companyCode>
+				<name>Tactile switches 6 x 6mm</name>
+				<partID> TC-00104-043C</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>			
 				
 			<bigDistributor>
 				<company>DigiKey</company>
@@ -146,7 +155,7 @@
 				<companyCode>C-RAPI</companyCode>
 				<name>Tactile Switch 6x6mm Height 4.3mm</name>
 				<partID>78-3800</partID>
-				<link><![CDATA[http://www.rapidonline.com/electronic-components/tactile-switches-6-x-6mm-200042]]></link>
+				<link><![CDATA[http://www.rapidonline.com/electronic-components/tactile-switch-6x6mm-height-4-3mm-78-3800]]></link>
 				<note></note>
 			</bigDistributor>
 			<bigDistributor>
@@ -192,7 +201,6 @@
 				<oplPackage>4P-6.0X6.0X5.0H</oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Connector]]></oplLink>
 			</oplSystem>
-			
 			<oplSystem>
 				<oplScheme>HubStock</oplScheme>
 				<oplCode>C-HUBS</oplCode>

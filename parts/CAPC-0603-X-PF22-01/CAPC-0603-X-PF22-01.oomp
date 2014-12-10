@@ -94,6 +94,23 @@
 				<link></link>
 				<note></note>			
 			</manufacturer>
+			<manufacturer>
+				<company>Kemet</company>
+				<companyCode>C-KEME</companyCode>
+				<name></name>
+				<partID>C0603C220J5GACTU</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company>Samsung</company>
+				<companyCode>C-SAMS</companyCode>
+				<name></name>
+				<partID>CL10C220JB8NNNC</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+
 				
 			<bigDistributor>
 				<company>DigiKey</company>
@@ -110,7 +127,24 @@
 				<partID>603-CC603JRNPO9BN220</partID>
 				<link><![CDATA[http://uk.mouser.com/ProductDetail/Yageo/CC0603JRNPO9BN220/?qs=%2fha2pyFadugIysjTTpSFiMCMg3S1b6JEnryoJoIbiYUOSHaOrG9YvFNvYqC70LVJ]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>
+			<bigDistributor>
+				<company>Rapid Electronics</company>
+				<companyCode>C-RAPI</companyCode>
+				<name>22pf 50v +-10% Npo 0603 Chip Capacitor - Pack of 100</name>
+				<partID>71-1792</partID>
+				<link><![CDATA[http://www.rapidonline.com/electronic-components/22pf-50v-10-npo-0603-chip-capacitor-pack-of-100-71-1792]]></link>
+				<note></note>
+			</bigDistributor>
+				
+			<bigDistributor>
+				<company>SEEED Studios</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>SMD CAP Ceramic 22pF-50V-5%-NPO</name>
+				<partID>0100620P1</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=27]]></link>
+				<note></note>
+			</bigDistributor>						
 		</sourceList>
 		<oplList>
 			<oplSystem>
@@ -121,6 +155,24 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage>0603</oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Capacitor]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme>OctoPart CPL</oplScheme>
+				<oplCode>C-OCTO</oplCode>
+				<oplName>Capacitor 22 pF +-5% 50 V 0603</oplName>
+				<oplID>Capacitor 22 pF +-5% 50 V 0603</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://octopart.com/common-parts-library#Capacitors]]></oplLink>
+			</oplSystem>			
+			<oplSystem>
+				<oplScheme>HubStock</oplScheme>
+				<oplCode>C-HUBS</oplCode>
+				<oplName>YAGEO2/CC0603JRNPO9BN220</oplName>
+				<oplID>YAGEO2/CC0603JRNPO9BN220</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://circuithub.com/parts/YAGEO2/CC0603JRNPO9BN220]]></oplLink>
 			</oplSystem>
 		</oplList>
 

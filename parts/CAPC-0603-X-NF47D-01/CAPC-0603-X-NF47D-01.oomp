@@ -93,6 +93,30 @@
 				<link></link>
 				<note></note>			
 			</manufacturer>
+			<manufacturer>
+				<company>AVX Interconnect</company>
+				<companyCode>C-AVXI</companyCode>
+				<name></name>
+				<partID>06035C472JAT2A</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company>Kemet</company>
+				<companyCode>C-KEME</companyCode>
+				<name></name>
+				<partID>C0603C472J5RACTU</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company>Samsung</company>
+				<companyCode>C-SAMS</companyCode>
+				<name></name>
+				<partID>CL10B472KB8NNNC</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
 				
 			<bigDistributor>
 				<company>DigiKey</company>
@@ -109,7 +133,15 @@
 				<partID>603-C0603KRX7R9BB472</partID>
 				<link><![CDATA[http://uk.mouser.com/Search/Refine.aspx?Keyword=603-C0603KRX7R9BB472]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>				
+			<bigDistributor>
+				<company>SEEED Studios</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>SMD CAP Ceramic 4.7nF-50V-10%-X7R</name>
+				<partID>0100850P1</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=42]]></link>
+				<note></note>
+			</bigDistributor>				
 		</sourceList>
 		<oplList>
 			<oplSystem>
@@ -120,6 +152,24 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage>0603</oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Capacitor]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme>OctoPart CPL</oplScheme>
+				<oplCode>C-OCTO</oplCode>
+				<oplName>Capacitor 4.7 nF +-5% 50 V 0603</oplName>
+				<oplID>Capacitor 4.7 nF +-5% 50 V 0603</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://octopart.com/common-parts-library#Capacitors]]></oplLink>
+			</oplSystem>			
+			<oplSystem>
+				<oplScheme>HubStock</oplScheme>
+				<oplCode>C-HUBS</oplCode>
+				<oplName>MURATA/GRM188R71H472KA01D</oplName>
+				<oplID>MURATA/GRM188R71H472KA01D</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://circuithub.com/parts/MURATA/GRM188R71H472KA01D]]></oplLink>
 			</oplSystem>
 		</oplList>
 			

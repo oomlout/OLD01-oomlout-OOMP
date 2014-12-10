@@ -62,22 +62,38 @@
 <com>Source List</com>		
 		<sourceList>
 			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
+				<company>Diptronics</company>
+				<companyCode>C-DIPT</companyCode>
 				<name></name>
-				<partID></partID>
+				<partID>DTS-24R-V</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
-				
+						
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
+				<company>Rapid Electronics</company>
+				<companyCode>C-RAPI</companyCode>
+				<name>7.3mm Sq 12x12 Tactile Switch 260gf</name>
+				<partID>78-0631</partID>
+				<link><![CDATA[http://www.rapidonline.com/Electronic-Components/7-3mm-Sq-12x12-Tactile-Switch-260gf-78-0631]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>
+			<bigDistributor>
+				<company>Sparkfun</company>
+				<companyCode>C-SPAR</companyCode>
+				<name>Tactile Button Assortment</name>
+				<partID>9190</partID>
+				<link><![CDATA[https://www.sparkfun.com/products/10302]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>Adafruit</company>
+				<companyCode>C-ADAF</companyCode>
+				<name>Colorful Round Tactile Button Switch Assortment - 15 pack</name>
+				<partID>1009</partID>
+				<link><![CDATA[http://www.adafruit.com/products/1009]]></link>
+				<note></note>
+			</bigDistributor>
 		</sourceList>
 		
 <com>OPL</com>		

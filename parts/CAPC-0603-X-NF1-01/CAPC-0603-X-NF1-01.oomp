@@ -88,9 +88,33 @@
 		<sourceList>
 			<manufacturer>
 				<company>Yageo</company>
-				<companyCode></companyCode>
+				<companyCode>C-YAGE</companyCode>
 				<name></name>
 				<partID>CC0603KRX7R9BB102</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+				<manufacturer>
+				<company>Murata</company>
+				<companyCode>C-MURA</companyCode>
+				<name></name>
+				<partID>GRM1885C1H102JA01D</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company>Kemet</company>
+				<companyCode>C-KEME</companyCode>
+				<name></name>
+				<partID>C0603C102J5GACTU</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company>Samsung</company>
+				<companyCode>C-SAMS</companyCode>
+				<name></name>
+				<partID>CL10B102KB8NNNC</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -111,6 +135,15 @@
 				<link><![CDATA[http://uk.mouser.com/ProductDetail/Yageo/CC0603KRX7R9BB102/?qs=%2fha2pyFaduh%2bUOWCkAJwPDBTdHczBT8rL%2bsGQ%2fLb4RT38Lb0p2op5A%3d%3d]]></link>
 				<note></note>
 			</bigDistributor>				
+						
+			<bigDistributor>
+				<company>Rapid Electronics</company>
+				<companyCode>C-RAPI</companyCode>
+				<name>10nf 50v +-20% Y5v 0603 Chip Capacitor - Pack of 100</name>
+				<partID>71-1856</partID>
+				<link><![CDATA[http://www.rapidonline.com/electronic-components/10nf-50v-20-y5v-0603-chip-capacitor-pack-of-100-71-1856]]></link>
+				<note></note>
+			</bigDistributor>				
 		</sourceList>
 		<oplList>
 			<oplSystem>
@@ -122,6 +155,28 @@
 				<oplPackage>0603</oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Connector]]></oplLink>
 			</oplSystem>
+			
+			<oplSystem>
+				<oplScheme>OctoPart CPL</oplScheme>
+				<oplCode>C-OCTO</oplCode>
+				<oplName>Capacitor 1 nF +-5% 50 V 0603</oplName>
+				<oplID>Capacitor 1 nF +-5% 50 V 0603</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage>0603</oplPackage>
+				<oplLink><![CDATA[https://octopart.com/common-parts-library#Capacitors]]></oplLink>
+			</oplSystem>
+			
+			<oplSystem>
+				<oplScheme>HubStock</oplScheme>
+				<oplCode>C-HUBS</oplCode>
+				<oplName>MURATA/GRM188R71H102KA01D</oplName>
+				<oplID>MURATA/GRM188R71H102KA01D</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage>0603</oplPackage>
+				<oplLink><![CDATA[https://circuithub.com/parts/MURATA/GRM188R71H102KA01D]]></oplLink>
+			</oplSystem>
+		
+			
 		</oplList>
 
 <!--Hidden -->

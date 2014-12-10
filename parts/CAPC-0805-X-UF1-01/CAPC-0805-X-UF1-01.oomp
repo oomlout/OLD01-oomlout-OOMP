@@ -93,6 +93,23 @@
 				<link></link>
 				<note></note>			
 			</manufacturer>
+			<manufacturer>
+				<company>Kamet</company>
+				<companyCode>C-KAME</companyCode>
+				<name></name>
+				<partID>C0805C105K4RAC7800</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			
+			<manufacturer>
+				<company>AVX Interconnect</company>
+				<companyCode>C-AVXI</companyCode>
+				<name></name>
+				<partID>08055C104KAT2A</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
 				
 			<bigDistributor>
 				<company>DigiKey</company>
@@ -109,6 +126,23 @@
 				<partID>603-CC805KKX7R8BB105</partID>
 				<link><![CDATA[http://uk.mouser.com/ProductDetail/Yageo/CC0805KKX7R8BB105/?qs=%2fha2pyFadujhzI8dqVkHawX1nVxat%2bZZVcdACMClBtvQ0n0KvzAbUA%3d%3d]]></link>
 				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>Rapid Electronics</company>
+				<companyCode>C-RAPI</companyCode>
+				<name>1uf 16v Y5v 0805 Ceram Chip Capacitor</name>
+				<partID>71-0509</partID>
+				<link><![CDATA[http://www.rapidonline.com/electronic-components/1uf-16v-y5v-0805-ceram-chip-capacitor-71-0509]]></link>
+				<note></note>
+			</bigDistributor>
+				
+			<bigDistributor>
+				<company>SEEED Studios</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>SMD CAP Ceramic 1uF-25V-10%-X7R</name>
+				<partID>0100440P1</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=8]]></link>
+				<note></note>
 			</bigDistributor>					
 		</sourceList>
 		<oplList>
@@ -121,6 +155,16 @@
 				<oplPackage>0805</oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Capacitor]]></oplLink>
 			</oplSystem>
+			<oplSystem>
+				<oplScheme>HubStock</oplScheme>
+				<oplCode>C-HUBS</oplCode>
+				<oplName>AI3/08055C104KAT2A.</oplName>
+				<oplID>AI3/08055C104KAT2A.</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://circuithub.com/parts/AI3/08055C104KAT2A.]]></oplLink>
+			</oplSystem>
+		
 		</oplList>
 
 <!--Hidden -->
