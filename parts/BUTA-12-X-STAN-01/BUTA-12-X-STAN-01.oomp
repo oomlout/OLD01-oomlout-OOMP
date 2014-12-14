@@ -109,8 +109,30 @@
 			</oplSystem>
 		</oplList>
 
+		<usageList>
+			<useItem>
+				<useID>1</useID>
+				<importance>1</importance>
+				<useTitle>Reset Button</useTitle>
+				<useDescription>a reset button for a microcontroller.</useDescription>
+			</useItem>
+			<useItem>
+				<useID>2</useID>
+				<importance>2</importance>
+				<useTitle>Keypad Button</useTitle>
+				<useDescription>a button on a keypad.</useDescription>
+			</useItem>
+			<useItem>
+				<useID>2</useID>
+				<importance>2</importance>
+				<useTitle>Larger Button</useTitle>
+				<useDescription>a larger button to distinguish it from more standard pushbuttons.</useDescription>
+			</useItem>
+		</usageList>
+
+		
 <com>Hidden</com>
-        <oompAbout></oompAbout>
+        <oompAbout>A good tactile pushbutton. Useful when something larger than the standard 6mm version is desired. These also have better pin spacing for using in a breadboard.</oompAbout>
         <ooProjectName1></ooProjectName1>
         <ooProjectDesc1></ooProjectDesc1>
         <ooProjectLink1></ooProjectLink1>

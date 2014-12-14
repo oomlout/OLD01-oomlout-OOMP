@@ -4,12 +4,12 @@
         <index>4273</index>
 
 <!--OOMP Base -->
-        <oompID>CAPT-AVA-X-UF10-VF</oompID>
-        <name>SMD (AVX-A) 10 uF Capacitor (Tantalum) 16v</name>
+        <oompID>CAPT-1206-X-UF10-VF</oompID>
+        <name>SMD (1206) 10 uF Capacitor (Tantalum) 16v</name>
         <hexID>10B1</hexID>
         <oompSort></oompSort>
         <oompType>CAPT</oompType>
-        <oompSize>AVA</oompSize>
+        <oompSize>1206</oompSize>
         <oompColor>X</oompColor>
         <oompDesc>UF10</oompDesc>
         <oompIndex>VF</oompIndex>
@@ -113,6 +113,15 @@
 				<link></link>
 				<note></note>			
 			</manufacturer>
+			
+			<manufacturer>
+				<company>Sprague</company>
+				<companyCode>C-SPRA</companyCode>
+				<name></name>
+				<partID>TR3A106K016C1700</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
 				
 			<bigDistributor>
 				<company>DigiKey</company>
@@ -141,6 +150,28 @@
 				<oplPackage>AVX-A</oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Capacitor]]></oplLink>
 			</oplSystem>
+			
+			<oplSystem>
+				<oplScheme>OctoPart CPL</oplScheme>
+				<oplCode>C-OCTO</oplCode>
+				<oplName>Capacitor 10 µF ±10% 16 V 1206</oplName>
+				<oplID>Capacitor 10 µF ±10% 16 V 1206</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://octopart.com/common-parts-library#Capacitors]]></oplLink>
+			</oplSystem>
+			
+			
+			<oplSystem>
+				<oplScheme>HubStock</oplScheme>
+				<oplCode>C-HUBS</oplCode>
+				<oplName>AI3/TAJA106K016RNJ</oplName>
+				<oplID>AI3/TAJA106K016RNJ</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://circuithub.com/parts/AI3/TAJA106K016RNJ]]></oplLink>
+			</oplSystem>
+		
 		</oplList>
 
 <!-- -->

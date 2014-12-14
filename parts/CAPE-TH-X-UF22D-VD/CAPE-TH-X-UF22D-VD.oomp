@@ -17,10 +17,10 @@
 
 
 <com>Size</com>
-        <ooPitch></ooPitch>
+        <ooPitch>2 mm</ooPitch>
         <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
+        <ooHeight>11 mm</ooHeight>
+        <ooDiameter>5 mm</ooDiameter>
         <ooLength></ooLength>
         <ooDepth></ooDepth>
         <ooWireSize></ooWireSize>
@@ -62,22 +62,39 @@
 <com>Source List</com>		
 		<sourceList>
 			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
+				<company>Suntan</company>
+				<companyCode>C-SUNT</companyCode>
 				<name></name>
-				<partID></partID>
+				<partID>TS14011J2R2MSB030R</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
-				
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
+			
+			<manufacturer>
+				<company>Multicomp</company>
+				<companyCode>C-MULT</companyCode>
 				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
+				<partID>MCGPR63V225M5X11</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<bigDistributor>
+				<company>Farnell</company>
+				<companyCode>C-FARN</companyCode>
+				<name>MULTICOMP  MCGPR63V225M5X11  CAP, ALU ELEC, 2.2UF, 63V, RAD</name>
+				<partID>9451463</partID>
+				<link><![CDATA[http://uk.farnell.com/multicomp/mcgpr63v225m5x11/cap-alu-elec-2-2uf-63v-rad/dp/9451463]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>						
+			<bigDistributor>
+				<company>Rapid Electronics</company>
+				<companyCode>C-RAPI</companyCode>
+				<name>2.2uF +-20% 63V 105deg  C 2000 hours Suntan Radial Aluminium Electrolytic Capacitors</name>
+				<partID>11-3501</partID>
+				<link><![CDATA[http://www.rapidonline.com/electronic-components/2-2-f-20-63v-105-c-2000-hours-suntan-radial-aluminium-electrolytic-capacitors-11-3501]]></link>
+				<note></note>
+			</bigDistributor>
+							
 		</sourceList>
 		
 <com>OPL</com>		

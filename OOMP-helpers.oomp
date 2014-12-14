@@ -31,8 +31,8 @@
 		<type>bottomText</type>
 		<value><![CDATA[<html>
 <h1>Extra Details</h1>
-Page last updated: %%YEAR%%-%%MONTH%%-%%DAY%% %%HOUR%%:%%MINUTE%%<br>
-Spotted a mistake, want to add more? Let us know oomp@oomlout.com<br>
+Page last updated: <b>%%YEAR%%-%%MONTH%%-%%DAY%% %%HOUR%%:%%MINUTE%%</b><br>
+Spotted a mistake, want to add more? Let us know <b>oomp@oomlout.com</b><br>
 All images and resources are licensed <b><a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA</a></b> unless otherwise stated (ie. the datasheets)<br><br>
 			]]>
 			</value>

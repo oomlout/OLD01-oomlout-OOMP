@@ -71,8 +71,14 @@
 			<useItem>
 				<useID>1</useID>
 				<importance>1</importance>
-				<useTitle></useTitle>
-				<useDescription></useDescription>
+				<useTitle>Reset Button</useTitle>
+				<useDescription>a reset button for a microcontroller.</useDescription>
+			</useItem>
+			<useItem>
+				<useID>2</useID>
+				<importance>2</importance>
+				<useTitle>Keypad Button</useTitle>
+				<useDescription>a button on a keypad.</useDescription>
 			</useItem>
 		</usageList>
 		<!--Plug -->
@@ -167,7 +173,7 @@
         <ooNameLine2of3></ooNameLine2of3>
         <ooNameLine3of3></ooNameLine3of3>
         <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout></oompAbout>
+        <oompAbout><![CDATA[A commonly used through surface mount tactile pushbutton. For a through hole version of this part see <a href="http://learn.oomlout.co.uk/OO/Projects/oomp/part/BUTA-06-X-STAN-01">BUTA-06-X-STAN-01</a>.]]></oompAbout>
         <ooProjectName1></ooProjectName1>
         <ooProjectDesc1></ooProjectDesc1>
         <ooProjectLink1></ooProjectLink1>

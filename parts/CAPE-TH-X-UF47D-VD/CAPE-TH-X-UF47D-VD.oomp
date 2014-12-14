@@ -17,10 +17,10 @@
 
 
 <com>Size</com>
-        <ooPitch></ooPitch>
+        <ooPitch>2 mm</ooPitch>
         <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
+        <ooHeight>11 mm</ooHeight>
+        <ooDiameter>5 mm</ooDiameter>
         <ooLength></ooLength>
         <ooDepth></ooDepth>
         <ooWireSize></ooWireSize>
@@ -59,25 +59,42 @@
         <ooPlugOD></ooPlugOD>
         <ooPlugLength></ooPlugLength>
 
-<com>Source List</com>		
+<com>Source List</com>
 		<sourceList>
-			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
+				<manufacturer>
+				<company>Suntan</company>
+				<companyCode>C-SUNT</companyCode>
 				<name></name>
-				<partID></partID>
+				<partID>TS14011J4R7MSB030R</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
-				
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
+			
+			<manufacturer>
+				<company>Multicomp</company>
+				<companyCode>C-MULT</companyCode>
 				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
+				<partID>MCGPR63V475M5X11</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<bigDistributor>
+				<company>Farnell</company>
+				<companyCode>C-FARN</companyCode>
+				<name>MULTICOMP  MCGPR63V475M5X11  CAP, ALU ELEC, 4.7UF, 63V, RAD</name>
+				<partID>9451471</partID>
+				<link><![CDATA[http://uk.farnell.com/multicomp/mcgpr63v475m5x11/cap-alu-elec-4-7uf-63v-rad/dp/9451471]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>						
+			<bigDistributor>
+				<company>Rapid Electronics</company>
+				<companyCode>C-RAPI</companyCode>
+				<name>4.7uF +-20% 63V 105deg  C 2000 hours Suntan Radial Aluminium Electrolytic Capacitors</name>
+				<partID>11-3502</partID>
+				<link><![CDATA[http://www.rapidonline.com/electronic-components/4-7-f-20-63v-105-c-2000-hours-suntan-radial-aluminium-electrolytic-capacitors-11-3502]]></link>
+				<note></note>
+			</bigDistributor>
+							
 		</sourceList>
 		
 <com>OPL</com>		

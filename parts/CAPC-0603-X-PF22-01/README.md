@@ -1,24 +1,27 @@
 
 
+## Summary
  
-Name: ____
+Name: __SMD (0603) 22 pF Capacitor (Ceramic)__
 
-ID: ____
+ID: __CAPC-0603-X-PF22-01__
 
-Hex ID: ____
+Hex ID: __0FFC__
 
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPC-0603-X-NF47D-01\CAPC-0603-X-PF22-01__
+WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPC-0603-X-PF22-01__
 
-Short URL: __http://oom.lt/__
+Short URL: __http://oom.lt/0FFC__
 
 
 |Type   |Size   |Color   |Description   |Index   |
 |-|-|---|
-| ____ <br>  | ____<br>   |____<br>    |____<br>    | ____<br>  |
+| __CAPC__ <br>Capacitor (Ceramic)  | __0603__<br>SMD (0603)   |__X__<br>    |__PF22__<br>22 pF    | __01__<br>  |
 
 
-![CAPC-0603-X-NF47D-01\CAPC-0603-X-PF22-01](http://oomlout.com/oomp-gen/parts/CAPC-0603-X-NF47D-01\CAPC-0603-X-PF22-01/CAPC-0603-X-NF47D-01\CAPC-0603-X-PF22-01_420.jpg)
+## Images
+![CAPC-0603-X-PF22-01](http://oomlout.com/oomp-gen/parts/CAPC-0603-X-PF22-01/CAPC-0603-X-PF22-01_420.jpg)
 
+## Full Details
 
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPC-0603-X-NF47D-01\CAPC-0603-X-PF22-01
+ http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPC-0603-X-PF22-01
 

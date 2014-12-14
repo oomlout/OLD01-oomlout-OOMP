@@ -71,8 +71,8 @@
 			<useItem>
 				<useID>1</useID>
 				<importance>1</importance>
-				<useTitle></useTitle>
-				<useDescription></useDescription>
+				<useTitle>Prototyping</useTitle>
+				<useDescription>a base for prototyping new circuits.</useDescription>
 			</useItem>
 		</usageList>
 		<!--Plug -->
@@ -94,7 +94,7 @@
         <ooNameLine2of3></ooNameLine2of3>
         <ooNameLine3of3>Breadboard </ooNameLine3of3>
         <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout></oompAbout>
+        <oompAbout>The start of any project. Great for quickly prototyping a new ciruit. Compatible with most 2.54 mm (0.1") components.</oompAbout>
         <ooProjectName1></ooProjectName1>
         <ooProjectDesc1></ooProjectDesc1>
         <ooProjectLink1></ooProjectLink1>
@@ -110,22 +110,95 @@
 
     		<sourceList>
 			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
+				<company>Bud Industries</company>
+				<companyCode>C-BUDI</companyCode>
 				<name></name>
-				<partID></partID>
+				<partID>BB-32621</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company>Multicomp</company>
+				<companyCode>C-MULTI</companyCode>
+				<name></name>
+				<partID>MCBB400</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company>Cixi Industries</company>
+				<companyCode>C-CIXI</companyCode>
+				<name></name>
+				<partID>BB-801-2-72</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
 				
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
+			<company>DigiKey</company>
+				<companyCode>C-DIGK</companyCode>
+				<name>BB-32621</name>
+				<partID>377-2094-ND</partID>
+				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/BB-32621/377-2094-ND/4156445]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor><bigDistributor>
+			<company>Mouser</company>
+				<companyCode>C-MOUS</companyCode>
+				<name>BusBoard Prototype Systems BB400T</name>
+				<partID>854-BB400T</partID>
+				<link><![CDATA[http://uk.mouser.com/ProductDetail/BusBoard-Prototype-Systems/BB400T/?qs=sGAEpiMZZMsw61Ac3T98PzbKRAPAEF6k]]></link>
+				<note></note>
+			</bigDistributor>
+			
+			<bigDistributor>
+				<company>Farnell</company>
+				<companyCode>C-FARN</companyCode>
+				<name>MULTICOMP  MCBB400  BREADBOARD, SOLDERLESS, 300V, ABS</name>
+				<partID>2395961</partID>
+				<link><![CDATA[http://uk.farnell.com/multicomp/mcbb400/breadboard-solderless-300v-abs/dp/2395961]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company>Rapid Electronics</company>
+				<companyCode>C-RAPI</companyCode>
+				<name>Solderless Breadboard Transparent 400 Points</name>
+				<partID> 34-0671</partID>
+				<link><![CDATA[http://www.rapidonline.com/tools-equipment/solderless-breadboard-transparent-400-points-34-0671]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>Sparkfun</company>
+				<companyCode>C-SPAR</companyCode>
+				<name>Breadboard - Translucent Self-Adhesive (Clear)</name>
+				<partID>9567</partID>
+				<link><![CDATA[https://www.sparkfun.com/products/9567]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>Adafruit</company>
+				<companyCode>C-ADAF</companyCode>
+				<name>Half-size breadboard</name>
+				<partID>64</partID>
+				<link><![CDATA[https://www.adafruit.com/products/64]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>SEEED Studios</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>Bread board Clear - 8.2 x 5.3cm</name>
+				<partID>STR101C2M</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/Bread-board-Clear-82-x-53cm-p-262.html]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>Oomlout</company>
+				<companyCode>C-OOML</companyCode>
+				<name>Breadboard (400 point)</name>
+				<partID>BREB-01</partID>
+				<link><![CDATA[http://oomlout.co.uk/products/breadboard-400-point]]></link>
+				<note></note>
+			</bigDistributor>						
+						
 			<bigDistributor>
 				<company></company>
 				<companyCode></companyCode>

@@ -71,9 +71,10 @@
 			<useItem>
 				<useID>1</useID>
 				<importance>1</importance>
-				<useTitle></useTitle>
-				<useDescription></useDescription>
+				<useTitle>Reset Button</useTitle>
+				<useDescription>a reset button for a microcontroller.</useDescription>
 			</useItem>
+			
 		</usageList>
 		<!--Plug -->
         <ooPlugID></ooPlugID>
@@ -88,7 +89,7 @@
 		<sourceList>
 			<manufacturer>
 				<company>Shenzhen Best</company>
-				<companyCode></companyCode>
+				<companyCode>C-BEST</companyCode>
 				<name></name>
 				<partID>TS-1188E</partID>
 				<link></link>
@@ -133,7 +134,7 @@
         <ooNameLine2of3></ooNameLine2of3>
         <ooNameLine3of3></ooNameLine3of3>
         <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout></oompAbout>
+        <oompAbout>A commonly used surface mount pushbutton. With the button on the side rather than the top.</oompAbout>
         <ooProjectName1></ooProjectName1>
         <ooProjectDesc1></ooProjectDesc1>
         <ooProjectLink1></ooProjectLink1>
