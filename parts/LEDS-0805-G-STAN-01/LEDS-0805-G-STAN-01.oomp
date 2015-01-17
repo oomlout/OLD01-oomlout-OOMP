@@ -3,14 +3,14 @@
         <index>9876</index>
 
 <com>OOMP Base</com>
-        <oompID>DIOD-D214-X-A01-01</oompID>
-        <name> SMD (DO-214) 1 Amp Diode </name>
+        <oompID>LEDS-0805-G-STAN-01</oompID>
+        <name> SMD (0805) Green LED </name>
         <hexID>EEEE</hexID>
-        <oompSort>1</oompSort>
-        <oompType>DIOD</oompType>
-        <oompSize>D214</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>A01</oompDesc>
+        <oompSort>4</oompSort>
+        <oompType>LEDS</oompType>
+        <oompSize>0805</oompSize>
+        <oompColor>G</oompColor>
+        <oompDesc>STAN</oompDesc>
         <oompIndex>01</oompIndex>
         <oompOwner></oompOwner>
         <oompVersion></oompVersion>

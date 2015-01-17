@@ -36,6 +36,10 @@
             <name>Diode (Schottky)</name>
     </oompType>
 	<oompType>
+            <code>FERB</code>
+            <name>Ferrite Bead</name>
+    </oompType>
+	<oompType>
             <code>HEAD</code>
             <name>Header</name>
     </oompType>
@@ -103,6 +107,11 @@
             <code>NUTT</code>
             <name>Nut</name>
     </oompType>	
+	
+	<oompType>
+            <code>OPAM</code>
+            <name>Op Amp</name>
+    </oompType>	
 	<oompType>
             <code>RBCC</code>
             <name>Crimped Ribbon Cable</name>
@@ -151,6 +160,10 @@
             <code>UFLS</code>
             <name>UFL Socket</name>
     </oompType>
+    <oompType>
+            <code>VARI</code>
+            <name>Varistor</name>
+    </oompType>	
     <oompType>
             <code>VREG</code>
             <name>Voltage Regulator</name>

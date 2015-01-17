@@ -41,12 +41,20 @@
             <name>1 Pole</name>
     </oompDesc>
     <oompDesc>
+            <code>A015D</code>
+            <name>150 mA</name>
+    </oompDesc>
+    <oompDesc>
             <code>A05D</code>
             <name>500 mA</name>
     </oompDesc>
     <oompDesc>
             <code>A03D</code>
             <name>300 mA</name>
+    </oompDesc>
+    <oompDesc>
+            <code>A02</code>
+            <name>2 Amp</name>
     </oompDesc>
     <oompDesc>
             <code>A21D</code>
@@ -847,6 +855,14 @@
     <oompDesc>
             <code>99PI</code>
             <name>99 Pin</name>
+    </oompDesc>
+    <oompDesc>
+            <code>2X02PI</code>
+            <name>4 Pin (2x2)</name>
+    </oompDesc>
+    <oompDesc>
+            <code>2X03PI</code>
+            <name>6 Pin (2x3)</name>
     </oompDesc>
     <oompDesc>
             <code>2X2</code>

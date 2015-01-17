@@ -191,6 +191,17 @@
 		<familyAbout></familyAbout>
 	</oompFamily>	
 	<oompFamily>
+		<familyName>SMD (0805) LED</familyName>
+		<familyType>LEDS</familyType>
+		<familySize>0805</familySize>
+		<familyColor></familyColor>
+		<familyDesc>STAN</familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>L85</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>L85#</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
+	</oompFamily>	
+	<oompFamily>
 		<familyName>6 mm Heat Shrink</familyName>
 		<familyType>HESH</familyType>
 		<familySize>06</familySize>

@@ -1,0 +1,216 @@
+;######  New Item Process Notes  ######
+;######################################
+
+;###### Image
+	;NOTES IN OOMP-photos.txt
+
+;###### Distributors
+	Search octopart
+https://octopart.com/
+	Search Farnell
+http://uk.farnell.com/
+
+
+;###### OOMP Details
+
+	1.Family
+	C:\GH\oomlout-OOMP\parts\oomp-Family-details.oomp
+
+	2. Set sort order
+	
+;###### Datasheet
+	Save as -datasheet
+
+;###### OPL
+
+C:\GH\oomlout-OOMP\parts\oomp-OPL-details.oomp
+
+SEEED
+http://www.seeedstudio.com/wiki/Open_parts_library		
+
+OctoPart
+https://octopart.com/common-parts-library
+
+CircuitHub
+circuithub.com
+https://circuithub.com/parts
+
+Search engines
+
+Parts.io
+http://parts.io/
+	
+	
+---------------------------------
+			<oplSystem>
+				<oplScheme>Circuithub.com</oplScheme>
+				<oplCode>C-CIRC</oplCode>
+				<oplName></oplName>
+				<oplID></oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[]]></oplLink>
+			</oplSystem>
+
+			<oplSystem>
+				<oplScheme>Octopart CPL</oplScheme>
+				<oplCode>C-OCTO</oplCode>
+				<oplName></oplName>
+				<oplID></oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[]]></oplLink>
+			</oplSystem>
+
+			<oplSystem>
+				<oplScheme>Oopen Organization Method for Parts</oplScheme>
+				<oplCode>C-OOMP</oplCode>
+				<oplName></oplName>
+				<oplID></oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/]]></oplLink>
+			</oplSystem>
+			
+			<oplSystem>
+				<oplScheme>Seeed Studio OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName></oplName>
+				<oplID></oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[]]></oplLink>
+			</oplSystem>
+
+
+
+------------------------------------	
+	
+	
+	
+;###### Manufacturers
+
+Company names in 
+C:\GH\oomlout-OOMP\parts\oomp-Company-details.oomp
+
+--------------------
+<manufacturer>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link></link>
+				<note></note>			
+</manufacturer>
+----------------------------------			
+
+;###### Distributor
+C:\GH\oomlout-OOMP\parts\oomp-Distributor-details.oomp
+http://192.168.1.210/?cmd=GP&p1=SS&p2=&p3=&p4=
+
+			<bigDistributor>
+				<company>DigiKey</company>
+				<companyCode>C-DIGK</companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>
+
+			<bigDistributor>
+				<company>Farnell</company>
+				<companyCode>C-FARN</companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>			
+			<bigDistributor>
+				<company>Mouser</company>
+				<companyCode>C-MOUS</companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>Rapid Electronics</company>
+				<companyCode>C-RAPI</companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>RS</company>
+				<companyCode>C-RSRS</companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>
+			
+			
+	http://192.168.1.210/?cmd=GP&p1=SC&p2=&p3=&p4=	
+
+	SEEED
+	http://www.seeedstudio.com/depot/s/304090039.html?search_in_description=0
+-----------------------------------------------			
+			
+			<bigDistributor>
+				<company>Adafruit</company>
+				<companyCode>C-ADAF</companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>Oomlout</company>
+				<companyCode>C-OOML</companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>			
+			
+			<bigDistributor>
+				<company>SEEED Studio</company>
+				<companyCode>C-SEEE</companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>
+			
+			<bigDistributor>
+				<company>Sparkfun</company>
+				<companyCode>C-SPAR</companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>
+			
+			
+;###### Diagram
+	Breadboard template
+	C:\GH\oomlout-OOMP\template\OOMP-bbls-template.cdr
+	Save as
+	-bbls.cdr
+
+
+;###### Schematic
+	Schematic template
+	C:\GH\oomlout-OOMP\template\OOMP-schem-template.cdr
+	Save as
+	-schem.cdr
+	
+;###### Specification
+
+	Open Datasheet
+	
+	Go through specs
+	
+
+

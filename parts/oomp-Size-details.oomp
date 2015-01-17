@@ -73,6 +73,10 @@
             <name>SMD (SOT-23)</name>
     </oompSize>	
     <oompSize>
+            <code>SO235</code>
+            <name>SMD (SOT-23-5)</name>
+    </oompSize>	
+    <oompSize>
             <code>SO89</code>
             <name>SMD (SOT-89)</name>
     </oompSize>	
@@ -520,6 +524,10 @@
             <code>MN</code>
             <name>Mini</name>
     </oompSize>
+    	<oompSize>
+            <code>TA</code>
+            <name>Type A</name>
+    </oompSize>
     <oompSize>
             <code>SC</code>
             <name>Solid</name>
@@ -707,6 +715,10 @@
     <oompSize>
             <code>06</code>
             <name>6 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>S63D</code>
+            <name>SMD (6.3 mm)</name>
     </oompSize>
     <oompSize>
             <code>07</code>
@@ -2152,10 +2164,21 @@
             <code>SS28</code>
             <name>28 Pin SMD (SSOP)</name>
     </oompSize>		
+	
 	<oompSize>
-            <code>TQ32</code>
-            <name>32 Pin SMD (TQFP)</name>
-    </oompSize>			
+            <code>MS08</code>
+            <name>8 Pin SMD (MSOP)</name>
+    </oompSize>		
+	<oompSize>
+            <code>QFN32</code>
+            <name>32 Pin SMD (QFN)</name>
+    </oompSize>
+	
+	<oompSize>
+            <code>ML32</code>
+            <name>32 Pin SMD (MLF)</name>
+    </oompSize>
+	
 	<oompSize>
             <code>TS14</code>
             <name>14 Pin SMD (TSSOP)</name>

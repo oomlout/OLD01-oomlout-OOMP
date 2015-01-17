@@ -3,14 +3,14 @@
         <index>9876</index>
 
 <com>OOMP Base</com>
-        <oompID>DIOD-D214-X-A01-01</oompID>
-        <name> SMD (DO-214) 1 Amp Diode </name>
+        <oompID>RESE-0603-X-O105-01</oompID>
+        <name> SMD (0603) 1M Ohm Resistor </name>
         <hexID>EEEE</hexID>
-        <oompSort>1</oompSort>
-        <oompType>DIOD</oompType>
-        <oompSize>D214</oompSize>
+        <oompSort>1000000</oompSort>
+        <oompType>RESE</oompType>
+        <oompSize>0603</oompSize>
         <oompColor>X</oompColor>
-        <oompDesc>A01</oompDesc>
+        <oompDesc>O105</oompDesc>
         <oompIndex>01</oompIndex>
         <oompOwner></oompOwner>
         <oompVersion></oompVersion>

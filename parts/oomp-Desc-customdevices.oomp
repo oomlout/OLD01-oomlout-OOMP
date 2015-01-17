@@ -7,6 +7,11 @@
             <code>K328</code>
             <name>AtMega328P</name>
     </oompDesc>	
+	
+	<oompDesc>
+            <code>K16U2</code>
+            <name>AtMega16U2</name>
+    </oompDesc>	
 	<oompDesc>
             <code>K125</code>
             <name>74HC125 Quad Buffer</name>
@@ -22,5 +27,9 @@
 	<oompDesc>
             <code>K2803</code>
             <name>ULN2803A Octal Transistor Array</name>
+    </oompDesc>	
+	<oompDesc>
+            <code>KLMV358</code>
+            <name>LMV358</name>
     </oompDesc>	
 </xml>

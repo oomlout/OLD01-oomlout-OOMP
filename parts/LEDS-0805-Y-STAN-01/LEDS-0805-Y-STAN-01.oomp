@@ -1,0 +1,222 @@
+<xml>
+    <oompPart>
+        <index>9876</index>
+
+<com>OOMP Base</com>
+        <oompID>LEDS-0805-Y-STAN-01</oompID>
+        <name> SMD (0805) Yellow LED </name>
+        <hexID>EEEE</hexID>
+        <oompSort>03</oompSort>
+        <oompType>LEDS</oompType>
+        <oompSize>0805</oompSize>
+        <oompColor>Y</oompColor>
+        <oompDesc>STAN</oompDesc>
+        <oompIndex>01</oompIndex>
+        <oompOwner></oompOwner>
+        <oompVersion></oompVersion>
+
+		<oompSkip>true</oompSkip>
+
+<com>Size</com>
+        <ooPitch></ooPitch>
+        <ooWidth>2 mm</ooWidth>
+        <ooHeight>0.8 mm</ooHeight>
+        <ooDiameter></ooDiameter>
+        <ooLength>1.25 mm</ooLength>
+        <ooDepth></ooDepth>
+        <ooWireSize></ooWireSize>
+
+<com>Description</com>
+        <ooMaterial></ooMaterial>
+        <ooNumPins>2</ooNumPins>
+        <ooTerminalStyle></ooTerminalStyle>
+        <ooPowerRating></ooPowerRating>
+
+<com>Hardware</com>
+        <ooHeadStyle></ooHeadStyle>
+        <ooWrenchSize></ooWrenchSize>
+
+<com>Maximums</com>
+        <ooMaxCurrent></ooMaxCurrent>
+        <ooMaxVoltage></ooMaxVoltage>
+        <ooLifetime></ooLifetime>
+        <ooTolerance></ooTolerance>
+
+<com>Heat Shrink</com>
+        <ooShrinkRatio></ooShrinkRatio>
+
+<com>LED</com>
+        <ooLensColor></ooLensColor>
+        <ooForwardVoltage>2.4</ooForwardVoltage>
+        <ooForwardCurrent>25 mA</ooForwardCurrent>
+        <ooIntensity></ooIntensity>
+        <ooPowerAngle></ooPowerAngle>
+        <ooWavelength></ooWavelength>
+        <ooChromaticityX></ooChromaticityX>
+        <ooChromaticityY></ooChromaticityY>
+
+<com>Plug</com>
+        <ooPlugID></ooPlugID>
+        <ooPlugOD></ooPlugOD>
+        <ooPlugLength></ooPlugLength>
+
+<com>Source List</com>		
+		<sourceList>
+			<manufacturer>
+				<company>Avago</company>
+				<companyCode>C-AVAG</companyCode>
+				<name></name>
+				<partID>HSMY-C170</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>	
+			<manufacturer>
+				<company>Everlight</company>
+				<companyCode>C-EVER</companyCode>
+				<name></name>
+				<partID>17-215UYC/S530-A3/TR8</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company>Kingbright</company>
+				<companyCode>C-KING</companyCode>
+				<name></name>
+				<partID>KP-2012YT</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+
+
+			
+			<bigDistributor>
+				<company>DigiKey</company>
+				<companyCode>C-DIGK</companyCode>
+				<name>LED 589NM YELLOW DIFF 0805 SMD</name>
+				<partID>516-1433-1-ND</partID>
+				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/HSMY-C170/516-1433-1-ND/637757]]></link>
+				<note></note>
+			</bigDistributor>
+
+			<bigDistributor>
+				<company>Farnell</company>
+				<companyCode>C-FARN</companyCode>
+				<name>AVAGO TECHNOLOGIES  HSMY-C170  LED, YELLOW, 8MCD, 586NM</name>
+				<partID>5790876</partID>
+				<link><![CDATA[http://uk.farnell.com/avago-technologies/hsmy-c170/led-yellow-8mcd-586nm/dp/5790876]]></link>
+				<note></note>
+			</bigDistributor>				
+			<bigDistributor>
+				<company>Mouser</company>
+				<companyCode>C-MOUS</companyCode>
+				<name>Standard LEDs - SMD Yellow Diffused 586nm 8mcd</name>
+				<partID>630-HSMY-C170</partID>
+				<link><![CDATA[http://uk.mouser.com/ProductDetail/Avago-Technologies/HSMY-C170/?qs=%2fha2pyFaduhURZQM2qn%252bG13i%252bi%2flcGHG3wgEKpselfE%3d]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company>Rapid Electronics</company>
+				<companyCode>C-RAPI</companyCode>
+				<name>Kingbright KP-2012YT Yellow LED 0805 Low</name>
+				<partID>72-8575</partID>
+				<link><![CDATA[http://www.rapidonline.com/electronic-components/kingbright-kp-2012yt-yellow-led-0805-low-72-8575]]></link>
+				<note></note>
+			</bigDistributor>	
+			
+			<bigDistributor>
+				<company>RS</company>
+				<companyCode>C-RSRS</companyCode>
+				<name>Avago 0805 Yellow LED, 8 mcd 170 °</name>
+				<partID>486-0519</partID>
+				<link><![CDATA[http://uk.rs-online.com/web/p/visible-leds/4860519/?searchTerm=HSMY-C170&relevancy-data=636F3D3226696E3D4931384E4B6E6F776E41734D504E266C753D656E266D6D3D6D61746368616C6C7061727469616C26706D3D5E5B5C707B4C7D5C707B4E647D2D2C2F255C2E5D2B2426706F3D313326736E3D592673743D4D414E5F504152545F4E554D4245522677633D424F5448267573743D48534D592D4331373026]]></link>
+				<note></note>
+			</bigDistributor>
+			
+
+			<bigDistributor>
+				<company>Sparkfun</company>
+				<companyCode>C-SPAR</companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>
+			
+			<bigDistributor>
+				<company>Adafruit</company>
+				<companyCode>C-ADAF</companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>
+			
+			
+			<bigDistributor>
+				<company>SEEED Studio</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>SMD LED Clear-Yellow</name>
+				<partID>304090039</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=266]]></link>
+				<note></note>
+			</bigDistributor>
+			
+			
+			<bigDistributor>
+				<company>Oomlout</company>
+				<companyCode>C-OOML</companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>
+			
+
+		</sourceList>
+		
+<com>OPL</com>		
+		<oplList>
+			<oplSystem>
+				<oplScheme>Circuithub.com</oplScheme>
+				<oplCode>C-CIRC</oplCode>
+				<oplName>AVAGO/HSMY-C170</oplName>
+				<oplID>AVAGO/HSMY-C170</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://circuithub.com/parts/AVAGO/HSMY-C170]]></oplLink>
+			</oplSystem>
+
+			<oplSystem>
+				<oplScheme>Oopen Organization Method for Parts</oplScheme>
+				<oplCode>C-OOMP</oplCode>
+				<oplName>SMD (0805) Yellow LED</oplName>
+				<oplID>LEDS-0805-Y-STAN-01</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/LEDS-0805-Y-STAN-01]]></oplLink>
+			</oplSystem>
+			
+			<oplSystem>
+				<oplScheme>Seeed Studio OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD LED Clear-Yellow</oplName>
+				<oplID>304090039</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Diode]]></oplLink>
+			</oplSystem>
+
+		</oplList>
+
+<com>Hidden</com>
+        <oompAbout></oompAbout>
+        <ooProjectName1></ooProjectName1>
+        <ooProjectDesc1></ooProjectDesc1>
+        <ooProjectLink1></ooProjectLink1>
+        <ooProjectType1></ooProjectType1>
+        <ooBuyName1></ooBuyName1>
+        <ooBuyDesc1></ooBuyDesc1>
+        <ooBuyLink1></ooBuyLink1>
+        <ooBuyType1></ooBuyType1>
+    </oompPart>
+</xml>

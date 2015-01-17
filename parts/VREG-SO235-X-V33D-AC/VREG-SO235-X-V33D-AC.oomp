@@ -3,15 +3,15 @@
         <index>9876</index>
 
 <com>OOMP Base</com>
-        <oompID>DIOD-D214-X-A01-01</oompID>
-        <name> SMD (DO-214) 1 Amp Diode </name>
+        <oompID>VREG-SO235-X-V33D-AC</oompID>
+        <name> SMD (SOT-23-5) 3.3v Voltage Regulator 150 mA </name>
         <hexID>EEEE</hexID>
-        <oompSort>1</oompSort>
-        <oompType>DIOD</oompType>
-        <oompSize>D214</oompSize>
+        <oompSort>330.150</oompSort>
+        <oompType>VREG</oompType>
+        <oompSize>SO235</oompSize>
         <oompColor>X</oompColor>
-        <oompDesc>A01</oompDesc>
-        <oompIndex>01</oompIndex>
+        <oompDesc>V33D</oompDesc>
+        <oompIndex>AC</oompIndex>
         <oompOwner></oompOwner>
         <oompVersion></oompVersion>
 
