@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/1020__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __BREB__ <br>Breadboard  | __P400__<br>400 Point   |__C__<br>Clear    |__STAN__<br>    | __01__<br>  |
 
 

@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/10D1__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __DCJP__ <br>DC Jack  | __21D__<br>2.1 mm   |__X__<br>    |__THTH__<br>Through Hole    | __02__<br>  |
 
 

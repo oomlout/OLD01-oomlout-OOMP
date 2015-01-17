@@ -13,36 +13,14 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/XTAL-TH-X-MZ16-01__
 Short URL: __http://oom.lt/E816__
 
 
-Type: __XTAL__ Crystal 
-
-Size: __TH__  
-
-Color: __X__  
-
-Description __MZ16__ 16 MHz 
-
-Index: __01__
+|Type   |Size   |Color   |Description   |Index   |
+| __XTAL__ <br>Crystal  | __TH__<br>   |__X__<br>    |__MZ16__<br>16 MHz    | __01__<br>  |
 
 
 ## Images
 ![XTAL-TH-X-MZ16-01](http://oomlout.com/oomp-gen/parts/XTAL-TH-X-MZ16-01/XTAL-TH-X-MZ16-01_420.jpg)
 
-
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/XTAL-TH-X-MZ16-01
-
-
-
-
-
-
-
-
-
-
-
-
-
 

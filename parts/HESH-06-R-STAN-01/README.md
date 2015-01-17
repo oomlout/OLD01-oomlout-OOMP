@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/EE51__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __HESH__ <br>Heat Shrink  | __06__<br>6 mm   |__R__<br>Red    |__STAN__<br>    | __01__<br>  |
 
 

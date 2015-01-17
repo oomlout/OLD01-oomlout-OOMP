@@ -1,24 +1,26 @@
 
 
+## Summary
  
-Name: ____
+Name: __SMD (1206) 10 uF Capacitor (Tantalum) 16v__
 
-ID: ____
+ID: __CAPT-1206-X-UF10-VF__
 
-Hex ID: ____
+Hex ID: __10B1__
 
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPT-AVA-X-UF10-VF__
+WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPT-1206-X-UF10-VF__
 
-Short URL: __http://oom.lt/__
+Short URL: __http://oom.lt/10B1__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
-| ____ <br>  | ____<br>   |____<br>    |____<br>    | ____<br>  |
+| __CAPT__ <br>Capacitor (Tantalum)  | __1206__<br>SMD (1206)   |__X__<br>    |__UF10__<br>10 uF    | __VF__<br> 16v |
 
 
-![CAPT-AVA-X-UF10-VF](http://oomlout.com/oomp-gen/parts/CAPT-AVA-X-UF10-VF/CAPT-AVA-X-UF10-VF_420.jpg)
+## Images
+![CAPT-1206-X-UF10-VF](http://oomlout.com/oomp-gen/parts/CAPT-1206-X-UF10-VF/CAPT-1206-X-UF10-VF_420.jpg)
 
+## Full Details
 
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPT-AVA-X-UF10-VF
+ http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPT-1206-X-UF10-VF
 

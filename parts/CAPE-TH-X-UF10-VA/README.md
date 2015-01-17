@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/BC106__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __CAPE__ <br>Capacitor (Electrolytic)  | __TH__<br>   |__X__<br>    |__UF10__<br>10 uF    | __VA__<br> 25v |
 
 

@@ -13,36 +13,14 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/TERS-35D-G-02PI-01__
 Short URL: __http://oom.lt/10EB__
 
 
-Type: __TERS__ Screw Terminal 
-
-Size: __35D__ 3.5 mm 
-
-Color: __G__ Green 
-
-Description __02PI__ 2 Pin 
-
-Index: __01__
+|Type   |Size   |Color   |Description   |Index   |
+| __TERS__ <br>Screw Terminal  | __35D__<br>3.5 mm   |__G__<br>Green    |__02PI__<br>2 Pin    | __01__<br>  |
 
 
 ## Images
 ![TERS-35D-G-02PI-01](http://oomlout.com/oomp-gen/parts/TERS-35D-G-02PI-01/TERS-35D-G-02PI-01_420.jpg)
 
-
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/TERS-35D-G-02PI-01
-
-
-
-
-
-
-
-
-
-
-
-
-
 

@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/BB22C__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __CAPC__ <br>Capacitor (Ceramic)  | __TH__<br>   |__X__<br>    |__PF22__<br>22 pF    | __VC__<br> 50v |
 
 

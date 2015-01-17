@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/EA01__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __ICIC__ <br>  | __DI28__<br>28 Pin DIP   |__X__<br>    |__K328__<br>AtMega328P    | __01__<br>  |
 
 

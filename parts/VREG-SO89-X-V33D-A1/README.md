@@ -13,36 +13,14 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/VREG-SO89-X-V33D-A1_
 Short URL: __http://oom.lt/10E8__
 
 
-Type: __VREG__ Voltage Regulator 
-
-Size: __SO89__ SMD (SOT-89) 
-
-Color: __X__  
-
-Description __V33D__ 3.3v 
-
-Index: __A1__
+|Type   |Size   |Color   |Description   |Index   |
+| __VREG__ <br>Voltage Regulator  | __SO89__<br>SMD (SOT-89)   |__X__<br>    |__V33D__<br>3.3v    | __A1__<br> 1 A |
 
 
 ## Images
 ![VREG-SO89-X-V33D-A1](http://oomlout.com/oomp-gen/parts/VREG-SO89-X-V33D-A1/VREG-SO89-X-V33D-A1_420.jpg)
 
-
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/VREG-SO89-X-V33D-A1
-
-
-
-
-
-
-
-
-
-
-
-
-
 

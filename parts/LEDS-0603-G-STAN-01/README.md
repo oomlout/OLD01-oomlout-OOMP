@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/1056__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __LEDS__ <br>LED  | __0603__<br>SMD (0603)   |__G__<br>Green    |__STAN__<br>    | __01__<br>  |
 
 

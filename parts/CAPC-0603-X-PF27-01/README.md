@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/1003__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __CAPC__ <br>Capacitor (Ceramic)  | __0603__<br>SMD (0603)   |__X__<br>    |__PF27__<br>27 pF    | __01__<br>  |
 
 

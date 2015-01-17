@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/BC016__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __CAPE__ <br>Capacitor (Electrolytic)  | __TH__<br>   |__X__<br>    |__UF1__<br>1 uF    | __VD__<br> 63v |
 
 

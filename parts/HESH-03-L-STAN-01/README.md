@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/EE45__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __HESH__ <br>Heat Shrink  | __03__<br>3 mm   |__L__<br>Blue    |__STAN__<br>    | __01__<br>  |
 
 

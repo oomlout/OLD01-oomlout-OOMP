@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/EE52__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __HESH__ <br>Heat Shrink  | __06__<br>6 mm   |__O__<br>Orange    |__STAN__<br>    | __01__<br>  |
 
 

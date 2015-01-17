@@ -13,36 +13,14 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/SCRE-M3-M-30-01__
 Short URL: __http://oom.lt/9876__
 
 
-Type: __SCRE__ Screw 
-
-Size: __M3__ M3 
-
-Color: __M__ Metal 
-
-Description __30__ x 30 mm 
-
-Index: __01__
+|Type   |Size   |Color   |Description   |Index   |
+| __SCRE__ <br>Screw  | __M3__<br>M3   |__M__<br>Metal    |__30__<br>x 30 mm    | __01__<br>  |
 
 
 ## Images
 ![SCRE-M3-M-30-01](http://oomlout.com/oomp-gen/parts/SCRE-M3-M-30-01/SCRE-M3-M-30-01_420.jpg)
 
-
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/SCRE-M3-M-30-01
-
-
-
-
-
-
-
-
-
-
-
-
-
 

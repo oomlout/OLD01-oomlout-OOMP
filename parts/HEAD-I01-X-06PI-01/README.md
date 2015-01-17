@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/E606__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __HEAD__ <br>Header  | __I01__<br>2.54 mm   |__X__<br>    |__06PI__<br>6 Pin    | __01__<br>  |
 
 

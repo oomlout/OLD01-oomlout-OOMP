@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/1059__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __DIOD__ <br>Diode  | __S123__<br>SMD (SOD-123)   |__X__<br>    |__STAN__<br>    | __01__<br>  |
 
 

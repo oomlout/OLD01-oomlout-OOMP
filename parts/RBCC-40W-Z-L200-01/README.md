@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/EE12__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __RBCC__ <br>Crimped Ribbon Cable  | __40W__<br>40 Wire   |__Z__<br>Rainbow    |__L200__<br>200 mm    | __01__<br>  |
 
 

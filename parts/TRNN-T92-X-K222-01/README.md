@@ -13,36 +13,14 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/TRNN-T92-X-K222-01__
 Short URL: __http://oom.lt/10AF__
 
 
-Type: __TRNN__ NPN Transistor 
-
-Size: __T92__ TO-92 
-
-Color: __X__  
-
-Description __K222__ 2222A 
-
-Index: __01__
+|Type   |Size   |Color   |Description   |Index   |
+| __TRNN__ <br>NPN Transistor  | __T92__<br>TO-92   |__X__<br>    |__K222__<br>2222A    | __01__<br>  |
 
 
 ## Images
 ![TRNN-T92-X-K222-01](http://oomlout.com/oomp-gen/parts/TRNN-T92-X-K222-01/TRNN-T92-X-K222-01_420.jpg)
 
-
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/TRNN-T92-X-K222-01
-
-
-
-
-
-
-
-
-
-
-
-
-
 

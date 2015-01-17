@@ -14,8 +14,7 @@ Short URL: __http://oom.lt/DD16__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
-| __NSCR__ <br>Nylon Screw  | __M3__<br>M3   |__X__<br>    |__16__<br>@NSCR-M3-X-16-70,oompPart.oompID,oompIndex@1,oompIndex.code,name@@ |
+| __NSCR__ <br>Nylon Screw  | __M3__<br>M3   |__X__<br>    |__16__<br>x 16 mm    | __70__<br> Cross Head |
 
 
 ## Images

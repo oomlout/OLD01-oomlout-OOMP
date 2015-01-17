@@ -14,8 +14,7 @@ Short URL: __http://oom.lt/EE05__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
-| __LEDS__ <br>LED  | __10__<br>@LEDS-10-L-FROS-01,oompPart.oompID,oompColorLEDS-10-L-FROS-01,oompPart.oompID,oompDescLEDS-10-L-FROS-01,oompPart.oompID,oompIndex@1,oompIndex.code,name@@ |
+| __LEDS__ <br>LED  | __10__<br>10 mm   |__L__<br>Blue    |__FROS__<br>Frosted    | __01__<br>  |
 
 
 ## Images

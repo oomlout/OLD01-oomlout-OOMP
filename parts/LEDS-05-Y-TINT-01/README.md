@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/EE93__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __LEDS__ <br>LED  | __05__<br>5 mm   |__Y__<br>Yellow    |__TINT__<br>Tinted    | __01__<br>  |
 
 

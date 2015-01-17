@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/E602__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __HEAD__ <br>Header  | __I01__<br>2.54 mm   |__X__<br>    |__02PI__<br>2 Pin    | __01__<br>  |
 
 

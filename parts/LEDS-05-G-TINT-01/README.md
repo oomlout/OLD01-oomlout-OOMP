@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/EE94__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __LEDS__ <br>LED  | __05__<br>5 mm   |__G__<br>Green    |__TINT__<br>Tinted    | __01__<br>  |
 
 

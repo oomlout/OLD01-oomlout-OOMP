@@ -14,8 +14,7 @@ Short URL: __http://oom.lt/E618__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
-| __HEAD__ <br>Header  | __I01__<br>2.54 mm   |__X__<br>    |__18PI__<br>@HEAD-I01-X-18PI-01,oompPart.oompID,oompIndex@1,oompIndex.code,name@@ |
+| __HEAD__ <br>Header  | __I01__<br>2.54 mm   |__X__<br>    |__18PI__<br>18 Pin    | __01__<br>  |
 
 
 ## Images

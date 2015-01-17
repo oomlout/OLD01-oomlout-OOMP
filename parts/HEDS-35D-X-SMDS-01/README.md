@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/10C1__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __HEDS__ <br>Headphone Socket  | __35D__<br>3.5 mm   |__X__<br>    |__SMDS__<br>SMD    | __01__<br>  |
 
 

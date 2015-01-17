@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/E736__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __HEAL__ <br>Header (Long)  | __I01__<br>2.54 mm   |__X__<br>    |__36PI__<br>36 Pin    | __01__<br>  |
 
 

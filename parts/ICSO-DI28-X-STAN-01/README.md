@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/E928__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __ICSO__ <br>IC Socket  | __DI28__<br>28 Pin DIP   |__X__<br>    |__STAN__<br>    | __01__<br>  |
 
 

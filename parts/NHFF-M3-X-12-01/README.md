@@ -14,8 +14,7 @@ Short URL: __http://oom.lt/DB12__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
-| __NHFF__ <br>Nylon Standoff (F-F)  | __M3__<br>M3   |__X__<br>    |__12__<br>@NHFF-M3-X-12-01,oompPart.oompID,oompIndex@1,oompIndex.code,name@@ |
+| __NHFF__ <br>Nylon Standoff (F-F)  | __M3__<br>M3   |__X__<br>    |__12__<br>x 12 mm    | __01__<br>  |
 
 
 ## Images

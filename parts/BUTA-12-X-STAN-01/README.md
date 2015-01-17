@@ -14,8 +14,7 @@ Short URL: __http://oom.lt/EE6C__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
-| __BUTA__ <br>Pushbutton (Tactile)  | __12__<br>@BUTA-12-X-STAN-01,oompPart.oompID,oompColorBUTA-12-X-STAN-01,oompPart.oompID,oompDescBUTA-12-X-STAN-01,oompPart.oompID,oompIndex@1,oompIndex.code,name@@ |
+| __BUTA__ <br>Pushbutton (Tactile)  | __12__<br>12 mm   |__X__<br>    |__STAN__<br>    | __01__<br>  |
 
 
 ## Images

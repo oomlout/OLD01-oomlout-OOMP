@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/10B6__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __DIOD__ <br>Diode  | __MMA__<br>SMD (Mini MELF)   |__X__<br>    |__A03D__<br>300 mA    | __01__<br>  |
 
 

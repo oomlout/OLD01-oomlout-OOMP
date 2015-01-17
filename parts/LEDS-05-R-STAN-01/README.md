@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/0F8E__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __LEDS__ <br>LED  | __05__<br>5 mm   |__R__<br>Red    |__STAN__<br>    | __01__<br>  |
 
 

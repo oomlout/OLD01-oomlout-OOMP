@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/10C2__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __HEAF__ <br>Female Header  | __I01__<br>2.54 mm   |__Y__<br>Yellow    |__08PI__<br>8 Pin    | __01__<br>  |
 
 

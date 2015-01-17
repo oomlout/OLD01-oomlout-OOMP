@@ -13,36 +13,14 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/REFU-1206-X-A05D-V8_
 Short URL: __http://oom.lt/10B3__
 
 
-Type: __REFU__ Resetable Fuse 
-
-Size: __1206__ SMD (1206) 
-
-Color: __X__  
-
-Description __A05D__ 500 mA 
-
-Index: __V8__
+|Type   |Size   |Color   |Description   |Index   |
+| __REFU__ <br>Resetable Fuse  | __1206__<br>SMD (1206)   |__X__<br>    |__A05D__<br>500 mA    | __V8__<br> 8v |
 
 
 ## Images
 ![REFU-1206-X-A05D-V8](http://oomlout.com/oomp-gen/parts/REFU-1206-X-A05D-V8/REFU-1206-X-A05D-V8_420.jpg)
 
-
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/REFU-1206-X-A05D-V8
-
-
-
-
-
-
-
-
-
-
-
-
-
 

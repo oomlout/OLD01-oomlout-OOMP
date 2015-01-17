@@ -14,8 +14,7 @@ Short URL: __http://oom.lt/E610__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
-| __HEAD__ <br>Header  | __I01__<br>2.54 mm   |__X__<br>    |__10PI__<br>@HEAD-I01-X-10PI-01,oompPart.oompID,oompIndex@1,oompIndex.code,name@@ |
+| __HEAD__ <br>Header  | __I01__<br>2.54 mm   |__X__<br>    |__10PI__<br>10 Pin    | __01__<br>  |
 
 
 ## Images

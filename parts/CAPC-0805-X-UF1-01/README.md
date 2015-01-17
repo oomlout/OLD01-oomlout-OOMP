@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/0FF3__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __CAPC__ <br>Capacitor (Ceramic)  | __0805__<br>SMD (0805)   |__X__<br>    |__UF1__<br>1 uF    | __01__<br>  |
 
 

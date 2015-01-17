@@ -13,36 +13,14 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-W04-X-O470-01__
 Short URL: __http://oom.lt/AE470__
 
 
-Type: __RESE__ Resistor 
-
-Size: __W04__ 1/4 Watt 
-
-Color: __X__  
-
-Description __O470__ 47 Ohm 
-
-Index: __01__
+|Type   |Size   |Color   |Description   |Index   |
+| __RESE__ <br>Resistor  | __W04__<br>1/4 Watt   |__X__<br>    |__O470__<br>47 Ohm    | __01__<br>  |
 
 
 ## Images
 ![RESE-W04-X-O470-01](http://oomlout.com/oomp-gen/parts/RESE-W04-X-O470-01/RESE-W04-X-O470-01_420.jpg)
 
-
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-W04-X-O470-01
-
-
-
-
-
-
-
-
-
-
-
-
-
 

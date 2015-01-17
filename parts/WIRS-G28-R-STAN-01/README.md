@@ -13,36 +13,14 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/WIRS-G28-R-STAN-01__
 Short URL: __http://oom.lt/104C__
 
 
-Type: __WIRS__ Stranded Wire 
-
-Size: __G28__ 28 AWG 
-
-Color: __R__ Red 
-
-Description __STAN__  
-
-Index: __01__
+|Type   |Size   |Color   |Description   |Index   |
+| __WIRS__ <br>Stranded Wire  | __G28__<br>28 AWG   |__R__<br>Red    |__STAN__<br>    | __01__<br>  |
 
 
 ## Images
 ![WIRS-G28-R-STAN-01](http://oomlout.com/oomp-gen/parts/WIRS-G28-R-STAN-01/WIRS-G28-R-STAN-01_420.jpg)
 
-
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/WIRS-G28-R-STAN-01
-
-
-
-
-
-
-
-
-
-
-
-
-
 

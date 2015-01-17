@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/EEEEE__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __ICIC__ <br>  | __DI18__<br>18 Pin DIP   |__X__<br>    |__K2803__<br>ULN2803A Octal Transistor Array    | __01__<br>  |
 
 

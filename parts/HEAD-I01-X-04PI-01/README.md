@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/E604__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __HEAD__ <br>Header  | __I01__<br>2.54 mm   |__X__<br>    |__04PI__<br>4 Pin    | __01__<br>  |
 
 

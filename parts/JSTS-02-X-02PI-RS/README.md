@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/10D0__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __JSTS__ <br>JST Socket  | __02__<br>2 mm   |__X__<br>    |__02PI__<br>2 Pin    | __RS__<br> Right Angle (SMD) |
 
 

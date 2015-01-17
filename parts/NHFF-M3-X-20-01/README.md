@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/DB20__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __NHFF__ <br>Nylon Standoff (F-F)  | __M3__<br>M3   |__X__<br>    |__20__<br>x 20 mm    | __01__<br>  |
 
 

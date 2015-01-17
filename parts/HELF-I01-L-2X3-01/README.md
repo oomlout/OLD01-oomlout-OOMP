@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/10BF__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __HELF__ <br>Female Header (Long)  | __I01__<br>2.54 mm   |__L__<br>Blue    |__2X3__<br>6 Pole (2x3)    | __01__<br>  |
 
 

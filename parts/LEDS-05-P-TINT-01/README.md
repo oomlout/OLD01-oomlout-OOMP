@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/EE9A__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __LEDS__ <br>LED  | __05__<br>5 mm   |__P__<br>Pink    |__TINT__<br>Tinted    | __01__<br>  |
 
 

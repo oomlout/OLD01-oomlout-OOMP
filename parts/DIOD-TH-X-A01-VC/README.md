@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/EE51__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __DIOD__ <br>Diode  | __TH__<br>   |__X__<br>    |__A01__<br>1 Amp    | __VC__<br> 50v |
 
 

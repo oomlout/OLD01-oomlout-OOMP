@@ -13,7 +13,6 @@ Short URL: __http://oom.lt/__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | ____ <br>  | ____<br>   |____<br>    |____<br>    | ____<br>  |
 
 

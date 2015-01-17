@@ -14,8 +14,7 @@ Short URL: __http://oom.lt/DA10__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
-| __CRHO__ <br>Crimp Housing  | __I01__<br>2.54 mm   |__B__<br>Black    |__10PI__<br>@CRHO-I01-B-10PI-01,oompPart.oompID,oompIndex@1,oompIndex.code,name@@ |
+| __CRHO__ <br>Crimp Housing  | __I01__<br>2.54 mm   |__B__<br>Black    |__10PI__<br>10 Pin    | __01__<br>  |
 
 
 ## Images

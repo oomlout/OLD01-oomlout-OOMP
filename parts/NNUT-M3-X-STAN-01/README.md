@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/1067__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __NNUT__ <br>Nylon Nut  | __M3__<br>M3   |__X__<br>    |__STAN__<br>    | __01__<br>  |
 
 

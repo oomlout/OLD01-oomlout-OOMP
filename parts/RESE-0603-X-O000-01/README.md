@@ -13,36 +13,14 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-0603-X-O000-01_
 Short URL: __http://oom.lt/AF__
 
 
-Type: __RESE__ Resistor 
-
-Size: __0603__ SMD (0603) 
-
-Color: __X__  
-
-Description __O000__ 0 Ohm 
-
-Index: __01__
+|Type   |Size   |Color   |Description   |Index   |
+| __RESE__ <br>Resistor  | __0603__<br>SMD (0603)   |__X__<br>    |__O000__<br>0 Ohm    | __01__<br>  |
 
 
 ## Images
 ![RESE-0603-X-O000-01](http://oomlout.com/oomp-gen/parts/RESE-0603-X-O000-01/RESE-0603-X-O000-01_420.jpg)
 
-
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-0603-X-O000-01
-
-
-
-
-
-
-
-
-
-
-
-
-
 

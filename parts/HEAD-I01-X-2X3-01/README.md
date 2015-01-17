@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/10EC__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __HEAD__ <br>Header  | __I01__<br>2.54 mm   |__X__<br>    |__2X3__<br>6 Pole (2x3)    | __01__<br>  |
 
 

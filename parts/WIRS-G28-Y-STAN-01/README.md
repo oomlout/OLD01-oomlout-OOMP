@@ -13,36 +13,14 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/WIRS-G28-Y-STAN-01__
 Short URL: __http://oom.lt/104E__
 
 
-Type: __WIRS__ Stranded Wire 
-
-Size: __G28__ 28 AWG 
-
-Color: __Y__ Yellow 
-
-Description __STAN__  
-
-Index: __01__
+|Type   |Size   |Color   |Description   |Index   |
+| __WIRS__ <br>Stranded Wire  | __G28__<br>28 AWG   |__Y__<br>Yellow    |__STAN__<br>    | __01__<br>  |
 
 
 ## Images
 ![WIRS-G28-Y-STAN-01](http://oomlout.com/oomp-gen/parts/WIRS-G28-Y-STAN-01/WIRS-G28-Y-STAN-01_420.jpg)
 
-
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/WIRS-G28-Y-STAN-01
-
-
-
-
-
-
-
-
-
-
-
-
-
 

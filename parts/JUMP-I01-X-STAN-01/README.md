@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/10CB__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __JUMP__ <br>Jumper  | __I01__<br>2.54 mm   |__X__<br>    |__STAN__<br>    | __01__<br>  |
 
 

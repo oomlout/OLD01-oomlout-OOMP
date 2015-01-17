@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/10BA__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __DIOS__ <br>Diode (Schottky)  | __D214__<br>SMD (DO-214)   |__X__<br>    |__A01__<br>1 Amp    | __01__<br>  |
 
 

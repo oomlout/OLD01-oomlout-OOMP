@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/DA02__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __CRHO__ <br>Crimp Housing  | __I01__<br>2.54 mm   |__B__<br>Black    |__02PI__<br>2 Pin    | __01__<br>  |
 
 

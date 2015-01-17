@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/DD25__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __NSCR__ <br>Nylon Screw  | __M3__<br>M3   |__X__<br>    |__25__<br>x 25 mm    | __70__<br> Cross Head |
 
 

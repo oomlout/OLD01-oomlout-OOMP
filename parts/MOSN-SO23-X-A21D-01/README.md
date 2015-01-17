@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/105E__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __MOSN__ <br>N-Ch. MOSFET  | __SO23__<br>SMD (SOT-23)   |__X__<br>    |__A21D__<br>2.1 Amp    | __01__<br>  |
 
 

@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/10E3__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __ICIC__ <br>  | __SS28__<br>28 Pin SMD (SSOP)   |__X__<br>    |__K232__<br>FTDI USB-Serial    | __01__<br>  |
 
 

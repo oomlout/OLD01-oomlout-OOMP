@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/E620__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __HEAD__ <br>Header  | __I01__<br>2.54 mm   |__X__<br>    |__20PI__<br>20 Pin    | __01__<br>  |
 
 

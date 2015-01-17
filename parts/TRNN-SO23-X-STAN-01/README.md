@@ -13,36 +13,14 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/TRNN-SO23-X-STAN-01_
 Short URL: __http://oom.lt/105B__
 
 
-Type: __TRNN__ NPN Transistor 
-
-Size: __SO23__ SMD (SOT-23) 
-
-Color: __X__  
-
-Description __STAN__  
-
-Index: __01__
+|Type   |Size   |Color   |Description   |Index   |
+| __TRNN__ <br>NPN Transistor  | __SO23__<br>SMD (SOT-23)   |__X__<br>    |__STAN__<br>    | __01__<br>  |
 
 
 ## Images
 ![TRNN-SO23-X-STAN-01](http://oomlout.com/oomp-gen/parts/TRNN-SO23-X-STAN-01/TRNN-SO23-X-STAN-01_420.jpg)
 
-
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/TRNN-SO23-X-STAN-01
-
-
-
-
-
-
-
-
-
-
-
-
-
 

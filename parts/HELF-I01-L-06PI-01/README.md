@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/10BD__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __HELF__ <br>Female Header (Long)  | __I01__<br>2.54 mm   |__L__<br>Blue    |__06PI__<br>6 Pin    | __01__<br>  |
 
 

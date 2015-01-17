@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/10C8__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __BUTA__ <br>Pushbutton (Tactile)  | __07__<br>7 mm   |__X__<br>    |__SMDS__<br>SMD    | __01__<br>  |
 
 

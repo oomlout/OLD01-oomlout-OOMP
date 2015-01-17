@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/BC477__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __CAPE__ <br>Capacitor (Electrolytic)  | __TH__<br>   |__X__<br>    |__UF47D__<br>4.7 uF    | __VD__<br> 63v |
 
 

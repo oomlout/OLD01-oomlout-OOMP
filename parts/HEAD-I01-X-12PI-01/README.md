@@ -14,8 +14,7 @@ Short URL: __http://oom.lt/E612__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
-| __HEAD__ <br>Header  | __I01__<br>2.54 mm   |__X__<br>    |__12PI__<br>@HEAD-I01-X-12PI-01,oompPart.oompID,oompIndex@1,oompIndex.code,name@@ |
+| __HEAD__ <br>Header  | __I01__<br>2.54 mm   |__X__<br>    |__12PI__<br>12 Pin    | __01__<br>  |
 
 
 ## Images

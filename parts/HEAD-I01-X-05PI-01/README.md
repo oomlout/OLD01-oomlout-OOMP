@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/E605__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __HEAD__ <br>Header  | __I01__<br>2.54 mm   |__X__<br>    |__05PI__<br>5 Pin    | __01__<br>  |
 
 

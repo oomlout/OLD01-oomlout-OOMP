@@ -14,8 +14,7 @@ Short URL: __http://oom.lt/DB15__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
-| __NHFF__ <br>Nylon Standoff (F-F)  | __M3__<br>M3   |__X__<br>    |__15__<br>@NHFF-M3-X-15-01,oompPart.oompID,oompIndex@1,oompIndex.code,name@@ |
+| __NHFF__ <br>Nylon Standoff (F-F)  | __M3__<br>M3   |__X__<br>    |__15__<br>x 15 mm    | __01__<br>  |
 
 
 ## Images

@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/EE96__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __BUTA__ <br>Pushbutton (Tactile)  | __06__<br>6 mm   |__X__<br>    |__STAN__<br>    | __01__<br>  |
 
 

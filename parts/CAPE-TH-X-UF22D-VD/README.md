@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/BC227__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __CAPE__ <br>Capacitor (Electrolytic)  | __TH__<br>   |__X__<br>    |__UF22D__<br>2.2 uF    | __VD__<br> 63v |
 
 

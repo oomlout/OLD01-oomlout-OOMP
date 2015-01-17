@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/DB30__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __NHFF__ <br>Nylon Standoff (F-F)  | __M3__<br>M3   |__X__<br>    |__30__<br>x 30 mm    | __01__<br>  |
 
 

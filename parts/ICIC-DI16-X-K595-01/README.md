@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/EEEEE__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __ICIC__ <br>  | __DI16__<br>16 Pin DIP   |__X__<br>    |__K595__<br>74HC595 8-Bit Shift Register (Latching)    | __01__<br>  |
 
 

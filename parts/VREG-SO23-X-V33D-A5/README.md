@@ -13,36 +13,14 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/VREG-SO23-X-V33D-A5_
 Short URL: __http://oom.lt/10E5__
 
 
-Type: __VREG__ Voltage Regulator 
-
-Size: __SO23__ SMD (SOT-23) 
-
-Color: __X__  
-
-Description __V33D__ 3.3v 
-
-Index: __A5__
+|Type   |Size   |Color   |Description   |Index   |
+| __VREG__ <br>Voltage Regulator  | __SO23__<br>SMD (SOT-23)   |__X__<br>    |__V33D__<br>3.3v    | __A5__<br> 500 mA |
 
 
 ## Images
 ![VREG-SO23-X-V33D-A5](http://oomlout.com/oomp-gen/parts/VREG-SO23-X-V33D-A5/VREG-SO23-X-V33D-A5_420.jpg)
 
-
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/VREG-SO23-X-V33D-A5
-
-
-
-
-
-
-
-
-
-
-
-
-
 

@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/EE47__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __HESH__ <br>Heat Shrink  | __03__<br>3 mm   |__E__<br>Grey    |__STAN__<br>    | __01__<br>  |
 
 

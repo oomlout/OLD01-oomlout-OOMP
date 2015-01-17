@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/B0649__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __CAPT__ <br>Capacitor (Tantalum)  | __TH__<br>   |__X__<br>    |__NF100__<br>100 nF    | __VC__<br> 50v |
 
 

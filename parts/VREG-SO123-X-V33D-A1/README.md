@@ -13,36 +13,14 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/VREG-SO123-X-V33D-A1
 Short URL: __http://oom.lt/10E2__
 
 
-Type: __VREG__ Voltage Regulator 
-
-Size: __SO123__ SMD (SOT-123) 
-
-Color: __X__  
-
-Description __V33D__ 3.3v 
-
-Index: __A1__
+|Type   |Size   |Color   |Description   |Index   |
+| __VREG__ <br>Voltage Regulator  | __SO123__<br>SMD (SOT-123)   |__X__<br>    |__V33D__<br>3.3v    | __A1__<br> 1 A |
 
 
 ## Images
 ![VREG-SO123-X-V33D-A1](http://oomlout.com/oomp-gen/parts/VREG-SO123-X-V33D-A1/VREG-SO123-X-V33D-A1_420.jpg)
 
-
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/VREG-SO123-X-V33D-A1
-
-
-
-
-
-
-
-
-
-
-
-
-
 

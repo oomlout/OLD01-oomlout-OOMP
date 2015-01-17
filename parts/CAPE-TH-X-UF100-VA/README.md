@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/BC014__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __CAPE__ <br>Capacitor (Electrolytic)  | __TH__<br>   |__X__<br>    |__UF100__<br>100 uF    | __VA__<br> 25v |
 
 

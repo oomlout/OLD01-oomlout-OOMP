@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/E636__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __HEAD__ <br>Header  | __I01__<br>2.54 mm   |__X__<br>    |__36PI__<br>36 Pin    | __01__<br>  |
 
 

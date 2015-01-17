@@ -14,8 +14,7 @@ Short URL: __http://oom.lt/EE30__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
-| __HESH__ <br>Heat Shrink  | __15D__<br>@HESH-15D-N-STAN-01,oompPart.oompID,oompColorHESH-15D-N-STAN-01,oompPart.oompID,oompDescHESH-15D-N-STAN-01,oompPart.oompID,oompIndex@1,oompIndex.code,name@@ |
+| __HESH__ <br>Heat Shrink  | __15D__<br>1.5 mm   |__N__<br>Brown    |__STAN__<br>    | __01__<br>  |
 
 
 ## Images

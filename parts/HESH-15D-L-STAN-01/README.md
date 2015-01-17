@@ -14,8 +14,7 @@ Short URL: __http://oom.lt/EE35__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
-| __HESH__ <br>Heat Shrink  | __15D__<br>@HESH-15D-L-STAN-01,oompPart.oompID,oompColorHESH-15D-L-STAN-01,oompPart.oompID,oompDescHESH-15D-L-STAN-01,oompPart.oompID,oompIndex@1,oompIndex.code,name@@ |
+| __HESH__ <br>Heat Shrink  | __15D__<br>1.5 mm   |__L__<br>Blue    |__STAN__<br>    | __01__<br>  |
 
 
 ## Images

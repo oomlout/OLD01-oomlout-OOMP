@@ -14,8 +14,7 @@ Short URL: __http://oom.lt/10DE__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
-| __HEAF__ <br>Female Header  | __02__<br>2 mm   |__L__<br>Blue    |__10PI__<br>@HEAF-02-L-10PI-01,oompPart.oompID,oompIndex@1,oompIndex.code,name@@ |
+| __HEAF__ <br>Female Header  | __02__<br>2 mm   |__L__<br>Blue    |__10PI__<br>10 Pin    | __01__<br>  |
 
 
 ## Images

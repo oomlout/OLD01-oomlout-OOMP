@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/DD20__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __NSCR__ <br>Nylon Screw  | __M3__<br>M3   |__X__<br>    |__20__<br>x 20 mm    | __70__<br> Cross Head |
 
 

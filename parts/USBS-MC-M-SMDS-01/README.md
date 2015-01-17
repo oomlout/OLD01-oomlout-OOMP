@@ -13,36 +13,14 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/USBS-MC-M-SMDS-01__
 Short URL: __http://oom.lt/10DD__
 
 
-Type: __USBS__ USB Socket 
-
-Size: __MC__ Micro 
-
-Color: __M__ Metal 
-
-Description __SMDS__ SMD 
-
-Index: __01__
+|Type   |Size   |Color   |Description   |Index   |
+| __USBS__ <br>USB Socket  | __MC__<br>Micro   |__M__<br>Metal    |__SMDS__<br>SMD    | __01__<br>  |
 
 
 ## Images
 ![USBS-MC-M-SMDS-01](http://oomlout.com/oomp-gen/parts/USBS-MC-M-SMDS-01/USBS-MC-M-SMDS-01_420.jpg)
 
-
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/USBS-MC-M-SMDS-01
-
-
-
-
-
-
-
-
-
-
-
-
-
 

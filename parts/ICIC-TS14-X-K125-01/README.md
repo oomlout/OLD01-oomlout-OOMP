@@ -14,7 +14,6 @@ Short URL: __http://oom.lt/10E7__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-|-|-|---|
 | __ICIC__ <br>  | __TS14__<br>14 Pin SMD (TSSOP)   |__X__<br>    |__K125__<br>Quad Buffer    | __01__<br>  |
 
 

@@ -13,36 +13,14 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/REFU-1812-X-A05D-01_
 Short URL: __http://oom.lt/10B2__
 
 
-Type: __REFU__ Resetable Fuse 
-
-Size: __1812__ SMD (1812) 
-
-Color: __X__  
-
-Description __A05D__ 500 mA 
-
-Index: __01__
+|Type   |Size   |Color   |Description   |Index   |
+| __REFU__ <br>Resetable Fuse  | __1812__<br>SMD (1812)   |__X__<br>    |__A05D__<br>500 mA    | __01__<br>  |
 
 
 ## Images
 ![REFU-1812-X-A05D-01](http://oomlout.com/oomp-gen/parts/REFU-1812-X-A05D-01/REFU-1812-X-A05D-01_420.jpg)
 
-
-
 ## Full Details
 
  http://learn.oomlout.co.uk/OO/Projects/oomp/part/REFU-1812-X-A05D-01
-
-
-
-
-
-
-
-
-
-
-
-
-
 
