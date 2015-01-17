@@ -1,35 +1,35 @@
 ﻿<xml>
 
     <oompPart>
-        <index>4088</index>
+        <index>4096</index>
 
 <!--OOMP Base -->
-        <oompID>CAPT-AVB-X-UF47-VB</oompID>
-        <name>SMD (AVX-B) 47 uF Capacitor (Tantalum) 10v</name>
-        <hexID>0FF8</hexID>
+        <oompID>CAPT-2312-X-UF22-VA</oompID>
+        <name>SMD (2312) 22 uF Capacitor (Tantalum) 25v</name>
+        <hexID>1000</hexID>
         <oompSort></oompSort>
         <oompType>CAPT</oompType>
-        <oompSize>AVB</oompSize>
+        <oompSize>2312</oompSize>
         <oompColor>X</oompColor>
-        <oompDesc>UF47</oompDesc>
-        <oompIndex>VB</oompIndex>
+        <oompDesc>UF22</oompDesc>
+        <oompIndex>VA</oompIndex>
         <oompOwner></oompOwner>
         <oompVersion>99</oompVersion>
 
 
 <!--Size -->
         <ooPitch></ooPitch>
-        <ooWidth>2.80 mm</ooWidth>
+        <ooWidth>3.20 mm</ooWidth>
         <ooHeight></ooHeight>
         <ooDiameter></ooDiameter>
-        <ooLength>3.50 mm</ooLength>
+        <ooLength>6.00 mm</ooLength>
         <ooDepth></ooDepth>
         <ooWireSize></ooWireSize>
 
 
 <!--Manufacturer -->
         <ooManufacturer>AVX</ooManufacturer>
-        <ooManufacturerPartNumber>TAJB476K010RNJ</ooManufacturerPartNumber>
+        <ooManufacturerPartNumber>TAJC226K025RNJ</ooManufacturerPartNumber>
 
 
 <!--Description -->
@@ -46,7 +46,7 @@
 
 <!--Maximums -->
         <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage>10 V</ooMaxVoltage>
+        <ooMaxVoltage>25V</ooMaxVoltage>
         <ooLifetime></ooLifetime>
         <ooTolerance>10%</ooTolerance>
 
@@ -82,14 +82,14 @@
 
 
 <!--SEEED OPL (Open Parts Library) -->
-        <ooSEEEDsku>0130180P1</ooSEEEDsku>
-        <ooSEEEDdesc>SMD CAP Tantalum 47uF-10V 10%</ooSEEEDdesc>
+        <ooSEEEDsku>0130360P1</ooSEEEDsku>
+        <ooSEEEDdesc>SMD CAP Tantalum 22uF-25V 10% 2312</ooSEEEDdesc>
 		<sourceList>
 			<manufacturer>
 				<company>AVX</company>
 				<companyCode>C-AVXX</companyCode>
 				<name></name>
-				<partID>TAJB476K010RNJ</partID>
+				<partID>TAJC226K025RNJ</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -97,17 +97,17 @@
 			<bigDistributor>
 				<company>DigiKey</company>
 				<companyCode>C-DIGK</companyCode>
-				<name>CAP TANT 47UF 10V 10% 1210</name>
-				<partID>478-1693-1-ND</partID>
-				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/TAJB476K010RNJ/478-1693-1-ND/564725]]></link>
+				<name>CAP TANT 22UF 25V 10% 2312</name>
+				<partID>478-1712-1-ND</partID>
+				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/TAJC226K025RNJ/478-1712-1-ND/564744]]></link>
 				<note></note>
 			</bigDistributor>					
 			<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
-				<name>Tantalum Capacitors - Solid SMD 10volts 47uF 10%</name>
-				<partID>581-TAJB476K010</partID>
-				<link><![CDATA[http://uk.mouser.com/ProductDetail/AVX/TAJB476K010RNJ/?qs=sGAEpiMZZMuEN2agSAc2pmRv4r8cj6yFUFP3ZMXsJ7M%3d]]></link>
+				<name>Tantalum Capacitors - Solid SMD 25volts 22uF 10%</name>
+				<partID>581-TAJC226K025R</partID>
+				<link><![CDATA[http://uk.mouser.com/ProductDetail/AVX/TAJC226K025RNJ/?qs=sGAEpiMZZMuEN2agSAc2prc3ISwDBF1Q%252be9%252bL4XX8dU%3d]]></link>
 				<note></note>
 			</bigDistributor>					
 		</sourceList>
@@ -115,10 +115,10 @@
 			<oplSystem>
 				<oplScheme>SEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
-				<oplName>SMD CAP Tantalum 47uF-10V 10%</oplName>
-				<oplID>0130180P1</oplID>
+				<oplName>SMD CAP Tantalum 22uF-25V 10% 2312</oplName>
+				<oplID>0130360P1</oplID>
 				<oplFootprint></oplFootprint>
-				<oplPackage>AVX-B</oplPackage>
+				<oplPackage>AVX-C</oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Capacitor]]></oplLink>
 			</oplSystem>
 		</oplList>

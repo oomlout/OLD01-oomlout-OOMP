@@ -1,35 +1,35 @@
 ﻿<xml>
 
     <oompPart>
-        <index>4089</index>
+        <index>4280</index>
 
 <!--OOMP Base -->
-        <oompID>CAPT-AVC-X-UF100-VB</oompID>
-        <name>SMD (AVX-C) 100 uF Capacitor (Tantalum) 10v</name>
-        <hexID>0FF9</hexID>
+        <oompID>CAPT-1210-X-UF10-VF</oompID>
+        <name>SMD (1210) 10 uF Capacitor (Tantalum) 16v</name>
+        <hexID>10B8</hexID>
         <oompSort></oompSort>
         <oompType>CAPT</oompType>
-        <oompSize>AVC</oompSize>
+        <oompSize>1210</oompSize>
         <oompColor>X</oompColor>
-        <oompDesc>UF100</oompDesc>
-        <oompIndex>VB</oompIndex>
+        <oompDesc>UF10</oompDesc>
+        <oompIndex>VF</oompIndex>
         <oompOwner></oompOwner>
         <oompVersion>99</oompVersion>
 
 
 <!--Size -->
         <ooPitch></ooPitch>
-        <ooWidth>3.20 mm</ooWidth>
+        <ooWidth></ooWidth>
         <ooHeight></ooHeight>
         <ooDiameter></ooDiameter>
-        <ooLength>6.00 mm</ooLength>
+        <ooLength></ooLength>
         <ooDepth></ooDepth>
         <ooWireSize></ooWireSize>
 
 
 <!--Manufacturer -->
-        <ooManufacturer>AVX</ooManufacturer>
-        <ooManufacturerPartNumber>TAJC107K010RNJ</ooManufacturerPartNumber>
+        <ooManufacturer></ooManufacturer>
+        <ooManufacturerPartNumber></ooManufacturerPartNumber>
 
 
 <!--Description -->
@@ -46,9 +46,9 @@
 
 <!--Maximums -->
         <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage>10 V</ooMaxVoltage>
+        <ooMaxVoltage></ooMaxVoltage>
         <ooLifetime></ooLifetime>
-        <ooTolerance>10%</ooTolerance>
+        <ooTolerance></ooTolerance>
 
 
 <!--Heat Shrink -->
@@ -82,14 +82,14 @@
 
 
 <!--SEEED OPL (Open Parts Library) -->
-        <ooSEEEDsku>0130170P1</ooSEEEDsku>
-        <ooSEEEDdesc>SMD CAP Tantalum 100uF-10V 10%</ooSEEEDdesc>
+        <ooSEEEDsku></ooSEEEDsku>
+        <ooSEEEDdesc></ooSEEEDdesc>
 		<sourceList>
 			<manufacturer>
 				<company>AVX</company>
 				<companyCode>C-AVXX</companyCode>
 				<name></name>
-				<partID></partID>
+				<partID>TAJB106K016RNJ</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -97,17 +97,17 @@
 			<bigDistributor>
 				<company>DigiKey</company>
 				<companyCode>C-DIGK</companyCode>
-				<name>CAP TANT 100UF 10V 10% 2312</name>
-				<partID>478-1704-1-ND</partID>
-				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/TAJC107K010RNJ/478-1704-1-ND/564736]]></link>
+				<name>CAP TANT 10UF 16V 10% 1210</name>
+				<partID>478-1673-1-ND</partID>
+				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/TAJB106K016RNJ/478-1673-1-ND/564705]]></link>
 				<note></note>
 			</bigDistributor>					
 			<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
-				<name>Tantalum Capacitors - Solid SMD 10volts 100uF 10%</name>
-				<partID>581-TAJC107K010R</partID>
-				<link><![CDATA[http://uk.mouser.com/ProductDetail/AVX/TAJC107K010RNJ/?qs=sGAEpiMZZMuEN2agSAc2puzB8URFjVxw2am8tcMhFvs%3d]]></link>
+				<name>Tantalum Capacitors - Solid SMD 16volts 10uF 10%</name>
+				<partID>581-TAJB106K016</partID>
+				<link><![CDATA[http://uk.mouser.com/ProductDetail/AVX/TAJB106K016RNJ/?qs=sGAEpiMZZMuEN2agSAc2pmRv4r8cj6yFbJqEK%2fzYLw8%3d]]></link>
 				<note></note>
 			</bigDistributor>					
 		</sourceList>
@@ -115,10 +115,10 @@
 			<oplSystem>
 				<oplScheme>SEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
-				<oplName>SMD CAP Tantalum 100uF-10V 10</oplName>
-				<oplID>0130170P1</oplID>
+				<oplName>SMD CAP Tantalum 10uF-16V 10%</oplName>
+				<oplID>0130120P1</oplID>
 				<oplFootprint></oplFootprint>
-				<oplPackage>AVX-C</oplPackage>
+				<oplPackage>AVX-B</oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Capacitor]]></oplLink>
 			</oplSystem>
 		</oplList>
