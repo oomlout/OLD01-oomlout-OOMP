@@ -190,6 +190,14 @@
 			<tagSort>140</tagSort>
     </oompTag>
     <oompTag>
+            <tagName>ooPackageMarking</tagName>
+            <tagReadable>Package Marking</tagReadable>
+			<tagLabel>package marking</tagLabel>
+			<tagType>SMD</tagType>			
+            <tagDescription>The marking on the package.</tagDescription>
+			<tagSort>145</tagSort>
+    </oompTag>
+    <oompTag>
             <tagName>ooMaterial</tagName>
             <tagReadable>Material</tagReadable>
 			<tagLabel>material</tagLabel>

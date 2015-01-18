@@ -3,14 +3,14 @@
         <index>9876</index>
 
 <com>OOMP Base</com>
-        <oompID>MOSP-SO23-X-A02-01</oompID>
-        <name>SMD (SOT-23) 2 Amp P-Ch. MOSFET</name>
-        <hexID>MPSS202</hexID>
-        <oompSort>402</oompSort>
-        <oompType>MOSP</oompType>
-        <oompSize>SO23</oompSize>
+        <oompID>RESA-1268-X-O220X4-01</oompID>
+        <name>SMD (1206-8) 22 Ohm (x4) Resistor Array</name>
+        <hexID>RA1220</hexID>
+        <oompSort>0000022</oompSort>
+        <oompType>RESA</oompType>
+        <oompSize>1268</oompSize>
         <oompColor>X</oompColor>
-        <oompDesc>A02</oompDesc>
+        <oompDesc>O220X4</oompDesc>
         <oompIndex>01</oompIndex>
         <oompOwner></oompOwner>
         <oompVersion></oompVersion>
@@ -19,19 +19,19 @@
 
 <com>Size</com>
         <ooPitch></ooPitch>
-        <ooWidth>3 mm</ooWidth>
-        <ooHeight>1 mm</ooHeight>
+        <ooWidth>3.2 mm</ooWidth>
+        <ooHeight>0.5 mm</ooHeight>
         <ooDiameter></ooDiameter>
-        <ooLength>2.3 mm</ooLength>
+        <ooLength>1.6 mm</ooLength>
         <ooDepth></ooDepth>
         <ooWireSize></ooWireSize>
 
 <com>SMD</com>
-		<ooPackageMarking>340</ooPackageMarking>>		
+		<ooPackageMarking>220</ooPackageMarking>>		
 		
 <com>Description</com>
         <ooMaterial></ooMaterial>
-        <ooNumPins>3</ooNumPins>
+        <ooNumPins>8</ooNumPins>
         <ooTerminalStyle></ooTerminalStyle>
         <ooPowerRating></ooPowerRating>
 
@@ -66,10 +66,10 @@
 <com>Source List</com>		
 		<sourceList>
 			<manufacturer>
-				<company>Fairchild Semiconductor</company>
-				<companyCode>C-FAIR</companyCode>
+				<company>Bourns</company>
+				<companyCode>C-BOUR</companyCode>
 				<name></name>
-				<partID>FDN340P</partID>
+				<partID>CAT16-220J4LF</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -77,36 +77,36 @@
 			<bigDistributor>
 				<company>DigiKey</company>
 				<companyCode>C-DIGK</companyCode>
-				<name>MOSFET P-CH 20V 2A SSOT3</name>
-				<partID>FDN340PCT-ND</partID>
-				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/FDN340P/FDN340PCT-ND/965604]]></link>
+				<name>RES ARRAY 22 OHM 4 RES 1206</name>
+				<partID>CAT16-220J4LFCT-ND</partID>
+				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/CAT16-220J4LF/CAT16-220J4LFCT-ND/3592902]]></link>
 				<note></note>
 			</bigDistributor>
 
 			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
-				<name>FAIRCHILD SEMICONDUCTOR  FDN340P  MOSFET, P, SOT-23</name>
-				<partID>9846310</partID>
-				<link><![CDATA[http://uk.farnell.com/fairchild-semiconductor/fdn340p/mosfet-p-sot-23/dp/9846310]]></link>
+				<name>BOURNS  CAT16-220J4LF  RESISTOR ARRAY, 1206, 22R</name>
+				<partID>1770118</partID>
+				<link><![CDATA[http://uk.farnell.com/bourns/cat16-220j4lf/resistor-array-1206-22r/dp/1770118]]></link>
 				<note></note>
 			</bigDistributor>			
 			<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
-				<name>MOSFET SSOT-3 P-CH -20V</name>
-				<partID>512-FDN340P</partID>
-				<link><![CDATA[http://uk.mouser.com/ProductDetail/Fairchild-Semiconductor/FDN340P/?qs=sGAEpiMZZMshyDBzk1%2fWi6u8DDnmpUwt%252byIO%2ftkdxyE%3d]]></link>
+				<name>Resistor Networks & Arrays 22ohm 5% Concave 4resistors</name>
+				<partID>652-CAT16-220J4LF</partID>
+				<link><![CDATA[http://uk.mouser.com/ProductDetail/Bourns/CAT16-220J4LF/?qs=%2fha2pyFadugIlDS2U%2fTN%252bsP4Yv8QvhuzqPiz8YMFH22yRigM6JhnZw%3d%3d]]></link>
 				<note></note>
 			</bigDistributor>
 			<bigDistributor>
 				<company>RS</company>
 				<companyCode>C-RSRS</companyCode>
-				<name>FDN340P, P-channel MOSFET Transistor 2 A 20 V, 3-Pin SuperSOT</name>
-				<partID>671-0435</partID>
-				<link><![CDATA[http://uk.rs-online.com/web/p/mosfet-transistors/6710435/?searchTerm=FDN340P&relevancy-data=636F3D3226696E3D4931384E4B6E6F776E41734D504E266C753D656E266D6D3D6D61746368616C6C7061727469616C26706D3D5E5B5C707B4C7D5C707B4E647D2D2C2F255C2E5D2B2426706F3D313326736E3D592673743D4D414E5F504152545F4E554D4245522677633D424F5448267573743D46444E3334305026]]></link>
+				<name>Bourns CAT16 Series 0.022kO ±5% Isolated SMT Resistor Array, 4 Resistors, 0.25W total 1206 Package</name>
+				<partID>522-5456</partID>
+				<link><![CDATA[http://uk.rs-online.com/web/p/array-resistors/5225456/?searchTerm=CAT16-220J4LF&relevancy-data=636F3D3226696E3D4931384E4B6E6F776E41734D504E266C753D656E266D6D3D6D61746368616C6C7061727469616C26706D3D5E5B5C707B4C7D5C707B4E647D2D2C2F255C2E5D2B2426706F3D313326736E3D592673743D4D414E5F504152545F4E554D4245522677633D424F5448267573743D43415431362D3232304A344C4626]]></link>
 				<note></note>
-			</bigDistributor>				
+			</bigDistributor>					
 		</sourceList>
 		
 <com>OPL</com>		
@@ -114,21 +114,21 @@
 			<oplSystem>
 				<oplScheme>Circuithub.com</oplScheme>
 				<oplCode>C-CIRC</oplCode>
-				<oplName>FAIRCHILD/FDN340P</oplName>
-				<oplID>FAIRCHILD/FDN340P</oplID>
-				<oplFootprint>SOT-23</oplFootprint>
-				<oplPackage>SOT-23</oplPackage>
-				<oplLink><![CDATA[https://circuithub.com/parts/FAIRCHILD/FDN340P]]></oplLink>
-			</oplSystem>		
+				<oplName>BOURNS/CAT16-220J4LF</oplName>
+				<oplID>BOURNS/CAT16-220J4LF</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://circuithub.com/parts/BOURNS/CAT16-220J4LF]]></oplLink>
+			</oplSystem>
 			<oplSystem>
 				<oplScheme>Oopen Organization Method for Parts</oplScheme>
 				<oplCode>C-OOMP</oplCode>
-				<oplName>SMD (SOT-23) 2 Amp P-Ch. MOSFET</oplName>
-				<oplID>MOSP-SO23-X-A02-01</oplID>
-				<oplFootprint>SO23</oplFootprint>
-				<oplPackage>SO23</oplPackage>
-				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/MOSP-SO23-X-A02-01]]></oplLink>
-			</oplSystem>
+				<oplName>SMD (1206-8) 22 Ohm Resistor Array</oplName>
+				<oplID>RESA-1268-X-O220X4-01</oplID>
+				<oplFootprint>1268</oplFootprint>
+				<oplPackage>1206-8</oplPackage>
+				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESA-1268-X-O220X4-01]]></oplLink>
+			</oplSystem>			
 		</oplList>
 
 <com>Hidden</com>

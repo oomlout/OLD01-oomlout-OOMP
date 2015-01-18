@@ -29,8 +29,32 @@
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
 		<familyIndex>01</familyIndex>	
-		<familyHexNameSpace>AF</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>AF###</familyHexNameSpaceDisplay>	
+		<familyHexNameSpace>R6</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>R6###</familyHexNameSpaceDisplay>	
+		<familyAbout></familyAbout>
+	</oompFamily>
+	
+	<oompFamily>
+		<familyName>SMD (0805) Ferrite Bead</familyName>
+		<familyType>FERB</familyType>
+		<familySize>0805</familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>F8</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>F8##</familyHexNameSpaceDisplay>	
+		<familyAbout></familyAbout>
+	</oompFamily>
+	
+	<oompFamily>
+		<familyName>SMD (1206-8) (x4) Resistor Array</familyName>
+		<familyType>RESA</familyType>
+		<familySize>1268</familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>RA1</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>RA1###</familyHexNameSpaceDisplay>	
 		<familyAbout></familyAbout>
 	</oompFamily>
 	<oompFamily>
@@ -137,8 +161,19 @@
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
 		<familyIndex>01</familyIndex>	
-		<familyHexNameSpace>E6</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>E6##</familyHexNameSpaceDisplay>		
+		<familyHexNameSpace>H</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>H1X##</familyHexNameSpaceDisplay>		
+		<familyAbout>These are absolutely everywhere. They're used for making board to board connections (when paired with HEAD-I01) or board to wire connections (when paired with CRHO-I01). While ubiquitous they are not always the best choice, The lack of a key means plugging them in backwards is always a worry, and when a lot of connections are required the pitch means a lot of real estate gets occupied.</familyAbout>
+	</oompFamily>			
+	<oompFamily>
+		<familyName>2.54 mm Pin (x2 Row) Header</familyName>
+		<familyType>HEAD</familyType>
+		<familySize>I01</familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>H</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>H2X##</familyHexNameSpaceDisplay>		
 		<familyAbout>These are absolutely everywhere. They're used for making board to board connections (when paired with HEAD-I01) or board to wire connections (when paired with CRHO-I01). While ubiquitous they are not always the best choice, The lack of a key means plugging them in backwards is always a worry, and when a lot of connections are required the pitch means a lot of real estate gets occupied.</familyAbout>
 	</oompFamily>			
 	<oompFamily>
@@ -183,6 +218,18 @@
 		<familyIndex>01</familyIndex>	
 		<familyHexNameSpace>E9</familyHexNameSpace>
 		<familyHexNameSpaceDisplay>E9##</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
+	</oompFamily>			
+			
+	<oompFamily>
+		<familyName>SMD P-Ch MOSFET</familyName>
+		<familyType>MOSP</familyType>
+		<familySize></familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>MP####</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>MP####</familyHexNameSpaceDisplay>		
 		<familyAbout></familyAbout>
 	</oompFamily>			
 	<oompFamily>

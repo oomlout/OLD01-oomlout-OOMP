@@ -4,9 +4,9 @@
 
 <com>OOMP Base</com>
         <oompID>HEAD-I01-X-2X02PI-01</oompID>
-        <name> 2.54 mm 4 Pin (2x2) Header </name>
-        <hexID>EEEE</hexID>
-        <oompSort>06</oompSort>
+        <name>2.54 mm 4 Pin (2x2) Header</name>
+        <hexID>H2X02</hexID>
+        <oompSort>2X02</oompSort>
         <oompType>HEAD</oompType>
         <oompSize>I01</oompSize>
         <oompColor>X</oompColor>
@@ -18,17 +18,17 @@
 		<oompSkip>true</oompSkip>
 
 <com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
+        <ooPitch>2.54 mm</ooPitch>
+        <ooWidth>5.08mm</ooWidth>
+        <ooHeight>11.8 mm</ooHeight>
         <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
+        <ooLength>5.08 mm</ooLength>
         <ooDepth></ooDepth>
         <ooWireSize></ooWireSize>
 
 <com>Description</com>
         <ooMaterial></ooMaterial>
-        <ooNumPins></ooNumPins>
+        <ooNumPins>4</ooNumPins>
         <ooTerminalStyle></ooTerminalStyle>
         <ooPowerRating></ooPowerRating>
 
@@ -63,34 +63,67 @@
 <com>Source List</com>		
 		<sourceList>
 			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
+				<company>FCI</company>
+				<companyCode>C-FCII</companyCode>
 				<name></name>
-				<partID></partID>
+				<partID>67996-104HLF</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company>TruConnect</company>
+				<companyCode>C-TRUC</companyCode>
+				<name></name>
+				<partID>22-0525</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
 				
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
+				<company>DigiKey</company>
+				<companyCode>C-DIGK</companyCode>
+				<name>CONN HEADER 4POS .100 STR 30AU</name>
+				<partID>609-3201-ND</partID>
+				<link><![CDATA[http://www.digikey.co.uk/product-search/en?lang=en&site=UK&WT.z_homepage_link=hp_go_button&x=0&y=0&KeyWords=67996-104HLF]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>
+
+			<bigDistributor>
+				<company>Farnell</company>
+				<companyCode>C-FARN</companyCode>
+				<name>FCI  67996-104HLF  BOARD-BOARD CONNECTOR HEADER, 4WAY, 2ROW</name>
+				<partID>1824421</partID>
+				<link><![CDATA[http://uk.farnell.com/fci/67996-104hlf/board-board-connector-header-4way/dp/1824421?ost=67996-104HLF]]></link>
+				<note></note>
+			</bigDistributor>			
+			<bigDistributor>
+				<company>Mouser</company>
+				<companyCode>C-MOUS</companyCode>
+				<name>Headers & Wire Housings 2X2P UNSHRD HDR 30 microinch gold</name>
+				<partID>649-67996-104HLF</partID>
+				<link><![CDATA[http://uk.mouser.com/ProductDetail/FCI/67996-104HLF/?qs=sGAEpiMZZMs%252bGHln7q6pm24n0txessAMqPkDJj35yUY%3d]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>Rapid Electronics</company>
+				<companyCode>C-RAPI</companyCode>
+				<name>2+2 Way Double Row PCB Header Plug</name>
+				<partID>22-0525</partID>
+				<link><![CDATA[http://www.rapidonline.com/cables-connectors/2-2-way-double-row-pcb-header-plug-22-0525]]></link>
+				<note></note>
+			</bigDistributor>			
 		</sourceList>
 		
 <com>OPL</com>		
 		<oplList>
 			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
+				<oplScheme>Oopen Organization Method for Parts</oplScheme>
+				<oplCode>C-OOMP</oplCode>
+				<oplName>2.54 mm 4 Pin (2x2) Header</oplName>
+				<oplID>HEAD-I01-X-2X02PI-01</oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
-				<oplLink><![CDATA[]]></oplLink>
+				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAD-I01-X-2X02PI-01]]></oplLink>
 			</oplSystem>
 		</oplList>
 

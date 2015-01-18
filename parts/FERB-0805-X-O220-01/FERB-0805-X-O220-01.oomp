@@ -3,14 +3,14 @@
         <index>9876</index>
 
 <com>OOMP Base</com>
-        <oompID>MOSP-SO23-X-A02-01</oompID>
-        <name>SMD (SOT-23) 2 Amp P-Ch. MOSFET</name>
-        <hexID>MPSS202</hexID>
-        <oompSort>402</oompSort>
-        <oompType>MOSP</oompType>
-        <oompSize>SO23</oompSize>
+        <oompID>FERB-0805-X-O220-01</oompID>
+        <name>SMD (0805) 220 Ohm Ferrite Bead</name>
+        <hexID>F8220</hexID>
+        <oompSort>02</oompSort>
+        <oompType>FERB</oompType>
+        <oompSize>0805</oompSize>
         <oompColor>X</oompColor>
-        <oompDesc>A02</oompDesc>
+        <oompDesc>O220</oompDesc>
         <oompIndex>01</oompIndex>
         <oompOwner></oompOwner>
         <oompVersion></oompVersion>
@@ -19,19 +19,16 @@
 
 <com>Size</com>
         <ooPitch></ooPitch>
-        <ooWidth>3 mm</ooWidth>
-        <ooHeight>1 mm</ooHeight>
+        <ooWidth>2 mm</ooWidth>
+        <ooHeight>0.85 mm</ooHeight>
         <ooDiameter></ooDiameter>
-        <ooLength>2.3 mm</ooLength>
+        <ooLength>1.25 mm</ooLength>
         <ooDepth></ooDepth>
         <ooWireSize></ooWireSize>
 
-<com>SMD</com>
-		<ooPackageMarking>340</ooPackageMarking>>		
-		
 <com>Description</com>
         <ooMaterial></ooMaterial>
-        <ooNumPins>3</ooNumPins>
+        <ooNumPins>2</ooNumPins>
         <ooTerminalStyle></ooTerminalStyle>
         <ooPowerRating></ooPowerRating>
 
@@ -66,10 +63,10 @@
 <com>Source List</com>		
 		<sourceList>
 			<manufacturer>
-				<company>Fairchild Semiconductor</company>
-				<companyCode>C-FAIR</companyCode>
+				<company>Murata</company>
+				<companyCode>C-MURA</companyCode>
 				<name></name>
-				<partID>FDN340P</partID>
+				<partID>BLM21PG221SN1D</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -77,34 +74,42 @@
 			<bigDistributor>
 				<company>DigiKey</company>
 				<companyCode>C-DIGK</companyCode>
-				<name>MOSFET P-CH 20V 2A SSOT3</name>
-				<partID>FDN340PCT-ND</partID>
-				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/FDN340P/FDN340PCT-ND/965604]]></link>
+				<name>FERRITE CHIP 220 OHM 0805</name>
+				<partID>490-1054-1-ND</partID>
+				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/BLM21PG221SN1D/490-1054-1-ND/574418]]></link>
 				<note></note>
 			</bigDistributor>
 
 			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
-				<name>FAIRCHILD SEMICONDUCTOR  FDN340P  MOSFET, P, SOT-23</name>
-				<partID>9846310</partID>
-				<link><![CDATA[http://uk.farnell.com/fairchild-semiconductor/fdn340p/mosfet-p-sot-23/dp/9846310]]></link>
+				<name>MURATA  BLM21PG221SN1D  FERRITE, BEAD, 0805, 0.045OHM, 2A</name>
+				<partID>1515661</partID>
+				<link><![CDATA[http://uk.farnell.com/murata/blm21pg221sn1d/ferrite-bead-0805-0-045ohm-2a/dp/1515661]]></link>
 				<note></note>
 			</bigDistributor>			
 			<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
-				<name>MOSFET SSOT-3 P-CH -20V</name>
-				<partID>512-FDN340P</partID>
-				<link><![CDATA[http://uk.mouser.com/ProductDetail/Fairchild-Semiconductor/FDN340P/?qs=sGAEpiMZZMshyDBzk1%2fWi6u8DDnmpUwt%252byIO%2ftkdxyE%3d]]></link>
+				<name>EMI Filter Beads, Chips & Arrays 0805 220 OHM</name>
+				<partID>81-BLM21P221SG</partID>
+				<link><![CDATA[http://uk.mouser.com/ProductDetail/Murata/BLM21PG221SN1D/?qs=%2fha2pyFadujxD5ks3AjdffkJPlzxWbOj5FSW5VIu4iL4EWSt9l651Q%3d%3d]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>Rapid Electronics</company>
+				<companyCode>C-RAPI</companyCode>
+				<name>Murata BLM21PG221SN1D 220R ±25% 2000mA 0805 Chip Bead Inductor</name>
+				<partID>59-2599</partID>
+				<link><![CDATA[http://www.rapidonline.com/Electronic-Components/murata-blm21pg221sn1d-220r-25-2000ma-0805-chip-bead-inductor-59-2599]]></link>
 				<note></note>
 			</bigDistributor>
 			<bigDistributor>
 				<company>RS</company>
 				<companyCode>C-RSRS</companyCode>
-				<name>FDN340P, P-channel MOSFET Transistor 2 A 20 V, 3-Pin SuperSOT</name>
-				<partID>671-0435</partID>
-				<link><![CDATA[http://uk.rs-online.com/web/p/mosfet-transistors/6710435/?searchTerm=FDN340P&relevancy-data=636F3D3226696E3D4931384E4B6E6F776E41734D504E266C753D656E266D6D3D6D61746368616C6C7061727469616C26706D3D5E5B5C707B4C7D5C707B4E647D2D2C2F255C2E5D2B2426706F3D313326736E3D592673743D4D414E5F504152545F4E554D4245522677633D424F5448267573743D46444E3334305026]]></link>
+				<name>Murata Ferrite Bead for EMI Suppression (Chip Bead), 2 x 1.25 x 0.85mm (0805)</name>
+				<partID>724-1532</partID>
+				<link><![CDATA[http://uk.rs-online.com/web/p/ferrite-beads/7241532/?searchTerm=BLM21PG221SN1D&relevancy-data=636F3D3226696E3D4931384E4B6E6F776E41734D504E266C753D656E266D6D3D6D61746368616C6C7061727469616C26706D3D5E5B5C707B4C7D5C707B4E647D2D2C2F255C2E5D2B2426706F3D313326736E3D592673743D4D414E5F504152545F4E554D4245522677633D424F5448267573743D424C4D32315047323231534E314426]]></link>
 				<note></note>
 			</bigDistributor>				
 		</sourceList>
@@ -112,22 +117,13 @@
 <com>OPL</com>		
 		<oplList>
 			<oplSystem>
-				<oplScheme>Circuithub.com</oplScheme>
-				<oplCode>C-CIRC</oplCode>
-				<oplName>FAIRCHILD/FDN340P</oplName>
-				<oplID>FAIRCHILD/FDN340P</oplID>
-				<oplFootprint>SOT-23</oplFootprint>
-				<oplPackage>SOT-23</oplPackage>
-				<oplLink><![CDATA[https://circuithub.com/parts/FAIRCHILD/FDN340P]]></oplLink>
-			</oplSystem>		
-			<oplSystem>
 				<oplScheme>Oopen Organization Method for Parts</oplScheme>
 				<oplCode>C-OOMP</oplCode>
-				<oplName>SMD (SOT-23) 2 Amp P-Ch. MOSFET</oplName>
-				<oplID>MOSP-SO23-X-A02-01</oplID>
-				<oplFootprint>SO23</oplFootprint>
-				<oplPackage>SO23</oplPackage>
-				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/MOSP-SO23-X-A02-01]]></oplLink>
+				<oplName>SMD (0805) 220 Ohm Ferrite Bead</oplName>
+				<oplID>FERB-0805-X-O220-01</oplID>
+				<oplFootprint>0805</oplFootprint>
+				<oplPackage>0805</oplPackage>
+				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/FERB-0805-X-O220-01]]></oplLink>
 			</oplSystem>
 		</oplList>
 
