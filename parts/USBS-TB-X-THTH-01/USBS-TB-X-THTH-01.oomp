@@ -1,0 +1,162 @@
+<xml>
+    <oompPart>
+        <index>9876</index>
+
+<com>OOMP Base</com>
+        <oompID>USBS-TB-X-THTH-01</oompID>
+        <name>Type B Through Hole USB Socket</name>
+        <hexID>UTB</hexID>
+        <oompSort>B</oompSort>
+        <oompType>USBS</oompType>
+        <oompSize>TB</oompSize>
+        <oompColor>X</oompColor>
+        <oompDesc>THTH</oompDesc>
+        <oompIndex>01</oompIndex>
+        <oompOwner></oompOwner>
+        <oompVersion></oompVersion>
+
+		<oompSkip>true</oompSkip>
+
+<com>Size</com>
+        <ooPitch></ooPitch>
+        <ooWidth>16 mm</ooWidth>
+        <ooHeight>10.3 mm</ooHeight>
+        <ooDiameter></ooDiameter>
+        <ooLength>12.2 mm</ooLength>
+        <ooDepth></ooDepth>
+        <ooWireSize></ooWireSize>
+
+<com>Description</com>
+        <ooMaterial></ooMaterial>
+        <ooNumPins>4</ooNumPins>
+        <ooTerminalStyle></ooTerminalStyle>
+        <ooPowerRating></ooPowerRating>
+
+<com>Hardware</com>
+        <ooHeadStyle></ooHeadStyle>
+        <ooWrenchSize></ooWrenchSize>
+
+<com>Maximums</com>
+        <ooMaxCurrent></ooMaxCurrent>
+        <ooMaxVoltage></ooMaxVoltage>
+        <ooLifetime></ooLifetime>
+        <ooTolerance></ooTolerance>
+
+<com>Heat Shrink</com>
+        <ooShrinkRatio></ooShrinkRatio>
+
+<com>LED</com>
+        <ooLensColor></ooLensColor>
+        <ooForwardVoltage></ooForwardVoltage>
+        <ooForwardCurrent></ooForwardCurrent>
+        <ooIntensity></ooIntensity>
+        <ooPowerAngle></ooPowerAngle>
+        <ooWavelength></ooWavelength>
+        <ooChromaticityX></ooChromaticityX>
+        <ooChromaticityY></ooChromaticityY>
+
+<com>Plug</com>
+        <ooPlugID></ooPlugID>
+        <ooPlugOD></ooPlugOD>
+        <ooPlugLength></ooPlugLength>
+
+<com>Source List</com>		
+		<sourceList>
+			<manufacturer>
+				<company>FCI</company>
+				<companyCode>C-FCII</companyCode>
+				<name></name>
+				<partID>61729-1011BLF</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company>TruConnect</company>
+				<companyCode>C-TRUC</companyCode>
+				<name></name>
+				<partID>24-0346</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+				
+		
+			<bigDistributor>
+				<company>DigiKey</company>
+				<companyCode>C-DIGK</companyCode>
+				<name>USB RCPT B-TYPE R/A FULL BACK</name>
+				<partID>609-3657-ND</partID>
+				<link><![CDATA[http://www.digikey.co.uk/product-search/en?lang=en&site=UK&WT.z_homepage_link=hp_go_button&x=0&y=0&KeyWords=61729-1011BLF]]></link>
+				<note></note>
+			</bigDistributor>
+
+			<bigDistributor>
+				<company>Farnell</company>
+				<companyCode>C-FARN</companyCode>
+				<name>FCI  61729-1011BLF  USB CONNECTOR, RECEPTACLE, 4POS, THD</name>
+				<partID>1824489</partID>
+				<link><![CDATA[http://uk.farnell.com/fci/61729-1011blf/usb-connector-receptacle-4pos/dp/1824489?ost=61729-1011BLF]]></link>
+				<note></note>
+			</bigDistributor>			
+			<bigDistributor>
+				<company>Mouser</company>
+				<companyCode>C-MOUS</companyCode>
+				<name>USB Connectors 4P R/A RECEPTACLE STYLE B</name>
+				<partID>649-61729-1011BLF</partID>
+				<link><![CDATA[http://uk.mouser.com/ProductDetail/FCI/61729-1011BLF/?qs=%2fha2pyFaduhzw40FDrZqW4JVnapXgV6h%252bxQRx5MYuKvhXDx9Am19Eg%3d%3d]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>Rapid Electronics</company>
+				<companyCode>C-RAPI</companyCode>
+				<name>Single B Series USB Connector</name>
+				<partID>24-0346</partID>
+				<link><![CDATA[http://www.rapidonline.com/cables-connectors/single-b-series-usb-connector-24-0346]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>RS</company>
+				<companyCode>C-RSRS</companyCode>
+				<name>FCI 1 port Right Angle Through Hole Mount Female Version 2.0 Type B USB Connector</name>
+				<partID>771-0041</partID>
+				<link><![CDATA[http://uk.rs-online.com/web/p/type-b-usb-connectors/7710041/?searchTerm=61729-1011BLF&relevancy-data=636F3D3226696E3D4931384E4B6E6F776E41734D504E266C753D656E266D6D3D6D61746368616C6C7061727469616C26706D3D5E5B5C707B4C7D5C707B4E647D2D2C2F255C2E5D2B2426706F3D313326736E3D592673743D4D414E5F504152545F4E554D4245522677633D424F5448267573743D36313732392D31303131424C4626]]></link>
+				<note></note>
+			</bigDistributor>
+							
+		</sourceList>
+		
+<com>OPL</com>		
+		<oplList>
+			<oplSystem>
+				<oplScheme>Octopart CPL</oplScheme>
+				<oplCode>C-OCTO</oplCode>
+				<oplName>USB B Female connector</oplName>
+				<oplID>USB B Female connector</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://octopart.com/common-parts-library#Connectors]]></oplLink>
+			</oplSystem>
+
+			<oplSystem>
+				<oplScheme>Oopen Organization Method for Parts</oplScheme>
+				<oplCode>C-OOMP</oplCode>
+				<oplName>Type B Through Hole USB Socket</oplName>
+				<oplID>USBS-TB-X-THTH-01</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/USBS-TB-X-THTH-01]]></oplLink>
+			</oplSystem>
+
+		</oplList>
+
+<com>Hidden</com>
+        <oompAbout></oompAbout>
+        <ooProjectName1></ooProjectName1>
+        <ooProjectDesc1></ooProjectDesc1>
+        <ooProjectLink1></ooProjectLink1>
+        <ooProjectType1></ooProjectType1>
+        <ooBuyName1></ooBuyName1>
+        <ooBuyDesc1></ooBuyDesc1>
+        <ooBuyLink1></ooBuyLink1>
+        <ooBuyType1></ooBuyType1>
+    </oompPart>
+</xml>

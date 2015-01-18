@@ -4,8 +4,8 @@
 
 <com>OOMP Base</com>
         <oompID>ICIC-QFN32-X-K16U2-01</oompID>
-        <name> 32 Pin SMD (QFN) AtMega16U2 </name>
-        <hexID>EEEE</hexID>
+        <name>32 Pin SMD (QFN) ATMega16U2</name>
+        <hexID>ICSQ16U2</hexID>
         <oompSort>ATMEGA 16U2</oompSort>
         <oompType>ICIC</oompType>
         <oompSize>QFN32</oompSize>
@@ -19,16 +19,16 @@
 
 <com>Size</com>
         <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
+        <ooWidth>5 mm</ooWidth>
+        <ooHeight>0.9 mm</ooHeight>
         <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
+        <ooLength>5 mm</ooLength>
         <ooDepth></ooDepth>
         <ooWireSize></ooWireSize>
 
 <com>Description</com>
         <ooMaterial></ooMaterial>
-        <ooNumPins></ooNumPins>
+        <ooNumPins>32</ooNumPins>
         <ooTerminalStyle></ooTerminalStyle>
         <ooPowerRating></ooPowerRating>
 
@@ -63,34 +63,52 @@
 <com>Source List</com>		
 		<sourceList>
 			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
+				<company>Atmel</company>
+				<companyCode>C-ATME</companyCode>
 				<name></name>
-				<partID></partID>
+				<partID>ATMEGA16U2-MU</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
 				
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
+				<company>DigiKey</company>
+				<companyCode>C-DIGK</companyCode>
+				<name>IC MCU 8BIT 16KB FLASH 32QFN</name>
+				<partID>ATMEGA16U2-MU-ND</partID>
+				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/ATMEGA16U2-MU/ATMEGA16U2-MU-ND/2050821]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>
+			<bigDistributor>
+				<company>Mouser</company>
+				<companyCode>C-MOUS</companyCode>
+				<name>8-bit Microcontrollers - MCU AVR USB 8K FLASH AVR USB 16K FLASH</name>
+				<partID>556-ATMEGA16U2-MU</partID>
+				<link><![CDATA[http://uk.mouser.com/ProductDetail/Atmel/ATMEGA16U2-MU/?qs=sGAEpiMZZMvqv2n3s2xjsYzXfq0AWv1CPzAhpc7LPFc%3d]]></link>
+				<note></note>
+			</bigDistributor>
+					
 		</sourceList>
 		
 <com>OPL</com>		
 		<oplList>
 			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
+				<oplScheme>Circuithub.com</oplScheme>
+				<oplCode>C-CIRC</oplCode>
+				<oplName>ATMEL/ATMEGA16U2-MU</oplName>
+				<oplID>ATMEL/ATMEGA16U2-MU</oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
-				<oplLink><![CDATA[]]></oplLink>
+				<oplLink><![CDATA[https://circuithub.com/parts/ATMEL/ATMEGA16U2-MU]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme>Oopen Organization Method for Parts</oplScheme>
+				<oplCode>C-OOMP</oplCode>
+				<oplName>32 Pin SMD (QFN) AtMega16U2</oplName>
+				<oplID>ICIC-QFN32-X-K16U2-01</oplID>
+				<oplFootprint>QFN32</oplFootprint>
+				<oplPackage>QFN32</oplPackage>
+				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/ICIC-QFN32-X-K16U2-01]]></oplLink>
 			</oplSystem>
 		</oplList>
 

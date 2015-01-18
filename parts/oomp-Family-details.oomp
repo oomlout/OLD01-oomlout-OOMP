@@ -12,6 +12,17 @@
 		<familyAbout></familyAbout>
 	</oompFamily>
 	<oompFamily>
+		<familyName>SMD (0603) Varistor</familyName>
+		<familyType>VARI</familyType>
+		<familySize>0603</familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>V63</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>V63##</familyHexNameSpaceDisplay>
+		<familyAbout></familyAbout>
+	</oompFamily>
+	<oompFamily>
 		<familyName>SMD (0603) Resistor</familyName>
 		<familyType>RESE</familyType>
 		<familySize>0603</familySize>
@@ -31,6 +42,17 @@
 		<familyIndex>VC</familyIndex>	
 		<familyHexNameSpace>BA</familyHexNameSpace>
 		<familyHexNameSpaceDisplay>BA###</familyHexNameSpaceDisplay>	
+		<familyAbout></familyAbout>
+	</oompFamily>
+	<oompFamily>
+		<familyName>SMD Capacitor (Electrolytic) 25 v</familyName>
+		<familyType>CAPE</familyType>
+		<familySize></familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>VA</familyIndex>	
+		<familyHexNameSpace>CSVA</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>CESVA###</familyHexNameSpaceDisplay>	
 		<familyAbout></familyAbout>
 	</oompFamily>
 	<oompFamily>
@@ -142,6 +164,17 @@
 		<familyAbout></familyAbout>
 	</oompFamily>			
 	<oompFamily>
+		<familyName>SMD (1206-3) Ceramic Resonator</familyName>
+		<familyType>CERE</familyType>
+		<familySize>1263</familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>CR163</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>CR163##</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
+	</oompFamily>			
+	<oompFamily>
 		<familyName>DIP IC Socket</familyName>
 		<familyType>ICSO</familyType>
 		<familySize></familySize>
@@ -151,18 +184,53 @@
 		<familyHexNameSpace>E9</familyHexNameSpace>
 		<familyHexNameSpaceDisplay>E9##</familyHexNameSpaceDisplay>		
 		<familyAbout></familyAbout>
+	</oompFamily>			
+	<oompFamily>
+		<familyName>SMD Voltage Requlator</familyName>
+		<familyType>VREG</familyType>
+		<familySize></familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>VS</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>VS####</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
 	</oompFamily>		
 	<oompFamily>
 		<familyName>Through Hole IC</familyName>
 		<familyType>ICIC</familyType>
-		<familySize></familySize>
+		<familySize>TH</familySize>
 		<familyColor>X</familyColor>
-		<familyDesc>X</familyDesc>
+		<familyDesc></familyDesc>
 		<familyIndex>01</familyIndex>	
 		<familyHexNameSpace>EA</familyHexNameSpace>
 		<familyHexNameSpaceDisplay>EA##</familyHexNameSpaceDisplay>		
 		<familyAbout></familyAbout>
 	</oompFamily>		
+	<oompFamily>
+		<familyName>SMD IC</familyName>
+		<familyType>ICIC</familyType>
+		<familySize>SMD</familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>ICS</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>ICS####</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
+	</oompFamily>	
+	<oompFamily>
+		<familyName>SMD (1206) Diode</familyName>
+		<familyType>DIOD</familyType>
+		<familySize>1206</familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>D12</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>D12##</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
+	</oompFamily>	
+	
+	
 	<!-- SKIP EE RESERVED FOR 3 Digit Followed by 1 -->
 	
 	
@@ -177,6 +245,27 @@
 		<familyHexNameSpace>EE1</familyHexNameSpace>
 		<familyHexNameSpaceDisplay>EE1#</familyHexNameSpaceDisplay>		
 		<familyAbout>These ribbon cables on their own aren't very handy but when paired with the right crimp housing (CRHO-I01) become the answer to all your board connecting woes. The pre-crimped ends slide easily into a crimp housing making constructing custom cables a cinch, and the rainbow nature means it's easy to make your project colorful. While they are great, being un-keyed means plugging the constructed cable in backwards is possible, and with a 2.54 mm spacing quite a bit of real estate is used for multi-wire connections.</familyAbout>
+	</oompFamily>		
+	<oompFamily>
+		<familyName>Op Amps</familyName>
+		<familyType>OPAM</familyType>
+		<familySize></familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>OA</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>OA###</familyHexNameSpaceDisplay>		
+	</oompFamily>	
+<oompFamily>
+		<familyName>Through Hole USB Socket</familyName>
+		<familyType>USBS</familyType>
+		<familySize></familySize>
+		<familyColor>X</familyColor>
+		<familyDesc>THTH</familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>UT</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>UT#</familyHexNameSpaceDisplay>		
+		<familyAbout>Through hole USB sockets, for oproviding USB connectivity to your circuit.</familyAbout>
 	</oompFamily>	
 
 	<oompFamily>

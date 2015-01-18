@@ -5,30 +5,30 @@
 <com>OOMP Base</com>
         <oompID>LEDS-0805-G-STAN-01</oompID>
         <name> SMD (0805) Green LED </name>
-        <hexID>EEEE</hexID>
-        <oompSort>4</oompSort>
+        <hexID>L854</hexID>
+        <oompSort>04</oompSort>
         <oompType>LEDS</oompType>
         <oompSize>0805</oompSize>
         <oompColor>G</oompColor>
         <oompDesc>STAN</oompDesc>
         <oompIndex>01</oompIndex>
         <oompOwner></oompOwner>
-        <oompVersion></oompVersion>
+        <oompVersion>99</oompVersion>
 
 		<oompSkip>true</oompSkip>
 
 <com>Size</com>
         <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
+        <ooWidth>2 mm</ooWidth>
+        <ooHeight>0.8 mm</ooHeight>
         <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
+        <ooLength>1.25 mm</ooLength>
         <ooDepth></ooDepth>
         <ooWireSize></ooWireSize>
 
 <com>Description</com>
         <ooMaterial></ooMaterial>
-        <ooNumPins></ooNumPins>
+        <ooNumPins>2</ooNumPins>
         <ooTerminalStyle></ooTerminalStyle>
         <ooPowerRating></ooPowerRating>
 
@@ -47,8 +47,8 @@
 
 <com>LED</com>
         <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
+        <ooForwardVoltage>2.4 v</ooForwardVoltage>
+        <ooForwardCurrent>25 mA</ooForwardCurrent>
         <ooIntensity></ooIntensity>
         <ooPowerAngle></ooPowerAngle>
         <ooWavelength></ooWavelength>
@@ -63,34 +63,121 @@
 <com>Source List</com>		
 		<sourceList>
 			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
+				<company>Everlight</company>
+				<companyCode>C-EVER</companyCode>
 				<name></name>
-				<partID></partID>
+				<partID>17-215SYGC/S530-E2/TR8</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+				
+			<manufacturer>
+				<company>Avago</company>
+				<companyCode>C-AVAG</companyCode>
+				<name></name>
+				<partID>HSMG-C170</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>	
+			<manufacturer>
+				<company>Kingbright</company>
+				<companyCode>C-KING</companyCode>
+				<name></name>
+				<partID>KP-2012SGT</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company>TruOpto</company>
+				<companyCode>C-TRUO</companyCode>
+				<name></name>
+				<partID>KP-2012SGT</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
 				
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
+				<company>DigiKey</company>
+				<companyCode>C-DIGK</companyCode>
+				<name>LED 570NM GREEN DIFF 0805 SMD	</name>
+				<partID>516-1434-1-ND</partID>
+				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/HSMG-C170/516-1434-1-ND/637758]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>
+
+			<bigDistributor>
+				<company>Farnell</company>
+				<companyCode>C-FARN</companyCode>
+				<name>AVAGO TECHNOLOGIES  HSMG-C170  LED, GREEN, 1.25MM X 1.4MM, 15MCD, 527NM</name>
+				<partID>5790852</partID>
+				<link><![CDATA[http://uk.farnell.com/avago-technologies/hsmg-c170/led-green-1-25mm-x-1-4mm-15mcd/dp/5790852]]></link>
+				<note></note>
+			</bigDistributor>			
+			<bigDistributor>
+				<company>Mouser</company>
+				<companyCode>C-MOUS</companyCode>
+				<name>Standard LEDs - SMD Green Diffused 572nm 15mcd</name>
+				<partID>630-HSMG-C170</partID>
+				<link><![CDATA[http://uk.mouser.com/ProductDetail/Avago-Technologies/HSMG-C170/?qs=%2fha2pyFadui7GuUNwhHOtxOwms9WbCS22xPYZi6eFLk%3d]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>Rapid Electronics</company>
+				<companyCode>C-RAPI</companyCode>
+				<name>0805 2v Green LED Surface Mount 50mcd</name>
+				<partID>56-3116</partID>
+				<link><![CDATA[http://www.rapidonline.com/electronic-components/0805-2v-green-led-surface-mount-50mcd-56-3116]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>RS</company>
+				<companyCode>C-RSRS</companyCode>
+				<name>Avago 0805 Green LED, 15 mcd 170 °</name>
+				<partID>435-6767</partID>
+				<link><![CDATA[http://uk.rs-online.com/web/p/visible-leds/4356767/?searchTerm=HSMG-C170&relevancy-data=636F3D3226696E3D4931384E4B6E6F776E41734D504E266C753D656E266D6D3D6D61746368616C6C7061727469616C26706D3D5E5B5C707B4C7D5C707B4E647D2D2C2F255C2E5D2B2426706F3D313326736E3D592673743D4D414E5F504152545F4E554D4245522677633D424F5448267573743D48534D472D4331373026]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>SEEED Studio</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>SMD LED Clear-Green</name>
+				<partID>304090057</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=259]]></link>
+				<note></note>
+			</bigDistributor>			
 		</sourceList>
+		
 		
 <com>OPL</com>		
 		<oplList>
 			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[]]></oplLink>
+				<oplScheme>Circuithub.com</oplScheme>
+				<oplCode>C-CIRC</oplCode>
+				<oplName>LED 570NM GREEN DIFF 0805 SMD</oplName>
+				<oplID>AVAGO/HSMG-C170</oplID>
+				<oplFootprint>0805</oplFootprint>
+				<oplPackage>0805</oplPackage>
+				<oplLink><![CDATA[https://circuithub.com/parts/AVAGO/HSMG-C170]]></oplLink>
+			</oplSystem>
+
+			<oplSystem>
+				<oplScheme>Oopen Organization Method for Parts</oplScheme>
+				<oplCode>C-OOMP</oplCode>
+				<oplName>SMD (0805) Green LED</oplName>
+				<oplID>LEDS-0805-G-STAN-01</oplID>
+				<oplFootprint>0805</oplFootprint>
+				<oplPackage>0805</oplPackage>
+				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/LEDS-0805-G-STAN-01]]></oplLink>
+			</oplSystem>
+			
+			<oplSystem>
+				<oplScheme>Seeed Studio OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>MD LED Clear-Green</oplName>
+				<oplID>304090057</oplID>
+				<oplFootprint>0805</oplFootprint>
+				<oplPackage>0805</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Diode]]></oplLink>
 			</oplSystem>
 		</oplList>
 

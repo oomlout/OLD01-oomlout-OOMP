@@ -1,15 +1,12 @@
 ;######  New Item Process Notes  ######
 ;######################################
 
+;###### START
+	Open Folder
+	C:\GH\oomlout-OOMP
+
 ;###### Image
 	;NOTES IN OOMP-photos.txt
-
-;###### Distributors
-	Search octopart
-https://octopart.com/
-	Search Farnell
-http://uk.farnell.com/
-
 
 ;###### OOMP Details
 
@@ -18,11 +15,10 @@ http://uk.farnell.com/
 
 	2. Set sort order
 	
-;###### Datasheet
-	Save as -datasheet
 
 ;###### OPL
 
+System Names etc.
 C:\GH\oomlout-OOMP\parts\oomp-OPL-details.oomp
 
 SEEED
@@ -85,7 +81,10 @@ http://parts.io/
 
 
 ------------------------------------	
-	
+;###### Datasheet
+	Save as -datasheet
+	Save basic one as -datasheet, also save manufacturer ones -datasheet-CODE
+
 	
 	
 ;###### Manufacturers
@@ -105,6 +104,12 @@ C:\GH\oomlout-OOMP\parts\oomp-Company-details.oomp
 ----------------------------------			
 
 ;###### Distributor
+	Search octopart
+https://octopart.com/
+	Search Farnell
+http://uk.farnell.com/
+
+
 C:\GH\oomlout-OOMP\parts\oomp-Distributor-details.oomp
 http://192.168.1.210/?cmd=GP&p1=SS&p2=&p3=&p4=
 
@@ -191,7 +196,11 @@ http://192.168.1.210/?cmd=GP&p1=SS&p2=&p3=&p4=
 				<link><![CDATA[]]></link>
 				<note></note>
 			</bigDistributor>
-			
+
+;###### Specification
+
+	Open Datasheet
+	Go through specs	
 			
 ;###### Diagram
 	Breadboard template
@@ -206,11 +215,9 @@ http://192.168.1.210/?cmd=GP&p1=SS&p2=&p3=&p4=
 	Save as
 	-schem.cdr
 	
-;###### Specification
 
-	Open Datasheet
 	
-	Go through specs
+	
 	
 
 

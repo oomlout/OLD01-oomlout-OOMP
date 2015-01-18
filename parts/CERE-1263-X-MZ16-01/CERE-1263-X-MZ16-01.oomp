@@ -3,14 +3,14 @@
         <index>9876</index>
 
 <com>OOMP Base</com>
-        <oompID>OPAM-MS08-X-KLMV358-01</oompID>
-        <name>8 Pin SMD (MSOP) LMV358 Op Amp</name>
-        <hexID>OAM358</hexID>
-        <oompSort>LMV358</oompSort>
-        <oompType>OPAM</oompType>
-        <oompSize>MS08</oompSize>
+        <oompID>CERE-1263-X-MZ16-01</oompID>
+        <name>SMD (1206-3) 16 MHz Ceramic Resonator</name>
+        <hexID>CR16316</hexID>
+        <oompSort>16</oompSort>
+        <oompType>CERE</oompType>
+        <oompSize>1263</oompSize>
         <oompColor>X</oompColor>
-        <oompDesc>KLMV358</oompDesc>
+        <oompDesc>MZ16</oompDesc>
         <oompIndex>01</oompIndex>
         <oompOwner></oompOwner>
         <oompVersion></oompVersion>
@@ -19,16 +19,16 @@
 
 <com>Size</com>
         <ooPitch></ooPitch>
-        <ooWidth>3 mm</ooWidth>
-        <ooHeight>1.1 mm</ooHeight>
+        <ooWidth>3.2 mm</ooWidth>
+        <ooHeight>0.9 mm</ooHeight>
         <ooDiameter></ooDiameter>
-        <ooLength>4.9 mm</ooLength>
+        <ooLength>1.3 mm</ooLength>
         <ooDepth></ooDepth>
         <ooWireSize></ooWireSize>
 
 <com>Description</com>
         <ooMaterial></ooMaterial>
-        <ooNumPins>8</ooNumPins>
+        <ooNumPins>3</ooNumPins>
         <ooTerminalStyle></ooTerminalStyle>
         <ooPowerRating></ooPowerRating>
 
@@ -63,10 +63,10 @@
 <com>Source List</com>		
 		<sourceList>
 			<manufacturer>
-				<company>Texas Instruments</company>
-				<companyCode>C-TITI</companyCode>
+				<company>Murata</company>
+				<companyCode>C-MURA</companyCode>
 				<name></name>
-				<partID>LMV358IDGKR</partID>
+				<partID>CSTCE16M0V53-R0</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -74,34 +74,34 @@
 			<bigDistributor>
 				<company>DigiKey</company>
 				<companyCode>C-DIGK</companyCode>
-				<name>IC OPAMP GP 1MHZ RRO 8VSSOP</name>
-				<partID>296-13455-1-ND</partID>
-				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/LMV358IDGKR/296-13455-1-ND/486370]]></link>
+				<name>CER RESONATOR 16.0MHZ SMD</name>
+				<partID>490-1198-1-ND/partID>
+				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/CSTCE16M0V53-R0/490-1198-1-ND/584635]]></link>
 				<note></note>
 			</bigDistributor>
 
 			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
-				<name>TEXAS INSTRUMENTS  LMV358IDGKR  OP AMP, LOW VOLTAGE, 1MHZ, 1V/US, MSOP-8</name>
-				<partID>2323295</partID>
-				<link><![CDATA[http://uk.farnell.com/texas-instruments/lmv358idgkr/op-amp-low-voltage-1mhz-1v-us/dp/2323295]]></link>
+				<name>MURATA  CSTCE16M0V53-R0  RESONATOR, CERAMIC, 16MHZ, SMD</name>
+				<partID>2443265</partID>
+				<link><![CDATA[http://uk.farnell.com/murata/cstce16m0v53-r0/resonator-ceramic-16mhz-smd/dp/2443265]]></link>
 				<note></note>
 			</bigDistributor>			
 			<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
-				<name>Operational Amplifiers - Op Amps Dual Lw V R/R Op Amp</name>
-				<partID>595-LMV358IDGKR</partID>
-				<link><![CDATA[http://uk.mouser.com/ProductDetail/Texas-Instruments/LMV358IDGKR/?qs=sGAEpiMZZMtCHixnSjNA6NVXWo9AXLOec5esRWE0zS8%3d]]></link>
+				<name>Resonators 16MHZ .5% CHIP</name>
+				<partID>81-CSTCE16M0V53-R0</partID>
+				<link><![CDATA[http://uk.mouser.com/ProductDetail/Murata/CSTCE16M0V53-R0/?qs=%2fha2pyFaduhhXjHR0Z3WgVvZP5Z9PaySiX%2f9%2fizYDMG1BrpSTX4aLw%3d%3d]]></link>
 				<note></note>
 			</bigDistributor>
 			<bigDistributor>
 				<company>RS</company>
 				<companyCode>C-RSRS</companyCode>
-				<name>LMV358IDGKR, Dual Operational Amplifier 1MHz CMOS, Rail-Rail, 3 V, 5 V, 8-Pin MSOP, VSSOP</name>
-				<partID>660-6727</partID>
-				<link><![CDATA[http://uk.rs-online.com/web/p/operational-amplifiers/6606727/?searchTerm=LMV358IDGKR&relevancy-data=636F3D3226696E3D4931384E4B6E6F776E41734D504E266C753D656E266D6D3D6D61746368616C6C7061727469616C26706D3D5E5B5C707B4C7D5C707B4E647D2D2C2F255C2E5D2B2426706F3D313326736E3D592673743D4D414E5F504152545F4E554D4245522677633D424F5448267573743D4C4D563335384944474B5226]]></link>
+				<name>CSTCE16M0V53-R0, Ceramic Resonator, 16MHz Expander 15pF, 3-Pin SMT, 3.2 x 1.3 x 0.9mm</name>
+				<partID>792-6524</partID>
+				<link><![CDATA[http://uk.rs-online.com/web/p/ceramic-resonators/7926524/]]></link>
 				<note></note>
 			</bigDistributor>				
 		</sourceList>
@@ -111,21 +111,33 @@
 			<oplSystem>
 				<oplScheme>Circuithub.com</oplScheme>
 				<oplCode>C-CIRC</oplCode>
-				<oplName>TI/LMV358IDGKR</oplName>
-				<oplID>TI/LMV358IDGKR</oplID>
+				<oplName>MURATA/CSTCE16M0V53-R0</oplName>
+				<oplID>MURATA/CSTCE16M0V53-R0</oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
-				<oplLink><![CDATA[https://circuithub.com/parts/TI/LMV358IDGKR]]></oplLink>
-			</oplSystem>		
+				<oplLink><![CDATA[https://circuithub.com/parts/MURATA/CSTCE16M0V53-R0]]></oplLink>
+			</oplSystem>
+
+			<oplSystem>
+				<oplScheme>Octopart CPL</oplScheme>
+				<oplCode>C-OCTO</oplCode>
+				<oplName>16 MHz Ceramic Resonator</oplName>
+				<oplID>16 MHz Ceramic Resonator</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://octopart.com/common-parts-library#CrystalOscillators]]></oplLink>
+			</oplSystem>
+
 			<oplSystem>
 				<oplScheme>Oopen Organization Method for Parts</oplScheme>
 				<oplCode>C-OOMP</oplCode>
-				<oplName>8 Pin SMD (MSOP) LMV358 Op Amp</oplName>
-				<oplID>OPAM-MS08-X-KLMV358-01</oplID>
-				<oplFootprint>MS08</oplFootprint>
-				<oplPackage>MS08</oplPackage>
-				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/OPAM-MS08-X-KLMV358-01]]></oplLink>
+				<oplName>SMD (1206-3) 16 MHz Ceramic Resonator</oplName>
+				<oplID>CERE-1263-X-MZ16-01</oplID>
+				<oplFootprint>1263</oplFootprint>
+				<oplPackage>1263</oplPackage>
+				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/CERE-1263-X-MZ16-01]]></oplLink>
 			</oplSystem>
+			
 		</oplList>
 
 <com>Hidden</com>
