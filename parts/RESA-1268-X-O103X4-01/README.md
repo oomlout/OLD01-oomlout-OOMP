@@ -6,11 +6,11 @@ Name: __SMD (1206-8) 10k Ohm (x4) Resistor Array__
 
 ID: __RESA-1268-X-O103X4-01__
 
-Hex ID: __1013__
+Hex ID: __RA1103__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESA-1268-X-O103X4-01__
 
-Short URL: __http://oom.lt/1013__
+Short URL: __http://oom.lt/RA1103__
 
 
 |Type   |Size   |Color   |Description   |Index   |

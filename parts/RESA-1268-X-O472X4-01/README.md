@@ -6,11 +6,11 @@ Name: __SMD (1206-8) 4.7k Ohm (x4) Resistor Array__
 
 ID: __RESA-1268-X-O472X4-01__
 
-Hex ID: __1014__
+Hex ID: __RA1472__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESA-1268-X-O472X4-01__
 
-Short URL: __http://oom.lt/1014__
+Short URL: __http://oom.lt/RA1472__
 
 
 |Type   |Size   |Color   |Description   |Index   |

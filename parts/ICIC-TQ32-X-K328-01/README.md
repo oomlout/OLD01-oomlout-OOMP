@@ -14,7 +14,7 @@ Short URL: __http://oom.lt/10E6__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-| __ICIC__ <br>  | __TQ32__<br>32 Pin SMD (TQFP)   |__X__<br>    |__K328__<br>AtMega328P    | __01__<br>  |
+| __ICIC__ <br>  | __TQ32__<br>   |__X__<br>    |__K328__<br>AtMega328P    | __01__<br>  |
 
 
 ## Images
