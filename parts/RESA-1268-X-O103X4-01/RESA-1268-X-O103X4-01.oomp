@@ -26,7 +26,8 @@
         <ooDepth></ooDepth>
         <ooWireSize></ooWireSize>
 
-
+<com>SMD</com>
+		<ooPackageMarking>103</ooPackageMarking>
 <!--Manufacturer -->
         <ooManufacturer></ooManufacturer>
         <ooManufacturerPartNumber></ooManufacturerPartNumber>
@@ -94,7 +95,7 @@
         <ooNameLine2of3></ooNameLine2of3>
         <ooNameLine3of3></ooNameLine3of3>
         <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout></oompAbout>
+        <oompAbout>This is a small (1206 size) component that houses 4 10k Ohm resistors. Great for saving space on a project.</oompAbout>
         <ooProjectName1></ooProjectName1>
         <ooProjectDesc1></ooProjectDesc1>
         <ooProjectLink1></ooProjectLink1>
@@ -106,47 +107,106 @@
         <ooSEEED3dModel></ooSEEED3dModel>
 
 
-<!-- -->
 
-    		<sourceList>
+<com>Source List</com>		
+		<sourceList>
 			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
+				<company>Bourns</company>
+				<companyCode>C-BOUR</companyCode>
 				<name></name>
-				<partID></partID>
+				<partID>CAT16-103J4LF</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
+			
 				
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
+				<company>DigiKey</company>
+				<companyCode>C-DIGK</companyCode>
+				<name>RES ARRAY 10K OHM 4 RES 1206</name>
+				<partID>CAT16-103J4LFCT-ND</partID>
+				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/CAT16-103J4LF/CAT16-103J4LFCT-ND/3593010]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>
+
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
+				<company>Farnell</company>
+				<companyCode>C-FARN</companyCode>
+				<name>BOURNS  CAT16-103J4LF  RESISTOR, ARRAY-4, 10K, 1206, 5%, SMD</name>
+				<partID>1770124</partID>
+				<link><![CDATA[http://uk.farnell.com/bourns/cat16-103j4lf/resistor-array-4-10k-1206-5-smd/dp/1770124]]></link>
+				<note></note>
+			</bigDistributor>			
+			<bigDistributor>
+				<company>Mouser</company>
+				<companyCode>C-MOUS</companyCode>
+				<name><![CDATA[Resistor Networks & Arrays 10K 5% Concave 4resistors]]></name>
+				<partID>652-CAT16-103J4LF</partID>
+				<link><![CDATA[http://uk.mouser.com/ProductDetail/Bourns/CAT16-103J4LF/?qs=%2fha2pyFaduhddnF22g7LIYvPPRKLfhTgXMKR7i%252byA8fJG76UiiJSJA%3d%3d]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>RS</company>
+				<companyCode>C-RSRS</companyCode>
+				<name>Bourns CAT16 Series 10kΩ ±5% Isolated SMT Resistor Array, 4 Resistors, 0.25W total 1206 Package</name>
+				<partID>522-5412</partID>
+				<link><![CDATA[http://uk.rs-online.com/web/p/array-resistors/5225412/?searchTerm=CAT16-103J4LF&relevancy-data=636F3D3226696E3D4931384E4B6E6F776E41734D504E266C753D656E266D6D3D6D61746368616C6C7061727469616C26706D3D5E5B5C707B4C7D5C707B4E647D2D2C2F255C2E5D2B2426706F3D313326736E3D592673743D4D414E5F504152545F4E554D4245522677633D424F5448267573743D43415431362D3130334A344C4626]]></link>
 				<note></note>
 			</bigDistributor>					
 		</sourceList>
+		
+<com>OPL</com>		
 		<oplList>
 			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
+				<oplScheme>Circuithub.com</oplScheme>
+				<oplCode>C-CIRC</oplCode>
+				<oplName>BOURNS/CAT16-103J4LF</oplName>
+				<oplID>BOURNS/CAT16-103J4LF</oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
-				<oplLink><![CDATA[ ]]></oplLink>
+				<oplLink><![CDATA[https://circuithub.com/parts/BOURNS/CAT16-103J4LF]]></oplLink>
 			</oplSystem>
+			<oplSystem>
+				<oplScheme>Octopart CPL</oplScheme>
+				<oplCode>C-OCTO</oplCode>
+				<oplName>Resistor Array 103 Ohm 1206 62 mW x4</oplName>
+				<oplID>Resistor Array 103 Ohm 1206 62 mW x4</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://octopart.com/common-parts-library#ResistorArrays]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme>Oopen Organization Method for Parts</oplScheme>
+				<oplCode>C-OOMP</oplCode>
+				<oplName>SMD (1206-8) 10k Ohm Resistor Array</oplName>
+				<oplID>RESA-1268-X-O103X4-01</oplID>
+				<oplFootprint>1268</oplFootprint>
+				<oplPackage>1206-8</oplPackage>
+				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESA-1268-X-O103X4-01]]></oplLink>
+			</oplSystem>	
+			<oplSystem>
+				<oplScheme>Seeed Studio OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD RES ARRAY 10K OHM 4 RES 1206</oplName>
+				<oplID>0040070P1</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[]]></oplLink>
+			</oplSystem>			
 		</oplList>
 
+
+	<COM>Common Uses</COM>		
+		<usageList>
+			<useItem>
+				<useID>1</useID>
+				<importance>1</importance>
+				<useTitle>Pullup Resistor</useTitle>
+				<useDescription>Used to hold a digital pin high. When you need more than one and would like to save space.</useDescription>
+			</useItem>
+		</usageList>
+
+		
 
 </oompPart>
 </xml>

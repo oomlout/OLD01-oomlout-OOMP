@@ -21,6 +21,10 @@ OOMP-generateResource.bat
 	1.Family
 	C:\GH\oomlout-OOMP\parts\oomp-Family-details.oomp
 
+	1A. Hex ID
+		SOT23-5 VSS533 (S5)
+		SOT-223 VSS305 (S3)	
+	
 	2. Set sort order
 	
 	3. Quick About
@@ -229,7 +233,7 @@ http://192.168.1.210/?cmd=GP&p1=SS&p2=&p3=&p4=
 			SMD
 			Package Marking
 <com>SMD</com>
-		<ooPackageMarking></ooPackageMarking>>
+		<ooPackageMarking></ooPackageMarking>
 			
 ;###### Diagram
 	Breadboard template

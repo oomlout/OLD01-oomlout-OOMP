@@ -6,7 +6,7 @@
 <!--OOMP Base -->
         <oompID>XTAL-TH-X-MZ16-01</oompID>
         <name>16 MHz Crystal</name>
-        <hexID>E816</hexID>
+        <hexID>XT16</hexID>
         <oompSort>16000000</oompSort>
         <oompType>XTAL</oompType>
         <oompSize>TH</oompSize>
@@ -26,7 +26,8 @@
         <ooDepth></ooDepth>
         <ooWireSize></ooWireSize>
 
-
+<com>SMD</com>
+		<ooPackageMarking>16.000</ooPackageMarking>
 
 
 <!--Description -->
@@ -87,7 +88,7 @@
         <ooNameLine2of3></ooNameLine2of3>
         <ooNameLine3of3></ooNameLine3of3>
         <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout></oompAbout>
+        <oompAbout>A 16MHz Crystal, in a commonly used through hole size.</oompAbout>
         <ooProjectName1></ooProjectName1>
         <ooProjectDesc1></ooProjectDesc1>
         <ooProjectLink1></ooProjectLink1>
@@ -125,6 +126,22 @@
 				<partID>FOXSLF/160-20</partID>
 				<link></link>
 				<note></note>			
+			</manufacturer>	
+			<manufacturer>
+				<company>CTS Components</company>
+				<companyCode>C-CTSC</companyCode>
+				<name></name>
+				<partID>FOXSLF/160-20</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>		
+			<manufacturer>
+				<company>Xinhunjing</company>
+				<companyCode>C-XINH</companyCode>
+				<name></name>
+				<partID>49S/18PF</partID>
+				<link></link>
+				<note></note>			
 			</manufacturer>			
 				
 			<bigDistributor>
@@ -150,20 +167,56 @@
 				<partID>547-6294</partID>
 				<link><![CDATA[http://uk.rs-online.com/web/p/crystal-units/5476294/?searchTerm=5476294&relevancy-data=636F3D3126696E3D4931384E525353746F636B4E756D6265724D504E266C753D656E266D6D3D6D61746368616C6C26706D3D5E5C647B367D247C5E5C647B377D247C5E5C647B31307D2426706F3D313426736E3D592673743D52535F53544F434B5F4E554D4245522677633D4E4F4E45267573743D3534373632393426]]></link>
 				<note></note>
-			</bigDistributor>				
+			</bigDistributor>	
+			<bigDistributor>
+				<company>SEEED Studio</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>DIP Crystal 16MHz-18pF-30ppm-50R;</name>
+				<partID>306010037</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=114]]></link>
+				<note></note>
+			</bigDistributor>			
 		</sourceList>
 		<oplList>
 			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
+				<oplScheme>Circuithub.com</oplScheme>
+				<oplCode>C-CIRC</oplCode>
+				<oplName>CTS/ATS16B</oplName>
+				<oplID>CTS/ATS16B</oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
-				<oplLink><![CDATA[ ]]></oplLink>
+				<oplLink><![CDATA[https://circuithub.com/parts/CTS/ATS16B]]></oplLink>
+			</oplSystem>
+
+			<oplSystem>
+				<oplScheme>Oopen Organization Method for Parts</oplScheme>
+				<oplCode>C-OOMP</oplCode>
+				<oplName>16 MHz Crystal</oplName>
+				<oplID>XTAL-TH-X-MZ16-01</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/XTAL-TH-X-MZ16-01]]></oplLink>
+			</oplSystem>
+			
+			<oplSystem>
+				<oplScheme>Seeed Studio OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>DIP Crystal 16MHz-18pF-30ppm-50R</oplName>
+				<oplID>306010037</oplID>
+				<oplFootprint>HC49/US</oplFootprint>
+				<oplPackage>HC49/US</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Crystal_Oscillator]]></oplLink>
 			</oplSystem>
 		</oplList>
-
+	<COM>Common Uses</COM>		
+		<usageList>
+			<useItem>
+				<useID>1</useID>
+				<importance>1</importance>
+				<useTitle>Clock for a Microcontroller</useTitle>
+				<useDescription>Used to provide a clock source to a microcontroller. Commonly used with Atmel 8bit microcontrollers operating at 5v.</useDescription>
+			</useItem>
+		</usageList>
 
 </oompPart>
 </xml>

@@ -4,25 +4,25 @@
         <index>4293</index>
 
 <!--OOMP Base -->
-        <oompID>HEAD-I01-X-2X3-01</oompID>
+        <oompID>HEAD-I01-X-2X03-01</oompID>
         <name>2.54 mm 6 Pole (2x3) Header</name>
-        <hexID>10EC</hexID>
-        <oompSort></oompSort>
+        <hexID>H2X03</hexID>
+        <oompSort>2X03</oompSort>
         <oompType>HEAD</oompType>
         <oompSize>I01</oompSize>
         <oompColor>X</oompColor>
-        <oompDesc>2X3</oompDesc>
+        <oompDesc>2X03</oompDesc>
         <oompIndex>01</oompIndex>
         <oompOwner></oompOwner>
         <oompVersion>99</oompVersion>
 
 
 <!--Size -->
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
+        <ooPitch>2.54 mm</ooPitch>
+        <ooWidth>7.62 mm</ooWidth>
+        <ooHeight>11.8 mm</ooHeight>
         <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
+        <ooLength>5.08 mm</ooLength>
         <ooDepth></ooDepth>
         <ooWireSize></ooWireSize>
 
@@ -34,7 +34,7 @@
 
 <!--Description -->
         <ooMaterial></ooMaterial>
-        <ooNumPins></ooNumPins>
+        <ooNumPins>6</ooNumPins>
         <ooTerminalStyle></ooTerminalStyle>
         <ooPowerRating></ooPowerRating>
 
@@ -94,7 +94,7 @@
         <ooNameLine2of3></ooNameLine2of3>
         <ooNameLine3of3></ooNameLine3of3>
         <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout></oompAbout>
+        <oompAbout>This 2.54 mm 2x3 pin header is quite common.</oompAbout>
         <ooProjectName1></ooProjectName1>
         <ooProjectDesc1></ooProjectDesc1>
         <ooProjectLink1></ooProjectLink1>
@@ -110,43 +110,114 @@
 
     		<sourceList>
 			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
+				<company>Yxcon</company>
+				<companyCode>C-YXCO</companyCode>
 				<name></name>
-				<partID></partID>
+				<partID>P125-12A1BS116A1</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company>FCI</company>
+				<companyCode>C-FCII</companyCode>
+				<name></name>
+				<partID>67996-106HLF</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company>Areva</company>
+				<companyCode>C-AREV</companyCode>
+				<name></name>
+				<partID>67996-406HLF</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company>TruConnect</company>
+				<companyCode>C-TRUC</companyCode>
+				<name></name>
+				<partID>22-0550</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
 				
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
+				<company>DigiKey</company>
+				<companyCode>C-DIGK</companyCode>
+				<name>CONN HEADER 6POS .100 STR 30AU</name>
+				<partID>609-3202-ND</partID>
+				<link><![CDATA[http://www.digikey.com/product-search/en?vendor=0&keywords=609-3202-ND]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>
+
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
+				<company>Farnell</company>
+				<companyCode>C-FARN</companyCode>
+				<name>FCI  67996-406HLF  BOARD-BOARD CONNECTOR HEADER, 6WAY, 2ROW</name>
+				<partID>1824424</partID>
+				<link><![CDATA[http://uk.farnell.com/fci/67996-406hlf/board-board-connector-header-6way/dp/1824424?ost=67996-406HLF&categoryId=700000005016]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>			
+			<bigDistributor>
+				<company>Mouser</company>
+				<companyCode>C-MOUS</companyCode>
+				<name>Headers & Wire Housings BERGSTIK HDR</name>
+				<partID>649-67996-106HLF</partID>
+				<link><![CDATA[http://uk.mouser.com/ProductDetail/FCI/67996-106HLF/?qs=sGAEpiMZZMs%252bGHln7q6pm24n0txessAM1%252b7mqcKsJIM%3d]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>Rapid Electronics</company>
+				<companyCode>C-RAPI</companyCode>
+				<name>3+3 Way Double Row Header Plug</name>
+				<partID>22-0550</partID>
+				<link><![CDATA[http://www.rapidonline.com/Cables-Connectors/Double-Row-PCB-Header-Plug-2-54mm-Pitch-28945]]></link>
+				<note></note>
+			</bigDistributor>
+							
 		</sourceList>
 		<oplList>
 			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
+				<oplScheme>Circuithub.com</oplScheme>
+				<oplCode>C-CIRC</oplCode>
+				<oplName>AREVA/67996-406HLF</oplName>
+				<oplID>AREVA/67996-406HLF</oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
-				<oplLink><![CDATA[ ]]></oplLink>
+				<oplLink><![CDATA[https://circuithub.com/parts/AREVA/67996-406HLF]]></oplLink>
+			</oplSystem>
+
+			<oplSystem>
+				<oplScheme>Oopen Organization Method for Parts</oplScheme>
+				<oplCode>C-OOMP</oplCode>
+				<oplName>2.54 mm 6 Pole (2x3) Header</oplName>
+				<oplID>HEAD-I01-X-2X03-01</oplID>
+				<oplFootprint>I012X03</oplFootprint>
+				<oplPackage>I012X03</oplPackage>
+				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAD-I01-X-2X3-01]]></oplLink>
+			</oplSystem>
+			
+			<oplSystem>
+				<oplScheme>Seeed Studio OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>DIP Black Male Header</oplName>
+				<oplID>3460180P1</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Connector]]></oplLink>
 			</oplSystem>
 		</oplList>
 
+	<COM>Common Uses</COM>		
+		<usageList>
+			<useItem>
+				<useID>1</useID>
+				<importance>1</importance>
+				<useTitle>ICSP Header</useTitle>
+				<useDescription>Used to breakout a microcontrollers ICSP pins. This can then be used to program the chip in circuit.</useDescription>
+			</useItem>
+		</usageList>		
 
 </oompPart>
 </xml>

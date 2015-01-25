@@ -111,6 +111,17 @@
 		<familyHexNameSpace>BC</familyHexNameSpace>
 		<familyHexNameSpaceDisplay>BC###</familyHexNameSpaceDisplay>	
 		<familyAbout></familyAbout>
+	</oompFamily>		
+	<oompFamily>
+		<familyName>Resetable Fuse</familyName>
+		<familyType>REFU</familyType>
+		<familySize></familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>RF</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>RF###</familyHexNameSpaceDisplay>	
+		<familyAbout></familyAbout>
 	</oompFamily>	
 
 
@@ -205,8 +216,8 @@
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
 		<familyIndex>01</familyIndex>	
-		<familyHexNameSpace>E8</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>E8##</familyHexNameSpaceDisplay>		
+		<familyHexNameSpace>XT</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>XT##</familyHexNameSpaceDisplay>		
 		<familyAbout></familyAbout>
 	</oompFamily>			
 	<oompFamily>
@@ -255,14 +266,25 @@
 		<familyAbout></familyAbout>
 	</oompFamily>		
 	<oompFamily>
+		<familyName>DC Jacks</familyName>
+		<familyType>DCJP</familyType>
+		<familySize></familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>DJ</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>DJ##</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
+	</oompFamily>		
+	<oompFamily>
 		<familyName>Through Hole IC</familyName>
 		<familyType>ICIC</familyType>
 		<familySize>TH</familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
 		<familyIndex>01</familyIndex>	
-		<familyHexNameSpace>EA</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>EA##</familyHexNameSpaceDisplay>		
+		<familyHexNameSpace>IC</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>IC###</familyHexNameSpaceDisplay>		
 		<familyAbout></familyAbout>
 	</oompFamily>		
 	<oompFamily>

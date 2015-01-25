@@ -5,9 +5,9 @@
 
 <!--OOMP Base -->
         <oompID>ICIC-DI28-X-K328-01</oompID>
-        <name>28 Pin DIP AtMega328P </name>
-        <hexID>EA01</hexID>
-        <oompSort></oompSort>
+        <name>28 Pin DIP AtMega328P</name>
+        <hexID>IC328</hexID>
+        <oompSort>ATMega328</oompSort>
         <oompType>ICIC</oompType>
         <oompSize>DI28</oompSize>
         <oompColor>X</oompColor>
@@ -18,11 +18,11 @@
 
 
 <!--Size -->
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
+        <ooPitch>2.54 mm</ooPitch>
+        <ooWidth>34.7 mm</ooWidth>
+        <ooHeight>4.5 mm</ooHeight>
         <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
+        <ooLength>7.25 mm</ooLength>
         <ooDepth></ooDepth>
         <ooWireSize></ooWireSize>
 
@@ -34,7 +34,7 @@
 
 <!--Description -->
         <ooMaterial></ooMaterial>
-        <ooNumPins></ooNumPins>
+        <ooNumPins>28</ooNumPins>
         <ooTerminalStyle></ooTerminalStyle>
         <ooPowerRating></ooPowerRating>
 
@@ -71,8 +71,8 @@
 			<useItem>
 				<useID>1</useID>
 				<importance>1</importance>
-				<useTitle></useTitle>
-				<useDescription></useDescription>
+				<useTitle>Arduino</useTitle>
+				<useDescription>Used as the Microcontroller in the Arduino UNO</useDescription>
 			</useItem>
 		</usageList>
 		<!--Plug -->
@@ -110,40 +110,103 @@
 
     		<sourceList>
 			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
+				<company>Atmel</company>
+				<companyCode>C-ATME</companyCode>
 				<name></name>
-				<partID></partID>
+				<partID>ATMEGA328P-PU</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
 				
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
+				<company>DigiKey</company>
+				<companyCode>C-DIGK</companyCode>
+				<name>IC MCU 8BIT 32KB FLASH 28DIP</name>
+				<partID>ATMEGA328P-PU-ND</partID>
+				<link><![CDATA[http://www.digikey.co.uk/product-search/en?lang=en&site=UK&WT.z_homepage_link=hp_go_button&x=0&y=0&KeyWords=ATMEGA328P-PU]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>
+
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
+				<company>Farnell</company>
+				<companyCode>C-FARN</companyCode>
+				<name>ATMEL  ATMEGA328P-PU  MCU, 8BIT, ATMEGA, 20MHZ, DIP-28</name>
+				<partID>1715487</partID>
+				<link><![CDATA[http://uk.farnell.com/atmel/atmega328p-pu/mcu-8bit-atmega-20mhz-dip-28/dp/1715487?ost=ATMEGA328P-PU]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>			
+			<bigDistributor>
+				<company>Mouser</company>
+				<companyCode>C-MOUS</companyCode>
+				<name>8-bit Microcontrollers - MCU 32KB In-system Flash 20MHz 1.8V-5.5V</name>
+				<partID>556-ATMEGA328P-PU</partID>
+				<link><![CDATA[http://uk.mouser.com/ProductDetail/Atmel/ATMEGA328P-PU/?qs=%2fha2pyFaduhQ%252bjznIsBMMPRoEjEGcJxYuEuCd0kVlpy%252ba5HItpSlwA%3d%3d]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>Rapid Electronics</company>
+				<companyCode>C-RAPI</companyCode>
+				<name>ATMEGA328P-PU AVR 8-bit 28 PDIP</name>
+				<partID>73-4283</partID>
+				<link><![CDATA[http://www.rapidonline.com/Electronic-Components/atmega328p-pu-avr-8-bit-28-pdip-73-4283]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>RS</company>
+				<companyCode>C-RSRS</companyCode>
+				<name>ATMEGA328P-PU, 8 bit AVR Microcontroller 20MHz 1 kB, 32 kB Flash, 2 kB RAM, I2C 28-Pin PDIP</name>
+				<partID>696-2260</partID>
+				<link><![CDATA[http://uk.rs-online.com/web/p/microcontrollers/6962260/?searchTerm=ATMEGA328P-PU&relevancy-data=636F3D3226696E3D4931384E4B6E6F776E41734D504E266C753D656E266D6D3D6D61746368616C6C7061727469616C26706D3D5E5B5C707B4C7D5C707B4E647D2D2C2F255C2E5D2B2426706F3D313326736E3D592673743D4D414E5F504152545F4E554D4245522677633D424F5448267573743D41544D454741333238502D505526]]></link>
+				<note></note>
+			</bigDistributor>				
+			<bigDistributor>
+				<company>SEEED Studio</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>IC MCU 8BIT 32KB FLASH</name>
+				<partID>1030050P1</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=23]]></link>
+				<note></note>
+			</bigDistributor>			
 		</sourceList>
 		<oplList>
 			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
+				<oplScheme>Circuithub.com</oplScheme>
+				<oplCode>C-CIRC</oplCode>
+				<oplName>ATMEL/ATMEGA328P-PU</oplName>
+				<oplID>ATMEL/ATMEGA328P-PU</oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
-				<oplLink><![CDATA[ ]]></oplLink>
+				<oplLink><![CDATA[https://circuithub.com/parts/ATMEL/ATMEGA328P-PU]]></oplLink>
+			</oplSystem>
+
+			<oplSystem>
+				<oplScheme>Octopart CPL</oplScheme>
+				<oplCode>C-OCTO</oplCode>
+				<oplName>ATmega328 - DIP</oplName>
+				<oplID>ATmega328 - DIP</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://octopart.com/common-parts-library#Microcontrollers]]></oplLink>
+			</oplSystem>
+
+			<oplSystem>
+				<oplScheme>Oopen Organization Method for Parts</oplScheme>
+				<oplCode>C-OOMP</oplCode>
+				<oplName>28 Pin DIP AtMega328P</oplName>
+				<oplID>ICIC-DI28-X-K328-01</oplID>
+				<oplFootprint>DI28</oplFootprint>
+				<oplPackage>DI28</oplPackage>
+				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/]]></oplLink>
+			</oplSystem>
+			
+			<oplSystem>
+				<oplScheme>Seeed Studio OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>IC MCU 8BIT 32KB FLASH</oplName>
+				<oplID>1030050P1</oplID>
+				<oplFootprint>28-DIP</oplFootprint>
+				<oplPackage>28-DIP</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#IC]]></oplLink>
 			</oplSystem>
 		</oplList>
 
