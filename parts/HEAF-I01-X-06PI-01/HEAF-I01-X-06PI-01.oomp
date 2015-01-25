@@ -6,8 +6,8 @@
 <!--OOMP Base -->
         <oompID>HEAF-I01-X-06PI-01</oompID>
         <name>2.54 mm 6 Pin Female Header</name>
-        <hexID>10D8</hexID>
-        <oompSort>010609</oompSort>
+        <hexID>HF06</hexID>
+        <oompSort>0106</oompSort>
         <oompType>HEAF</oompType>
         <oompSize>I01</oompSize>
         <oompColor>X</oompColor>
@@ -18,11 +18,11 @@
 
 
 <!--Size -->
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
+        <ooPitch>2.54 mm</ooPitch>
+        <ooWidth>15.24 mm</ooWidth>
+        <ooHeight>11.65 mm</ooHeight>
         <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
+        <ooLength>2.54 mm</ooLength>
         <ooDepth></ooDepth>
         <ooWireSize></ooWireSize>
 
@@ -34,7 +34,7 @@
 
 <!--Description -->
         <ooMaterial></ooMaterial>
-        <ooNumPins></ooNumPins>
+        <ooNumPins>6</ooNumPins>
         <ooTerminalStyle></ooTerminalStyle>
         <ooPowerRating></ooPowerRating>
 
@@ -94,7 +94,7 @@
         <ooNameLine2of3></ooNameLine2of3>
         <ooNameLine3of3></ooNameLine3of3>
         <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout></oompAbout>
+        <oompAbout>A commonly used 6 pin 2.54 mm spaced female header. Nice to use for a connector to another PCB (via a header like <a href="http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAD-I01-X-06PI-01">2.54 mm 6 Pin Header</a>) or to connect jumper wires to your project.</oompAbout>
         <ooProjectName1></ooProjectName1>
         <ooProjectDesc1></ooProjectDesc1>
         <ooProjectLink1></ooProjectLink1>
@@ -110,43 +110,122 @@
 
     		<sourceList>
 			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
+				<company>Yxcon</company>
+				<companyCode>C-YXCO</companyCode>
 				<name></name>
-				<partID></partID>
+				<partID>F185-1106A1BSYC1</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
+			<manufacturer>
+				<company>Sullins Connector Solutions</company>
+				<companyCode>C-SULL</companyCode>
+				<name></name>
+				<partID>PPTC061LFBN-RC</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company>Multicomp</company>
+				<companyCode>C-MULT</companyCode>
+				<name></name>
+				<partID>2212S-06SG-85</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company>TruConnect</company>
+				<companyCode>C-TRUC</companyCode>
+				<name></name>
+				<partID>DS1023-1*6 S01</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>			
+			<manufacturer>
+				<company>C-SAMT</company>
+				<companyCode>C-SAMT</companyCode>
+				<name></name>
+				<partID>SSW-106-01-G-S</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>			
 				
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
+				<company>DigiKey</company>
+				<companyCode>C-DIGK</companyCode>
+				<name>CONN HEADER FEMALE 6POS .1" TIN</name>
+				<partID>S7004-ND</partID>
+				<link><![CDATA[http://www.digikey.com/product-search/en/connectors-interconnects/rectangular-connectors-headers-receptacles-female-sockets/1442548?k=S7004-ND]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>
+
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
+				<company>Farnell</company>
+				<companyCode>C-FARN</companyCode>
+				<name>MULTICOMP  2212S-06SG-85  SOCKET, PCB, 1 ROW, 6WAY</name>
+				<partID>1593462</partID>
+				<link><![CDATA[http://uk.farnell.com/multicomp/2212s-06sg-85/socket-pcb-1-row-6way/dp/1593462?ost=1593462]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>			
+			<bigDistributor>
+				<company>Rapid Electronics</company>
+				<companyCode>C-RAPI</companyCode>
+				<name>6 Way Single Row PCB Socket 2.54mm Pitch</name>
+				<partID>19-0056</partID>
+				<link><![CDATA[http://www.rapidonline.com/cables-connectors/6-way-single-row-pcb-socket-2-54mm-pitch-19-0056]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>RS</company>
+				<companyCode>C-RSRS</companyCode>
+				<name>Samtec SSW Series 2.54mm 6 Way 1 Row Straight PCB Socket Through Hole Board to Board</name>
+				<partID>765-5666</partID>
+				<link><![CDATA[http://uk.rs-online.com/web/p/pcb-sockets/7655666/?searchTerm=SSW-106-01-G-S&relevancy-data=636F3D3226696E3D4931384E4B6E6F776E41734D504E266C753D656E266D6D3D6D61746368616C6C7061727469616C26706D3D5E5B5C707B4C7D5C707B4E647D2D2C2F255C2E5D2B2426706F3D313326736E3D592673743D4D414E5F504152545F4E554D4245522677633D424F5448267573743D5353572D3130362D30312D472D5326]]></link>
+				<note></note>
+			</bigDistributor>				
 		</sourceList>
 		<oplList>
 			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
+				<oplScheme>Circuithub.com</oplScheme>
+				<oplCode>C-CIRC</oplCode>
 				<oplName></oplName>
 				<oplID></oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
-				<oplLink><![CDATA[ ]]></oplLink>
+				<oplLink><![CDATA[]]></oplLink>
 			</oplSystem>
+
+
+
+			<oplSystem>
+				<oplScheme>Oopen Organization Method for Parts</oplScheme>
+				<oplCode>C-OOMP</oplCode>
+				<oplName>2.54 mm 6 Pin Female Header</oplName>
+				<oplID>HEAF-I01-06PI-01</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/]]></oplLink>
+			</oplSystem>
+			
+			<oplSystem>
+				<oplScheme>Seeed Studio OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>CONN HEADER FEMALE 6POS .1" TIN</oplName>
+				<oplID>3460270P1</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Connector]]></oplLink>
+			</oplSystem>		
 		</oplList>
 
-
+	<COM>Common Uses</COM>		
+		<usageList>
+			<useItem>
+				<useID>1</useID>
+				<importance>1</importance>
+				<useTitle>Arduino Analog Strip</useTitle>
+				<useDescription>Used as the analog input strip on the Arduino UNO board (and compatible)</useDescription>
+			</useItem>
+		</usageList>
 </oompPart>
 </xml>

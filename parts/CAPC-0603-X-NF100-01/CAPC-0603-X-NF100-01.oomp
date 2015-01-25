@@ -6,8 +6,8 @@
 <!--OOMP Base -->
         <oompID>CAPC-0603-X-NF100-01</oompID>
         <name>SMD (0603) 100 nF Capacitor (Ceramic)</name>
-        <hexID>0FF1</hexID>
-        <oompSort></oompSort>
+        <hexID>C6N100</hexID>
+        <oompSort>0.0000001</oompSort>
         <oompType>CAPC</oompType>
         <oompSize>0603</oompSize>
         <oompColor>X</oompColor>
@@ -34,7 +34,7 @@
 
 <!--Description -->
         <ooMaterial></ooMaterial>
-        <ooNumPins></ooNumPins>
+        <ooNumPins>2</ooNumPins>
         <ooTerminalStyle></ooTerminalStyle>
         <ooPowerRating></ooPowerRating>
 
@@ -118,6 +118,14 @@
 				<link></link>
 				<note></note>			
 			</manufacturer>
+			<manufacturer>
+				<company>TruCap</company>
+				<companyCode>C-TRUP</companyCode>
+				<name></name>
+				<partID>T0603F104MNT</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>			
 				
 			<bigDistributor>
 				<company>DigiKey</company>
@@ -180,6 +188,16 @@
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://circuithub.com/parts/AI3/06035C104KAT2A]]></oplLink>
 			</oplSystem>
+			<oplSystem>
+				<oplScheme>Oopen Organization Method for Parts</oplScheme>
+				<oplCode>C-OOMP</oplCode>
+				<oplName>SMD (0603) 100 nF Capacitor (Ceramic)</oplName>
+				<oplID>CAPC-0603-X-NF100-01</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPC-0603-X-NF100-01]]></oplLink>
+			</oplSystem>
+			
 		</oplList>
 
 <!--Hidden -->
@@ -190,7 +208,7 @@
         <ooNameLine2of3></ooNameLine2of3>
         <ooNameLine3of3></ooNameLine3of3>
         <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout></oompAbout>
+        <oompAbout>This is perhaps the most commonly used SMD component. It is used as a decoupling capacitor, placed near components to ensure their power supply remains clean.</oompAbout>
         <ooProjectName1></ooProjectName1>
         <ooProjectDesc1></ooProjectDesc1>
         <ooProjectLink1></ooProjectLink1>
@@ -201,6 +219,15 @@
         <ooBuyType1></ooBuyType1>
         <ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:Capacitor0603.zip</ooSEEED3dModel>
 
+	<COM>Common Uses</COM>		
+		<usageList>
+			<useItem>
+				<useID>1</useID>
+				<importance>1</importance>
+				<useTitle>Decoupling Capacitor</useTitle>
+				<useDescription>Placed near components power supply to keep it nice and clean.</useDescription>
+			</useItem>
+		</usageList>
 
 <!-- -->
 

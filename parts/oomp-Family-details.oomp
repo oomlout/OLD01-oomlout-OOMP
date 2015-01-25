@@ -80,6 +80,17 @@
 		<familyAbout></familyAbout>
 	</oompFamily>
 	<oompFamily>
+		<familyName>SMD (0603) Capacitor (Ceramic)</familyName>
+		<familyType>CAPC</familyType>
+		<familySize>0603</familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>C6</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>C6####</familyHexNameSpaceDisplay>	
+		<familyAbout></familyAbout>
+	</oompFamily>	
+	<oompFamily>
 		<familyName>Through Hole Capacitor (Tantalum) 50 v</familyName>
 		<familyType>CAPT</familyType>
 		<familySize>TH</familySize>
@@ -398,8 +409,8 @@
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
 		<familyIndex>01</familyIndex>	
-		<familyHexNameSpace>EE7</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>EE7#</familyHexNameSpaceDisplay>		
+		<familyHexNameSpace>HF</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>HF##</familyHexNameSpaceDisplay>		
 		<familyAbout></familyAbout>
 	</oompFamily>
 		<oompFamily>

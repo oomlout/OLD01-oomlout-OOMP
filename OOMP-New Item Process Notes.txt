@@ -1,6 +1,14 @@
 ;######  New Item Process Notes  ######
 ;######################################
 
+;###### Resource Check
+
+;## Generate
+OOMP-generateResource.bat
+
+;## Check
+
+
 ;###### START
 	Open Folder
 	C:\GH\oomlout-OOMP
@@ -15,11 +23,28 @@
 
 	2. Set sort order
 	
+	3. Quick About
 
+	--Examples--
+	
+	4. Common Usage
+	<COM>Common Uses</COM>		
+		<usageList>
+			<useItem>
+				<useID>1</useID>
+				<importance>1</importance>
+				<useTitle></useTitle>
+				<useDescription></useDescription>
+			</useItem>
+		</usageList>
+
+		--Examples--
+	
 ;###### OPL
 
 System Names etc.
 C:\GH\oomlout-OOMP\parts\oomp-OPL-details.oomp
+
 
 SEEED
 http://www.seeedstudio.com/wiki/Open_parts_library		

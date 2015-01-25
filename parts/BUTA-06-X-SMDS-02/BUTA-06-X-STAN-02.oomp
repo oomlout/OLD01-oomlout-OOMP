@@ -3,14 +3,14 @@
         <index>9876</index>
 
 <com>OOMP Base</com>
-        <oompID>BUTA-06-X-STAN-02</oompID>
-        <name> 6 mm Pushbutton (Tactile) </name>
+        <oompID>BUTA-06-X-SMDS-02</oompID>
+        <name>6 mm SMD Pushbutton (Tactile)</name>
         <hexID>EEEE</hexID>
         <oompSort>06</oompSort>
         <oompType>BUTA</oompType>
         <oompSize>06</oompSize>
         <oompColor>X</oompColor>
-        <oompDesc>STAN</oompDesc>
+        <oompDesc>SMDS</oompDesc>
         <oompIndex>02</oompIndex>
         <oompOwner></oompOwner>
         <oompVersion></oompVersion>
@@ -84,18 +84,18 @@
 <com>OPL</com>		
 		<oplList>
 			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
+				<oplScheme>Oopen Organization Method for Parts</oplScheme>
+				<oplCode>C-OOMP</oplCode>
+				<oplName>6 mm SMD Pushbutton (Tactile)</oplName>
+				<oplID>BUTA-06-X-SMDS-02</oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
-				<oplLink><![CDATA[]]></oplLink>
+				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/BUTA-06-X-SMDS-02]]></oplLink>
 			</oplSystem>
 		</oplList>
 
 <com>Hidden</com>
-        <oompAbout></oompAbout>
+        <oompAbout>This is an obscure pushbutton, included because it is used on the Arduino UNO as a reset button. It is largely pin-out compatible with <a href="http://learn.oomlout.co.uk/OO/Projects/oomp/part/BUTA-06-X-SMDS-01">6 mm SMD Pushbutton (Tactile)</a> save for a fifth pad which is used to ground the buttons metal case.</oompAbout>
         <ooProjectName1></ooProjectName1>
         <ooProjectDesc1></ooProjectDesc1>
         <ooProjectLink1></ooProjectLink1>
@@ -105,4 +105,14 @@
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>
     </oompPart>
+	<COM>Common Uses</COM>		
+		<usageList>
+			<useItem>
+				<useID>1</useID>
+				<importance>1</importance>
+				<useTitle>Standard pushbutton</useTitle>
+				<useDescription>as a standard pushbutton (<a href="http://learn.oomlout.co.uk/OO/Projects/oomp/part/BUTA-06-X-SMDS-01">6 mm SMD Pushbutton (Tactile)</a> is recommended, due to this part being rather obscure).</useDescription>
+			</useItem>
+		</usageList>	
+	
 </xml>

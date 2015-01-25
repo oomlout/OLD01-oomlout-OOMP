@@ -5,8 +5,8 @@
 <com>OOMP Base</com>
         <oompID>HEAF-I01-X-10PI-01</oompID>
         <name> 2.54 mm 10 Pin Female Header </name>
-        <hexID>EEEE</hexID>
-        <oompSort>1</oompSort>
+        <hexID>HF10</hexID>
+        <oompSort>0110</oompSort>
         <oompType>HEAF</oompType>
         <oompSize>I01</oompSize>
         <oompColor>X</oompColor>
@@ -18,17 +18,17 @@
 		<oompSkip>true</oompSkip>
 
 <com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
+        <ooPitch>2.54 mm</ooPitch>
+        <ooWidth>25.4 mm</ooWidth>
+        <ooHeight>11.65mm</ooHeight>
         <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
+        <ooLength>2.54 mm</ooLength>
         <ooDepth></ooDepth>
         <ooWireSize></ooWireSize>
 
 <com>Description</com>
         <ooMaterial></ooMaterial>
-        <ooNumPins></ooNumPins>
+        <ooNumPins>10</ooNumPins>
         <ooTerminalStyle></ooTerminalStyle>
         <ooPowerRating></ooPowerRating>
 
@@ -63,20 +63,77 @@
 <com>Source List</com>		
 		<sourceList>
 			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
+				<company>Yxcon</company>
+				<companyCode>C-YXCO</companyCode>
 				<name></name>
-				<partID></partID>
+				<partID>F185-1110A1BSYC1</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
-				
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
+			<manufacturer>
+				<company>Sullins Connector Solutions</company>
+				<companyCode>C-SULL</companyCode>
 				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
+				<partID>PPTC101LFBN-RC</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>	
+			<manufacturer>
+				<company>Multicomp</company>
+				<companyCode>C-MULTI</companyCode>
+				<name></name>
+				<partID>2212S-10SG-85</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>					
+			<manufacturer>
+				<company>TruConnect</company>
+				<companyCode>C-TRUC</companyCode>
+				<name></name>
+				<partID>DS1023-1*10 S01</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>			
+			<manufacturer>
+				<company>C-SAMT</company>
+				<companyCode>C-SAMT</companyCode>
+				<name></name>
+				<partID>SSW-110-01-G-S</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>	
+			
+			<bigDistributor>
+				<company>DigiKey</company>
+				<companyCode>C-DIGK</companyCode>
+				<name>CONN HEADER FEMALE 10POS.1" TIN</name>
+				<partID>S7008-ND</partID>
+				<link><![CDATA[http://www.digikey.com/product-detail/en/PPTC101LFBN-RC/S7008-ND/810149]]></link>
+				<note></note>
+			</bigDistributor>
+
+			<bigDistributor>
+				<company>Farnell</company>
+				<companyCode>C-FARN</companyCode>
+				<name>MULTICOMP  2212S-10SG-85  SOCKET, PCB, 1 ROW, 10WAY</name>
+				<partID>1593464</partID>
+				<link><![CDATA[http://uk.farnell.com/multicomp/2212s-10sg-85/socket-pcb-1-row-10way/dp/1593464?ost=2212S-10SG-85]]></link>
+				<note></note>
+			</bigDistributor>			
+			<bigDistributor>
+				<company>Rapid Electronics</company>
+				<companyCode>C-RAPI</companyCode>
+				<name>10 Way Single Row PCB Socket 2.54mm Pitch</name>
+				<partID>19-0085</partID>
+				<link><![CDATA[http://www.rapidonline.com/cables-connectors/10-way-single-row-pcb-socket-2-54mm-pitch-19-0085]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>RS</company>
+				<companyCode>C-RSRS</companyCode>
+				<name>Samtec SSW Series 2.54mm 10 Way 1 Row Straight PCB Socket Through Hole Board to Board</name>
+				<partID>765-5736</partID>
+				<link><![CDATA[http://uk.rs-online.com/web/p/pcb-sockets/7655736/?searchTerm=SSW-110-01-G-S&relevancy-data=636F3D3226696E3D4931384E4B6E6F776E41734D504E266C753D656E266D6D3D6D61746368616C6C7061727469616C26706D3D5E5B5C707B4C7D5C707B4E647D2D2C2F255C2E5D2B2426706F3D313326736E3D592673743D4D414E5F504152545F4E554D4245522677633D424F5448267573743D5353572D3131302D30312D472D5326]]></link>
 				<note></note>
 			</bigDistributor>					
 		</sourceList>
@@ -84,8 +141,38 @@
 <com>OPL</com>		
 		<oplList>
 			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
+				<oplScheme>Circuithub.com</oplScheme>
+				<oplCode>C-CIRC</oplCode>
+				<oplName></oplName>
+				<oplID></oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[]]></oplLink>
+			</oplSystem>
+
+			<oplSystem>
+				<oplScheme>Octopart CPL</oplScheme>
+				<oplCode>C-OCTO</oplCode>
+				<oplName></oplName>
+				<oplID></oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[]]></oplLink>
+			</oplSystem>
+
+			<oplSystem>
+				<oplScheme>Oopen Organization Method for Parts</oplScheme>
+				<oplCode>C-OOMP</oplCode>
+				<oplName></oplName>
+				<oplID></oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/]]></oplLink>
+			</oplSystem>
+			
+			<oplSystem>
+				<oplScheme>Seeed Studio OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
 				<oplName></oplName>
 				<oplID></oplID>
 				<oplFootprint></oplFootprint>
@@ -95,7 +182,7 @@
 		</oplList>
 
 <com>Hidden</com>
-        <oompAbout></oompAbout>
+        <oompAbout>A commonly used 10 pin 2.54 mm spaced female header. Nice to use for a connector to another PCB (via a header like <a href="http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAD-I01-X-10PI-01">2.54 mm 10 Pin Header</a>) or to connect jumper wires to your project.</oompAbout>
         <ooProjectName1></ooProjectName1>
         <ooProjectDesc1></ooProjectDesc1>
         <ooProjectLink1></ooProjectLink1>
@@ -104,5 +191,17 @@
         <ooBuyDesc1></ooBuyDesc1>
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>
+		
+	<COM>Common Uses</COM>		
+		<usageList>
+			<useItem>
+				<useID>1</useID>
+				<importance>1</importance>
+				<useTitle>Arduino Output Strip</useTitle>
+				<useDescription>Used as the input strip on the Arduino UNO board for the upper digital inputs (8-13) (and compatible)</useDescription>
+			</useItem>
+		</usageList>		
+		
+		
     </oompPart>
 </xml>

@@ -6,8 +6,8 @@
 <!--OOMP Base -->
         <oompID>HEAF-I01-X-08PI-01</oompID>
         <name>2.54 mm 8 Pin Female Header</name>
-        <hexID>EE78</hexID>
-        <oompSort>08</oompSort>
+        <hexID>HF08</hexID>
+        <oompSort>0108</oompSort>
         <oompType>HEAF</oompType>
         <oompSize>I01</oompSize>
         <oompColor>X</oompColor>
@@ -18,11 +18,11 @@
 
 
 <!--Size -->
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
+        <ooPitch>2.54 mm</ooPitch>
+        <ooWidth>15.24 mm</ooWidth>
+        <ooHeight>11.65 mm</ooHeight>
         <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
+        <ooLength>2.54 mm</ooLength>
         <ooDepth></ooDepth>
         <ooWireSize></ooWireSize>
 
@@ -34,7 +34,7 @@
 
 <!--Description -->
         <ooMaterial></ooMaterial>
-        <ooNumPins></ooNumPins>
+        <ooNumPins>8</ooNumPins>
         <ooTerminalStyle></ooTerminalStyle>
         <ooPowerRating></ooPowerRating>
 
@@ -94,7 +94,7 @@
         <ooNameLine2of3></ooNameLine2of3>
         <ooNameLine3of3></ooNameLine3of3>
         <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout></oompAbout>
+        <oompAbout>A commonly used 8 pin 2.54 mm spaced female header. Nice to use for a connector to another PCB (via a header like <a href="http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAD-I01-X-08PI-01">2.54 mm 8 Pin Header</a>) or to connect jumper wires to your project.</oompAbout>
         <ooProjectName1></ooProjectName1>
         <ooProjectDesc1></ooProjectDesc1>
         <ooProjectLink1></ooProjectLink1>
@@ -110,43 +110,124 @@
 
     		<sourceList>
 			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
+				<company>Yxcon</company>
+				<companyCode>C-YXCO</companyCode>
 				<name></name>
-				<partID></partID>
+				<partID>F185-1108A1BSYC1</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
+			<manufacturer>
+				<company>Sullins Connector Solutions</company>
+				<companyCode>C-SULL</companyCode>
+				<name></name>
+				<partID>PPTC081LFBN-RC</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>			
+			<manufacturer>
+				<company>Multicomp</company>
+				<companyCode>C-MULT</companyCode>
+				<name></name>
+				<partID>2212S-10SG-85</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>				
+			<manufacturer>
+				<company>TruConnect</company>
+				<companyCode>C-TRUC</companyCode>
+				<name></name>
+				<partID>DS1023-1*08 S01</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>						
+			<manufacturer>
+				<company>C-SAMT</company>
+				<companyCode>C-SAMT</companyCode>
+				<name></name>
+				<partID>SSW-108-01-G-S</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>	
 				
+			
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
+				<company>DigiKey</company>
+				<companyCode>C-DIGK</companyCode>
+				<name>CONN HEADER FEMALE 8POS .1" TIN</name>
+				<partID>S7006-ND</partID>
+				<link><![CDATA[http://www.digikey.com/product-detail/en/PPTC081LFBN-RC/S7006-ND/810147]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>
+
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
+				<company>Farnell</company>
+				<companyCode>C-FARN</companyCode>
+				<name>MULTICOMP  2212S-08SG-85  SOCKET, PCB, 1 ROW, 8WAY</name>
+				<partID>1593463</partID>
+				<link><![CDATA[http://uk.farnell.com/multicomp/2212s-08sg-85/socket-pcb-1-row-8way/dp/1593463?ost=2212S-08SG-85]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>				
+
+			<bigDistributor>
+				<company>Rapid Electronics</company>
+				<companyCode>C-RAPI</companyCode>
+				<name>8 Way Single Row PCB Socket 2.54mm Pitch</name>
+				<partID>19-0057</partID>
+				<link><![CDATA[http://www.rapidonline.com/cables-connectors/8-way-single-row-pcb-socket-2-54mm-pitch-19-0057]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>RS</company>
+				<companyCode>C-RSRS</companyCode>
+				<name>Samtec SSW Series 2.54mm 8 Way 1 Row Straight PCB Socket Through Hole Board to Board</name>
+				<partID>765-5698</partID>
+				<link><![CDATA[http://uk.rs-online.com/web/p/pcb-sockets/7655698/]]></link>
+				<note></note>
+			</bigDistributor>				
 		</sourceList>
 		<oplList>
 			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
+				<oplScheme>Circuithub.com</oplScheme>
+				<oplCode>C-CIRC</oplCode>
 				<oplName></oplName>
 				<oplID></oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
-				<oplLink><![CDATA[ ]]></oplLink>
+				<oplLink><![CDATA[]]></oplLink>
 			</oplSystem>
+
+
+
+			<oplSystem>
+				<oplScheme>Oopen Organization Method for Parts</oplScheme>
+				<oplCode>C-OOMP</oplCode>
+				<oplName>2.54 mm 6 Pin Female Header</oplName>
+				<oplID>HEAF-I01-06PI-01</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/]]></oplLink>
+			</oplSystem>
+			
+			<oplSystem>
+				<oplScheme>Seeed Studio OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>CONN HEADER FEMALE 6POS .1" TIN</oplName>
+				<oplID>3460270P1</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Connector]]></oplLink>
+			</oplSystem>	
 		</oplList>
 
-
+	<COM>Common Uses</COM>		
+		<usageList>
+			<useItem>
+				<useID>1</useID>
+				<importance>1</importance>
+				<useTitle>Arduino Input Strip</useTitle>
+				<useDescription>Used as the input strip on the Arduino UNO board for digital inputs 0-7 and the power input strip. (and compatible)</useDescription>
+			</useItem>
+		</usageList>
 </oompPart>
 </xml>
