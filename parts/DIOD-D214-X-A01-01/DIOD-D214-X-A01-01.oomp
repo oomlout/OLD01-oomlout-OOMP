@@ -4,9 +4,9 @@
 
 <com>OOMP Base</com>
         <oompID>DIOD-D214-X-A01-01</oompID>
-        <name> SMD (DO-214) 1 Amp Diode </name>
-        <hexID>EEEE</hexID>
-        <oompSort>1</oompSort>
+        <name>SMD (DO-214) 1 Amp Diode</name>
+        <hexID>DS201<hexID>
+        <oompSort>DS21000</oompSort>
         <oompType>DIOD</oompType>
         <oompSize>D214</oompSize>
         <oompColor>X</oompColor>
@@ -19,16 +19,17 @@
 
 <com>Size</com>
         <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
+        <ooWidth>5.6 mm</ooWidth>
+        <ooHeight>2 mm</ooHeight>
         <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
+        <ooLength>2.75 mm</ooLength>
         <ooDepth></ooDepth>
         <ooWireSize></ooWireSize>
-
+<com>SMD</com>
+		<ooPackageMarking>M7, S1M</ooPackageMarking>
 <com>Description</com>
         <ooMaterial></ooMaterial>
-        <ooNumPins></ooNumPins>
+        <ooNumPins>2</ooNumPins>
         <ooTerminalStyle></ooTerminalStyle>
         <ooPowerRating></ooPowerRating>
 
@@ -63,39 +64,117 @@
 <com>Source List</com>		
 		<sourceList>
 			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
+				<company>Yongyutai Electronics</company>
+				<companyCode>C-YONG</companyCode>
 				<name></name>
-				<partID></partID>
+				<partID>1N4007</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company>Fairchild Semiconductor</company>
+				<companyCode>C-FAIR</companyCode>
+				<name></name>
+				<partID>S1M</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company>Taiwan Semiconductor</company>
+				<companyCode>C-TAIW</companyCode>
+				<name></name>
+				<partID>S1M E3</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
 				
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
+				<company>DigiKey</company>
+				<companyCode>C-DIGK</companyCode>
+				<name>DIODE GEN PURP 1KV 1A SMA</name>
+				<partID>S1MFSCT-ND</partID>
+				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/S1M/S1MFSCT-ND/965721]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>
+
+			<bigDistributor>
+				<company>Farnell</company>
+				<companyCode>C-FARN</companyCode>
+				<name>FAIRCHILD SEMICONDUCTOR  S1M  DIODE, STANDARD, 1A, 1000V, SMD</name>
+				<partID>9843841</partID>
+				<link><![CDATA[http://uk.farnell.com/fairchild-semiconductor/s1m/diode-standard-1a-1000v-smd/dp/9843841]]></link>
+				<note></note>
+			</bigDistributor>			
+			<bigDistributor>
+				<company>Mouser</company>
+				<companyCode>C-MOUS</companyCode>
+				<name>Rectifiers 1.0A 1000V</name>
+				<partID>512-S1M</partID>
+				<link><![CDATA[http://uk.mouser.com/ProductDetail/Fairchild-Semiconductor/S1M/?qs=sGAEpiMZZMuQUXCJI7Y4lvG3m%2fyT7Vnk]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>Rapid Electronics</company>
+				<companyCode>C-RAPI</companyCode>
+				<name>1A 1000V Glass Passivated SMD Rectifier Diode</name>
+				<partID>47-0948</partID>
+				<link><![CDATA[http://www.rapidonline.com/electronic-components/1a-1000v-glass-passivated-smd-rectifier-diode-47-0948]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>RS</company>
+				<companyCode>C-RSRS</companyCode>
+				<name>S1M, Recovery Rectifier Diode, Switching 1A max, 1000V 1800ns, 2-Pin, DO-214AC</name>
+				<partID>670-8836</partID>
+				<link><![CDATA[http://uk.rs-online.com/web/p/rectifier-schottky-diodes/6708836/]]></link>
+				<note></note>
+			</bigDistributor>		
+			<bigDistributor>
+				<company>SEEED Studio</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>DIODE GEN PURPOSE 1KV 1A</name>
+				<partID>0300040P1</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=31]]></link>
+				<note></note>
+			</bigDistributor>
 		</sourceList>
+			
 		
 <com>OPL</com>		
 		<oplList>
 			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
+				<oplScheme>Circuithub.com</oplScheme>
+				<oplCode>C-CIRC</oplCode>
 				<oplName></oplName>
 				<oplID></oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[]]></oplLink>
 			</oplSystem>
+
+			<oplSystem>
+				<oplScheme>Oopen Organization Method for Parts</oplScheme>
+				<oplCode>C-OOMP</oplCode>
+				<oplName>SMD (DO-214) 1 Amp Diode</oplName>
+				<oplID>DIOD-D214-X-A01-01</oplID>
+				<oplFootprint>D214</oplFootprint>
+				<oplPackage>D214</oplPackage>
+				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/DIOD-D214-X-A01-01]]></oplLink>
+			</oplSystem>
+			
+			<oplSystem>
+				<oplScheme>Seeed Studio OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>DIODE GEN PURPOSE 1KV 1A</oplName>
+				<oplID>0300040P1</oplID>
+				<oplFootprint>DO-214AC</oplFootprint>
+				<oplPackage>DO-214AC</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Diode]]></oplLink>
+			</oplSystem>
 		</oplList>
 
 <com>Hidden</com>
-        <oompAbout></oompAbout>
+        <oompAbout>This is a commonly used general purpose high current (1A) surface mount diode. </oompAbout>
         <ooProjectName1></ooProjectName1>
         <ooProjectDesc1></ooProjectDesc1>
         <ooProjectLink1></ooProjectLink1>
@@ -104,5 +183,16 @@
         <ooBuyDesc1></ooBuyDesc1>
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>
+		
+	<COM>Common Uses</COM>		
+		<usageList>
+			<useItem>
+				<useID>1</useID>
+				<importance>1</importance>
+				<useTitle>Arduino Power protection</useTitle>
+				<useDescription>Used on the Arduino UNO board to protect agaionst inserting the DC power supply backwards.</useDescription>
+			</useItem>
+		</usageList>		
+		
     </oompPart>
 </xml>

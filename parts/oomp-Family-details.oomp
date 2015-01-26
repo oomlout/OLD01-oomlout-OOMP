@@ -299,14 +299,14 @@
 		<familyAbout></familyAbout>
 	</oompFamily>	
 	<oompFamily>
-		<familyName>SMD (1206) Diode</familyName>
+		<familyName>SMD Diode</familyName>
 		<familyType>DIOD</familyType>
-		<familySize>1206</familySize>
+		<familySize></familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
 		<familyIndex>01</familyIndex>	
-		<familyHexNameSpace>D12</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>D12##</familyHexNameSpaceDisplay>		
+		<familyHexNameSpace>DS</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>DS###</familyHexNameSpaceDisplay>		
 		<familyAbout></familyAbout>
 	</oompFamily>	
 	
@@ -418,10 +418,10 @@
 		<familyType>BUTA</familyType>
 		<familySize></familySize>
 		<familyColor>X</familyColor>
-		<familyDesc>STAN</familyDesc>
+		<familyDesc></familyDesc>
 		<familyIndex>01</familyIndex>	
-		<familyHexNameSpace>EE6</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>EE6#</familyHexNameSpaceDisplay>		
+		<familyHexNameSpace>B</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>B##</familyHexNameSpaceDisplay>		
 		<familyAbout></familyAbout>
 	</oompFamily>		
 		<oompFamily>

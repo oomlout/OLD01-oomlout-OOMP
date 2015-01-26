@@ -241,7 +241,17 @@ http://192.168.1.210/?cmd=GP&p1=SS&p2=&p3=&p4=
 	Save as
 	-bbls.cdr
 
-
+;###### Simp
+	Make a simple version (no extra details and short ID on)
+	;## Example
+	SMD
+	C:\GH\oomlout-OOMP\parts\DIOD-1206-X-A015D-01\DIOD-1206-X-A015D-01-simp.cdr
+	
+	
+	;## Style
+	Deja Vu Sans Mono
+	deal with overlap by adding 0.353mm outline in white withoverlay
+	
 ;###### Schematic
 	Schematic template
 	C:\GH\oomlout-OOMP\template\OOMP-schem-template.cdr
