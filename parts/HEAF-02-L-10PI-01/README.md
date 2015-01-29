@@ -14,13 +14,3 @@ Short URL: __http://oom.lt/10DE__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-| __HEAF__ <br>Female Header  | __02__<br>2 mm   |__L__<br>Blue    |__10PI__<br>10 Pin    | __01__<br>  |
-
-
-## Images
-![HEAF-02-L-10PI-01](http://oomlout.com/oomp-gen/parts/HEAF-02-L-10PI-01/HEAF-02-L-10PI-01_420.jpg)
-
-## Full Details
-
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAF-02-L-10PI-01
-
