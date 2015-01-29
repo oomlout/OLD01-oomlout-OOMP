@@ -6,11 +6,11 @@ Name: __SMD (Mini MELF) 300 mA Diode__
 
 ID: __DIOD-MMA-X-A03D-01__
 
-Hex ID: __10B6__
+Hex ID: __DSM30__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/DIOD-MMA-X-A03D-01__
 
-Short URL: __http://oom.lt/10B6__
+Short URL: __http://oom.lt/DSM30__
 
 
 |Type   |Size   |Color   |Description   |Index   |

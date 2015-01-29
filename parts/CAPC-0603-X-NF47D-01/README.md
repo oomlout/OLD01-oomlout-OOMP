@@ -6,11 +6,11 @@ Name: __SMD (0603) 4.7 nF Capacitor (Ceramic)__
 
 ID: __CAPC-0603-X-NF47D-01__
 
-Hex ID: __0FFF__
+Hex ID: __C6N004__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPC-0603-X-NF47D-01__
 
-Short URL: __http://oom.lt/0FFF__
+Short URL: __http://oom.lt/C6N004__
 
 
 |Type   |Size   |Color   |Description   |Index   |

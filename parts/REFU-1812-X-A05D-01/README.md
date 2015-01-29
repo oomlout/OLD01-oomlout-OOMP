@@ -6,11 +6,11 @@ Name: __SMD (1812) 500 mA Resetable Fuse__
 
 ID: __REFU-1812-X-A05D-01__
 
-Hex ID: __10B2__
+Hex ID: __RF805__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/REFU-1812-X-A05D-01__
 
-Short URL: __http://oom.lt/10B2__
+Short URL: __http://oom.lt/RF805__
 
 
 |Type   |Size   |Color   |Description   |Index   |

@@ -6,11 +6,11 @@ Name: __ SMD (0805) Yellow LED __
 
 ID: __LEDS-0805-Y-STAN-01__
 
-Hex ID: __L853__
+Hex ID: __L85Y__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/LEDS-0805-Y-STAN-01__
 
-Short URL: __http://oom.lt/L853__
+Short URL: __http://oom.lt/L85Y__
 
 
 |Type   |Size   |Color   |Description   |Index   |

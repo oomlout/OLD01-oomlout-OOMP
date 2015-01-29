@@ -6,11 +6,11 @@ Name: __16 MHz Crystal__
 
 ID: __XTAL-TH-X-MZ16-01__
 
-Hex ID: __E816__
+Hex ID: __XT16__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/XTAL-TH-X-MZ16-01__
 
-Short URL: __http://oom.lt/E816__
+Short URL: __http://oom.lt/XT16__
 
 
 |Type   |Size   |Color   |Description   |Index   |

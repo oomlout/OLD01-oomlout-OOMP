@@ -6,11 +6,11 @@ Name: __SMD (0603) 22 pF Capacitor (Ceramic)__
 
 ID: __CAPC-0603-X-PF22-01__
 
-Hex ID: __0FFC__
+Hex ID: __C6P022__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPC-0603-X-PF22-01__
 
-Short URL: __http://oom.lt/0FFC__
+Short URL: __http://oom.lt/C6P022__
 
 
 |Type   |Size   |Color   |Description   |Index   |

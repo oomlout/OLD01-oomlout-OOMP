@@ -2,15 +2,15 @@
 
 ## Summary
  
-Name: __ SMD (DO-214) 1 Amp Diode __
+Name: __SMD (DO-214) 1 Amp Diode__
 
 ID: __DIOD-D214-X-A01-01__
 
-Hex ID: __EEEE__
+Hex ID: __DS201__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/DIOD-D214-X-A01-01__
 
-Short URL: __http://oom.lt/EEEE__
+Short URL: __http://oom.lt/DS201__
 
 
 |Type   |Size   |Color   |Description   |Index   |

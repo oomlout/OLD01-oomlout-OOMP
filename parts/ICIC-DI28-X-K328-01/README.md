@@ -2,15 +2,15 @@
 
 ## Summary
  
-Name: __28 Pin DIP AtMega328P __
+Name: __28 Pin DIP AtMega328P__
 
 ID: __ICIC-DI28-X-K328-01__
 
-Hex ID: __EA01__
+Hex ID: __IC328__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/ICIC-DI28-X-K328-01__
 
-Short URL: __http://oom.lt/EA01__
+Short URL: __http://oom.lt/IC328__
 
 
 |Type   |Size   |Color   |Description   |Index   |

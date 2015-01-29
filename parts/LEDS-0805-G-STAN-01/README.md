@@ -6,11 +6,11 @@ Name: __ SMD (0805) Green LED __
 
 ID: __LEDS-0805-G-STAN-01__
 
-Hex ID: __L854__
+Hex ID: __L85G__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/LEDS-0805-G-STAN-01__
 
-Short URL: __http://oom.lt/L854__
+Short URL: __http://oom.lt/L85G__
 
 
 |Type   |Size   |Color   |Description   |Index   |

@@ -6,11 +6,11 @@ Name: __SMD (0603) 1 nF Capacitor (Ceramic)__
 
 ID: __CAPC-0603-X-NF1-01__
 
-Hex ID: __0FFB__
+Hex ID: __C6N001__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPC-0603-X-NF1-01__
 
-Short URL: __http://oom.lt/0FFB__
+Short URL: __http://oom.lt/C6N001__
 
 
 |Type   |Size   |Color   |Description   |Index   |
