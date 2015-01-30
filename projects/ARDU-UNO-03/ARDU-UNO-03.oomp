@@ -26,7 +26,7 @@
 
 <!-- Details -->
 		<numComponents>48</numComponents>
-		<numUniqueComponents>38</numUniqueComponents>
+		<numUniqueComponents>32</numUniqueComponents>
 		
 
 <COM>Common Uses</COM>		
@@ -39,15 +39,8 @@
 				<compDesc>Protects against a power supply being connected backwards across Vin and GND"</compDesc>
 			</component>
 			<component>
-				<compIndex>2</compIndex>
-				<compIden>D2</compIden>
-				<compID>DIOD-1206-X-A015D-01</compID>
-				<compWhy></compWhy>
-				<compDesc></compDesc>
-			</component>
-			<component>
-				<compIndex>3</compIndex>
-				<compIden>D3</compIden>
+				<compIndex>2,3</compIndex>
+				<compIden>D2,D3</compIden>
 				<compID>DIOD-1206-X-A015D-01</compID>
 				<compWhy></compWhy>
 				<compDesc></compDesc>
@@ -67,8 +60,8 @@
 				<compDesc></compDesc>
 			</component>
 			<component>
-				<compIndex>6</compIndex>
-				<compIden>L</compIden>
+				<compIndex>6, 14, 16</compIndex>
+				<compIden>L, RX, TX</compIden>
 				<compID>LEDS-0805-Y-STAN-01</compID>
 				<compWhy></compWhy>
 				<compDesc></compDesc>
@@ -88,22 +81,15 @@
 				<compDesc></compDesc>
 			</component>
 			<component>
-				<compIndex>9</compIndex>
-				<compIden>R1</compIden>
+				<compIndex>9, 10</compIndex>
+				<compIden>R1, R2</compIden>
 				<compID>RESE-0603-X-O105-01</compID>
 				<compWhy></compWhy>
 				<compDesc></compDesc>
 			</component>
 			<component>
-				<compIndex>10</compIndex>
-				<compIden>R2</compIden>
-				<compID>RESE-0603-X-O105-01</compID>
-				<compWhy></compWhy>
-				<compDesc></compDesc>
-			</component>
-			<component>
-				<compIndex>11</compIndex>
-				<compIden>RN2</compIden>
+				<compIndex>11, 13</compIndex>
+				<compIden>RN2, RN4</compIden>
 				<compID>RESA-1268-X-O102X4-01</compID>
 				<compWhy></compWhy>
 				<compDesc></compDesc>
@@ -116,30 +102,9 @@
 				<compDesc></compDesc>
 			</component>
 			<component>
-				<compIndex>13</compIndex>
-				<compIden>RN4</compIden>
-				<compID>RESA-1268-X-O102X4-01</compID>
-				<compWhy></compWhy>
-				<compDesc></compDesc>
-			</component>
-			<component>
-				<compIndex>14</compIndex>
-				<compIden>RX</compIden>
-				<compID>LEDS-0805-Y-STAN-01</compID>
-				<compWhy></compWhy>
-				<compDesc></compDesc>
-			</component>
-			<component>
 				<compIndex>15</compIndex>
 				<compIden>T1</compIden>
 				<compID>MOSP-SO23-X-A02-01</compID>
-				<compWhy></compWhy>
-				<compDesc></compDesc>
-			</component>
-			<component>
-				<compIndex>16</compIndex>
-				<compIden>TX</compIden>
-				<compID>LEDS-0805-Y-STAN-01</compID>
 				<compWhy></compWhy>
 				<compDesc></compDesc>
 			</component>
@@ -179,29 +144,15 @@
 				<compDesc></compDesc>
 			</component>
 			<component>
-				<compIndex>22</compIndex>
-				<compIden>Z1</compIden>
+				<compIndex>22, 23</compIndex>
+				<compIden>Z1, Z2</compIden>
 				<compID>VARI-0603-X-V05-01</compID>
 				<compWhy></compWhy>
 				<compDesc></compDesc>
 			</component>
 			<component>
-				<compIndex>23</compIndex>
-				<compIden>Z2</compIden>
-				<compID>VARI-0603-X-V05-01</compID>
-				<compWhy></compWhy>
-				<compDesc></compDesc>
-			</component>
-			<component>
-				<compIndex>24</compIndex>
-				<compIden>PC1</compIden>
-				<compID>CAPE-S63D-X-UF47-VA</compID>
-				<compWhy></compWhy>
-				<compDesc></compDesc>
-			</component>
-			<component>
-				<compIndex>25</compIndex>
-				<compIden>PC2</compIden>
+				<compIndex>24, 25</compIndex>
+				<compIden>PC1, PC2</compIden>
 				<compID>CAPE-S63D-X-UF47-VA</compID>
 				<compWhy></compWhy>
 				<compDesc></compDesc>
@@ -221,71 +172,22 @@
 				<compDesc></compDesc>
 			</component>
 			<component>
-				<compIndex>28</compIndex>
-				<compIden>C1</compIden>
+				<compIndex>28, 29, 31, 32, 33, 34</compIndex>
+				<compIden>C1, C2, C4, C5, C6, C7</compIden>
 				<compID>CAPC-0603-X-NF100-01</compID>
 				<compWhy></compWhy>
 				<compDesc></compDesc>
 			</component>
 			<component>
-				<compIndex>29</compIndex>
-				<compIden>C2</compIden>
-				<compID>CAPC-0603-X-NF100-01</compID>
-				<compWhy></compWhy>
-				<compDesc></compDesc>
-			</component>
-			<component>
-				<compIndex>30</compIndex>
-				<compIden>C3</compIden>
+				<compIndex>30, 35</compIndex>
+				<compIden>C3, C8</compIden>
 				<compID>CAPC-0603-X-UF1-01</compID>
 				<compWhy></compWhy>
 				<compDesc></compDesc>
 			</component>
 			<component>
-				<compIndex>31</compIndex>
-				<compIden>C4</compIden>
-				<compID>CAPC-0603-X-NF100-01</compID>
-				<compWhy></compWhy>
-				<compDesc></compDesc>
-			</component>
-			<component>
-				<compIndex>32</compIndex>
-				<compIden>C5</compIden>
-				<compID>CAPC-0603-X-NF100-01</compID>
-				<compWhy></compWhy>
-				<compDesc></compDesc>
-			</component>
-			<component>
-				<compIndex>33</compIndex>
-				<compIden>C6</compIden>
-				<compID>CAPC-0603-X-NF100-01</compID>
-				<compWhy></compWhy>
-				<compDesc></compDesc>
-			</component>
-			<component>
-				<compIndex>34</compIndex>
-				<compIden>C7</compIden>
-				<compID>CAPC-0603-X-NF100-01</compID>
-				<compWhy></compWhy>
-				<compDesc></compDesc>
-			</component>
-			<component>
-				<compIndex>35</compIndex>
-				<compIden>C8</compIden>
-				<compID>CAPC-0603-X-UF1-01</compID>
-				<compWhy></compWhy>
-				<compDesc></compDesc>
-			</component>
-			<component>
-				<compIndex>36</compIndex>
-				<compIden>C9</compIden>
-				<compID>CAPC-0603-X-PF22-01</compID>
-				<compWhy></compWhy>
-				<compDesc></compDesc>
-			</component>
-			<component>
-				<compIndex>37</compIndex>
-				<compIden>C11</compIden>
+				<compIndex>36, 37</compIndex>
+				<compIden>C9, C11</compIden>
 				<compID>CAPC-0603-X-PF22-01</compID>
 				<compWhy></compWhy>
 				<compDesc></compDesc>
@@ -298,29 +200,15 @@
 				<compDesc></compDesc>
 			</component>
 			<component>
-				<compIndex>39</compIndex>
-				<compIden>ICSP</compIden>
-				<compID>HEAD-I01-X-2X03-01</compID>
+				<compIndex>39, 40</compIndex>
+				<compIden>ICSP, ICSP1</compIden>
+				<compID>HEAD-I01-X-2X03PI-01</compID>
 				<compWhy></compWhy>
 				<compDesc></compDesc>
 			</component>
 			<component>
-				<compIndex>40</compIndex>
-				<compIden>ICSP1</compIden>
-				<compID>HEAD-I01-X-2X03-01</compID>
-				<compWhy></compWhy>
-				<compDesc></compDesc>
-			</component>
-			<component>
-				<compIndex>41</compIndex>
-				<compIden>IOL</compIden>
-				<compID>HEAF-I01-X-08PI-01</compID>
-				<compWhy></compWhy>
-				<compDesc></compDesc>
-			</component>
-			<component>
-				<compIndex>42</compIndex>
-				<compIden>POWER</compIden>
+				<compIndex>41, 42</compIndex>
+				<compIden>IOL, POWER</compIden>
 				<compID>HEAF-I01-X-08PI-01</compID>
 				<compWhy></compWhy>
 				<compDesc></compDesc>
@@ -356,14 +244,14 @@
 			<component>
 				<compIndex>47</compIndex>
 				<compIden>ZU4</compIden>
-				<compID>ICIC-DI28-X-K238-01</compID>
+				<compID>ICIC-DI28-X-K328-01</compID>
 				<compWhy></compWhy>
 				<compDesc></compDesc>
 			</component>
 			<component>
 				<compIndex>48</compIndex>
 				<compIden>S1</compIden>
-				<compID>SOCK-DI28-X-STAN-01</compID>
+				<compID>ICSO-DI28-X-STAN-01</compID>
 				<compWhy></compWhy>
 				<compDesc></compDesc>
 			</component>

@@ -515,6 +515,22 @@
 			<tagType>Hidden</tagType>
 			<tagSort></tagSort>
     </oompTag>
+
+    <oompTag>
+            <tagName>numComponents</tagName>
+            <tagReadable>Number of Components</tagReadable>
+            <tagDescription>The total number of components in a project</tagDescription>
+			<tagType>Project</tagType>
+			<tagSort></tagSort>
+    </oompTag>
+    <oompTag>
+            <tagName>numComponents</tagName>
+            <tagReadable>Number of Unique Components</tagReadable>
+            <tagDescription>The number of unique components in a project.</tagDescription>
+			<tagType>Project</tagType>
+			<tagSort></tagSort>
+    </oompTag>
+	
 	
 	
 </xml>
