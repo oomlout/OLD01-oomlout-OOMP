@@ -28,6 +28,23 @@
 		<numComponents>48</numComponents>
 		<numUniqueComponents>32</numUniqueComponents>
 		
+<!-- Source Files -->		
+		<sourceList>
+			<source>
+				<sourceIndex>1</sourceIndex>
+				<sourceType>PCB Design Files</sourceType>
+				<sourceFormat>(eagle zip)</sourceFormat>
+				<sourceNote></sourceNote>
+				<sourceLink>http://arduino.cc/en/uploads/Main/arduino_Uno_Rev3-02-TH.zip</sourceLink>
+			</source>
+			<source>
+				<sourceIndex>2</sourceIndex>
+				<sourceType>Schematic</sourceType>
+				<sourceFormat>(pdf)</sourceFormat>
+				<sourceNote></sourceNote>
+				<sourceLink>http://arduino.cc/en/uploads/Main/Arduino_Uno_Rev3-schematic.pdf</sourceLink>
+			</source>			
+		</sourceList>
 
 <COM>Common Uses</COM>		
 		<componentList>
@@ -172,8 +189,8 @@
 				<compDesc></compDesc>
 			</component>
 			<component>
-				<compIndex>28, 29, 31, 32, 33, 34</compIndex>
-				<compIden>C1, C2, C4, C5, C6, C7</compIden>
+				<compIndex>28, 29, 31, 32, 33, 34, 49</compIndex>
+				<compIden>C1, C2, C4, C5, C6, C7, C12</compIden>
 				<compID>CAPC-0603-X-NF100-01</compID>
 				<compWhy></compWhy>
 				<compDesc></compDesc>

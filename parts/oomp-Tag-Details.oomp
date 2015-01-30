@@ -524,7 +524,7 @@
 			<tagSort></tagSort>
     </oompTag>
     <oompTag>
-            <tagName>numComponents</tagName>
+            <tagName>numUniqueComponents</tagName>
             <tagReadable>Number of Unique Components</tagReadable>
             <tagDescription>The number of unique components in a project.</tagDescription>
 			<tagType>Project</tagType>
