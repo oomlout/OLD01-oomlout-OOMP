@@ -3,14 +3,14 @@
 #################
 
 *.jpg
-*.pdf
 *.zip
 *.psd
 /tmp
 /redirects
 *.bat
 Backup_*.*
--wiki.html
+*-wiki.html
+*-datasheet*.pdf
 
 #################
 ## Eclipse
