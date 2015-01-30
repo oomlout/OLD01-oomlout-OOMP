@@ -29,7 +29,7 @@
 		<numUniqueComponents>32</numUniqueComponents>
 		
 <!-- Source Files -->		
-		<sourceList>
+		<sourceFileList>
 			<source>
 				<sourceIndex>1</sourceIndex>
 				<sourceType>PCB Design Files</sourceType>
@@ -44,7 +44,7 @@
 				<sourceNote></sourceNote>
 				<sourceLink>http://arduino.cc/en/uploads/Main/Arduino_Uno_Rev3-schematic.pdf</sourceLink>
 			</source>			
-		</sourceList>
+		</sourceFileList>
 
 <COM>Common Uses</COM>		
 		<componentList>
