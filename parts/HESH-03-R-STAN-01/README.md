@@ -6,11 +6,11 @@ Name: __3 mm Red Heat Shrink__
 
 ID: __HESH-03-R-STAN-01__
 
-Hex ID: __EE41__
+Hex ID: __HS3R__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HESH-03-R-STAN-01__
 
-Short URL: __http://oom.lt/EE41__
+Short URL: __http://oom.lt/HS3R__
 
 
 |Type   |Size   |Color   |Description   |Index   |

@@ -6,11 +6,11 @@ Name: __6 mm Red Heat Shrink__
 
 ID: __HESH-06-R-STAN-01__
 
-Hex ID: __EE51__
+Hex ID: __HS6R__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HESH-06-R-STAN-01__
 
-Short URL: __http://oom.lt/EE51__
+Short URL: __http://oom.lt/HS6R__
 
 
 |Type   |Size   |Color   |Description   |Index   |

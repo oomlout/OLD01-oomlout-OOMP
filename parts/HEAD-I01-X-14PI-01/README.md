@@ -2,15 +2,15 @@
 
 ## Summary
  
-Name: __ 2.54 mm 14 Pin Header __
+Name: __2.54 mm 14 Pin Header__
 
 ID: __HEAD-I01-X-14PI-01__
 
-Hex ID: __E614__
+Hex ID: __H14__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAD-I01-X-14PI-01__
 
-Short URL: __http://oom.lt/E614__
+Short URL: __http://oom.lt/H14__
 
 
 |Type   |Size   |Color   |Description   |Index   |

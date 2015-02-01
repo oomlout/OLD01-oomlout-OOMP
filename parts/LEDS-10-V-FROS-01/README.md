@@ -6,11 +6,11 @@ Name: __10 mm Frosted Purple LED__
 
 ID: __LEDS-10-V-FROS-01__
 
-Hex ID: __EE06__
+Hex ID: __L10V__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/LEDS-10-V-FROS-01__
 
-Short URL: __http://oom.lt/EE06__
+Short URL: __http://oom.lt/L10V__
 
 
 |Type   |Size   |Color   |Description   |Index   |

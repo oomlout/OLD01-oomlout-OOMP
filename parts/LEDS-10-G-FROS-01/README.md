@@ -6,11 +6,11 @@ Name: __10 mm Frosted Green LED__
 
 ID: __LEDS-10-G-FROS-01__
 
-Hex ID: __EE04__
+Hex ID: __L10G__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/LEDS-10-G-FROS-01__
 
-Short URL: __http://oom.lt/EE04__
+Short URL: __http://oom.lt/L10G__
 
 
 |Type   |Size   |Color   |Description   |Index   |

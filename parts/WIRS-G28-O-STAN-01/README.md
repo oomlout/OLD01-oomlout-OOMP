@@ -6,11 +6,11 @@ Name: __28 AWG Orange Stranded Wire__
 
 ID: __WIRS-G28-O-STAN-01__
 
-Hex ID: __104D__
+Hex ID: __W2O__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/WIRS-G28-O-STAN-01__
 
-Short URL: __http://oom.lt/104D__
+Short URL: __http://oom.lt/W2O__
 
 
 |Type   |Size   |Color   |Description   |Index   |

@@ -6,11 +6,11 @@ Name: __3 mm Purple Heat Shrink__
 
 ID: __HESH-03-V-STAN-01__
 
-Hex ID: __EE46__
+Hex ID: __HS3V__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HESH-03-V-STAN-01__
 
-Short URL: __http://oom.lt/EE46__
+Short URL: __http://oom.lt/HS3V__
 
 
 |Type   |Size   |Color   |Description   |Index   |

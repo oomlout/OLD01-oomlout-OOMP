@@ -6,11 +6,11 @@ Name: __1 Amp Diode 50v__
 
 ID: __DIOD-TH-X-A01-VC__
 
-Hex ID: __EE51__
+Hex ID: __DT01__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/DIOD-TH-X-A01-VC__
 
-Short URL: __http://oom.lt/EE51__
+Short URL: __http://oom.lt/DT01__
 
 
 |Type   |Size   |Color   |Description   |Index   |

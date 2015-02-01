@@ -2,15 +2,15 @@
 
 ## Summary
  
-Name: __ 2.54 mm 18 Pin Header __
+Name: __2.54 mm 18 Pin Header__
 
 ID: __HEAD-I01-X-18PI-01__
 
-Hex ID: __E618__
+Hex ID: __H18__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAD-I01-X-18PI-01__
 
-Short URL: __http://oom.lt/E618__
+Short URL: __http://oom.lt/H18__
 
 
 |Type   |Size   |Color   |Description   |Index   |

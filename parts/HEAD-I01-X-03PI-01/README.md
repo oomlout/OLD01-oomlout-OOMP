@@ -2,15 +2,15 @@
 
 ## Summary
  
-Name: __ 2.54 mm 3 Pin Header __
+Name: __2.54 mm 3 Pin Header__
 
 ID: __HEAD-I01-X-03PI-01__
 
-Hex ID: __E603__
+Hex ID: __H03__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAD-I01-X-03PI-01__
 
-Short URL: __http://oom.lt/E603__
+Short URL: __http://oom.lt/H03__
 
 
 |Type   |Size   |Color   |Description   |Index   |

@@ -6,11 +6,11 @@ Name: __SMD (5032) 16 MHz Crystal__
 
 ID: __XTAL-5032-X-MZ16-01__
 
-Hex ID: __10B7__
+Hex ID: __XS516__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/XTAL-5032-X-MZ16-01__
 
-Short URL: __http://oom.lt/10B7__
+Short URL: __http://oom.lt/XS516__
 
 
 |Type   |Size   |Color   |Description   |Index   |

@@ -6,11 +6,11 @@ Name: __SMD (2312) 100 uF Capacitor (Tantalum) 10v__
 
 ID: __CAPT-2312-X-UF100-VB__
 
-Hex ID: __0FF9__
+Hex ID: __CTS3U100__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPT-2312-X-UF100-VB__
 
-Short URL: __http://oom.lt/0FF9__
+Short URL: __http://oom.lt/CTS3U100__
 
 
 |Type   |Size   |Color   |Description   |Index   |

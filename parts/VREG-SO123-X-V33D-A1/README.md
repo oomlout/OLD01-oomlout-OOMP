@@ -6,11 +6,11 @@ Name: __SMD (SOT-123) 3.3v Voltage Regulator 1 A__
 
 ID: __VREG-SO123-X-V33D-A1__
 
-Hex ID: __10E2__
+Hex ID: __VS33301__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/VREG-SO123-X-V33D-A1__
 
-Short URL: __http://oom.lt/10E2__
+Short URL: __http://oom.lt/VS33301__
 
 
 |Type   |Size   |Color   |Description   |Index   |

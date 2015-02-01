@@ -6,11 +6,11 @@ Name: __M3 Nylon Nut__
 
 ID: __NNUT-M3-X-STAN-01__
 
-Hex ID: __1067__
+Hex ID: __NN3__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/NNUT-M3-X-STAN-01__
 
-Short URL: __http://oom.lt/1067__
+Short URL: __http://oom.lt/NN3__
 
 
 |Type   |Size   |Color   |Description   |Index   |

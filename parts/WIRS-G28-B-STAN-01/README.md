@@ -6,11 +6,11 @@ Name: __28 AWG Black Stranded Wire__
 
 ID: __WIRS-G28-B-STAN-01__
 
-Hex ID: __1054__
+Hex ID: __W2B__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/WIRS-G28-B-STAN-01__
 
-Short URL: __http://oom.lt/1054__
+Short URL: __http://oom.lt/W2B__
 
 
 |Type   |Size   |Color   |Description   |Index   |

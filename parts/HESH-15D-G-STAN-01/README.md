@@ -6,11 +6,11 @@ Name: __1.5 mm Green Heat Shrink__
 
 ID: __HESH-15D-G-STAN-01__
 
-Hex ID: __EE34__
+Hex ID: __HS1G__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HESH-15D-G-STAN-01__
 
-Short URL: __http://oom.lt/EE34__
+Short URL: __http://oom.lt/HS1G__
 
 
 |Type   |Size   |Color   |Description   |Index   |

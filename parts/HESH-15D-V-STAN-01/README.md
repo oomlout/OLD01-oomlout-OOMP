@@ -6,11 +6,11 @@ Name: __1.5 mm Purple Heat Shrink__
 
 ID: __HESH-15D-V-STAN-01__
 
-Hex ID: __EE36__
+Hex ID: __HS1V__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HESH-15D-V-STAN-01__
 
-Short URL: __http://oom.lt/EE36__
+Short URL: __http://oom.lt/HS1V__
 
 
 |Type   |Size   |Color   |Description   |Index   |

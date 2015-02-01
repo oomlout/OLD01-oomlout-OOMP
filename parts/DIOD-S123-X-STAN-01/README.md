@@ -6,11 +6,11 @@ Name: __SMD (SOD-123) Diode__
 
 ID: __DIOD-S123-X-STAN-01__
 
-Hex ID: __1059__
+Hex ID: __DS301__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/DIOD-S123-X-STAN-01__
 
-Short URL: __http://oom.lt/1059__
+Short URL: __http://oom.lt/DS301__
 
 
 |Type   |Size   |Color   |Description   |Index   |

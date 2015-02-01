@@ -2,15 +2,15 @@
 
 ## Summary
  
-Name: __ 4.7 uF Capacitor (Electrolytic) 63v __
+Name: __4.7 uF Capacitor (Electrolytic) 63v__
 
 ID: __CAPE-TH-X-UF47D-VD__
 
-Hex ID: __BC477__
+Hex ID: __CEU004__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPE-TH-X-UF47D-VD__
 
-Short URL: __http://oom.lt/BC477__
+Short URL: __http://oom.lt/CEU004__
 
 
 |Type   |Size   |Color   |Description   |Index   |

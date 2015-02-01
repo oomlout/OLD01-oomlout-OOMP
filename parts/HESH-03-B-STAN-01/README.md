@@ -6,11 +6,11 @@ Name: __3 mm Black Heat Shrink__
 
 ID: __HESH-03-B-STAN-01__
 
-Hex ID: __EE49__
+Hex ID: __HS3B__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HESH-03-B-STAN-01__
 
-Short URL: __http://oom.lt/EE49__
+Short URL: __http://oom.lt/HS3B__
 
 
 |Type   |Size   |Color   |Description   |Index   |

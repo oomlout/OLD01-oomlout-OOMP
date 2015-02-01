@@ -6,11 +6,11 @@ Name: __2 mm 4 Pin JST Socket__
 
 ID: __JSTS-02-X-04PI-01__
 
-Hex ID: __10CA__
+Hex ID: __J204__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/JSTS-02-X-04PI-01__
 
-Short URL: __http://oom.lt/10CA__
+Short URL: __http://oom.lt/J204__
 
 
 |Type   |Size   |Color   |Description   |Index   |

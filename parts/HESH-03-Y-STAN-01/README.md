@@ -6,11 +6,11 @@ Name: __3 mm Yellow Heat Shrink__
 
 ID: __HESH-03-Y-STAN-01__
 
-Hex ID: __EE43__
+Hex ID: __HS3Y__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HESH-03-Y-STAN-01__
 
-Short URL: __http://oom.lt/EE43__
+Short URL: __http://oom.lt/HS3Y__
 
 
 |Type   |Size   |Color   |Description   |Index   |

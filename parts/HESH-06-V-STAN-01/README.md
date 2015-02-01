@@ -6,11 +6,11 @@ Name: __6 mm Purple Heat Shrink__
 
 ID: __HESH-06-V-STAN-01__
 
-Hex ID: __EE56__
+Hex ID: __HS6V__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HESH-06-V-STAN-01__
 
-Short URL: __http://oom.lt/EE56__
+Short URL: __http://oom.lt/HS6V__
 
 
 |Type   |Size   |Color   |Description   |Index   |

@@ -2,15 +2,15 @@
 
 ## Summary
  
-Name: __ TO-220 5v Voltage Regulator 1 A __
+Name: __TO-220 5v Voltage Regulator 1 A__
 
 ID: __VREG-T220-X-V05-A1__
 
-Hex ID: __EEEE__
+Hex ID: __VT251__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/VREG-T220-X-V05-A1__
 
-Short URL: __http://oom.lt/EEEE__
+Short URL: __http://oom.lt/VT251__
 
 
 |Type   |Size   |Color   |Description   |Index   |

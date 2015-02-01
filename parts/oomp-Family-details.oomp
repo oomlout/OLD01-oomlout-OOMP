@@ -10,8 +10,8 @@
 		<familyHexNameSpace>R4</familyHexNameSpace>
 		<familyHexNameSpaceDisplay>R4###</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>
-	<oompFamily>
+</oompFamily>
+<oompFamily>
 		<familyName>SMD (0603) Varistor</familyName>
 		<familyType>VARI</familyType>
 		<familySize>0603</familySize>
@@ -534,8 +534,7 @@
 		<familyHexNameSpaceDisplay>L10#</familyHexNameSpaceDisplay>		
 		<familyAbout></familyAbout>
 	</oompFamily>
-	</oompFamily>			
-		<oompFamily>
+	<oompFamily>
 		<familyName>5 mm Tinted LED</familyName>
 		<familyType>LEDS</familyType>
 		<familySize>05</familySize>
@@ -548,8 +547,7 @@
 	</oompFamily>	
 	
 
-	</oompFamily>			
-		<oompFamily>
+	<oompFamily>
 		<familyName>5 mm LED</familyName>
 		<familyType>LEDS</familyType>
 		<familySize>05</familySize>
@@ -615,7 +613,8 @@
 		<familyHexNameSpace>HS1</familyHexNameSpace>
 		<familyHexNameSpaceDisplay>HS1#</familyHexNameSpaceDisplay>		
 		<familyAbout></familyAbout>
-		<oompFamily>
+	</oompFamily>
+	<oompFamily>
 		<familyName>Through Hole Diode 50 v</familyName>
 		<familyType>DIOD</familyType>
 		<familySize>TH</familySize>
@@ -753,4 +752,4 @@
 	</oompFamily>	
 			
 	
-	</xml>
+</xml>

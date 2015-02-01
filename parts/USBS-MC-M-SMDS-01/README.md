@@ -6,11 +6,11 @@ Name: __Micro SMD USB Socket__
 
 ID: __USBS-MC-M-SMDS-01__
 
-Hex ID: __10DD__
+Hex ID: __USM__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/USBS-MC-M-SMDS-01__
 
-Short URL: __http://oom.lt/10DD__
+Short URL: __http://oom.lt/USM__
 
 
 |Type   |Size   |Color   |Description   |Index   |

@@ -6,11 +6,11 @@ Name: __6 mm Brown Heat Shrink__
 
 ID: __HESH-06-N-STAN-01__
 
-Hex ID: __EE50__
+Hex ID: __HS6N__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HESH-06-N-STAN-01__
 
-Short URL: __http://oom.lt/EE50__
+Short URL: __http://oom.lt/HS6N__
 
 
 |Type   |Size   |Color   |Description   |Index   |

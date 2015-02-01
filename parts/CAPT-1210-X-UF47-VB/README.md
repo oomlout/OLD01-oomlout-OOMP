@@ -6,11 +6,11 @@ Name: __SMD (1210) 47 uF Capacitor (Tantalum) 10v__
 
 ID: __CAPT-1210-X-UF47-VB__
 
-Hex ID: __0FF8__
+Hex ID: __CTS2U047__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPT-1210-X-UF47-VB__
 
-Short URL: __http://oom.lt/0FF8__
+Short URL: __http://oom.lt/CTS2U047__
 
 
 |Type   |Size   |Color   |Description   |Index   |

@@ -6,11 +6,11 @@ Name: __1/4 Watt 47k Ohm Resistor__
 
 ID: __RESE-W04-X-O473-01__
 
-Hex ID: __AE473__
+Hex ID: __R4473__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-W04-X-O473-01__
 
-Short URL: __http://oom.lt/AE473__
+Short URL: __http://oom.lt/R4473__
 
 
 |Type   |Size   |Color   |Description   |Index   |

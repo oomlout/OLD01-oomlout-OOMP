@@ -6,11 +6,11 @@ Name: __6 mm Yellow Heat Shrink__
 
 ID: __HESH-06-Y-STAN-01__
 
-Hex ID: __EE53__
+Hex ID: __HS6Y__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HESH-06-Y-STAN-01__
 
-Short URL: __http://oom.lt/EE53__
+Short URL: __http://oom.lt/HS6Y__
 
 
 |Type   |Size   |Color   |Description   |Index   |

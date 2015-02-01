@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: __ SMD (0805) Green LED __
+Name: __SMD (0805) Green LED__
 
 ID: __LEDS-0805-G-STAN-01__
 

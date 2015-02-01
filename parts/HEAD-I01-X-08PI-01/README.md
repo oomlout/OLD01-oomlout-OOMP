@@ -2,15 +2,15 @@
 
 ## Summary
  
-Name: __ 2.54 mm 8 Pin Header __
+Name: __2.54 mm 8 Pin Header__
 
 ID: __HEAD-I01-X-08PI-01__
 
-Hex ID: __E608__
+Hex ID: __H08__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAD-I01-X-08PI-01__
 
-Short URL: __http://oom.lt/E608__
+Short URL: __http://oom.lt/H08__
 
 
 |Type   |Size   |Color   |Description   |Index   |

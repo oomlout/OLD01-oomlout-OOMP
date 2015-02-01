@@ -2,15 +2,15 @@
 
 ## Summary
  
-Name: __ M3 x 30 mm Metal Screw __
+Name: __M3 x 30 mm Metal Screw__
 
 ID: __SCRE-M3-M-30-01__
 
-Hex ID: __9876__
+Hex ID: __M330__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/SCRE-M3-M-30-01__
 
-Short URL: __http://oom.lt/9876__
+Short URL: __http://oom.lt/M330__
 
 
 |Type   |Size   |Color   |Description   |Index   |

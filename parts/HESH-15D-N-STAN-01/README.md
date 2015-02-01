@@ -6,11 +6,11 @@ Name: __1.5 mm Brown Heat Shrink__
 
 ID: __HESH-15D-N-STAN-01__
 
-Hex ID: __EE30__
+Hex ID: __HS1N__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HESH-15D-N-STAN-01__
 
-Short URL: __http://oom.lt/EE30__
+Short URL: __http://oom.lt/HS1N__
 
 
 |Type   |Size   |Color   |Description   |Index   |

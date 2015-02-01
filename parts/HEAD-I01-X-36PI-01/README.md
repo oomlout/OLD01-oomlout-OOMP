@@ -6,11 +6,11 @@ Name: __2.54 mm 36 Pin Header__
 
 ID: __HEAD-I01-X-36PI-01__
 
-Hex ID: __E636__
+Hex ID: __H36__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAD-I01-X-36PI-01__
 
-Short URL: __http://oom.lt/E636__
+Short URL: __http://oom.lt/H36__
 
 
 |Type   |Size   |Color   |Description   |Index   |

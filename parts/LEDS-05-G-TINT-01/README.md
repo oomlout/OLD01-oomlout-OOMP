@@ -6,11 +6,11 @@ Name: __5 mm Tinted Green LED__
 
 ID: __LEDS-05-G-TINT-01__
 
-Hex ID: __EE94__
+Hex ID: __LT5G__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/LEDS-05-G-TINT-01__
 
-Short URL: __http://oom.lt/EE94__
+Short URL: __http://oom.lt/LT5G__
 
 
 |Type   |Size   |Color   |Description   |Index   |

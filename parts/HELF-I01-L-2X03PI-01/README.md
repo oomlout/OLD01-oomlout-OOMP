@@ -6,11 +6,11 @@ Name: __2.54 mm 6 Pin (2x3) Blue Female Header (Long)__
 
 ID: __HELF-I01-L-2X03PI-01__
 
-Hex ID: __10BF__
+Hex ID: __HLFX03L__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HELF-I01-L-2X03PI-01__
 
-Short URL: __http://oom.lt/10BF__
+Short URL: __http://oom.lt/HLFX03L__
 
 
 |Type   |Size   |Color   |Description   |Index   |

@@ -6,11 +6,11 @@ Name: __SMD (0603) Green LED__
 
 ID: __LEDS-0603-G-STAN-01__
 
-Hex ID: __1056__
+Hex ID: __L6G__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/LEDS-0603-G-STAN-01__
 
-Short URL: __http://oom.lt/1056__
+Short URL: __http://oom.lt/L6G__
 
 
 |Type   |Size   |Color   |Description   |Index   |

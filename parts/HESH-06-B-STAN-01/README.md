@@ -6,11 +6,11 @@ Name: __6 mm Black Heat Shrink__
 
 ID: __HESH-06-B-STAN-01__
 
-Hex ID: __EE59__
+Hex ID: __HS6B__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HESH-06-B-STAN-01__
 
-Short URL: __http://oom.lt/EE59__
+Short URL: __http://oom.lt/HS6B__
 
 
 |Type   |Size   |Color   |Description   |Index   |

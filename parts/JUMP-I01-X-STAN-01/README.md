@@ -6,11 +6,11 @@ Name: __2.54 mm Jumper__
 
 ID: __JUMP-I01-X-STAN-01__
 
-Hex ID: __10CB__
+Hex ID: __JU01__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/JUMP-I01-X-STAN-01__
 
-Short URL: __http://oom.lt/10CB__
+Short URL: __http://oom.lt/JU01__
 
 
 |Type   |Size   |Color   |Description   |Index   |

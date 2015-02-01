@@ -6,11 +6,11 @@ Name: __28 AWG Green Stranded Wire__
 
 ID: __WIRS-G28-G-STAN-01__
 
-Hex ID: __104F__
+Hex ID: __W2G__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/WIRS-G28-G-STAN-01__
 
-Short URL: __http://oom.lt/104F__
+Short URL: __http://oom.lt/W2G__
 
 
 |Type   |Size   |Color   |Description   |Index   |

@@ -6,11 +6,11 @@ Name: __40 Wire 200 mm Rainbow Crimped Ribbon Cable__
 
 ID: __RBCC-40W-Z-L200-01__
 
-Hex ID: __EE12__
+Hex ID: __RBC2__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RBCC-40W-Z-L200-01__
 
-Short URL: __http://oom.lt/EE12__
+Short URL: __http://oom.lt/RBC2__
 
 
 |Type   |Size   |Color   |Description   |Index   |

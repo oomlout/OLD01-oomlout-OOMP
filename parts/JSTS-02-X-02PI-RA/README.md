@@ -6,11 +6,11 @@ Name: __2 mm 2 Pin JST Socket Right Angle__
 
 ID: __JSTS-02-X-02PI-RA__
 
-Hex ID: __10D4__
+Hex ID: __J202R__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/JSTS-02-X-02PI-RA__
 
-Short URL: __http://oom.lt/10D4__
+Short URL: __http://oom.lt/J202R__
 
 
 |Type   |Size   |Color   |Description   |Index   |

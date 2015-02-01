@@ -6,11 +6,11 @@ Name: __Micro SMD SD Card Socket__
 
 ID: __SDCS-MC-M-SMDS-01__
 
-Hex ID: __10BC__
+Hex ID: __SDMS__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/SDCS-MC-M-SMDS-01__
 
-Short URL: __http://oom.lt/10BC__
+Short URL: __http://oom.lt/SDMS__
 
 
 |Type   |Size   |Color   |Description   |Index   |

@@ -6,11 +6,11 @@ Name: __SMD (0603) 22 Ohm Resistor__
 
 ID: __RESE-0603-X-O220-01__
 
-Hex ID: __AF220__
+Hex ID: __R6220__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-0603-X-O220-01__
 
-Short URL: __http://oom.lt/AF220__
+Short URL: __http://oom.lt/R6220__
 
 
 |Type   |Size   |Color   |Description   |Index   |

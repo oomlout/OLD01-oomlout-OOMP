@@ -6,11 +6,11 @@ Name: __M3 x 12 mm Screw Cross Head__
 
 ID: __SCRE-M3-M-12-70__
 
-Hex ID: __E012__
+Hex ID: __M312__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/SCRE-M3-M-12-70__
 
-Short URL: __http://oom.lt/E012__
+Short URL: __http://oom.lt/M312__
 
 
 |Type   |Size   |Color   |Description   |Index   |

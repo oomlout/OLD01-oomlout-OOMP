@@ -6,11 +6,11 @@ Name: __28 AWG White Stranded Wire__
 
 ID: __WIRS-G28-W-STAN-01__
 
-Hex ID: __1053__
+Hex ID: __W2W__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/WIRS-G28-W-STAN-01__
 
-Short URL: __http://oom.lt/1053__
+Short URL: __http://oom.lt/W2W__
 
 
 |Type   |Size   |Color   |Description   |Index   |

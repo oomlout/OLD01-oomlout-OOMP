@@ -6,11 +6,11 @@ Name: __M3 x 25 mm Nylon Screw Cross Head__
 
 ID: __NSCR-M3-X-25-70__
 
-Hex ID: __DD25__
+Hex ID: __NN25__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/NSCR-M3-X-25-70__
 
-Short URL: __http://oom.lt/DD25__
+Short URL: __http://oom.lt/NN25__
 
 
 |Type   |Size   |Color   |Description   |Index   |

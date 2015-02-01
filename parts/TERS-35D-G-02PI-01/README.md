@@ -6,11 +6,11 @@ Name: __3.5 mm 2 Pin Green Screw Terminal__
 
 ID: __TERS-35D-G-02PI-01__
 
-Hex ID: __10EB__
+Hex ID: __ST302G__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/TERS-35D-G-02PI-01__
 
-Short URL: __http://oom.lt/10EB__
+Short URL: __http://oom.lt/ST302G__
 
 
 |Type   |Size   |Color   |Description   |Index   |

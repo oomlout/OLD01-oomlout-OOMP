@@ -6,11 +6,11 @@ Name: __SMD (0603) Yellow LED__
 
 ID: __LEDS-0603-Y-STAN-01__
 
-Hex ID: __1058__
+Hex ID: __L6Y__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/LEDS-0603-Y-STAN-01__
 
-Short URL: __http://oom.lt/1058__
+Short URL: __http://oom.lt/L6Y__
 
 
 |Type   |Size   |Color   |Description   |Index   |

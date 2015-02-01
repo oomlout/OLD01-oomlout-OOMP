@@ -6,11 +6,11 @@ Name: __1/4 Watt 1.5 Ohm Resistor__
 
 ID: __RESE-W04-X-O15X-01__
 
-Hex ID: __AE15A__
+Hex ID: __R415A__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-W04-X-O15X-01__
 
-Short URL: __http://oom.lt/AE15A__
+Short URL: __http://oom.lt/R415A__
 
 
 |Type   |Size   |Color   |Description   |Index   |

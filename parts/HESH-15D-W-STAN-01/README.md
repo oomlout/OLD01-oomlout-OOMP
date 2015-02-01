@@ -6,11 +6,11 @@ Name: __1.5 mm White Heat Shrink__
 
 ID: __HESH-15D-W-STAN-01__
 
-Hex ID: __EE38__
+Hex ID: __HS1W__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HESH-15D-W-STAN-01__
 
-Short URL: __http://oom.lt/EE38__
+Short URL: __http://oom.lt/HS1W__
 
 
 |Type   |Size   |Color   |Description   |Index   |

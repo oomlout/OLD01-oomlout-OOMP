@@ -6,11 +6,11 @@ Name: __6 mm Orange Heat Shrink__
 
 ID: __HESH-06-O-STAN-01__
 
-Hex ID: __EE52__
+Hex ID: __HS6O__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HESH-06-O-STAN-01__
 
-Short URL: __http://oom.lt/EE52__
+Short URL: __http://oom.lt/HS6O__
 
 
 |Type   |Size   |Color   |Description   |Index   |

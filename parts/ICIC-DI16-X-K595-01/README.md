@@ -6,11 +6,11 @@ Name: __ 16 Pin DIP 74HC595 8-Bit Shift Register (Latching) __
 
 ID: __ICIC-DI16-X-K595-01__
 
-Hex ID: __EEEEE__
+Hex ID: __ICSR__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/ICIC-DI16-X-K595-01__
 
-Short URL: __http://oom.lt/EEEEE__
+Short URL: __http://oom.lt/ICSR__
 
 
 |Type   |Size   |Color   |Description   |Index   |

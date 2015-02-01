@@ -6,11 +6,11 @@ Name: __1/4 Watt 3.3k Ohm Resistor__
 
 ID: __RESE-W04-X-O332-01__
 
-Hex ID: __AE332__
+Hex ID: __R4332__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-W04-X-O332-01__
 
-Short URL: __http://oom.lt/AE332__
+Short URL: __http://oom.lt/R4332__
 
 
 |Type   |Size   |Color   |Description   |Index   |

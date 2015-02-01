@@ -6,11 +6,11 @@ Name: __M3 x 12 mm Nylon Standoff (F-F)__
 
 ID: __NHFF-M3-X-12-01__
 
-Hex ID: __DB12__
+Hex ID: __NFF12__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/NHFF-M3-X-12-01__
 
-Short URL: __http://oom.lt/DB12__
+Short URL: __http://oom.lt/NFF12__
 
 
 |Type   |Size   |Color   |Description   |Index   |

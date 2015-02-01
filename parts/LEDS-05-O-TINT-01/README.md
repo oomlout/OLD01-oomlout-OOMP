@@ -6,11 +6,11 @@ Name: __5 mm Tinted Orange LED__
 
 ID: __LEDS-05-O-TINT-01__
 
-Hex ID: __EE92__
+Hex ID: __LT5O__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/LEDS-05-O-TINT-01__
 
-Short URL: __http://oom.lt/EE92__
+Short URL: __http://oom.lt/LT5O__
 
 
 |Type   |Size   |Color   |Description   |Index   |

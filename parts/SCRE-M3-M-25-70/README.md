@@ -6,11 +6,11 @@ Name: __M3 x 25 mm Screw Cross Head__
 
 ID: __SCRE-M3-M-25-70__
 
-Hex ID: __E025__
+Hex ID: __M325__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/SCRE-M3-M-25-70__
 
-Short URL: __http://oom.lt/E025__
+Short URL: __http://oom.lt/M325__
 
 
 |Type   |Size   |Color   |Description   |Index   |

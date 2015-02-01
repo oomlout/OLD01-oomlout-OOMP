@@ -6,11 +6,11 @@ Name: __2 mm 4 Pin JST Socket Right Angle__
 
 ID: __JSTS-02-X-04PI-RA__
 
-Hex ID: __10CF__
+Hex ID: __J204R__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/JSTS-02-X-04PI-RA__
 
-Short URL: __http://oom.lt/10CF__
+Short URL: __http://oom.lt/J204R__
 
 
 |Type   |Size   |Color   |Description   |Index   |

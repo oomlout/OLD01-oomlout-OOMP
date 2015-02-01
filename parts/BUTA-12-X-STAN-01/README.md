@@ -6,11 +6,11 @@ Name: __ 12 mm Pushbutton (Tactile) __
 
 ID: __BUTA-12-X-STAN-01__
 
-Hex ID: __EE6C__
+Hex ID: __BT12__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/BUTA-12-X-STAN-01__
 
-Short URL: __http://oom.lt/EE6C__
+Short URL: __http://oom.lt/BT12__
 
 
 |Type   |Size   |Color   |Description   |Index   |

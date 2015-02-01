@@ -6,11 +6,11 @@ Name: __14 Pin SMD (TSSOP) Quad Buffer __
 
 ID: __ICIC-TS14-X-K125-01__
 
-Hex ID: __10E7__
+Hex ID: __ICQB__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/ICIC-TS14-X-K125-01__
 
-Short URL: __http://oom.lt/10E7__
+Short URL: __http://oom.lt/ICQB__
 
 
 |Type   |Size   |Color   |Description   |Index   |

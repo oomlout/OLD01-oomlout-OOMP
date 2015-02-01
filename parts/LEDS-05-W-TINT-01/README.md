@@ -6,11 +6,11 @@ Name: __5 mm Tinted White LED__
 
 ID: __LEDS-05-W-TINT-01__
 
-Hex ID: __EE98__
+Hex ID: __LT5W__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/LEDS-05-W-TINT-01__
 
-Short URL: __http://oom.lt/EE98__
+Short URL: __http://oom.lt/LT5W__
 
 
 |Type   |Size   |Color   |Description   |Index   |

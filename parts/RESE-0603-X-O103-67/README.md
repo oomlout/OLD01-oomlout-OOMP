@@ -6,11 +6,11 @@ Name: __SMD (0603) 10k Ohm Resistor 1%__
 
 ID: __RESE-0603-X-O103-67__
 
-Hex ID: __100A__
+Hex ID: __R6103A__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-0603-X-O103-67__
 
-Short URL: __http://oom.lt/100A__
+Short URL: __http://oom.lt/R6103A__
 
 
 |Type   |Size   |Color   |Description   |Index   |

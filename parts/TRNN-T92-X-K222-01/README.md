@@ -6,11 +6,11 @@ Name: __TO-92 2222A NPN Transistor__
 
 ID: __TRNN-T92-X-K222-01__
 
-Hex ID: __10AF__
+Hex ID: __NT92222__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/TRNN-T92-X-K222-01__
 
-Short URL: __http://oom.lt/10AF__
+Short URL: __http://oom.lt/NT92222__
 
 
 |Type   |Size   |Color   |Description   |Index   |

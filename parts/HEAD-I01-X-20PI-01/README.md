@@ -2,15 +2,15 @@
 
 ## Summary
  
-Name: __ 2.54 mm 20 Pin Header __
+Name: __2.54 mm 20 Pin Header__
 
 ID: __HEAD-I01-X-20PI-01__
 
-Hex ID: __E620__
+Hex ID: __H20__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAD-I01-X-20PI-01__
 
-Short URL: __http://oom.lt/E620__
+Short URL: __http://oom.lt/H20__
 
 
 |Type   |Size   |Color   |Description   |Index   |

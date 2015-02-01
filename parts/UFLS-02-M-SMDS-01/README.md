@@ -6,11 +6,11 @@ Name: __2 mm SMD UFL Socket__
 
 ID: __UFLS-02-M-SMDS-01__
 
-Hex ID: __10D2__
+Hex ID: __UFL02S__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/UFLS-02-M-SMDS-01__
 
-Short URL: __http://oom.lt/10D2__
+Short URL: __http://oom.lt/UFL02S__
 
 
 |Type   |Size   |Color   |Description   |Index   |

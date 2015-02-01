@@ -6,11 +6,11 @@ Name: __1.5 mm Black Heat Shrink__
 
 ID: __HESH-15D-B-STAN-01__
 
-Hex ID: __EE39__
+Hex ID: __HS1B__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HESH-15D-B-STAN-01__
 
-Short URL: __http://oom.lt/EE39__
+Short URL: __http://oom.lt/HS1B__
 
 
 |Type   |Size   |Color   |Description   |Index   |

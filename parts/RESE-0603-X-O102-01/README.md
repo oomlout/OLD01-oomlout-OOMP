@@ -6,11 +6,11 @@ Name: __SMD (0603) 1k Ohm Resistor__
 
 ID: __RESE-0603-X-O102-01__
 
-Hex ID: __AF102__
+Hex ID: __R6102__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-0603-X-O102-01__
 
-Short URL: __http://oom.lt/AF102__
+Short URL: __http://oom.lt/R6102__
 
 
 |Type   |Size   |Color   |Description   |Index   |

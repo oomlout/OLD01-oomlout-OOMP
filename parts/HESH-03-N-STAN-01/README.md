@@ -6,11 +6,11 @@ Name: __3 mm Brown Heat Shrink__
 
 ID: __HESH-03-N-STAN-01__
 
-Hex ID: __EE40__
+Hex ID: __HS3N__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HESH-03-N-STAN-01__
 
-Short URL: __http://oom.lt/EE40__
+Short URL: __http://oom.lt/HS3N__
 
 
 |Type   |Size   |Color   |Description   |Index   |

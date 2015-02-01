@@ -6,11 +6,11 @@ Name: __SMD (SOT-23) PNP Transistor__
 
 ID: __TRNP-SO23-X-STAN-01__
 
-Hex ID: __105D__
+Hex ID: __PTS000__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/TRNP-SO23-X-STAN-01__
 
-Short URL: __http://oom.lt/105D__
+Short URL: __http://oom.lt/PTS000__
 
 
 |Type   |Size   |Color   |Description   |Index   |

@@ -2,15 +2,15 @@
 
 ## Summary
  
-Name: __ SMD (SOT-223) 3.3v Voltage Regulator 1 A __
+Name: __SMD (SOT-223) 3.3v Voltage Regulator 1 A__
 
 ID: __VREG-SO223-X-V33D-A1__
 
-Hex ID: __EEEEE__
+Hex ID: __VS231__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/VREG-SO223-X-V33D-A1__
 
-Short URL: __http://oom.lt/EEEEE__
+Short URL: __http://oom.lt/VS231__
 
 
 |Type   |Size   |Color   |Description   |Index   |

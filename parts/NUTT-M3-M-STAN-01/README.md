@@ -6,11 +6,11 @@ Name: __M3 Nut__
 
 ID: __NUTT-M3-M-STAN-01__
 
-Hex ID: __1075__
+Hex ID: __NU3__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/NUTT-M3-M-STAN-01__
 
-Short URL: __http://oom.lt/1075__
+Short URL: __http://oom.lt/NU3__
 
 
 |Type   |Size   |Color   |Description   |Index   |

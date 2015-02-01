@@ -6,11 +6,11 @@ Name: __2.54 mm 36 Pin Header (Long)__
 
 ID: __HEAL-I01-X-36PI-01__
 
-Hex ID: __E736__
+Hex ID: __HL36__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAL-I01-X-36PI-01__
 
-Short URL: __http://oom.lt/E736__
+Short URL: __http://oom.lt/HL36__
 
 
 |Type   |Size   |Color   |Description   |Index   |

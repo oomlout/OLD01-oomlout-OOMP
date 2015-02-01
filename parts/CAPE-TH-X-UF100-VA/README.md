@@ -2,15 +2,15 @@
 
 ## Summary
  
-Name: __ 100 uF Capacitor (Electrolytic) 25v __
+Name: __100 uF Capacitor (Electrolytic) 25v__
 
 ID: __CAPE-TH-X-UF100-VA__
 
-Hex ID: __BC014__
+Hex ID: __CEU100__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPE-TH-X-UF100-VA__
 
-Short URL: __http://oom.lt/BC014__
+Short URL: __http://oom.lt/CEU100__
 
 
 |Type   |Size   |Color   |Description   |Index   |

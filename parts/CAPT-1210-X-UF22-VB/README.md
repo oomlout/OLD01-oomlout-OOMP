@@ -6,11 +6,11 @@ Name: __SMD (1210) 22 uF Capacitor (Tantalum) 10v__
 
 ID: __CAPT-1210-X-UF22-VB__
 
-Hex ID: __0FFE__
+Hex ID: __CTS2U022__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPT-1210-X-UF22-VB__
 
-Short URL: __http://oom.lt/0FFE__
+Short URL: __http://oom.lt/CTS2U022__
 
 
 |Type   |Size   |Color   |Description   |Index   |

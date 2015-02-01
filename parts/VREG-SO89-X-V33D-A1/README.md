@@ -6,11 +6,11 @@ Name: __SMD (SOT-89) 3.3v Voltage Regulator 1 A__
 
 ID: __VREG-SO89-X-V33D-A1__
 
-Hex ID: __10E8__
+Hex ID: __VS831__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/VREG-SO89-X-V33D-A1__
 
-Short URL: __http://oom.lt/10E8__
+Short URL: __http://oom.lt/VS831__
 
 
 |Type   |Size   |Color   |Description   |Index   |

@@ -6,11 +6,11 @@ Name: __SMD (SOT-23) 3.3v Voltage Regulator 500 mA__
 
 ID: __VREG-SO23-X-V33D-A5__
 
-Hex ID: __10E5__
+Hex ID: __VS235__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/VREG-SO23-X-V33D-A5__
 
-Short URL: __http://oom.lt/10E5__
+Short URL: __http://oom.lt/VS235__
 
 
 |Type   |Size   |Color   |Description   |Index   |

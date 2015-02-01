@@ -6,11 +6,11 @@ Name: __2.54 mm 1 Pin Black Crimp Housing__
 
 ID: __CRHO-I01-B-01PI-01__
 
-Hex ID: __DA01__
+Hex ID: __CH01__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/CRHO-I01-B-01PI-01__
 
-Short URL: __http://oom.lt/DA01__
+Short URL: __http://oom.lt/CH01__
 
 
 |Type   |Size   |Color   |Description   |Index   |

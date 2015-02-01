@@ -6,11 +6,11 @@ Name: __7 mm SMD Pushbutton__
 
 ID: __BUTA-07-X-SMDS-01__
 
-Hex ID: __10C8__
+Hex ID: __B7S__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/BUTA-07-X-SMDS-01__
 
-Short URL: __http://oom.lt/10C8__
+Short URL: __http://oom.lt/B7S__
 
 
 |Type   |Size   |Color   |Description   |Index   |

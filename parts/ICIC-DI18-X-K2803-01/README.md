@@ -6,11 +6,11 @@ Name: __ 18 Pin DIP ULN2803A Octal Transistor Array __
 
 ID: __ICIC-DI18-X-K2803-01__
 
-Hex ID: __EEEEE__
+Hex ID: __IC2803__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/ICIC-DI18-X-K2803-01__
 
-Short URL: __http://oom.lt/EEEEE__
+Short URL: __http://oom.lt/IC2803__
 
 
 |Type   |Size   |Color   |Description   |Index   |

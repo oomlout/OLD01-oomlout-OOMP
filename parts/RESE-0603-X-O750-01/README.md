@@ -6,11 +6,11 @@ Name: __SMD (0603) 75 Ohm Resistor__
 
 ID: __RESE-0603-X-O750-01__
 
-Hex ID: __AF750__
+Hex ID: __R6750__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-0603-X-O750-01__
 
-Short URL: __http://oom.lt/AF750__
+Short URL: __http://oom.lt/R6750__
 
 
 |Type   |Size   |Color   |Description   |Index   |

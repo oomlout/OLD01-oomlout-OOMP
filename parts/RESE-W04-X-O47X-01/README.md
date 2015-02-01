@@ -6,11 +6,11 @@ Name: __1/4 Watt 4.7 Ohm Resistor__
 
 ID: __RESE-W04-X-O47X-01__
 
-Hex ID: __AE47A__
+Hex ID: __R447A__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-W04-X-O47X-01__
 
-Short URL: __http://oom.lt/AE47A__
+Short URL: __http://oom.lt/R447A__
 
 
 |Type   |Size   |Color   |Description   |Index   |

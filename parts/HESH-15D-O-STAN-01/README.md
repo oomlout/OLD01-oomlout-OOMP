@@ -6,11 +6,11 @@ Name: __1.5 mm Orange Heat Shrink__
 
 ID: __HESH-15D-O-STAN-01__
 
-Hex ID: __EE32__
+Hex ID: __HS1O__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HESH-15D-O-STAN-01__
 
-Short URL: __http://oom.lt/EE32__
+Short URL: __http://oom.lt/HS1O__
 
 
 |Type   |Size   |Color   |Description   |Index   |

@@ -6,11 +6,11 @@ Name: __SMD (0603) 0 Ohm Resistor__
 
 ID: __RESE-0603-X-O000-01__
 
-Hex ID: __AF__
+Hex ID: __R6000__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-0603-X-O000-01__
 
-Short URL: __http://oom.lt/AF__
+Short URL: __http://oom.lt/R6000__
 
 
 |Type   |Size   |Color   |Description   |Index   |

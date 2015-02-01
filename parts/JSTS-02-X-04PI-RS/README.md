@@ -6,11 +6,11 @@ Name: __2 mm 4 Pin JST Socket Right Angle (SMD)__
 
 ID: __JSTS-02-X-04PI-RS__
 
-Hex ID: __10CE__
+Hex ID: __J204RS__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/JSTS-02-X-04PI-RS__
 
-Short URL: __http://oom.lt/10CE__
+Short URL: __http://oom.lt/J204RS__
 
 
 |Type   |Size   |Color   |Description   |Index   |

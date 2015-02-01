@@ -6,11 +6,11 @@ Name: __40 Wire 300 mm Rainbow Crimped Ribbon Cable__
 
 ID: __RBCC-40W-Z-L300-01__
 
-Hex ID: __EE13__
+Hex ID: __RBC3__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RBCC-40W-Z-L300-01__
 
-Short URL: __http://oom.lt/EE13__
+Short URL: __http://oom.lt/RBC3__
 
 
 |Type   |Size   |Color   |Description   |Index   |

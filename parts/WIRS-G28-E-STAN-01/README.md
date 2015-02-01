@@ -6,11 +6,11 @@ Name: __28 AWG Grey Stranded Wire__
 
 ID: __WIRS-G28-E-STAN-01__
 
-Hex ID: __1052__
+Hex ID: __W2E__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/WIRS-G28-E-STAN-01__
 
-Short URL: __http://oom.lt/1052__
+Short URL: __http://oom.lt/W2E__
 
 
 |Type   |Size   |Color   |Description   |Index   |

@@ -6,11 +6,11 @@ Name: __10 mm Frosted Orange LED__
 
 ID: __LEDS-10-O-FROS-01__
 
-Hex ID: __EE02__
+Hex ID: __L10O__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/LEDS-10-O-FROS-01__
 
-Short URL: __http://oom.lt/EE02__
+Short URL: __http://oom.lt/L10O__
 
 
 |Type   |Size   |Color   |Description   |Index   |

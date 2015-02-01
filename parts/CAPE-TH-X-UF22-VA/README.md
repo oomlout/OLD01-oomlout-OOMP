@@ -2,15 +2,15 @@
 
 ## Summary
  
-Name: __ 22 uF Capacitor (Electrolytic) 25v __
+Name: __22 uF Capacitor (Electrolytic) 25v__
 
 ID: __CAPE-TH-X-UF22-VA__
 
-Hex ID: __BC226__
+Hex ID: __CEU022__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPE-TH-X-UF22-VA__
 
-Short URL: __http://oom.lt/BC226__
+Short URL: __http://oom.lt/CEU022__
 
 
 |Type   |Size   |Color   |Description   |Index   |

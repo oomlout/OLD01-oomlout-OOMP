@@ -6,11 +6,11 @@ Name: __28 AWG Brown Stranded Wire__
 
 ID: __WIRS-G28-N-STAN-01__
 
-Hex ID: __104B__
+Hex ID: __W2N__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/WIRS-G28-N-STAN-01__
 
-Short URL: __http://oom.lt/104B__
+Short URL: __http://oom.lt/W2N__
 
 
 |Type   |Size   |Color   |Description   |Index   |

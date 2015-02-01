@@ -6,11 +6,11 @@ Name: __10 uF Capacitor (Electrolytic) 25v__
 
 ID: __CAPE-TH-X-UF10-VA__
 
-Hex ID: __BC106__
+Hex ID: __CEU010__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPE-TH-X-UF10-VA__
 
-Short URL: __http://oom.lt/BC106__
+Short URL: __http://oom.lt/CEU010__
 
 
 |Type   |Size   |Color   |Description   |Index   |

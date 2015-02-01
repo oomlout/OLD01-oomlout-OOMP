@@ -2,15 +2,15 @@
 
 ## Summary
  
-Name: __ 2.54 mm 1 Pin Header __
+Name: __2.54 mm 1 Pin Header__
 
 ID: __HEAD-I01-X-01PI-01__
 
-Hex ID: __E601__
+Hex ID: __H01__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAD-I01-X-01PI-01__
 
-Short URL: __http://oom.lt/E601__
+Short URL: __http://oom.lt/H01__
 
 
 |Type   |Size   |Color   |Description   |Index   |

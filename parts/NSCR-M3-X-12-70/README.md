@@ -6,11 +6,11 @@ Name: __M3 x 12 mm Nylon Screw Cross Head__
 
 ID: __NSCR-M3-X-12-70__
 
-Hex ID: __DD12__
+Hex ID: __NS12__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/NSCR-M3-X-12-70__
 
-Short URL: __http://oom.lt/DD12__
+Short URL: __http://oom.lt/NS12__
 
 
 |Type   |Size   |Color   |Description   |Index   |

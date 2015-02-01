@@ -6,11 +6,11 @@ Name: __28 AWG Yellow Stranded Wire__
 
 ID: __WIRS-G28-Y-STAN-01__
 
-Hex ID: __104E__
+Hex ID: __W2Y__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/WIRS-G28-Y-STAN-01__
 
-Short URL: __http://oom.lt/104E__
+Short URL: __http://oom.lt/W2Y__
 
 
 |Type   |Size   |Color   |Description   |Index   |

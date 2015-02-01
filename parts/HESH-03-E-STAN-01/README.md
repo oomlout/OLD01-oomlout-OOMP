@@ -6,11 +6,11 @@ Name: __3 mm Grey Heat Shrink__
 
 ID: __HESH-03-E-STAN-01__
 
-Hex ID: __EE47__
+Hex ID: __HS3E__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HESH-03-E-STAN-01__
 
-Short URL: __http://oom.lt/EE47__
+Short URL: __http://oom.lt/HS3E__
 
 
 |Type   |Size   |Color   |Description   |Index   |

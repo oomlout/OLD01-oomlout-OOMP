@@ -6,11 +6,11 @@ Name: __1/4 Watt 1k Ohm Resistor__
 
 ID: __RESE-W04-X-O102-01__
 
-Hex ID: __AE102__
+Hex ID: __R4102__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-W04-X-O102-01__
 
-Short URL: __http://oom.lt/AE102__
+Short URL: __http://oom.lt/R4102__
 
 
 |Type   |Size   |Color   |Description   |Index   |

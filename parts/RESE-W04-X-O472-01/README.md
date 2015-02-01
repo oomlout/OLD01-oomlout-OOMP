@@ -6,11 +6,11 @@ Name: __1/4 Watt 4.7k Ohm Resistor__
 
 ID: __RESE-W04-X-O472-01__
 
-Hex ID: __AE472__
+Hex ID: __R4472__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-W04-X-O472-01__
 
-Short URL: __http://oom.lt/AE472__
+Short URL: __http://oom.lt/R4472__
 
 
 |Type   |Size   |Color   |Description   |Index   |

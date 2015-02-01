@@ -6,11 +6,11 @@ Name: __2.54 mm 8 Pin Black Crimp Housing__
 
 ID: __CRHO-I01-B-08PI-01__
 
-Hex ID: __DA08__
+Hex ID: __CH08__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/CRHO-I01-B-08PI-01__
 
-Short URL: __http://oom.lt/DA08__
+Short URL: __http://oom.lt/CH08__
 
 
 |Type   |Size   |Color   |Description   |Index   |

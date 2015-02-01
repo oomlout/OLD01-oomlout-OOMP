@@ -6,11 +6,11 @@ Name: __SMD (1206) 500 mA Resetable Fuse 8v__
 
 ID: __REFU-1206-X-A05D-V8__
 
-Hex ID: __10B3__
+Hex ID: __RF15__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/REFU-1206-X-A05D-V8__
 
-Short URL: __http://oom.lt/10B3__
+Short URL: __http://oom.lt/RF15__
 
 
 |Type   |Size   |Color   |Description   |Index   |

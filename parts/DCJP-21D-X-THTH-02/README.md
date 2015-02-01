@@ -6,11 +6,11 @@ Name: __2.1 mm Through Hole DC Jack__
 
 ID: __DCJP-21D-X-THTH-02__
 
-Hex ID: __10D1__
+Hex ID: __DJ2Z__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/DCJP-21D-X-THTH-02__
 
-Short URL: __http://oom.lt/10D1__
+Short URL: __http://oom.lt/DJ2Z__
 
 
 |Type   |Size   |Color   |Description   |Index   |

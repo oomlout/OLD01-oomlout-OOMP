@@ -6,11 +6,11 @@ Name: __2.54 mm 8 Pin Yellow Female Header__
 
 ID: __HEAF-I01-Y-08PI-01__
 
-Hex ID: __10C2__
+Hex ID: __HF08Y__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAF-I01-Y-08PI-01__
 
-Short URL: __http://oom.lt/10C2__
+Short URL: __http://oom.lt/HF08Y__
 
 
 |Type   |Size   |Color   |Description   |Index   |

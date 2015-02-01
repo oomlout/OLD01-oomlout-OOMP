@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: __ SMD (1206-8) 1k Ohm (x4) Resistor Array __
+Name: __SMD (1206-8) 1k Ohm (x4) Resistor Array__
 
 ID: __RESA-1268-X-O102X4-01__
 

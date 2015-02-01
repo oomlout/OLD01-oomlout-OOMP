@@ -6,11 +6,11 @@ Name: __3 mm White Heat Shrink__
 
 ID: __HESH-03-W-STAN-01__
 
-Hex ID: __EE48__
+Hex ID: __HS3W__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HESH-03-W-STAN-01__
 
-Short URL: __http://oom.lt/EE48__
+Short URL: __http://oom.lt/HS3W__
 
 
 |Type   |Size   |Color   |Description   |Index   |

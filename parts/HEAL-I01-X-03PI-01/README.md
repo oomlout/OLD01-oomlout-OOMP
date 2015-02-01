@@ -2,15 +2,15 @@
 
 ## Summary
  
-Name: __ 2.54 mm 3 Pin Header (Long) __
+Name: __2.54 mm 3 Pin Header (Long)__
 
 ID: __HEAL-I01-X-03PI-01__
 
-Hex ID: __E703__
+Hex ID: __HL03__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAL-I01-X-03PI-01__
 
-Short URL: __http://oom.lt/E703__
+Short URL: __http://oom.lt/HL03__
 
 
 |Type   |Size   |Color   |Description   |Index   |

@@ -6,11 +6,11 @@ Name: __M3 x 30 mm Nylon Standoff (F-F)__
 
 ID: __NHFF-M3-X-30-01__
 
-Hex ID: __DB30__
+Hex ID: __NFF30__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/NHFF-M3-X-30-01__
 
-Short URL: __http://oom.lt/DB30__
+Short URL: __http://oom.lt/NFF30__
 
 
 |Type   |Size   |Color   |Description   |Index   |

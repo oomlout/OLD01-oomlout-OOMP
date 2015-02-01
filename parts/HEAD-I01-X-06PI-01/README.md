@@ -2,15 +2,15 @@
 
 ## Summary
  
-Name: __ 2.54 mm 6 Pin Header __
+Name: __2.54 mm 6 Pin Header__
 
 ID: __HEAD-I01-X-06PI-01__
 
-Hex ID: __E606__
+Hex ID: __H06__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAD-I01-X-06PI-01__
 
-Short URL: __http://oom.lt/E606__
+Short URL: __http://oom.lt/H06__
 
 
 |Type   |Size   |Color   |Description   |Index   |

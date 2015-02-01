@@ -6,11 +6,11 @@ Name: __1/4 Watt 330k Ohm Resistor__
 
 ID: __RESE-W04-X-O334-01__
 
-Hex ID: __AE334__
+Hex ID: __R4334__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-W04-X-O334-01__
 
-Short URL: __http://oom.lt/AE334__
+Short URL: __http://oom.lt/R4334__
 
 
 |Type   |Size   |Color   |Description   |Index   |

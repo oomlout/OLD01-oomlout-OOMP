@@ -6,11 +6,11 @@ Name: __1/4 Watt 100k Ohm Resistor__
 
 ID: __RESE-W04-X-O104-01__
 
-Hex ID: __AE104__
+Hex ID: __R4104__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-W04-X-O104-01__
 
-Short URL: __http://oom.lt/AE104__
+Short URL: __http://oom.lt/R4104__
 
 
 |Type   |Size   |Color   |Description   |Index   |

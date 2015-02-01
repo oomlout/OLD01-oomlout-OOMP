@@ -6,11 +6,11 @@ Name: __1/4 Watt 10 Ohm Resistor__
 
 ID: __RESE-W04-X-O100-01__
 
-Hex ID: __AE100__
+Hex ID: __R4100__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-W04-X-O100-01__
 
-Short URL: __http://oom.lt/AE100__
+Short URL: __http://oom.lt/R4100__
 
 
 |Type   |Size   |Color   |Description   |Index   |

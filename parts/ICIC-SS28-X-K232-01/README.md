@@ -6,11 +6,11 @@ Name: __28 Pin SMD (SSOP) FTDI USB-Serial __
 
 ID: __ICIC-SS28-X-K232-01__
 
-Hex ID: __10E3__
+Hex ID: __IC232__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/ICIC-SS28-X-K232-01__
 
-Short URL: __http://oom.lt/10E3__
+Short URL: __http://oom.lt/IC232__
 
 
 |Type   |Size   |Color   |Description   |Index   |

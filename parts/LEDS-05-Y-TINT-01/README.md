@@ -6,11 +6,11 @@ Name: __5 mm Tinted Yellow LED__
 
 ID: __LEDS-05-Y-TINT-01__
 
-Hex ID: __EE93__
+Hex ID: __LT5Y__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/LEDS-05-Y-TINT-01__
 
-Short URL: __http://oom.lt/EE93__
+Short URL: __http://oom.lt/LT5Y__
 
 
 |Type   |Size   |Color   |Description   |Index   |

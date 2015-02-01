@@ -6,11 +6,11 @@ Name: __9 mm DPDT Switch (Slide)__
 
 ID: __SWIS-09-X-DPDT-01__
 
-Hex ID: __10C7__
+Hex ID: __SSW9D__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/SWIS-09-X-DPDT-01__
 
-Short URL: __http://oom.lt/10C7__
+Short URL: __http://oom.lt/SSW9D__
 
 
 |Type   |Size   |Color   |Description   |Index   |

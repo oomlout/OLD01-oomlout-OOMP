@@ -6,11 +6,11 @@ Name: __1/4 Watt 22k Ohm Resistor__
 
 ID: __RESE-W04-X-O223-01__
 
-Hex ID: __AE223__
+Hex ID: __R4223__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-W04-X-O223-01__
 
-Short URL: __http://oom.lt/AE223__
+Short URL: __http://oom.lt/R4223__
 
 
 |Type   |Size   |Color   |Description   |Index   |

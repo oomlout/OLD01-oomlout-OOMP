@@ -6,11 +6,11 @@ Name: __SMD (SOT-23) NPN Transistor__
 
 ID: __TRNN-SO23-X-STAN-01__
 
-Hex ID: __105B__
+Hex ID: __NTS000__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/TRNN-SO23-X-STAN-01__
 
-Short URL: __http://oom.lt/105B__
+Short URL: __http://oom.lt/NTS000__
 
 
 |Type   |Size   |Color   |Description   |Index   |

@@ -2,15 +2,15 @@
 
 ## Summary
  
-Name: __ 2.54 mm 16 Pin Header __
+Name: __2.54 mm 16 Pin Header__
 
 ID: __HEAD-I01-X-16PI-01__
 
-Hex ID: __E616__
+Hex ID: __H16__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAD-I01-X-16PI-01__
 
-Short URL: __http://oom.lt/E616__
+Short URL: __http://oom.lt/H16__
 
 
 |Type   |Size   |Color   |Description   |Index   |

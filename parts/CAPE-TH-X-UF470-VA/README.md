@@ -2,15 +2,15 @@
 
 ## Summary
  
-Name: __ 470 uF Capacitor (Electrolytic) 25v __
+Name: __470 uF Capacitor (Electrolytic) 25v__
 
 ID: __CAPE-TH-X-UF470-VA__
 
-Hex ID: __BC475__
+Hex ID: __CEU470__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPE-TH-X-UF470-VA__
 
-Short URL: __http://oom.lt/BC475__
+Short URL: __http://oom.lt/CEU470__
 
 
 |Type   |Size   |Color   |Description   |Index   |

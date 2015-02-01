@@ -6,11 +6,11 @@ Name: __28 AWG Purple Stranded Wire__
 
 ID: __WIRS-G28-V-STAN-01__
 
-Hex ID: __1051__
+Hex ID: __W2V__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/WIRS-G28-V-STAN-01__
 
-Short URL: __http://oom.lt/1051__
+Short URL: __http://oom.lt/W2V__
 
 
 |Type   |Size   |Color   |Description   |Index   |

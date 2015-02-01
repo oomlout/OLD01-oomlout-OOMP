@@ -6,11 +6,11 @@ Name: __10 mm Frosted Blue LED__
 
 ID: __LEDS-10-L-FROS-01__
 
-Hex ID: __EE05__
+Hex ID: __L10L__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/LEDS-10-L-FROS-01__
 
-Short URL: __http://oom.lt/EE05__
+Short URL: __http://oom.lt/L10L__
 
 
 |Type   |Size   |Color   |Description   |Index   |

@@ -6,11 +6,11 @@ Name: __1/4 Watt 270 Ohm Resistor__
 
 ID: __RESE-W04-X-O271-01__
 
-Hex ID: __AE271__
+Hex ID: __R4271__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-W04-X-O271-01__
 
-Short URL: __http://oom.lt/AE271__
+Short URL: __http://oom.lt/R4271__
 
 
 |Type   |Size   |Color   |Description   |Index   |

@@ -6,11 +6,11 @@ Name: __SMD (0603) 390 Ohm Resistor__
 
 ID: __RESE-0603-X-O391-01__
 
-Hex ID: __AF391__
+Hex ID: __R6391__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-0603-X-O391-01__
 
-Short URL: __http://oom.lt/AF391__
+Short URL: __http://oom.lt/R6391__
 
 
 |Type   |Size   |Color   |Description   |Index   |

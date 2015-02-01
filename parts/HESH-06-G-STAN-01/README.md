@@ -6,11 +6,11 @@ Name: __6 mm Green Heat Shrink__
 
 ID: __HESH-06-G-STAN-01__
 
-Hex ID: __EE54__
+Hex ID: __HS6G__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HESH-06-G-STAN-01__
 
-Short URL: __http://oom.lt/EE54__
+Short URL: __http://oom.lt/HS6G__
 
 
 |Type   |Size   |Color   |Description   |Index   |

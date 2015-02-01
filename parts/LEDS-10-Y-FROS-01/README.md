@@ -6,11 +6,11 @@ Name: __10 mm Frosted Yellow LED__
 
 ID: __LEDS-10-Y-FROS-01__
 
-Hex ID: __EE03__
+Hex ID: __L10Y__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/LEDS-10-Y-FROS-01__
 
-Short URL: __http://oom.lt/EE03__
+Short URL: __http://oom.lt/L10Y__
 
 
 |Type   |Size   |Color   |Description   |Index   |

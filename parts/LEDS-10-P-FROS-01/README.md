@@ -6,11 +6,11 @@ Name: __10 mm Frosted Pink LED__
 
 ID: __LEDS-10-P-FROS-01__
 
-Hex ID: __EE0A__
+Hex ID: __L10P__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/LEDS-10-P-FROS-01__
 
-Short URL: __http://oom.lt/EE0A__
+Short URL: __http://oom.lt/L10P__
 
 
 |Type   |Size   |Color   |Description   |Index   |

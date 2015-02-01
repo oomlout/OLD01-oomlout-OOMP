@@ -2,15 +2,15 @@
 
 ## Summary
  
-Name: __ 1 uF Capacitor (Electrolytic) 63v __
+Name: __1 uF Capacitor (Electrolytic) 63v__
 
 ID: __CAPE-TH-X-UF1-VD__
 
-Hex ID: __BC016__
+Hex ID: __CEU001__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPE-TH-X-UF1-VD__
 
-Short URL: __http://oom.lt/BC016__
+Short URL: __http://oom.lt/CEU001__
 
 
 |Type   |Size   |Color   |Description   |Index   |

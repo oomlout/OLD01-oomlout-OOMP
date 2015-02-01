@@ -6,11 +6,11 @@ Name: __1/4 Watt 220 Ohm Resistor__
 
 ID: __RESE-W04-X-O221-01__
 
-Hex ID: __AE221__
+Hex ID: __R4221__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-W04-X-O221-01__
 
-Short URL: __http://oom.lt/AE221__
+Short URL: __http://oom.lt/R4221__
 
 
 |Type   |Size   |Color   |Description   |Index   |

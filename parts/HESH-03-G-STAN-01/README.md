@@ -6,11 +6,11 @@ Name: __3 mm Green Heat Shrink__
 
 ID: __HESH-03-G-STAN-01__
 
-Hex ID: __EE44__
+Hex ID: __HS3G__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HESH-03-G-STAN-01__
 
-Short URL: __http://oom.lt/EE44__
+Short URL: __http://oom.lt/HS3G__
 
 
 |Type   |Size   |Color   |Description   |Index   |

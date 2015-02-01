@@ -2,15 +2,15 @@
 
 ## Summary
  
-Name: __ SMD (SOT-23) 3.3v Voltage Regulator 250 mA __
+Name: __SMD (SOT-23) 3.3v Voltage Regulator 250 mA__
 
 ID: __VREG-SO23-X-V33D-AD__
 
-Hex ID: __EEEEE__
+Hex ID: __VS332__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/VREG-SO23-X-V33D-AD__
 
-Short URL: __http://oom.lt/EEEEE__
+Short URL: __http://oom.lt/VS332__
 
 
 |Type   |Size   |Color   |Description   |Index   |

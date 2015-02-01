@@ -6,11 +6,11 @@ Name: __1.5 mm Yellow Heat Shrink__
 
 ID: __HESH-15D-Y-STAN-01__
 
-Hex ID: __EE33__
+Hex ID: __HS1Y__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HESH-15D-Y-STAN-01__
 
-Short URL: __http://oom.lt/EE33__
+Short URL: __http://oom.lt/HS1Y__
 
 
 |Type   |Size   |Color   |Description   |Index   |

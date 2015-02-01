@@ -6,11 +6,11 @@ Name: __1.5 mm Blue Heat Shrink__
 
 ID: __HESH-15D-L-STAN-01__
 
-Hex ID: __EE35__
+Hex ID: __HS1L__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HESH-15D-L-STAN-01__
 
-Short URL: __http://oom.lt/EE35__
+Short URL: __http://oom.lt/HS1L__
 
 
 |Type   |Size   |Color   |Description   |Index   |

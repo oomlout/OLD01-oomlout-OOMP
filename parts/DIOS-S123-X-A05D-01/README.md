@@ -6,11 +6,11 @@ Name: __SMD (SOD-123) 500 mA Diode (Schottky)__
 
 ID: __DIOS-S123-X-A05D-01__
 
-Hex ID: __10B5__
+Hex ID: __DS205__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/DIOS-S123-X-A05D-01__
 
-Short URL: __http://oom.lt/10B5__
+Short URL: __http://oom.lt/DS205__
 
 
 |Type   |Size   |Color   |Description   |Index   |

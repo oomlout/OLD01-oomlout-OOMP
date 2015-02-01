@@ -6,11 +6,11 @@ Name: __1/4 Watt 0 Ohm Resistor__
 
 ID: __RESE-W04-X-O000-01__
 
-Hex ID: __AE000__
+Hex ID: __R4000__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-W04-X-O000-01__
 
-Short URL: __http://oom.lt/AE000__
+Short URL: __http://oom.lt/R4000__
 
 
 |Type   |Size   |Color   |Description   |Index   |

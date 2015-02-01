@@ -6,11 +6,11 @@ Name: __100 nF Capacitor (Tantalum) 50v__
 
 ID: __CAPT-TH-X-NF100-VC__
 
-Hex ID: __B0649__
+Hex ID: __CTN100__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPT-TH-X-NF100-VC__
 
-Short URL: __http://oom.lt/B0649__
+Short URL: __http://oom.lt/CTN100__
 
 
 |Type   |Size   |Color   |Description   |Index   |

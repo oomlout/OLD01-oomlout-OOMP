@@ -2,15 +2,15 @@
 
 ## Summary
  
-Name: __ 2.2 uF Capacitor (Electrolytic) 63v __
+Name: __2.2 uF Capacitor (Electrolytic) 63v__
 
 ID: __CAPE-TH-X-UF22D-VD__
 
-Hex ID: __BC227__
+Hex ID: __CEU002__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPE-TH-X-UF22D-VD__
 
-Short URL: __http://oom.lt/BC227__
+Short URL: __http://oom.lt/CEU002__
 
 
 |Type   |Size   |Color   |Description   |Index   |

@@ -6,11 +6,11 @@ Name: __SMD (0603) 330 Ohm Resistor__
 
 ID: __RESE-0603-X-O331-01__
 
-Hex ID: __AF331__
+Hex ID: __R6331__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-0603-X-O331-01__
 
-Short URL: __http://oom.lt/AF331__
+Short URL: __http://oom.lt/R6331__
 
 
 |Type   |Size   |Color   |Description   |Index   |

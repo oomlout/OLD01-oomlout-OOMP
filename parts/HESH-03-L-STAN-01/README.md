@@ -6,11 +6,11 @@ Name: __3 mm Blue Heat Shrink__
 
 ID: __HESH-03-L-STAN-01__
 
-Hex ID: __EE45__
+Hex ID: __HS3L__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HESH-03-L-STAN-01__
 
-Short URL: __http://oom.lt/EE45__
+Short URL: __http://oom.lt/HS3L__
 
 
 |Type   |Size   |Color   |Description   |Index   |

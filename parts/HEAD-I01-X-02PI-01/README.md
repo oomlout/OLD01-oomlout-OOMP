@@ -2,15 +2,15 @@
 
 ## Summary
  
-Name: __ 2.54 mm 2 Pin Header __
+Name: __2.54 mm 2 Pin Header__
 
 ID: __HEAD-I01-X-02PI-01__
 
-Hex ID: __E602__
+Hex ID: __H02__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAD-I01-X-02PI-01__
 
-Short URL: __http://oom.lt/E602__
+Short URL: __http://oom.lt/H02__
 
 
 |Type   |Size   |Color   |Description   |Index   |

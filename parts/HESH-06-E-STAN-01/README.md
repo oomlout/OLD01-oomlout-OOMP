@@ -6,11 +6,11 @@ Name: __6 mm Grey Heat Shrink__
 
 ID: __HESH-06-E-STAN-01__
 
-Hex ID: __EE57__
+Hex ID: __HS6E__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HESH-06-E-STAN-01__
 
-Short URL: __http://oom.lt/EE57__
+Short URL: __http://oom.lt/HS6E__
 
 
 |Type   |Size   |Color   |Description   |Index   |

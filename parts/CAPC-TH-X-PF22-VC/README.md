@@ -6,11 +6,11 @@ Name: __22 pF Capacitor (Ceramic) 50v__
 
 ID: __CAPC-TH-X-PF22-VC__
 
-Hex ID: __BB22C__
+Hex ID: __CCP022__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPC-TH-X-PF22-VC__
 
-Short URL: __http://oom.lt/BB22C__
+Short URL: __http://oom.lt/CCP022__
 
 
 |Type   |Size   |Color   |Description   |Index   |

@@ -6,11 +6,11 @@ Name: __1/4 Watt 1.5k Ohm Resistor__
 
 ID: __RESE-W04-X-O152-01__
 
-Hex ID: __AE152__
+Hex ID: __R4152__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-W04-X-O152-01__
 
-Short URL: __http://oom.lt/AE152__
+Short URL: __http://oom.lt/R4152__
 
 
 |Type   |Size   |Color   |Description   |Index   |

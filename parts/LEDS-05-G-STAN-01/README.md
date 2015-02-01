@@ -6,11 +6,11 @@ Name: __5 mm Green LED__
 
 ID: __LEDS-05-G-STAN-01__
 
-Hex ID: __0F8F__
+Hex ID: __L5G__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/LEDS-05-G-STAN-01__
 
-Short URL: __http://oom.lt/0F8F__
+Short URL: __http://oom.lt/L5G__
 
 
 |Type   |Size   |Color   |Description   |Index   |
