@@ -6,11 +6,11 @@ Name: __TO-252 5v Voltage Regulator 500 mA__
 
 ID: __VREG-T252-X-V05-A5__
 
-Hex ID: __VT255__
+Hex ID: __VT555__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/VREG-T252-X-V05-A5__
 
-Short URL: __http://oom.lt/VT255__
+Short URL: __http://oom.lt/VT555__
 
 
 |Type   |Size   |Color   |Description   |Index   |

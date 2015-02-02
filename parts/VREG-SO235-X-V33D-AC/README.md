@@ -6,11 +6,11 @@ Name: __SMD (SOT-23-5) 3.3v Voltage Regulator 150 mA__
 
 ID: __VREG-SO235-X-V33D-AC__
 
-Hex ID: __VSS533__
+Hex ID: __VS533__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/VREG-SO235-X-V33D-AC__
 
-Short URL: __http://oom.lt/VSS533__
+Short URL: __http://oom.lt/VS533__
 
 
 |Type   |Size   |Color   |Description   |Index   |

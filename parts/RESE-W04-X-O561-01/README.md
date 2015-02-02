@@ -6,11 +6,11 @@ Name: __1/4 Watt 560 Ohm Resistor__
 
 ID: __RESE-W04-X-O561-01__
 
-Hex ID: __RF561__
+Hex ID: __R4561__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-W04-X-O561-01__
 
-Short URL: __http://oom.lt/RF561__
+Short URL: __http://oom.lt/R4561__
 
 
 |Type   |Size   |Color   |Description   |Index   |

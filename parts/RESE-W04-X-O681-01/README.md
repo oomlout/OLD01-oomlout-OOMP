@@ -6,11 +6,11 @@ Name: __1/4 Watt 680 Ohm Resistor__
 
 ID: __RESE-W04-X-O681-01__
 
-Hex ID: __RF681__
+Hex ID: __R4681__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-W04-X-O681-01__
 
-Short URL: __http://oom.lt/RF681__
+Short URL: __http://oom.lt/R4681__
 
 
 |Type   |Size   |Color   |Description   |Index   |

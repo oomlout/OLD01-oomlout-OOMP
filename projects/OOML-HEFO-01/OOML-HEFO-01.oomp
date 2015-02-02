@@ -1,0 +1,234 @@
+﻿<xml>
+
+    <oompProject>
+        <index>0002</index>
+
+<!--OOMP Base -->
+        <oompID>OOML-HEFO-01</oompID>
+        <name>Hello Flower (Arduino Compatible)</name>
+        <hexID>HEFO</hexID>
+        <oompSort></oompSort>
+        <oompVersion>01</oompVersion>
+		<oompAbout>A delightfully fun and whimsical Arduino compatible board.</oompAbout>
+		<oompOfficialLink>http://oom.lt/HEFO-01</oompOfficialLink>
+
+		
+<!--About -->
+		<company>Oomlout</company>
+		<companyCode>C-OOML</companyCode>
+			
+<!--Size -->
+        <ooWidth></ooWidth>
+        <ooHeight></ooHeight>
+        <ooDiameter></ooDiameter>
+        <ooLength></ooLength>
+        <ooDepth></ooDepth>
+
+<!-- Details -->
+		<numComponents>48</numComponents>
+		<numUniqueComponents>32</numUniqueComponents>
+		
+<!-- Source Files -->		
+		<sourceFileList>
+			<source>
+				<sourceIndex>1</sourceIndex>
+				<sourceType>Design Repository</sourceType>
+				<sourceFormat>(github)</sourceFormat>
+				<sourceNote></sourceNote>
+				<sourceLink>https://github.com/boldport/hello-flower</sourceLink>
+			</source>
+		</sourceFileList>
+
+<COM>Commponent List</COM>		
+		<componentList>
+		<component>
+				<compIndex>1,2,3,4,5,6,7,8</compIndex>
+				<compIden>R1,R2,R3,R4,R5,R6,R7,R8</compIden>
+				<compID>RESE-W04-X-O471-01</compID>
+				<compWhy>Current Limiting Resistors for LEDs</compWhy>
+				<compDesc></compDesc>
+			</component>
+			<component>
+				<compIndex>9</compIndex>
+				<compIden>R9</compIden>
+				<compID>RESE-W04-X-O103-01</compID>
+				<compWhy>Pull Up Resistor for Reset Button</compWhy>
+				<compDesc></compDesc>
+			</component>
+			<component>
+				<compIndex>10,11,12,13,14,15,16,17</compIndex>
+				<compIden>LED1,LED2,LED3,LED4,LED5,LED6,LED7,LED8</compIden>
+				<compID>LEDS-10-P-FROS-01</compID>
+				<compWhy>LEDs to Light Up</compWhy>
+				<compDesc></compDesc>
+			</component>
+			<component>
+				<compIndex>18,19</compIndex>
+				<compIden>C1,C2</compIden>
+				<compID>CAPC-TH-X-PF22-VC</compID>
+				<compWhy>Capacitors to Support the Crystal</compWhy>
+				<compDesc></compDesc>
+			</component>
+			<component>
+				<compIndex>20,21,22,23</compIndex>
+				<compIden>C3,C4,C5,C6</compIden>
+				<compID>CAPT-TH-X-NF100-VC</compID>
+				<compWhy><![CDATA[C3-C5 Decoupling Capacitors<br>C6 Auto Reset Capacitor]]></compWhy>
+				<compDesc></compDesc>
+			</component>
+			<component>
+				<compIndex>24</compIndex>
+				<compIden>C7</compIden>
+				<compID>CAPE-TH-X-UF10-VA</compID>
+				<compWhy>Power Supply Smoothing</compWhy>
+				<compDesc></compDesc>
+			</component>
+			<component>
+				<compIndex>25</compIndex>
+				<compIden>Y1</compIden>
+				<compID>XTAL-TH-X-MZ16-01</compID>
+				<compWhy>Clock Source</compWhy>
+				<compDesc></compDesc>
+			</component>
+			<component>
+				<compIndex>26</compIndex>
+				<compIden>D1</compIden>
+				<compID>DIOD-TH-X-A01-VC</compID>
+				<compWhy>Auto Reset Circuit</compWhy>
+				<compDesc></compDesc>
+			</component>
+			<component>
+				<compIndex>27</compIndex>
+				<compIden>IC1</compIden>
+				<compID>ICIC-DI28-X-K328-01</compID>
+				<compWhy>Microcontroller</compWhy>
+				<compDesc></compDesc>
+			</component>
+			<component>
+				<compIndex>28</compIndex>
+				<compIden>IS1</compIden>
+				<compID>ICSO-DI28-X-STAN-01</compID>
+				<compWhy></compWhy>
+				<compDesc></compDesc>
+			</component>
+			<component>
+				<compIndex>29,30</compIndex>
+				<compIden>SW1,SW2</compIden>
+				<compID>BUTA-12-X-STAN-01</compID>
+				<compWhy><![CDATA[SW1 - Input Button<br> SW2 - Arduino Reset Button]]></compWhy>
+				<compDesc></compDesc>
+			</component>
+			<component>
+				<compIndex>31</compIndex>
+				<compIden>J1,J2</compIden>
+				<compID>HEAF-I01-X-08PI-01</compID>
+				<compWhy>Access to Arduino Digital Pins</compWhy>
+				<compDesc></compDesc>
+			</component>
+			<component>
+				<compIndex>32</compIndex>
+				<compIden>J5</compIden>
+				<compID>HEAD-I01-X-06PI-01</compID>
+				<compWhy></compWhy>
+				<compDesc></compDesc>
+			</component>
+		</componentList>
+		<sourceList>
+			<manufacturer>
+				<company>Arduino</company>
+				<companyCode>C-ARDU</companyCode>
+				<name></name>
+				<partID>A000066</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<bigDistributor>
+				<company>DigiKey</company>
+				<companyCode>C-DIGK</companyCode>
+				<name>ARDUINO UNO BOARD REV3</name>
+				<partID>1050-1024-ND</partID>
+				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/A000066/1050-1024-ND/2784006]]></link>
+				<note></note>
+			</bigDistributor>
+
+			<bigDistributor>
+				<company>Farnell</company>
+				<companyCode>C-FARN</companyCode>
+				<name>ARDUINO  A000066  ATMEGA328, ARDUINO UNO, EVAL BOARD</name>
+				<partID>2075382</partID>
+				<link><![CDATA[http://uk.farnell.com/arduino/a000066/atmega328-arduino-uno-eval-board/dp/2075382]]></link>
+				<note></note>
+			</bigDistributor>			
+			<bigDistributor>
+				<company>Mouser</company>
+				<companyCode>C-MOUS</companyCode>
+				<name><![CDATA[Development Boards & Kits - AVR ARDUINO UNO REV 3]]></name>
+				<partID>782-A000066</partID>
+				<link><![CDATA[http://uk.mouser.com/ProductDetail/Arduino/A000066/?qs=sGAEpiMZZMtE4ePzUE8d2JuFIVM5Ac0l]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>Rapid Electronics</company>
+				<companyCode>C-RAPI</companyCode>
+				<name>Arduino Uno A000066 Board R3</name>
+				<partID>73-4440</partID>
+				<link><![CDATA[http://www.rapidonline.com/electronic-components/arduino-uno-a000066-board-r3-73-4440]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>RS</company>
+				<companyCode>C-RSRS</companyCode>
+				<name>Arduino Uno ATmega328 MCU Board Rev 3</name>
+				<partID>715-4081</partID>
+				<link><![CDATA[http://uk.rs-online.com/web/p/processor-microcontroller-development-kits/7154081/]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>Adafruit</company>
+				<companyCode>C-ADAF</companyCode>
+				<name>Arduino Uno R3 (Atmega328 - assembled)</name>
+				<partID>50</partID>
+				<link><![CDATA[https://www.adafruit.com/products/50]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>Oomlout</company>
+				<companyCode>C-OOML</companyCode>
+				<name>Arduino UNO (Rev 3)</name>
+				<partID>ARDU-03</partID>
+				<link><![CDATA[http://oomlout.co.uk/products/arduino-uno]]></link>
+				<note></note>
+			</bigDistributor>			
+			
+			<bigDistributor>
+				<company>SEEED Studio</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>Arduino Uno Rev3</name>
+				<partID>ARD132D2P</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/Arduino-Uno-Rev3-p-694.html]]></link>
+				<note></note>
+			</bigDistributor>
+			
+			<bigDistributor>
+				<company>Sparkfun</company>
+				<companyCode>C-SPAR</companyCode>
+				<name>Arduino Uno - R3</name>
+				<partID>11021</partID>
+				<link><![CDATA[https://www.sparkfun.com/products/11021]]></link>
+				<note></note>
+			</bigDistributor>			
+		</sourceList>
+		<oplList>
+			<oplSystem>
+				<oplScheme>Octopart CPL</oplScheme>
+				<oplCode>C-OCTO</oplCode>
+				<oplName>Arduino - A000066 - Arduino Uno</oplName>
+				<oplID>Arduino - A000066 - Arduino Uno</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://octopart.com/common-parts-library#Platforms]]></oplLink>
+			</oplSystem>
+		</oplList>
+
+</oompProject>
+</xml>
