@@ -7,7 +7,7 @@ ID: ____
 
 Hex ID: ____
 
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/AAAA\HEDS-35D-X-SMDS-01__
+WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEDS-35D-X-SMDS-01__
 
 Short URL: __http://oom.lt/__
 
@@ -16,8 +16,8 @@ Short URL: __http://oom.lt/__
 | ____ <br>  | ____<br>   |____<br>    |____<br>    | ____<br>  |
 
 
-![AAAA\HEDS-35D-X-SMDS-01](http://oomlout.com/oomp-gen/parts/AAAA\HEDS-35D-X-SMDS-01/AAAA\HEDS-35D-X-SMDS-01_420.jpg)
+![HEDS-35D-X-SMDS-01](http://oomlout.com/oomp-gen/parts/HEDS-35D-X-SMDS-01/HEDS-35D-X-SMDS-01_420.jpg)
 
 
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/AAAA\HEDS-35D-X-SMDS-01
+ http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEDS-35D-X-SMDS-01
 

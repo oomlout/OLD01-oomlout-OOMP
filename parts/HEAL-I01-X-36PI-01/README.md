@@ -1,23 +1,26 @@
 
 
+## Summary
  
-Name: ____
+Name: __2.54 mm 36 Pin Header (Long)__
 
-ID: ____
+ID: __HEAL-I01-X-36PI-01__
 
-Hex ID: ____
+Hex ID: __HL36__
 
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/AAAA\HEAL-I01-X-36PI-01__
+WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAL-I01-X-36PI-01__
 
-Short URL: __http://oom.lt/__
+Short URL: __http://oom.lt/HL36__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-| ____ <br>  | ____<br>   |____<br>    |____<br>    | ____<br>  |
+| __HEAL__ <br>Header (Long)  | __I01__<br>2.54 mm   |__X__<br>    |__36PI__<br>36 Pin    | __01__<br>  |
 
 
-![AAAA\HEAL-I01-X-36PI-01](http://oomlout.com/oomp-gen/parts/AAAA\HEAL-I01-X-36PI-01/AAAA\HEAL-I01-X-36PI-01_420.jpg)
+## Images
+![HEAL-I01-X-36PI-01](http://oomlout.com/oomp-gen/parts/HEAL-I01-X-36PI-01/HEAL-I01-X-36PI-01_420.jpg)
 
+## Full Details
 
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/AAAA\HEAL-I01-X-36PI-01
+ http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAL-I01-X-36PI-01
 

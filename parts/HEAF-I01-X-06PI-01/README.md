@@ -7,7 +7,7 @@ ID: ____
 
 Hex ID: ____
 
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/AAAA\HEAF-I01-X-06PI-01__
+WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAF-I01-X-06PI-01__
 
 Short URL: __http://oom.lt/__
 
@@ -16,8 +16,8 @@ Short URL: __http://oom.lt/__
 | ____ <br>  | ____<br>   |____<br>    |____<br>    | ____<br>  |
 
 
-![AAAA\HEAF-I01-X-06PI-01](http://oomlout.com/oomp-gen/parts/AAAA\HEAF-I01-X-06PI-01/AAAA\HEAF-I01-X-06PI-01_420.jpg)
+![HEAF-I01-X-06PI-01](http://oomlout.com/oomp-gen/parts/HEAF-I01-X-06PI-01/HEAF-I01-X-06PI-01_420.jpg)
 
 
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/AAAA\HEAF-I01-X-06PI-01
+ http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAF-I01-X-06PI-01
 
