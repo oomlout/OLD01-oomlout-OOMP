@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: __7 mm SMD Pushbutton__
+Name: __7 mm SMD Pushbutton (Tactile)__
 
 ID: __BUTA-07-X-SMDS-01__
 

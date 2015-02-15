@@ -1,26 +1,23 @@
 
 
-## Summary
  
-Name: __2.54 mm 8 Pin Blue Female Header (Long)__
+Name: ____
 
-ID: __HELF-I01-L-08PI-01__
+ID: ____
 
-Hex ID: __HLF08L__
+Hex ID: ____
 
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HELF-I01-L-08PI-01__
+WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/AAAA\HELF-I01-L-08PI-01__
 
-Short URL: __http://oom.lt/HLF08L__
+Short URL: __http://oom.lt/__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-| __HELF__ <br>Female Header (Long)  | __I01__<br>2.54 mm   |__L__<br>Blue    |__08PI__<br>8 Pin    | __01__<br>  |
+| ____ <br>  | ____<br>   |____<br>    |____<br>    | ____<br>  |
 
 
-## Images
-![HELF-I01-L-08PI-01](http://oomlout.com/oomp-gen/parts/HELF-I01-L-08PI-01/HELF-I01-L-08PI-01_420.jpg)
+![AAAA\HELF-I01-L-08PI-01](http://oomlout.com/oomp-gen/parts/AAAA\HELF-I01-L-08PI-01/AAAA\HELF-I01-L-08PI-01_420.jpg)
 
-## Full Details
 
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/HELF-I01-L-08PI-01
+ http://learn.oomlout.co.uk/OO/Projects/oomp/part/AAAA\HELF-I01-L-08PI-01
 

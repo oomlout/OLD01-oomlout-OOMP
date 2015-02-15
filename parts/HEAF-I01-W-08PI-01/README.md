@@ -1,26 +1,23 @@
 
 
-## Summary
  
-Name: __2.54 mm 8 Pin White Female Header__
+Name: ____
 
-ID: __HEAF-I01-W-08PI-01__
+ID: ____
 
-Hex ID: __HF08W__
+Hex ID: ____
 
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAF-I01-W-08PI-01__
+WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/AAAA\HEAF-I01-W-08PI-01__
 
-Short URL: __http://oom.lt/HF08W__
+Short URL: __http://oom.lt/__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-| __HEAF__ <br>Female Header  | __I01__<br>2.54 mm   |__W__<br>White    |__08PI__<br>8 Pin    | __01__<br>  |
+| ____ <br>  | ____<br>   |____<br>    |____<br>    | ____<br>  |
 
 
-## Images
-![HEAF-I01-W-08PI-01](http://oomlout.com/oomp-gen/parts/HEAF-I01-W-08PI-01/HEAF-I01-W-08PI-01_420.jpg)
+![AAAA\HEAF-I01-W-08PI-01](http://oomlout.com/oomp-gen/parts/AAAA\HEAF-I01-W-08PI-01/AAAA\HEAF-I01-W-08PI-01_420.jpg)
 
-## Full Details
 
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAF-I01-W-08PI-01
+ http://learn.oomlout.co.uk/OO/Projects/oomp/part/AAAA\HEAF-I01-W-08PI-01
 

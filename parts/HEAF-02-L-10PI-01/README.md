@@ -1,26 +1,23 @@
 
 
-## Summary
  
-Name: __2 mm 10 Pin Blue Female Header__
+Name: ____
 
-ID: __HEAF-02-L-10PI-01__
+ID: ____
 
-Hex ID: __HF10L__
+Hex ID: ____
 
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAF-02-L-10PI-01__
+WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/AAAA\HEAF-02-L-10PI-01__
 
-Short URL: __http://oom.lt/HF10L__
+Short URL: __http://oom.lt/__
 
 
 |Type   |Size   |Color   |Description   |Index   |
-| __HEAF__ <br>Female Header  | __02__<br>2 mm   |__L__<br>Blue    |__10PI__<br>10 Pin    | __01__<br>  |
+| ____ <br>  | ____<br>   |____<br>    |____<br>    | ____<br>  |
 
 
-## Images
-![HEAF-02-L-10PI-01](http://oomlout.com/oomp-gen/parts/HEAF-02-L-10PI-01/HEAF-02-L-10PI-01_420.jpg)
+![AAAA\HEAF-02-L-10PI-01](http://oomlout.com/oomp-gen/parts/AAAA\HEAF-02-L-10PI-01/AAAA\HEAF-02-L-10PI-01_420.jpg)
 
-## Full Details
 
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAF-02-L-10PI-01
+ http://learn.oomlout.co.uk/OO/Projects/oomp/part/AAAA\HEAF-02-L-10PI-01
 
