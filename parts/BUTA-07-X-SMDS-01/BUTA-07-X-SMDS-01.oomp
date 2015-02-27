@@ -148,5 +148,59 @@
 
 <!-- -->
 
-    </oompPart>
+    
+<com>Footprint</com>
+		<footprintList>
+			<footprintSystem>
+				<footprintScheme>Eagle Default</footprintScheme>
+				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+			<footprintSystem>
+				<footprintScheme>Kicad Default</footprintScheme>
+				<footprintSchemeCode>C-KICA</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+			<footprintSystem>
+				<footprintScheme>Adafruit</footprintScheme>
+				<footprintSchemeCode>C-ADAF</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+			<footprintSystem>
+				<footprintScheme>Dangerous Prototypes</footprintScheme>
+				<footprintSchemeCode>C-DPDP</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+			<footprintSystem>
+				<footprintScheme>OOMP </footprintScheme>
+				<footprintSchemeCode>C-OOMP</footprintSchemeCode>
+
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+<footprintSystem>
+				<footprintScheme>SEEED Studio</footprintScheme>
+				<footprintSchemeCode>C-SEEE</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+			<footprintSystem>
+				<footprintScheme>Sparkfun</footprintScheme>
+				<footprintSchemeCode>C-SPAR</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+		</footprintList>
+</oompPart>
 </xml>

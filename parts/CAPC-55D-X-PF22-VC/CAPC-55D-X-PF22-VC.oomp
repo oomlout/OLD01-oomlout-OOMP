@@ -1,0 +1,160 @@
+<xml>
+    <oompPart>
+        <index>9876</index>
+
+<com>OOMP Base</com>
+        <oompID>CAPC-55D-X-PF22-VC</oompID>
+        <name>5.5 mm 22 pF Capacitor (Ceramic) 50v</name>
+        <hexID>CCP022</hexID>
+        <oompSort>THTH0.00000000000220</oompSort>
+        <oompType>CAPC</oompType>
+        <oompSize>55D</oompSize>
+        <oompColor>X</oompColor>
+        <oompDesc>PF22</oompDesc>
+        <oompIndex>VC</oompIndex>
+        <oompOwner></oompOwner>
+        <oompVersion></oompVersion>
+
+<com>Size</com>
+        <ooPitch>2.5 mm</ooPitch>
+        <ooWidth></ooWidth>
+        <ooHeight>5.5 mm</ooHeight>
+        <ooDiameter>5.5 mm</ooDiameter>
+        <ooLength></ooLength>
+        <ooDepth></ooDepth>
+        <ooWireSize></ooWireSize>
+
+<com>Description</com>
+        <ooMaterial></ooMaterial>
+        <ooNumPins>2</ooNumPins>
+        <ooTerminalStyle></ooTerminalStyle>
+        <ooPowerRating></ooPowerRating>
+
+<com>Hardware</com>
+        <ooHeadStyle></ooHeadStyle>
+        <ooWrenchSize></ooWrenchSize>
+
+<com>Maximums</com>
+        <ooMaxCurrent></ooMaxCurrent>
+        <ooMaxVoltage>50 V</ooMaxVoltage>
+        <ooLifetime></ooLifetime>
+        <ooTolerance>20%</ooTolerance>
+
+<com>Heat Shrink</com>
+        <ooShrinkRatio></ooShrinkRatio>
+
+<com>LED</com>
+        <ooLensColor></ooLensColor>
+        <ooForwardVoltage></ooForwardVoltage>
+        <ooForwardCurrent></ooForwardCurrent>
+        <ooIntensity></ooIntensity>
+        <ooPowerAngle></ooPowerAngle>
+        <ooWavelength></ooWavelength>
+        <ooChromaticityX></ooChromaticityX>
+        <ooChromaticityY></ooChromaticityY>
+
+<com>Plug</com>
+        <ooPlugID></ooPlugID>
+        <ooPlugOD></ooPlugOD>
+        <ooPlugLength></ooPlugLength>
+
+<com>Source List</com>		
+		<sourceList>
+			<manufacturer>
+				<company>Suntan</company>
+				<companyCode>C-SUNT</companyCode>
+				<name></name>
+				<partID>TS15001H220KSBNA0R</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+				
+			<bigDistributor>
+				<company>Rapid Electronics</company>
+				<companyCode>C-RAPI</companyCode>
+				<name>22pf 2.5mm Ceramic Capacitor</name>
+				<partID>08-0046</partID>
+				<link><![CDATA[http://www.rapidonline.com/electronic-components/22pf-2-5mm-ceramic-capacitor-08-0046]]></link>
+				<note></note>
+			</bigDistributor>					
+		</sourceList>
+		
+<com>OPL</com>		
+		<oplList>
+			<oplSystem>
+				<oplScheme></oplScheme>
+				<oplCode></oplCode>
+				<oplName></oplName>
+				<oplID></oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[]]></oplLink>
+			</oplSystem>
+		</oplList>
+
+<com>Hidden</com>
+        <oompAbout></oompAbout>
+        <ooProjectName1></ooProjectName1>
+        <ooProjectDesc1></ooProjectDesc1>
+        <ooProjectLink1></ooProjectLink1>
+        <ooProjectType1></ooProjectType1>
+        <ooBuyName1></ooBuyName1>
+        <ooBuyDesc1></ooBuyDesc1>
+        <ooBuyLink1></ooBuyLink1>
+        <ooBuyType1></ooBuyType1>
+    
+<com>Footprint</com>
+		<footprintList>
+			<footprintSystem>
+				<footprintScheme>Eagle Default</footprintScheme>
+				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+			<footprintSystem>
+				<footprintScheme>Kicad Default</footprintScheme>
+				<footprintSchemeCode>C-KICA</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+			<footprintSystem>
+				<footprintScheme>Adafruit</footprintScheme>
+				<footprintSchemeCode>C-ADAF</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+			<footprintSystem>
+				<footprintScheme>Dangerous Prototypes</footprintScheme>
+				<footprintSchemeCode>C-DPDP</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+			<footprintSystem>
+				<footprintScheme>OOMP </footprintScheme>
+				<footprintSchemeCode>C-OOMP</footprintSchemeCode>
+
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+<footprintSystem>
+				<footprintScheme>SEEED Studio</footprintScheme>
+				<footprintSchemeCode>C-SEEE</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+			<footprintSystem>
+				<footprintScheme>Sparkfun</footprintScheme>
+				<footprintSchemeCode>C-SPAR</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+		</footprintList>
+</oompPart>
+</xml>

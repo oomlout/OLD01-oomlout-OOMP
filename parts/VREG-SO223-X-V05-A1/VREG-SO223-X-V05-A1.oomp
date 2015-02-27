@@ -155,7 +155,7 @@
 			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
-				<name>ON SEMICONDUCTOR  NCP1117ST50T3G  LDO, REG, 20VIN, 1A, 5V, 1%, SOT223-3</name>
+				<name><![CDATA[ON SEMICONDUCTOR  NCP1117ST50T3G  LDO, REG, 20VIN, 1A, 5V, 1%, SOT223-3]]></name>
 				<partID>2112617</partID>
 				<link><![CDATA[http://uk.farnell.com/on-semiconductor/ncp1117st50t3g/ldo-reg-20vin-1a-5v-1-sot223-3/dp/2112617]]></link>
 				<note></note>
@@ -179,7 +179,7 @@
 			<bigDistributor>
 				<company>SEEED Studio</company>
 				<companyCode>C-SEEE</companyCode>
-				<name>SMD PMIC; LDO Vin 7V Vout 5V 1A</name>
+				<name><![CDATA[SMD PMIC; LDO Vin 7V Vout 5V 1A]]></name>
 				<partID>1310170P1</partID>
 				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=86]]></link>
 				<note></note>
@@ -236,5 +236,59 @@
 			</useItem>
 		</usageList>
 
+
+<com>Footprint</com>
+		<footprintList>
+			<footprintSystem>
+				<footprintScheme>Eagle Default</footprintScheme>
+				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+			<footprintSystem>
+				<footprintScheme>Kicad Default</footprintScheme>
+				<footprintSchemeCode>C-KICA</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+			<footprintSystem>
+				<footprintScheme>Adafruit</footprintScheme>
+				<footprintSchemeCode>C-ADAF</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+			<footprintSystem>
+				<footprintScheme>Dangerous Prototypes</footprintScheme>
+				<footprintSchemeCode>C-DPDP</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+			<footprintSystem>
+				<footprintScheme>OOMP </footprintScheme>
+				<footprintSchemeCode>C-OOMP</footprintSchemeCode>
+
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+<footprintSystem>
+				<footprintScheme>SEEED Studio</footprintScheme>
+				<footprintSchemeCode>C-SEEE</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+			<footprintSystem>
+				<footprintScheme>Sparkfun</footprintScheme>
+				<footprintSchemeCode>C-SPAR</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+		</footprintList>
 </oompPart>
 </xml>

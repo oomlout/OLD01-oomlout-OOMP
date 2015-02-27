@@ -2,6 +2,25 @@
 ;##########################
 
 
+;###### TODO
+
+	* Add a family test (based on Hex code?)
+	* Web interface for adding new new products
+	* Finish of arduino OOMP
+	* Add extra SEEED parts
+	* Add extra Octopart Parts
+	* Way of classifying which systems they are in
+	* Only generate if image is there.
+	* Add type (THrough Hold, SMD, Hardware, Wire, Bigger Component, Project)
+	* Writing about it (why executive summary etc.) -Very open
+	* Add command line arguments to the top of the template file?
+	* Family Shortlinks
+	* Remove distributors from HEFO
+	* Add potentiometers (both through hole and breadboard
+	* Add redirect to http://learn.oomlout.co.uk/OO/Projects/
+	* Add 08PM to value 2.1 mm Panel Mount (8mm) DC Jack DCJP-21D-X-08PM-01
+	* Add plastic rivets to oomp
+	
 ;###### PAGES TO GENERATE
 
 	1. All Part pages										PROGRESS		Template						OUTPUT FILE
@@ -82,3 +101,9 @@ What is OOMP?
 OOMP is the Open Organization Method for Parts.
 A project tackling the complex landscape that is electronic components.
 Want to know more? oom.lt/OOMP
+
+;###### Footprint Library
+
+
+
+
