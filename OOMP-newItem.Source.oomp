@@ -1,14 +1,14 @@
 <xml>
 	<newOOMP>
-		<oompType>CAPC</oompType>
-		<oompSize>0805</oompSize>
-		<oompColor>X</oompColor>
-		<oompDesc>UF10</oompDesc>
-		<oompIndex>01</oompIndex>
+		<oompType></oompType>
+		<oompSize></oompSize>
+		<oompColor></oompColor>
+		<oompDesc></oompDesc>
+		<oompIndex></oompIndex>
 		<oompOwner></oompOwner>
 		<oompSort></oompSort>
 		<index></index>
-		<hexID>R85U010</hexID>		
+		<hexID></hexID>		
 		<version></version>
 	
 
@@ -21,7 +21,7 @@
 
 
         <ooMaterial></ooMaterial>
-        <ooNumPins>2</ooNumPins>
+        <ooNumPins></ooNumPins>
 
 <com>Maximums</com>
         <ooMaxCurrent></ooMaxCurrent>
@@ -29,19 +29,19 @@
         <ooLifetime></ooLifetime>
         <ooTolerance></ooTolerance>
 <com>Source List</com>		
-		<manufacturerCompany1>Murata</manufacturerCompany1>
-		<manufacturerCompanyCode1>C-MURA</manufacturerCompanyCode1>
-		<manufacturerPartID1>GRM21BR61E106KA73L</manufacturerPartID1>				
+		<manufacturerCompany1></manufacturerCompany1>
+		<manufacturerCompanyCode1></manufacturerCompanyCode1>
+		<manufacturerPartID1></manufacturerPartID1>				
 		<manufacturerCompany2></manufacturerCompany2>
 		<manufacturerCompanyCode2></manufacturerCompanyCode2>
 		<manufacturerPartID2></manufacturerPartID2>
 
 		<com>
-			<bigDistributorCompany1>Mouser</bigDistributorCompany1>
-			<bigDistributorCompanyCode1>C-MOUS</bigDistributorCompanyCode1>
-			<bigDistributorName1>Multilayer Ceramic Capacitors MLCC - SMD/SMT 8.2pF 50V NPO .50pF</bigDistributorName1>		
-			<bigDistributorPartID1>603-CC603DRNPO9BN8R2</bigDistributorPartID1>		
-			<bigDistributorLink1>http://uk.mouser.com/ProductDetail/Yageo/CC0603DRNPO9BN8R2/?qs=%2fha2pyFadugIysjTTpSFiFDEQWX97RYhBWxlJrlaTC8I2OEUk7h24LwGQ7ddWQ0B</bigDistributorLink1>		
+			<bigDistributorCompany1></bigDistributorCompany1>
+			<bigDistributorCompanyCode1></bigDistributorCompanyCode1>
+			<bigDistributorName1></bigDistributorName1>		
+			<bigDistributorPartID1></bigDistributorPartID1>		
+			<bigDistributorLink1></bigDistributorLink1>		
 		</com>
 		<com>
 			<bigDistributorCompany2></bigDistributorCompany2>
@@ -70,15 +70,15 @@
 		
 		
 <com>OPL</com>		
-			
-				<oplScheme1>SEEED OPL</oplScheme1>
-				<oplCode1>C-SEEE</oplCode1>
-				<oplName1>SMD CAP Ceramic 10uF-25V-10%-X5R</oplName1>
-				<oplID1>302010264</oplID1>
-				<oplFootprint1>0805</oplFootprint1>
-				<oplPackage1>0805</oplPackage1>
-				<oplLink1><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Capacitor]]></oplLink1>
-			
+			<com>
+				<oplScheme1></oplScheme1>
+				<oplCode1></oplCode1>
+				<oplName1></oplName1>
+				<oplID1></oplID1>
+				<oplFootprint1></oplFootprint1>
+				<oplPackage1></oplPackage1>
+				<oplLink1><![CDATA[]]></oplLink1>
+			</com>
 			<com>
 				<oplScheme2></oplScheme2>
 				<oplCode2></oplCode2>
