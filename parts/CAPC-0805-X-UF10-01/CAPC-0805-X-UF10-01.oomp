@@ -1,4 +1,4 @@
-﻿<xml>
+<xml>
 
     <oompPart>
         <index>4082</index>
@@ -106,7 +106,15 @@
 				<company>Murata</company>
 				<companyCode>C-MURA</companyCode>
 				<name></name>
-				<partID>GRM21BR61C106KE15L</partID>
+				<partID>GRM21BR61E106KA73L</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>		
+			<manufacturer>
+				<company>Murata</company>
+				<companyCode>C-MURA</companyCode>
+				<name></name>
+				<partID>GRM21BR61E106KA73L</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -148,6 +156,16 @@
 				<oplCode>C-SEEE</oplCode>
 				<oplName>SMD CAP Ceramic 10uF-25V-10%-X5R</oplName>
 				<oplID>0100080P1</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage>0805</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Capacitor]]></oplLink>
+			</oplSystem>
+			
+			<oplSystem>
+				<oplScheme>SEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD CAP Ceramic 10uF-25V-10%-X5R</oplName>
+				<oplID>302010264</oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage>0805</oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Capacitor]]></oplLink>

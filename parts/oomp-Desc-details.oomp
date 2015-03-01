@@ -3248,6 +3248,10 @@
             <name>8 pF</name>
     </oompDesc>
     <oompDesc>
+            <code>PF82D</code>
+            <name>8.2 pF</name>
+    </oompDesc>
+    <oompDesc>
             <code>PF9</code>
             <name>9 pF</name>
     </oompDesc>
@@ -3990,6 +3994,11 @@
     <oompDesc>
             <code>NF2</code>
             <name>2 nF</name>
+    </oompDesc>
+    
+    <oompDesc>
+            <code>NF22D</code>
+            <name>2.2 nF</name>
     </oompDesc>
     <oompDesc>
             <code>NF3</code>

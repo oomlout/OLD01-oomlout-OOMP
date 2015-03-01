@@ -34,7 +34,7 @@
 
 <!--Description -->
         <ooMaterial></ooMaterial>
-        <ooNumPins></ooNumPins>
+        <ooNumPins>2</ooNumPins>
         <ooTerminalStyle></ooTerminalStyle>
         <ooPowerRating></ooPowerRating>
 
@@ -145,7 +145,7 @@
 		</sourceList>
 		<oplList>
 			<oplSystem>
-				<oplScheme>SEED OPL</oplScheme>
+				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
 				<oplName>SMD CAP Ceramic 4.7nF-50V-10%-X7R</oplName>
 				<oplID>0100850P1</oplID>
@@ -250,5 +250,8 @@
 				<footprintNote></footprintNote>
 			</footprintSystem>
 		</footprintList>
+
+	<oompClass>Surface Mount</oompClass>
+	<oompClassCode>SMDS</oompClassCode>
 </oompPart>
 </xml>

@@ -1,5 +1,13 @@
 <xml>
 	<oompSupplier>
+		<supplierCode>C-DIGK</supplierCode>
+		<supplierName>DigiKey</supplierName>
+		<supplierWebsite></supplierWebsite>
+		<supplierSearchString><![CDATA[http://www.digikey.co.uk/product-search/en?x=0&y=0&lang=en&site=uk&KeyWords=]]></supplierSearchString>
+		<supplierSearchEnd><![CDATA[]]></supplierSearchEnd>
+		<supplierPartString></supplierPartString>
+	</oompSupplier>
+	<oompSupplier>
 		<supplierCode>C-FARN</supplierCode>
 		<supplierName>Farnell</supplierName>
 		<supplierWebsite></supplierWebsite>
@@ -21,14 +29,6 @@
 		<supplierWebsite></supplierWebsite>
 		<supplierSearchString><![CDATA[http://uk.rs-online.com/web/c/?searchTerm=]]></supplierSearchString>
 		<supplierSearchEnd><![CDATA[&ossc=Zero]]></supplierSearchEnd>
-		<supplierPartString></supplierPartString>
-	</oompSupplier>
-	<oompSupplier>
-		<supplierCode>C-DIGK</supplierCode>
-		<supplierName>DigiKey</supplierName>
-		<supplierWebsite></supplierWebsite>
-		<supplierSearchString><![CDATA[http://www.digikey.co.uk/product-search/en?x=0&y=0&lang=en&site=uk&KeyWords=]]></supplierSearchString>
-		<supplierSearchEnd><![CDATA[]]></supplierSearchEnd>
 		<supplierPartString></supplierPartString>
 	</oompSupplier>
 	<oompSupplier>

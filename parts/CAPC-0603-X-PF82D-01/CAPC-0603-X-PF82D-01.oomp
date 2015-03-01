@@ -1,0 +1,232 @@
+<xml>
+    <oompPart>
+        <index></index>
+
+<com>OOMP Base</com>
+        <oompID>CAPC-0603-X-PF82D-01</oompID>
+        <name> SMD (0603) 8.2 pF Capacitor (Ceramic) </name>
+        <hexID>C6P008</hexID>
+        <oompSort></oompSort>
+        <oompType>CAPC</oompType>
+        <oompSize>0603</oompSize>
+        <oompColor>X</oompColor>
+        <oompDesc>PF82D</oompDesc>
+        <oompIndex>01</oompIndex>
+        <oompOwner></oompOwner>
+        <oompVersion></oompVersion>
+
+
+		<oompClass></oompClass>
+		<oompClassCode></oompClassCode>		
+		
+		
+<com>Size</com>
+        <ooPitch></ooPitch>
+        <ooWidth>0.8 mm</ooWidth>
+        <ooHeight></ooHeight>
+        <ooDiameter></ooDiameter>
+        <ooLength>1.6 mm</ooLength>
+        <ooDepth></ooDepth>
+
+<com>Description</com>
+        <ooMaterial></ooMaterial>
+        <ooNumPins>2</ooNumPins>
+        <ooTerminalStyle></ooTerminalStyle>
+        <ooPowerRating></ooPowerRating>
+
+<com>Hardware</com>
+        <ooHeadStyle></ooHeadStyle>
+        <ooWrenchSize></ooWrenchSize>
+
+<com>Maximums</com>
+        <ooMaxCurrent></ooMaxCurrent>
+        <ooMaxVoltage></ooMaxVoltage>
+        <ooLifetime></ooLifetime>
+        <ooTolerance></ooTolerance>
+
+<com>Heat Shrink</com>
+        <ooShrinkRatio></ooShrinkRatio>
+
+<com>LED</com>
+        <ooLensColor></ooLensColor>
+        <ooForwardVoltage></ooForwardVoltage>
+        <ooForwardCurrent></ooForwardCurrent>
+        <ooIntensity></ooIntensity>
+        <ooPowerAngle></ooPowerAngle>
+        <ooWavelength></ooWavelength>
+        <ooChromaticityX></ooChromaticityX>
+        <ooChromaticityY></ooChromaticityY>
+
+<com>Plug</com>
+        <ooPlugID></ooPlugID>
+        <ooPlugOD></ooPlugOD>
+        <ooPlugLength></ooPlugLength>
+
+<com>Source List</com>		
+		<sourceList>
+			<manufacturer>
+				<company>Yageo</company>
+				<companyCode>C-YAGE</companyCode>
+				<name></name>
+				<partID>CC0603DRNPO9BN8R2</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+				
+			<bigDistributor>
+				<company>Mouser</company>
+				<companyCode>C-MOUS</companyCode>
+				<name>Multilayer Ceramic Capacitors MLCC - SMD/SMT 8.2pF 50V NPO .50pF</name>
+				<partID>603-CC603DRNPO9BN8R2</partID>
+				<link><![CDATA[http://uk.mouser.com/ProductDetail/Yageo/CC0603DRNPO9BN8R2/?qs=%2fha2pyFadugIysjTTpSFiFDEQWX97RYhBWxlJrlaTC8I2OEUk7h24LwGQ7ddWQ0B]]></link>
+				<note></note>
+			</bigDistributor>					
+
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>					
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>					
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>					
+		</sourceList>
+		
+<com>OPL</com>		
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD CAP Ceramic 8.2pF-50V-0.5pF-NPO</oplName>
+				<oplID>010023001</oplID>
+				<oplFootprint>0603</oplFootprint>
+				<oplPackage>0603</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Capacitor]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme></oplScheme>
+				<oplCode></oplCode>
+				<oplName></oplName>
+				<oplID></oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme></oplScheme>
+				<oplCode></oplCode>
+				<oplName></oplName>
+				<oplID></oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme></oplScheme>
+				<oplCode></oplCode>
+				<oplName></oplName>
+				<oplID></oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[]]></oplLink>
+			</oplSystem>
+		</oplList>
+
+<com>Hidden</com>
+        <oompAbout></oompAbout>
+        <ooProjectName1></ooProjectName1>
+        <ooProjectDesc1></ooProjectDesc1>
+        <ooProjectLink1></ooProjectLink1>
+        <ooProjectType1></ooProjectType1>
+        <ooBuyName1></ooBuyName1>
+        <ooBuyDesc1></ooBuyDesc1>
+        <ooBuyLink1></ooBuyLink1>
+        <ooBuyType1></ooBuyType1>
+
+	<com>Footprint</com>
+		<footprintList>
+			<footprintSystem>
+				<footprintScheme>Eagle Default</footprintScheme>
+				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+			<footprintSystem>
+				<footprintScheme>Kicad Default</footprintScheme>
+				<footprintSchemeCode>C-KICA</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+			<footprintSystem>
+				<footprintScheme>Adafruit</footprintScheme>
+				<footprintSchemeCode>C-ADAF</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+			<footprintSystem>
+				<footprintScheme>Dangerous Prototypes</footprintScheme>
+				<footprintSchemeCode>C-DPDP</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+			<footprintSystem>
+				<footprintScheme>OOMP</footprintScheme>
+				<footprintSchemeCode>C-OOMP</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+			<footprintSystem>
+				<footprintScheme>SEEED Studio</footprintScheme>
+				<footprintSchemeCode>C-SEEE</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+			<footprintSystem>
+				<footprintScheme>Sparkfun</footprintScheme>
+				<footprintSchemeCode>C-SPAR</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+		</footprintList>
+    </oompPart>	
+	
+</xml>

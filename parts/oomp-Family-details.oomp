@@ -23,6 +23,18 @@
 		<familyAbout></familyAbout>
 	</oompFamily>
 	<oompFamily>
+		<familyName>SMD (0402) Resistor</familyName>
+		<familyType>RESE</familyType>
+		<familySize>0402</familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>R42</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>R42###</familyHexNameSpaceDisplay>	
+		<familyAbout></familyAbout>
+	</oompFamily>
+	
+	<oompFamily>
 		<familyName>SMD (0603) Resistor</familyName>
 		<familyType>RESE</familyType>
 		<familySize>0603</familySize>

@@ -1,0 +1,115 @@
+<xml>
+	<newOOMP>
+		<oompType></oompType>
+		<oompSize></oompSize>
+		<oompColor></oompColor>
+		<oompDesc></oompDesc>
+		<oompIndex></oompIndex>
+		<oompOwner></oompOwner>
+		<oompSort></oompSort>
+		<index></index>
+		<hexID></hexID>		
+		<version></version>
+	
+
+        <ooPitch></ooPitch>
+        <ooWidth></ooWidth>
+        <ooHeight></ooHeight>
+        <ooDiameter></ooDiameter>
+        <ooLength></ooLength>
+        <ooDepth></ooDepth>
+
+
+        <ooMaterial></ooMaterial>
+        <ooNumPins></ooNumPins>
+
+<com>Maximums</com>
+        <ooMaxCurrent></ooMaxCurrent>
+        <ooMaxVoltage></ooMaxVoltage>
+        <ooLifetime></ooLifetime>
+        <ooTolerance></ooTolerance>
+<com>Source List</com>		
+		<manufacturerCompany1></manufacturerCompany1>
+		<manufacturerCompanyCode1></manufacturerCompanyCode1>
+		<manufacturerPartID1></manufacturerPartID1>				
+		<manufacturerCompany2></manufacturerCompany2>
+		<manufacturerCompanyCode2></manufacturerCompanyCode2>
+		<manufacturerPartID2></manufacturerPartID2>
+
+		<com>
+			<bigDistributorCompany1></bigDistributorCompany1>
+			<bigDistributorCompanyCode1></bigDistributorCompanyCode1>
+			<bigDistributorName1></bigDistributorName1>		
+			<bigDistributorPartID1></bigDistributorPartID1>		
+			<bigDistributorLink1></bigDistributorLink1>		
+		</com>
+		<com>
+			<bigDistributorCompany2></bigDistributorCompany2>
+			<bigDistributorCompanyCode2></bigDistributorCompanyCode2>
+			<bigDistributorName2></bigDistributorName2>		
+			<bigDistributorPartID2></bigDistributorPartID2>		
+			<bigDistributorLink2></bigDistributorLink2>		
+		</com>		
+		<com>
+			<bigDistributorCompany3></bigDistributorCompany3>
+			<bigDistributorCompanyCode3></bigDistributorCompanyCode3>
+			<bigDistributorName3></bigDistributorName3>		
+			<bigDistributorPartID3></bigDistributorPartID3>		
+			<bigDistributorLink3></bigDistributorLink3>		
+		</com>		
+		<com>
+			<bigDistributorCompany4></bigDistributorCompany4>
+			<bigDistributorCompanyCode4></bigDistributorCompanyCode4>
+			<bigDistributorName4></bigDistributorName4>		
+			<bigDistributorPartID4></bigDistributorPartID4>		
+			<bigDistributorLink4></bigDistributorLink4>		
+		</com>		
+		
+		
+		
+		
+		
+<com>OPL</com>		
+			<com>
+				<oplScheme1></oplScheme1>
+				<oplCode1></oplCode1>
+				<oplName1></oplName1>
+				<oplID1></oplID1>
+				<oplFootprint1></oplFootprint1>
+				<oplPackage1></oplPackage1>
+				<oplLink1><![CDATA[]]></oplLink1>
+			</com>
+			<com>
+				<oplScheme2></oplScheme2>
+				<oplCode2></oplCode2>
+				<oplName2></oplName2>
+				<oplID2></oplID2>
+				<oplFootprint2></oplFootprint2>
+				<oplPackage2></oplPackage2>
+				<oplLink2><![CDATA[]]></oplLink2>
+			</com>
+						<com>
+				<oplScheme3></oplScheme3>
+				<oplCode3></oplCode3>
+				<oplName3></oplName3>
+				<oplID3></oplID3>
+				<oplFootprint3></oplFootprint3>
+				<oplPackage3></oplPackage3>
+				<oplLink3><![CDATA[]]></oplLink3>
+			</com>
+						<com>
+				<oplScheme4></oplScheme4>
+				<oplCode4></oplCode4>
+				<oplName4></oplName4>
+				<oplID4></oplID4>
+				<oplFootprint4></oplFootprint4>
+				<oplPackage4></oplPackage4>
+				<oplLink4><![CDATA[]]></oplLink4>
+			</com>
+    	
+		
+		
+		
+		
+	</newOOMP>
+</xml>

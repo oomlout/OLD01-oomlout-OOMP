@@ -1,14 +1,115 @@
 <xml>
 	<newOOMP>
-		<oompType>CERE</oompType>
-		<oompSize>1263</oompSize>
+		<oompType>CAPC</oompType>
+		<oompSize>0805</oompSize>
 		<oompColor>X</oompColor>
-		<oompDesc>MZ16</oompDesc>
+		<oompDesc>UF10</oompDesc>
 		<oompIndex>01</oompIndex>
 		<oompOwner></oompOwner>
-		<oompSort>06</oompSort>
-		<index>9876</index>
-		<hexID>EEEE</hexID>		
-		<version>99</version>
+		<oompSort></oompSort>
+		<index></index>
+		<hexID>R85U010</hexID>		
+		<version></version>
+	
+
+        <ooPitch></ooPitch>
+        <ooWidth></ooWidth>
+        <ooHeight></ooHeight>
+        <ooDiameter></ooDiameter>
+        <ooLength></ooLength>
+        <ooDepth></ooDepth>
+
+
+        <ooMaterial></ooMaterial>
+        <ooNumPins>2</ooNumPins>
+
+<com>Maximums</com>
+        <ooMaxCurrent></ooMaxCurrent>
+        <ooMaxVoltage></ooMaxVoltage>
+        <ooLifetime></ooLifetime>
+        <ooTolerance></ooTolerance>
+<com>Source List</com>		
+		<manufacturerCompany1>Murata</manufacturerCompany1>
+		<manufacturerCompanyCode1>C-MURA</manufacturerCompanyCode1>
+		<manufacturerPartID1>GRM21BR61E106KA73L</manufacturerPartID1>				
+		<manufacturerCompany2></manufacturerCompany2>
+		<manufacturerCompanyCode2></manufacturerCompanyCode2>
+		<manufacturerPartID2></manufacturerPartID2>
+
+		<com>
+			<bigDistributorCompany1>Mouser</bigDistributorCompany1>
+			<bigDistributorCompanyCode1>C-MOUS</bigDistributorCompanyCode1>
+			<bigDistributorName1>Multilayer Ceramic Capacitors MLCC - SMD/SMT 8.2pF 50V NPO .50pF</bigDistributorName1>		
+			<bigDistributorPartID1>603-CC603DRNPO9BN8R2</bigDistributorPartID1>		
+			<bigDistributorLink1>http://uk.mouser.com/ProductDetail/Yageo/CC0603DRNPO9BN8R2/?qs=%2fha2pyFadugIysjTTpSFiFDEQWX97RYhBWxlJrlaTC8I2OEUk7h24LwGQ7ddWQ0B</bigDistributorLink1>		
+		</com>
+		<com>
+			<bigDistributorCompany2></bigDistributorCompany2>
+			<bigDistributorCompanyCode2></bigDistributorCompanyCode2>
+			<bigDistributorName2></bigDistributorName2>		
+			<bigDistributorPartID2></bigDistributorPartID2>		
+			<bigDistributorLink2></bigDistributorLink2>		
+		</com>		
+		<com>
+			<bigDistributorCompany3></bigDistributorCompany3>
+			<bigDistributorCompanyCode3></bigDistributorCompanyCode3>
+			<bigDistributorName3></bigDistributorName3>		
+			<bigDistributorPartID3></bigDistributorPartID3>		
+			<bigDistributorLink3></bigDistributorLink3>		
+		</com>		
+		<com>
+			<bigDistributorCompany4></bigDistributorCompany4>
+			<bigDistributorCompanyCode4></bigDistributorCompanyCode4>
+			<bigDistributorName4></bigDistributorName4>		
+			<bigDistributorPartID4></bigDistributorPartID4>		
+			<bigDistributorLink4></bigDistributorLink4>		
+		</com>		
+		
+		
+		
+		
+		
+<com>OPL</com>		
+			
+				<oplScheme1>SEEED OPL</oplScheme1>
+				<oplCode1>C-SEEE</oplCode1>
+				<oplName1>SMD CAP Ceramic 10uF-25V-10%-X5R</oplName1>
+				<oplID1>302010264</oplID1>
+				<oplFootprint1>0805</oplFootprint1>
+				<oplPackage1>0805</oplPackage1>
+				<oplLink1><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Capacitor]]></oplLink1>
+			
+			<com>
+				<oplScheme2></oplScheme2>
+				<oplCode2></oplCode2>
+				<oplName2></oplName2>
+				<oplID2></oplID2>
+				<oplFootprint2></oplFootprint2>
+				<oplPackage2></oplPackage2>
+				<oplLink2><![CDATA[]]></oplLink2>
+			</com>
+						<com>
+				<oplScheme3></oplScheme3>
+				<oplCode3></oplCode3>
+				<oplName3></oplName3>
+				<oplID3></oplID3>
+				<oplFootprint3></oplFootprint3>
+				<oplPackage3></oplPackage3>
+				<oplLink3><![CDATA[]]></oplLink3>
+			</com>
+						<com>
+				<oplScheme4></oplScheme4>
+				<oplCode4></oplCode4>
+				<oplName4></oplName4>
+				<oplID4></oplID4>
+				<oplFootprint4></oplFootprint4>
+				<oplPackage4></oplPackage4>
+				<oplLink4><![CDATA[]]></oplLink4>
+			</com>
+    	
+		
+		
+		
+		
 	</newOOMP>
 </xml>

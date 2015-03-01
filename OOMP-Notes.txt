@@ -10,16 +10,27 @@
 	* Add extra SEEED parts
 	* Add extra Octopart Parts
 	* Way of classifying which systems they are in
-	* Only generate if image is there.
-	* Add type (THrough Hold, SMD, Hardware, Wire, Bigger Component, Project)
+	* Add type (THrough Hold, SMD, Hardware, Wire, Bigger Component, Project) (better documenting needed)
 	* Writing about it (why executive summary etc.) -Very open
 	* Add command line arguments to the top of the template file?
 	* Family Shortlinks
-	* Remove distributors from HEFO
 	* Add potentiometers (both through hole and breadboard
 	* Add redirect to http://learn.oomlout.co.uk/OO/Projects/
 	* Add 08PM to value 2.1 mm Panel Mount (8mm) DC Jack DCJP-21D-X-08PM-01
 	* Add plastic rivets to oomp
+	* Figure out missing XTAL page.
+	* Add female headers.
+	* add filter to index creation for type.
+	* Look in to cleaning up XML files
+	* images for new ones
+	* fix size on new 0805 caps and 2312 caps
+	* fix oomp link to gihub file xml
+	* get custom descriptions after main descriptions in idCodes generated page.
+	
+;###### Newly added only SEEED
+CAPC-0603-X-PF12-01	
+CAPC-0603-X-PF82D-01
+
 	
 ;###### PAGES TO GENERATE
 
