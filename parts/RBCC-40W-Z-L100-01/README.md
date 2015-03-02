@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: __40 Wire 100 mm Rainbow Crimped Ribbon Cable__
+Name: 40 Wire 100 mm Rainbow Crimped Ribbon Cable
 
 ID: __RBCC-40W-Z-L100-01__
 
@@ -13,9 +13,10 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RBCC-40W-Z-L100-01__
 Short URL: __http://oom.lt/RBC1__
 
 
-|Type   |Size   |Color   |Description   |Index   |
-| __RBCC__ <br>Crimped Ribbon Cable  | __40W__<br>40 Wire   |__Z__<br>Rainbow    |__L100__<br>100 mm    | __01__<br>  |
-
+| Type   | Size   | Color   | Description   | Index   |    
+| ----- | ------   | ------   | -----   | ----   |    
+| __RBCC__   					| __40W__   					| __Z__    						| __L100__    					| __01__ |    
+| Crimped Ribbon Cable		| 40 Wire	| Rainbow		| 100 mm	| 	|
 
 ## Images
 ![RBCC-40W-Z-L100-01](http://oomlout.com/oomp-gen/parts/RBCC-40W-Z-L100-01/RBCC-40W-Z-L100-01_420.jpg)

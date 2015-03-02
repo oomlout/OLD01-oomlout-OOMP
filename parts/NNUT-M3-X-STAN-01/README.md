@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: __M3 Nylon Nut__
+Name: M3 Nylon Nut
 
 ID: __NNUT-M3-X-STAN-01__
 
@@ -13,9 +13,10 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/NNUT-M3-X-STAN-01__
 Short URL: __http://oom.lt/NN3__
 
 
-|Type   |Size   |Color   |Description   |Index   |
-| __NNUT__ <br>Nylon Nut  | __M3__<br>M3   |__X__<br>    |__STAN__<br>    | __01__<br>  |
-
+| Type   | Size   | Color   | Description   | Index   |    
+| ----- | ------   | ------   | -----   | ----   |    
+| __NNUT__   					| __M3__   					| __X__    						| __STAN__    					| __01__ |    
+| Nylon Nut		| M3	| 		| 	| 	|
 
 ## Images
 ![NNUT-M3-X-STAN-01](http://oomlout.com/oomp-gen/parts/NNUT-M3-X-STAN-01/NNUT-M3-X-STAN-01_420.jpg)

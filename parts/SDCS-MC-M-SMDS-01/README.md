@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: __Micro SMD SD Card Socket__
+Name: Micro SMD SD Card Socket
 
 ID: __SDCS-MC-M-SMDS-01__
 
@@ -13,9 +13,10 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/SDCS-MC-M-SMDS-01__
 Short URL: __http://oom.lt/SDMS__
 
 
-|Type   |Size   |Color   |Description   |Index   |
-| __SDCS__ <br>SD Card Socket  | __MC__<br>Micro   |__M__<br>Metal    |__SMDS__<br>SMD    | __01__<br>  |
-
+| Type   | Size   | Color   | Description   | Index   |    
+| ----- | ------   | ------   | -----   | ----   |    
+| __SDCS__   					| __MC__   					| __M__    						| __SMDS__    					| __01__ |    
+| SD Card Socket		| Micro	| Metal		| SMD	| 	|
 
 ## Images
 ![SDCS-MC-M-SMDS-01](http://oomlout.com/oomp-gen/parts/SDCS-MC-M-SMDS-01/SDCS-MC-M-SMDS-01_420.jpg)

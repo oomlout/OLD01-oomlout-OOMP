@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: __ SMD (2312) 47 uF Capacitor (Tantalum) 16v __
+Name:  SMD (2312) 47 uF Capacitor (Tantalum) 16v 
 
 ID: __CAPT-2312-X-UF47-VF__
 
@@ -13,9 +13,10 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPT-2312-X-UF47-VF_
 Short URL: __http://oom.lt/CTS3U047__
 
 
-|Type   |Size   |Color   |Description   |Index   |
-| __CAPT__ <br>Capacitor (Tantalum)  | __2312__<br>SMD (2312)   |__X__<br>    |__UF47__<br>47 uF    | __VF__<br> 16v |
-
+| Type   | Size   | Color   | Description   | Index   |    
+| ----- | ------   | ------   | -----   | ----   |    
+| __CAPT__   					| __2312__   					| __X__    						| __UF47__    					| __VF__ |    
+| Capacitor (Tantalum)		| SMD (2312)	| 		| 47 uF	| 16v	|
 
 ## Images
 ![CAPT-2312-X-UF47-VF](http://oomlout.com/oomp-gen/parts/CAPT-2312-X-UF47-VF/CAPT-2312-X-UF47-VF_420.jpg)

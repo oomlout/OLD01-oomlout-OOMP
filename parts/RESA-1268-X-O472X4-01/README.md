@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: __SMD (1206-8) 4.7k Ohm (x4) Resistor Array__
+Name: SMD (1206-8) 4.7k Ohm (x4) Resistor Array
 
 ID: __RESA-1268-X-O472X4-01__
 
@@ -13,9 +13,10 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESA-1268-X-O472X4-0
 Short URL: __http://oom.lt/RA1472__
 
 
-|Type   |Size   |Color   |Description   |Index   |
-| __RESA__ <br>Resistor Array  | __1268__<br>SMD (1206-8)   |__X__<br>    |__O472X4__<br>4.7k Ohm (x4)    | __01__<br>  |
-
+| Type   | Size   | Color   | Description   | Index   |    
+| ----- | ------   | ------   | -----   | ----   |    
+| __RESA__   					| __1268__   					| __X__    						| __O472X4__    					| __01__ |    
+| Resistor Array		| SMD (1206-8)	| 		| 4.7k Ohm (x4)	| 	|
 
 ## Images
 ![RESA-1268-X-O472X4-01](http://oomlout.com/oomp-gen/parts/RESA-1268-X-O472X4-01/RESA-1268-X-O472X4-01_420.jpg)

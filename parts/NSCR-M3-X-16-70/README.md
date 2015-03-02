@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: __M3 x 16 mm Nylon Screw Cross Head__
+Name: M3 x 16 mm Nylon Screw Cross Head
 
 ID: __NSCR-M3-X-16-70__
 
@@ -13,9 +13,10 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/NSCR-M3-X-16-70__
 Short URL: __http://oom.lt/NS16__
 
 
-|Type   |Size   |Color   |Description   |Index   |
-| __NSCR__ <br>Nylon Screw  | __M3__<br>M3   |__X__<br>    |__16__<br>x 16 mm    | __70__<br> Cross Head |
-
+| Type   | Size   | Color   | Description   | Index   |    
+| ----- | ------   | ------   | -----   | ----   |    
+| __NSCR__   					| __M3__   					| __X__    						| __16__    					| __70__ |    
+| Nylon Screw		| M3	| 		| x 16 mm	| Cross Head	|
 
 ## Images
 ![NSCR-M3-X-16-70](http://oomlout.com/oomp-gen/parts/NSCR-M3-X-16-70/NSCR-M3-X-16-70_420.jpg)

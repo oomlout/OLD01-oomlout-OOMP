@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: __ 18 Pin DIP ULN2803A Octal Transistor Array __
+Name:  18 Pin DIP ULN2803A Octal Transistor Array 
 
 ID: __ICIC-DI18-X-K2803-01__
 
@@ -13,9 +13,10 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/ICIC-DI18-X-K2803-01
 Short URL: __http://oom.lt/IC2803__
 
 
-|Type   |Size   |Color   |Description   |Index   |
-| __ICIC__ <br>  | __DI18__<br>18 Pin DIP   |__X__<br>    |__K2803__<br>ULN2803A Octal Transistor Array    | __01__<br>  |
-
+| Type   | Size   | Color   | Description   | Index   |    
+| ----- | ------   | ------   | -----   | ----   |    
+| __ICIC__   					| __DI18__   					| __X__    						| __K2803__    					| __01__ |    
+| 		| 18 Pin DIP	| 		| ULN2803A Octal Transistor Array	| 	|
 
 ## Images
 ![ICIC-DI18-X-K2803-01](http://oomlout.com/oomp-gen/parts/ICIC-DI18-X-K2803-01/ICIC-DI18-X-K2803-01_420.jpg)

@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: __SMD (1206) 150 mA Diode__
+Name: SMD (1206) 150 mA Diode
 
 ID: __DIOD-1206-X-A015D-01__
 
@@ -13,9 +13,10 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/DIOD-1206-X-A015D-01
 Short URL: __http://oom.lt/D115__
 
 
-|Type   |Size   |Color   |Description   |Index   |
-| __DIOD__ <br>Diode  | __1206__<br>SMD (1206)   |__X__<br>    |__A015D__<br>150 mA    | __01__<br>  |
-
+| Type   | Size   | Color   | Description   | Index   |    
+| ----- | ------   | ------   | -----   | ----   |    
+| __DIOD__   					| __1206__   					| __X__    						| __A015D__    					| __01__ |    
+| Diode		| SMD (1206)	| 		| 150 mA	| 	|
 
 ## Images
 ![DIOD-1206-X-A015D-01](http://oomlout.com/oomp-gen/parts/DIOD-1206-X-A015D-01/DIOD-1206-X-A015D-01_420.jpg)

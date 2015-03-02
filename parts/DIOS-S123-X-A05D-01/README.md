@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: __SMD (SOD-123) 500 mA Diode (Schottky)__
+Name: SMD (SOD-123) 500 mA Diode (Schottky)
 
 ID: __DIOS-S123-X-A05D-01__
 
@@ -13,9 +13,10 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/DIOS-S123-X-A05D-01_
 Short URL: __http://oom.lt/DS205__
 
 
-|Type   |Size   |Color   |Description   |Index   |
-| __DIOS__ <br>Diode (Schottky)  | __S123__<br>SMD (SOD-123)   |__X__<br>    |__A05D__<br>500 mA    | __01__<br>  |
-
+| Type   | Size   | Color   | Description   | Index   |    
+| ----- | ------   | ------   | -----   | ----   |    
+| __DIOS__   					| __S123__   					| __X__    						| __A05D__    					| __01__ |    
+| Diode (Schottky)		| SMD (SOD-123)	| 		| 500 mA	| 	|
 
 ## Images
 ![DIOS-S123-X-A05D-01](http://oomlout.com/oomp-gen/parts/DIOS-S123-X-A05D-01/DIOS-S123-X-A05D-01_420.jpg)

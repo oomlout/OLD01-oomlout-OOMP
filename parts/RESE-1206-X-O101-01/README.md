@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: __SMD (1206) 100 Ohm Resistor__
+Name: SMD (1206) 100 Ohm Resistor
 
 ID: __RESE-1206-X-O101-01__
 
@@ -13,9 +13,10 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-1206-X-O101-01_
 Short URL: __http://oom.lt/R1101__
 
 
-|Type   |Size   |Color   |Description   |Index   |
-| __RESE__ <br>Resistor  | __1206__<br>SMD (1206)   |__X__<br>    |__O101__<br>100 Ohm    | __01__<br>  |
-
+| Type   | Size   | Color   | Description   | Index   |    
+| ----- | ------   | ------   | -----   | ----   |    
+| __RESE__   					| __1206__   					| __X__    						| __O101__    					| __01__ |    
+| Resistor		| SMD (1206)	| 		| 100 Ohm	| 	|
 
 ## Images
 ![RESE-1206-X-O101-01](http://oomlout.com/oomp-gen/parts/RESE-1206-X-O101-01/RESE-1206-X-O101-01_420.jpg)

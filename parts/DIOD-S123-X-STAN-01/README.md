@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: __SMD (SOD-123) Diode__
+Name: SMD (SOD-123) Diode
 
 ID: __DIOD-S123-X-STAN-01__
 
@@ -13,9 +13,10 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/DIOD-S123-X-STAN-01_
 Short URL: __http://oom.lt/DS301__
 
 
-|Type   |Size   |Color   |Description   |Index   |
-| __DIOD__ <br>Diode  | __S123__<br>SMD (SOD-123)   |__X__<br>    |__STAN__<br>    | __01__<br>  |
-
+| Type   | Size   | Color   | Description   | Index   |    
+| ----- | ------   | ------   | -----   | ----   |    
+| __DIOD__   					| __S123__   					| __X__    						| __STAN__    					| __01__ |    
+| Diode		| SMD (SOD-123)	| 		| 	| 	|
 
 ## Images
 ![DIOD-S123-X-STAN-01](http://oomlout.com/oomp-gen/parts/DIOD-S123-X-STAN-01/DIOD-S123-X-STAN-01_420.jpg)

@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: __SMD (SOT-23) NPN Transistor__
+Name: SMD (SOT-23) NPN Transistor
 
 ID: __TRNN-SO23-X-STAN-01__
 
@@ -13,9 +13,10 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/TRNN-SO23-X-STAN-01_
 Short URL: __http://oom.lt/NTS000__
 
 
-|Type   |Size   |Color   |Description   |Index   |
-| __TRNN__ <br>NPN Transistor  | __SO23__<br>SMD (SOT-23)   |__X__<br>    |__STAN__<br>    | __01__<br>  |
-
+| Type   | Size   | Color   | Description   | Index   |    
+| ----- | ------   | ------   | -----   | ----   |    
+| __TRNN__   					| __SO23__   					| __X__    						| __STAN__    					| __01__ |    
+| NPN Transistor		| SMD (SOT-23)	| 		| 	| 	|
 
 ## Images
 ![TRNN-SO23-X-STAN-01](http://oomlout.com/oomp-gen/parts/TRNN-SO23-X-STAN-01/TRNN-SO23-X-STAN-01_420.jpg)

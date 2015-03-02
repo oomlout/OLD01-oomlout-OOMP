@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: __2 mm SMD UFL Socket__
+Name: 2 mm SMD UFL Socket
 
 ID: __UFLS-02-M-SMDS-01__
 
@@ -13,9 +13,10 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/UFLS-02-M-SMDS-01__
 Short URL: __http://oom.lt/UFL02S__
 
 
-|Type   |Size   |Color   |Description   |Index   |
-| __UFLS__ <br>UFL Socket  | __02__<br>2 mm   |__M__<br>Metal    |__SMDS__<br>SMD    | __01__<br>  |
-
+| Type   | Size   | Color   | Description   | Index   |    
+| ----- | ------   | ------   | -----   | ----   |    
+| __UFLS__   					| __02__   					| __M__    						| __SMDS__    					| __01__ |    
+| UFL Socket		| 2 mm	| Metal		| SMD	| 	|
 
 ## Images
 ![UFLS-02-M-SMDS-01](http://oomlout.com/oomp-gen/parts/UFLS-02-M-SMDS-01/UFLS-02-M-SMDS-01_420.jpg)

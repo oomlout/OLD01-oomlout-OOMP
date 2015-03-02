@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: __28 Pin SMD (SSOP) FTDI USB-Serial __
+Name: 28 Pin SMD (SSOP) FTDI USB-Serial 
 
 ID: __ICIC-SS28-X-K232-01__
 
@@ -13,9 +13,10 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/ICIC-SS28-X-K232-01_
 Short URL: __http://oom.lt/IC232__
 
 
-|Type   |Size   |Color   |Description   |Index   |
-| __ICIC__ <br>  | __SS28__<br>28 Pin SMD (SSOP)   |__X__<br>    |__K232__<br>FTDI USB-Serial    | __01__<br>  |
-
+| Type   | Size   | Color   | Description   | Index   |    
+| ----- | ------   | ------   | -----   | ----   |    
+| __ICIC__   					| __SS28__   					| __X__    						| __K232__    					| __01__ |    
+| 		| 28 Pin SMD (SSOP)	| 		| FTDI USB-Serial	| 	|
 
 ## Images
 ![ICIC-SS28-X-K232-01](http://oomlout.com/oomp-gen/parts/ICIC-SS28-X-K232-01/ICIC-SS28-X-K232-01_420.jpg)

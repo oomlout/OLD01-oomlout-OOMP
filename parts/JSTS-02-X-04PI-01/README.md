@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: __2 mm 4 Pin JST Socket__
+Name: 2 mm 4 Pin JST Socket
 
 ID: __JSTS-02-X-04PI-01__
 
@@ -13,9 +13,10 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/JSTS-02-X-04PI-01__
 Short URL: __http://oom.lt/J204__
 
 
-|Type   |Size   |Color   |Description   |Index   |
-| __JSTS__ <br>JST Socket  | __02__<br>2 mm   |__X__<br>    |__04PI__<br>4 Pin    | __01__<br>  |
-
+| Type   | Size   | Color   | Description   | Index   |    
+| ----- | ------   | ------   | -----   | ----   |    
+| __JSTS__   					| __02__   					| __X__    						| __04PI__    					| __01__ |    
+| JST Socket		| 2 mm	| 		| 4 Pin	| 	|
 
 ## Images
 ![JSTS-02-X-04PI-01](http://oomlout.com/oomp-gen/parts/JSTS-02-X-04PI-01/JSTS-02-X-04PI-01_420.jpg)

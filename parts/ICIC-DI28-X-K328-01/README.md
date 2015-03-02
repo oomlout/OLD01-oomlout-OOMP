@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: __28 Pin DIP AtMega328P__
+Name: 28 Pin DIP AtMega328P
 
 ID: __ICIC-DI28-X-K328-01__
 
@@ -13,9 +13,10 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/ICIC-DI28-X-K328-01_
 Short URL: __http://oom.lt/IC328__
 
 
-|Type   |Size   |Color   |Description   |Index   |
-| __ICIC__ <br>  | __DI28__<br>28 Pin DIP   |__X__<br>    |__K328__<br>AtMega328P    | __01__<br>  |
-
+| Type   | Size   | Color   | Description   | Index   |    
+| ----- | ------   | ------   | -----   | ----   |    
+| __ICIC__   					| __DI28__   					| __X__    						| __K328__    					| __01__ |    
+| 		| 28 Pin DIP	| 		| AtMega328P	| 	|
 
 ## Images
 ![ICIC-DI28-X-K328-01](http://oomlout.com/oomp-gen/parts/ICIC-DI28-X-K328-01/ICIC-DI28-X-K328-01_420.jpg)

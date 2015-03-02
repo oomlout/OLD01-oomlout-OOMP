@@ -1,7 +1,7 @@
 
 
  
-Name: ____
+Name: 
 
 ID: ____
 
@@ -12,9 +12,10 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/NHFF-M3-X-25-01__
 Short URL: __http://oom.lt/__
 
 
-|Type   |Size   |Color   |Description   |Index   |
-| ____ <br>  | ____<br>   |____<br>    |____<br>    | ____<br>  |
-
+| Type   | Size   | Color   | Description   | Index   |    
+| ----- | ------   | ------   | -----   | ----   |    
+| ____   					| ____   					| ____    						| ____    					| ____ |    
+| 		| 	| 		| 	| 	|
 
 ![NHFF-M3-X-25-01](http://oomlout.com/oomp-gen/parts/NHFF-M3-X-25-01/NHFF-M3-X-25-01_420.jpg)
 

@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: __SMD (0603) 33 Ohm Resistor 1%__
+Name: SMD (0603) 33 Ohm Resistor 1%
 
 ID: __RESE-0603-X-O330-67__
 
@@ -13,9 +13,10 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-0603-X-O330-67_
 Short URL: __http://oom.lt/R6330A__
 
 
-|Type   |Size   |Color   |Description   |Index   |
-| __RESE__ <br>Resistor  | __0603__<br>SMD (0603)   |__X__<br>    |__O330__<br>33 Ohm    | __67__<br> 1% |
-
+| Type   | Size   | Color   | Description   | Index   |    
+| ----- | ------   | ------   | -----   | ----   |    
+| __RESE__   					| __0603__   					| __X__    						| __O330__    					| __67__ |    
+| Resistor		| SMD (0603)	| 		| 33 Ohm	| 1%	|
 
 ## Images
 ![RESE-0603-X-O330-67](http://oomlout.com/oomp-gen/parts/RESE-0603-X-O330-67/RESE-0603-X-O330-67_420.jpg)

@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: __SMD (5032) 16 MHz Crystal__
+Name: SMD (5032) 16 MHz Crystal
 
 ID: __XTAL-5032-X-MZ16-01__
 
@@ -13,9 +13,10 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/XTAL-5032-X-MZ16-01_
 Short URL: __http://oom.lt/XS516__
 
 
-|Type   |Size   |Color   |Description   |Index   |
-| __XTAL__ <br>Crystal  | __5032__<br>SMD (5032)   |__X__<br>    |__MZ16__<br>16 MHz    | __01__<br>  |
-
+| Type   | Size   | Color   | Description   | Index   |    
+| ----- | ------   | ------   | -----   | ----   |    
+| __XTAL__   					| __5032__   					| __X__    						| __MZ16__    					| __01__ |    
+| Crystal		| SMD (5032)	| 		| 16 MHz	| 	|
 
 ## Images
 ![XTAL-5032-X-MZ16-01](http://oomlout.com/oomp-gen/parts/XTAL-5032-X-MZ16-01/XTAL-5032-X-MZ16-01_420.jpg)

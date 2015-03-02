@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: __SMD (0603) 22 Ohm Resistor__
+Name: SMD (0603) 22 Ohm Resistor
 
 ID: __RESE-0603-X-O220-01__
 
@@ -13,9 +13,10 @@ WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-0603-X-O220-01_
 Short URL: __http://oom.lt/R6220__
 
 
-|Type   |Size   |Color   |Description   |Index   |
-| __RESE__ <br>Resistor  | __0603__<br>SMD (0603)   |__X__<br>    |__O220__<br>22 Ohm    | __01__<br>  |
-
+| Type   | Size   | Color   | Description   | Index   |    
+| ----- | ------   | ------   | -----   | ----   |    
+| __RESE__   					| __0603__   					| __X__    						| __O220__    					| __01__ |    
+| Resistor		| SMD (0603)	| 		| 22 Ohm	| 	|
 
 ## Images
 ![RESE-0603-X-O220-01](http://oomlout.com/oomp-gen/parts/RESE-0603-X-O220-01/RESE-0603-X-O220-01_420.jpg)
