@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: __SMD (0805) 8.2k Ohm Resistor__
+Name: __ SMD (0805) 8.2k Ohm Resistor __
 
 ID: __RESE-0805-X-O822-01__
 

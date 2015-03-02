@@ -76,10 +76,44 @@
             <code>SO23</code>
             <name>SMD (SOT-23)</name>
     </oompSize>	
+	<oompSize>
+            <code>SC8</code>
+            <name>8 Pin SMD (SOIC)</name>
+    </oompSize>	
+    
+	<oompSize>
+            <code>SC14</code>
+            <name>14 Pin SMD (SOIC)</name>
+    </oompSize>	
+	<oompSize>
+            <code>SC16</code>
+            <name>16 Pin SMD (SOIC)</name>
+    </oompSize>	
+    
+	<oompSize>
+            <code>SC75</code>
+            <name>5 Pin SMD (SC70)</name>
+    </oompSize>	
+    
+	<oompSize>
+            <code>PS20</code>
+            <name>SMD (Power SO-20)</name>
+    </oompSize>	
+    
+	<oompSize>
+            <code>DFN8</code>
+            <name>SMD (DFN-8)</name>
+    </oompSize>	
     <oompSize>
             <code>SO235</code>
             <name>SMD (SOT-23-5)</name>
     </oompSize>	
+   
+    <oompSize>
+            <code>SO238</code>
+            <name>SMD (SOT-23-8)</name>
+    </oompSize>	
+   
     <oompSize>
             <code>SO89</code>
             <name>SMD (SOT-89)</name>
@@ -2194,6 +2228,28 @@
 	<oompSize>
             <code>QFN32</code>
             <name>32 Pin SMD (QFN)</name>
+    </oompSize>		
+	<oompSize>
+            <code>HQFN33</code>
+            <name>33 Pin SMD (Heatsink QFN)</name>
+    </oompSize>
+		
+	<oompSize>
+            <code>QFP32</code>
+            <name>32 Pin SMD (TQFP)</name>
+    </oompSize>
+	<oompSize>
+            <code>QFP64</code>
+            <name>64 Pin SMD (TQFP)</name>
+    </oompSize>
+	
+	<oompSize>
+            <code>QFP44</code>
+            <name>44 Pin SMD (TQFP)</name>
+    </oompSize>
+	<oompSize>
+            <code>QFP100</code>
+            <name>100 Pin SMD (TQFP)</name>
     </oompSize>
 	
 	<oompSize>

@@ -3,6 +3,16 @@
 		<code>67</code>
 		<name>1%</name>
 	</oompIndex>
+	
+	<oompIndex>
+		<code>68</code>
+		<name>Side Adjust</name>
+	</oompIndex>
+	
+	<oompIndex>
+		<code>69</code>
+		<name>Panel Mount</name>
+	</oompIndex>
 	<oompIndex>
 		<code>70</code>
 		<name>Cross Head</name>
@@ -11,6 +21,17 @@
 		<code>80</code>
 		<name>Keyed</name>
 	</oompIndex>
+	
+	<oompIndex>
+		<code>CA</code>
+		<name>Common Anode</name>
+	</oompIndex>
+	
+	<oompIndex>
+		<code>CC</code>
+		<name>Common Cathode</name>
+	</oompIndex>
+	
 	<oompIndex>
 		<code>V8</code>
 		<name>8v</name>
@@ -58,6 +79,18 @@
 		<oompIndex>
 		<code>A1</code>
 		<name>1 A</name>
+	</oompIndex>	
+		<oompIndex>
+		<code>AB</code>
+		<name>1.2 A</name>
+	</oompIndex>	
+		<oompIndex>
+		<code>A2</code>
+		<name>2 A</name>
+	</oompIndex>	
+		<oompIndex>
+		<code>A4</code>
+		<name>4 A</name>
 	</oompIndex>	
 		<oompIndex>
 		<code>SM</code>

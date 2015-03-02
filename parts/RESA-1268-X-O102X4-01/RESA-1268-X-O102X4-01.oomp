@@ -71,6 +71,14 @@
 				<link></link>
 				<note></note>			
 			</manufacturer>
+			<manufacturer>
+				<company>RoyalOhm</company>
+				<companyCode>C-ROYA</companyCode>
+				<name></name>
+				<partID>4D02-WG-J-0102-T-5</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
 				
 		<bigDistributor>
 				<company>DigiKey</company>
@@ -100,7 +108,7 @@
 			<bigDistributor>
 				<company>RS</company>
 				<companyCode>C-RSRS</companyCode>
-				<name>Bourns CAT16 Series 1kO ±5% Isolated SMT Resistor Array, 4 Resistors, 0.25W total 1206 Package</name>
+				<name>Bourns CAT16 Series 1kO +-5% Isolated SMT Resistor Array, 4 Resistors, 0.25W total 1206 Package</name>
 				<partID>522-5406</partID>
 				<link><![CDATA[http://uk.rs-online.com/web/p/array-resistors/5225406/?searchTerm=CAT16-102J4LF&relevancy-data=636F3D3226696E3D4931384E4B6E6F776E41734D504E266C753D656E266D6D3D6D61746368616C6C7061727469616C26706D3D5E5B5C707B4C7D5C707B4E647D2D2C2F255C2E5D2B2426706F3D313326736E3D592673743D4D414E5F504152545F4E554D4245522677633D424F5448267573743D43415431362D3130324A344C4626]]></link>
 				<note></note>
@@ -136,6 +144,15 @@
 				<oplFootprint>1268</oplFootprint>
 				<oplPackage>1206-8</oplPackage>
 				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESA-1268-X-O102X4-01]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD RES Array 1k-4R</oplName>
+				<oplID>301030012</oplID>
+				<oplFootprint>1206-8</oplFootprint>
+				<oplPackage>1206-8</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Resistor]]></oplLink>
 			</oplSystem>			
 		</oplList>
 		</oplList>

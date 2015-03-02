@@ -93,6 +93,21 @@
 		<familyHexNameSpaceDisplay>RA1###</familyHexNameSpaceDisplay>	
 		<familyAbout></familyAbout>
 	</oompFamily>
+	
+		<oompFamily>
+		<familyName>Potentiometers</familyName>
+		<familyType>POTE</familyType>
+		<familySize></familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>PT</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>PT####</familyHexNameSpaceDisplay>	
+		<familyAbout></familyAbout>
+	</oompFamily>
+
+	
+	
 	<oompFamily>
 		<familyName>Through Hole Capacitor (Ceramic) 50 v</familyName>
 		<familyType>CAPC</familyType>

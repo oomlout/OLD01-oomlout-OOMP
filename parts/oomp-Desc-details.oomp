@@ -1,5 +1,10 @@
 <xml>
     <oompDesc>
+            <code>ADJU</code>
+            <name>Adjustable</name>
+    </oompDesc>
+    
+    <oompDesc>
             <code>FROS</code>
             <name>Frosted</name>
     </oompDesc>
@@ -2862,6 +2867,10 @@
     <oompDesc>
             <code>O105</code>
             <name>1M Ohm</name>
+    </oompDesc>
+    <oompDesc>
+            <code>O106</code>
+            <name>10M Ohm</name>
     </oompDesc>
     <oompDesc>
             <code>O115</code>
@@ -11574,6 +11583,15 @@
             <name>FTDI USB-Serial</name>
     </oompDesc>		
 	
+	
+	<oompDesc>
+            <code>V25D</code>
+            <name>2.5v</name>
+    </oompDesc>	
+	<oompDesc>
+            <code>V3</code>
+            <name>3v</name>
+    </oompDesc>		
 	
 	<oompDesc>
             <code>V33D</code>

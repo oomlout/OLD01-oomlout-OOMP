@@ -39,9 +39,25 @@
             <name>Panasonic</name>
     </oompManufacturer>    
     <oompManufacturer>
+            <code>C-MICR</code>
+            <name>Microchip</name>
+    </oompManufacturer>   
+
+    <oompManufacturer>
             <code>C-MURA</code>
             <name>Murata</name>
-    </oompManufacturer>    
+    </oompManufacturer>   
+
+    <oompManufacturer>
+            <code>C-MONO</code>
+            <name>Monolithic Power Systems</name>
+    </oompManufacturer>   
+
+    <oompManufacturer>
+            <code>C-NXPP</code>
+            <name>NXP</name>
+    </oompManufacturer>   
+	
     <oompManufacturer>
             <code>C-FCII</code>
             <name>FCI</name>
@@ -52,8 +68,17 @@
 			<note>Rapid Electronics Own Brand Connectors</note>
     </oompManufacturer>    
     <oompManufacturer>
+            <code>C-TORE</code>
+            <name>Torex</name>
+			<note></note>
+    </oompManufacturer>    
+    <oompManufacturer>
             <code>C-TITI</code>
             <name>Texas instruments</name>
+    </oompManufacturer>    
+    <oompManufacturer>
+            <code>C-TITA</code>
+            <name>Titan</name>
     </oompManufacturer>    
     <oompManufacturer>
             <code>C-ATME</code>
@@ -67,9 +92,23 @@
             <code>C-YAGE</code>
             <name>Yageo</name>
     </oompManufacturer>    
+    
+    <oompManufacturer>
+            <code>C-ROYA</code>
+            <name>RoyalOhm</name>
+    </oompManufacturer>    
+    
+    <oompManufacturer>
+            <code>C-RICH</code>
+            <name>RichTek</name>
+    </oompManufacturer>    
     <oompManufacturer>
             <code>C-VISH</code>
             <name>Vishay Dale</name>
+    </oompManufacturer>    
+    <oompManufacturer>
+            <code>C-VSHO</code>
+            <name>VSHO Tech</name>
     </oompManufacturer>    
     <oompManufacturer>
             <code>C-YXCO</code>
@@ -137,10 +176,20 @@
             <name>Shenzhen Best</name>
     </oompManufacturer>    
     <oompManufacturer>
+            <code>C-CHeng</code>
+            <name>Chengguangxing</name>
+    </oompManufacturer>    
+	
+    <oompManufacturer>
             <code>C-CUII</code>
             <name>CUI</name>
-            <name>CUI</name>
     </oompManufacturer>    
+	
+    <oompManufacturer>
+            <code>C-CONS</code>
+            <name>Consonance</name>
+    </oompManufacturer>    
+	
     <oompManufacturer>
             <code>C-SWIT</code>
             <name>Switchcraft</name>

@@ -7,6 +7,16 @@
 		<supplierSearchEnd><![CDATA[]]></supplierSearchEnd>
 		<supplierPartString></supplierPartString>
 	</oompSupplier>
+	
+	<oompSupplier>
+		<supplierCode>C-ETAS</supplierCode>
+		<supplierName>ETA Solutions</supplierName>
+		<supplierWebsite></supplierWebsite>
+		<supplierSearchString></supplierSearchString>
+		<supplierSearchEnd></supplierSearchEnd>
+		<supplierPartString></supplierPartString>
+	</oompSupplier>	
+	
 	<oompSupplier>
 		<supplierCode>C-FARN</supplierCode>
 		<supplierName>Farnell</supplierName>
@@ -142,5 +152,6 @@
 		<supplierSearchString><![CDATA[http://www.rapidonline.com/FFSearchResults.aspx?query=]]></supplierSearchString>
 		<supplierSearchEnd><![CDATA[&filterSearchScope=1]]></supplierSearchEnd>
 		<supplierPartString></supplierPartString>
-	</oompSupplier>				
+	</oompSupplier>		
+	
 </xml>

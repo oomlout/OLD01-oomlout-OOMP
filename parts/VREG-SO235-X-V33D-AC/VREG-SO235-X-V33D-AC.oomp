@@ -73,6 +73,15 @@
 				<link></link>
 				<note></note>			
 			</manufacturer>
+			
+			<manufacturer>
+				<company>Torex</company>
+				<companyCode>C-TORE</companyCode>
+				<name></name>
+				<partID>XC6204B332MR</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
 				
 			<bigDistributor>
 				<company>DigiKey</company>
@@ -131,6 +140,15 @@
 				<oplFootprint>SO235</oplFootprint>
 				<oplPackage>SO235</oplPackage>
 				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/VREG-SO235-X-V33D-AC]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName></oplName>
+				<oplID>131048001</oplID>
+				<oplFootprint>SOT25</oplFootprint>
+				<oplPackage>SOT25</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#IC]]></oplLink>
 			</oplSystem>
 
 

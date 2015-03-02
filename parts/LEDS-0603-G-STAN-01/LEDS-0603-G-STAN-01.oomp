@@ -110,10 +110,10 @@
 
     		<sourceList>
 			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
+				<company>Everlight</company>
+				<companyCode>C-EVER</companyCode>
 				<name></name>
-				<partID></partID>
+				<partID>19-217-G7C-AN1P2-3T</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -137,13 +137,13 @@
 		</sourceList>
 		<oplList>
 			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[ ]]></oplLink>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD LED Clear-Green</oplName>
+				<oplID>0330010P1</oplID>
+				<oplFootprint>LED-0603</oplFootprint>
+				<oplPackage>LED-0603</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Diode]]></oplLink>
 			</oplSystem>
 		</oplList>
 

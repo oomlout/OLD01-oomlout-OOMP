@@ -26,6 +26,19 @@
 	* fix size on new 0805 caps and 2312 caps
 	* fix oomp link to gihub file xml
 	* get custom descriptions after main descriptions in idCodes generated page.
+	* fix VREG-SO223-X-V05-A1 schem diagram
+	* Add note about black and white diagrams. (easy)
+	* add test for footprint libraries section
+	* standardize SEEED OPL name to SEEED OPL
+	* fix 49 ohm resistor detail
+	* Fix Readme
+	* Figure out missing HELF
+	* LMV 358 and 324 add dual and quad tio name
+	* Add potentiometer to type.
+	* Add wikipedia link to package sizes
+	* Fix SMD package size names
+	* Sort out connector category on SEEED
+	* Diodes after 0330060P1
 	
 ;###### Newly added only SEEED
 CAPC-0603-X-PF12-01	

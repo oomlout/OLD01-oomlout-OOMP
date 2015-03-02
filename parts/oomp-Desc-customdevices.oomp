@@ -9,27 +9,123 @@
     </oompDesc>	
 	
 	<oompDesc>
+            <code>K8</code>
+            <name>AtMega8A</name>
+    </oompDesc>	
+	<oompDesc>
+            <code>K2560</code>
+            <name>AtMega2560</name>
+    </oompDesc>	
+	
+	<oompDesc>
             <code>K16U2</code>
             <name>AtMega16U2</name>
     </oompDesc>	
+	
+	<oompDesc>
+            <code>K32U4</code>
+            <name>AtMega32U4</name>
+    </oompDesc>	
 	<oompDesc>
             <code>K125</code>
-            <name>74HC125 Quad Buffer</name>
+            <name>Quad Buffer (74HC125)</name>
+    </oompDesc>	
+	<oompDesc>
+            <code>K1555</code>
+            <name>Lithium Ion Battery Charger (1 Cell) (MAX1555)</name>
+    </oompDesc>	
+	
+	<oompDesc>
+            <code>K125LS</code>
+            <name>Single Buffer (74LVC1G125)</name>
     </oompDesc>	
 	<oompDesc>
             <code>K232</code>
             <name>FTDI USB-Serial</name>
+    </oompDesc>	
+	
+	<oompDesc>
+            <code>KM232</code>
+            <name>RS232 to TTL Converter (MAX232)</name>
     </oompDesc>	
 	<oompDesc>
             <code>K595</code>
             <name>74HC595 8-Bit Shift Register (Latching)</name>
     </oompDesc>	
 	<oompDesc>
+            <code>K2515</code>
+            <name>CAN Controller SPI (MCP2515)</name>
+    </oompDesc>	
+		
+	<oompDesc>
+            <code>K2551</code>
+            <name>CAN Tranceiver (MCP2521)</name>
+    </oompDesc>	
+		
+	<oompDesc>
             <code>K2803</code>
             <name>ULN2803A Octal Transistor Array</name>
     </oompDesc>	
+	
+	<oompDesc>
+            <code>K2904</code>
+            <name>LM2904 Dual</name>
+    </oompDesc>	
+	
+	<oompDesc>
+            <code>KDS1307</code>
+            <name>Real Time Clock (DS1307)</name>
+    </oompDesc>	
+	<oompDesc>
+            <code>KDS1337</code>
+            <name>Real Time Clock (DS1337)</name>
+    </oompDesc>	
+	<oompDesc>
+            <code>KL298</code>
+            <name>Dual H-Bridge (L298)</name>
+    </oompDesc>	
+	
+	<oompDesc>
+            <code>KLMV324</code>
+            <name>LMV358</name>
+    </oompDesc>	
+	
 	<oompDesc>
             <code>KLMV358</code>
             <name>LMV358</name>
+    </oompDesc>	
+	
+	<oompDesc>
+            <code>KM293D</code>
+            <name>Dual Differential Comparator (LM293)</name>
+    </oompDesc>	
+	<oompDesc>
+            <code>KTM1636</code>
+            <name>7 Segment Driver and Keypad Scanning (TM1636)</name>
+    </oompDesc>	
+	<oompDesc>
+            <code>KLM358</code>
+            <name>LM358</name>
+    </oompDesc>	
+	
+	<oompDesc>
+            <code>KCN3065</code>
+            <name>Lithium Ion Battery Charger (CN3065)</name>
+    </oompDesc>	
+	<oompDesc>
+            <code>KLPC33</code>
+            <name>LPC11U35FHI33 (Cortex M0)</name>
+    </oompDesc>	
+	<oompDesc>
+            <code>KLPC11</code>
+            <name>LPC11U24 (Cortex M0)</name>
+    </oompDesc>	
+	<oompDesc>
+            <code>KLPC14</code>
+            <name>LPC1114 (Cortex M0)</name>
+    </oompDesc>	
+	<oompDesc>
+            <code>KLPC17</code>
+            <name>LPC1768 (Cortex M3)</name>
     </oompDesc>	
 </xml>

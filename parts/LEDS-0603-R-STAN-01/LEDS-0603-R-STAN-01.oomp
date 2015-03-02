@@ -110,10 +110,10 @@
 
     		<sourceList>
 			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
+				<company>Everlight</company>
+				<companyCode>C-EVER</companyCode>
 				<name></name>
-				<partID></partID>
+				<partID>19-217-R6C-AL1M2VY-3T</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -127,23 +127,23 @@
 				<note></note>
 			</bigDistributor>					
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
+				<company>Mouser</company>
+				<companyCode>C-MOUS</companyCode>
 				<name></name>
-				<partID></partID>
+				<partID>638-19217R6CAL1M2VY3</partID>
 				<link><![CDATA[ ]]></link>
 				<note></note>
 			</bigDistributor>					
 		</sourceList>
 		<oplList>
 			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[ ]]></oplLink>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>LED-SMD Red Diffused</oplName>
+				<oplID>0330020P1</oplID>
+				<oplFootprint>LED-0603</oplFootprint>
+				<oplPackage>LED-0603</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Diode]]></oplLink>
 			</oplSystem>
 		</oplList>
 

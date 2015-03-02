@@ -5,7 +5,7 @@
 
 <!--OOMP Base -->
         <oompID>ICIC-TS14-X-K125-01</oompID>
-        <name>14 Pin SMD (TSSOP) Quad Buffer </name>
+        <name>14 Pin SMD (TSSOP) Quad Buffer (74HC125) </name>
         <hexID>ICQB</hexID>
         <oompSort>Quad Buffer</oompSort>
         <oompType>ICIC</oompType>
@@ -110,10 +110,10 @@
 
     		<sourceList>
 			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
+				<company>Fairchild</company>
+				<companyCode>C-FAIR</companyCode>
 				<name></name>
-				<partID></partID>
+				<partID>74VHC125MTCX</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -137,13 +137,13 @@
 		</sourceList>
 		<oplList>
 			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[ ]]></oplLink>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD IC Logic;TSSOP-14</oplName>
+				<oplID>310050042</oplID>
+				<oplFootprint>TSSOP-14</oplFootprint>
+				<oplPackage>TSSOP-14</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#IC]]></oplLink>
 			</oplSystem>
 		</oplList>
 
