@@ -24,14 +24,14 @@
 		
 <com>Size</com>
         <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
+        <ooWidth>15.06 mm</ooWidth>
+        <ooHeight>4.10 mm</ooHeight>
         <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
+        <ooLength>15 mm</ooLength>
         <ooDepth></ooDepth>
 
 <com>Description</com>
-        <ooNumPins></ooNumPins>
+        <ooNumPins>2</ooNumPins>
         <ooPowerRating></ooPowerRating>
 
 
@@ -48,7 +48,7 @@
 				<company>Unknown</company>
 				<companyCode>C-UNKN</companyCode>
 				<name></name>
-				<partID></partID>
+				<partID>CR1220-2</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -62,13 +62,13 @@
 			</manufacturer>
 				
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
+				<company>SEEED Studio</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>SMD Battery Cell Holder Plastic</name>
+				<partID>320170000</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=130]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>				
 
 			<bigDistributor>
 				<company></company>
@@ -81,7 +81,16 @@
 		</sourceList>
 		
 <com>OPL</com>		
-		<oplList>
+		<oplList>		
+		<oplSystem>
+				<oplScheme>Oopen Organization Method for Parts</oplScheme>
+				<oplCode>C-OOMP</oplCode>
+				<oplName>CR1220 SMD Battery Holder</oplName>
+				<oplID>BAHO-CR1220-X-SMDS-01</oplID>
+				<oplFootprint>BAHO-CR1220-X-SMDS-01</oplFootprint>
+				<oplPackage>BAHO-CR1220-X-SMDS-01</oplPackage>
+				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/BAHO-CR1220-X-SMDS-01]]></oplLink>
+			</oplSystem>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
@@ -94,7 +103,7 @@
 		</oplList>
 
 <com>Hidden</com>
-        <oompAbout></oompAbout>
+        <oompAbout>A surface mount battery holder for a CR1220 lithium ion button cell. Commonly used as a battery backup for on board clocks.</oompAbout>
         <ooProjectName1></ooProjectName1>
         <ooProjectDesc1></ooProjectDesc1>
         <ooProjectLink1></ooProjectLink1>

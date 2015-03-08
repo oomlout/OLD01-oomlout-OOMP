@@ -38,13 +38,13 @@
 
 		
 	<com> QUITE IMPORTANT</com>
-		<ooNumPins></ooNumPins>
+		<ooNumPins>2</ooNumPins>
 		
 		<ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
+        <ooWidth>6 mm</ooWidth>
+        <ooHeight>3.5 mm</ooHeight>
         <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
+        <ooLength>3.5 mm</ooLength>
         <ooDepth></ooDepth>
 
 		
@@ -117,7 +117,7 @@
 <com>Maximums</com>
         <ooMaxCurrent></ooMaxCurrent>
         <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
+        <ooLifetime>50 000 cycles</ooLifetime>
         <ooTolerance></ooTolerance>
 
 		

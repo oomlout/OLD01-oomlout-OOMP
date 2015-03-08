@@ -18,19 +18,13 @@
 
 
 <!--Size -->
-        <ooPitch></ooPitch>
+        <ooPitch>2.54 mm</ooPitch>
         <ooWidth>53 mm</ooWidth>
         <ooHeight>8.5 mm</ooHeight>
         <ooDiameter></ooDiameter>
         <ooLength>82 mm</ooLength>
         <ooDepth></ooDepth>
         <ooWireSize></ooWireSize>
-
-
-<!--Manufacturer -->
-        <ooManufacturer></ooManufacturer>
-        <ooManufacturerPartNumber></ooManufacturerPartNumber>
-
 
 <!--Description -->
         <ooMaterial></ooMaterial>
@@ -46,7 +40,7 @@
 
 <!--Maximums -->
         <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
+        <ooMaxVoltage>300 v</ooMaxVoltage>
         <ooLifetime></ooLifetime>
         <ooTolerance></ooTolerance>
 
@@ -210,13 +204,13 @@
 		</sourceList>
 		<oplList>
 			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
+				<oplScheme>Oopen Organization Method for Parts</oplScheme>
+				<oplCode>C-OOMP</oplCode>
+				<oplName>400 Point Clear Breadboard</oplName>
+				<oplID>BREB-P400-C-STAN-01</oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
-				<oplLink><![CDATA[ ]]></oplLink>
+				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/BREB-P400-C-STAN-01]]></oplLink>
 			</oplSystem>
 		</oplList>
 

@@ -24,21 +24,21 @@
 		
 <com>Size</com>
         <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
+        <ooWidth>6 mm</ooWidth>
+        <ooHeight>3.5 mm</ooHeight>
         <ooDiameter></ooDiameter>
         <ooLength></ooLength>
-        <ooDepth></ooDepth>
+        <ooDepth>3.5 mm</ooDepth>
 
 <com>Description</com>
-        <ooNumPins></ooNumPins>
+        <ooNumPins>2</ooNumPins>
         <ooPowerRating></ooPowerRating>
 
 
 <com>Maximums</com>
         <ooMaxCurrent></ooMaxCurrent>
         <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
+        <ooLifetime>50 000 cycles</ooLifetime>
         <ooTolerance></ooTolerance>
 
 
@@ -71,13 +71,13 @@
 			</bigDistributor>					
 
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
+				<company>SEEED Studio</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>DIP Button Front -white;2P-L6.0*W3.0*H4.3mm-90D</name>
+				<partID>311020025</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=164]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>				
 		</sourceList>
 		
 <com>OPL</com>		
@@ -91,10 +91,19 @@
 				<oplPackage>2P-L6.0*W3.0*H4.3mm-90D</oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Connector]]></oplLink>
 			</oplSystem>
+			<oplSystem>
+				<oplScheme>Oopen Organization Method for Parts</oplScheme>
+				<oplCode>C-OOMP</oplCode>
+				<oplName>6 mm 2 Pin Pushbutton (Tactile)</oplName>
+				<oplID>BUTA-06-X-02PI-01</oplID>
+				<oplFootprint>BUTA-06-X-02PI-01</oplFootprint>
+				<oplPackage>BUTA-06-X-02PI-01</oplPackage>
+				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/BUTA-06-X-02PI-01]]></oplLink>
+			</oplSystem>
 		</oplList>
 
 <com>Hidden</com>
-        <oompAbout></oompAbout>
+        <oompAbout>A simple tactile pushbutton with two pins. This button is not commonly used. However it is imcluded in OOMP due to it being a part in the SEEED OPL. For a more commonly used through hole button we recommend (BUTA-06-X-STAN-01)</oompAbout>
         <ooProjectName1></ooProjectName1>
         <ooProjectDesc1></ooProjectDesc1>
         <ooProjectLink1></ooProjectLink1>

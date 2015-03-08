@@ -99,7 +99,15 @@
 				<partID>DTSM-62K-S-V-T/R(SN431)</partID>
 				<link></link>
 				<note></note>			
-			</manufacturer>
+			</manufacturer>		
+			<manufacturer>
+				<company>Omron</company>
+				<companyCode>C-OMRO</companyCode>
+				<name></name>
+				<partID>B3S-1000</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>	
 			<manufacturer>
 				<company>Schurter</company>
 				<companyCode>C-SCHU</companyCode>
@@ -154,6 +162,24 @@
 
 			</sourceList>
 		<oplList>
+					<oplSystem>
+				<oplScheme>Circuithub.com</oplScheme>
+				<oplCode>C-CIRC</oplCode>
+				<oplName>OMRON/B3S-1000</oplName>
+				<oplID>OMRON/B3S-1000</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://circuithub.com/parts/OMRON/B3S-1000]]></oplLink>
+			</oplSystem>
+					<oplSystem>
+				<oplScheme>Oopen Organization Method for Parts</oplScheme>
+				<oplCode>C-OOMP</oplCode>
+				<oplName>6 mm SMD Pushbutton (Tactile)</oplName>
+				<oplID>BUTA-06-X-SMDS-01</oplID>
+				<oplFootprint>BUTA-06-X-SMDS-01</oplFootprint>
+				<oplPackage>BUTA-06-X-SMDS-01</oplPackage>
+				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/BUTA-06-X-SMDS-01]]></oplLink>
+			</oplSystem>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>

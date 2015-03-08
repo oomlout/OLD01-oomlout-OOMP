@@ -6,11 +6,6 @@
             <code>BAHO</code>
             <name>Battery Holder</name>
     </oompType>    
-	<oompType>
-            <code>DBCO</code>
-            <name>Connector</name>
-			<nameLong>DB Connector</nameLong>
-    </oompType>
     <oompType>
             <code>BREB</code>
             <name>Breadboard</name>
@@ -34,6 +29,11 @@
     <oompType>
             <code>CERE</code>
             <name>Ceramic Resonator</name>
+    </oompType>
+	<oompType>
+            <code>DBCO</code>
+            <name>Connector</name>
+			<nameLong>DB Connector</nameLong>
     </oompType>
 	<oompSize>
             <code>128X64</code>
