@@ -2,15 +2,15 @@
 
 ## Summary
  
-Name: 2.54 mm 8 Pin Blue Female Header (Long)
+Name:  2.54 mm 8 Pin Blue Female Header (Long) 
 
 ID: __HELF-I01-L-08PI-01__
 
-Hex ID: __10BE__
+Hex ID: __HFL08L__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HELF-I01-L-08PI-01__
 
-Short URL: __http://oom.lt/10BE__
+Short URL: __http://oom.lt/HFL08L__
 
 
 | Type   | Size   | Color   | Description   | Index   |    

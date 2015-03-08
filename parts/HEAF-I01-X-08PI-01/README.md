@@ -2,15 +2,15 @@
 
 ## Summary
  
-Name: 2.54 mm 8 Pin Female Header
+Name:  2.54 mm 8 Pin Female Header 
 
 ID: __HEAF-I01-X-08PI-01__
 
-Hex ID: __EE78__
+Hex ID: __HF08__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAF-I01-X-08PI-01__
 
-Short URL: __http://oom.lt/EE78__
+Short URL: __http://oom.lt/HF08__
 
 
 | Type   | Size   | Color   | Description   | Index   |    

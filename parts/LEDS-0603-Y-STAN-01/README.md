@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: SMD (0603) Yellow LED
+Name:  SMD (0603) Yellow LED 
 
 ID: __LEDS-0603-Y-STAN-01__
 

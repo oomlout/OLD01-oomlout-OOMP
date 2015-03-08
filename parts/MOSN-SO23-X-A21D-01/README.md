@@ -2,15 +2,15 @@
 
 ## Summary
  
-Name: SMD (SOT-23) 2.1 Amp N-Ch. MOSFET
+Name:  SMD (SOT-23) 2.1 Amp N-Ch. MOSFET 
 
 ID: __MOSN-SO23-X-A21D-01__
 
-Hex ID: __MNS221__
+Hex ID: __MNS221D__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/MOSN-SO23-X-A21D-01__
 
-Short URL: __http://oom.lt/MNS221__
+Short URL: __http://oom.lt/MNS221D__
 
 
 | Type   | Size   | Color   | Description   | Index   |    

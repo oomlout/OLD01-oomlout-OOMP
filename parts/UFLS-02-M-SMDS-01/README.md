@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: 2 mm SMD UFL Socket
+Name:  2 mm SMD Metal UFL Socket 
 
 ID: __UFLS-02-M-SMDS-01__
 

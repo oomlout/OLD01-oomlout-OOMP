@@ -2,15 +2,15 @@
 
 ## Summary
  
-Name: 2 mm 10 Pin Blue Female Header
+Name:  2 mm 10 Pin Blue Female Header 
 
 ID: __HEAF-02-L-10PI-01__
 
-Hex ID: __10DE__
+Hex ID: __H210__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAF-02-L-10PI-01__
 
-Short URL: __http://oom.lt/10DE__
+Short URL: __http://oom.lt/H210__
 
 
 | Type   | Size   | Color   | Description   | Index   |    

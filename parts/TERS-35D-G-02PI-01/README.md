@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: 3.5 mm 2 Pin Green Screw Terminal
+Name:  3.5 mm 2 Pin Green Screw Terminal 
 
 ID: __TERS-35D-G-02PI-01__
 

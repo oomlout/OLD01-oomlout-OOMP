@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: 2.54 mm 2 Pin Header
+Name:  2.54 mm 2 Pin Header 
 
 ID: __HEAD-I01-X-02PI-01__
 

@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: 5 mm 2 Pin Green Screw Terminal
+Name:  5 mm 2 Pin Green Screw Terminal 
 
 ID: __TERS-05-G-02PI-01__
 

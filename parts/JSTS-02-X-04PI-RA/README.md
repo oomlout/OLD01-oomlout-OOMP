@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: 2 mm 4 Pin JST Socket Right Angle
+Name:  2 mm 4 Pin JST Socket Right Angle 
 
 ID: __JSTS-02-X-04PI-RA__
 

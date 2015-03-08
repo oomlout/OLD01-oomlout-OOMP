@@ -6,11 +6,11 @@ Name: SMD (1206) 150 mA Diode
 
 ID: __DIOD-1206-X-A015D-01__
 
-Hex ID: __D115__
+Hex ID: __DS115__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/DIOD-1206-X-A015D-01__
 
-Short URL: __http://oom.lt/D115__
+Short URL: __http://oom.lt/DS115__
 
 
 | Type   | Size   | Color   | Description   | Index   |    

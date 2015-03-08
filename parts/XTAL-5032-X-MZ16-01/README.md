@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: SMD (5032) 16 MHz Crystal
+Name:  SMD (5032) 16 MHz Crystal 
 
 ID: __XTAL-5032-X-MZ16-01__
 

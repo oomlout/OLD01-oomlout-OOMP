@@ -2,15 +2,15 @@
 
 ## Summary
  
-Name: 2 mm 2 Pin JST Socket Right Angle (SMD)
+Name:  2 mm 2 Pin JST Socket Right Angle (SMD) 
 
 ID: __JSTS-02-X-02PI-RS__
 
-Hex ID: __J202RS__
+Hex ID: __J204R__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/JSTS-02-X-02PI-RS__
 
-Short URL: __http://oom.lt/J202RS__
+Short URL: __http://oom.lt/J204R__
 
 
 | Type   | Size   | Color   | Description   | Index   |    

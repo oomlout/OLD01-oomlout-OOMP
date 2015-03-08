@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: 2.1 mm Through Hole DC Jack
+Name:  2.1 mm Through Hole DC Jack 
 
 ID: __DCJP-21D-X-THTH-02__
 

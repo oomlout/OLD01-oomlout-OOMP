@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: Mini SMD USB Socket
+Name:  Mini SMD Metal USB Socket 
 
 ID: __USBS-MN-M-SMDS-01__
 

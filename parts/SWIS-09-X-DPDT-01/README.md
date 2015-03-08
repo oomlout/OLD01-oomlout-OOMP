@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: 9 mm DPDT Switch (Slide)
+Name:  9 mm DPDT Switch (Slide) 
 
 ID: __SWIS-09-X-DPDT-01__
 

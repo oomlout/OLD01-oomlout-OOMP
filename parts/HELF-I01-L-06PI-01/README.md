@@ -2,15 +2,15 @@
 
 ## Summary
  
-Name: 2.54 mm 6 Pin Blue Female Header (Long)
+Name:  2.54 mm 6 Pin Blue Female Header (Long) 
 
 ID: __HELF-I01-L-06PI-01__
 
-Hex ID: __10BD__
+Hex ID: __HFL06L__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HELF-I01-L-06PI-01__
 
-Short URL: __http://oom.lt/10BD__
+Short URL: __http://oom.lt/HFL06L__
 
 
 | Type   | Size   | Color   | Description   | Index   |    

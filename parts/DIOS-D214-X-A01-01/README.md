@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: SMD (DO-214) 1 Amp Diode (Schottky)
+Name:  SMD (DO-214) 1 Amp Diode (Schottky) 
 
 ID: __DIOS-D214-X-A01-01__
 

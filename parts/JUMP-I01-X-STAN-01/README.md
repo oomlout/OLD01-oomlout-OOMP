@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: 2.54 mm Jumper
+Name:  2.54 mm Jumper 
 
 ID: __JUMP-I01-X-STAN-01__
 

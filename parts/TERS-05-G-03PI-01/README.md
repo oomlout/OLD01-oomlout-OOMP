@@ -2,15 +2,15 @@
 
 ## Summary
  
-Name: 5 mm 3 Pin Green Screw Terminal
+Name:  5 mm 3 Pin Green Screw Terminal 
 
 ID: __TERS-05-G-03PI-01__
 
-Hex ID: __ST503G__
+Hex ID: __ST502G__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/TERS-05-G-03PI-01__
 
-Short URL: __http://oom.lt/ST503G__
+Short URL: __http://oom.lt/ST502G__
 
 
 | Type   | Size   | Color   | Description   | Index   |    

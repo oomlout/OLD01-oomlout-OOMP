@@ -2,7 +2,7 @@
 
 ## Summary
  
-Name: 2 mm 4 Pin JST Socket
+Name:  2 mm 4 Pin JST Socket 
 
 ID: __JSTS-02-X-04PI-01__
 

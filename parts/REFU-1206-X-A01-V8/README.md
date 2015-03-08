@@ -2,15 +2,15 @@
 
 ## Summary
  
-Name: SMD (1206) 1 Amp Resetable Fuse 8v
+Name:  SMD (1206) 1 Amp Resetable Fuse 8v 
 
 ID: __REFU-1206-X-A01-V8__
 
-Hex ID: __RF11__
+Hex ID: __RF121__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/REFU-1206-X-A01-V8__
 
-Short URL: __http://oom.lt/RF11__
+Short URL: __http://oom.lt/RF121__
 
 
 | Type   | Size   | Color   | Description   | Index   |    

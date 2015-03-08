@@ -2,15 +2,15 @@
 
 ## Summary
  
-Name: 2.54 mm 6 Pin Female Header
+Name:  2.54 mm 6 Pin Female Header 
 
 ID: __HEAF-I01-X-06PI-01__
 
-Hex ID: __10D8__
+Hex ID: __HF06__
 
 WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAF-I01-X-06PI-01__
 
-Short URL: __http://oom.lt/10D8__
+Short URL: __http://oom.lt/HF06__
 
 
 | Type   | Size   | Color   | Description   | Index   |    
