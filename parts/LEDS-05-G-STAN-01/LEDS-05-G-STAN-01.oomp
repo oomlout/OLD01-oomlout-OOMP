@@ -110,10 +110,10 @@
 
     		<sourceList>
 			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
+				<company>Chengguangxing</company>
+				<companyCode>C-CHEN</companyCode>
 				<name></name>
-				<partID></partID>
+				<partID>G502DC</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -137,13 +137,13 @@
 		</sourceList>
 		<oplList>
 			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>DIP LED Green-Green</oplName>
+				<oplID>304090038, 304090040</oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
-				<oplLink><![CDATA[ ]]></oplLink>
+				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Diode]]></oplLink>
 			</oplSystem>
 		</oplList>
 

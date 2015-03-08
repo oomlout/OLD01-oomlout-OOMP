@@ -1,0 +1,119 @@
+<xml>
+    <oompPart>
+
+<com>OOMP Base</com>
+        <oompID>BAHO-CR1220-X-SMDS-01</oompID>
+        <name> CR1220 SMD Battery Holder </name>
+
+        <hexID>BHS1220</hexID>
+        <oompSort></oompSort>
+
+		<oompClass>Surface Mount</oompClass>
+		<oompClassCode>SMDS</oompClassCode>		
+		
+        <oompType>BAHO</oompType>
+        <oompSize>CR1220</oompSize>
+        <oompColor>X</oompColor>
+        <oompDesc>SMDS</oompDesc>
+        <oompIndex>01</oompIndex>
+
+        <oompVersion>40</oompVersion>
+
+
+		
+		
+<com>Size</com>
+        <ooPitch></ooPitch>
+        <ooWidth></ooWidth>
+        <ooHeight></ooHeight>
+        <ooDiameter></ooDiameter>
+        <ooLength></ooLength>
+        <ooDepth></ooDepth>
+
+<com>Description</com>
+        <ooNumPins></ooNumPins>
+        <ooPowerRating></ooPowerRating>
+
+
+<com>Maximums</com>
+        <ooMaxCurrent></ooMaxCurrent>
+        <ooMaxVoltage></ooMaxVoltage>
+        <ooLifetime></ooLifetime>
+        <ooTolerance></ooTolerance>
+
+
+<com>Source List</com>		
+		<sourceList>
+			<manufacturer>
+				<company>Unknown</company>
+				<companyCode>C-UNKN</companyCode>
+				<name></name>
+				<partID></partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+				
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>					
+
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>					
+		</sourceList>
+		
+<com>OPL</com>		
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD Battery Cell Holder Plastic;</oplName>
+				<oplID>320170000</oplID>
+				<oplFootprint>CR1220-15.06*13.00*H4.1mm</oplFootprint>
+				<oplPackage>CR1220-15.06*13.00*H4.1mm</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Connector]]></oplLink>
+			</oplSystem>
+		</oplList>
+
+<com>Hidden</com>
+        <oompAbout></oompAbout>
+        <ooProjectName1></ooProjectName1>
+        <ooProjectDesc1></ooProjectDesc1>
+        <ooProjectLink1></ooProjectLink1>
+        <ooProjectType1></ooProjectType1>
+        <ooBuyName1></ooBuyName1>
+        <ooBuyDesc1></ooBuyDesc1>
+        <ooBuyLink1></ooBuyLink1>
+        <ooBuyType1></ooBuyType1>
+
+	<com>Footprint</com>
+		<footprintList>
+			<footprintSystem>
+				<footprintScheme>Eagle Default</footprintScheme>
+				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+		</footprintList>
+    </oompPart>	
+	
+</xml>

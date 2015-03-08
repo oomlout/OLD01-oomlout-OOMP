@@ -1,88 +1,57 @@
 <xml>
     <oompPart>
+
+<com>OOMP Base</com>
         <oompID>HEAF-02-L-10PI-01</oompID>
-        <name>2 mm 10 Pin Blue Female Header</name>
-        <hexID>10DE</hexID>
+        <name> 2 mm 10 Pin Blue Female Header </name>
+
+        <hexID>H210</hexID>
+        <oompSort></oompSort>
+
+		<oompClass>Through Hole</oompClass>
+		<oompClassCode>THTH</oompClassCode>		
+		
         <oompType>HEAF</oompType>
         <oompSize>02</oompSize>
         <oompColor>L</oompColor>
         <oompDesc>10PI</oompDesc>
         <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
 
-        <!-- OOMP Base-->
-		<oompSort></oompSort>
-			
-        <!-- LED Tags-->
-		<ooLensColor></ooLensColor>
-		<ooForwardVoltage></ooForwardVoltage>
-		<ooForwardCurrent></ooForwardCurrent>
-		<ooIntensity></ooIntensity>
-		<ooPowerAngle></ooPowerAngle>
-		<ooWavelength></ooWavelength>
-		<ooChromaticityX></ooChromaticityX>
-		<ooChromaticityY></ooChromaticityY>
-	
-		<!-- Description Tags-->
-		<ooMaterial></ooMaterial>		
-		<ooNumPins></ooNumPins>
-		<ooTerminalStyle></ooTerminalStyle>
-			
-		<!-- Plug Tags-->
-		<ooPlugID></ooPlugID>
-		<ooPlugOD></ooPlugOD>
-		<ooPlugLength></ooPlugLength>
-				
-		<!-- Maximums -->
-		<ooPowerRating></ooPowerRating>
-		<ooMaxVoltage></ooMaxVoltage>
-		<ooMaxCurrent></ooMaxCurrent>
-		<ooLifetime></ooLifetime>
-		<ooTolerance></ooTolerance>
-		
-		<!-- Size Tags -->		
-		<ooPitch></ooPitch>
-		<ooWidth></ooWidth>
-		<ooHeight></ooHeight>
-		<ooDiameter></ooDiameter>
-		<ooLength></ooLength>
-		<ooDepth></ooDepth>
-		<ooWireSize></ooWireSize>		
+        <oompVersion>40</oompVersion>
 
-		<!-- Hardware Tags -->
-		<ooHeadStyle></ooHeadStyle>
-		<ooWrenchSize></ooWrenchSize>
-		
-		<!-- SEEED OPL (Open Parts Library) -->
-		<ooSEEEDsku>3460510P1</ooSEEEDsku>
-		<ooSEEEDdesc>DIP Blue Female Header</ooSEEEDdesc>
-		<ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:1X10P-2.0-4.3-BLUE-FEMALE.zip</ooSEEED3dModel>
-			
-		
-		<!-- Manucturer Tags -->
-		<ooManufacturer>C-YXCO</ooManufacturer>
-		<ooManufacturerPartNumber></ooManufacturerPartNumber>
-		<otherSupplier partNumber=""></otherSupplier>			
-
-		<!-- Hidden Tags-->
-		<ooProjectName1></ooProjectName1>
-		<ooProjectDesc1></ooProjectDesc1>
-		<ooProjectLink1></ooProjectLink1>
-		<ooProjectType1></ooProjectType1>
-		
-		
-		<ooBuyName1></ooBuyName1>
-		<ooBuyDesc1></ooBuyDesc1>
-		<ooBuyLink1></ooBuyLink1>
-		<ooBuyType1></ooBuyType1>
-		
-		<oompAbout></oompAbout>
-		<ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-		
-		
 
 		
-			<sourceList>
+		
+<com>Size</com>
+        <ooPitch></ooPitch>
+        <ooWidth></ooWidth>
+        <ooHeight></ooHeight>
+        <ooDiameter></ooDiameter>
+        <ooLength></ooLength>
+        <ooDepth></ooDepth>
+
+<com>Description</com>
+        <ooNumPins></ooNumPins>
+        <ooPowerRating></ooPowerRating>
+
+
+<com>Maximums</com>
+        <ooMaxCurrent></ooMaxCurrent>
+        <ooMaxVoltage></ooMaxVoltage>
+        <ooLifetime></ooLifetime>
+        <ooTolerance></ooTolerance>
+
+
+<com>Source List</com>		
+		<sourceList>
+			<manufacturer>
+				<company>Yxcon</company>
+				<companyCode>C-YXCO</companyCode>
+				<name></name>
+				<partID>F243-1110A1BSUC1</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
 			<manufacturer>
 				<company></company>
 				<companyCode></companyCode>
@@ -97,31 +66,54 @@
 				<companyCode></companyCode>
 				<name></name>
 				<partID></partID>
-				<link><![CDATA[ ]]></link>
+				<link><![CDATA[]]></link>
 				<note></note>
 			</bigDistributor>					
+
 			<bigDistributor>
 				<company></company>
 				<companyCode></companyCode>
 				<name></name>
 				<partID></partID>
-				<link><![CDATA[ ]]></link>
+				<link><![CDATA[]]></link>
 				<note></note>
 			</bigDistributor>					
 		</sourceList>
+		
+<com>OPL</com>		
 		<oplList>
 			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[ ]]></oplLink>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>	DIP Blue Female Header</oplName>
+				<oplID>3460510P1</oplID>
+				<oplFootprint>1X10P-2.0-4.3</oplFootprint>
+				<oplPackage>1X10P-2.0-4.3</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Connector]]></oplLink>
 			</oplSystem>
 		</oplList>
 
+<com>Hidden</com>
+        <oompAbout></oompAbout>
+        <ooProjectName1></ooProjectName1>
+        <ooProjectDesc1></ooProjectDesc1>
+        <ooProjectLink1></ooProjectLink1>
+        <ooProjectType1></ooProjectType1>
+        <ooBuyName1></ooBuyName1>
+        <ooBuyDesc1></ooBuyDesc1>
+        <ooBuyLink1></ooBuyLink1>
+        <ooBuyType1></ooBuyType1>
 
-</oompPart>
+	<com>Footprint</com>
+		<footprintList>
+			<footprintSystem>
+				<footprintScheme>Eagle Default</footprintScheme>
+				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+		</footprintList>
+    </oompPart>	
+	
 </xml>
-

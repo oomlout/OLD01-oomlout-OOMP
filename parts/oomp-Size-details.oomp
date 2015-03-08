@@ -761,6 +761,10 @@
             <name>3 mm</name>
     </oompSize>
     <oompSize>
+            <code>39D</code>
+            <name>3.9 mm</name>
+    </oompSize>
+    <oompSize>
             <code>04</code>
             <name>4 mm</name>
     </oompSize>
@@ -827,6 +831,18 @@
     <oompSize>
             <code>19</code>
             <name>19 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>64DX49S</code>
+            <name>6.4 x 4.9 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>81DX42S</code>
+            <name>8.1 x 4.2 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>19X15</code>
+            <name>19 x 15 mm</name>
     </oompSize>
     <oompSize>
             <code>20</code>
@@ -2253,6 +2269,10 @@
     </oompSize>
 	
 	<oompSize>
+            <code>LG14</code>
+            <name>14 Pin SMD (LGA)</name>
+    </oompSize>
+	<oompSize>
             <code>ML32</code>
             <name>32 Pin SMD (MLF)</name>
     </oompSize>
@@ -2261,5 +2281,28 @@
             <code>TS14</code>
             <name>14 Pin SMD (TSSOP)</name>
     </oompSize>				
+	
+	<oompSize>
+            <code>128X64</code>
+            <name>128 x 64 Pixels</name>
+    </oompSize>	
+	<oompSize>
+            <code>RJ45</code>
+            <name>128 x 64 Pixels</name>
+    </oompSize>				
+		
+	<oompSize>
+            <code>DB09</code>
+            <name>DB9</name>
+    </oompSize>	
+	<oompSize>
+            <code>DB15</code>
+            <name>DB15</name>
+    </oompSize>			
+
+	<oompSize>
+            <code>DB25</code>
+            <name>DB25</name>
+    </oompSize>		
 	
 </xml>

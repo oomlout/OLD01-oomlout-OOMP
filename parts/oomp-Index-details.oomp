@@ -33,6 +33,23 @@
 	</oompIndex>
 	
 	<oompIndex>
+		<code>LI</code>
+		<name>w/Lights</name>
+	</oompIndex>
+	<oompIndex>
+		<code>ML</code>
+		<name>Male</name>
+	</oompIndex>
+	<oompIndex>
+		<code>FM</code>
+		<name>Female</name>
+	</oompIndex>
+	
+	<oompIndex>
+		<code>V6</code>
+		<name>6v</name>
+	</oompIndex>
+	<oompIndex>
 		<code>V8</code>
 		<name>8v</name>
 	</oompIndex>
@@ -73,7 +90,7 @@
 		<name>250 mA</name>
 	</oompIndex>	
 	<oompIndex>
-		<code>A5</code>
+		<code>A5D</code>
 		<name>500 mA</name>
 	</oompIndex>	
 		<oompIndex>
@@ -92,7 +109,11 @@
 		<code>A4</code>
 		<name>4 A</name>
 	</oompIndex>	
-		<oompIndex>
+	<oompIndex>
+		<code>A5</code>
+		<name>5 A</name>
+	</oompIndex>	
+	<oompIndex>
 		<code>SM</code>
 		<name>SMD</name>
 	</oompIndex>	

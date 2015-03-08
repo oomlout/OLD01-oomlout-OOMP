@@ -1,114 +1,57 @@
-﻿<xml>
-
+<xml>
     <oompPart>
-        <index>4295</index>
 
-<!--OOMP Base -->
+<com>OOMP Base</com>
         <oompID>SWIS-09-X-DPDT-01</oompID>
-        <name>9 mm DPDT Switch (Slide)</name>
+        <name> 9 mm DPDT Switch (Slide) </name>
+
         <hexID>SSW9D</hexID>
-        <oompSort>0909DPDT</oompSort>
+        <oompSort></oompSort>
+
+		<oompClass>Through Hole</oompClass>
+		<oompClassCode>THTH</oompClassCode>		
+		
         <oompType>SWIS</oompType>
         <oompSize>09</oompSize>
         <oompColor>X</oompColor>
         <oompDesc>DPDT</oompDesc>
         <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion>99</oompVersion>
+
+        <oompVersion>40</oompVersion>
 
 
-<!--Size -->
+		
+		
+<com>Size</com>
         <ooPitch></ooPitch>
         <ooWidth></ooWidth>
         <ooHeight></ooHeight>
         <ooDiameter></ooDiameter>
         <ooLength></ooLength>
         <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize>
 
-
-<!--Manufacturer -->
-        <ooManufacturer>C-HKHH</ooManufacturer>
-        <ooManufacturerPartNumber>MS-22D18</ooManufacturerPartNumber>
-
-
-<!--Description -->
-        <ooMaterial></ooMaterial>
+<com>Description</com>
         <ooNumPins></ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
         <ooPowerRating></ooPowerRating>
 
 
-<!--Hardware -->
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize>
-
-
-<!--Maximums -->
+<com>Maximums</com>
         <ooMaxCurrent></ooMaxCurrent>
         <ooMaxVoltage></ooMaxVoltage>
         <ooLifetime></ooLifetime>
         <ooTolerance></ooTolerance>
 
 
-<!--Heat Shrink -->
-        <ooShrinkRatio></ooShrinkRatio>
-
-
-<!--LED -->
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY>
-
-
-<COM>Common Uses</COM>		
-		<usageList>
-			<useItem>
-				<useID>1</useID>
-				<importance>1</importance>
-				<useTitle></useTitle>
-				<useDescription></useDescription>
-			</useItem>
-		</usageList>
-		<!--Plug -->
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength>
-
-
-<!--SEEED OPL (Open Parts Library) -->
-        <ooSEEEDsku>3010010P1</ooSEEEDsku>
-        <ooSEEEDdesc>SW SLIDE DPDT 6VDC 0.3A PCMNT	</ooSEEEDdesc>
-
-
-<!--Hidden -->
-        <oompVersion></oompVersion>
-        <ooNameLine1of2></ooNameLine1of2>
-        <ooNameLine2of2></ooNameLine2of2>
-        <ooNameLine1of3></ooNameLine1of3>
-        <ooNameLine2of3></ooNameLine2of3>
-        <ooNameLine3of3></ooNameLine3of3>
-        <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-        <ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:6P-2CH-2.54-9.1X3.5X3.2H%2B2H.zip</ooSEEED3dModel>
-
-
-<!-- -->
-
-    		<sourceList>
+<com>Source List</com>		
+		<sourceList>
+			<manufacturer>
+				<company>HK Heng Hong Electronics Hardware</company>
+				<companyCode>C-HENG</companyCode>
+				<name></name>
+				<partID>MS-22D18 G2 ROHS</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
 			<manufacturer>
 				<company></company>
 				<companyCode></companyCode>
@@ -123,33 +66,45 @@
 				<companyCode></companyCode>
 				<name></name>
 				<partID></partID>
-				<link><![CDATA[ ]]></link>
+				<link><![CDATA[]]></link>
 				<note></note>
 			</bigDistributor>					
+
 			<bigDistributor>
 				<company></company>
 				<companyCode></companyCode>
 				<name></name>
 				<partID></partID>
-				<link><![CDATA[ ]]></link>
+				<link><![CDATA[]]></link>
 				<note></note>
 			</bigDistributor>					
 		</sourceList>
+		
+<com>OPL</com>		
 		<oplList>
 			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[ ]]></oplLink>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SW SLIDE DPDT 6VDC 0.3A PCMNT</oplName>
+				<oplID>3010010P1</oplID>
+				<oplFootprint>6P-2CH-2.54-9.1X3.5X3.2+2H</oplFootprint>
+				<oplPackage>6P-2CH-2.54-9.1X3.5X3.2+2H</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Connector]]></oplLink>
 			</oplSystem>
 		</oplList>
 
+<com>Hidden</com>
+        <oompAbout></oompAbout>
+        <ooProjectName1></ooProjectName1>
+        <ooProjectDesc1></ooProjectDesc1>
+        <ooProjectLink1></ooProjectLink1>
+        <ooProjectType1></ooProjectType1>
+        <ooBuyName1></ooBuyName1>
+        <ooBuyDesc1></ooBuyDesc1>
+        <ooBuyLink1></ooBuyLink1>
+        <ooBuyType1></ooBuyType1>
 
-
-<com>Footprint</com>
+	<com>Footprint</com>
 		<footprintList>
 			<footprintSystem>
 				<footprintScheme>Eagle Default</footprintScheme>
@@ -158,52 +113,7 @@
 				<footprintName></footprintName>
 				<footprintNote></footprintNote>
 			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Kicad Default</footprintScheme>
-				<footprintSchemeCode>C-KICA</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Adafruit</footprintScheme>
-				<footprintSchemeCode>C-ADAF</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Dangerous Prototypes</footprintScheme>
-				<footprintSchemeCode>C-DPDP</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>OOMP </footprintScheme>
-				<footprintSchemeCode>C-OOMP</footprintSchemeCode>
-
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-<footprintSystem>
-				<footprintScheme>SEEED Studio</footprintScheme>
-				<footprintSchemeCode>C-SEEE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Sparkfun</footprintScheme>
-				<footprintSchemeCode>C-SPAR</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
 		</footprintList>
-
-	<oompClass>Through Hole Component</oompClass>
-	<oompClassCode>THTH</oompClassCode>
-</oompPart>
+    </oompPart>	
+	
 </xml>

@@ -3,6 +3,15 @@
 
 
     <oompType>
+            <code>BAHO</code>
+            <name>Battery Holder</name>
+    </oompType>    
+	<oompType>
+            <code>DBCO</code>
+            <name>Connector</name>
+			<nameLong>DB Connector</nameLong>
+    </oompType>
+    <oompType>
             <code>BREB</code>
             <name>Breadboard</name>
     </oompType>
@@ -26,6 +35,10 @@
             <code>CERE</code>
             <name>Ceramic Resonator</name>
     </oompType>
+	<oompSize>
+            <code>128X64</code>
+            <name>128 x 64 Pixels</name>
+    </oompSize>	
     <oompType>
             <code>CRHO</code>
             <name>Crimp Housing</name>
@@ -41,6 +54,10 @@
 		<oompType>
             <code>DIOS</code>
             <name>Diode (Schottky)</name>
+    </oompType>
+		<oompType>
+            <code>DISP</code>
+            <name>Display</name>
     </oompType>
 	<oompType>
             <code>FERB</code>
@@ -77,6 +94,10 @@
     <oompType>
             <code>ICSO</code>
             <name>IC Socket</name>
+    </oompType>	
+	<oompType>
+            <code>INDU</code>
+            <name>Inductor</name>
     </oompType>	
 	<oompType>
             <code>JSTS</code>
@@ -120,6 +141,18 @@
             <name>Op Amp</name>
     </oompType>	
 	<oompType>
+            <code>PHTR</code>
+            <name>Phototransistor</name>
+    </oompType>	
+	<oompType>
+            <code>PHRS</code>
+            <name>Photo Reflective Sensor</name>
+    </oompType>	
+	<oompType>
+            <code>PIRS</code>
+            <name>Pyroelectric IR Sensor</name>
+    </oompType>	
+	<oompType>
             <code>POTE</code>
             <name>Potentiometer</name>
     </oompType>	
@@ -131,6 +164,10 @@
             <code>REFU</code>
             <name>Resetable Fuse</name>
     </oompType>	
+    <oompType>
+            <code>RELA</code>
+            <name>Relay</name>
+    </oompType>	
 	<oompType>
             <code>RESA</code>
             <name>Resistor Array</name>
@@ -138,6 +175,10 @@
     <oompType>
             <code>RESE</code>
             <name>Resistor</name>
+    </oompType>
+    <oompType>
+            <code>RJ45</code>
+            <name>RJ45</name>
     </oompType>
     <oompType>
             <code>SCRE</code>

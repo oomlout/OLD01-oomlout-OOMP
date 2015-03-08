@@ -1,0 +1,119 @@
+<xml>
+    <oompPart>
+
+<com>OOMP Base</com>
+        <oompID>MOSN-SO23-X-A03D-01</oompID>
+        <name> SMD (SOT-23) 300 mA N-Ch. MOSFET </name>
+
+        <hexID>MNS23D</hexID>
+        <oompSort></oompSort>
+
+		<oompClass>Surface Mount</oompClass>
+		<oompClassCode>SMDS</oompClassCode>		
+		
+        <oompType>MOSN</oompType>
+        <oompSize>SO23</oompSize>
+        <oompColor>X</oompColor>
+        <oompDesc>A03D</oompDesc>
+        <oompIndex>01</oompIndex>
+
+        <oompVersion>40</oompVersion>
+
+
+		
+		
+<com>Size</com>
+        <ooPitch></ooPitch>
+        <ooWidth></ooWidth>
+        <ooHeight></ooHeight>
+        <ooDiameter></ooDiameter>
+        <ooLength></ooLength>
+        <ooDepth></ooDepth>
+
+<com>Description</com>
+        <ooNumPins></ooNumPins>
+        <ooPowerRating></ooPowerRating>
+
+
+<com>Maximums</com>
+        <ooMaxCurrent></ooMaxCurrent>
+        <ooMaxVoltage></ooMaxVoltage>
+        <ooLifetime></ooLifetime>
+        <ooTolerance></ooTolerance>
+
+
+<com>Source List</com>		
+		<sourceList>
+			<manufacturer>
+				<company>NXP Semiconductors</company>
+				<companyCode>C-NXPP</companyCode>
+				<name></name>
+				<partID>2N7002-215</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+				
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>					
+
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>					
+		</sourceList>
+		
+<com>OPL</com>		
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD MOSFET N-CH 60V-300mA</oplName>
+				<oplID>305030028</oplID>
+				<oplFootprint>SOT-23</oplFootprint>
+				<oplPackage>SOT-23</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Transistor]]></oplLink>
+			</oplSystem>
+		</oplList>
+
+<com>Hidden</com>
+        <oompAbout></oompAbout>
+        <ooProjectName1></ooProjectName1>
+        <ooProjectDesc1></ooProjectDesc1>
+        <ooProjectLink1></ooProjectLink1>
+        <ooProjectType1></ooProjectType1>
+        <ooBuyName1></ooBuyName1>
+        <ooBuyDesc1></ooBuyDesc1>
+        <ooBuyLink1></ooBuyLink1>
+        <ooBuyType1></ooBuyType1>
+
+	<com>Footprint</com>
+		<footprintList>
+			<footprintSystem>
+				<footprintScheme>Eagle Default</footprintScheme>
+				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+		</footprintList>
+    </oompPart>	
+	
+</xml>

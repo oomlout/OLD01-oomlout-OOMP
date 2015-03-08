@@ -1,0 +1,119 @@
+<xml>
+    <oompPart>
+
+<com>OOMP Base</com>
+        <oompID>XTAL-5032-X-KS327D-01</oompID>
+        <name> SMD (5032) Crystal </name>
+
+        <hexID>XS5327D</hexID>
+        <oompSort></oompSort>
+
+		<oompClass>Surface Mount</oompClass>
+		<oompClassCode>SMDS</oompClassCode>		
+		
+        <oompType>XTAL</oompType>
+        <oompSize>5032</oompSize>
+        <oompColor>X</oompColor>
+        <oompDesc>KS327D</oompDesc>
+        <oompIndex>01</oompIndex>
+
+        <oompVersion>40</oompVersion>
+
+
+		
+		
+<com>Size</com>
+        <ooPitch></ooPitch>
+        <ooWidth></ooWidth>
+        <ooHeight></ooHeight>
+        <ooDiameter></ooDiameter>
+        <ooLength></ooLength>
+        <ooDepth></ooDepth>
+
+<com>Description</com>
+        <ooNumPins></ooNumPins>
+        <ooPowerRating></ooPowerRating>
+
+
+<com>Maximums</com>
+        <ooMaxCurrent></ooMaxCurrent>
+        <ooMaxVoltage></ooMaxVoltage>
+        <ooLifetime></ooLifetime>
+        <ooTolerance></ooTolerance>
+
+
+<com>Source List</com>		
+		<sourceList>
+			<manufacturer>
+				<company>Xinhunjing</company>
+				<companyCode>C-XINH</companyCode>
+				<name></name>
+				<partID>FC-135</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+				
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>					
+
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>					
+		</sourceList>
+		
+<com>OPL</com>		
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD Crystal ABS07-32.768KHZ-7pF-20ppm-70K</oplName>
+				<oplID>306010055</oplID>
+				<oplFootprint>2P-L5.0*W3.2mm</oplFootprint>
+				<oplPackage>2P-L5.0*W3.2mm</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Crystal_Oscillator]]></oplLink>
+			</oplSystem>
+		</oplList>
+
+<com>Hidden</com>
+        <oompAbout></oompAbout>
+        <ooProjectName1></ooProjectName1>
+        <ooProjectDesc1></ooProjectDesc1>
+        <ooProjectLink1></ooProjectLink1>
+        <ooProjectType1></ooProjectType1>
+        <ooBuyName1></ooBuyName1>
+        <ooBuyDesc1></ooBuyDesc1>
+        <ooBuyLink1></ooBuyLink1>
+        <ooBuyType1></ooBuyType1>
+
+	<com>Footprint</com>
+		<footprintList>
+			<footprintSystem>
+				<footprintScheme>Eagle Default</footprintScheme>
+				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+		</footprintList>
+    </oompPart>	
+	
+</xml>

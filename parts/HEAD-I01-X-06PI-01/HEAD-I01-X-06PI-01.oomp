@@ -1,21 +1,27 @@
 <xml>
     <oompPart>
-        <index>9876</index>
 
 <com>OOMP Base</com>
         <oompID>HEAD-I01-X-06PI-01</oompID>
-        <name>2.54 mm 6 Pin Header</name>
+        <name> 2.54 mm 6 Pin Header </name>
+
         <hexID>H06</hexID>
-        <oompSort>010106</oompSort>
+        <oompSort></oompSort>
+
+		<oompClass>Through Hole</oompClass>
+		<oompClassCode>THTH</oompClassCode>		
+		
         <oompType>HEAD</oompType>
         <oompSize>I01</oompSize>
         <oompColor>X</oompColor>
         <oompDesc>06PI</oompDesc>
         <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion></oompVersion>
+
+        <oompVersion>40</oompVersion>
 
 
+		
+		
 <com>Size</com>
         <ooPitch></ooPitch>
         <ooWidth></ooWidth>
@@ -23,17 +29,11 @@
         <ooDiameter></ooDiameter>
         <ooLength></ooLength>
         <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize>
 
 <com>Description</com>
-        <ooMaterial></ooMaterial>
         <ooNumPins></ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
         <ooPowerRating></ooPowerRating>
 
-<com>Hardware</com>
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize>
 
 <com>Maximums</com>
         <ooMaxCurrent></ooMaxCurrent>
@@ -41,26 +41,17 @@
         <ooLifetime></ooLifetime>
         <ooTolerance></ooTolerance>
 
-<com>Heat Shrink</com>
-        <ooShrinkRatio></ooShrinkRatio>
-
-<com>LED</com>
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY>
-
-<com>Plug</com>
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength>
 
 <com>Source List</com>		
 		<sourceList>
+			<manufacturer>
+				<company>Yxcon</company>
+				<companyCode>C-YXCO</companyCode>
+				<name></name>
+				<partID>P125-1106A0BS195A1</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
 			<manufacturer>
 				<company></company>
 				<companyCode></companyCode>
@@ -78,18 +69,27 @@
 				<link><![CDATA[]]></link>
 				<note></note>
 			</bigDistributor>					
+
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>					
 		</sourceList>
 		
 <com>OPL</com>		
 		<oplList>
 			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[]]></oplLink>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>DIP Black Male Header VERT</oplName>
+				<oplID>320020006</oplID>
+				<oplFootprint>1*6P-2.54-2.54-19.5/3.0mm</oplFootprint>
+				<oplPackage>1*6P-2.54-2.54-19.5/3.0mm</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Connector]]></oplLink>
 			</oplSystem>
 		</oplList>
 
@@ -103,8 +103,8 @@
         <ooBuyDesc1></ooBuyDesc1>
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>
-    
-<com>Footprint</com>
+
+	<com>Footprint</com>
 		<footprintList>
 			<footprintSystem>
 				<footprintScheme>Eagle Default</footprintScheme>
@@ -113,52 +113,7 @@
 				<footprintName></footprintName>
 				<footprintNote></footprintNote>
 			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Kicad Default</footprintScheme>
-				<footprintSchemeCode>C-KICA</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Adafruit</footprintScheme>
-				<footprintSchemeCode>C-ADAF</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Dangerous Prototypes</footprintScheme>
-				<footprintSchemeCode>C-DPDP</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>OOMP </footprintScheme>
-				<footprintSchemeCode>C-OOMP</footprintSchemeCode>
-
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>SEEED Studio</footprintScheme>
-				<footprintSchemeCode>C-SEEE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Sparkfun</footprintScheme>
-				<footprintSchemeCode>C-SPAR</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
 		</footprintList>
-
-	<oompClass>Through Hole Component</oompClass>
-	<oompClassCode>THTH</oompClassCode>
-</oompPart>
+    </oompPart>	
+	
 </xml>

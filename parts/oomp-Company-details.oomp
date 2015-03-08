@@ -1,5 +1,9 @@
 <xml>
     <oompManufacturer>
+            <code>C-4UCN</code>
+            <name>4uCon</name>			
+    </oompManufacturer>    
+    <oompManufacturer>
             <code>C-KING</code>
             <name>Kingbright</name>			
     </oompManufacturer>    
@@ -39,6 +43,10 @@
             <name>Panasonic</name>
     </oompManufacturer>    
     <oompManufacturer>
+            <code>C-PANJ</code>
+            <name>Panjit Semiconductor</name>
+    </oompManufacturer>    
+    <oompManufacturer>
             <code>C-MICR</code>
             <name>Microchip</name>
     </oompManufacturer>   
@@ -53,6 +61,10 @@
             <name>Monolithic Power Systems</name>
     </oompManufacturer>   
 
+    <oompManufacturer>
+            <code>C-NSTE</code>
+            <name>NS Tech</name>
+    </oompManufacturer>   
     <oompManufacturer>
             <code>C-NXPP</code>
             <name>NXP</name>
@@ -91,6 +103,11 @@
     <oompManufacturer>
             <code>C-YAGE</code>
             <name>Yageo</name>
+    </oompManufacturer>    
+    
+    <oompManufacturer>
+            <code>C-ROHM</code>
+            <name>ROHM</name>
     </oompManufacturer>    
     
     <oompManufacturer>
@@ -149,12 +166,20 @@
             <name>Polyswitch</name>
     </oompManufacturer>    
     <oompManufacturer>
-            <code>Tianrui</code>
-            <name>C-TIAN</name>
+            <code>C-PERK</code>
+            <name>Perkin Elmer</name>
+    </oompManufacturer>    
+    <oompManufacturer>
+            <code>C-TIAN</code>
+            <name>Tianrui</name>
     </oompManufacturer>    
     <oompManufacturer>
             <code>C-LITT</code>
             <name>Littelfuse</name>
+    </oompManufacturer>    
+    <oompManufacturer>
+            <code>C-LIYU</code>
+            <name>Li Yuan Electronics Co. Ltd.</name>
     </oompManufacturer>    
     <oompManufacturer>
             <code>C-AREV</code>
@@ -165,9 +190,18 @@
             <name>UniOhm</name>
     </oompManufacturer>    
     <oompManufacturer>
+            <code>C-UNKN</code>
+            <name>Unknown</name>
+    </oompManufacturer>    
+    <oompManufacturer>
             <code>C-JCST</code>
             <name>Jiangsu Changjiang Electronics</name>
     </oompManufacturer>    
+	<oompManufacturer>
+            <code>C-JING</code>
+            <name>Jingpengyuan</name>
+    </oompManufacturer>    
+	
     <oompManufacturer>
             <code>C-STMI</code>
             <name>STMicroelectronics</name>
@@ -181,7 +215,7 @@
             <name>Shenzhen Best</name>
     </oompManufacturer>    
     <oompManufacturer>
-            <code>C-CHeng</code>
+            <code>C-CHEN</code>
             <name>Chengguangxing</name>
     </oompManufacturer>    
 	
@@ -191,18 +225,28 @@
     </oompManufacturer>    
 	
     <oompManufacturer>
+            <code>C-CODA</code>
+            <name>Shenzhen Codaca Electronic Co. Ltd.</name>
+    </oompManufacturer>    
+    <oompManufacturer>
             <code>C-CONS</code>
             <name>Consonance</name>
+    </oompManufacturer>    
+    <oompManufacturer>
+            <code>C-DARO</code>
+            <name>Darong</name>
+    </oompManufacturer>    
+	
+    <oompManufacturer>
+            <code>C-DHEI</code>
+            <name>Dongguan Heiling Electronic Co. Ltd.</name>
     </oompManufacturer>    
 	
     <oompManufacturer>
             <code>C-SWIT</code>
             <name>Switchcraft</name>
     </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-XINH</code>
-            <name>Xinhunjing</name>
-    </oompManufacturer>    
+ 
     <oompManufacturer>
             <code>C-CTSC</code>
             <name>CTS Components</name>
@@ -216,8 +260,28 @@
             <name>Fox Electronics</name>
     </oompManufacturer>    
     <oompManufacturer>
+            <code>C-GOOS</code>
+            <name>Ningbo Goosvn Electronic Co. Ltd.</name>
+    </oompManufacturer>    
+    <oompManufacturer>
+            <code>C-HELI</code>
+            <name>Helishun</name>
+    </oompManufacturer>    
+    <oompManufacturer>
+            <code>C-HENG</code>
+            <name>HK Heng Hong Electronics Hardware</name>
+    </oompManufacturer>    
+    <oompManufacturer>
+            <code>C-IPAX</code>
+            <name>I-Pax</name>
+    </oompManufacturer>    
+    <oompManufacturer>
             <code>C-YONG</code>
             <name>Yongyutai Electronics</name>
+    </oompManufacturer>    
+    <oompManufacturer>
+            <code>C-TAIF</code>
+            <name>Taifeng</name>
     </oompManufacturer>    
     <oompManufacturer>
             <code>C-TAIW</code>
@@ -227,6 +291,14 @@
             <code>C-CKCO</code>
             <name>C and K Components</name>
     </oompManufacturer>    
+	    <oompManufacturer>
+            <code>C-XIND</code>
+            <name>Xinde</name>
+    </oompManufacturer> 
+    <oompManufacturer>
+            <code>C-XINH</code>
+            <name>Xinhunjing</name>
+    </oompManufacturer>   	
     <oompManufacturer>
             <code></code>
             <name></name>

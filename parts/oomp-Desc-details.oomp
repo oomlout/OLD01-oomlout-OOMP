@@ -21,12 +21,38 @@
             <name>DPDT</name>
     </oompDesc>
 	 <oompDesc>
+            <code>OLED</code>
+            <name>OLED</name>
+    </oompDesc>	
+	 <oompDesc>
             <code>SMDS</code>
             <name>SMD</name>
     </oompDesc>	
     <oompDesc>
+            <code>SPDT</code>
+            <name>SPDT</name>
+    </oompDesc>
+    <oompDesc>
+            <code>DPDT</code>
+            <name>DPDT</name>
+    </oompDesc>
+    <oompDesc>
+            <code>SOCK</code>
+            <name>Socket</name>
+    </oompDesc>
+    
+    <oompDesc>
             <code>STAN</code>
             <name></name>
+    </oompDesc>
+    <oompDesc>
+            <code>02PI</code>
+            <name>2 Pin</name>
+    </oompDesc>
+    
+    <oompDesc>
+            <code>ESDP</code>
+            <name>ESD Protection</name>
     </oompDesc>
     <oompDesc>
             <code>SIGN</code>
@@ -41,21 +67,42 @@
             <name>4.7 uH</name>
     </oompDesc>
 	
+	<oompDesc>
+            <code>UH10</code>
+            <name>10 uH</name>
+    </oompDesc>
+	
     <oompDesc>
             <code>01P</code>
             <name>1 Pole</name>
+    </oompDesc>
+    <oompDesc>
+            <code>A01D</code>
+            <name>100 mA</name>
     </oompDesc>
     <oompDesc>
             <code>A015D</code>
             <name>150 mA</name>
     </oompDesc>
     <oompDesc>
-            <code>A05D</code>
-            <name>500 mA</name>
+            <code>A02D</code>
+            <name>200 mA</name>
     </oompDesc>
     <oompDesc>
             <code>A03D</code>
             <name>300 mA</name>
+    </oompDesc>
+    <oompDesc>
+            <code>A05D</code>
+            <name>500 mA</name>
+    </oompDesc>
+    <oompDesc>
+            <code>A075D</code>
+            <name>750 mA</name>
+    </oompDesc>
+    <oompDesc>
+            <code>A01</code>
+            <name>1 Amp</name>
     </oompDesc>
     <oompDesc>
             <code>A02</code>
@@ -66,12 +113,16 @@
             <name>2.1 Amp</name>
     </oompDesc>
     <oompDesc>
+            <code>A35D</code>
+            <name>3.5 Amp</name>
+    </oompDesc>
+    <oompDesc>
             <code>A41D</code>
             <name>4.1 Amp</name>
     </oompDesc>
     <oompDesc>
-            <code>A01</code>
-            <name>1 Amp</name>
+            <code>A05</code>
+            <name>5 Amp</name>
     </oompDesc>
     <oompDesc>
             <code>02P</code>
@@ -2165,6 +2216,7 @@
             <name>14k Ohm</name>
     </oompDesc>
     <oompDesc>
+            <code>O153</code>
             <code>O153</code>
             <name>15k Ohm</name>
     </oompDesc>
@@ -9145,8 +9197,8 @@
             <name>10000 uF</name>
     </oompDesc>
     <oompDesc>
-            <code>MZ1</code>
-            <name>1 MHz</name>
+            <code>KZ327D</code>
+            <name>32.768 kHz</name>
     </oompDesc>
     <oompDesc>
             <code>MZ2</code>

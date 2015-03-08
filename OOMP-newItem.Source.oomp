@@ -3,14 +3,14 @@
 	
 	
 	<com>IMPORTANT ALL MUST BE FILLED</com>
-		<oompType>USBS</oompType>
-		<oompSize>MN</oompSize>
-		<oompColor>M</oompColor>
-		<oompDesc>SMDS</oompDesc>
+		<oompType>BUTA</oompType>
+		<oompSize>06</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>02PI</oompDesc>
 		<oompIndex>01</oompIndex>
 		<oompSort></oompSort>	
 		
-		<hexID>USN</hexID>		
+		<hexID>BT62</hexID>		
 
 	<oompClass>Through Hole</oompClass>
 	<oompClassCode>THTH</oompClassCode>	
@@ -18,9 +18,9 @@
 		<oompVersion>40</oompVersion>
 		
 <com>Source List</com>		
-		<manufacturerCompany1>Suntech</manufacturerCompany1>
-		<manufacturerCompanyCode1>C-SUNT</manufacturerCompanyCode1>
-		<manufacturerPartID1>ST-USB-013A</manufacturerPartID1>				
+		<manufacturerCompany1>Shenzhen Best</manufacturerCompany1>
+		<manufacturerCompanyCode1>C-BEST</manufacturerCompanyCode1>
+		<manufacturerPartID1>TS-1101F</manufacturerPartID1>				
 		
 		<bigDistributorCompany1></bigDistributorCompany1>
 		<bigDistributorCompanyCode1></bigDistributorCompanyCode1>
@@ -28,12 +28,12 @@
 		<bigDistributorPartID1></bigDistributorPartID1>		
 		<bigDistributorLink1></bigDistributorLink1>		
 
-		<oplScheme1>Seeed OPL</oplScheme1>
+		<oplScheme1>SEEED OPL</oplScheme1>
 		<oplCode1>C-SEEE</oplCode1>
-		<oplName1>CONN RECEPT MINI USB2.0 5POS</oplName1>
-		<oplID1>3400030P1</oplID1>
-		<oplFootprint1>MINI-B-5P-SMD</oplFootprint1>
-		<oplPackage1>MINI-B-5P-SMD</oplPackage1>
+		<oplName1>DIP Button Front -white;</oplName1>
+		<oplID1>311020025</oplID1>
+		<oplFootprint1>2P-L6.0*W3.0*H4.3mm-90D</oplFootprint1>
+		<oplPackage1>2P-L6.0*W3.0*H4.3mm-90D</oplPackage1>
 		<oplLink1><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Connector]]></oplLink1>
 
 		

@@ -1,119 +1,62 @@
-﻿<xml>
-
+<xml>
     <oompPart>
-        <index>4277</index>
 
-<!--OOMP Base -->
+<com>OOMP Base</com>
         <oompID>DIOS-S123-X-A05D-01</oompID>
-        <name>SMD (SOD-123) 500 mA Diode (Schottky)</name>
-        <hexID>DS205</hexID>
-        <oompSort>S12300.500</oompSort>
+        <name> SMD (SOD-123) 500 mA Diode (Schottky) </name>
+
+        <hexID>DS35D</hexID>
+        <oompSort></oompSort>
+
+		<oompClass>Surface Mount</oompClass>
+		<oompClassCode>SMDS</oompClassCode>		
+		
         <oompType>DIOS</oompType>
         <oompSize>S123</oompSize>
         <oompColor>X</oompColor>
         <oompDesc>A05D</oompDesc>
         <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion>99</oompVersion>
+
+        <oompVersion>40</oompVersion>
 
 
-<!--Size -->
+		
+		
+<com>Size</com>
         <ooPitch></ooPitch>
         <ooWidth></ooWidth>
         <ooHeight></ooHeight>
         <ooDiameter></ooDiameter>
         <ooLength></ooLength>
         <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize>
 
-
-<!--Manufacturer -->
-        <ooManufacturer></ooManufacturer>
-        <ooManufacturerPartNumber></ooManufacturerPartNumber>
-
-
-<!--Description -->
-        <ooMaterial></ooMaterial>
+<com>Description</com>
         <ooNumPins></ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
         <ooPowerRating></ooPowerRating>
 
 
-<!--Hardware -->
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize>
-
-
-<!--Maximums -->
+<com>Maximums</com>
         <ooMaxCurrent></ooMaxCurrent>
         <ooMaxVoltage></ooMaxVoltage>
         <ooLifetime></ooLifetime>
         <ooTolerance></ooTolerance>
 
 
-<!--Heat Shrink -->
-        <ooShrinkRatio></ooShrinkRatio>
-
-
-<!--LED -->
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY>
-
-
-<COM>Common Uses</COM>		
-		<usageList>
-			<useItem>
-				<useID>1</useID>
-				<importance>1</importance>
-				<useTitle></useTitle>
-				<useDescription></useDescription>
-			</useItem>
-		</usageList>
-		<!--Plug -->
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength>
-
-
-<!--SEEED OPL (Open Parts Library) -->
-        <ooSEEEDsku></ooSEEEDsku>
-        <ooSEEEDdesc></ooSEEEDdesc>
-
-
-<!--Hidden -->
-        <oompVersion></oompVersion>
-        <ooNameLine1of2></ooNameLine1of2>
-        <ooNameLine2of2></ooNameLine2of2>
-        <ooNameLine1of3></ooNameLine1of3>
-        <ooNameLine2of3></ooNameLine2of3>
-        <ooNameLine3of3></ooNameLine3of3>
-        <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-        <ooSEEED3dModel></ooSEEED3dModel>
-
-
-<!-- -->
-
-    		<sourceList>
+<com>Source List</com>		
+		<sourceList>
 			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
+				<company>Panjit Semiconductor</company>
+				<companyCode>C-JANJ</companyCode>
 				<name></name>
-				<partID></partID>
+				<partID>SS0520-7-F</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company>On Semiconductors</company>
+				<companyCode>C-ONSE</companyCode>
+				<name></name>
+				<partID>MBR0520LT1G</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -123,33 +66,54 @@
 				<companyCode></companyCode>
 				<name></name>
 				<partID></partID>
-				<link><![CDATA[ ]]></link>
+				<link><![CDATA[]]></link>
 				<note></note>
 			</bigDistributor>					
+
 			<bigDistributor>
 				<company></company>
 				<companyCode></companyCode>
 				<name></name>
 				<partID></partID>
-				<link><![CDATA[ ]]></link>
+				<link><![CDATA[]]></link>
 				<note></note>
 			</bigDistributor>					
 		</sourceList>
+		
+<com>OPL</com>		
 		<oplList>
 			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
+				<oplScheme>Seeed OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
 				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[ ]]></oplLink>
+				<oplID>0390030P1</oplID>
+				<oplFootprint>SOD-123</oplFootprint>
+				<oplPackage>SOD-123</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Diode]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme>Seeed OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD Diode Schottky 20V-500mA</oplName>
+				<oplID>304020028</oplID>
+				<oplFootprint>SOD-123</oplFootprint>
+				<oplPackage>SOD-123</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Diode]]></oplLink>
 			</oplSystem>
 		</oplList>
 
+<com>Hidden</com>
+        <oompAbout></oompAbout>
+        <ooProjectName1></ooProjectName1>
+        <ooProjectDesc1></ooProjectDesc1>
+        <ooProjectLink1></ooProjectLink1>
+        <ooProjectType1></ooProjectType1>
+        <ooBuyName1></ooBuyName1>
+        <ooBuyDesc1></ooBuyDesc1>
+        <ooBuyLink1></ooBuyLink1>
+        <ooBuyType1></ooBuyType1>
 
-
-<com>Footprint</com>
+	<com>Footprint</com>
 		<footprintList>
 			<footprintSystem>
 				<footprintScheme>Eagle Default</footprintScheme>
@@ -158,52 +122,7 @@
 				<footprintName></footprintName>
 				<footprintNote></footprintNote>
 			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Kicad Default</footprintScheme>
-				<footprintSchemeCode>C-KICA</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Adafruit</footprintScheme>
-				<footprintSchemeCode>C-ADAF</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Dangerous Prototypes</footprintScheme>
-				<footprintSchemeCode>C-DPDP</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>OOMP </footprintScheme>
-				<footprintSchemeCode>C-OOMP</footprintSchemeCode>
-
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-<footprintSystem>
-				<footprintScheme>SEEED Studio</footprintScheme>
-				<footprintSchemeCode>C-SEEE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Sparkfun</footprintScheme>
-				<footprintSchemeCode>C-SPAR</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
 		</footprintList>
-
-	<oompClass>Surface Mount</oompClass>
-	<oompClassCode>SMDS</oompClassCode>
-</oompPart>
+    </oompPart>	
+	
 </xml>

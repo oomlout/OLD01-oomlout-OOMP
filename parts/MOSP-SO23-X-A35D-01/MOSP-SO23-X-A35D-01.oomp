@@ -1,0 +1,119 @@
+<xml>
+    <oompPart>
+
+<com>OOMP Base</com>
+        <oompID>MOSP-SO23-X-A35D-01</oompID>
+        <name> SMD (SOT-23) 3.5 Amp P-Ch. MOSFET </name>
+
+        <hexID>MPS235D</hexID>
+        <oompSort></oompSort>
+
+		<oompClass>Surface Mount</oompClass>
+		<oompClassCode>SMDS</oompClassCode>		
+		
+        <oompType>MOSP</oompType>
+        <oompSize>SO23</oompSize>
+        <oompColor>X</oompColor>
+        <oompDesc>A35D</oompDesc>
+        <oompIndex>01</oompIndex>
+
+        <oompVersion>40</oompVersion>
+
+
+		
+		
+<com>Size</com>
+        <ooPitch></ooPitch>
+        <ooWidth></ooWidth>
+        <ooHeight></ooHeight>
+        <ooDiameter></ooDiameter>
+        <ooLength></ooLength>
+        <ooDepth></ooDepth>
+
+<com>Description</com>
+        <ooNumPins></ooNumPins>
+        <ooPowerRating></ooPowerRating>
+
+
+<com>Maximums</com>
+        <ooMaxCurrent></ooMaxCurrent>
+        <ooMaxVoltage></ooMaxVoltage>
+        <ooLifetime></ooLifetime>
+        <ooTolerance></ooTolerance>
+
+
+<com>Source List</com>		
+		<sourceList>
+			<manufacturer>
+				<company>Vishay</company>
+				<companyCode>C-VISH</companyCode>
+				<name></name>
+				<partID>SI2305DS-T1-E3</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+				
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>					
+
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>					
+		</sourceList>
+		
+<com>OPL</com>		
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD MOSFET P-CH 8V-3.5A</oplName>
+				<oplID>305030032</oplID>
+				<oplFootprint>SOT-23</oplFootprint>
+				<oplPackage>SOT-23</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Transistor]]></oplLink>
+			</oplSystem>
+		</oplList>
+
+<com>Hidden</com>
+        <oompAbout></oompAbout>
+        <ooProjectName1></ooProjectName1>
+        <ooProjectDesc1></ooProjectDesc1>
+        <ooProjectLink1></ooProjectLink1>
+        <ooProjectType1></ooProjectType1>
+        <ooBuyName1></ooBuyName1>
+        <ooBuyDesc1></ooBuyDesc1>
+        <ooBuyLink1></ooBuyLink1>
+        <ooBuyType1></ooBuyType1>
+
+	<com>Footprint</com>
+		<footprintList>
+			<footprintSystem>
+				<footprintScheme>Eagle Default</footprintScheme>
+				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+		</footprintList>
+    </oompPart>	
+	
+</xml>
