@@ -2,10 +2,10 @@
     <oompPart>
 
 <com>OOMP Base</com>
-        <oompID>HELF-I01-L-08PI-01</oompID>
-        <name> 2.54 mm 8 Pin Blue Female Header (Long) </name>
+        <oompID>HELF-I01-L-10PI-01</oompID>
+        <name> 2.54 mm 10 Pin Blue Female Header (Long) </name>
 
-        <hexID>HFL08L</hexID>
+        <hexID>HFL10L</hexID>
         <oompSort></oompSort>
 
 		<oompClass>Through Hole</oompClass>
@@ -14,7 +14,7 @@
         <oompType>HELF</oompType>
         <oompSize>I01</oompSize>
         <oompColor>L</oompColor>
-        <oompDesc>08PI</oompDesc>
+        <oompDesc>10PI</oompDesc>
         <oompIndex>01</oompIndex>
 
         <oompVersion>40</oompVersion>
@@ -48,7 +48,7 @@
 				<company>YXCon</company>
 				<companyCode>C-YXCO</companyCode>
 				<name></name>
-				<partID>F185-2108A1BSYC2</partID>
+				<partID>F185-2110A0ASYA1</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -86,9 +86,9 @@
 				<oplScheme>Seeed OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
 				<oplName>DIP Long Blue Female Header</oplName>
-				<oplID>3461260P1</oplID>
-				<oplFootprint>1X8P-2.54-8.5+2.5-12.3</oplFootprint>
-				<oplPackage>1X8P-2.54-8.5+2.5-12.3</oplPackage>
+				<oplID>320030001</oplID>
+				<oplFootprint>1*10P-2.54-8.5+2.5-12.3mm</oplFootprint>
+				<oplPackage>1*10P-2.54-8.5+2.5-12.3mm</oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Connector]]></oplLink>
 			</oplSystem>
 		</oplList>

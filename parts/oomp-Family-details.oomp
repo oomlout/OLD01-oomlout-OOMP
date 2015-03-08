@@ -286,7 +286,7 @@
 		<familyAbout></familyAbout>
 	</oompFamily>			
 	<oompFamily>
-		<familyName>2.54 mm Pin Header</familyName>
+		<familyName>2.54 mm Header</familyName>
 		<familyType>HEAD</familyType>
 		<familySize>I01</familySize>
 		<familyColor>X</familyColor>
@@ -297,7 +297,7 @@
 		<familyAbout>These are absolutely everywhere. They're used for making board to board connections (when paired with HEAD-I01) or board to wire connections (when paired with CRHO-I01). While ubiquitous they are not always the best choice, The lack of a key means plugging them in backwards is always a worry, and when a lot of connections are required the pitch means a lot of real estate gets occupied.</familyAbout>
 	</oompFamily>			
 	<oompFamily>
-		<familyName>2.54 mm Pin (x2 Row) Header</familyName>
+		<familyName>2.54 mm (x2 Row) Header</familyName>
 		<familyType>HEAD</familyType>
 		<familySize>I01</familySize>
 		<familyColor>X</familyColor>
@@ -308,7 +308,7 @@
 		<familyAbout>These are absolutely everywhere. They're used for making board to board connections (when paired with HEAD-I01) or board to wire connections (when paired with CRHO-I01). While ubiquitous they are not always the best choice, The lack of a key means plugging them in backwards is always a worry, and when a lot of connections are required the pitch means a lot of real estate gets occupied.</familyAbout>
 	</oompFamily>			
 	<oompFamily>
-		<familyName>2.54 mm Pin Header (Long)</familyName>
+		<familyName>2.54 mm Header (Long)</familyName>
 		<familyType>HEAL</familyType>
 		<familySize>I01</familySize>
 		<familyColor>X</familyColor>
@@ -318,6 +318,33 @@
 		<familyHexNameSpaceDisplay>HL##</familyHexNameSpaceDisplay>		
 		<familyAbout>These are rather rare, but can be super useful. One side of a standard 2.54 mm header is the perfect length for soldering, on these headers that side is the right length for plugging into a breadboard. They are also handy when connecting two female connectors (CRHO-I01) together. It means these are great when prototyping, allowing you to connect a wire with the right connector (CRHO-I01) to your breadboard, or butt two wires together even though they may not have been designed to connect to one another.</familyAbout>
 	</oompFamily>			
+	
+	<oompFamily>
+		<familyName>2.54 mm Female Header (Long)</familyName>
+		<familyType>HELF</familyType>
+		<familySize>I01</familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>HLF</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>HLF##</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
+	</oompFamily>			
+	
+	<oompFamily>
+		<familyName>2.54 mm Female Header </familyName>
+		<familyType>HEAF</familyType>
+		<familySize>I01</familySize>
+		<familyColor>X</familyColor>
+		<familyDesc></familyDesc>
+		<familyIndex>01</familyIndex>	
+		<familyHexNameSpace>HF</familyHexNameSpace>
+		<familyHexNameSpaceDisplay>HF##</familyHexNameSpaceDisplay>		
+		<familyAbout></familyAbout>
+	</oompFamily>			
+	
+	
+	
 	<oompFamily>
 		<familyName>Through Hole Crystal</familyName>
 		<familyType>XTAL</familyType>

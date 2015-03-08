@@ -3,13 +3,14 @@
 	
 	
 	<com>IMPORTANT ALL MUST BE FILLED</com>
-		<oompType>LEDS</oompType>
-		<oompSize>0603</oompSize>
-		<oompColor>L</oompColor>
-		<oompDesc>STAN</oompDesc>
+		<oompType>USBS</oompType>
+		<oompSize>MN</oompSize>
+		<oompColor>M</oompColor>
+		<oompDesc>SMDS</oompDesc>
 		<oompIndex>01</oompIndex>
 		<oompSort></oompSort>	
-		<hexID>L6L</hexID>		
+		
+		<hexID>USN</hexID>		
 
 	<oompClass>Through Hole</oompClass>
 	<oompClassCode>THTH</oompClassCode>	
@@ -17,9 +18,9 @@
 		<oompVersion>40</oompVersion>
 		
 <com>Source List</com>		
-		<manufacturerCompany1>Everlight</manufacturerCompany1>
-		<manufacturerCompanyCode1>C-EVER</manufacturerCompanyCode1>
-		<manufacturerPartID1>19-217-BHC-ZL1M2RY-3T</manufacturerPartID1>				
+		<manufacturerCompany1>Suntech</manufacturerCompany1>
+		<manufacturerCompanyCode1>C-SUNT</manufacturerCompanyCode1>
+		<manufacturerPartID1>ST-USB-013A</manufacturerPartID1>				
 		
 		<bigDistributorCompany1></bigDistributorCompany1>
 		<bigDistributorCompanyCode1></bigDistributorCompanyCode1>
@@ -29,11 +30,11 @@
 
 		<oplScheme1>Seeed OPL</oplScheme1>
 		<oplCode1>C-SEEE</oplCode1>
-		<oplName1>SMD LED Clear-Blue</oplName1>
-		<oplID1>0330060P1</oplID1>
-		<oplFootprint1></oplFootprint1>
-		<oplPackage1></oplPackage1>
-		<oplLink1><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Diode]]></oplLink1>
+		<oplName1>CONN RECEPT MINI USB2.0 5POS</oplName1>
+		<oplID1>3400030P1</oplID1>
+		<oplFootprint1>MINI-B-5P-SMD</oplFootprint1>
+		<oplPackage1>MINI-B-5P-SMD</oplPackage1>
+		<oplLink1><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Connector]]></oplLink1>
 
 		
 	<com> QUITE IMPORTANT</com>
