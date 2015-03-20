@@ -60,6 +60,12 @@
 	* Figure out 320060001 FPC
 	* go through all female headers
 	* make more than 500 components in generation
+	* To scale images from top of components
+	* fix CAPC-0402-X-NF100-VF's SEEED part name to SMD CAP Ceramic 100nF-16V-10%-X7R  http://www.seeedstudio.com/wiki/Open_parts_library#Capacitor
+	* Add mnlf Atmega 328
+	* Add Beagle bone to oomp.
+	* add macrofab 'house parts'  https://beta.macrofab.net/parts
+	* Fix size on ICIC-DI28-X-KLPC14-01 (double wide)
 	
 ;###### Newly added only SEEED
 CAPC-0603-X-PF12-01	

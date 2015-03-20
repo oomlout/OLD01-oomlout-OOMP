@@ -3,7 +3,7 @@
 
 <com>OOMP Base</com>
         <oompID>HEAD-I01-Y-40PI-01</oompID>
-        <name> 2.54 mm 40 Pin Yellow Header </name>
+        <name> 2.54 mm 40 Pin White Header </name>
 
         <hexID>H40W</hexID>
         <oompSort></oompSort>
@@ -13,7 +13,7 @@
 		
         <oompType>HEAD</oompType>
         <oompSize>I01</oompSize>
-        <oompColor>Y</oompColor>
+        <oompColor>W</oompColor>
         <oompDesc>40PI</oompDesc>
         <oompIndex>01</oompIndex>
 
@@ -62,11 +62,11 @@
 			</manufacturer>
 				
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
+				<company>SEEED Studio</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>DIP White Male Header VERT</name>
+				<partID>320020089</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=233]]></link>
 				<note></note>
 			</bigDistributor>					
 

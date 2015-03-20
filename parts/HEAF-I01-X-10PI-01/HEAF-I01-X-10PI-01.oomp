@@ -141,38 +141,8 @@
 <com>OPL</com>		
 		<oplList>
 			<oplSystem>
-				<oplScheme>Circuithub.com</oplScheme>
-				<oplCode>C-CIRC</oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[]]></oplLink>
-			</oplSystem>
-
-			<oplSystem>
-				<oplScheme>Octopart CPL</oplScheme>
-				<oplCode>C-OCTO</oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[]]></oplLink>
-			</oplSystem>
-
-			<oplSystem>
-				<oplScheme>Oopen Organization Method for Parts</oplScheme>
-				<oplCode>C-OOMP</oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/]]></oplLink>
-			</oplSystem>
-			
-			<oplSystem>
-				<oplScheme>Seeed Studio OPL</oplScheme>
-				<oplCode>C-SEEE</oplCode>
+				<oplScheme></oplScheme>
+				<oplCode></oplCode>
 				<oplName></oplName>
 				<oplID></oplID>
 				<oplFootprint></oplFootprint>
