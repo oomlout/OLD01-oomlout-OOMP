@@ -30,9 +30,9 @@
    inkscape:window-height="1058"
    id="namedview3421"
    showgrid="false"
-   inkscape:zoom="4.4969147"
-   inkscape:cx="77.565378"
-   inkscape:cy="209.92493"
+   inkscape:zoom="2.2484573"
+   inkscape:cx="120.55241"
+   inkscape:cy="233.89073"
    inkscape:window-x="1912"
    inkscape:window-y="1072"
    inkscape:window-maximized="1"
@@ -50,10 +50,10 @@
    x="-214.58002"
    y="-188.81277"
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold"><tspan
-     style="font-size:20.70599937000000100px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold"
+     style="font-size:20.70599937px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold"
      x="10.521968"
      y="-188.81277"
-     id="tspan3621">A@@%%ID%%,oompPart.oompID,oompType@@</tspan></text>
+     id="tspan3621">@@%%ID%%,oompPart.oompID,oompType@@</tspan></text>
 <rect
    style="fill:#000000;stroke:none"
    id="rect3047"
@@ -281,12 +281,7 @@
 
 
 
-<path
-   inkscape:connector-curvature="0"
-   id="use3031"
-   style="fill:#231f20;fill-opacity:1;fill-rule:evenodd;stroke:#231f20;stroke-width:2.0000999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.92558479;stroke-opacity:1;stroke-dasharray:none"
-   d="m 12.533659,178.8661 0.163815,27.03598 C 6.5728264,204.6068 4.3479115,198.67511 3.9684992,193.0394 l 0,-14.1733 z"
-   sodipodi:nodetypes="ccccc" />
+
 
 
 
@@ -387,7 +382,29 @@
      sodipodi:role="line"
      id="tspan3601">@@%%ID%%,oompPart.oompID,oompType@@</tspan></text>
 
-</g>
+<flowRoot
+   xml:space="preserve"
+   id="flowRoot3090"
+   style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:bold;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Sans Bold;text-anchor:middle;text-align:center"><flowRegion
+     id="flowRegion3092"><rect
+       id="rect3094"
+       width="148.10155"
+       height="83.168137"
+       x="-110.74259"
+       y="91.210747" /></flowRegion><flowPara
+     id="flowPara3096"></flowPara></flowRoot><flowRoot
+   xml:space="preserve"
+   id="flowRoot3098"
+   style="font-size:40px;font-style:normal;font-weight:bold;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+   transform="matrix(0.8,0,0,-0.8,151.5875,255.68496)"><flowRegion
+     id="flowRegion3100"><rect
+       id="rect3102"
+       width="153.43855"
+       height="75.607391"
+       x="-176.12076"
+       y="101.88474" /></flowRegion><flowPara
+     id="flowPara3104"
+     style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">@@%%ID%%,oompPart.oompID,name@@</flowPara></flowRoot></g>
 
 
 </svg>
