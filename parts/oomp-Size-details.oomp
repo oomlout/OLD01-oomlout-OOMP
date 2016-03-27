@@ -44,6 +44,14 @@
             <name>SMD (Mini MELF)</name>
     </oompSize>
 	    <oompSize>
+            <code>3215</code>
+            <name>SMD (3215)</name>
+    </oompSize>
+	    <oompSize>
+            <code>3643</code>
+            <name>SMD (3643)</name>
+    </oompSize>
+	    <oompSize>
             <code>5032</code>
             <name>SMD (5032)</name>
     </oompSize>
@@ -62,6 +70,10 @@
     <oompSize>
             <code>S123</code>
             <name>SMD (SOD-123)</name>
+    </oompSize>	
+    <oompSize>
+            <code>S323</code>
+            <name>SMD (SOD-323)</name>
     </oompSize>	
     <oompSize>
             <code>SO123</code>
@@ -2235,6 +2247,10 @@
 	<oompSize>
             <code>SS28</code>
             <name>28 Pin SMD (SSOP)</name>
+    </oompSize>		
+	<oompSize>
+            <code>SP16</code>
+            <name>16 Pin SMD (SOP)</name>
     </oompSize>		
 	
 	<oompSize>

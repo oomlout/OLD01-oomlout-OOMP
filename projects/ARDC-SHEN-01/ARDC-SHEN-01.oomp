@@ -1,0 +1,159 @@
+﻿<xml>
+
+    <oompProject>
+        <index>0010</index>
+
+<!--OOMP Base -->
+        <oompID>ARDC-SHEN-01</oompID>
+        <name>Shennie Arduino Compatible</name>
+        <hexID>SHEN</hexID>
+        <oompSort></oompSort>
+        <oompVersion>01</oompVersion>
+		<oompAbout>An open sourced version of the widely available Shennie Arduino Compatible board (like an Arduino nano but with a CH340 USB to serial converter).</oompAbout>
+		<oompOfficialLink>http://oom.lt/SHEN</oompOfficialLink>
+
+		
+<!--About -->
+		<company>Oomlout</company>
+		<companyCode>C-OOML</companyCode>
+			
+<!--Size -->
+        <ooWidth></ooWidth>
+        <ooHeight></ooHeight>
+        <ooDiameter></ooDiameter>
+        <ooLength></ooLength>
+        <ooDepth></ooDepth>
+
+<!-- Details -->
+		<numComponents>14</numComponents>
+		<numUniqueComponents>9</numUniqueComponents>
+		
+<!-- Source Files -->		
+		<sourceFileList>
+			<source>
+				<sourceIndex></sourceIndex>
+				<sourceType></sourceType>
+				<sourceFormat></sourceFormat>
+				<sourceNote></sourceNote>
+				<sourceLink></sourceLink>
+			</source>
+		</sourceFileList>
+
+<COM>Common Uses</COM>		
+		<componentList>
+		<component>
+				<compIndex>1</compIndex>
+				<compIden>U1</compIden>
+				<compID>ICIC-TQ32-X-K328-01</compID>
+				<compWhy></compWhy>
+				<compDesc></compDesc>
+			</component>
+
+		<component>
+				<compIndex>2,3,4,5,6,7,14</compIndex>
+				<compIden>R1,R2,R3,R4,R5,R6,R7</compIden>
+				<compID>RESE-0603-X-O102-01</compID>
+				<compWhy></compWhy>
+				<compDesc></compDesc>
+			</component>
+
+		<component>
+				<compIndex>8,9,10,11</compIndex>
+				<compIden>L1,L2,L3,L4</compIden>
+				<compID>LEDS-0603-R-STAN-01</compID>
+				<compWhy></compWhy>
+				<compDesc></compDesc>
+			</component>
+
+		<component>
+				<compIndex>12,13</compIndex>
+				<compIden>C1,C2</compIden>
+				<compID>CAPT-1206-X-UF47D-VF</compID>
+				<compWhy></compWhy>
+				<compDesc></compDesc>
+			</component>
+
+		<component>
+				<compIndex>15,16,17,18</compIndex>
+				<compIden>C3,C4,C5,C6</compIden>
+				<compID>CAPC-0603-X-NF100-01</compID>
+				<compWhy></compWhy>
+				<compDesc></compDesc>
+		</component>
+
+		<component>
+				<compIndex>19</compIndex>
+				<compIden>D1</compIden>
+				<compID>DIOD-S123-X-A03D-VG</compID>
+				<compWhy></compWhy>
+				<compDesc></compDesc>
+			</component>
+
+		<component>
+				<compIndex>20</compIndex>
+				<compIden>U2</compIden>
+				<compID>VREG-SO223-X-V05-A1</compID>
+				<compWhy></compWhy>
+				<compDesc></compDesc>
+			</component>
+
+		<component>
+				<compIndex>21</compIndex>
+				<compIden>Y1</compIden>
+				<compID>XTAL-3215-X-MZ12-01</compID>
+				<compWhy></compWhy>
+				<compDesc></compDesc>
+			</component>
+
+		<component>
+				<compIndex>22</compIndex>
+				<compIden>Y2</compIden>
+				<compID>XTAL-3215-X-MZ16-01</compID>
+				<compWhy></compWhy>
+				<compDesc></compDesc>
+			</component>
+				<component>
+				<compIndex>23</compIndex>
+				<compIden>X1</compIden>
+				<compID>USBS-MN-M-SMDS-02</compID>
+				<compWhy></compWhy>
+				<compDesc></compDesc>
+			</component>
+				<component>
+				<compIndex>24</compIndex>
+				<compIden>B1</compIden>
+				<compID>BUTA-3643-X-STAN-01</compID>
+				<compWhy></compWhy>
+				<compDesc></compDesc>
+			</component>
+				<component>
+				<compIndex>25</compIndex>
+				<compIden>U3</compIden>
+				<compID>ICIC-SP16-X-KCH340-01</compID>
+				<compWhy></compWhy>
+				<compDesc></compDesc>
+			</component>
+		
+		</componentList>
+		<sourceList>
+			<manufacturer>
+				<company>TaoBao</company>
+				<companyCode>C-TABA</companyCode>
+				<name></name>
+				<partID></partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<bigDistributor>
+				<company>Oomlout</company>
+				<companyCode>C-OOML</companyCode>
+				<name>Shennie Arduino Compatible</name>
+				<partID>ARDC-SHEN-01</partID>
+				<link><![CDATA[http://oom.lt/SHEN]]></link>
+				<note></note>
+			</bigDistributor>
+
+		</sourceList>
+		
+</oompProject>
+</xml>

@@ -3,24 +3,24 @@
 	
 	
 	<com>IMPORTANT ALL MUST BE FILLED</com>
-		<oompType>BUTA</oompType>
-		<oompSize>06</oompSize>
+		<oompType>DIOD</oompType>
+		<oompSize>S323</oompSize>
 		<oompColor>X</oompColor>
-		<oompDesc>02PI</oompDesc>
-		<oompIndex>01</oompIndex>
+		<oompDesc>A03D</oompDesc>
+		<oompIndex>VG</oompIndex>
 		<oompSort></oompSort>	
 		
-		<hexID>BT62</hexID>		
+		<hexID></hexID>		
 
-	<oompClass>Through Hole</oompClass>
-	<oompClassCode>THTH</oompClassCode>	
+	<oompClass>Surface Mount</oompClass>
+	<oompClassCode>SDMS</oompClassCode>	
 
-		<oompVersion>40</oompVersion>
+		<oompVersion>99</oompVersion>
 		
 <com>Source List</com>		
-		<manufacturerCompany1>Shenzhen Best</manufacturerCompany1>
-		<manufacturerCompanyCode1>C-BEST</manufacturerCompanyCode1>
-		<manufacturerPartID1>TS-1101F</manufacturerPartID1>				
+		<manufacturerCompany1></manufacturerCompany1>
+		<manufacturerCompanyCode1></manufacturerCompanyCode1>
+		<manufacturerPartID1></manufacturerPartID1>				
 		
 		<bigDistributorCompany1></bigDistributorCompany1>
 		<bigDistributorCompanyCode1></bigDistributorCompanyCode1>
@@ -29,22 +29,22 @@
 		<bigDistributorLink1></bigDistributorLink1>		
 
 		<oplScheme1>SEEED OPL</oplScheme1>
-		<oplCode1>C-SEEE</oplCode1>
-		<oplName1>DIP Button Front -white;</oplName1>
-		<oplID1>311020025</oplID1>
-		<oplFootprint1>2P-L6.0*W3.0*H4.3mm-90D</oplFootprint1>
-		<oplPackage1>2P-L6.0*W3.0*H4.3mm-90D</oplPackage1>
-		<oplLink1><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Connector]]></oplLink1>
+		<oplCode1></oplCode1>
+		<oplName1></oplName1>
+		<oplID1></oplID1>
+		<oplFootprint1></oplFootprint1>
+		<oplPackage1></oplPackage1>
+		<oplLink1></oplLink1>
 
 		
 	<com> QUITE IMPORTANT</com>
-		<ooNumPins>2</ooNumPins>
+		<ooNumPins></ooNumPins>
 		
 		<ooPitch></ooPitch>
-        <ooWidth>6 mm</ooWidth>
-        <ooHeight>3.5 mm</ooHeight>
+        <ooWidth></ooWidth>
+        <ooHeight></ooHeight>
         <ooDiameter></ooDiameter>
-        <ooLength>3.5 mm</ooLength>
+        <ooLength></ooLength>
         <ooDepth></ooDepth>
 
 		
@@ -117,7 +117,7 @@
 <com>Maximums</com>
         <ooMaxCurrent></ooMaxCurrent>
         <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime>50 000 cycles</ooLifetime>
+        <ooLifetime></ooLifetime>
         <ooTolerance></ooTolerance>
 
 		

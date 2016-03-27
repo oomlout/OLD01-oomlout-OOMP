@@ -1,101 +1,100 @@
-﻿<xml>
-
+<xml>
     <oompPart>
-        <index>4329</index>
 
-<!--OOMP Base -->
+<com>OOMP Base</com>
         <oompID>VREG-SO223-X-V05-A1</oompID>
-        <name>SMD (SOT-223) 5v Voltage Regulator 1 A</name>
-        <hexID>VSS305</hexID>
-        <oompSort>SO2205.001.000</oompSort>
+        <name> SMD (SOT-223) 5v Voltage Regulator 1 A </name>
+
+        <hexID></hexID>
+        <oompSort></oompSort>
+
+		<oompClass>Surface Mount</oompClass>
+		<oompClassCode>SDMS</oompClassCode>		
+		
         <oompType>VREG</oompType>
         <oompSize>SO223</oompSize>
         <oompColor>X</oompColor>
         <oompDesc>V05</oompDesc>
         <oompIndex>A1</oompIndex>
-        <oompOwner></oompOwner>
+
         <oompVersion>99</oompVersion>
 
 
-<!--Size -->
+		
+		
+<com>Size</com>
         <ooPitch></ooPitch>
-        <ooWidth>7 mm</ooWidth>
-        <ooHeight>1.8 mm</ooHeight>
+        <ooWidth></ooWidth>
+        <ooHeight></ooHeight>
         <ooDiameter></ooDiameter>
-        <ooLength>6.5 mm</ooLength>
+        <ooLength></ooLength>
         <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize>
 
-<com>SMD</com>
-		<ooPackageMarking>117-5</ooPackageMarking>
-<!--Manufacturer -->
-        <ooManufacturer>C-JCST</ooManufacturer>
-        <ooManufacturerPartNumber>CJT1117-5.0</ooManufacturerPartNumber>
-
-
-<!--Description -->
-        <ooMaterial></ooMaterial>
-        <ooNumPins>4</ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
+<com>Description</com>
+        <ooNumPins></ooNumPins>
         <ooPowerRating></ooPowerRating>
 
 
-<!--Hardware -->
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize>
-
-
-<!--Maximums -->
+<com>Maximums</com>
         <ooMaxCurrent></ooMaxCurrent>
         <ooMaxVoltage></ooMaxVoltage>
         <ooLifetime></ooLifetime>
         <ooTolerance></ooTolerance>
 
 
-<!--Heat Shrink -->
-        <ooShrinkRatio></ooShrinkRatio>
+<com>Source List</com>		
+		<sourceList>
+			<manufacturer>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+				
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>					
 
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>					
+		</sourceList>
+		
+<com>OPL</com>		
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode></oplCode>
+				<oplName></oplName>
+				<oplID></oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[]]></oplLink>
+			</oplSystem>
+		</oplList>
 
-<!--LED -->
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY>
-
-
-<COM>Common Uses</COM>		
-		<usageList>
-			<useItem>
-				<useID>1</useID>
-				<importance>1</importance>
-				<useTitle></useTitle>
-				<useDescription></useDescription>
-			</useItem>
-		</usageList>
-		<!--Plug -->
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength>
-
-
-<!--SEEED OPL (Open Parts Library) -->
-        <ooSEEEDsku>1310170P1</ooSEEEDsku>
-        <ooSEEEDdesc>1A LOW DROPOUT LINEAR REGULATOR 5V</ooSEEEDdesc>
-
-
-<!--Hidden -->
-        <oompVersion></oompVersion>
-        <ooNameLine1of2></ooNameLine1of2>
-        <ooNameLine2of2></ooNameLine2of2>
-        <ooNameLine1of3></ooNameLine1of3>
-        <ooNameLine2of3></ooNameLine2of3>
-        <ooNameLine3of3></ooNameLine3of3>
-        <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout>This is a commonly used 5v regulator, inside a SOT-223 package.</oompAbout>
+<com>Hidden</com>
+        <oompAbout></oompAbout>
         <ooProjectName1></ooProjectName1>
         <ooProjectDesc1></ooProjectDesc1>
         <ooProjectLink1></ooProjectLink1>
@@ -104,140 +103,8 @@
         <ooBuyDesc1></ooBuyDesc1>
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>
-        <ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:SOT223.zip</ooSEEED3dModel>
 
-
-<!-- -->
-
-    		<sourceList>
-			<manufacturer>
-				<company>Texas Instruments</company>
-				<companyCode>C-TITI</companyCode>
-				<name></name>
-				<partID>LM1117IMP-5.0-NOPB</partID>
-				<link></link>
-				<note></note>			
-			</manufacturer>
-			<manufacturer>
-				<company>On Semiconductors</company>
-				<companyCode>C-ONSE</companyCode>
-				<name></name>
-				<partID>NCP1117ST50T3G</partID>
-				<link></link>
-				<note></note>			
-			</manufacturer>
-			<manufacturer>
-				<company>STMicroelectronics</company>
-				<companyCode>C-STMI</companyCode>
-				<name></name>
-				<partID>LD1117S50TR</partID>
-				<link></link>
-				<note></note>			
-			</manufacturer>
-			<manufacturer>
-				<company>Jiangsu Changjiang Electronics</company>
-				<companyCode>C-JCST</companyCode>
-				<name></name>
-				<partID>CJT1117-5.0</partID>
-				<link></link>
-				<note></note>			
-			</manufacturer>
-				
-			<bigDistributor>
-				<company>DigiKey</company>
-				<companyCode>C-DIGK</companyCode>
-				<name>IC REG LDO 5V 1A SOT223</name>
-				<partID>NCP1117ST50T3GOSCT-ND</partID>
-				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/NCP1117ST50T3G/NCP1117ST50T3GOSCT-ND/1967217]]></link>
-				<note></note>
-			</bigDistributor>
-
-			<bigDistributor>
-				<company>Farnell</company>
-				<companyCode>C-FARN</companyCode>
-				<name><![CDATA[ON SEMICONDUCTOR  NCP1117ST50T3G  LDO, REG, 20VIN, 1A, 5V, 1%, SOT223-3]]></name>
-				<partID>2112617</partID>
-				<link><![CDATA[http://uk.farnell.com/on-semiconductor/ncp1117st50t3g/ldo-reg-20vin-1a-5v-1-sot223-3/dp/2112617]]></link>
-				<note></note>
-			</bigDistributor>			
-			<bigDistributor>
-				<company>Mouser</company>
-				<companyCode>C-MOUS</companyCode>
-				<name>LDO Voltage Regulators 5.0V 1A Positive</name>
-				<partID>863-NCP1117ST50T3G</partID>
-				<link><![CDATA[http://uk.mouser.com/ProductDetail/ON-Semiconductor/NCP1117ST50T3G/?qs=%2fha2pyFaduj4IwJuyCbpkSvPXC1ESwUa5yhqhjBy7PCgJYFmioXGsQ%3d%3d]]></link>
-				<note></note>
-			</bigDistributor>
-			<bigDistributor>
-				<company>RS</company>
-				<companyCode>C-RSRS</companyCode>
-				<name>NCP1117ST50T3G, Low Dropout Voltage Regulator, 2200mA, 5 V +-1%, Maximum of 20 Vin, 3-Pin SOT-223</name>
-				<partID>802-2130</partID>
-				<link><![CDATA[http://uk.rs-online.com/web/p/low-dropout-voltage-regulators/8022130/?searchTerm=NCP1117ST50T3G&relevancy-data=636F3D3226696E3D4931384E4B6E6F776E41734D504E266C753D656E266D6D3D6D61746368616C6C7061727469616C26706D3D5E5B5C707B4C7D5C707B4E647D2D2C2F255C2E5D2B2426706F3D313326736E3D592673743D4D414E5F504152545F4E554D4245522677633D424F5448267573743D4E4350313131375354353054334726]]></link>
-				<note></note>
-			</bigDistributor>	
-			<bigDistributor>
-				<company>SEEED Studio</company>
-				<companyCode>C-SEEE</companyCode>
-				<name><![CDATA[SMD PMIC; LDO Vin 7V Vout 5V 1A]]></name>
-				<partID>1310170P1</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=86]]></link>
-				<note></note>
-			</bigDistributor>			
-		</sourceList>
-		<oplList>
-			<oplSystem>
-				<oplScheme>Circuithub.com</oplScheme>
-				<oplCode>C-CIRC</oplCode>
-				<oplName>/ON/NCP1117ST50T3G</oplName>
-				<oplID>/ON/NCP1117ST50T3G</oplID>
-				<oplFootprint>SOT-223</oplFootprint>
-				<oplPackage>SOT-223</oplPackage>
-				<oplLink><![CDATA[https://circuithub.com/parts/ON/NCP1117ST50T3G]]></oplLink>
-			</oplSystem>
-
-			<oplSystem>
-				<oplScheme>Octopart CPL</oplScheme>
-				<oplCode>C-OCTO</oplCode>
-				<oplName>Linear Regulator (Low Dropout)</oplName>
-				<oplID>Linear Regulator (Low Dropout)</oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[https://octopart.com/common-parts-library#VoltageRegulators]]></oplLink>
-			</oplSystem>
-
-			<oplSystem>
-				<oplScheme>Oopen Organization Method for Parts</oplScheme>
-				<oplCode>C-OOMP</oplCode>
-				<oplName>SMD (SOT-223) 5v Voltage Regulator 1 A</oplName>
-				<oplID>VREG-SO223-X-V05-A1</oplID>
-				<oplFootprint>SO223</oplFootprint>
-				<oplPackage>SO223</oplPackage>
-				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/VREG-SO223-X-V05-A1]]></oplLink>
-			</oplSystem>
-			
-			<oplSystem>
-				<oplScheme>Seeed Studio OPL</oplScheme>
-				<oplCode>C-SEEE</oplCode>
-				<oplName>1A LOW DROPOUT LINEAR REGULATOR 5V</oplName>
-				<oplID>1310170P1</oplID>
-				<oplFootprint>SOT-223</oplFootprint>
-				<oplPackage>SOT-223</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#IC]]></oplLink>
-			</oplSystem>
-		</oplList>
-	<COM>Common Uses</COM>		
-		<usageList>
-			<useItem>
-				<useID>1</useID>
-				<importance>1</importance>
-				<useTitle>Arduino 5v Regulator</useTitle>
-				<useDescription>Used on the Arduino UNO, for the 5v supply. </useDescription>
-			</useItem>
-		</usageList>
-
-
-<com>Footprint</com>
+	<com>Footprint</com>
 		<footprintList>
 			<footprintSystem>
 				<footprintScheme>Eagle Default</footprintScheme>
@@ -246,52 +113,7 @@
 				<footprintName></footprintName>
 				<footprintNote></footprintNote>
 			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Kicad Default</footprintScheme>
-				<footprintSchemeCode>C-KICA</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Adafruit</footprintScheme>
-				<footprintSchemeCode>C-ADAF</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Dangerous Prototypes</footprintScheme>
-				<footprintSchemeCode>C-DPDP</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>OOMP </footprintScheme>
-				<footprintSchemeCode>C-OOMP</footprintSchemeCode>
-
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-<footprintSystem>
-				<footprintScheme>SEEED Studio</footprintScheme>
-				<footprintSchemeCode>C-SEEE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Sparkfun</footprintScheme>
-				<footprintSchemeCode>C-SPAR</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
 		</footprintList>
-
-	<oompClass>Surface Mount</oompClass>
-	<oompClassCode>SMDS</oompClassCode>
-</oompPart>
+    </oompPart>	
+	
 </xml>
