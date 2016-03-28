@@ -1,6 +1,8 @@
 
 # @@%%ID%%,oompPart.oompID,name@@=
 
+[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/BUTA-06-X-STAN-01/%%ID%%_420.jpg|alt=%%ID%%]]
+
 **%%ID%%,oompPart.oompID,oompID**## Summary
  
 Name: @@%%ID%%,oompPart.oompID,name@@
