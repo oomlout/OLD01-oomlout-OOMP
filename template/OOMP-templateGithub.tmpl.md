@@ -95,5 +95,7 @@ OPL Libraries
 | @@%%ID%%,oompPart.oompID,oplList.oplSystem.oplScheme&&%%T%%&&@@ | [@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplID&&%%T%%&&@@](@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplLink&&%%T%%&&@@) | @@%%ID%%,oompPart.oompID,oplList.oplSystem.oplName&&%%T%%&&@@ |~~
 ;;;;
 
+@@bottomText,oompBasic.type,value@@   
+
 
 
