@@ -1,4 +1,3 @@
-@@navigation,oompBasic.type,value@@
 
 OOMP ID Codes Explained
 ========================================
