@@ -2,17 +2,17 @@
     <oompPart>
 
 <com>OOMP Base</com>
-        <oompID>LEDS-09-RGB-STAN-CA</oompID>
-        <name> 9 mm RGB LED Common Anode </name>
+        <oompID>LEDS-08-RGB-STAN-CA</oompID>
+        <name> 8 mm RGB LED Common Anode </name>
 
-        <hexID>L9RGB</hexID>
+        <hexID>L8RGB</hexID>
         <oompSort></oompSort>
 
 		<oompClass>Through Hole</oompClass>
 		<oompClassCode>THTH</oompClassCode>		
 		
         <oompType>LEDS</oompType>
-        <oompSize>09</oompSize>
+        <oompSize>08</oompSize>
         <oompColor>RGB</oompColor>
         <oompDesc>STAN</oompDesc>
         <oompIndex>CA</oompIndex>
