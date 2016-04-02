@@ -77,6 +77,38 @@
 				<partID>!!0,newOOMP.oompType,bigDistributorPartID2!!</partID>
 				<link><![CDATA[!!0,newOOMP.oompType,bigDistributorLink2!!]]></link>
 				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company>!!0,newOOMP.oompType,bigDistributorCompany3!!</company>
+				<companyCode>!!0,newOOMP.oompType,bigDistributorCompanyCode3!!</companyCode>
+				<name>!!0,newOOMP.oompType,bigDistributorName3!!</name>
+				<partID>!!0,newOOMP.oompType,bigDistributorPartID3!!</partID>
+				<link><![CDATA[!!0,newOOMP.oompType,bigDistributorLink3!!]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company>!!0,newOOMP.oompType,bigDistributorCompany4!!</company>
+				<companyCode>!!0,newOOMP.oompType,bigDistributorCompanyCode4!!</companyCode>
+				<name>!!0,newOOMP.oompType,bigDistributorName4!!</name>
+				<partID>!!0,newOOMP.oompType,bigDistributorPartID4!!</partID>
+				<link><![CDATA[!!0,newOOMP.oompType,bigDistributorLink4!!]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company>!!0,newOOMP.oompType,bigDistributorCompany5!!</company>
+				<companyCode>!!0,newOOMP.oompType,bigDistributorCompanyCode5!!</companyCode>
+				<name>!!0,newOOMP.oompType,bigDistributorName5!!</name>
+				<partID>!!0,newOOMP.oompType,bigDistributorPartID5!!</partID>
+				<link><![CDATA[!!0,newOOMP.oompType,bigDistributorLink5!!]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company>!!0,newOOMP.oompType,bigDistributorCompany6!!</company>
+				<companyCode>!!0,newOOMP.oompType,bigDistributorCompanyCode6!!</companyCode>
+				<name>!!0,newOOMP.oompType,bigDistributorName6!!</name>
+				<partID>!!0,newOOMP.oompType,bigDistributorPartID6!!</partID>
+				<link><![CDATA[!!0,newOOMP.oompType,bigDistributorLink6!!]]></link>
+				<note></note>
 			</bigDistributor>					
 		</sourceList>
 		
@@ -90,6 +122,24 @@
 				<oplFootprint>!!0,newOOMP.oompType,oplFootprint1!!</oplFootprint>
 				<oplPackage>!!0,newOOMP.oompType,oplPackage1!!</oplPackage>
 				<oplLink><![CDATA[!!0,newOOMP.oompType,oplLink1!!]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme>!!0,newOOMP.oompType,oplScheme2!!</oplScheme>
+				<oplCode>!!0,newOOMP.oompType,oplCode2!!</oplCode>
+				<oplName>!!0,newOOMP.oompType,oplName2!!</oplName>
+				<oplID>!!0,newOOMP.oompType,oplID2!!</oplID>
+				<oplFootprint>!!0,newOOMP.oompType,oplFootprint2!!</oplFootprint>
+				<oplPackage>!!0,newOOMP.oompType,oplPackage2!!</oplPackage>
+				<oplLink><![CDATA[!!0,newOOMP.oompType,oplLink2!!]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme>!!0,newOOMP.oompType,oplScheme3!!</oplScheme>
+				<oplCode>!!0,newOOMP.oompType,oplCode3!!</oplCode>
+				<oplName>!!0,newOOMP.oompType,oplName3!!</oplName>
+				<oplID>!!0,newOOMP.oompType,oplID3!!</oplID>
+				<oplFootprint>!!0,newOOMP.oompType,oplFootprint3!!</oplFootprint>
+				<oplPackage>!!0,newOOMP.oompType,oplPackage3!!</oplPackage>
+				<oplLink><![CDATA[!!0,newOOMP.oompType,oplLink3!!]]></oplLink>
 			</oplSystem>
 		</oplList>
 

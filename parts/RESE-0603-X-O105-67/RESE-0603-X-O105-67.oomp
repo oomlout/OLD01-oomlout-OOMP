@@ -1,12 +1,12 @@
 <xml>
     <oompPart>
-        <index></index>
+        <index>9876</index>
 
 <com>OOMP Base</com>
-        <oompID>RESE-0603-X-O105-67</oompID>
-        <name> SMD (0603) 1M Ohm Resistor 1% </name>
-        <hexID>R6105A</hexID>
-        <oompSort></oompSort>
+        <oompID>RESE-0603-X-O105-01</oompID>
+        <name>SMD (0603) 1M Ohm Resistor 1%</name>
+        <hexID>R6105</hexID>
+        <oompSort>06031000000</oompSort>
         <oompType>RESE</oompType>
         <oompSize>0603</oompSize>
         <oompColor>X</oompColor>
@@ -15,22 +15,21 @@
         <oompOwner></oompOwner>
         <oompVersion></oompVersion>
 
+		<oompSkip>true</oompSkip>
 
-		<oompClass>Surface Mount</oompClass>
-		<oompClassCode>SMDS</oompClassCode>		
-		
-		
 <com>Size</com>
         <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
+        <ooWidth>1.6 mm</ooWidth>
+        <ooHeight>0.45 mm</ooHeight>
         <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
+        <ooLength>0.8 mm</ooLength>
         <ooDepth></ooDepth>
-
+        <ooWireSize></ooWireSize>
+<com>SMD</com>
+		<ooPackageMarking>105</ooPackageMarking>>
 <com>Description</com>
         <ooMaterial></ooMaterial>
-        <ooNumPins></ooNumPins>
+        <ooNumPins>2</ooNumPins>
         <ooTerminalStyle></ooTerminalStyle>
         <ooPowerRating></ooPowerRating>
 
@@ -73,53 +72,79 @@
 				<note></note>			
 			</manufacturer>
 			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
+				<company>Panasonic</company>
+				<companyCode>C-PANA</companyCode>
 				<name></name>
-				<partID></partID>
-				<link></link>
-				<note></note>			
-			</manufacturer>
-			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
+				<partID>ERJ-3EKF1004V</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
 				
+			<manufacturer>
+				<company>Vishay Dale</company>
+				<companyCode>C-VISH</companyCode>
+				<name></name>
+				<partID>CRCW06031M00FKEA</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>	
+			<manufacturer>
+				<company>TruOhm</company>
+				<companyCode>C-TRUH</companyCode>
+				<name></name>
+				<partID>RC03F 1M</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+
+			<bigDistributor>
+				<company>DigiKey</company>
+				<companyCode>C-DIGK</companyCode>
+				<name>RES SMD 1M OHM 1% 1/10W 0603</name>
+				<partID>311-1.00MHRCT-ND</partID>
+				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/RC0603FR-071ML/311-1.00MHRCT-ND/729791]]></link>
+				<note></note>
+			</bigDistributor>
+
+			<bigDistributor>
+				<company>Farnell</company>
+				<companyCode>C-FARN</companyCode>
+				<name>YAGEO (PHYCOMP)  RC0603FR-071ML  RESISTOR, THICK FILM, 1M, 0.1W, 1%</name>
+				<partID>9238840</partID>
+				<link><![CDATA[http://uk.farnell.com/yageo-phycomp/rc0603fr-071ml/resistor-thick-film-1m-0-1w-1/dp/9238840]]></link>
+				<note></note>
+			</bigDistributor>			
+			<bigDistributor>
+				<company>Mouser</company>
+				<companyCode>C-MOUS</companyCode>
+				<name>Thick Film Resistors - SMD 1M ohm 1% 1/10W</name>
+				<partID>603-AC0603FR-071ML</partID>
+				<link><![CDATA[http://uk.mouser.com/ProductDetail/Yageo/AC0603FR-071ML/?qs=sGAEpiMZZMu61qfTUdNhG82n1qT0a%252byCMC799Kzrdis%3d]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>Rapid Electronics</company>
+				<companyCode>C-RAPI</companyCode>
+				<name>1M 0603 1% Chip Resistor - Pack of 100</name>
+				<partID>72-9236</partID>
+				<link><![CDATA[http://www.rapidonline.com/electronic-components/1m-0603-1-chip-resistor-pack-of-100-72-9236]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>RS</company>
+				<companyCode>C-RSRS</companyCode>
+				<name>Yageo RC Series Thick Film Surface Mount Resistor 0603 Case 1MO +-1% 0.1W +-100ppm/°C</name>
+				<partID>504-8956</partID>
+				<link><![CDATA[http://uk.rs-online.com/web/p/surface-mount-fixed-resistors/5048956/?searchTerm=C0603FR-071ML&relevancy-data=636F3D3226696E3D4931384E4B6E6F776E41734D504E266C753D656E266D6D3D6D61746368616C6C7061727469616C26706D3D5E5B5C707B4C7D5C707B4E647D2D2C2F255C2E5D2B2426706F3D313326736E3D592673743D4D414E5F504152545F4E554D4245522677633D424F5448267573743D433036303346522D3037314D4C26]]></link>
+				<note></note>
+			</bigDistributor>			
+				
 			<bigDistributor>
 				<company>SEEED Studio</company>
 				<companyCode>C-SEEE</companyCode>
-				<name>SMD RES 1M-1%-1/10W</name>
+				<name>SMD RES 1M-1%-1/10W;0603</name>
 				<partID>301010151</partID>
 				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=154]]></link>
-				<note></note>
-			</bigDistributor>					
-
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
-				<note></note>
-			</bigDistributor>					
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
-				<note></note>
-			</bigDistributor>					
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
 				<note></note>
 			</bigDistributor>					
 		</sourceList>
@@ -127,40 +152,43 @@
 <com>OPL</com>		
 		<oplList>
 			<oplSystem>
-				<oplScheme>Seeed OPL</oplScheme>
+				<oplScheme>Circuithub.com</oplScheme>
+				<oplCode>C-CIRC</oplCode>
+				<oplName>YAGEO2/RC0603FR-071ML</oplName>
+				<oplID>YAGEO2/RC0603FR-071ML</oplID>
+				<oplFootprint>0603</oplFootprint>
+				<oplPackage>0603</oplPackage>
+				<oplLink><![CDATA[https://circuithub.com/parts/YAGEO2/RC0603FR-071ML]]></oplLink>
+			</oplSystem>
+
+			<oplSystem>
+				<oplScheme>Octopart CPL</oplScheme>
+				<oplCode>C-OCTO</oplCode>
+				<oplName>Resistor 1 MO +-1% 0603 100 mW</oplName>
+				<oplID>Resistor 1 MO +-1% 0603 100 mW</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://octopart.com/common-parts-library#Resistors]]></oplLink>
+			</oplSystem>
+
+			<oplSystem>
+				<oplScheme>Oopen Organization Method for Parts</oplScheme>
+				<oplCode>C-OOMP</oplCode>
+				<oplName>SMD (0603) 1M Ohm Resistor</oplName>
+				<oplID>RESE-0603-X-O105-01</oplID>
+				<oplFootprint>0603</oplFootprint>
+				<oplPackage>0603</oplPackage>
+				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-0603-X-O105-01]]></oplLink>
+			</oplSystem>
+			
+			<oplSystem>
+				<oplScheme>Seeed Studio OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
 				<oplName>SMD RES 1M-1%-1/10W</oplName>
 				<oplID>301010151</oplID>
 				<oplFootprint>0603</oplFootprint>
 				<oplPackage>0603</oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Resistor]]></oplLink>
-			</oplSystem>
-			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[]]></oplLink>
-			</oplSystem>
-			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[]]></oplLink>
-			</oplSystem>
-			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[]]></oplLink>
 			</oplSystem>
 		</oplList>
 
@@ -174,8 +202,8 @@
         <ooBuyDesc1></ooBuyDesc1>
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>
-
-	<com>Footprint</com>
+    
+<com>Footprint</com>
 		<footprintList>
 			<footprintSystem>
 				<footprintScheme>Eagle Default</footprintScheme>
@@ -206,13 +234,14 @@
 				<footprintNote></footprintNote>
 			</footprintSystem>
 			<footprintSystem>
-				<footprintScheme>OOMP</footprintScheme>
+				<footprintScheme>OOMP </footprintScheme>
 				<footprintSchemeCode>C-OOMP</footprintSchemeCode>
+
 				<footprintCode></footprintCode>
 				<footprintName></footprintName>
 				<footprintNote></footprintNote>
 			</footprintSystem>
-			<footprintSystem>
+<footprintSystem>
 				<footprintScheme>SEEED Studio</footprintScheme>
 				<footprintSchemeCode>C-SEEE</footprintSchemeCode>
 				<footprintCode></footprintCode>
@@ -227,6 +256,8 @@
 				<footprintNote></footprintNote>
 			</footprintSystem>
 		</footprintList>
-    </oompPart>	
-	
+
+	<oompClass>Surface Mount</oompClass>
+	<oompClassCode>SMDS</oompClassCode>
+</oompPart>
 </xml>

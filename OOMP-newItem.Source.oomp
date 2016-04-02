@@ -1,126 +1,131 @@
 <xml>
-	<newOOMP>
-	
-	
-	<com>IMPORTANT ALL MUST BE FILLED</com>
-		<oompType>DIOD</oompType>
-		<oompSize>S323</oompSize>
-		<oompColor>X</oompColor>
-		<oompDesc>A03D</oompDesc>
-		<oompIndex>VG</oompIndex>
-		<oompSort></oompSort>	
-		
-		<hexID></hexID>		
+<newOOMP>
+<oompVersion>98</oompVersion>
 
-	<oompClass>Surface Mount</oompClass>
-	<oompClassCode>SDMS</oompClassCode>	
+<com>IMPORTANT ALL MUST BE FILLED</com>
+<oompType>RESE</oompType>
+<oompSize>0603</oompSize>
+<oompColor>X</oompColor>
+<oompDesc>O105</oompDesc>
+<oompIndex>67</oompIndex>
+<oompSort>06031000000</oompSort>
 
-		<oompVersion>99</oompVersion>
-		
-<com>Source List</com>		
-		<manufacturerCompany1></manufacturerCompany1>
-		<manufacturerCompanyCode1></manufacturerCompanyCode1>
-		<manufacturerPartID1></manufacturerPartID1>				
-		
-		<bigDistributorCompany1></bigDistributorCompany1>
-		<bigDistributorCompanyCode1></bigDistributorCompanyCode1>
-		<bigDistributorName1></bigDistributorName1>		
-		<bigDistributorPartID1></bigDistributorPartID1>		
-		<bigDistributorLink1></bigDistributorLink1>		
+<hexID>R6105</hexID>
 
-		<oplScheme1>SEEED OPL</oplScheme1>
-		<oplCode1></oplCode1>
-		<oplName1></oplName1>
-		<oplID1></oplID1>
-		<oplFootprint1></oplFootprint1>
-		<oplPackage1></oplPackage1>
-		<oplLink1></oplLink1>
+<oompClass>Surface Mount</oompClass>
+<oompClassCode>SMDS</oompClassCode>
 
-		
-	<com> QUITE IMPORTANT</com>
-		<ooNumPins></ooNumPins>
-		
-		<ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth>
+<com>Source List</com>
+<manufacturerCompany1>YAGEO</manufacturerCompany1>
+<manufacturerCompanyCode1>C-YAGE</manufacturerCompanyCode1>
+<manufacturerPartID1>RC0603FR-071ML</manufacturerPartID1>
 
-		
-		
-
-	<com>EXTRA INFO FOR MORE THAN ONE</com>
-		<manufacturerCompany2></manufacturerCompany2>
-		<manufacturerCompanyCode2></manufacturerCompanyCode2>
-		<manufacturerPartID2></manufacturerPartID2>
-
-		
-
-			<bigDistributorCompany2></bigDistributorCompany2>
-			<bigDistributorCompanyCode2></bigDistributorCompanyCode2>
-			<bigDistributorName2></bigDistributorName2>		
-			<bigDistributorPartID2></bigDistributorPartID2>		
-			<bigDistributorLink2></bigDistributorLink2>		
+<manufacturerCompany2>Vishay</manufacturerCompany2>
+<manufacturerCompanyCode2>C-VISH</manufacturerCompanyCode2>
+<manufacturerPartID2>CRCW06031M00FKEA</manufacturerPartID2>
 
 
-			<bigDistributorCompany3></bigDistributorCompany3>
-			<bigDistributorCompanyCode3></bigDistributorCompanyCode3>
-			<bigDistributorName3></bigDistributorName3>		
-			<bigDistributorPartID3></bigDistributorPartID3>		
-			<bigDistributorLink3></bigDistributorLink3>		
 
 
-			<bigDistributorCompany4></bigDistributorCompany4>
-			<bigDistributorCompanyCode4></bigDistributorCompanyCode4>
-			<bigDistributorName4></bigDistributorName4>		
-			<bigDistributorPartID4></bigDistributorPartID4>		
-			<bigDistributorLink4></bigDistributorLink4>		
-		
-<com>OPL</com>		
-				<oplScheme2></oplScheme2>
-				<oplCode2></oplCode2>
-				<oplName2></oplName2>
-				<oplID2></oplID2>
-				<oplFootprint2></oplFootprint2>
-				<oplPackage2></oplPackage2>
-				<oplLink2><![CDATA[]]></oplLink2>
-
-				<oplScheme3></oplScheme3>
-				<oplCode3></oplCode3>
-				<oplName3></oplName3>
-				<oplID3></oplID3>
-				<oplFootprint3></oplFootprint3>
-				<oplPackage3></oplPackage3>
-				<oplLink3><![CDATA[]]></oplLink3>
-
-				<oplScheme4></oplScheme4>
-				<oplCode4></oplCode4>
-				<oplName4></oplName4>
-				<oplID4></oplID4>
-				<oplFootprint4></oplFootprint4>
-				<oplPackage4></oplPackage4>
-				<oplLink4><![CDATA[]]></oplLink4>
-
-    	
-		
-		<oompOwner></oompOwner>
-		<index></index>
-
-	
-	
-        
-
-        <ooMaterial></ooMaterial>
 
 
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
 
-		
-		
-	</newOOMP>
+
+
+
+
+
+<oplScheme1>SEEED OPL</oplScheme1>
+<oplCode1>C-SEEE</oplCode1>
+<oplName1>SMD RES 1M-1%-1/10W</oplName1>
+<oplID1>301010151</oplID1>
+<oplFootprint1>0603</oplFootprint1>
+<oplPackage1>0603</oplPackage1>
+<oplLink1>http://www.seeedstudio.com/depot/s/301010151.html?search_in_description=0</oplLink1>
+
+
+<oplScheme2>Octopart CPL</oplScheme2>
+<oplCode2>C-OCTO</oplCode2>
+<oplName2>Resistor 1 MO ±1% 0603 100 mW</oplName2>
+<oplID2>CPL-RES-0603-1M-0.1W</oplID2>
+<oplFootprint2></oplFootprint2>
+<oplPackage2></oplPackage2>
+<oplLink2>https://octopart.com/common-parts-library</oplLink2>
+
+
+<oplScheme3>Circuithub.com</oplScheme3>
+<oplCode3>C-CIRC</oplCode3>
+<oplName3>YAGEO/RC0603FR-071ML</oplName3>
+<oplID3>YAGEO/RC0603FR-071ML</oplID3>
+<oplFootprint3>0603</oplFootprint3>
+<oplPackage3>0603</oplPackage3>
+<oplLink3>https://circuithub.com/parts/YAGEO/RC0603FR-071ML</oplLink3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<ooNumPins>2</ooNumPins>
+<ooPitch></ooPitch>
+<ooWidth>0.8 mm</ooWidth>
+<ooHeight></ooHeight>
+<ooDiameter></ooDiameter>
+<ooLength>1.6 mm</ooLength>
+<ooDepth></ooDepth>
+
+
+
+
+
+
+
+<bigDistributorCompanyCode1>C-DIGK</bigDistributorCompanyCode1>
+<bigDistributorCompany1>Digikey</bigDistributorCompany1>
+<bigDistributorPartID1>311-1.00MHRCT-ND</bigDistributorPartID1>
+<bigDistributorLink1>http://www.digikey.com/product-search/en?keywords=311-1.00MHRCT-ND</bigDistributorLink1>
+
+
+<bigDistributorCompanyCode2>C-MOUS</bigDistributorCompanyCode2>
+<bigDistributorCompany2>Mouser</bigDistributorCompany2>
+<bigDistributorPartID2>603-RC0603FR-071ML</bigDistributorPartID2>
+<bigDistributorLink2>http://www.mouser.co.uk/Search/Refine.aspx?Keyword=603-RC0603FR-071ML</bigDistributorLink2>
+
+
+<bigDistributorCompanyCode3>C-FARN</bigDistributorCompanyCode3>
+<bigDistributorCompany3>Farnell</bigDistributorCompany3>
+<bigDistributorPartID3>9238840</bigDistributorPartID3>
+<bigDistributorLink3><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=9238840]]></bigDistributorLink3>
+
+
+<bigDistributorCompanyCode4>C-RSRS</bigDistributorCompanyCode4>
+<bigDistributorCompany4>RS Electronics</bigDistributorCompany4>
+<bigDistributorPartID4>678-9932</bigDistributorPartID4>
+<bigDistributorLink4><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=678-9932]]></bigDistributorLink4>
+
+
+<bigDistributorCompanyCode99>C-RAPI</bigDistributorCompanyCode99>
+<bigDistributorCompany99>Rapid Electronics</bigDistributorCompany99>
+<bigDistributorPartID99></bigDistributorPartID99>
+<bigDistributorLink99><![CDATA[http://www.rapidonline.com/Search?query=&filterSearchScope=1]]></bigDistributorLink99>
+
+
+<bigDistributorCompanyCode5>C-SEEE</bigDistributorCompanyCode5>
+<bigDistributorCompany5>SEEED Studio</bigDistributorCompany5>
+<bigDistributorPartID5>301010151</bigDistributorPartID5>
+<bigDistributorLink5>http://www.seeedstudio.com/depot/s/.html?search_in_description=0</bigDistributorLink5>
+
+
+</newOOMP>
 </xml>
