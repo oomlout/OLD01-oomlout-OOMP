@@ -2,19 +2,19 @@
     <oompPart>
 
 <com>OOMP Base</com>
-        <oompID>DBCO-DB09-X-SMDS-ML</oompID>
-        <name> DB9 SMD Connector Male </name>
+        <oompID>DBCO-DB09-X-THTH-ML</oompID>
+        <name> DB9 Connector Male </name>
 
-        <hexID>DBS09M</hexID>
+        <hexID>DB09M</hexID>
         <oompSort></oompSort>
 
-		<oompClass>Surface Mount</oompClass>
-		<oompClassCode>SMDS</oompClassCode>		
+		<oompClass>Through Hole</oompClass>
+		<oompClassCode>THTH</oompClassCode>		
 		
         <oompType>DBCO</oompType>
         <oompSize>DB09</oompSize>
         <oompColor>X</oompColor>
-        <oompDesc>SMDS</oompDesc>
+        <oompDesc>THTH</oompDesc>
         <oompIndex>ML</oompIndex>
 
         <oompVersion>40</oompVersion>
@@ -49,7 +49,7 @@
 				<companyCode>C-BEST</companyCode>
 				<name></name>
 				<partID>DR-NP-04-09</partID>
-				<link></link>
+				<link></link>
 				<note></note>			
 			</manufacturer>
 			<manufacturer>
@@ -64,7 +64,7 @@
 			<bigDistributor>
 				<company>SEEED Studio</company>
 				<companyCode>C-SEEE</companyCode>
-				<name>SMD Male DB9 Connector;</name>
+				<name>Male DB9 Connector;</name>
 				<partID>320110017</partID>
 				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=214]]></link>
 				<note></note>
@@ -85,7 +85,7 @@
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
-				<oplName>SMD Male DB9 Connector</oplName>
+				<oplName>Male DB9 Connector</oplName>
 				<oplID>320110017</oplID>
 				<oplFootprint>DB9-90D</oplFootprint>
 				<oplPackage>DB9-90D</oplPackage>
