@@ -22,4 +22,12 @@ Spotted a mistake, want to add more? Let us know __oomp@oomlout.com__
 All images and resources are licensed __[CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/)__ unless otherwise stated (ie. the datasheets)   
 		</value>
 	</oompBasic>
+		<oompBasic>
+		<type>bottomTextHtml</type>
+		<value><![CDATA[<h2>Extra Details</h2>
+		Page last updated: <b>%%YEAR%%-%%MONTH%%-%%DAY%% %%HOUR%%:%%MINUTE%%</b><br>
+		Spotted a mistake, want to add more? Let us know <b>oomp@oomlout.com</b><br>
+		All images and resources are licensed [CC BY-SA]</b> unless otherwise stated (ie. the datasheets)<br>
+		]]></value>
+	</oompBasic>
 </xml>
