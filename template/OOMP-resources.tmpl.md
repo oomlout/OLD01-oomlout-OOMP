@@ -25,6 +25,8 @@ Diagram
 | -------- | -------- | ----------- |
 |  Breadboard Layout | %%ID%%-bbls.(.cdr, .pdf, .png, .svg) | Diagram to scale for how it looks plugged into a bradboard. Can be used to make easy to follow breadboard diagrams. |
 |  Schematic Diagram | %%ID%%_schem.(.cdr, .pdf,  .png, .svg) | Diagram used for drawing a schematic in an illustrating program. All parts scaled to fit together on a 10x10 mm grid) |
+|  Simple Diagram | %%ID%%_simpl.(.cdr, .pdf,  .png, .svg) | Diagram used for drawing a board layout with components on it. The only text is a short link to the parts wiki page. All text is within the boundaries of the part (ie. no overlap) |
+|  Identification | %%ID%%_iden.(.cdr, .pdf,  .png, .svg) | Drawing of what the part looks like on a board (ie . with package markings) |
 
 3D
 --------------------------
