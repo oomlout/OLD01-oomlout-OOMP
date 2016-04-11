@@ -1,5 +1,5 @@
 
-!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/ICIC-TQ32-X-K328-01/ICIC-TQ32-X-K328-01_420.jpg)
+![ICIC-TQ32-X-K328-01](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/ICIC-TQ32-X-K328-01/ICIC-TQ32-X-K328-01_420.jpg)   
 Summary
 =================
   

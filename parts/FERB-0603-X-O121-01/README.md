@@ -1,5 +1,5 @@
 
-!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/FERB-0603-X-O121-01/FERB-0603-X-O121-01_420.jpg)
+![FERB-0603-X-O121-01](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/FERB-0603-X-O121-01/FERB-0603-X-O121-01_420.jpg)   
 Summary
 =================
   

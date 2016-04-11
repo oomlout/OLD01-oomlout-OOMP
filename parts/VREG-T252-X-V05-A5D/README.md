@@ -1,5 +1,5 @@
 
-!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/VREG-T252-X-V05-A5D/VREG-T252-X-V05-A5D_420.jpg)
+![VREG-T252-X-V05-A5D](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/VREG-T252-X-V05-A5D/VREG-T252-X-V05-A5D_420.jpg)   
 Summary
 =================
   

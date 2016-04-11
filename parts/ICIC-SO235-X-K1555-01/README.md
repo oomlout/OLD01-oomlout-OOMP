@@ -1,5 +1,5 @@
 
-!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/ICIC-SO235-X-K1555-01/ICIC-SO235-X-K1555-01_420.jpg)
+![ICIC-SO235-X-K1555-01](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/ICIC-SO235-X-K1555-01/ICIC-SO235-X-K1555-01_420.jpg)   
 Summary
 =================
   

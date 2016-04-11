@@ -1,5 +1,5 @@
 
-!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/DCJP-21D-X-THTH-01/DCJP-21D-X-THTH-01_420.jpg)
+![DCJP-21D-X-THTH-01](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/DCJP-21D-X-THTH-01/DCJP-21D-X-THTH-01_420.jpg)   
 Summary
 =================
   

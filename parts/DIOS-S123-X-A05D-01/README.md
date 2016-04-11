@@ -1,5 +1,5 @@
 
-!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/DIOS-S123-X-A05D-01/DIOS-S123-X-A05D-01_420.jpg)
+![DIOS-S123-X-A05D-01](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/DIOS-S123-X-A05D-01/DIOS-S123-X-A05D-01_420.jpg)   
 Summary
 =================
   

@@ -1,5 +1,5 @@
 
-!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/TERS-05-G-02PI-01/TERS-05-G-02PI-01_420.jpg)
+![TERS-05-G-02PI-01](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/TERS-05-G-02PI-01/TERS-05-G-02PI-01_420.jpg)   
 Summary
 =================
   

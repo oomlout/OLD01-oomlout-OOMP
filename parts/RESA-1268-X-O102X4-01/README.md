@@ -1,5 +1,5 @@
 
-!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/RESA-1268-X-O102X4-01/RESA-1268-X-O102X4-01_420.jpg)
+![RESA-1268-X-O102X4-01](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/RESA-1268-X-O102X4-01/RESA-1268-X-O102X4-01_420.jpg)   
 Summary
 =================
   

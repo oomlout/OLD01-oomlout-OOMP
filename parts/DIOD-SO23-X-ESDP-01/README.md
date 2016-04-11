@@ -1,5 +1,5 @@
 
-!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/DIOD-SO23-X-ESDP-01/DIOD-SO23-X-ESDP-01_420.jpg)
+![DIOD-SO23-X-ESDP-01](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/DIOD-SO23-X-ESDP-01/DIOD-SO23-X-ESDP-01_420.jpg)   
 Summary
 =================
   

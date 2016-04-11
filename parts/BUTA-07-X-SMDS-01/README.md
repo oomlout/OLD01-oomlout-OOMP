@@ -1,5 +1,5 @@
 
-!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/BUTA-07-X-SMDS-01/BUTA-07-X-SMDS-01_420.jpg)
+![BUTA-07-X-SMDS-01](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/BUTA-07-X-SMDS-01/BUTA-07-X-SMDS-01_420.jpg)   
 Summary
 =================
   

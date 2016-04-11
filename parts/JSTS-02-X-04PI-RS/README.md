@@ -1,5 +1,5 @@
 
-!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/JSTS-02-X-04PI-RS/JSTS-02-X-04PI-RS_420.jpg)
+![JSTS-02-X-04PI-RS](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/JSTS-02-X-04PI-RS/JSTS-02-X-04PI-RS_420.jpg)   
 Summary
 =================
   

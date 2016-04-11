@@ -1,5 +1,5 @@
 
-!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/XTAL-3215-X-KZ327D-01/XTAL-3215-X-KZ327D-01_420.jpg)
+![XTAL-3215-X-KZ327D-01](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/XTAL-3215-X-KZ327D-01/XTAL-3215-X-KZ327D-01_420.jpg)   
 Summary
 =================
   

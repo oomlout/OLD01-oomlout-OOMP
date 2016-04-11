@@ -1,5 +1,5 @@
 
-!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/NUTT-M3-M-STAN-01/NUTT-M3-M-STAN-01_420.jpg)
+![NUTT-M3-M-STAN-01](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/NUTT-M3-M-STAN-01/NUTT-M3-M-STAN-01_420.jpg)   
 Summary
 =================
   

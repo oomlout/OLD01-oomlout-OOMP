@@ -1,5 +1,5 @@
 
-!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/HESH-15D-W-STAN-01/HESH-15D-W-STAN-01_420.jpg)
+![HESH-15D-W-STAN-01](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/HESH-15D-W-STAN-01/HESH-15D-W-STAN-01_420.jpg)   
 Summary
 =================
   
