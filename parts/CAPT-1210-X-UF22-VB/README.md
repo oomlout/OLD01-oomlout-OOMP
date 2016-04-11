@@ -1,27 +1,16 @@
 
+[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/CAPT-1210-X-UF22-VB/CAPT-1210-X-UF22-VB_420.jpg|alt=CAPT-1210-X-UF22-VB]] 
+Summary
+=================
 
-## Summary
- 
-Name: SMD (1210) 22 uF Capacitor (Tantalum) 10v
-
+Name: __SMD (1210) 22 uF Capacitor (Tantalum) 10v__
 ID: __CAPT-1210-X-UF22-VB__
-
 Hex ID: __CTS2U022__
-
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPT-1210-X-UF22-VB__
-
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPT-1210-X-UF22-VB__
 Short URL: __http://oom.lt/CTS2U022__
 
-
-| Type   | Size   | Color   | Description   | Index   |    
-| ----- | ------   | ------   | -----   | ----   |    
-| __CAPT__   					| __1210__   					| __X__    						| __UF22__    					| __VB__ |    
-| Capacitor (Tantalum)		| SMD (1210)	| 		| 22 uF	| 10v	|
-
-## Images
-![CAPT-1210-X-UF22-VB](http://oomlout.com/oomp-gen/parts/CAPT-1210-X-UF22-VB/CAPT-1210-X-UF22-VB_420.jpg)
-
-## Full Details
-
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPT-1210-X-UF22-VB
+Full Details
+==========================
+Full summary of this part can be found in the wiki:   
+__https://github.com/oomlout/oomlout-OOMP/wiki/CAPT-1210-X-UF22-VB__   
 

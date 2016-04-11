@@ -1,27 +1,16 @@
 
+[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/ICSO-DI28-X-STAN-01/ICSO-DI28-X-STAN-01_420.jpg|alt=ICSO-DI28-X-STAN-01]] 
+Summary
+=================
 
-## Summary
- 
-Name: 28 Pin DIP IC Socket
-
+Name: __28 Pin DIP IC Socket__
 ID: __ICSO-DI28-X-STAN-01__
-
 Hex ID: __IS28__
-
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/ICSO-DI28-X-STAN-01__
-
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ICSO-DI28-X-STAN-01__
 Short URL: __http://oom.lt/IS28__
 
-
-| Type   | Size   | Color   | Description   | Index   |    
-| ----- | ------   | ------   | -----   | ----   |    
-| __ICSO__   					| __DI28__   					| __X__    						| __STAN__    					| __01__ |    
-| IC Socket		| 28 Pin DIP	| 		| 	| 	|
-
-## Images
-![ICSO-DI28-X-STAN-01](http://oomlout.com/oomp-gen/parts/ICSO-DI28-X-STAN-01/ICSO-DI28-X-STAN-01_420.jpg)
-
-## Full Details
-
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/ICSO-DI28-X-STAN-01
+Full Details
+==========================
+Full summary of this part can be found in the wiki:   
+__https://github.com/oomlout/oomlout-OOMP/wiki/ICSO-DI28-X-STAN-01__   
 

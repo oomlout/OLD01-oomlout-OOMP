@@ -1,27 +1,15 @@
 
+Summary
+=================
 
-## Summary
- 
-Name:  18 Pin DIP 7 Segment Driver and Keypad Scanning (TM1636) 
-
+Name: __ 18 Pin DIP 7 Segment Driver and Keypad Scanning (TM1636) __
 ID: __ICIC-DI18-X-KTM1636-01__
-
 Hex ID: __IC1636__
-
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/ICIC-DI18-X-KTM1636-01__
-
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ICIC-DI18-X-KTM1636-01__
 Short URL: __http://oom.lt/IC1636__
 
-
-| Type   | Size   | Color   | Description   | Index   |    
-| ----- | ------   | ------   | -----   | ----   |    
-| __ICIC__   					| __DI18__   					| __X__    						| __KTM1636__    					| __01__ |    
-| 		| 18 Pin DIP	| 		| 7 Segment Driver and Keypad Scanning (TM1636)	| 	|
-
-## Images
-![ICIC-DI18-X-KTM1636-01](http://oomlout.com/oomp-gen/parts/ICIC-DI18-X-KTM1636-01/ICIC-DI18-X-KTM1636-01_420.jpg)
-
-## Full Details
-
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/ICIC-DI18-X-KTM1636-01
+Full Details
+==========================
+Full summary of this part can be found in the wiki:   
+__https://github.com/oomlout/oomlout-OOMP/wiki/ICIC-DI18-X-KTM1636-01__   
 

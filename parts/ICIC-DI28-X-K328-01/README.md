@@ -1,27 +1,16 @@
 
+[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/ICIC-DI28-X-K328-01/ICIC-DI28-X-K328-01_420.jpg|alt=ICIC-DI28-X-K328-01]] 
+Summary
+=================
 
-## Summary
- 
-Name: 28 Pin DIP AtMega328P
-
+Name: __28 Pin DIP AtMega328P__
 ID: __ICIC-DI28-X-K328-01__
-
 Hex ID: __IC328__
-
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/ICIC-DI28-X-K328-01__
-
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ICIC-DI28-X-K328-01__
 Short URL: __http://oom.lt/IC328__
 
-
-| Type   | Size   | Color   | Description   | Index   |    
-| ----- | ------   | ------   | -----   | ----   |    
-| __ICIC__   					| __DI28__   					| __X__    						| __K328__    					| __01__ |    
-| 		| 28 Pin DIP	| 		| AtMega328P	| 	|
-
-## Images
-![ICIC-DI28-X-K328-01](http://oomlout.com/oomp-gen/parts/ICIC-DI28-X-K328-01/ICIC-DI28-X-K328-01_420.jpg)
-
-## Full Details
-
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/ICIC-DI28-X-K328-01
+Full Details
+==========================
+Full summary of this part can be found in the wiki:   
+__https://github.com/oomlout/oomlout-OOMP/wiki/ICIC-DI28-X-K328-01__   
 

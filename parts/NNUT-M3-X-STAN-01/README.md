@@ -1,27 +1,16 @@
 
+[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/NNUT-M3-X-STAN-01/NNUT-M3-X-STAN-01_420.jpg|alt=NNUT-M3-X-STAN-01]] 
+Summary
+=================
 
-## Summary
- 
-Name: M3 Nylon Nut
-
+Name: __M3 Nylon Nut__
 ID: __NNUT-M3-X-STAN-01__
-
 Hex ID: __NN3__
-
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/NNUT-M3-X-STAN-01__
-
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/NNUT-M3-X-STAN-01__
 Short URL: __http://oom.lt/NN3__
 
-
-| Type   | Size   | Color   | Description   | Index   |    
-| ----- | ------   | ------   | -----   | ----   |    
-| __NNUT__   					| __M3__   					| __X__    						| __STAN__    					| __01__ |    
-| Nylon Nut		| M3	| 		| 	| 	|
-
-## Images
-![NNUT-M3-X-STAN-01](http://oomlout.com/oomp-gen/parts/NNUT-M3-X-STAN-01/NNUT-M3-X-STAN-01_420.jpg)
-
-## Full Details
-
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/NNUT-M3-X-STAN-01
+Full Details
+==========================
+Full summary of this part can be found in the wiki:   
+__https://github.com/oomlout/oomlout-OOMP/wiki/NNUT-M3-X-STAN-01__   
 

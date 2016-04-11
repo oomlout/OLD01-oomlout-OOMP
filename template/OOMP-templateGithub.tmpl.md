@@ -1,13 +1,15 @@
 
 @@%%ID%%,oompPart.oompID,name@@ - @@%%ID%%,oompPart.oompID,hexID@@  
 =============================
-[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/%%ID%%/%%ID%%_420.jpg|alt=%%ID%%]]  
+$$%%ID%%.jpg$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/%%ID%%/%%ID%%_420.jpg|alt=%%ID%%]]  
+
 Summary  
 ---------------------------------
-Name: @@%%ID%%,oompPart.oompID,name@@   
+Name: __@@%%ID%%,oompPart.oompID,name@@__
 ID: __@@%%ID%%,oompPart.oompID,oompID@@__   
 Hex ID: __@@%%ID%%,oompPart.oompID,hexID@@__   
-WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/%%ID%%__   
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/%%ID%%__  
+Full Revision History: __https://github.com/oomlout/oomlout-OOMP/tree/master/parts/%%ID%%__ 
 Short URL: __http://oom.lt/@@%%ID%%,oompPart.oompID,hexID@@__   
 
 | Type   | Size   | Color   | Description   | Index   |    

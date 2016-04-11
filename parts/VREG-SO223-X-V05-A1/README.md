@@ -1,27 +1,16 @@
 
+[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/VREG-SO223-X-V05-A1/VREG-SO223-X-V05-A1_420.jpg|alt=VREG-SO223-X-V05-A1]] 
+Summary
+=================
 
-## Summary
- 
-Name:  SMD (SOT-223) 5v Voltage Regulator 1 A 
-
+Name: __ SMD (SOT-223) 5v Voltage Regulator 1 A __
 ID: __VREG-SO223-X-V05-A1__
-
 Hex ID: ____
-
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/VREG-SO223-X-V05-A1__
-
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/VREG-SO223-X-V05-A1__
 Short URL: __http://oom.lt/__
 
-
-| Type   | Size   | Color   | Description   | Index   |    
-| ----- | ------   | ------   | -----   | ----   |    
-| __VREG__   					| __SO223__   					| __X__    						| __V05__    					| __A1__ |    
-| Voltage Regulator		| SMD (SOT-223)	| 		| 5v	| 1 A	|
-
-## Images
-![VREG-SO223-X-V05-A1](http://oomlout.com/oomp-gen/parts/VREG-SO223-X-V05-A1/VREG-SO223-X-V05-A1_420.jpg)
-
-## Full Details
-
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/VREG-SO223-X-V05-A1
+Full Details
+==========================
+Full summary of this part can be found in the wiki:   
+__https://github.com/oomlout/oomlout-OOMP/wiki/VREG-SO223-X-V05-A1__   
 

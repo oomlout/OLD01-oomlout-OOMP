@@ -1,27 +1,16 @@
 
+[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/HESH-06-R-STAN-01/HESH-06-R-STAN-01_420.jpg|alt=HESH-06-R-STAN-01]] 
+Summary
+=================
 
-## Summary
- 
-Name: 6 mm Red Heat Shrink
-
+Name: __6 mm Red Heat Shrink__
 ID: __HESH-06-R-STAN-01__
-
 Hex ID: __HS6R__
-
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HESH-06-R-STAN-01__
-
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HESH-06-R-STAN-01__
 Short URL: __http://oom.lt/HS6R__
 
-
-| Type   | Size   | Color   | Description   | Index   |    
-| ----- | ------   | ------   | -----   | ----   |    
-| __HESH__   					| __06__   					| __R__    						| __STAN__    					| __01__ |    
-| Heat Shrink		| 6 mm	| Red		| 	| 	|
-
-## Images
-![HESH-06-R-STAN-01](http://oomlout.com/oomp-gen/parts/HESH-06-R-STAN-01/HESH-06-R-STAN-01_420.jpg)
-
-## Full Details
-
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/HESH-06-R-STAN-01
+Full Details
+==========================
+Full summary of this part can be found in the wiki:   
+__https://github.com/oomlout/oomlout-OOMP/wiki/HESH-06-R-STAN-01__   
 

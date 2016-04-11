@@ -1,27 +1,16 @@
 
+[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/BUTA-06-X-STAN-01/BUTA-06-X-STAN-01_420.jpg|alt=BUTA-06-X-STAN-01]] 
+Summary
+=================
 
-## Summary
- 
-Name: 6 mm Pushbutton (Tactile)
-
+Name: __6 mm Pushbutton (Tactile)__
 ID: __BUTA-06-X-STAN-01__
-
 Hex ID: __BT6__
-
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/BUTA-06-X-STAN-01__
-
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/BUTA-06-X-STAN-01__
 Short URL: __http://oom.lt/BT6__
 
-
-| Type   | Size   | Color   | Description   | Index   |    
-| ----- | ------   | ------   | -----   | ----   |    
-| __BUTA__   					| __06__   					| __X__    						| __STAN__    					| __01__ |    
-| Pushbutton (Tactile)		| 6 mm	| 		| 	| 	|
-
-## Images
-![BUTA-06-X-STAN-01](http://oomlout.com/oomp-gen/parts/BUTA-06-X-STAN-01/BUTA-06-X-STAN-01_420.jpg)
-
-## Full Details
-
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/BUTA-06-X-STAN-01
+Full Details
+==========================
+Full summary of this part can be found in the wiki:   
+__https://github.com/oomlout/oomlout-OOMP/wiki/BUTA-06-X-STAN-01__   
 

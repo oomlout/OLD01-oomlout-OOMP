@@ -1,27 +1,15 @@
 
+Summary
+=================
 
-## Summary
- 
-Name:  2.54 mm 10 Pin White Header 
-
-ID: __HEAD-I01-W-10PI-01__
-
+Name: __ 2 mm 10 Pin White Header __
+ID: __HEAD-02-W-10PI-01__
 Hex ID: __H10__
-
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAD-I01-W-10PI-01__
-
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HEAD-02-W-10PI-01__
 Short URL: __http://oom.lt/H10__
 
-
-| Type   | Size   | Color   | Description   | Index   |    
-| ----- | ------   | ------   | -----   | ----   |    
-| __HEAD__   					| __I01__   					| __W__    						| __10PI__    					| __01__ |    
-| Header		| 2.54 mm	| White		| 10 Pin	| 	|
-
-## Images
-![HEAD-I01-W-10PI-01](http://oomlout.com/oomp-gen/parts/HEAD-I01-W-10PI-01/HEAD-I01-W-10PI-01_420.jpg)
-
-## Full Details
-
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAD-I01-W-10PI-01
+Full Details
+==========================
+Full summary of this part can be found in the wiki:   
+__https://github.com/oomlout/oomlout-OOMP/wiki/HEAD-02-W-10PI-01__   
 

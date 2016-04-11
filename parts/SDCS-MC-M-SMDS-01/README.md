@@ -1,27 +1,16 @@
 
+[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/SDCS-MC-M-SMDS-01/SDCS-MC-M-SMDS-01_420.jpg|alt=SDCS-MC-M-SMDS-01]] 
+Summary
+=================
 
-## Summary
- 
-Name: Micro SMD SD Card Socket
-
+Name: __Micro SMD SD Card Socket__
 ID: __SDCS-MC-M-SMDS-01__
-
 Hex ID: __SDMS__
-
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/SDCS-MC-M-SMDS-01__
-
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/SDCS-MC-M-SMDS-01__
 Short URL: __http://oom.lt/SDMS__
 
-
-| Type   | Size   | Color   | Description   | Index   |    
-| ----- | ------   | ------   | -----   | ----   |    
-| __SDCS__   					| __MC__   					| __M__    						| __SMDS__    					| __01__ |    
-| SD Card Socket		| Micro	| Metal		| SMD	| 	|
-
-## Images
-![SDCS-MC-M-SMDS-01](http://oomlout.com/oomp-gen/parts/SDCS-MC-M-SMDS-01/SDCS-MC-M-SMDS-01_420.jpg)
-
-## Full Details
-
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/SDCS-MC-M-SMDS-01
+Full Details
+==========================
+Full summary of this part can be found in the wiki:   
+__https://github.com/oomlout/oomlout-OOMP/wiki/SDCS-MC-M-SMDS-01__   
 

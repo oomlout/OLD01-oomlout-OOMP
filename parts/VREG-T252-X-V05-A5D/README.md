@@ -1,27 +1,16 @@
 
+[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/VREG-T252-X-V05-A5D/VREG-T252-X-V05-A5D_420.jpg|alt=VREG-T252-X-V05-A5D]] 
+Summary
+=================
 
-## Summary
- 
-Name: TO-252 5v Voltage Regulator 500 mA
-
+Name: __TO-252 5v Voltage Regulator 500 mA__
 ID: __VREG-T252-X-V05-A5D__
-
 Hex ID: __VT555__
-
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/VREG-T252-X-V05-A5D__
-
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/VREG-T252-X-V05-A5D__
 Short URL: __http://oom.lt/VT555__
 
-
-| Type   | Size   | Color   | Description   | Index   |    
-| ----- | ------   | ------   | -----   | ----   |    
-| __VREG__   					| __T252__   					| __X__    						| __V05__    					| __A5D__ |    
-| Voltage Regulator		| TO-252	| 		| 5v	| 500 mA	|
-
-## Images
-![VREG-T252-X-V05-A5D](http://oomlout.com/oomp-gen/parts/VREG-T252-X-V05-A5D/VREG-T252-X-V05-A5D_420.jpg)
-
-## Full Details
-
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/VREG-T252-X-V05-A5D
+Full Details
+==========================
+Full summary of this part can be found in the wiki:   
+__https://github.com/oomlout/oomlout-OOMP/wiki/VREG-T252-X-V05-A5D__   
 

@@ -1,27 +1,16 @@
 
+[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/CAPC-0805-X-UF22D-01/CAPC-0805-X-UF22D-01_420.jpg|alt=CAPC-0805-X-UF22D-01]] 
+Summary
+=================
 
-## Summary
- 
-Name:  SMD (0805) 2.2 uF Capacitor (Ceramic) 
-
+Name: __ SMD (0805) 2.2 uF Capacitor (Ceramic) __
 ID: __CAPC-0805-X-UF22D-01__
-
 Hex ID: __C85U002__
-
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPC-0805-X-UF22D-01__
-
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0805-X-UF22D-01__
 Short URL: __http://oom.lt/C85U002__
 
-
-| Type   | Size   | Color   | Description   | Index   |    
-| ----- | ------   | ------   | -----   | ----   |    
-| __CAPC__   					| __0805__   					| __X__    						| __UF22D__    					| __01__ |    
-| Capacitor (Ceramic)		| SMD (0805)	| 		| 2.2 uF	| 	|
-
-## Images
-![CAPC-0805-X-UF22D-01](http://oomlout.com/oomp-gen/parts/CAPC-0805-X-UF22D-01/CAPC-0805-X-UF22D-01_420.jpg)
-
-## Full Details
-
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPC-0805-X-UF22D-01
+Full Details
+==========================
+Full summary of this part can be found in the wiki:   
+__https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0805-X-UF22D-01__   
 

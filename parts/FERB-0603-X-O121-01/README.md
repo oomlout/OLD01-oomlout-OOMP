@@ -1,27 +1,16 @@
 
+[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/FERB-0603-X-O121-01/FERB-0603-X-O121-01_420.jpg|alt=FERB-0603-X-O121-01]] 
+Summary
+=================
 
-## Summary
- 
-Name:  SMD (0603) 120 Ohm Ferrite Bead 
-
+Name: __ SMD (0603) 120 Ohm Ferrite Bead __
 ID: __FERB-0603-X-O121-01__
-
 Hex ID: __F6121__
-
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/FERB-0603-X-O121-01__
-
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/FERB-0603-X-O121-01__
 Short URL: __http://oom.lt/F6121__
 
-
-| Type   | Size   | Color   | Description   | Index   |    
-| ----- | ------   | ------   | -----   | ----   |    
-| __FERB__   					| __0603__   					| __X__    						| __O121__    					| __01__ |    
-| Ferrite Bead		| SMD (0603)	| 		| 120 Ohm	| 	|
-
-## Images
-![FERB-0603-X-O121-01](http://oomlout.com/oomp-gen/parts/FERB-0603-X-O121-01/FERB-0603-X-O121-01_420.jpg)
-
-## Full Details
-
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/FERB-0603-X-O121-01
+Full Details
+==========================
+Full summary of this part can be found in the wiki:   
+__https://github.com/oomlout/oomlout-OOMP/wiki/FERB-0603-X-O121-01__   
 

@@ -1,27 +1,16 @@
 
+[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/SCRE-M3-M-12-70/SCRE-M3-M-12-70_420.jpg|alt=SCRE-M3-M-12-70]] 
+Summary
+=================
 
-## Summary
- 
-Name: M3 x 12 mm Screw Cross Head
-
+Name: __M3 x 12 mm Screw Cross Head__
 ID: __SCRE-M3-M-12-70__
-
 Hex ID: __M312__
-
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/SCRE-M3-M-12-70__
-
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/SCRE-M3-M-12-70__
 Short URL: __http://oom.lt/M312__
 
-
-| Type   | Size   | Color   | Description   | Index   |    
-| ----- | ------   | ------   | -----   | ----   |    
-| __SCRE__   					| __M3__   					| __M__    						| __12__    					| __70__ |    
-| Screw		| M3	| Metal		| x 12 mm	| Cross Head	|
-
-## Images
-![SCRE-M3-M-12-70](http://oomlout.com/oomp-gen/parts/SCRE-M3-M-12-70/SCRE-M3-M-12-70_420.jpg)
-
-## Full Details
-
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/SCRE-M3-M-12-70
+Full Details
+==========================
+Full summary of this part can be found in the wiki:   
+__https://github.com/oomlout/oomlout-OOMP/wiki/SCRE-M3-M-12-70__   
 

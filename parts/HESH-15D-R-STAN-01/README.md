@@ -1,27 +1,16 @@
 
+[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/HESH-15D-R-STAN-01/HESH-15D-R-STAN-01_420.jpg|alt=HESH-15D-R-STAN-01]] 
+Summary
+=================
 
-## Summary
- 
-Name: 1.5 mm Red Heat Shrink
-
+Name: __1.5 mm Red Heat Shrink__
 ID: __HESH-15D-R-STAN-01__
-
 Hex ID: __HS1R__
-
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HESH-15D-R-STAN-01__
-
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HESH-15D-R-STAN-01__
 Short URL: __http://oom.lt/HS1R__
 
-
-| Type   | Size   | Color   | Description   | Index   |    
-| ----- | ------   | ------   | -----   | ----   |    
-| __HESH__   					| __15D__   					| __R__    						| __STAN__    					| __01__ |    
-| Heat Shrink		| 1.5 mm	| Red		| 	| 	|
-
-## Images
-![HESH-15D-R-STAN-01](http://oomlout.com/oomp-gen/parts/HESH-15D-R-STAN-01/HESH-15D-R-STAN-01_420.jpg)
-
-## Full Details
-
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/HESH-15D-R-STAN-01
+Full Details
+==========================
+Full summary of this part can be found in the wiki:   
+__https://github.com/oomlout/oomlout-OOMP/wiki/HESH-15D-R-STAN-01__   
 

@@ -1,27 +1,16 @@
 
+[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/HESH-03-V-STAN-01/HESH-03-V-STAN-01_420.jpg|alt=HESH-03-V-STAN-01]] 
+Summary
+=================
 
-## Summary
- 
-Name: 3 mm Purple Heat Shrink
-
+Name: __3 mm Purple Heat Shrink__
 ID: __HESH-03-V-STAN-01__
-
 Hex ID: __HS3V__
-
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HESH-03-V-STAN-01__
-
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HESH-03-V-STAN-01__
 Short URL: __http://oom.lt/HS3V__
 
-
-| Type   | Size   | Color   | Description   | Index   |    
-| ----- | ------   | ------   | -----   | ----   |    
-| __HESH__   					| __03__   					| __V__    						| __STAN__    					| __01__ |    
-| Heat Shrink		| 3 mm	| Purple		| 	| 	|
-
-## Images
-![HESH-03-V-STAN-01](http://oomlout.com/oomp-gen/parts/HESH-03-V-STAN-01/HESH-03-V-STAN-01_420.jpg)
-
-## Full Details
-
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/HESH-03-V-STAN-01
+Full Details
+==========================
+Full summary of this part can be found in the wiki:   
+__https://github.com/oomlout/oomlout-OOMP/wiki/HESH-03-V-STAN-01__   
 

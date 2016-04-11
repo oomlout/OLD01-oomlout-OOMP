@@ -1,27 +1,16 @@
 
+[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/USBS-MN-M-SMDS-01/USBS-MN-M-SMDS-01_420.jpg|alt=USBS-MN-M-SMDS-01]] 
+Summary
+=================
 
-## Summary
- 
-Name:  Mini SMD Metal USB Socket 
-
+Name: __ Mini SMD Metal USB Socket __
 ID: __USBS-MN-M-SMDS-01__
-
 Hex ID: __USN__
-
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/USBS-MN-M-SMDS-01__
-
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/USBS-MN-M-SMDS-01__
 Short URL: __http://oom.lt/USN__
 
-
-| Type   | Size   | Color   | Description   | Index   |    
-| ----- | ------   | ------   | -----   | ----   |    
-| __USBS__   					| __MN__   					| __M__    						| __SMDS__    					| __01__ |    
-| USB Socket		| Mini	| Metal		| SMD	| 	|
-
-## Images
-![USBS-MN-M-SMDS-01](http://oomlout.com/oomp-gen/parts/USBS-MN-M-SMDS-01/USBS-MN-M-SMDS-01_420.jpg)
-
-## Full Details
-
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/USBS-MN-M-SMDS-01
+Full Details
+==========================
+Full summary of this part can be found in the wiki:   
+__https://github.com/oomlout/oomlout-OOMP/wiki/USBS-MN-M-SMDS-01__   
 

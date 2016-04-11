@@ -1,27 +1,15 @@
 
+Summary
+=================
 
-## Summary
- 
-Name:  2.54 mm 10 Pin Female Header (Long) 
-
+Name: __ 2.54 mm 10 Pin Female Header (Long) __
 ID: __HELF-I01-X-10PI-01__
-
 Hex ID: __HLF10__
-
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HELF-I01-X-10PI-01__
-
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HELF-I01-X-10PI-01__
 Short URL: __http://oom.lt/HLF10__
 
-
-| Type   | Size   | Color   | Description   | Index   |    
-| ----- | ------   | ------   | -----   | ----   |    
-| __HELF__   					| __I01__   					| __X__    						| __10PI__    					| __01__ |    
-| Female Header (Long)		| 2.54 mm	| 		| 10 Pin	| 	|
-
-## Images
-![HELF-I01-X-10PI-01](http://oomlout.com/oomp-gen/parts/HELF-I01-X-10PI-01/HELF-I01-X-10PI-01_420.jpg)
-
-## Full Details
-
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/HELF-I01-X-10PI-01
+Full Details
+==========================
+Full summary of this part can be found in the wiki:   
+__https://github.com/oomlout/oomlout-OOMP/wiki/HELF-I01-X-10PI-01__   
 

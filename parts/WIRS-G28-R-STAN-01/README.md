@@ -1,27 +1,16 @@
 
+[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/WIRS-G28-R-STAN-01/WIRS-G28-R-STAN-01_420.jpg|alt=WIRS-G28-R-STAN-01]] 
+Summary
+=================
 
-## Summary
- 
-Name: 28 AWG Red Stranded Wire
-
+Name: __28 AWG Red Stranded Wire__
 ID: __WIRS-G28-R-STAN-01__
-
 Hex ID: __W2R__
-
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/WIRS-G28-R-STAN-01__
-
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/WIRS-G28-R-STAN-01__
 Short URL: __http://oom.lt/W2R__
 
-
-| Type   | Size   | Color   | Description   | Index   |    
-| ----- | ------   | ------   | -----   | ----   |    
-| __WIRS__   					| __G28__   					| __R__    						| __STAN__    					| __01__ |    
-| Stranded Wire		| 28 AWG	| Red		| 	| 	|
-
-## Images
-![WIRS-G28-R-STAN-01](http://oomlout.com/oomp-gen/parts/WIRS-G28-R-STAN-01/WIRS-G28-R-STAN-01_420.jpg)
-
-## Full Details
-
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/WIRS-G28-R-STAN-01
+Full Details
+==========================
+Full summary of this part can be found in the wiki:   
+__https://github.com/oomlout/oomlout-OOMP/wiki/WIRS-G28-R-STAN-01__   
 

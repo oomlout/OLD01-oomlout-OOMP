@@ -1,27 +1,16 @@
 
+[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/DIOD-MMA-X-A03D-01/DIOD-MMA-X-A03D-01_420.jpg|alt=DIOD-MMA-X-A03D-01]] 
+Summary
+=================
 
-## Summary
- 
-Name:  SMD (Mini MELF) 300 mA Diode 
-
+Name: __ SMD (Mini MELF) 300 mA Diode __
 ID: __DIOD-MMA-X-A03D-01__
-
 Hex ID: __DSM3D__
-
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/DIOD-MMA-X-A03D-01__
-
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/DIOD-MMA-X-A03D-01__
 Short URL: __http://oom.lt/DSM3D__
 
-
-| Type   | Size   | Color   | Description   | Index   |    
-| ----- | ------   | ------   | -----   | ----   |    
-| __DIOD__   					| __MMA__   					| __X__    						| __A03D__    					| __01__ |    
-| Diode		| SMD (Mini MELF)	| 		| 300 mA	| 	|
-
-## Images
-![DIOD-MMA-X-A03D-01](http://oomlout.com/oomp-gen/parts/DIOD-MMA-X-A03D-01/DIOD-MMA-X-A03D-01_420.jpg)
-
-## Full Details
-
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/DIOD-MMA-X-A03D-01
+Full Details
+==========================
+Full summary of this part can be found in the wiki:   
+__https://github.com/oomlout/oomlout-OOMP/wiki/DIOD-MMA-X-A03D-01__   
 

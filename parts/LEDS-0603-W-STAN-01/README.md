@@ -1,27 +1,16 @@
 
+[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/LEDS-0603-W-STAN-01/LEDS-0603-W-STAN-01_420.jpg|alt=LEDS-0603-W-STAN-01]] 
+Summary
+=================
 
-## Summary
- 
-Name:  SMD (0603) White LED 
-
+Name: __ SMD (0603) White LED __
 ID: __LEDS-0603-W-STAN-01__
-
 Hex ID: __L6W__
-
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/LEDS-0603-W-STAN-01__
-
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/LEDS-0603-W-STAN-01__
 Short URL: __http://oom.lt/L6W__
 
-
-| Type   | Size   | Color   | Description   | Index   |    
-| ----- | ------   | ------   | -----   | ----   |    
-| __LEDS__   					| __0603__   					| __W__    						| __STAN__    					| __01__ |    
-| LED		| SMD (0603)	| White		| 	| 	|
-
-## Images
-![LEDS-0603-W-STAN-01](http://oomlout.com/oomp-gen/parts/LEDS-0603-W-STAN-01/LEDS-0603-W-STAN-01_420.jpg)
-
-## Full Details
-
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/LEDS-0603-W-STAN-01
+Full Details
+==========================
+Full summary of this part can be found in the wiki:   
+__https://github.com/oomlout/oomlout-OOMP/wiki/LEDS-0603-W-STAN-01__   
 

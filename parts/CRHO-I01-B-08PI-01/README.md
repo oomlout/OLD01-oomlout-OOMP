@@ -1,27 +1,16 @@
 
+[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/CRHO-I01-B-08PI-01/CRHO-I01-B-08PI-01_420.jpg|alt=CRHO-I01-B-08PI-01]] 
+Summary
+=================
 
-## Summary
- 
-Name: 2.54 mm 8 Pin Black Crimp Housing
-
+Name: __2.54 mm 8 Pin Black Crimp Housing__
 ID: __CRHO-I01-B-08PI-01__
-
 Hex ID: __CH08__
-
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/CRHO-I01-B-08PI-01__
-
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CRHO-I01-B-08PI-01__
 Short URL: __http://oom.lt/CH08__
 
-
-| Type   | Size   | Color   | Description   | Index   |    
-| ----- | ------   | ------   | -----   | ----   |    
-| __CRHO__   					| __I01__   					| __B__    						| __08PI__    					| __01__ |    
-| Crimp Housing		| 2.54 mm	| Black		| 8 Pin	| 	|
-
-## Images
-![CRHO-I01-B-08PI-01](http://oomlout.com/oomp-gen/parts/CRHO-I01-B-08PI-01/CRHO-I01-B-08PI-01_420.jpg)
-
-## Full Details
-
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/CRHO-I01-B-08PI-01
+Full Details
+==========================
+Full summary of this part can be found in the wiki:   
+__https://github.com/oomlout/oomlout-OOMP/wiki/CRHO-I01-B-08PI-01__   
 

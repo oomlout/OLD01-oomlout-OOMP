@@ -1,27 +1,16 @@
 
+[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/CAPT-1206-X-UF10-VB/CAPT-1206-X-UF10-VB_420.jpg|alt=CAPT-1206-X-UF10-VB]] 
+Summary
+=================
 
-## Summary
- 
-Name: SMD (1206) 10 uF Capacitor (Tantalum) 10v
-
+Name: __SMD (1206) 10 uF Capacitor (Tantalum) 10v__
 ID: __CAPT-1206-X-UF10-VB__
-
 Hex ID: __CTS1U010B__
-
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPT-1206-X-UF10-VB__
-
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPT-1206-X-UF10-VB__
 Short URL: __http://oom.lt/CTS1U010B__
 
-
-| Type   | Size   | Color   | Description   | Index   |    
-| ----- | ------   | ------   | -----   | ----   |    
-| __CAPT__   					| __1206__   					| __X__    						| __UF10__    					| __VB__ |    
-| Capacitor (Tantalum)		| SMD (1206)	| 		| 10 uF	| 10v	|
-
-## Images
-![CAPT-1206-X-UF10-VB](http://oomlout.com/oomp-gen/parts/CAPT-1206-X-UF10-VB/CAPT-1206-X-UF10-VB_420.jpg)
-
-## Full Details
-
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPT-1206-X-UF10-VB
+Full Details
+==========================
+Full summary of this part can be found in the wiki:   
+__https://github.com/oomlout/oomlout-OOMP/wiki/CAPT-1206-X-UF10-VB__   
 

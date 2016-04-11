@@ -1,27 +1,16 @@
 
+[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/HEAF-I01-Y-08PI-01/HEAF-I01-Y-08PI-01_420.jpg|alt=HEAF-I01-Y-08PI-01]] 
+Summary
+=================
 
-## Summary
- 
-Name: 2.54 mm 8 Pin Yellow Female Header
-
+Name: __2.54 mm 8 Pin Yellow Female Header__
 ID: __HEAF-I01-Y-08PI-01__
-
 Hex ID: __10C2__
-
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAF-I01-Y-08PI-01__
-
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HEAF-I01-Y-08PI-01__
 Short URL: __http://oom.lt/10C2__
 
-
-| Type   | Size   | Color   | Description   | Index   |    
-| ----- | ------   | ------   | -----   | ----   |    
-| __HEAF__   					| __I01__   					| __Y__    						| __08PI__    					| __01__ |    
-| Female Header		| 2.54 mm	| Yellow		| 8 Pin	| 	|
-
-## Images
-![HEAF-I01-Y-08PI-01](http://oomlout.com/oomp-gen/parts/HEAF-I01-Y-08PI-01/HEAF-I01-Y-08PI-01_420.jpg)
-
-## Full Details
-
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/HEAF-I01-Y-08PI-01
+Full Details
+==========================
+Full summary of this part can be found in the wiki:   
+__https://github.com/oomlout/oomlout-OOMP/wiki/HEAF-I01-Y-08PI-01__   
 

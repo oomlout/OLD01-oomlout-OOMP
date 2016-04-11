@@ -1,27 +1,16 @@
 
+[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/SWIS-09-X-DPDT-01/SWIS-09-X-DPDT-01_420.jpg|alt=SWIS-09-X-DPDT-01]] 
+Summary
+=================
 
-## Summary
- 
-Name:  9 mm DPDT Switch (Slide) 
-
+Name: __ 9 mm DPDT Switch (Slide) __
 ID: __SWIS-09-X-DPDT-01__
-
 Hex ID: __SSW9D__
-
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/SWIS-09-X-DPDT-01__
-
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/SWIS-09-X-DPDT-01__
 Short URL: __http://oom.lt/SSW9D__
 
-
-| Type   | Size   | Color   | Description   | Index   |    
-| ----- | ------   | ------   | -----   | ----   |    
-| __SWIS__   					| __09__   					| __X__    						| __DPDT__    					| __01__ |    
-| Switch (Slide)		| 9 mm	| 		| DPDT	| 	|
-
-## Images
-![SWIS-09-X-DPDT-01](http://oomlout.com/oomp-gen/parts/SWIS-09-X-DPDT-01/SWIS-09-X-DPDT-01_420.jpg)
-
-## Full Details
-
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/SWIS-09-X-DPDT-01
+Full Details
+==========================
+Full summary of this part can be found in the wiki:   
+__https://github.com/oomlout/oomlout-OOMP/wiki/SWIS-09-X-DPDT-01__   
 

@@ -1,27 +1,16 @@
 
+[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/DCJP-21D-X-THTH-01/DCJP-21D-X-THTH-01_420.jpg|alt=DCJP-21D-X-THTH-01]] 
+Summary
+=================
 
-## Summary
- 
-Name: 2.1 mm Through Hole DC Jack
-
+Name: __2.1 mm Through Hole DC Jack__
 ID: __DCJP-21D-X-THTH-01__
-
 Hex ID: __DJ21__
-
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/DCJP-21D-X-THTH-01__
-
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/DCJP-21D-X-THTH-01__
 Short URL: __http://oom.lt/DJ21__
 
-
-| Type   | Size   | Color   | Description   | Index   |    
-| ----- | ------   | ------   | -----   | ----   |    
-| __DCJP__   					| __21D__   					| __X__    						| __THTH__    					| __01__ |    
-| DC Jack		| 2.1 mm	| 		| Through Hole	| 	|
-
-## Images
-![DCJP-21D-X-THTH-01](http://oomlout.com/oomp-gen/parts/DCJP-21D-X-THTH-01/DCJP-21D-X-THTH-01_420.jpg)
-
-## Full Details
-
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/DCJP-21D-X-THTH-01
+Full Details
+==========================
+Full summary of this part can be found in the wiki:   
+__https://github.com/oomlout/oomlout-OOMP/wiki/DCJP-21D-X-THTH-01__   
 

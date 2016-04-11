@@ -1,27 +1,16 @@
 
+[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/XTAL-3215-X-KZ327D-01/XTAL-3215-X-KZ327D-01_420.jpg|alt=XTAL-3215-X-KZ327D-01]] 
+Summary
+=================
 
-## Summary
- 
-Name:  SMD (5032) Crystal 
+Name: __ SMD (3215) 32.768 kHz Crystal __
+ID: __XTAL-3215-X-KZ327D-01__
+Hex ID: __XZ5327D__
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/XTAL-3215-X-KZ327D-01__
+Short URL: __http://oom.lt/XZ5327D__
 
-ID: __XTAL-5032-X-KS327D-01__
-
-Hex ID: __XS5327D__
-
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/XTAL-5032-X-KS327D-01__
-
-Short URL: __http://oom.lt/XS5327D__
-
-
-| Type   | Size   | Color   | Description   | Index   |    
-| ----- | ------   | ------   | -----   | ----   |    
-| __XTAL__   					| __5032__   					| __X__    						| __KS327D__    					| __01__ |    
-| Crystal		| SMD (5032)	| 		| 	| 	|
-
-## Images
-![XTAL-5032-X-KS327D-01](http://oomlout.com/oomp-gen/parts/XTAL-5032-X-KS327D-01/XTAL-5032-X-KS327D-01_420.jpg)
-
-## Full Details
-
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/XTAL-5032-X-KS327D-01
+Full Details
+==========================
+Full summary of this part can be found in the wiki:   
+__https://github.com/oomlout/oomlout-OOMP/wiki/XTAL-3215-X-KZ327D-01__   
 

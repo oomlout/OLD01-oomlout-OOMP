@@ -1,27 +1,16 @@
 
+[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/CAPC-55D-X-PF22-VC/CAPC-55D-X-PF22-VC_420.jpg|alt=CAPC-55D-X-PF22-VC]] 
+Summary
+=================
 
-## Summary
- 
-Name: 5.5 mm 22 pF Capacitor (Ceramic) 50v
-
+Name: __5.5 mm 22 pF Capacitor (Ceramic) 50v__
 ID: __CAPC-55D-X-PF22-VC__
-
 Hex ID: __CCP022__
-
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPC-55D-X-PF22-VC__
-
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-55D-X-PF22-VC__
 Short URL: __http://oom.lt/CCP022__
 
-
-| Type   | Size   | Color   | Description   | Index   |    
-| ----- | ------   | ------   | -----   | ----   |    
-| __CAPC__   					| __55D__   					| __X__    						| __PF22__    					| __VC__ |    
-| Capacitor (Ceramic)		| 5.5 mm	| 		| 22 pF	| 50v	|
-
-## Images
-![CAPC-55D-X-PF22-VC](http://oomlout.com/oomp-gen/parts/CAPC-55D-X-PF22-VC/CAPC-55D-X-PF22-VC_420.jpg)
-
-## Full Details
-
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPC-55D-X-PF22-VC
+Full Details
+==========================
+Full summary of this part can be found in the wiki:   
+__https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-55D-X-PF22-VC__   
 

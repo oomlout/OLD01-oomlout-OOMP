@@ -1,27 +1,16 @@
 
+[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/XTAL-11-X-MZ16-01/XTAL-11-X-MZ16-01_420.jpg|alt=XTAL-11-X-MZ16-01]] 
+Summary
+=================
 
-## Summary
- 
-Name: 11 mm 16 MHz Crystal
-
+Name: __11 mm 16 MHz Crystal__
 ID: __XTAL-11-X-MZ16-01__
-
 Hex ID: __XT16__
-
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/XTAL-11-X-MZ16-01__
-
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/XTAL-11-X-MZ16-01__
 Short URL: __http://oom.lt/XT16__
 
-
-| Type   | Size   | Color   | Description   | Index   |    
-| ----- | ------   | ------   | -----   | ----   |    
-| __XTAL__   					| __11__   					| __X__    						| __MZ16__    					| __01__ |    
-| Crystal		| 11 mm	| 		| 16 MHz	| 	|
-
-## Images
-![XTAL-11-X-MZ16-01](http://oomlout.com/oomp-gen/parts/XTAL-11-X-MZ16-01/XTAL-11-X-MZ16-01_420.jpg)
-
-## Full Details
-
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/XTAL-11-X-MZ16-01
+Full Details
+==========================
+Full summary of this part can be found in the wiki:   
+__https://github.com/oomlout/oomlout-OOMP/wiki/XTAL-11-X-MZ16-01__   
 

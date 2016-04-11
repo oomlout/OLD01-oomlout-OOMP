@@ -1,27 +1,15 @@
 
+Summary
+=================
 
-## Summary
- 
-Name:  6 mm 10 uH Inductor 
-
+Name: __ 6 mm 10 uH Inductor __
 ID: __INDU-06-X-UH10-01__
-
 Hex ID: __IN06U10__
-
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/INDU-06-X-UH10-01__
-
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/INDU-06-X-UH10-01__
 Short URL: __http://oom.lt/IN06U10__
 
-
-| Type   | Size   | Color   | Description   | Index   |    
-| ----- | ------   | ------   | -----   | ----   |    
-| __INDU__   					| __06__   					| __X__    						| __UH10__    					| __01__ |    
-| Inductor		| 6 mm	| 		| 10 uH	| 	|
-
-## Images
-![INDU-06-X-UH10-01](http://oomlout.com/oomp-gen/parts/INDU-06-X-UH10-01/INDU-06-X-UH10-01_420.jpg)
-
-## Full Details
-
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/INDU-06-X-UH10-01
+Full Details
+==========================
+Full summary of this part can be found in the wiki:   
+__https://github.com/oomlout/oomlout-OOMP/wiki/INDU-06-X-UH10-01__   
 

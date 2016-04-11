@@ -1,27 +1,16 @@
 
+[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/DIOD-S123-X-STAN-01/DIOD-S123-X-STAN-01_420.jpg|alt=DIOD-S123-X-STAN-01]] 
+Summary
+=================
 
-## Summary
- 
-Name: SMD (SOD-123) Diode
-
+Name: __SMD (SOD-123) Diode__
 ID: __DIOD-S123-X-STAN-01__
-
 Hex ID: __DS301__
-
-WebPage: __http://learn.oomlout.co.uk/OO/Projects/oomp/part/DIOD-S123-X-STAN-01__
-
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/DIOD-S123-X-STAN-01__
 Short URL: __http://oom.lt/DS301__
 
-
-| Type   | Size   | Color   | Description   | Index   |    
-| ----- | ------   | ------   | -----   | ----   |    
-| __DIOD__   					| __S123__   					| __X__    						| __STAN__    					| __01__ |    
-| Diode		| SMD (SOD-123)	| 		| 	| 	|
-
-## Images
-![DIOD-S123-X-STAN-01](http://oomlout.com/oomp-gen/parts/DIOD-S123-X-STAN-01/DIOD-S123-X-STAN-01_420.jpg)
-
-## Full Details
-
- http://learn.oomlout.co.uk/OO/Projects/oomp/part/DIOD-S123-X-STAN-01
+Full Details
+==========================
+Full summary of this part can be found in the wiki:   
+__https://github.com/oomlout/oomlout-OOMP/wiki/DIOD-S123-X-STAN-01__   
 
