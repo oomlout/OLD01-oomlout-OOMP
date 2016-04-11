@@ -1,5 +1,5 @@
 
-[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/UFLS-02-M-SMDS-01/UFLS-02-M-SMDS-01_420.jpg|alt=UFLS-02-M-SMDS-01]]     
+!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/UFLS-02-M-SMDS-01/UFLS-02-M-SMDS-01_420.jpg)
 Summary
 =================
   

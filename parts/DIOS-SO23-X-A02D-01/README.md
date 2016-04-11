@@ -1,5 +1,5 @@
 
-[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/DIOS-SO23-X-A02D-01/DIOS-SO23-X-A02D-01_420.jpg|alt=DIOS-SO23-X-A02D-01]]     
+!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/DIOS-SO23-X-A02D-01/DIOS-SO23-X-A02D-01_420.jpg)
 Summary
 =================
   

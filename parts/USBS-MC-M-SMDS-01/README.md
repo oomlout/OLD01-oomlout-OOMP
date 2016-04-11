@@ -1,5 +1,5 @@
 
-[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/USBS-MC-M-SMDS-01/USBS-MC-M-SMDS-01_420.jpg|alt=USBS-MC-M-SMDS-01]]     
+!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/USBS-MC-M-SMDS-01/USBS-MC-M-SMDS-01_420.jpg)
 Summary
 =================
   

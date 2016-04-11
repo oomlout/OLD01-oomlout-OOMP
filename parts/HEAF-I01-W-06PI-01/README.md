@@ -1,5 +1,5 @@
 
-[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/HEAF-I01-W-06PI-01/HEAF-I01-W-06PI-01_420.jpg|alt=HEAF-I01-W-06PI-01]]     
+!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/HEAF-I01-W-06PI-01/HEAF-I01-W-06PI-01_420.jpg)
 Summary
 =================
   

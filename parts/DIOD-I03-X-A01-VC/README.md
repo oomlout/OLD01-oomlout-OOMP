@@ -1,5 +1,5 @@
 
-[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/DIOD-I03-X-A01-VC/DIOD-I03-X-A01-VC_420.jpg|alt=DIOD-I03-X-A01-VC]]     
+!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/DIOD-I03-X-A01-VC/DIOD-I03-X-A01-VC_420.jpg)
 Summary
 =================
   

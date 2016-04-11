@@ -1,5 +1,5 @@
 
-[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/DIOD-S123-X-STAN-01/DIOD-S123-X-STAN-01_420.jpg|alt=DIOD-S123-X-STAN-01]]     
+!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/DIOD-S123-X-STAN-01/DIOD-S123-X-STAN-01_420.jpg)
 Summary
 =================
   

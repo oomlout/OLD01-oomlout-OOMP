@@ -1,5 +1,5 @@
 
-[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/ICIC-DI16-X-K595-01/ICIC-DI16-X-K595-01_420.jpg|alt=ICIC-DI16-X-K595-01]]     
+!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/ICIC-DI16-X-K595-01/ICIC-DI16-X-K595-01_420.jpg)
 Summary
 =================
   

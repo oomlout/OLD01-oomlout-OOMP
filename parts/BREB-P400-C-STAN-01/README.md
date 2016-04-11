@@ -1,5 +1,5 @@
 
-[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/BREB-P400-C-STAN-01/BREB-P400-C-STAN-01_420.jpg|alt=BREB-P400-C-STAN-01]]     
+!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/BREB-P400-C-STAN-01/BREB-P400-C-STAN-01_420.jpg)
 Summary
 =================
   

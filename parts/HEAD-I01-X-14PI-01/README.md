@@ -1,5 +1,5 @@
 
-[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/HEAD-I01-X-14PI-01/HEAD-I01-X-14PI-01_420.jpg|alt=HEAD-I01-X-14PI-01]]     
+!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/HEAD-I01-X-14PI-01/HEAD-I01-X-14PI-01_420.jpg)
 Summary
 =================
   

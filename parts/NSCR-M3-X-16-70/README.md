@@ -1,5 +1,5 @@
 
-[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/NSCR-M3-X-16-70/NSCR-M3-X-16-70_420.jpg|alt=NSCR-M3-X-16-70]]     
+!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/NSCR-M3-X-16-70/NSCR-M3-X-16-70_420.jpg)
 Summary
 =================
   

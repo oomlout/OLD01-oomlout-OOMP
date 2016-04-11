@@ -1,5 +1,5 @@
 
-[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/SCRE-M3-M-30-01/SCRE-M3-M-30-01_420.jpg|alt=SCRE-M3-M-30-01]]     
+!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/SCRE-M3-M-30-01/SCRE-M3-M-30-01_420.jpg)
 Summary
 =================
   

@@ -1,5 +1,5 @@
 
-[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/HEDS-35D-X-SMDS-01/HEDS-35D-X-SMDS-01_420.jpg|alt=HEDS-35D-X-SMDS-01]]     
+!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/HEDS-35D-X-SMDS-01/HEDS-35D-X-SMDS-01_420.jpg)
 Summary
 =================
   

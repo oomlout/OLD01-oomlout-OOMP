@@ -1,5 +1,5 @@
 
-[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/HEAL-I01-X-36PI-01/HEAL-I01-X-36PI-01_420.jpg|alt=HEAL-I01-X-36PI-01]]     
+!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/HEAL-I01-X-36PI-01/HEAL-I01-X-36PI-01_420.jpg)
 Summary
 =================
   

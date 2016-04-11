@@ -1,5 +1,5 @@
 
-[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/XTAL-5032-X-MZ12-01/XTAL-5032-X-MZ12-01_420.jpg|alt=XTAL-5032-X-MZ12-01]]     
+!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/XTAL-5032-X-MZ12-01/XTAL-5032-X-MZ12-01_420.jpg)
 Summary
 =================
   

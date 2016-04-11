@@ -1,5 +1,5 @@
 
-[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/ICIC-SC75-X-K125LS-01/ICIC-SC75-X-K125LS-01_420.jpg|alt=ICIC-SC75-X-K125LS-01]]     
+!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/ICIC-SC75-X-K125LS-01/ICIC-SC75-X-K125LS-01_420.jpg)
 Summary
 =================
   

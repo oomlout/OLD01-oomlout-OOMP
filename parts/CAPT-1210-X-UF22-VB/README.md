@@ -1,5 +1,5 @@
 
-[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/CAPT-1210-X-UF22-VB/CAPT-1210-X-UF22-VB_420.jpg|alt=CAPT-1210-X-UF22-VB]]     
+!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/CAPT-1210-X-UF22-VB/CAPT-1210-X-UF22-VB_420.jpg)
 Summary
 =================
   

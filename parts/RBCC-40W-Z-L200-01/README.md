@@ -1,5 +1,5 @@
 
-[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/RBCC-40W-Z-L200-01/RBCC-40W-Z-L200-01_420.jpg|alt=RBCC-40W-Z-L200-01]]     
+!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/RBCC-40W-Z-L200-01/RBCC-40W-Z-L200-01_420.jpg)
 Summary
 =================
   

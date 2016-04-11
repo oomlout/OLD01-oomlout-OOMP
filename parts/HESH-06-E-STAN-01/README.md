@@ -1,5 +1,5 @@
 
-[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/HESH-06-E-STAN-01/HESH-06-E-STAN-01_420.jpg|alt=HESH-06-E-STAN-01]]     
+!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/HESH-06-E-STAN-01/HESH-06-E-STAN-01_420.jpg)
 Summary
 =================
   

@@ -1,5 +1,5 @@
 
-[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/CAPC-0402-X-NF100-VF/CAPC-0402-X-NF100-VF_420.jpg|alt=CAPC-0402-X-NF100-VF]]     
+!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/CAPC-0402-X-NF100-VF/CAPC-0402-X-NF100-VF_420.jpg)
 Summary
 =================
   

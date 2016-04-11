@@ -1,5 +1,5 @@
 
-[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/VREG-SO89-X-V33D-A1/VREG-SO89-X-V33D-A1_420.jpg|alt=VREG-SO89-X-V33D-A1]]     
+!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/VREG-SO89-X-V33D-A1/VREG-SO89-X-V33D-A1_420.jpg)
 Summary
 =================
   

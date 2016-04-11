@@ -1,5 +1,5 @@
 
-[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/LEDS-0402-L-STAN-01/LEDS-0402-L-STAN-01_420.jpg|alt=LEDS-0402-L-STAN-01]]     
+!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/LEDS-0402-L-STAN-01/LEDS-0402-L-STAN-01_420.jpg)
 Summary
 =================
   

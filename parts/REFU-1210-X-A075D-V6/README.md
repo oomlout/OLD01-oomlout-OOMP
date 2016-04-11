@@ -1,5 +1,5 @@
 
-[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/REFU-1210-X-A075D-V6/REFU-1210-X-A075D-V6_420.jpg|alt=REFU-1210-X-A075D-V6]]     
+!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/REFU-1210-X-A075D-V6/REFU-1210-X-A075D-V6_420.jpg)
 Summary
 =================
   

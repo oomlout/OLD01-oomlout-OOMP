@@ -1,5 +1,5 @@
 
-[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/BUTA-12-X-STAN-01/BUTA-12-X-STAN-01_420.jpg|alt=BUTA-12-X-STAN-01]]     
+!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/BUTA-12-X-STAN-01/BUTA-12-X-STAN-01_420.jpg)
 Summary
 =================
   

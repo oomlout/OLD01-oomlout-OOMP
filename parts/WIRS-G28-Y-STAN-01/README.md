@@ -1,5 +1,5 @@
 
-[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/WIRS-G28-Y-STAN-01/WIRS-G28-Y-STAN-01_420.jpg|alt=WIRS-G28-Y-STAN-01]]     
+!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/WIRS-G28-Y-STAN-01/WIRS-G28-Y-STAN-01_420.jpg)
 Summary
 =================
   

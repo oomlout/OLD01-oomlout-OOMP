@@ -1,5 +1,5 @@
 
-[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/RESE-0603-X-O391-01/RESE-0603-X-O391-01_420.jpg|alt=RESE-0603-X-O391-01]]     
+!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/RESE-0603-X-O391-01/RESE-0603-X-O391-01_420.jpg)
 Summary
 =================
   

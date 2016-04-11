@@ -1,5 +1,5 @@
 
-[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/MOSN-SO23-X-A03D-01/MOSN-SO23-X-A03D-01_420.jpg|alt=MOSN-SO23-X-A03D-01]]     
+!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/MOSN-SO23-X-A03D-01/MOSN-SO23-X-A03D-01_420.jpg)
 Summary
 =================
   

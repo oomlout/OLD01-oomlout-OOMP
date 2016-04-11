@@ -1,5 +1,5 @@
 
-[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/CRHO-I01-B-10PI-01/CRHO-I01-B-10PI-01_420.jpg|alt=CRHO-I01-B-10PI-01]]     
+!(https://github.com/oomlout/oomlout-OOMP/blob/master/parts/CRHO-I01-B-10PI-01/CRHO-I01-B-10PI-01_420.jpg)
 Summary
 =================
   
