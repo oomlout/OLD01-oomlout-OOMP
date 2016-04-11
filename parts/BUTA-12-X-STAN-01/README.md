@@ -1,16 +1,16 @@
 
-[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/BUTA-12-X-STAN-01/BUTA-12-X-STAN-01_420.jpg|alt=BUTA-12-X-STAN-01]] 
+[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/BUTA-12-X-STAN-01/BUTA-12-X-STAN-01_420.jpg|alt=BUTA-12-X-STAN-01]]     
 Summary
 =================
-
-Name: __ 12 mm Pushbutton (Tactile) __
-ID: __BUTA-12-X-STAN-01__
-Hex ID: __BT12__
-WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/BUTA-12-X-STAN-01__
-Short URL: __http://oom.lt/BT12__
+  
+Name: __ 12 mm Pushbutton (Tactile) __    
+ID: __BUTA-12-X-STAN-01__   
+Hex ID: __BT12__   
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/BUTA-12-X-STAN-01__   
+Short URL: __http://oom.lt/BT12__   
 
 Full Details
 ==========================
 Full summary of this part can be found in the wiki:   
-__https://github.com/oomlout/oomlout-OOMP/wiki/BUTA-12-X-STAN-01__   
+__https://github.com/oomlout/oomlout-OOMP/wiki/BUTA-12-X-STAN-01__    
 

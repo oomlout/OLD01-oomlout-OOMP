@@ -1,16 +1,16 @@
 
-[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/RESE-0603-X-O331-01/RESE-0603-X-O331-01_420.jpg|alt=RESE-0603-X-O331-01]] 
+[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/RESE-0603-X-O331-01/RESE-0603-X-O331-01_420.jpg|alt=RESE-0603-X-O331-01]]     
 Summary
 =================
-
-Name: __SMD (0603) 330 Ohm Resistor__
-ID: __RESE-0603-X-O331-01__
-Hex ID: __R6331__
-WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O331-01__
-Short URL: __http://oom.lt/R6331__
+  
+Name: __SMD (0603) 330 Ohm Resistor__    
+ID: __RESE-0603-X-O331-01__   
+Hex ID: __R6331__   
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O331-01__   
+Short URL: __http://oom.lt/R6331__   
 
 Full Details
 ==========================
 Full summary of this part can be found in the wiki:   
-__https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O331-01__   
+__https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O331-01__    
 

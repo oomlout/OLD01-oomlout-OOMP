@@ -1,16 +1,16 @@
 
-[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/NHFF-M3-X-12-01/NHFF-M3-X-12-01_420.jpg|alt=NHFF-M3-X-12-01]] 
+[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/NHFF-M3-X-12-01/NHFF-M3-X-12-01_420.jpg|alt=NHFF-M3-X-12-01]]     
 Summary
 =================
-
-Name: __M3 x 12 mm Nylon Standoff (F-F)__
-ID: __NHFF-M3-X-12-01__
-Hex ID: __NFF12__
-WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/NHFF-M3-X-12-01__
-Short URL: __http://oom.lt/NFF12__
+  
+Name: __M3 x 12 mm Nylon Standoff (F-F)__    
+ID: __NHFF-M3-X-12-01__   
+Hex ID: __NFF12__   
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/NHFF-M3-X-12-01__   
+Short URL: __http://oom.lt/NFF12__   
 
 Full Details
 ==========================
 Full summary of this part can be found in the wiki:   
-__https://github.com/oomlout/oomlout-OOMP/wiki/NHFF-M3-X-12-01__   
+__https://github.com/oomlout/oomlout-OOMP/wiki/NHFF-M3-X-12-01__    
 
