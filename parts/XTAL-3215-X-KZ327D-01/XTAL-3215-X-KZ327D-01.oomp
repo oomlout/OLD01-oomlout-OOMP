@@ -2,26 +2,26 @@
     <oompPart>
 
 <com>OOMP Base</com>
-        <oompID>XTAL-5032-X-KS327D-01</oompID>
-        <name> SMD (5032) Crystal </name>
+        <oompID>XTAL-3215-X-KZ327D-01</oompID>
+        <name> SMD (3215) 32.768 kHz Crystal </name>
 
-        <hexID>XS5327D</hexID>
+        <hexID>XZ5327D</hexID>
         <oompSort></oompSort>
 
 		<oompClass>Surface Mount</oompClass>
-		<oompClassCode>SMDS</oompClassCode>		
-		
+		<oompClassCode>SMDS</oompClassCode>
+
         <oompType>XTAL</oompType>
-        <oompSize>5032</oompSize>
+        <oompSize>3215</oompSize>
         <oompColor>X</oompColor>
-        <oompDesc>KS327D</oompDesc>
+        <oompDesc>KZ327D</oompDesc>
         <oompIndex>01</oompIndex>
 
         <oompVersion>40</oompVersion>
 
 
-		
-		
+
+
 <com>Size</com>
         <ooPitch></ooPitch>
         <ooWidth></ooWidth>
@@ -42,7 +42,7 @@
         <ooTolerance></ooTolerance>
 
 
-<com>Source List</com>		
+<com>Source List</com>
 		<sourceList>
 			<manufacturer>
 				<company>Xinhunjing</company>
@@ -50,7 +50,7 @@
 				<name></name>
 				<partID>FC-135</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<manufacturer>
 				<company></company>
@@ -58,17 +58,8 @@
 				<name></name>
 				<partID></partID>
 				<link></link>
-				<note></note>			
-			</manufacturer>
-				
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
 				<note></note>
-			</bigDistributor>					
+			</manufacturer>
 
 			<bigDistributor>
 				<company></company>
@@ -77,10 +68,19 @@
 				<partID></partID>
 				<link><![CDATA[]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>
+
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>
 		</sourceList>
-		
-<com>OPL</com>		
+
+<com>OPL</com>
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
@@ -114,6 +114,6 @@
 				<footprintNote></footprintNote>
 			</footprintSystem>
 		</footprintList>
-    </oompPart>	
-	
+    </oompPart>
+
 </xml>
