@@ -25,7 +25,7 @@ __RESE-W04-X-O561-01__ 1/4 Watt 560 Ohm Resistor HEX: __AE561__
 __RESE-W04-X-O103-01__ 1/4 Watt 10 k Ohm Resistor HEX: __AE103__)
 
 ::::
-^^0,2,%%U%%^^
+^^0,100,%%U%%^^
 ==%%U%%,oompFamily.familyName,familyName==!!%%U%%,oompFamily.familyName,familyName!! - __!!%%U%%,oompFamily.familyHexNameSpaceDisplay,familyHexNameSpaceDisplay!!__~~
 ------------------------------------------------------~~
 | __.:Type:.__ <br /> !!%%U%%,oompFamily.familyType,familyType!! | __.:Size:.__ <br/>  !!%%U%%,oompFamily.familySize,familySize!! | __.:Color:.__ <br/> !!%%U%%,oompFamily.familyColor,familyColor!! | __.:Desc:.__ <br/> !!%%U%%,oompFamily.familyDesc,familyDesc!! | __.:Index:.__ <br/> !!%%U%%,oompFamily.familyIndex,familyIndex!! |~~
