@@ -37,16 +37,16 @@ Specifications
 ---------------------------------    
 | Info | Value |    
 | ----- | ----- |    
-**@1%%ID%%,oompPart.oompID,oompType@1,oompType.code,name**| @@oompType,oompTag.tagName,tagReadable@@ | __@@@1%%ID%%,oompPart.oompID,oompType@1,oompType.code,name@@__ |  
-**@1%%ID%%,oompPart.oompID,oompSize@1,oompSize.code,name**| @@oompSize,oompTag.tagName,tagReadable@@ | __@@@1%%ID%%,oompPart.oompID,oompSize@1,oompSize.code,name@@__ |
-**@1%%ID%%,oompPart.oompID,oompColor@1,oompColor.code,name**| @@oompColor,oompTag.tagName,tagReadable@@ | __@@@1%%ID%%,oompPart.oompID,oompColor@1,oompColor.code,name@@__ |
-**@1%%ID%%,oompPart.oompID,oompDesc@1,oompDesc.code,name**| @@oompDesc,oompTag.tagName,tagReadable@@ | __@@@1%%ID%%,oompPart.oompID,oompDesc@1,oompDesc.code,name@@__ |
-**@1%%ID%%,oompPart.oompID,oompIndex@1,oompIndex.code,name**| @@oompIndex,oompTag.tagName,tagReadable@@ | __@@@1%%ID%%,oompPart.oompID,oompIndex@1,oompIndex.code,name@@__ |
+**@1%%ID%%,oompPart.oompID,oompType@1,oompType.code,name**| @@oompType,oompTag.tagName,tagReadable@@ | @@@1%%ID%%,oompPart.oompID,oompType@1,oompType.code,name@@ |  
+**@1%%ID%%,oompPart.oompID,oompSize@1,oompSize.code,name**| @@oompSize,oompTag.tagName,tagReadable@@ | @@@1%%ID%%,oompPart.oompID,oompSize@1,oompSize.code,name@@ |
+**@1%%ID%%,oompPart.oompID,oompColor@1,oompColor.code,name**| @@oompColor,oompTag.tagName,tagReadable@@ | @@@1%%ID%%,oompPart.oompID,oompColor@1,oompColor.code,name@@ |
+**@1%%ID%%,oompPart.oompID,oompDesc@1,oompDesc.code,name**| @@oompDesc,oompTag.tagName,tagReadable@@ | @@@1%%ID%%,oompPart.oompID,oompDesc@1,oompDesc.code,name@@ |
+**@1%%ID%%,oompPart.oompID,oompIndex@1,oompIndex.code,name**| @@oompIndex,oompTag.tagName,tagReadable@@ | @@@1%%ID%%,oompPart.oompID,oompIndex@1,oompIndex.code,name@@ |
 ::::
 ^^10,50,%%U%%^^
 **%%ID%%,oompPart.oompID,!!%%U%%,oompTag.tagName,tagName!!**
 >>,!!%%U%%,oompTag.tagName,tagReadable!!,
-~~| !!%%U%%,oompTag.tagName,tagReadable!! | __@@%%ID%%,oompPart.oompID,!!%%U%%,oompTag.tagName,tagName!!@@__ | >>
+~~| !!%%U%%,oompTag.tagName,tagReadable!! | @@%%ID%%,oompPart.oompID,!!%%U%%,oompTag.tagName,tagName!!@@ | >>
 ;;;;    
 
 
