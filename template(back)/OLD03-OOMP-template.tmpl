@@ -1,0 +1,60 @@
+## PROJ - Template
+## Template for creating a page for a product (given 4 letter ID and directory)
+
+
+
+<html>
+
+@@%%ID%%,oompPart.oompID,name@@
+<br>
+$$%%ID%%.jpg$$<img src="http://oomlout.com/oomp-gen/parts/%%ID%%/%%ID%%.jpg" width="450px" height="*">
+<br>
+@@%%ID%%,oompPart.oompID,name@@
+<br>
+
+
+@@oompType,oompTag.tagName,tagReadable@@  --->  @@@1%%ID%%,oompPart.oompID,oompType@1,oompType.code,name@@<br>
+@@oompSize,oompTag.tagName,tagReadable@@  --->  @@@1%%ID%%,oompPart.oompID,oompSize@1,oompSize.code,name@@<br>
+@@oompColor,oompTag.tagName,tagReadable@@  --->  @@@1%%ID%%,oompPart.oompID,oompColor@1,oompColor.code,name@@<br>
+@@oompDesc,oompTag.tagName,tagReadable@@  --->  @@@1%%ID%%,oompPart.oompID,oompDesc@1,oompDesc.code,name@@<br>
+**@1%%ID%%,oompPart.oompID,oompIndex@1,oompIndex.code,name**@@oompIndex,oompTag.tagName,tagReadable@@  --->  @@@1%%ID%%,oompPart.oompID,oompIndex@1,oompIndex.code,name@@<br>
+
+^^10,45,%%U%%^^**%%ID%%,oompPart.oompID,!!%%U%%,oompTag.tagName,tagName!!**!!%%U%%,oompTag.tagName,tagReadable!! ---> @@%%ID%%,oompPart.oompID,!!%%U%%,oompTag.tagName,tagName!!@@<br>
+<br>
+.:oomp ID:.<br>
+%%ID%%<br>
+.:shortlink:.<br>
+<a href="http://oom.lt/@@%%ID%%,oompPart.oompID,hexID@@">http://oom.lt/@@%%ID%%,oompPart.oompID,hexID@@</a><br>
+<br>
+**%%ID%%,oompPart.oompID,oompAbout**About<br>
+**%%ID%%,oompPart.oompID,oompAbout**@@%%ID%%,oompPart.oompID,oompAbout@@<br>
+**%%ID%%,oompPart.oompID,oompAbout**<br>
+
+
+
+
+
+
+
+----------------------------------------------
+<br><br>
+@@%%ID%%,oompPart.oompID,name@@
+<br>
+!!0,oompTag.tagName,tagReadable!! ---> @@%%ID%%,oompPart.oompID,!!0,oompTag.tagName,tagName!!@@
+<br>
+!!1,oompTag.tagName,tagReadable!! ---> @@%%ID%%,oompPart.oompID,!!1,oompTag.tagName,tagName!!@@
+<br>
+
+
+
+^^0,100,%%U%%^^**%%ID%%,oompPart.oompID,!!%%U%%,oompTag.tagName,tagName!!**  %%U%%    !!%%U%%,oompTag.tagName,tagReadable!! ---> @@%%ID%%,oompPart.oompID,!!%%U%%,oompTag.tagName,tagName!!@@<br>
+
+
+
+!!0,oompTag.tagName,tagName!! 
+<br>
+!!1,oompTag.tagName,tagName!! 
+<br>
+!!989,oompTag.tagName,tagName!! 
+
+</html>

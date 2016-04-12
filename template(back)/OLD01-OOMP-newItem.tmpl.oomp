@@ -1,0 +1,231 @@
+<xml>
+    <oompPart>
+        <index>!!0,newOOMP.index,index!!</index>
+
+<com>OOMP Base</com>
+        <oompID>!!0,newOOMP.oompType,oompType!!-!!0,newOOMP.oompSize,oompSize!!-!!0,newOOMP.oompColor,oompColor!!-!!0,newOOMP.oompDesc,oompDesc!!-!!0,newOOMP.oompIndex,oompIndex!!</oompID>
+        <name> @1!!0,newOOMP.oompType,oompSize!!,oompSize.code,name@1>>,@2!!0,newOOMP.oompType,oompSize!!,oompSize.code,name@2, >>@3!!0,newOOMP.oompType,oompDesc!!,oompDesc.code,name@3>>,@4!!0,newOOMP.oompType,oompDesc!!,oompDesc.code,name@4, >>@5!!0,newOOMP.oompType,oompColor!!,oompColor.code,name@5>>,@6!!0,newOOMP.oompType,oompColor!!,oompColor.code,name@6, >>@7!!0,newOOMP.oompType,oompType!!,oompType.code,name@7>>,@8!!0,newOOMP.oompType,oompType!!,oompType.code,name@8, >>@1!!0,newOOMP.oompType,oompIndex!!,oompIndex.code,name@1>>,@2!!0,newOOMP.oompType,oompIndex!!,oompIndex.code,name@2, >></name>
+        <hexID>!!0,newOOMP.index,hexID!!</hexID>
+        <oompSort>!!0,newOOMP.oompType,oompSort!!</oompSort>
+        <oompType>!!0,newOOMP.oompType,oompType!!</oompType>
+        <oompSize>!!0,newOOMP.oompType,oompSize!!</oompSize>
+        <oompColor>!!0,newOOMP.oompType,oompColor!!</oompColor>
+        <oompDesc>!!0,newOOMP.oompType,oompDesc!!</oompDesc>
+        <oompIndex>!!0,newOOMP.oompType,oompIndex!!</oompIndex>
+        <oompOwner>!!0,newOOMP.oompType,oompOwner!!</oompOwner>
+        <oompVersion>!!0,newOOMP.oompType,oompVersion!!</oompVersion>
+
+		<oompClass>!!0,newOOMP.oompType,oompClass!!</oompClass>
+		<oompClassCode>!!0,newOOMP.oompType,oompClassCode!!</oompClassCode>			
+		
+		
+<com>Size</com>
+        <ooPitch>!!0,newOOMP.oompType,ooPitch!!</ooPitch>
+        <ooWidth>!!0,newOOMP.oompType,ooWidth!!</ooWidth>
+        <ooHeight>!!0,newOOMP.oompType,ooHeight!!</ooHeight>
+        <ooDiameter>!!0,newOOMP.oompType,ooDiameter!!</ooDiameter>
+        <ooLength>!!0,newOOMP.oompType,ooLength!!</ooLength>
+        <ooDepth>!!0,newOOMP.oompType,ooDepth!!</ooDepth>
+
+<com>Description</com>
+        <ooMaterial>!!0,newOOMP.oompType,ooMaterial!!</ooMaterial>
+        <ooNumPins>!!0,newOOMP.oompType,ooNumPins!!</ooNumPins>
+        <ooTerminalStyle></ooTerminalStyle>
+        <ooPowerRating></ooPowerRating>
+
+<com>Hardware</com>
+        <ooHeadStyle></ooHeadStyle>
+        <ooWrenchSize></ooWrenchSize>
+
+<com>Maximums</com>
+        <ooMaxCurrent>!!0,newOOMP.oompType,ooMaxCurrent!!</ooMaxCurrent>
+        <ooMaxVoltage>!!0,newOOMP.oompType,ooMaxVoltage!!</ooMaxVoltage>
+        <ooLifetime>!!0,newOOMP.oompType,ooLifetime!!</ooLifetime>
+        <ooTolerance>!!0,newOOMP.oompType,ooTolerance!!</ooTolerance>
+
+<com>Heat Shrink</com>
+        <ooShrinkRatio></ooShrinkRatio>
+
+<com>LED</com>
+        <ooLensColor></ooLensColor>
+        <ooForwardVoltage></ooForwardVoltage>
+        <ooForwardCurrent></ooForwardCurrent>
+        <ooIntensity></ooIntensity>
+        <ooPowerAngle></ooPowerAngle>
+        <ooWavelength></ooWavelength>
+        <ooChromaticityX></ooChromaticityX>
+        <ooChromaticityY></ooChromaticityY>
+
+<com>Plug</com>
+        <ooPlugID></ooPlugID>
+        <ooPlugOD></ooPlugOD>
+        <ooPlugLength></ooPlugLength>
+
+<com>Source List</com>		
+		<sourceList>
+			<manufacturer>
+				<company>!!0,newOOMP.oompType,manufacturerCompany1!!</company>
+				<companyCode>!!0,newOOMP.oompType,manufacturerCompanyCode1!!</companyCode>
+				<name></name>
+				<partID>!!0,newOOMP.oompType,manufacturerPartID1!!</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company>!!0,newOOMP.oompType,manufacturerCompany2!!</company>
+				<companyCode>!!0,newOOMP.oompType,manufacturerCompanyCode2!!</companyCode>
+				<name></name>
+				<partID>!!0,newOOMP.oompType,manufacturerPartID2!!</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+				
+			<bigDistributor>
+				<company>!!0,newOOMP.oompType,bigDistributorCompany1!!</company>
+				<companyCode>!!0,newOOMP.oompType,bigDistributorCompanyCode1!!</companyCode>
+				<name>!!0,newOOMP.oompType,bigDistributorName1!!</name>
+				<partID>!!0,newOOMP.oompType,bigDistributorPartID1!!</partID>
+				<link><![CDATA[!!0,newOOMP.oompType,bigDistributorLink1!!]]></link>
+				<note></note>
+			</bigDistributor>					
+
+			<bigDistributor>
+				<company>!!0,newOOMP.oompType,bigDistributorCompany2!!</company>
+				<companyCode>!!0,newOOMP.oompType,bigDistributorCompanyCode2!!</companyCode>
+				<name>!!0,newOOMP.oompType,bigDistributorName2!!</name>
+				<partID>!!0,newOOMP.oompType,bigDistributorPartID2!!</partID>
+				<link><![CDATA[!!0,newOOMP.oompType,bigDistributorLink2!!]]></link>
+				<note></note>
+			</bigDistributor>					
+			<bigDistributor>
+				<company>!!0,newOOMP.oompType,bigDistributorCompany3!!</company>
+				<companyCode>!!0,newOOMP.oompType,bigDistributorCompanyCode3!!</companyCode>
+				<name>!!0,newOOMP.oompType,bigDistributorName3!!</name>
+				<partID>!!0,newOOMP.oompType,bigDistributorPartID3!!</partID>
+				<link><![CDATA[!!0,newOOMP.oompType,bigDistributorLink3!!]]></link>
+				<note></note>
+			</bigDistributor>					
+			<bigDistributor>
+				<company>!!0,newOOMP.oompType,bigDistributorCompany4!!</company>
+				<companyCode>!!0,newOOMP.oompType,bigDistributorCompanyCode4!!</companyCode>
+				<name>!!0,newOOMP.oompType,bigDistributorName4!!</name>
+				<partID>!!0,newOOMP.oompType,bigDistributorPartID4!!</partID>
+				<link><![CDATA[!!0,newOOMP.oompType,bigDistributorLink4!!]]></link>
+				<note></note>
+			</bigDistributor>					
+		</sourceList>
+		
+<com>OPL</com>		
+		<oplList>
+			<oplSystem>
+				<oplScheme>!!0,newOOMP.oompType,oplScheme1!!</oplScheme>
+				<oplCode>!!0,newOOMP.oompType,oplCode1!!</oplCode>
+				<oplName>!!0,newOOMP.oompType,oplName1!!</oplName>
+				<oplID>!!0,newOOMP.oompType,oplID1!!</oplID>
+				<oplFootprint>!!0,newOOMP.oompType,oplFootprint1!!</oplFootprint>
+				<oplPackage>!!0,newOOMP.oompType,oplPackage1!!</oplPackage>
+				<oplLink><![CDATA[!!0,newOOMP.oompType,oplLink1!!]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme>!!0,newOOMP.oompType,oplScheme2!!</oplScheme>
+				<oplCode>!!0,newOOMP.oompType,oplCode2!!</oplCode>
+				<oplName>!!0,newOOMP.oompType,oplName2!!</oplName>
+				<oplID>!!0,newOOMP.oompType,oplID2!!</oplID>
+				<oplFootprint>!!0,newOOMP.oompType,oplFootprint2!!</oplFootprint>
+				<oplPackage>!!0,newOOMP.oompType,oplPackage2!!</oplPackage>
+				<oplLink><![CDATA[!!0,newOOMP.oompType,oplLink2!!]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme>!!0,newOOMP.oompType,oplScheme3!!</oplScheme>
+				<oplCode>!!0,newOOMP.oompType,oplCode3!!</oplCode>
+				<oplName>!!0,newOOMP.oompType,oplName3!!</oplName>
+				<oplID>!!0,newOOMP.oompType,oplID3!!</oplID>
+				<oplFootprint>!!0,newOOMP.oompType,oplFootprint3!!</oplFootprint>
+				<oplPackage>!!0,newOOMP.oompType,oplPackage3!!</oplPackage>
+				<oplLink><![CDATA[!!0,newOOMP.oompType,oplLink3!!]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme>!!0,newOOMP.oompType,oplScheme4!!</oplScheme>
+				<oplCode>!!0,newOOMP.oompType,oplCode4!!</oplCode>
+				<oplName>!!0,newOOMP.oompType,oplName4!!</oplName>
+				<oplID>!!0,newOOMP.oompType,oplID4!!</oplID>
+				<oplFootprint>!!0,newOOMP.oompType,oplFootprint4!!</oplFootprint>
+				<oplPackage>!!0,newOOMP.oompType,oplPackage4!!</oplPackage>
+				<oplLink><![CDATA[!!0,newOOMP.oompType,oplLink4!!]]></oplLink>
+			</oplSystem>
+		</oplList>
+
+<com>Hidden</com>
+        <oompAbout></oompAbout>
+        <ooProjectName1></ooProjectName1>
+        <ooProjectDesc1></ooProjectDesc1>
+        <ooProjectLink1></ooProjectLink1>
+        <ooProjectType1></ooProjectType1>
+        <ooBuyName1></ooBuyName1>
+        <ooBuyDesc1></ooBuyDesc1>
+        <ooBuyLink1></ooBuyLink1>
+        <ooBuyType1></ooBuyType1>
+
+	<com>Footprint</com>
+		<footprintList>
+			<footprintSystem>
+				<footprintScheme>Eagle Default</footprintScheme>
+				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+			<footprintSystem>
+				<footprintScheme>Kicad Default</footprintScheme>
+				<footprintSchemeCode>C-KICA</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+			<footprintSystem>
+				<footprintScheme>Adafruit</footprintScheme>
+				<footprintSchemeCode>C-ADAF</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+			<footprintSystem>
+				<footprintScheme>Dangerous Prototypes</footprintScheme>
+				<footprintSchemeCode>C-DPDP</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+			<footprintSystem>
+				<footprintScheme>OOMP</footprintScheme>
+				<footprintSchemeCode>C-OOMP</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+			<footprintSystem>
+				<footprintScheme>SEEED Studio</footprintScheme>
+				<footprintSchemeCode>C-SEEE</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+			<footprintSystem>
+				<footprintScheme>Sparkfun</footprintScheme>
+				<footprintSchemeCode>C-SPAR</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+		</footprintList>
+    </oompPart>	
+	
+</xml>

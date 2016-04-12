@@ -1,0 +1,279 @@
+## OOMP - Template
+## OOMP Part Template
+
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="http://www.oomlout.com/oomp.css" />
+</head>
+<body>
+		<div id="oompMain">
+		<center>
+		<table>
+		<tr>
+		<td class="oompReverseColors" width="720px" height="100px">
+		<center><strong>OOMP INDEXES</strong><br><a href="start"><span class="oompLink">.:Index:.</span></a>&nbsp;&nbsp;&nbsp;<a href="partimageindex"><span class="oompLink">.:Image Index:.</span></a>&nbsp;&nbsp;&nbsp;<a href="familyindex"><span class="oompLink">.:Families:.</span></a></span>
+		<center><strong>OOMP EXPLAINED</strong><br><a href="idexplained"><span class="oompLink">.:ID Described:.</span></a>&nbsp;&nbsp;&nbsp;<a href="idcode"><span class="oompLink">.:ID Codes Described:.</span></a>&nbsp;&nbsp;&nbsp;<a href="tagindex"><span class="oompLink">.:Tags Described:.</span></a></center>
+		</td>
+		</tr>
+		</table>
+		</center>
+		<br>
+		<table><tr><td>
+			<table>
+				<tr>
+					<td width="420px">
+<!--Begin image area-->
+						<table>
+							<tr>
+								<td colspan="3">
+									<a id="oompImageLink" href="%%ID%%.jpg">
+										<img id="oompImage" src="%%ID%%.jpg" width="420px" height="280"  onerror="this.src='http://oomlout.com/oomp-gen/oompNoImage.png';">
+									</a>
+								</td>
+							</tr>
+							<tr>
+								<td width="140px">
+								
+									<a href='#' onclick='document.getElementById("oompImage").src="%%ID%%.jpg";document.getElementById("oompImageLink").href="%%ID%%.jpg"; return false;' >
+										<img src="%%ID%%.jpg" width="140px" height="94" onerror="this.src='http://oomlout.com/oomp-gen/oompnoImage.png';">
+									</a>
+									
+								</td>
+								
+								<td width="140px">
+									<a href='#' onclick='document.getElementById("oompImage").src="%%ID%%_RE.jpg";document.getElementById("oompImageLink").href="%%ID%%_RE.jpg"; return false;' >
+										<img src="%%ID%%_RE.jpg" width="140px" height="94"  onerror="this.src='http://oomlout.com/oomp-gen/oompwhiteSquare.png';">
+									</a>
+								</td>
+								
+								<td width="140px">
+									<a href='#' onclick='document.getElementById("oompImage").src="%%ID%%_BOTTOM.jpg";document.getElementById("oompImageLink").href="%%ID%%_BOTTOM.jpg"; return false;' >
+										<img src="%%ID%%_BOTTOM.jpg" width="140px" height="94"  onerror="this.src='http://oomlout.com/oomp-gen/oompwhiteSquare.png';">
+									</a>
+								</td>							</tr>							
+						</table>	
+<!--End image area-->
+					</td>
+					<td width="280px">
+						<table>
+							<tr>
+								<td>
+									<table>
+										<tr >
+											<td height="100px" width="280px" class="oompReverseColors">
+												<span class="oompDescText"><center>@@oompPart.oompID,name@@</center></span>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+							<tr>
+								<td><!-- label table starts here -->
+									<table>
+**%%ID%%,oompPart.oompColor**@@%%ID%%,oompPart.oompID,oompColor@@<br>
+**%%ID%%,oompPart.ooPitch**@@@@%%ID%%,oompPart.oompID,ooPitch@@<br>
+**%%ID%%,oompPart.ooDepth**@@oompPart.ooDepth@@<br>
+!!oompTag.tagName=oompColor=tagReadable!!
+									</table>
+									<!-- end of label table-->
+								</td>
+							</tr>
+							<tr>
+								<td class="oompLink">
+									<center>
+									.:OOMP Link:.<br>
+									<a href="@@oompBasics.shortURL@@/%%ID%%"><span  class="oompLink">@@oompBasics.shortURL@@<br><b>%%ID%%</b></span></a>
+									</center>
+									<center>
+									.:shortlink:.<br>
+									<a href="%shortlink"><span  class="oompLink">@@oompBasics.shortURL@@<b>/@@oompPart.hexID@@</b></span></a>
+									</center>
+								</td>
+							</tr>					
+						</table>	
+					</td>
+				</tr>
+			</table>
+		</td></tr><tr><td>
+		<center>
+		<table><!--Begin info area-->
+			<tr>
+				<td class="oompTitle2" width="700px">
+					About:
+				</td>
+			</tr>
+			<tr>
+				<td class="oompText" width="700px">
+					<br>@@oompPart.oompAbout@@<br><br>
+				</td>
+			</tr>
+			<tr>
+				<td class="oompTitle2" width="700px">
+					Projects That Use It:
+				</td>
+			</tr>
+			<tr>
+				<td class="oompText" width="700px">
+					<br>@@oompPart.ooProjectDesc1@@<br><br>		
+				</td>
+			</tr>
+			<tr>
+				<td class="oompTitle2" width="700px">
+					Where To Buy It:
+				</td>
+			</tr>
+			<tr>
+				<td class="oompText" width="700px">
+					<br>@@oompPart.ooooBuyDesc1@@<br><br>		
+				</td>
+			</tr>
+			<tr><td>&nbsp;</td></tr>
+			<tr>
+				<td class="oompTitle2" width="700px">
+					Resources:
+				</td>
+			</tr>
+			<tr>
+				<td>
+				<span class="oompResourceTable">
+					<table width="700px">
+						<tr class="oompResourceTitle">
+						<td  width="117px">
+							<center><a href="http://wwwoomlout.com/oom.php/oomp/"><span class="oompResourceTitle">.:Datasheet:.<br>?<br><br></span></a></center>
+						</td>
+						<td width="117px">
+							<center><a href="http://wwwoomlout.com/oom.php/oomp/"><span class="oompResourceTitle">.:Images:.<br>?<br><br></span></a></center>
+						</td>
+						<td width="117px">
+							<center><a href="http://wwwoomlout.com/oom.php/oomp/"><span class="oompResourceTitle">.:PCB:.<br>?<br><br></span></a></center>
+						</td>
+						
+						<td width="117px">
+							<center><a href="http://wwwoomlout.com/oom.php/oomp/"><span class="oompResourceTitle">.:Diagram:.<br>?<br><br></span></a></center>
+						</td>
+						
+						
+						<td width="117px">
+							<center><a href="http://wwwoomlout.com/oom.php/oomp/"><span class="oompResourceTitle">.:3D:.<br>?<br><br></span></a></center>
+						</td>
+						
+						<td width="117px">
+							<center><a href="http://wwwoomlout.com/oom.php/oomp/"><span class="oompResourceTitle">.:Labels:.<br>?<br><br></span></a></center>
+						</td>
+						</tr>
+						<tr class="oompResourceText"> 
+						<td style="vertical-align:top">
+							<br>
+							<center>
+							Manufacturer's<br>
+							(<a href="%ManufacturerDatasheetPDF">pdf</a>)
+							<br><br>
+							
+							XML Metadata<br>
+							(<a href="https://github.com/oomlout/oomp-src/tree/master/parts/%%ID%%/%%ID%%.oomp">oomp</a>)
+							<br><br>
+							All files<br>
+							(<a href="%%ID%%.zip">zip</a>)
+							</center>
+						</td>
+						<td style="vertical-align:top">
+							<br>
+							<center>
+							Hi-Resolution<br>
+							(<a href="http://www.flickr.com/search/?w=33504192@N00&q=%%ID%%">flickr</a>)<br><br>	
+							Image Files<br>
+							(<a href="%%ID%%-images.zip">zip</a>)<br>						
+							</center>
+						</td>
+						<td style="vertical-align:top">
+							<br>
+							<center>
+							Complete OOMP<br>Footprint<br>Library<br>
+							(<a href="http://oomlout.com/oomp-gen/parts/eagle.zip">eagle</a>)<br>
+							(<a href="http://oomlout.com/oomp-gen/parts/kicad.zip">kicad</a>)<br>
+							</center>
+						</td>
+						<td style="vertical-align:top">
+							<br>
+							<center>
+							Breadboard Diagram<br>
+							<a href="%%ID%%-bbls.png">
+							<center><img width="90px" height="*" src="%%ID%%-bbls_90.png" onerror="this.src='http://oomlout.com/oomp-gen/oompNoImage.png';"></center><br>
+							</a>
+							<br>Schematic Diagram<br>
+							<a href="%%ID%%-schem.png">
+							<center><center><img width="90px" height="*" src="%%ID%%-schem_90.png" onerror="this.src='http://oomlout.com/oomp-gen/oompNoImage.png';"></center><br></center><br>
+							</a>
+							</center>
+						</td>
+						<td style="vertical-align:top">
+							<br>
+							<center>
+							3D Model<br>
+							<a href="%%ID%%-3d.png">
+							<center><center><img width="90px" height="*" src="%%ID%%-3d_140.png" onerror="this.src='http://oomlout.com/oomp-gen/oompNoImage.png';"></center><br></center><br>
+							</a>
+							</center>
+						</td>
+						<td style="vertical-align:top">
+							<br>
+							<center>
+							Specifications<br>
+							(<a href="%%ID%%-label-back.svg">svg</a>)
+							(<a href="%%ID%%-label-back.pdf">pdf</a>)
+							<br><br>
+							Retail<br>
+							(<a href="%%ID%%-label-front.svg">svg</a>)
+							(<a href="%%ID%%-label-back.pdf">pdf</a>)
+							<br><br>
+							Inventory<br>
+							(<a href="%%ID%%-label-inventory.svg">svg</a>)
+							(<a href="%%ID%%-label-inventory.pdf">pdf</a>)
+							<br>
+							</center>
+						</td>
+						</tr>
+					</table>		
+				</span>
+				</td>
+			</tr>
+			<tr>
+				<td class="oompTitle2" width="700px">
+					Other Suppliers:
+				</td>
+			</tr>
+			<tr>
+				<td>
+				<span class="oompResourceTable">
+					<table width="700px">
+						<tr class="oompResourceTitle">
+						<td  width="150px">
+							<center><span class="oompResourceTitle">.:Supplier:.</span><br><br></center>
+						</td>
+						<td width="200px">
+							<center><span class="oompResourceTitle">.:Part number:.</span><br><br></center>
+						</td>
+						<td  width="150px">
+							<center><span class="oompResourceTitle">.:Supplier:.</span><br><br></center>
+						</td>
+						<td width="200px">
+							<center><span class="oompResourceTitle">.:Part number:.</span><br><br></center>
+						</td>
+						</tr>
+						<td  width="150px">
+							<center></center>
+						</td>
+						<td width="200px">
+							<center></center>
+						</td>	
+					</table>		
+				</span>
+				</td>
+			</tr>
+		</table>
+		</center>
+		</td></tr></table>		
+		</div>
+	</body>
+</html>  
+

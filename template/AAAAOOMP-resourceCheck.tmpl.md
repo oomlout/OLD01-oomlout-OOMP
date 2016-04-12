@@ -1,0 +1,11 @@
+Resource Check
+===========================
+A table showing what part has what resource. (MISS - Missing)
+	
+| __.:Part ID:.__ | __.:Name:.__ | __.:Hex<br>Code:.__ | __Image__ | __Reference<br>Image__ | __Bottom<br>Image__ | __Image 01__ | __Image 02__ | __About__ | __Common Use__ | __Datasheet__ | __Breadboard<br>Diagram__ | __Schematic__ | __Distributors__ | __Manufacturers__ | __OPL__ |
+| --------------- | ------------ | ------------------- | --------- | ---------------------- | ------------------- | ------------ | ------------ | --------- | -------------- | ------------- | ------------------------- | ------------- | ---------------- | ----------------- | ------- |
+::::^^0,1000,%%U%%^^==%%U%%,oompPart.oompID,oompID==| 1__[http://learn.oomlout.co.uk/OO/Projects/oomp/part/!!%%U%%,oompPart.oompID,oompID!! !!%%U%%,oompPart.oompID,oompID!!]__ | 2__[http://learn.oomlout.co.uk/OO/Projects/oomp/part/!!%%U%%,oompPart.oompID,oompID!! !!%%U%%,oompPart.oompID,name!!] | 3__[http://learn.oomlout.co.uk/OO/Projects/oomp/part/!!%%U%%,oompPart.oompID,oompID!! !!%%U%%,oompPart.oompID,hexID!!]__ |  4__(*!!%%U%%,oompPart.oompID,oompID!!/!!%%U%%,oompPart.oompID,oompID!!.jpg,,MISS(*__| 5__(*!!%%U%%,oompPart.oompID,oompID!!/!!%%U%%,oompPart.oompID,oompID!!_RE.jpg,,MISS(*__ | 6__(*!!%%U%%,oompPart.oompID,oompID!!/!!%%U%%,oompPart.oompID,oompID!!_BOTTOM.jpg,,MISS(*__| 7__(*!!%%U%%,oompPart.oáompID,oompID!!/!!%%U%%,oompPart.oompID,oompID!!_01.jpg,,MISS(*__ | 8__(*!!%%U%%,oompPart.oompID,oompID!!/!!%%U%%,oompPart.oompID,oompID!!_02.jpg,,MISS(*__ | 9__<<!!%%U%%,oompPart.oompID,oompAbout!!,,MISS<< __ | 10__ <<@@!!%%U%%,oompPart.oompID,oompID!!,oompPart.oompID,usageList.useItem.useTitle&&0&&@@,,MISS<<__ | 11__(*!!%%U%%,oompPart.oompID,oompID!!/!!%%U%%,oompPart.oompID,oompID!!-datasheet.pdf,,MISS(*__| 12__(*!!%%U%%,oompPart.oompID,oompID!!/!!%%U%%,oompPart.oompID,oompID!!-bbls.cdr,,MISS(*__ | 13__(*!!%%U%%,oompPart.oompID,oompID!!/!!%%U%%,oompPart.oompID,oompID!!-schem.cdr,,MISS(*__ | 14__ <<@@!!%%U%%,oompPart.oompID,oompID!!,oompPart.oompID,sourceList.bigDistributor.companyCode&&0&&@@,,MISS<< __ | 15__<<@@!!%%U%%,oompPart.oompID,oompID!!,oompPart.oompID,sourceList.manufacturer.companyCode&&0&&@@,,MISS<< __ | 16__ <<@@!!%%U%%,oompPart.oompID,oompID!!,oompPart.oompID,oplList.oplSystem.oplCode&&0&&@@,,MISS<< __ | 13 |
+~~
+;;;;
+
+@@bottomText,oompBasic.type,value@@
