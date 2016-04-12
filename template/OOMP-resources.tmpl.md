@@ -26,7 +26,7 @@ Diagram
 |  Breadboard Layout | %%ID%%-bbls.(.cdr, .pdf, .png, .svg) | Diagram to scale for how it looks plugged into a bradboard. Can be used to make easy to follow breadboard diagrams. |
 |  Schematic Diagram | %%ID%%_schem.(.cdr, .pdf,  .png, .svg) | Diagram used for drawing a schematic in an illustrating program. All parts scaled to fit together on a 10x10 mm grid) |
 |  Simple Diagram | %%ID%%_simpl.(.cdr, .pdf,  .png, .svg) | Diagram used for drawing a board layout with components on it. The only text is a short link to the parts wiki page. All text is within the boundaries of the part (ie. no overlap) |
-|  Identification | %%ID%%_iden.(.cdr, .pdf,  .png, .svg) | Drawing of what the part looks like on a board (ie . with package markings) |
+|  Identification | %%ID%%_iden.(.cdr, .pdf,  .png, .svg) | Diagram for drawing a board with designators (ie. R1 U1 etc.) |
 
 3D
 --------------------------
@@ -43,10 +43,11 @@ Diagram
 Label
 -----------------------------------
 
-| Resource | Filename | Description | 
-| -------- | -------- | ----------- |
-|  Specification Label | %%ID%%-label-back.(.pdf, .svg) | Label with main specifications on it. |
-|  Retail Label | %%ID%%-label-front.(.pdf, .svg) | Label with a rendering of the part, OOMP details, and links. |
-|  Inventory Label | %%ID%%_inventory.(pdf,svg) | Label for keeping inventory, on a shelf. Includes name, OOMP details etc. |
+| Resource | Filename | Description | Size |
+| -------- | -------- | ----------- | ---- |
+|  Specification Label | %%ID%%-label-back.(.pdf, .svg) | Label with main specifications on it. | 76 x 52 mm |
+|  Retail Label | %%ID%%-label-front.(.pdf, .svg) | Label with a rendering of the part, OOMP details, and links. | 76 x 52 mm |
+|  Inventory Label | %%ID%%_inventory.(pdf,svg) | Label for keeping inventory, on a shelf. Includes name, OOMP details etc. | 76 x 52 mm |
+|  SMD Box | %%ID%%_smdBox.(pdf,svg) | Label for putting on standard SMD pillbox's | 18 x 18 mm |
 
 @@bottomText,oompBasic.type,value@@

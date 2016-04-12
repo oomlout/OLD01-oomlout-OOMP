@@ -2,19 +2,19 @@
     <oompPart>
 
 <com>OOMP Base</com>
-        <oompID>XTAL-3215-X-MZ16-01</oompID>
-        <name>SMD (3215) 16 MHz Crystal</name>
+        <oompID>CERE-1263-X-MZ12-01</oompID>
+        <name>SMD (1206-3) 12 MHz Ceramic Resonator</name>
 
-        <hexID>X3M16</hexID>
+        <hexID>CR16312</hexID>
         <oompSort></oompSort>
 
 		<oompClass>Surface Mount</oompClass>
 		<oompClassCode>SDMS</oompClassCode>		
 		
-        <oompType>XTAL</oompType>
-        <oompSize>3215</oompSize>
+        <oompType>CERE</oompType>
+        <oompSize>1263</oompSize>
         <oompColor>X</oompColor>
-        <oompDesc>MZ16</oompDesc>
+        <oompDesc>MZ12</oompDesc>
         <oompIndex>01</oompIndex>
 
         <oompVersion>99</oompVersion>
@@ -24,10 +24,10 @@
 		
 <com>Size</com>
         <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
+        <ooWidth>3.2 mm</ooWidth>
+        <ooHeight>0.9 mm</ooHeight>
         <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
+        <ooLength>1.3 mm</ooLength>
         <ooDepth></ooDepth>
 
 <com>Description</com>
