@@ -3,6 +3,7 @@ OOMP Index
 =========================   
 Below is a list of OOMP Parts, organized by type.   
 
+@@oompIndexNavigation,oompBasic.type,value@@   
 
 ::::
 ^^0,100,%%U%%^^

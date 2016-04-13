@@ -8,8 +8,9 @@ Name: __@@%%ID%%,oompProject.oompID,name@@__<br>
 ID: __@@%%ID%%,oompProject.oompID,oompID@@__<br>
 Hex ID: __@@%%ID%%,oompProject.oompID,hexID@@__<br>
 Official WebPage: __@@%%ID%%,oompProject.oompID,oompOfficialLink@@__<br>
+OOMP WebPage: __[Github Wiki](https://github.com/oomlout/oomlout-OOMP/wiki//%%ID%%)__<br>
 Short URL: __http://oom.lt/@@%%ID%%,oompProject.oompID,hexID@@__<br>
-Revision History: __[Github]([https://github.com/oomlout/oomlout-OOMP/master/projects/%%ID%%)__<br>
+Revision History: __[Github](https://github.com/oomlout/oomlout-OOMP/master/projects/%%ID%%)__<br>
 Images
 -------------------------
 $$%%ID%%.jpg$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%_140.jpg]]
@@ -51,7 +52,7 @@ __[(svg)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%
 ::::
 ^^0,200,%%T%%^^
 **%%ID%%,oompProject.oompID,componentList.component.compIndex&&%%T%%&&**
-| [[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/@@%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@@/@@%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@@_140.jpg]] | @@%%ID%%,oompProject.oompID,componentList.component.compIden&&%%T%%&&@@ | [@@%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@@<br>__@3@2%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@2,oompPart.oompID,hexID@3](https://github.com/oomlout/oomlout-OOMP/wiki/@@%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@@)__ | [@3@2%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@2,oompPart.oompID,name@3](https://github.com/oomlout/oomlout-OOMP/wiki/@@%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@@) | @@%%ID%%,oompProject.oompID,componentList.component.compWhy&&%%T%%&&@@|~~
+| oompProject.oompID,componentList.component.compID&&%%T%%&&@@_140.jpg]] | @@%%ID%%,oompProject.oompID,componentList.component.compIden&&%%T%%&&@@,&nbsp; | [@@%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@@<br>__@3@2%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@2,oompPart.oompID,hexID@3](https://github.com/oomlout/oomlout-OOMP/wiki/@@%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@@__) | [@3@2%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@2,oompPart.oompID,name@3](https://github.com/oomlout/oomlout-OOMP/wiki/@@%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@@) | @@%%ID%%,oompProject.oompID,componentList.component.compWhy&&%%T%%&&@@|~~
 ;;;;
 
 Source Files  
@@ -80,7 +81,7 @@ Manufacturers
 **%%ID%%,oompProject.oompID,sourceList.manufacturer.company&&0&&**| ---------------- | --------------- | --------------- | --------------------------- | -------------------------- |
 ::::
 ^^0,12,%%T%%^^**%%ID%%,oompProject.oompID,sourceList.manufacturer.company&&%%T%%&&**
-| @@%%ID%%,oompProject.oompID,sourceList.manufacturer.company&&%%T%%&&@@ | @3%%ID%%,oompProject.oompID,sourceList.manufacturer.partID&&%%T%%&&@3 | @@%%ID%%,oompProject.oompID,sourceList.manufacturer.name&&%%T%%&&@@ | __[(O)](http://octopart.com/partsearch#!?q=%22@3%%ID%%,oompProject.oompID,sourceList.manufacturer.partID&&%%T%%&&@3%22) &nbsp;[(P)](http://parts.io/search/term-@@%%ID%%,oompProject.oompID,sourceList.manufacturer.company&&%%T%%&&@@%20@3%%ID%%,oompProject.oompID,sourceList.manufacturer.partID&&%%T%%&&@3/)&nbsp;[(U)](http://upverter.com/search/?q=%22@3%%ID%%,oompProject.oompID,sourceList.manufacturer.partID&&%%T%%&&@3%22)__ | __[(D)](http://www.digikey.com/product-search/en?x=0&y=0&lang=en&site=us&keywords=@@%%ID%%,oompProject.oompID,sourceList.manufacturer.company&&%%T%%&&@@%20@3%%ID%%,oompProject.oompID,sourceList.manufacturer.partID&&%%T%%&&@3)__&nbsp;__[(M)](http://www.mouser.com/Search/Refine.aspx?Keyword=@@%%ID%%,oompProject.oompID,sourceList.manufacturer.company&&%%T%%&&@@%20@3%%ID%%,oompProject.oompID,sourceList.manufacturer.partID&&%%T%%&&@3)__&nbsp;__[(F)](http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=&langId=44&storeId=10151&gs=true&st=@@%%ID%%,oompProject.oompID,sourceList.manufacturer.company&&%%T%%&&@@%20@3%%ID%%,oompProject.oompID,sourceList.manufacturer.partID&&%%T%%&&@3)__&nbsp;__[(R)](http://uk.rs-online.com/web/c/?searchTerm=@3%%ID%%,oompProject.oompID,sourceList.manufacturer.partID&&%%T%%&&@3&h=s&sra=oss)__|~~
+| @@%%ID%%,oompProject.oompID,sourceList.manufacturer.company&&%%T%%&&@@ | __@3%%ID%%,oompProject.oompID,sourceList.manufacturer.partID&&%%T%%&&@3__ | @@%%ID%%,oompProject.oompID,sourceList.manufacturer.name&&%%T%%&&@@ | __[(O)](http://octopart.com/partsearch#!?q=%22@3%%ID%%,oompProject.oompID,sourceList.manufacturer.partID&&%%T%%&&@3%22) &nbsp;[(P)](http://parts.io/search/term-@@%%ID%%,oompProject.oompID,sourceList.manufacturer.company&&%%T%%&&@@%20@3%%ID%%,oompProject.oompID,sourceList.manufacturer.partID&&%%T%%&&@3/)&nbsp;[(U)](http://upverter.com/search/?q=%22@3%%ID%%,oompProject.oompID,sourceList.manufacturer.partID&&%%T%%&&@3%22)__ | __[(D)](http://www.digikey.com/product-search/en?x=0&y=0&lang=en&site=us&keywords=@@%%ID%%,oompProject.oompID,sourceList.manufacturer.company&&%%T%%&&@@%20@3%%ID%%,oompProject.oompID,sourceList.manufacturer.partID&&%%T%%&&@3)__&nbsp;__[(M)](http://www.mouser.com/Search/Refine.aspx?Keyword=@@%%ID%%,oompProject.oompID,sourceList.manufacturer.company&&%%T%%&&@@%20@3%%ID%%,oompProject.oompID,sourceList.manufacturer.partID&&%%T%%&&@3)__&nbsp;__[(F)](http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=&langId=44&storeId=10151&gs=true&st=@@%%ID%%,oompProject.oompID,sourceList.manufacturer.company&&%%T%%&&@@%20@3%%ID%%,oompProject.oompID,sourceList.manufacturer.partID&&%%T%%&&@3)__&nbsp;__[(R)](http://uk.rs-online.com/web/c/?searchTerm=@3%%ID%%,oompProject.oompID,sourceList.manufacturer.partID&&%%T%%&&@3&h=s&sra=oss)__|~~
 ;;;;
 **%%ID%%,oompProject.oompID,sourceList.manufacturer.company&&0&&**Distributor Search - __(D)__ Digikey,&nbsp;__(M)__ Mouser,&nbsp;__(F)__ Farnell UK,&nbsp;__(R)__ RS UK
 **%%ID%%,oompProject.oompID,sourceList.manufacturer.company&&0&&**Part Search Engines - __(O)__ Octopart,&nbsp;__(P)__ Parts.io,&nbsp;__(U)__ Upverter
@@ -90,6 +91,7 @@ OPL Libraries
 ----------------------------------
 | __OPL Scheme__ | __Part Number__ | __Description__ |
 | -------------- | --------------- | --------------- |
+| OOMP | __(%%ID%%)[https://github.com/oomlout/oomlout-OOMP/wiki/%%ID%%]__ | @@%%ID%%,oompProject.oompID,name@@ |
 ::::
 ^^0,12,%%T%%^^
 **%%ID%%,oompProject.oompID,oplList.oplSystem.oplCode&&%%T%%&&**
