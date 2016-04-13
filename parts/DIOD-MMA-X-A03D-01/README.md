@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ SMD (Mini MELF) 300 mA Diode __    
+Name: __SMD (Mini MELF) 300 mA Diode__    
 ID: __DIOD-MMA-X-A03D-01__   
 Hex ID: __DSM3D__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/DIOD-MMA-X-A03D-01__   

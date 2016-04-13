@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ Micro SMD Metal SD Card Socket __    
+Name: __Micro SMD Metal SD Card Socket__    
 ID: __SDCS-MC-M-SMDS-03__   
 Hex ID: __SDMS3__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/SDCS-MC-M-SMDS-03__   

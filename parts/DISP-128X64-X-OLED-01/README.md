@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ 128 x 64 Pixels OLED Display __    
+Name: __128 x 64 Pixels OLED Display__    
 ID: __DISP-128X64-X-OLED-01__   
 Hex ID: __DS16OL__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/DISP-128X64-X-OLED-01__   

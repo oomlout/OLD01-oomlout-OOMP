@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ 2.54 mm 8 Pin Blue Header __    
+Name: __2.54 mm 8 Pin Blue Header__    
 ID: __HEAD-I01-L-08PI-01__   
 Hex ID: __H08L__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HEAD-I01-L-08PI-01__   

@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ SMD (0805) 10k Ohm Resistor 1% __    
+Name: __SMD (0805) 10k Ohm Resistor 1%__    
 ID: __RESE-0805-X-O103-67__   
 Hex ID: __R85103A__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0805-X-O103-67__   

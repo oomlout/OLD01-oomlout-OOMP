@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ 2 mm 2 Pin JST Socket Right Angle __    
+Name: __2 mm 2 Pin JST Socket Right Angle__    
 ID: __JSTS-02-X-02PI-RA__   
 Hex ID: __J202R__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/JSTS-02-X-02PI-RA__   

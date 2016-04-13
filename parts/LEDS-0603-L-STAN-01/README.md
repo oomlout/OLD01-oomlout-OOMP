@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ SMD (0603) Blue LED __    
+Name: __SMD (0603) Blue LED__    
 ID: __LEDS-0603-L-STAN-01__   
 Hex ID: __L6L__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/LEDS-0603-L-STAN-01__   

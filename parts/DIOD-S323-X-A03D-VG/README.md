@@ -3,11 +3,11 @@
 Summary
 =================
   
-Name: __ SMD (SOD-323) 300 mA Diode 20v __    
+Name: __SMD (SOD-323) 300 mA Diode 20v__    
 ID: __DIOD-S323-X-A03D-VG__   
-Hex ID: ____   
+Hex ID: __DS3303__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/DIOD-S323-X-A03D-VG__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/DS3303__   
 
 Full Details
 ==========================

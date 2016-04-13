@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ 2 mm 4 Pin JST Socket Right Angle (SMD) __    
+Name: __2 mm 4 Pin JST Socket Right Angle (SMD)__    
 ID: __JSTS-02-X-04PI-RS__   
 Hex ID: __J204RS__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/JSTS-02-X-04PI-RS__   

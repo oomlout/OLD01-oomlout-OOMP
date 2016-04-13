@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ 19 x 15 mm SPDT Relay __    
+Name: __19 x 15 mm SPDT Relay__    
 ID: __RELA-19X15-X-SPDT-V5__   
 Hex ID: __RL19S__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RELA-19X15-X-SPDT-V5__   

@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ 18 mm Socket RJ45 w/Lights __    
+Name: __18 mm Socket RJ45 w/Lights__    
 ID: __RJ45-18-X-SOCK-LI__   
 Hex ID: __R45SL__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RJ45-18-X-SOCK-LI__   

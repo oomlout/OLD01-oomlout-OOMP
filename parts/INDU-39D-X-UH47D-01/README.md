@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ 3.9 mm 4.7 uH Inductor __    
+Name: __3.9 mm 4.7 uH Inductor__    
 ID: __INDU-39D-X-UH47D-01__   
 Hex ID: __IN39U47__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/INDU-39D-X-UH47D-01__   

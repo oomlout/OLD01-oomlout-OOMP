@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ 2.54 mm 6 Pin Female Header __    
+Name: __2.54 mm 6 Pin Female Header__    
 ID: __HEAF-I01-X-06PI-01__   
 Hex ID: __HF06__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HEAF-I01-X-06PI-01__   

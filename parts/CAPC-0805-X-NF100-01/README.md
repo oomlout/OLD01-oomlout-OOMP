@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ SMD (0805) 100 nF Capacitor (Ceramic) __    
+Name: __SMD (0805) 100 nF Capacitor (Ceramic)__    
 ID: __CAPC-0805-X-NF100-01__   
 Hex ID: __C85N100__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0805-X-NF100-01__   

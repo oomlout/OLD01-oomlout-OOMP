@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ SMD (0805) 15k Ohm Resistor __    
+Name: __SMD (0805) 15k Ohm Resistor__    
 ID: __RESE-0805-X-O153-01__   
 Hex ID: __R85153__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0805-X-O153-01__   

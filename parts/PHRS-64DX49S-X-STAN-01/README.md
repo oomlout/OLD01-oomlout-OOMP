@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ 6.4 x 4.9 mm Photo Reflective Sensor __    
+Name: __6.4 x 4.9 mm Photo Reflective Sensor__    
 ID: __PHRS-64DX49S-X-STAN-01__   
 Hex ID: __PR01__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/PHRS-64DX49S-X-STAN-01__   

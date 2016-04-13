@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ 7 mm 10k Ohm Potentiometer __    
+Name: __7 mm 10k Ohm Potentiometer__    
 ID: __POTE-07-X-O103-01__   
 Hex ID: __PT7103__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/POTE-07-X-O103-01__   

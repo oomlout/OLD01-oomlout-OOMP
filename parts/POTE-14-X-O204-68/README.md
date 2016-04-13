@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ 14 mm 200k Ohm Potentiometer Side Adjust __    
+Name: __14 mm 200k Ohm Potentiometer Side Adjust__    
 ID: __POTE-14-X-O204-68__   
 Hex ID: __PT4204S__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/POTE-14-X-O204-68__   

@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ 9 mm DPDT Switch (Slide) __    
+Name: __9 mm DPDT Switch (Slide)__    
 ID: __SWIS-09-X-DPDT-01__   
 Hex ID: __SSW9D__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/SWIS-09-X-DPDT-01__   

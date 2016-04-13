@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ SMD (0603) 12 pF Capacitor (Ceramic) __    
+Name: __SMD (0603) 12 pF Capacitor (Ceramic)__    
 ID: __CAPC-0603-X-PF12-01__   
 Hex ID: __C6P012__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0603-X-PF12-01__   

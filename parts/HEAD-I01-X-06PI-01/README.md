@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ 2.54 mm 6 Pin Header __    
+Name: __2.54 mm 6 Pin Header__    
 ID: __HEAD-I01-X-06PI-01__   
 Hex ID: __H06__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HEAD-I01-X-06PI-01__   

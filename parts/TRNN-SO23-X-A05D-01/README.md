@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ SMD (SOT-23) 500 mA NPN Transistor __    
+Name: __SMD (SOT-23) 500 mA NPN Transistor__    
 ID: __TRNN-SO23-X-A05D-01__   
 Hex ID: __TNS25D__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/TRNN-SO23-X-A05D-01__   

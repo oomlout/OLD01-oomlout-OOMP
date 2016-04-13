@@ -54,7 +54,7 @@
      style="font-size:20.70599937px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold"
      x="10.521968"
      y="-188.81277"
-     id="tspan3621">XTAL</tspan></text>
+     id="tspan3621">CERE</tspan></text>
 <rect
    style="fill:#000000;stroke:none"
    id="rect3047"
@@ -139,7 +139,7 @@
      x="86.862564"
      y="-36.191299"
      sodipodi:role="line"
-     id="tspan3453"></tspan></text>
+     id="tspan3453">CR16312</tspan></text>
 
 
 
@@ -157,7 +157,7 @@
      x="47.024628"
      y="-35.077877"
      sodipodi:role="line"
-     id="tspan3457">**</tspan></text>
+     id="tspan3457">*CR16312*</tspan></text>
 
 
 
@@ -215,7 +215,7 @@
      x="44.673538"
      y="-192.23927"
      sodipodi:role="line"
-     id="tspan3613">3215</tspan></text>
+     id="tspan3613">1263</tspan></text>
 
 
 
@@ -269,7 +269,7 @@
      x="44.347717"
      y="-180.9371"
      sodipodi:role="line"
-     id="tspan3633">SMD (3215)</tspan></text>
+     id="tspan3633">SMD (1206-3)</tspan></text>
 
 
 
@@ -335,7 +335,7 @@
      x="72.138329"
      y="-13.270938"
      sodipodi:role="line"
-     id="tspan3645">XTAL-3215-X-MZ12-01</tspan></text>
+     id="tspan3645">CERE-1263-X-MZ12-01</tspan></text>
 
 
 
@@ -377,7 +377,7 @@
      x="16.702507"
      y="-180.9371"
      sodipodi:role="line"
-     id="tspan3601">XTAL</tspan></text>
+     id="tspan3601">CERE</tspan></text>
 
 <flowRoot
    xml:space="preserve"
@@ -401,7 +401,7 @@
        x="-176.12076"
        y="101.88474" /></flowRegion><flowPara
      id="flowPara3104"
-     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"> SMD (3215) 12 MHz Crystal </flowPara></flowRoot><rect
+     style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">SMD (1206-3) 12 MHz Ceramic Resonator</flowPara></flowRoot><rect
    style="fill:#ffffff;stroke:none"
    id="rect3106"
    width="4.6543827"

@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ SMD (0805) 1.8k Ohm Resistor __    
+Name: __SMD (0805) 1.8k Ohm Resistor__    
 ID: __RESE-0805-X-O182-01__   
 Hex ID: __R85182__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0805-X-O182-01__   

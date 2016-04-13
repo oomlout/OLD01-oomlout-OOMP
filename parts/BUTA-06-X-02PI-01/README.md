@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ 6 mm 2 Pin Pushbutton (Tactile) __    
+Name: __6 mm 2 Pin Pushbutton (Tactile)__    
 ID: __BUTA-06-X-02PI-01__   
 Hex ID: __BT62__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/BUTA-06-X-02PI-01__   

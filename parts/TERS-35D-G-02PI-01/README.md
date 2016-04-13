@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ 3.5 mm 2 Pin Green Screw Terminal __    
+Name: __3.5 mm 2 Pin Green Screw Terminal__    
 ID: __TERS-35D-G-02PI-01__   
 Hex ID: __ST302G__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/TERS-35D-G-02PI-01__   

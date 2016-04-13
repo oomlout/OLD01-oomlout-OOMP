@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ SMD (0603) 200k Ohm Resistor __    
+Name: __SMD (0603) 200k Ohm Resistor__    
 ID: __RESE-0603-X-O204-01__   
 Hex ID: __R6204__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O204-01__   

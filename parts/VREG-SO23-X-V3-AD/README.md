@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ SMD (SOT-23) 3v Voltage Regulator 250 mA __    
+Name: __SMD (SOT-23) 3v Voltage Regulator 250 mA__    
 ID: __VREG-SO23-X-V3-AD__   
 Hex ID: __VS33D__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/VREG-SO23-X-V3-AD__   

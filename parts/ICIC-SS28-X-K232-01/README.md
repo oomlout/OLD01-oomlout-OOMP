@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __28 Pin SMD (SSOP) FTDI USB-Serial __    
+Name: __28 Pin SMD (SSOP) FTDI USB-Serial__    
 ID: __ICIC-SS28-X-K232-01__   
 Hex ID: __IC232__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ICIC-SS28-X-K232-01__   

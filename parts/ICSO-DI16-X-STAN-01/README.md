@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ 16 Pin DIP IC Socket __    
+Name: __16 Pin DIP IC Socket__    
 ID: __ICSO-DI16-X-STAN-01__   
 Hex ID: __IS16__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ICSO-DI16-X-STAN-01__   

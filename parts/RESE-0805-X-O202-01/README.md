@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ SMD (0805) 2k Ohm Resistor __    
+Name: __SMD (0805) 2k Ohm Resistor__    
 ID: __RESE-0805-X-O202-01__   
 Hex ID: __R85202__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0805-X-O202-01__   

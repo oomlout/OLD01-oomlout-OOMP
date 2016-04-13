@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ 18 Pin DIP IC Socket __    
+Name: __18 Pin DIP IC Socket__    
 ID: __ICSO-DI18-X-STAN-01__   
 Hex ID: __IS18__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ICSO-DI18-X-STAN-01__   

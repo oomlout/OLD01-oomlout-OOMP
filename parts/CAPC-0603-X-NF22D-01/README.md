@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ SMD (0603) 2.2 nF Capacitor (Ceramic) __    
+Name: __SMD (0603) 2.2 nF Capacitor (Ceramic)__    
 ID: __CAPC-0603-X-NF22D-01__   
 Hex ID: __C6N002__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0603-X-NF22D-01__   

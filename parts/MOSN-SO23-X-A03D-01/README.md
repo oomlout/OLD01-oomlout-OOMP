@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ SMD (SOT-23) 300 mA N-Ch. MOSFET __    
+Name: __SMD (SOT-23) 300 mA N-Ch. MOSFET__    
 ID: __MOSN-SO23-X-A03D-01__   
 Hex ID: __MNS23D__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/MOSN-SO23-X-A03D-01__   

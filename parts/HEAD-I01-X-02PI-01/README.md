@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ 2.54 mm 2 Pin Header __    
+Name: __2.54 mm 2 Pin Header__    
 ID: __HEAD-I01-X-02PI-01__   
 Hex ID: __H02__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HEAD-I01-X-02PI-01__   

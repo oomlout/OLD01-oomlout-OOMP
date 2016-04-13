@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ 6 mm 10 uH Inductor __    
+Name: __6 mm 10 uH Inductor__    
 ID: __INDU-06-X-UH10-01__   
 Hex ID: __IN06U10__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/INDU-06-X-UH10-01__   

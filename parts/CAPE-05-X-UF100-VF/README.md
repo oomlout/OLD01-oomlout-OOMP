@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ 5 mm 100 uF Capacitor (Electrolytic) 16v __    
+Name: __5 mm 100 uF Capacitor (Electrolytic) 16v__    
 ID: __CAPE-05-X-UF100-VF__   
 Hex ID: __CEU100F__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPE-05-X-UF100-VF__   

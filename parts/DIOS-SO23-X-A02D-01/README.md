@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ SMD (SOT-23) 200 mA Diode (Schottky) __    
+Name: __SMD (SOT-23) 200 mA Diode (Schottky)__    
 ID: __DIOS-SO23-X-A02D-01__   
 Hex ID: __DS22D__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/DIOS-SO23-X-A02D-01__   

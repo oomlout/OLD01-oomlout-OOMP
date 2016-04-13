@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ SMD (1206) 13 Ohm Resistor __    
+Name: __SMD (1206) 13 Ohm Resistor__    
 ID: __RESE-1206-X-O130-01__   
 Hex ID: __R1130__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-1206-X-O130-01__   

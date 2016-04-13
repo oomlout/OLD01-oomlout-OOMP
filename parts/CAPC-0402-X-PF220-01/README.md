@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ SMD (0402) 220 pF Capacitor (Ceramic) __    
+Name: __SMD (0402) 220 pF Capacitor (Ceramic)__    
 ID: __CAPC-0402-X-PF220-01__   
 Hex ID: __R42P220__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0402-X-PF220-01__   

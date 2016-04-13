@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ SMD (0805) 4.7k Ohm Resistor __    
+Name: __SMD (0805) 4.7k Ohm Resistor__    
 ID: __RESE-0805-X-O472-01__   
 Hex ID: __R85472__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0805-X-O472-01__   

@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ 10 mm 10k Ohm Potentiometer __    
+Name: __10 mm 10k Ohm Potentiometer__    
 ID: __POTE-10-X-O103-01__   
 Hex ID: __PTA103__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/POTE-10-X-O103-01__   

@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ SMD (0603) White LED __    
+Name: __SMD (0603) White LED__    
 ID: __LEDS-0603-W-STAN-01__   
 Hex ID: __L6W__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/LEDS-0603-W-STAN-01__   

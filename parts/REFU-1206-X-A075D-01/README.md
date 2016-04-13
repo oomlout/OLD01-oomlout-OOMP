@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ SMD (1206) 750 mA Resetable Fuse __    
+Name: __SMD (1206) 750 mA Resetable Fuse__    
 ID: __REFU-1206-X-A075D-01__   
 Hex ID: __RF1175D__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/REFU-1206-X-A075D-01__   

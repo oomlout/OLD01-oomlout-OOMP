@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ SMD (SOT-23) 2.1 Amp N-Ch. MOSFET __    
+Name: __SMD (SOT-23) 2.1 Amp N-Ch. MOSFET__    
 ID: __MOSN-SO23-X-A21D-01__   
 Hex ID: __MNS221D__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/MOSN-SO23-X-A21D-01__   

@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ SMD (2312) 47 uF Capacitor (Tantalum) 16v __    
+Name: __SMD (2312) 47 uF Capacitor (Tantalum) 16v__    
 ID: __CAPT-2312-X-UF47-VF__   
 Hex ID: __CTS3U047__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPT-2312-X-UF47-VF__   

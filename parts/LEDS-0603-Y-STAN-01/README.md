@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ SMD (0603) Yellow LED __    
+Name: __SMD (0603) Yellow LED__    
 ID: __LEDS-0603-Y-STAN-01__   
 Hex ID: __L6Y__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/LEDS-0603-Y-STAN-01__   

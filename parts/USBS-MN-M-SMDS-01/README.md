@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ Mini SMD Metal USB Socket __    
+Name: __Mini SMD Metal USB Socket__    
 ID: __USBS-MN-M-SMDS-01__   
 Hex ID: __USN__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/USBS-MN-M-SMDS-01__   

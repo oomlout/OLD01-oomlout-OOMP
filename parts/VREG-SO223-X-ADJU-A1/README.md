@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ SMD (SOT-223) Adjustable Voltage Regulator 1 A __    
+Name: __SMD (SOT-223) Adjustable Voltage Regulator 1 A__    
 ID: __VREG-SO223-X-ADJU-A1__   
 Hex ID: __VS2A1__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/VREG-SO223-X-ADJU-A1__   

@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ SMD (Power SO-20) Dual H-Bridge (L298) 4 A __    
+Name: __SMD (Power SO-20) Dual H-Bridge (L298) 4 A__    
 ID: __ICIC-PS20-X-KL298-A4__   
 Hex ID: __ICS298__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ICIC-PS20-X-KL298-A4__   

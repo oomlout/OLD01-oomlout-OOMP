@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ SMD (1206) 1 Amp Resetable Fuse 8v __    
+Name: __SMD (1206) 1 Amp Resetable Fuse 8v__    
 ID: __REFU-1206-X-A01-V8__   
 Hex ID: __RF121__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/REFU-1206-X-A01-V8__   

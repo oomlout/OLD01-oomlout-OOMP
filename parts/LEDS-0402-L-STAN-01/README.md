@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ SMD (0402) Blue LED __    
+Name: __SMD (0402) Blue LED__    
 ID: __LEDS-0402-L-STAN-01__   
 Hex ID: __L42L__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/LEDS-0402-L-STAN-01__   

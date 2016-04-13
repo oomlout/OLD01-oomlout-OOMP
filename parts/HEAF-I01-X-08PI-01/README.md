@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ 2.54 mm 8 Pin Female Header __    
+Name: __2.54 mm 8 Pin Female Header__    
 ID: __HEAF-I01-X-08PI-01__   
 Hex ID: __HF08__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HEAF-I01-X-08PI-01__   

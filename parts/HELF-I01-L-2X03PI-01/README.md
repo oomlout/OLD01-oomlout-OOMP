@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ 2.54 mm 6 Pin (2x3) Blue Female Header (Long) __    
+Name: __2.54 mm 6 Pin (2x3) Blue Female Header (Long)__    
 ID: __HELF-I01-L-2X03PI-01__   
 Hex ID: __HFLX03L__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HELF-I01-L-2X03PI-01__   

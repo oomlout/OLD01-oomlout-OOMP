@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ SMD (SOD-123) 500 mA Diode (Schottky) __    
+Name: __SMD (SOD-123) 500 mA Diode (Schottky)__    
 ID: __DIOS-S123-X-A05D-01__   
 Hex ID: __DS35D__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/DIOS-S123-X-A05D-01__   

@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ 100 Pin SMD (TQFP) AtMega2560 __    
+Name: __100 Pin SMD (TQFP) AtMega2560__    
 ID: __ICIC-QFP100-X-K2560-01__   
 Hex ID: __ICS2560__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ICIC-QFP100-X-K2560-01__   

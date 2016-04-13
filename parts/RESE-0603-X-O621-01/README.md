@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ SMD (0603) 620 Ohm Resistor __    
+Name: __SMD (0603) 620 Ohm Resistor__    
 ID: __RESE-0603-X-O621-01__   
 Hex ID: __R6621__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O621-01__   

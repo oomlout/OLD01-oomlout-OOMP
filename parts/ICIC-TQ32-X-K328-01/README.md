@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __32 Pin SMD (TQFP) AtMega328P __    
+Name: __32 Pin SMD (TQFP) AtMega328P__    
 ID: __ICIC-TQ32-X-K328-01__   
 Hex ID: __ICS328__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ICIC-TQ32-X-K328-01__   

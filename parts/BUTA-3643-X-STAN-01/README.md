@@ -2,11 +2,11 @@
 Summary
 =================
   
-Name: __ SMD (3643) Pushbutton (Tactile) __    
+Name: __SMD (3643) Pushbutton (Tactile)__    
 ID: __BUTA-3643-X-STAN-01__   
-Hex ID: ____   
+Hex ID: __B3643__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/BUTA-3643-X-STAN-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/B3643__   
 
 Full Details
 ==========================

@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ 17 mm 1k Ohm Potentiometer Panel Mount __    
+Name: __17 mm 1k Ohm Potentiometer Panel Mount__    
 ID: __POTE-17-X-O102-69__   
 Hex ID: __PT7102__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/POTE-17-X-O102-69__   

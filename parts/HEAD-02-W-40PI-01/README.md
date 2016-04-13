@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ 2 mm 40 Pin White Header __    
+Name: __2 mm 40 Pin White Header__    
 ID: __HEAD-02-W-40PI-01__   
 Hex ID: __H40W__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HEAD-02-W-40PI-01__   

@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ 5 mm White LED __    
+Name: __5 mm White LED__    
 ID: __LEDS-05-W-STAN-01__   
 Hex ID: __L5W__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/LEDS-05-W-STAN-01__   

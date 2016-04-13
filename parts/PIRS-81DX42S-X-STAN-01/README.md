@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ 8.1 x 4.2 mm Pyroelectric IR Sensor __    
+Name: __8.1 x 4.2 mm Pyroelectric IR Sensor__    
 ID: __PIRS-81DX42S-X-STAN-01__   
 Hex ID: __PS01__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/PIRS-81DX42S-X-STAN-01__   

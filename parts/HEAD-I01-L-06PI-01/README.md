@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ 2.54 mm 6 Pin Blue Header __    
+Name: __2.54 mm 6 Pin Blue Header__    
 ID: __HEAD-I01-L-06PI-01__   
 Hex ID: __H06L__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HEAD-I01-L-06PI-01__   

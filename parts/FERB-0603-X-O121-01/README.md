@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ SMD (0603) 120 Ohm Ferrite Bead __    
+Name: __SMD (0603) 120 Ohm Ferrite Bead__    
 ID: __FERB-0603-X-O121-01__   
 Hex ID: __F6121__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/FERB-0603-X-O121-01__   

@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ 2.54 mm 8 Pin Blue Female Header (Long) __    
+Name: __2.54 mm 8 Pin Blue Female Header (Long)__    
 ID: __HELF-I01-L-08PI-01__   
 Hex ID: __HFL08L__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HELF-I01-L-08PI-01__   

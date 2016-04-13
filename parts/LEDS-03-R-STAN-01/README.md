@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ 3 mm Red LED __    
+Name: __3 mm Red LED__    
 ID: __LEDS-03-R-STAN-01__   
 Hex ID: __L3R__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/LEDS-03-R-STAN-01__   

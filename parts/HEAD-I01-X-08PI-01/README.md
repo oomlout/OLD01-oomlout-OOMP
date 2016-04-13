@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __ 2.54 mm 8 Pin Header __    
+Name: __2.54 mm 8 Pin Header__    
 ID: __HEAD-I01-X-08PI-01__   
 Hex ID: __H08__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HEAD-I01-X-08PI-01__   
