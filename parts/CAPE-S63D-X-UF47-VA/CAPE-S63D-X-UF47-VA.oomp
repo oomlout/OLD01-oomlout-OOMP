@@ -70,6 +70,14 @@
 				<link></link>
 				<note></note>			
 			</manufacturer>
+			<manufacturer>
+				<company>Semetech Electronics Ltd.</company>
+				<companyCode>C-SEME</companyCode>
+				<name></name>
+				<partID>EEE1EA470WP</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
 				
 			<bigDistributor>
 				<company>DigiKey</company>
@@ -101,6 +109,15 @@
 		
 <com>OPL</com>		
 		<oplList>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD CAP Aluminum 47uF-25V</oplName>
+				<oplID>302030059</oplID>
+				<oplFootprint>SMD-D6.3*H5.4mm</oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=591]]></oplLink>
+			</oplSystem>
 			<oplSystem>
 				<oplScheme>Oopen Organization Method for Parts</oplScheme>
 				<oplCode>C-OOMP</oplCode>

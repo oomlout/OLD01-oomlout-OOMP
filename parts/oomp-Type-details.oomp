@@ -3,6 +3,10 @@
 
 
     <oompType>
+            <code>ANTE</code>
+            <name>Antenna</name>
+    </oompType>    
+    <oompType>
             <code>BAHO</code>
             <name>Battery Holder</name>
     </oompType>    
@@ -14,6 +18,15 @@
             <code>BUTA</code>
             <name>Pushbutton (Tactile)</name>
     </oompType>
+    <oompType>
+            <code>BUZZ</code>
+            <name>Buzzer</name>
+    </oompType>
+    <oompType>
+            <code>CABL</code>
+            <name>Cable</name>
+    </oompType>
+    
     <oompType>
             <code>CAPC</code>
             <name>Capacitor (Ceramic)</name>
@@ -155,6 +168,10 @@
 	<oompType>
             <code>POTE</code>
             <name>Potentiometer</name>
+    </oompType>	
+	<oompType>
+            <code>POAD</code>
+            <name>Power Adapter</name>
     </oompType>	
 	<oompType>
             <code>RBCC</code>

@@ -71,11 +71,11 @@
 			</bigDistributor>					
 
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
+				<company>SEEED</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>SMD White Male Header VERT;4Pin-2.0</name>
+				<partID>320110030</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=19]]></link>
 				<note></note>
 			</bigDistributor>					
 		</sourceList>
@@ -85,11 +85,11 @@
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
-				<oplName>SMD Grove</oplName>
-				<oplID>3470090P1</oplID>
+				<oplName>SMD White Male Header VERT;4Pin-2.0</oplName>
+				<oplID>320110030</oplID>
 				<oplFootprint>4P-SMD-2.0</oplFootprint>
 				<oplPackage>4P-SMD-2.0</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Connector]]></oplLink>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=19]]></oplLink>
 			</oplSystem>
 		</oplList>
 

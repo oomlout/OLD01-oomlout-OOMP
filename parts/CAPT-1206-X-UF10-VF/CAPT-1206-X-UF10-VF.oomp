@@ -139,16 +139,24 @@
 				<link><![CDATA[http://uk.mouser.com/ProductDetail/AVX/TAJA106K016RNJ/?qs=sGAEpiMZZMuEN2agSAc2pmRv4r8cj6yFp4GfU7lrKPQ%3d]]></link>
 				<note></note>
 			</bigDistributor>					
+			<bigDistributor>
+				<company>SEEED</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>SMD CAP Tantalum 10uF-16V 10%</name>
+				<partID>302020002</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=14]]></link>
+				<note></note>
+			</bigDistributor>					
 		</sourceList>
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
 				<oplName>SMD CAP Tantalum 10uF-16V 10%</oplName>
-				<oplID>0130050P1</oplID>
+				<oplID>302020002</oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage>AVX-A</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Capacitor]]></oplLink>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=14]]></oplLink>
 			</oplSystem>
 			
 			<oplSystem>

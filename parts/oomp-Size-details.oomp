@@ -36,6 +36,10 @@
             <name>SMD (2312)</name>
     </oompSize>
     <oompSize>
+            <code>2917</code>
+            <name>SMD (2917)</name>
+    </oompSize>
+    <oompSize>
             <code>D214</code>
             <name>SMD (DO-214)</name>
     </oompSize>
@@ -718,6 +722,11 @@
     <oompSize>
             <code>36D</code>
             <name>3.6 mm</name>
+    </oompSize>
+
+    <oompSize>
+            <code>45D</code>
+            <name>4.5 mm</name>
     </oompSize>
 
     <oompSize>
@@ -2329,5 +2338,15 @@
             <code>DB25</code>
             <name>DB25</name>
     </oompSize>		
+	
+	<oompSize>
+            <code>ACUS</code>
+            <name>American Style (120v)</name>
+    </oompSize>			
+	<oompSize>
+            <code>SMA</code>
+            <name>SMA</name>
+    </oompSize>		
+	
 	
 </xml>

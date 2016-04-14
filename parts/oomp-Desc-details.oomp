@@ -3285,8 +3285,20 @@
             <name>9.9M Ohm</name>
     </oompDesc>
     <oompDesc>
-            <code>PF2</code>
-            <name>2 pF</name>
+            <code>PF05D</code>
+            <name>0.5 pF</name>
+    </oompDesc>
+    <oompDesc>
+            <code>PF1</code>
+            <name>1 pF</name>
+    </oompDesc>
+    <oompDesc>
+            <code>PF15D</code>
+            <name>1.5 pF</name>
+    </oompDesc>
+    <oompDesc>
+            <code>PF22D</code>
+            <name>2.2 pF</name>
     </oompDesc>
     <oompDesc>
             <code>PF3</code>
@@ -3295,6 +3307,10 @@
     <oompDesc>
             <code>PF4</code>
             <name>4 pF</name>
+    </oompDesc>
+    <oompDesc>
+            <code>PF47D</code>
+            <name>4.7 pF</name>
     </oompDesc>
     <oompDesc>
             <code>PF5</code>
@@ -11657,5 +11673,24 @@
             <code>V05</code>
             <name>5v</name>
     </oompDesc>		
-	
+	<oompDesc>
+            <code>V09</code>
+            <name>9v</name>
+    </oompDesc>		
+	<oompDesc>
+            <code>V05U</code>
+            <name>5v (USB)</name>
+    </oompDesc>	
+	<oompDesc>
+            <code>G24</code>
+            <name>2.4 Ghz</name>
+    </oompDesc>	
+	<oompDesc>
+            <code>M4X4</code>
+            <name>Quad Band (850/900/1800/1900 Mhz)</name>
+    </oompDesc>		
+	<oompDesc>
+            <code>GROV</code>
+            <name>Grove</name>
+    </oompDesc>			
 </xml>

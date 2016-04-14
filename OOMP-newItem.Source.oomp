@@ -3,26 +3,38 @@
 <oompVersion>98</oompVersion>
 
 <com>IMPORTANT ALL MUST BE FILLED</com>
-<oompType>RESE</oompType>
-<oompSize>0603</oompSize>
+<oompType>CAPE</oompType>
+<oompSize>05</oompSize>
 <oompColor>X</oompColor>
-<oompDesc>O105</oompDesc>
-<oompIndex>67</oompIndex>
-<oompSort>06031000000</oompSort>
+<oompDesc>UF47</oompDesc>
+<oompIndex>VF</oompIndex>
+<oompSort>CAPE05UF47</oompSort>
 
-<hexID>R6105</hexID>
+<hexID>CEU047</hexID>
 
-<oompClass>Surface Mount</oompClass>
-<oompClassCode>SMDS</oompClassCode>
+<oompClass></oompClass>
+<oompClassCode></oompClassCode>
 
 <com>Source List</com>
-<manufacturerCompany1>YAGEO</manufacturerCompany1>
+<manufacturerCompany1>JWC</manufacturerCompany1>
 <manufacturerCompanyCode1>C-YAGE</manufacturerCompanyCode1>
-<manufacturerPartID1>RC0603FR-071ML</manufacturerPartID1>
+<manufacturerPartID1>47uF/16V 5X7</manufacturerPartID1>
 
-<manufacturerCompany2>Vishay</manufacturerCompany2>
-<manufacturerCompanyCode2>C-VISH</manufacturerCompanyCode2>
-<manufacturerPartID2>CRCW06031M00FKEA</manufacturerPartID2>
+<manufacturerCompany2></manufacturerCompany2>
+<manufacturerCompanyCode2></manufacturerCompanyCode2>
+<manufacturerPartID2></manufacturerPartID2>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -37,32 +49,29 @@
 
 <oplScheme1>SEEED OPL</oplScheme1>
 <oplCode1>C-SEEE</oplCode1>
-<oplName1>SMD RES 1M-1%-1/10W</oplName1>
-<oplID1>301010151</oplID1>
-<oplFootprint1>0603</oplFootprint1>
-<oplPackage1>0603</oplPackage1>
-<oplLink1>http://www.seeedstudio.com/depot/s/301010151.html?search_in_description=0</oplLink1>
+<oplName1> DIP CAP Aluminum 47uF-16V;</oplName1>
+<oplID1>302030033</oplID1>
+<oplFootprint1></oplFootprint1>
+<oplPackage1></oplPackage1>
+<oplLink1><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=1408]]></oplLink1>
 
 
-<oplScheme2>Octopart CPL</oplScheme2>
-<oplCode2>C-OCTO</oplCode2>
-<oplName2>Resistor 1 MO ±1% 0603 100 mW</oplName2>
-<oplID2>CPL-RES-0603-1M-0.1W</oplID2>
-<oplFootprint2></oplFootprint2>
-<oplPackage2></oplPackage2>
-<oplLink2>https://octopart.com/common-parts-library</oplLink2>
+<oplScheme99>Octopart CPL</oplScheme99>
+<oplCode99>C-OCTO</oplCode99>
+<oplName99></oplName99>
+<oplID99></oplID99>
+<oplFootprint99></oplFootprint99>
+<oplPackage99></oplPackage99>
+<oplLink99>https://octopart.com/common-parts-library</oplLink99>
 
 
-<oplScheme3>Circuithub.com</oplScheme3>
-<oplCode3>C-CIRC</oplCode3>
-<oplName3>YAGEO/RC0603FR-071ML</oplName3>
-<oplID3>YAGEO/RC0603FR-071ML</oplID3>
-<oplFootprint3>0603</oplFootprint3>
-<oplPackage3>0603</oplPackage3>
-<oplLink3>https://circuithub.com/parts/YAGEO/RC0603FR-071ML</oplLink3>
-
-
-
+<oplScheme99>Circuithub.com</oplScheme99>
+<oplCode99>C-CIRC</oplCode99>
+<oplName99></oplName99>
+<oplID99></oplID99>
+<oplFootprint99></oplFootprint99>
+<oplPackage99></oplPackage99>
+<oplLink99>https://circuithub.com/parts/</oplLink99>
 
 
 
@@ -77,12 +86,15 @@
 
 
 
-<ooNumPins>2</ooNumPins>
+
+
+
+<ooNumPins></ooNumPins>
 <ooPitch></ooPitch>
-<ooWidth>0.8 mm</ooWidth>
+<ooWidth></ooWidth>
 <ooHeight></ooHeight>
 <ooDiameter></ooDiameter>
-<ooLength>1.6 mm</ooLength>
+<ooLength></ooLength>
 <ooDepth></ooDepth>
 
 
@@ -91,28 +103,28 @@
 
 
 
-<bigDistributorCompanyCode1>C-DIGK</bigDistributorCompanyCode1>
-<bigDistributorCompany1>Digikey</bigDistributorCompany1>
-<bigDistributorPartID1>311-1.00MHRCT-ND</bigDistributorPartID1>
-<bigDistributorLink1>http://www.digikey.com/product-search/en?keywords=311-1.00MHRCT-ND</bigDistributorLink1>
+<bigDistributorCompanyCode99>C-DIGK</bigDistributorCompanyCode99>
+<bigDistributorCompany99>Digikey</bigDistributorCompany99>
+<bigDistributorPartID99></bigDistributorPartID99>
+<bigDistributorLink99>http://www.digikey.com/product-search/en?keywords=</bigDistributorLink99>
 
 
-<bigDistributorCompanyCode2>C-MOUS</bigDistributorCompanyCode2>
-<bigDistributorCompany2>Mouser</bigDistributorCompany2>
-<bigDistributorPartID2>603-RC0603FR-071ML</bigDistributorPartID2>
-<bigDistributorLink2>http://www.mouser.co.uk/Search/Refine.aspx?Keyword=603-RC0603FR-071ML</bigDistributorLink2>
+<bigDistributorCompanyCode99>C-MOUS</bigDistributorCompanyCode99>
+<bigDistributorCompany99>Mouser</bigDistributorCompany99>
+<bigDistributorPartID99></bigDistributorPartID99>
+<bigDistributorLink99>http://www.mouser.co.uk/Search/Refine.aspx?Keyword=</bigDistributorLink99>
 
 
-<bigDistributorCompanyCode3>C-FARN</bigDistributorCompanyCode3>
-<bigDistributorCompany3>Farnell</bigDistributorCompany3>
-<bigDistributorPartID3>9238840</bigDistributorPartID3>
-<bigDistributorLink3><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=9238840]]></bigDistributorLink3>
+<bigDistributorCompanyCode99>C-FARN</bigDistributorCompanyCode99>
+<bigDistributorCompany99>Farnell</bigDistributorCompany99>
+<bigDistributorPartID99></bigDistributorPartID99>
+<bigDistributorLink99><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=]]></bigDistributorLink99>
 
 
-<bigDistributorCompanyCode4>C-RSRS</bigDistributorCompanyCode4>
-<bigDistributorCompany4>RS Electronics</bigDistributorCompany4>
-<bigDistributorPartID4>678-9932</bigDistributorPartID4>
-<bigDistributorLink4><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=678-9932]]></bigDistributorLink4>
+<bigDistributorCompanyCode99>C-RSRS</bigDistributorCompanyCode99>
+<bigDistributorCompany99>RS Electronics</bigDistributorCompany99>
+<bigDistributorPartID99></bigDistributorPartID99>
+<bigDistributorLink99><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=]]></bigDistributorLink99>
 
 
 <bigDistributorCompanyCode99>C-RAPI</bigDistributorCompanyCode99>
@@ -121,11 +133,11 @@
 <bigDistributorLink99><![CDATA[http://www.rapidonline.com/Search?query=&filterSearchScope=1]]></bigDistributorLink99>
 
 
-<bigDistributorCompanyCode5>C-SEEE</bigDistributorCompanyCode5>
-<bigDistributorCompany5>SEEED Studio</bigDistributorCompany5>
-<bigDistributorPartID5>301010151</bigDistributorPartID5>
-<bigDistributorLink5>http://www.seeedstudio.com/depot/s/.html?search_in_description=0</bigDistributorLink5>
-
+<bigDistributorCompanyCode1>C-SEEE</bigDistributorCompanyCode1>
+<bigDistributorCompany1>SEEED Studio</bigDistributorCompany1>
+<bigDistributorPartID1>302030033</bigDistributorPartID1>
+<bigDistributorLink1><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=1408]]></bigDistributorLink1>
+<bigDistributorName1> DIP CAP Aluminum 47uF-16V;</bigDistributorName1>
 
 </newOOMP>
 </xml>
