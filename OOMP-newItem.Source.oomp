@@ -5,12 +5,12 @@
 <com>IMPORTANT ALL MUST BE FILLED</com>
 <oompType>HEAF</oompType>
 <oompSize>I01</oompSize>
-<oompColor>Y</oompColor>
-<oompDesc>06PI</oompDesc>
-<oompIndex>01</oompIndex>
-<oompSort>HEAFI0106PI</oompSort>
+<oompColor>X</oompColor>
+<oompDesc>02PI</oompDesc>
+<oompIndex>RO</oompIndex>
+<oompSort>HEAFI0102PI</oompSort>
 
-<hexID>HF06Y</hexID>
+<hexID>HF2R</hexID>
 
 <oompClass></oompClass>
 <oompClassCode></oompClassCode>
@@ -18,7 +18,7 @@
 <com>Source List</com>
 <manufacturerCompany1>YXCON</manufacturerCompany1>
 <manufacturerCompanyCode1>C-YXCO</manufacturerCompanyCode1>
-<manufacturerPartID1>F185-1106A1BSYA3</manufacturerPartID1>
+<manufacturerPartID1>RF130-1023ABS0741</manufacturerPartID1>
 
 <manufacturerCompany2></manufacturerCompany2>
 <manufacturerCompanyCode2></manufacturerCompanyCode2>
@@ -49,11 +49,11 @@
 
 <oplScheme1>SEEED OPL</oplScheme1>
 <oplCode1>C-SEEE</oplCode1>
-<oplName1> DIP Yellow Female Header VERT</oplName1>
-<oplID1>320030019</oplID1>
+<oplName1> DIP Black Round Female Header VERT</oplName1>
+<oplID1>320030050</oplID1>
 <oplFootprint1></oplFootprint1>
 <oplPackage1></oplPackage1>
-<oplLink1><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=211]]></oplLink1>
+<oplLink1><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=751]]></oplLink1>
 
 
 <oplScheme99>Octopart CPL</oplScheme99>
@@ -135,9 +135,9 @@
 
 <bigDistributorCompanyCode1>C-SEEE</bigDistributorCompanyCode1>
 <bigDistributorCompany1>SEEED Studio</bigDistributorCompany1>
-<bigDistributorPartID1>320030019</bigDistributorPartID1>
-<bigDistributorLink1><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=211]]></bigDistributorLink1>
-<bigDistributorName1> DIP Yellow Female Header VERT</bigDistributorName1>
+<bigDistributorPartID1>320030050</bigDistributorPartID1>
+<bigDistributorLink1><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=751]]></bigDistributorLink1>
+<bigDistributorName1> DIP Black Round Female Header VERT</bigDistributorName1>
 
 </newOOMP>
 </xml>

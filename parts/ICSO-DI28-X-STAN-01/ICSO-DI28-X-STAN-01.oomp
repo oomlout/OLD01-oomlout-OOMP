@@ -84,6 +84,14 @@
 				<partID>1-390261-9</partID>
 				<link></link>
 				<note></note>			
+			</manufacturer>		
+			<manufacturer>
+				<company>TE Connectivity</company>
+				<companyCode>C-TECO</companyCode>
+				<name></name>
+				<partID>1-390261-9</partID>
+				<link></link>
+				<note></note>			
 			</manufacturer>			
 				
 			<bigDistributor>
@@ -109,19 +117,27 @@
 				<partID>1182590</partID>
 				<link><![CDATA[http://uk.farnell.com/multicomp/mc-2227-28-03-f1/socket-ic-tube-17-28way/dp/1182590?ost=1182590]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>
+			<bigDistributor>				
+				<company>SEEED</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>DIP Black IC Socket</name>
+				<partID>320070000</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=745]]></link>
+				<note></note>
+			</bigDistributor>	
 		</sourceList>
 		
 <com>OPL</com>		
 		<oplList>
 			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>DIP Black IC Socket</oplName>
+				<oplID>320070000</oplID>
+				<oplFootprint>2*14P-2.54-7.62mm Row Spacing</oplFootprint>
 				<oplPackage></oplPackage>
-				<oplLink><![CDATA[]]></oplLink>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=745]]></oplLink>
 			</oplSystem>
 		</oplList>
 

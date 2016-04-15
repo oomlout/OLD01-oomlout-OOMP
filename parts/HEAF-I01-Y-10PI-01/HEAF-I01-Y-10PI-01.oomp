@@ -110,10 +110,10 @@
 
     		<sourceList>
 			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
+				<company>YXCON</company>
+				<companyCode>C-YXCO</companyCode>
 				<name></name>
-				<partID></partID>
+				<partID>F185-1110A1BSYC1</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -127,11 +127,11 @@
 				<note></note>
 			</bigDistributor>					
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
+				<company>SEEED</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>DIP Yellow Female Header VERT</name>
+				<partID>320030059</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=243]]></link>
 				<note></note>
 			</bigDistributor>					
 		</sourceList>
@@ -139,11 +139,11 @@
 			<oplSystem>
 				<oplScheme>Seeed OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
-				<oplName></oplName>
+				<oplName>DIP Yellow Female Header VERT</oplName>
 				<oplID>320030059</oplID>
 				<oplFootprint>1*10P-2.54-8.5mm</oplFootprint>
 				<oplPackage>1*10P-2.54-8.5mm</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Connector]]></oplLink>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=243]]></oplLink>
 			</oplSystem>
 		</oplList>
 

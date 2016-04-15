@@ -142,6 +142,14 @@
 				<partID>49S/18PF</partID>
 				<link></link>
 				<note></note>			
+			</manufacturer>	
+			<manufacturer>
+				<company>Jing Pengyuan</company>
+				<companyCode>C-PENG</companyCode>
+				<name></name>
+				<partID>HC-49US 16.000MHz</partID>
+				<link></link>
+				<note></note>			
 			</manufacturer>			
 				
 			<bigDistributor>
@@ -202,10 +210,10 @@
 				<oplScheme>Seeed Studio OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
 				<oplName>DIP Crystal 16MHz-18pF-30ppm-50R</oplName>
-				<oplID>306010037</oplID>
+				<oplID>306010014</oplID>
 				<oplFootprint>HC49/US</oplFootprint>
 				<oplPackage>HC49/US</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Crystal_Oscillator]]></oplLink>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=704]]></oplLink>
 			</oplSystem>
 		</oplList>
 	<COM>Common Uses</COM>		

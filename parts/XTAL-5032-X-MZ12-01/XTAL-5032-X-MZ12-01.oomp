@@ -62,11 +62,11 @@
 			</manufacturer>
 				
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
+				<company>SEEED</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>SMD Crystal 12MHz-20pF-20ppm-40R</name>
+				<partID>306010047</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=115]]></link>
 				<note></note>
 			</bigDistributor>					
 
@@ -89,7 +89,7 @@
 				<oplID>306010047</oplID>
 				<oplFootprint>2P-L5.0*W3.2mm</oplFootprint>
 				<oplPackage>2P-L5.0*W3.2mm</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Crystal_Oscillator]]></oplLink>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=115]]></oplLink>
 			</oplSystem>
 		</oplList>
 

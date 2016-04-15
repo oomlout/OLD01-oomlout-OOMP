@@ -29,7 +29,7 @@
 
 <!--Manufacturer -->
         <ooManufacturer>C-SUNT</ooManufacturer>
-        <ooManufacturerPartNumber>ST-USB-002A</ooManufacturerPartNumber>
+        <ooManufacturerPartNumber>ST-USB-003A</ooManufacturerPartNumber>
 
 
 <!--Description -->
@@ -110,20 +110,20 @@
 
     		<sourceList>
 			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
+				<company>Suntech</company>
+				<companyCode>C-SUNT</companyCode>
 				<name></name>
-				<partID></partID>
+				<partID>ST-USB-003A</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
 				
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
+				<company>SEEED</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>DIP USB-A-Famale</name>
+				<partID>320010007</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=375]]></link>
 				<note></note>
 			</bigDistributor>					
 			<bigDistributor>
@@ -131,16 +131,16 @@
 				<companyCode></companyCode>
 				<name></name>
 				<partID></partID>
-				<link><![CDATA[ ]]></link>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=375]]></link>
 				<note></note>
 			</bigDistributor>					
 		</sourceList>
 		<oplList>
 			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>DIP USB-A-Famale</oplName>
+				<oplID>320010007</oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[ ]]></oplLink>
