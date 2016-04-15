@@ -7,6 +7,11 @@
             <code>KCH340</code>
             <name>USB-Serial (CH340)</name>
     </oompDesc>	
+	
+	<oompDesc>
+            <code>KFT232</code>
+            <name>USB-Serial (FT232RL)</name>
+    </oompDesc>	
 	<oompDesc>
             <code>K328</code>
             <name>AtMega328P</name>
@@ -80,6 +85,10 @@
             <code>K2904</code>
             <name>LM2904 Dual</name>
     </oompDesc>	
+	<oompDesc>
+            <code>K333</code>
+            <name>OPA333</name>
+    </oompDesc>	
 	
 	<oompDesc>
             <code>KDS1307</code>
@@ -136,5 +145,17 @@
 	<oompDesc>
             <code>KLPC17</code>
             <name>LPC1768 (Cortex M3)</name>
+    </oompDesc>	
+	<oompDesc>
+            <code>KRF822</code>
+            <name>nRF51822 (Bluetooth MCU)</name>
+    </oompDesc>	
+	<oompDesc>
+            <code>KF230</code>
+            <name>High Speed USB-Serial (FT230XS-R) </name>
+    </oompDesc>	
+	<oompDesc>
+            <code>K108</code>
+            <name>Level Shifter (TXS108E) </name>
     </oompDesc>	
 </xml>

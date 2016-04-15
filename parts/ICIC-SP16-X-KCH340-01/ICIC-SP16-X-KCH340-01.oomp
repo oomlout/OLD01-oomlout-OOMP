@@ -45,10 +45,10 @@
 <com>Source List</com>		
 		<sourceList>
 			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
+				<company>WCH</company>
+				<companyCode>C-WCHH</companyCode>
 				<name></name>
-				<partID></partID>
+				<partID>CH340T</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -62,20 +62,20 @@
 			</manufacturer>
 				
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
+				<company>SEEED</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>SMD IC Interface;USB to UART;Speed 2400b-112.5Kbps;VCC 3.3V-5V</name>
+				<partID>310070026</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=368]]></link>
 				<note></note>
 			</bigDistributor>					
 
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
+				<company>SEEED OPL</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>SMD IC Interface;USB to UART;Speed 2400b-112.5Kbps;VCC 3.3V-5V</name>
+				<partID>310070026</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=368]]></link>
 				<note></note>
 			</bigDistributor>					
 		</sourceList>

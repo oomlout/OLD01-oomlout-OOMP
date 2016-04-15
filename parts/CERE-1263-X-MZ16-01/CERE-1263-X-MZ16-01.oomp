@@ -103,6 +103,14 @@
 				<partID>792-6524</partID>
 				<link><![CDATA[http://uk.rs-online.com/web/p/ceramic-resonators/7926524/]]></link>
 				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company>SEEED</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>SMD Crystal 16MHz-15pF-0.5%-40R</name>
+				<partID>306030002</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=709]]></link>
+				<note></note>
 			</bigDistributor>				
 		</sourceList>
 		
@@ -116,6 +124,15 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://circuithub.com/parts/MURATA/CSTCE16M0V53-R0]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD Crystal 16MHz-15pF-0.5%-40R</oplName>
+				<oplID>306030002</oplID>
+				<oplFootprint>SMD 3P-3.20X1.30X1.0mm</oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=709]]></oplLink>
 			</oplSystem>
 
 			<oplSystem>

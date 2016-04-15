@@ -110,10 +110,10 @@
 
     		<sourceList>
 			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
+				<company>Torex</company>
+				<companyCode>C-TORE</companyCode>
 				<name></name>
-				<partID></partID>
+				<partID>XC6206P332MR-G</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -127,23 +127,23 @@
 				<note></note>
 			</bigDistributor>					
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
+				<company>SEEED</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>SMD PMIC;LDO;Vin 6V;3.3V;200mA;Without En;1-Ch</name>
+				<partID>310030099</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=39]]></link>
 				<note></note>
 			</bigDistributor>					
 		</sourceList>
 		<oplList>
 			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD PMIC;LDO;Vin 6V;3.3V;200mA;Without En;1-Ch</oplName>
+				<oplID>310030099</oplID>
+				<oplFootprint>SOT-23</oplFootprint>
 				<oplPackage></oplPackage>
-				<oplLink><![CDATA[ ]]></oplLink>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=39]]></oplLink>
 			</oplSystem>
 		</oplList>
 

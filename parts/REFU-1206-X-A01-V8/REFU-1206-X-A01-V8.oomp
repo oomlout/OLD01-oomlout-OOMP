@@ -71,11 +71,11 @@
 			</bigDistributor>					
 
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
+				<company>SEEED</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>SMD PPTC 1A-15V</name>
+				<partID>307010001</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=80]]></link>
 				<note></note>
 			</bigDistributor>					
 		</sourceList>
@@ -85,11 +85,11 @@
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
-				<oplName>SMD PPTC 1000mA-8V</oplName>
-				<oplID>0900020P1</oplID>
+				<oplName>SMD PPTC 1A-15V</oplName>
+				<oplID>307010001</oplID>
 				<oplFootprint>1206</oplFootprint>
 				<oplPackage>1206</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Fuse]]></oplLink>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=80]]></oplLink>
 			</oplSystem>
 		</oplList>
 

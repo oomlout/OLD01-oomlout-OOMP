@@ -70,6 +70,10 @@
 		<name>15v</name>
 	</oompIndex>
 	<oompIndex>
+		<code>VM</code>
+		<name>13.2v</name>
+	</oompIndex>
+	<oompIndex>
 		<code>VF</code>
 		<name>16v</name>
 	</oompIndex>
@@ -93,6 +97,22 @@
 	<oompIndex>
 		<code>VD</code>
 		<name>63v</name>
+	</oompIndex>		
+	<oompIndex>
+		<code>VI</code>
+		<name>400v</name>
+	</oompIndex>		
+	<oompIndex>
+		<code>V7</code>
+		<name>75v</name>
+	</oompIndex>		
+	<oompIndex>
+		<code>V1</code>
+		<name>100v</name>
+	</oompIndex>		
+	<oompIndex>
+		<code>V4</code>
+		<name>40v</name>
 	</oompIndex>	
 	<oompIndex>
 		<code>AC</code>
@@ -101,6 +121,10 @@
 	<oompIndex>
 		<code>AD</code>
 		<name>250 mA</name>
+	</oompIndex>
+	<oompIndex>
+		<code>AE</code>
+		<name>200 mA</name>
 	</oompIndex>	
 	<oompIndex>
 		<code>A5D</code>

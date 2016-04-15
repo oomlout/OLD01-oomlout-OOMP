@@ -48,7 +48,7 @@
 				<company>STMicroelectronics</company>
 				<companyCode>C-STMI</companyCode>
 				<name></name>
-				<partID>L298</partID>
+				<partID>L298P</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -71,11 +71,11 @@
 			</bigDistributor>					
 
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
+				<company>SEEED</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>SMD IC Driver;Motor Driver;2-CH;VM</name>
+				<partID>310040018</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=125]]></link>
 				<note></note>
 			</bigDistributor>					
 		</sourceList>
@@ -85,11 +85,11 @@
 			<oplSystem>
 				<oplScheme>Seeed OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
-				<oplName>SMD IC Driver;PowerSO-20</oplName>
+				<oplName>SMD IC Driver;Motor Driver;2-CH;VM</oplName>
 				<oplID>310040018</oplID>
 				<oplFootprint>PowerSO-20</oplFootprint>
 				<oplPackage>PowerSO-20</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#IC]]></oplLink>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=125]]></oplLink>
 			</oplSystem>
 		</oplList>
 

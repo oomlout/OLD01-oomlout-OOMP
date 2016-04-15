@@ -124,6 +124,10 @@
             <code>SO235</code>
             <name>SMD (SOT-23-5)</name>
     </oompSize>	
+    <oompSize>
+            <code>SO236</code>
+            <name>SMD (SOT-23-6)</name>
+    </oompSize>	
    
     <oompSize>
             <code>SO238</code>
@@ -2263,9 +2267,18 @@
             <name>28 Pin DIP (0.6")</name>
     </oompSize>		
 	<oompSize>
+            <code>SS16</code>
+            <name>16 Pin SMD (SSOP)</name>
+    </oompSize>		
+	<oompSize>
             <code>SS28</code>
             <name>28 Pin SMD (SSOP)</name>
     </oompSize>		
+	<oompSize>
+            <code>SP08</code>
+            <name>8 Pin SMD (SOP)</name>
+    </oompSize>		
+	
 	<oompSize>
             <code>SP16</code>
             <name>16 Pin SMD (SOP)</name>
@@ -2278,6 +2291,14 @@
 	<oompSize>
             <code>QFN32</code>
             <name>32 Pin SMD (QFN)</name>
+    </oompSize>		
+	<oompSize>
+            <code>VQF44</code>
+            <name>44 Pin SMD (VQFN)</name>
+    </oompSize>		
+	<oompSize>
+            <code>QFN48</code>
+            <name>48 Pin SMD (QFN)</name>
     </oompSize>		
 	<oompSize>
             <code>HQFN33</code>
@@ -2317,8 +2338,17 @@
     </oompSize>				
 	
 	<oompSize>
+            <code>TS20</code>
+            <name>20 Pin SMD (TSSOP)</name>
+    </oompSize>				
+	
+	<oompSize>
             <code>128X64</code>
             <name>128 x 64 Pixels</name>
+    </oompSize>
+	<oompSize>
+            <code>7SEL</code>
+            <name>7 Segment LED</name>
     </oompSize>	
 	<oompSize>
             <code>RJ45</code>

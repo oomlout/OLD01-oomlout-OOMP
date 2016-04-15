@@ -110,20 +110,20 @@
 
     		<sourceList>
 			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
+				<company>JCET</company>
+				<companyCode>C-JCET</companyCode>
 				<name></name>
-				<partID></partID>
+				<partID>CJA1117B-3.3</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
 				
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
+				<company>SEEED</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>SMD PMIC; LDO;Vin 5.3V;3.3V;1A;Without En;1-Ch</name>
+				<partID>310030095</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=57]]></link>
 				<note></note>
 			</bigDistributor>					
 			<bigDistributor>
@@ -137,13 +137,13 @@
 		</sourceList>
 		<oplList>
 			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD PMIC; LDO;Vin 5.3V;3.3V;1A;Without En;1-Ch</oplName>
+				<oplID>310030095</oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
-				<oplLink><![CDATA[ ]]></oplLink>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=57]]></oplLink>
 			</oplSystem>
 		</oplList>
 

@@ -71,11 +71,11 @@
 			</bigDistributor>					
 
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
+				<company>SEEED</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>SMD PMIC;LDO;Vin 6V;3.0V;200mA;Without En;1-Ch</name>
+				<partID>310030009</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=126]]></link>
 				<note></note>
 			</bigDistributor>					
 		</sourceList>
@@ -85,11 +85,11 @@
 			<oplSystem>
 				<oplScheme>Seeed OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
-				<oplName>SMD IC PMIC;SOT-23</oplName>
+				<oplName>SMD PMIC;LDO;Vin 6V;3.0V;200mA;Without En;1-Ch</oplName>
 				<oplID>310030009</oplID>
 				<oplFootprint>SOT-23</oplFootprint>
 				<oplPackage>SOT-23</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#IC]]></oplLink>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=126]]></oplLink>
 			</oplSystem>
 		</oplList>
 

@@ -3,22 +3,22 @@
 <oompVersion>98</oompVersion>
 
 <com>IMPORTANT ALL MUST BE FILLED</com>
-<oompType>HEAF</oompType>
-<oompSize>I01</oompSize>
+<oompType>ICIC</oompType>
+<oompSize>TS20</oompSize>
 <oompColor>X</oompColor>
-<oompDesc>02PI</oompDesc>
-<oompIndex>RO</oompIndex>
-<oompSort>HEAFI0102PI</oompSort>
+<oompDesc>K108</oompDesc>
+<oompIndex>01</oompIndex>
+<oompSort>ICICTS20K108</oompSort>
 
-<hexID>HF2R</hexID>
+<hexID>ICS108</hexID>
 
 <oompClass></oompClass>
 <oompClassCode></oompClassCode>
 
 <com>Source List</com>
-<manufacturerCompany1>YXCON</manufacturerCompany1>
-<manufacturerCompanyCode1>C-YXCO</manufacturerCompanyCode1>
-<manufacturerPartID1>RF130-1023ABS0741</manufacturerPartID1>
+<manufacturerCompany1>TI</manufacturerCompany1>
+<manufacturerCompanyCode1></manufacturerCompanyCode1>
+<manufacturerPartID1>TXS0108EPWR</manufacturerPartID1>
 
 <manufacturerCompany2></manufacturerCompany2>
 <manufacturerCompanyCode2></manufacturerCompanyCode2>
@@ -49,11 +49,11 @@
 
 <oplScheme1>SEEED OPL</oplScheme1>
 <oplCode1>C-SEEE</oplCode1>
-<oplName1> DIP Black Round Female Header VERT</oplName1>
-<oplID1>320030050</oplID1>
-<oplFootprint1></oplFootprint1>
-<oplPackage1></oplPackage1>
-<oplLink1><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=751]]></oplLink1>
+<oplName1>SMD IC Logic;8-bit noninverting;VCCA 1.2V-3.6V;VCCB 1.65V-5.5V;Iout 50mA</oplName1>
+<oplID1>310050026</oplID1>
+<oplFootprint1>TSSOP-20</oplFootprint1>
+<oplPackage1>TSSOP-20</oplPackage1>
+<oplLink1><![CDATA[http://www.seeedstudio.com/depot/s/310050026.html?search_in_description=0]]></oplLink1>
 
 
 <oplScheme99>Octopart CPL</oplScheme99>
@@ -135,9 +135,9 @@
 
 <bigDistributorCompanyCode1>C-SEEE</bigDistributorCompanyCode1>
 <bigDistributorCompany1>SEEED Studio</bigDistributorCompany1>
-<bigDistributorPartID1>320030050</bigDistributorPartID1>
-<bigDistributorLink1><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=751]]></bigDistributorLink1>
-<bigDistributorName1> DIP Black Round Female Header VERT</bigDistributorName1>
+<bigDistributorPartID1>310050026</bigDistributorPartID1>
+<bigDistributorLink1><![CDATA[http://www.seeedstudio.com/depot/s/310050026.html?search_in_description=0]]></bigDistributorLink1>
+<bigDistributorName1>SMD IC Logic;8-bit noninverting;VCCA 1.2V-3.6V;VCCB 1.65V-5.5V;Iout 50mA</bigDistributorName1>
 
 </newOOMP>
 </xml>

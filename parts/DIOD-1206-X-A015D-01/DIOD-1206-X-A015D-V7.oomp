@@ -4,14 +4,14 @@
 
 <com>OOMP Base</com>
         <oompID>DIOD-1206-X-A015D-01</oompID>
-        <name>SMD (1206) 150 mA Diode</name>
+        <name>SMD (1206) 150 mA Diode 75v</name>
         <hexID>DS115</hexID>
         <oompSort>12060.150</oompSort>
         <oompType>DIOD</oompType>
         <oompSize>1206</oompSize>
         <oompColor>X</oompColor>
         <oompDesc>A015D</oompDesc>
-        <oompIndex>01</oompIndex>
+        <oompIndex>V7</oompIndex>
         <oompOwner></oompOwner>
         <oompVersion></oompVersion>
 
@@ -105,6 +105,15 @@
 				<note></note>
 			</bigDistributor>
 								
+			<bigDistributor>
+				<company>SEEED</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>SMD Diode Switching 75V-150mA</name>
+				<partID></partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=750]]></link>
+				<note></note>
+			</bigDistributor>
+								
 		</sourceList>
 		
 <com>OPL</com>		
@@ -126,6 +135,15 @@
 				<oplFootprint>1206</oplFootprint>
 				<oplPackage>1206</oplPackage>
 				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/DIOD-1206-X-A015D-01]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD Diode Switching 75V-150mA</oplName>
+				<oplID>304040005</oplID>
+				<oplFootprint>1206</oplFootprint>
+				<oplPackage>1206</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=750]]></oplLink>
 			</oplSystem>
 		</oplList>
 

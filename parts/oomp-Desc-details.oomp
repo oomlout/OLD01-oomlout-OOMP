@@ -3,6 +3,18 @@
             <code>ADJU</code>
             <name>Adjustable</name>
     </oompDesc>
+    <oompDesc>
+            <code>BUCA</code>
+            <name>Adjustable Buck</name>
+    </oompDesc>
+    <oompDesc>
+            <code>BOSA</code>
+            <name>Adjustable Boost</name>
+    </oompDesc>
+    <oompDesc>
+            <code>BOS5</code>
+            <name>5v Boost</name>
+    </oompDesc>
     
     <oompDesc>
             <code>FROS</code>
@@ -11675,6 +11687,10 @@
             <name>3.3v</name>
     </oompDesc>		
 	<oompDesc>
+            <code>V36D</code>
+            <name>3.6v</name>
+    </oompDesc>		
+	<oompDesc>
             <code>V05</code>
             <name>5v</name>
     </oompDesc>		
@@ -11697,5 +11713,9 @@
 	<oompDesc>
             <code>GROV</code>
             <name>Grove</name>
+    </oompDesc>		
+	<oompDesc>
+            <code>4DIG</code>
+            <name>4 Digit</name>
     </oompDesc>			
 </xml>

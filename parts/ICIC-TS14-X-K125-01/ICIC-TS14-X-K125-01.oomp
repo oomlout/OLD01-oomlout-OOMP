@@ -127,11 +127,11 @@
 				<note></note>
 			</bigDistributor>					
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
+				<company>SEEED</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>SMD IC Logic;4-bit CMOS Buffer;VCC 2V-6V</name>
+				<partID>310050042</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=125]]></link>
 				<note></note>
 			</bigDistributor>					
 		</sourceList>
@@ -139,11 +139,11 @@
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
-				<oplName>SMD IC Logic;TSSOP-14</oplName>
+				<oplName>SMD IC Logic;4-bit CMOS Buffer;VCC 2V-6V</oplName>
 				<oplID>310050042</oplID>
 				<oplFootprint>TSSOP-14</oplFootprint>
 				<oplPackage>TSSOP-14</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#IC]]></oplLink>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=125]]></oplLink>
 			</oplSystem>
 		</oplList>
 

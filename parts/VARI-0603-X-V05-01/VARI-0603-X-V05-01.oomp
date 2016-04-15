@@ -105,6 +105,14 @@
 				<link><![CDATA[]]></link>
 				<note></note>
 			</bigDistributor>
+			<bigDistributor>
+				<company>SEEED</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>SMD Chip Guard;5V-28V</name>
+				<partID>314130003</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=602]]></link>
+				<note></note>
+			</bigDistributor>
 						
 		</sourceList>
 		
@@ -127,6 +135,15 @@
 				<oplFootprint>0603</oplFootprint>
 				<oplPackage>0603</oplPackage>
 				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/VARI-0603-X-V05-01]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD Chip Guard;5V-28V</oplName>
+				<oplID>314130003</oplID>
+				<oplFootprint>0603</oplFootprint>
+				<oplPackage>0603</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=602]]></oplLink>
 			</oplSystem>
 		</oplList>
 
