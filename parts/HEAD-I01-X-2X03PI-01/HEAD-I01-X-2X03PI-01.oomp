@@ -71,11 +71,11 @@
 			</bigDistributor>					
 
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
+				<company>SEEED</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>SMD Crystal 32.768KHz-7pF-20ppm-70k</name>
+				<partID>320020077</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=94]]></link>
 				<note></note>
 			</bigDistributor>					
 		</sourceList>
@@ -85,11 +85,11 @@
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
-				<oplName>DIP Black Male Header</oplName>
-				<oplID>3460180P1</oplID>
+				<oplName>SMD Crystal 32.768KHz-7pF-20ppm-70k</oplName>
+				<oplID>320020077</oplID>
 				<oplFootprint>2X3P-2.54-2.54-11.6/3.0</oplFootprint>
 				<oplPackage>2X3P-2.54-2.54-11.6/3.0</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Connector]]></oplLink>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=94]]></oplLink>
 			</oplSystem>
 		</oplList>
 
