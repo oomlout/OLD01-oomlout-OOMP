@@ -71,11 +71,11 @@
 			</bigDistributor>					
 
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
+				<company>SEEED</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>DIP Switch;SPDT;200gf</name>
+				<partID>311010004</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=11]]></link>
 				<note></note>
 			</bigDistributor>					
 		</sourceList>
@@ -85,11 +85,11 @@
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
-				<oplName>SW SLIDE DPDT 6VDC 0.3A PCMNT</oplName>
-				<oplID>3010010P1</oplID>
+				<oplName>DIP Switch;SPDT;200gf</oplName>
+				<oplID>311010004</oplID>
 				<oplFootprint>6P-2CH-2.54-9.1X3.5X3.2+2H</oplFootprint>
 				<oplPackage>6P-2CH-2.54-9.1X3.5X3.2+2H</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Connector]]></oplLink>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=11]]></oplLink>
 			</oplSystem>
 		</oplList>
 

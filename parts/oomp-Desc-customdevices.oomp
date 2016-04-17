@@ -16,6 +16,10 @@
             <code>K328</code>
             <name>AtMega328P</name>
     </oompDesc>	
+	<oompDesc>
+            <code>K168</code>
+            <name>AtMega168P</name>
+    </oompDesc>	
 	
 	<oompDesc>
             <code>K345</code>
@@ -152,10 +156,62 @@
     </oompDesc>	
 	<oompDesc>
             <code>KF230</code>
-            <name>High Speed USB-Serial (FT230XS-R) </name>
+            <name>High Speed USB-Serial (FT230XS-R)</name>
     </oompDesc>	
 	<oompDesc>
             <code>K108</code>
-            <name>Level Shifter (TXS108E) </name>
+            <name>8-bit Level Shifter (TXS108E)</name>
+    </oompDesc>	
+	<oompDesc>
+            <code>K6612</code>
+            <name>Dual H-Bridge (TB6612)</name>
+    </oompDesc>	
+	<oompDesc>
+            <code>K9221</code>
+            <name>12 Channel Constant Current LED Driver (MY9221)</name>
+    </oompDesc>	
+	<oompDesc>
+            <code>K1637</code>
+            <name>7 Segment 4 Digit LED Driver (TM1637)</name>
+    </oompDesc>	
+	<oompDesc>
+            <code>K108B</code>
+            <name>8 bit Level Shifter (TXB0108PW)</name>
+    </oompDesc>	
+	<oompDesc>
+            <code>K1820</code>
+            <name>Voice Recorder (ISD1820P)</name>
+    </oompDesc>	
+	<oompDesc>
+            <code>K2659</code>
+            <name>GPS Amplifier (MAX2659)</name>
+    </oompDesc>	
+	<oompDesc>
+            <code>K2812</code>
+            <name>Smart Controller (WS2812B)</name>
+    </oompDesc>	
+	<oompDesc>
+            <code>KFLA</code>
+            <name>Flashing (50F503)</name>
+    </oompDesc>	
+	<oompDesc>
+            <code>K2291</code>
+            <name>PIR Motion Sensing (TM2291)</name>
+    </oompDesc>	
+	<oompDesc>
+            <code>K5883</code>
+            <name>3-Axis Digital Compass (HMC5883L)</name>
+    </oompDesc>	
+	<oompDesc>
+            <code>K9250</code>
+            <name>9-Axis Inertial Measurement Unit (MPU-9250)</name>
+    </oompDesc>	
+	<oompDesc>
+            <code>K36</code>
+            <name>Temperature Sensor (TMP36)</name>
+    </oompDesc>	
+	<oompDesc>
+            <code>K7660</code>
+            <name>3-Axis Accelerometer (MMA7660FCR1)</name>
     </oompDesc>	
 </xml>

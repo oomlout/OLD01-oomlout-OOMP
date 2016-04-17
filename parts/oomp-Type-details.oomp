@@ -129,12 +129,20 @@
             <name>LED</name>
     </oompType>
     <oompType>
+            <code>MICR</code>
+            <name>Microphone</name>
+    </oompType>
+    <oompType>
             <code>MOSN</code>
             <name>N-Ch. MOSFET</name>
     </oompType>
 	<oompType>
             <code>MOSP</code>
             <name>P-Ch. MOSFET</name>
+    </oompType>
+	<oompType>
+            <code>MOTO</code>
+            <name>Motor</name>
     </oompType>
 	<oompType>
             <code>NHFF</code>
@@ -178,6 +186,10 @@
             <name>Power Adapter</name>
     </oompType>	
 	<oompType>
+            <code>PRIV</code>
+            <name>Plastic Rivet</name>
+    </oompType>	
+	<oompType>
             <code>RBCC</code>
             <name>Crimped Ribbon Cable</name>
     </oompType>
@@ -210,12 +222,24 @@
             <name>SD Card Socket</name>
     </oompType>	
     <oompType>
+            <code>SENS</code>
+            <name>Sensor</name>
+    </oompType>	
+    <oompType>
             <code>SWIS</code>
             <name>Switch (Slide)</name>
     </oompType>		
     <oompType>
             <code>TERS</code>
             <name>Screw Terminal</name>
+    </oompType>		
+    <oompType>
+            <code>THER</code>
+            <name>Thermistor</name>
+    </oompType>	
+    <oompType>
+            <code>TILS</code>
+            <name>Tilt Switch</name>
     </oompType>
 	<oompType>
             <code>TRNN</code>

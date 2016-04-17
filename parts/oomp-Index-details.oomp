@@ -82,6 +82,10 @@
 		<name>3.3v</name>
 	</oompIndex>	
 	<oompIndex>
+		<code>VJ</code>
+		<name>3v</name>
+	</oompIndex>	
+	<oompIndex>
 		<code>VA</code>
 		<name>25v</name>
 	</oompIndex>
@@ -114,6 +118,14 @@
 		<code>V4</code>
 		<name>40v</name>
 	</oompIndex>	
+	<oompIndex>
+		<code>AI</code>
+		<name>25 mA</name>
+	</oompIndex>	
+	<oompIndex>
+		<code>AH</code>
+		<name>100 mA</name>
+	</oompIndex>
 	<oompIndex>
 		<code>AC</code>
 		<name>150 mA</name>

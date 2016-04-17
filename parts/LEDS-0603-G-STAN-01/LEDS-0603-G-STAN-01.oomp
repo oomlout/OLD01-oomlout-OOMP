@@ -126,12 +126,12 @@
 				<link><![CDATA[ ]]></link>
 				<note></note>
 			</bigDistributor>					
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
+			<bigDistributor>					
+				<company>SEEED</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>SMD LED Clear-Green</name>
+				<partID>304090043</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=6]]></link>
 				<note></note>
 			</bigDistributor>					
 		</sourceList>
@@ -140,10 +140,10 @@
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
 				<oplName>SMD LED Clear-Green</oplName>
-				<oplID>0330010P1</oplID>
-				<oplFootprint>LED-0603</oplFootprint>
-				<oplPackage>LED-0603</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Diode]]></oplLink>
+				<oplID>304090043</oplID>
+				<oplFootprint>0603</oplFootprint>
+				<oplPackage>0603</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=6]]></oplLink>
 			</oplSystem>
 		</oplList>
 

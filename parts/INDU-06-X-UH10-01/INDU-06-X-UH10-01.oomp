@@ -48,7 +48,7 @@
 				<company>Shenzhen Codaca Electronic Co. Ltd.</company>
 				<companyCode>C-CODA</companyCode>
 				<name></name>
-				<partID>SPD3D16-4R7M</partID>
+				<partID>CSAB0630-100M</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -64,9 +64,9 @@
 			<bigDistributor>
 				<company>SEEED Studio</company>
 				<companyCode>C-SEEE</companyCode>
-				<name>SMD Inductor 10uH-20%;SMD-2P-L6.0*W6.0*H3.0mm</name>
+				<name>SMD Inductor 10uH-20%-5A</name>
 				<partID>303010016</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=88]]></link>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=200]]></link>
 				<note></note>
 			</bigDistributor>					
 
@@ -85,11 +85,11 @@
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
-				<oplName>SMD Inductor 10uH-20%;SMD-2P-L6.0*W6.0*H3.0mm</oplName>
+				<oplName>SMD Inductor 10uH-20%-5A</oplName>
 				<oplID>303010016</oplID>
 				<oplFootprint>SPD3D16-4R7M</oplFootprint>
 				<oplPackage>SPD3D16-4R7M</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Inductor]]></oplLink>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=200]]></oplLink>
 			</oplSystem>
 		</oplList>
 

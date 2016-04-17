@@ -134,16 +134,24 @@
 				<link><![CDATA[ ]]></link>
 				<note></note>
 			</bigDistributor>					
+			<bigDistributor>
+				<company>SEEED</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>LED-SMD Red Diffused</name>
+				<partID>304090042</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=5]]></link>
+				<note></note>
+			</bigDistributor>					
 		</sourceList>
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
 				<oplName>LED-SMD Red Diffused</oplName>
-				<oplID>0330020P1</oplID>
-				<oplFootprint>LED-0603</oplFootprint>
-				<oplPackage>LED-0603</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Diode]]></oplLink>
+				<oplID>304090042</oplID>
+				<oplFootprint>0603</oplFootprint>
+				<oplPackage>0603</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=5]]></oplLink>
 			</oplSystem>
 		</oplList>
 

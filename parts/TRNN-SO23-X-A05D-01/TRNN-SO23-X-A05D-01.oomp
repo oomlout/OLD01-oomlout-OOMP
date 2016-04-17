@@ -52,20 +52,12 @@
 				<link></link>
 				<note></note>			
 			</manufacturer>
-			<manufacturer>
-				<company>Jiangsu Changjiang Electronics</company>
-				<companyCode>C-JCST</companyCode>
-				<name></name>
-				<partID>S8050</partID>
-				<link></link>
-				<note></note>		
-			</manufacturer>
 				
 			<bigDistributor>
 				<company>SEEED Studio</company>
 				<companyCode>C-SEEE</companyCode>
 				<name>SMD Transistors NPN 25V-500mA</name>
-				<partID>0400000P1 305010017 305010018</partID>
+				<partID>305010018</partID>
 				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=41]]></link>
 				<note></note>
 			</bigDistributor>					
@@ -86,7 +78,7 @@
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
 				<oplName>SMD Transistors NPN 25V-500mA</oplName>
-				<oplID>0400000P1, 305010017, 305010017</oplID>
+				<oplID>305010018</oplID>
 				<oplFootprint>SOT-23</oplFootprint>
 				<oplPackage>SOT-23</oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Transistor]]></oplLink>

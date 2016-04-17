@@ -49,6 +49,10 @@
             <name>SPDT</name>
     </oompDesc>
     <oompDesc>
+            <code>SPST</code>
+            <name>SPST</name>
+    </oompDesc>
+    <oompDesc>
             <code>DPDT</code>
             <name>DPDT</name>
     </oompDesc>
@@ -77,6 +81,25 @@
     <oompDesc>
             <code>SUBR</code>
             <name>Super Bright</name>
+    </oompDesc>
+	
+	<oompDesc>
+            <code>NH33D</code>
+            <name>3.3 NH</name>
+    </oompDesc>
+	<oompDesc>
+            <code>NH47D</code>
+            <name>4.7 nH</name>
+    </oompDesc>
+	
+	<oompDesc>
+            <code>NH15</code>
+            <name>15 nH</name>
+    </oompDesc>
+	
+	<oompDesc>
+            <code>UH22D</code>
+            <name>2.2 uH</name>
     </oompDesc>
 	<oompDesc>
             <code>UH47D</code>
@@ -137,8 +160,16 @@
             <name>4.1 Amp</name>
     </oompDesc>
     <oompDesc>
+            <code>A43D</code>
+            <name>4.3 Amp</name>
+    </oompDesc>
+    <oompDesc>
             <code>A05</code>
             <name>5 Amp</name>
+    </oompDesc>
+    <oompDesc>
+            <code>A06</code>
+            <name>6 Amp</name>
     </oompDesc>
     <oompDesc>
             <code>02P</code>
@@ -1100,6 +1131,10 @@
     <oompDesc>
             <code>O499D</code>
             <name>49.9 Ohm</name>
+    </oompDesc>
+    <oompDesc>
+            <code>O001D</code>
+            <name>0.1 Ohm</name>
     </oompDesc>
     <oompDesc>
             <code>O103X4</code>
@@ -9642,6 +9677,10 @@
             <name>1 mm</name>
     </oompDesc>
     <oompDesc>
+            <code>L5</code>
+            <name>5 mm</name>
+    </oompDesc>
+    <oompDesc>
             <code>L9</code>
             <name>9 mm</name>
     </oompDesc>
@@ -11695,6 +11734,14 @@
             <name>5v</name>
     </oompDesc>		
 	<oompDesc>
+            <code>V06</code>
+            <name>6v</name>
+    </oompDesc>		
+	<oompDesc>
+            <code>V05B</code>
+            <name>5v Boost</name>
+    </oompDesc>		
+	<oompDesc>
             <code>V09</code>
             <name>9v</name>
     </oompDesc>		
@@ -11717,5 +11764,26 @@
 	<oompDesc>
             <code>4DIG</code>
             <name>4 Digit</name>
+    </oompDesc>			
+	<oompDesc>
+            <code>HUTE</code>
+            <name>Humidity and Temperature</name>
+    </oompDesc>			
+	<oompDesc>
+            <code>PHRE</code>
+            <name>Photo Reflective</name>
+    </oompDesc>			
+</xml>	
+	<oompDesc>
+            <code>PIRS</code>
+            <name>Pyroelectric Infrared Detector (PIR)</name>
+    </oompDesc>		
+	<oompDesc>
+            <code>UVUV</code>
+            <name>Ultraviolet</name>
+    </oompDesc>	
+	<oompDesc>
+            <code>PIVS</code>
+            <name>Piezo Vibration</name>
     </oompDesc>			
 </xml>

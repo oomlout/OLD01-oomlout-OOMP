@@ -107,6 +107,14 @@
 				<link><![CDATA[http://uk.rs-online.com/web/p/array-resistors/5225456/?searchTerm=CAT16-220J4LF&relevancy-data=636F3D3226696E3D4931384E4B6E6F776E41734D504E266C753D656E266D6D3D6D61746368616C6C7061727469616C26706D3D5E5B5C707B4C7D5C707B4E647D2D2C2F255C2E5D2B2426706F3D313326736E3D592673743D4D414E5F504152545F4E554D4245522677633D424F5448267573743D43415431362D3232304A344C4626]]></link>
 				<note></note>
 			</bigDistributor>	
+			<bigDistributor>
+				<company>SEEED</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>SMD RES Array 22R-4R</name>
+				<partID>301030014</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=1323]]></link>
+				<note></note>
+			</bigDistributor>	
 		</sourceList>	
 		
 <com>OPL</com>		
@@ -128,6 +136,15 @@
 				<oplFootprint>1268</oplFootprint>
 				<oplPackage>1206-8</oplPackage>
 				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESA-1268-X-O220X4-01]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD RES Array 22R-4R</oplName>
+				<oplID>301030014</oplID>
+				<oplFootprint>1268</oplFootprint>
+				<oplPackage>1206-8</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=1323]]></oplLink>
 			</oplSystem>			
 		</oplList>
 

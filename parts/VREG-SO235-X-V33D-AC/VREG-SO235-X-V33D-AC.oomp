@@ -158,6 +158,15 @@
 				<oplPackage>SOT25</oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=109]]></oplLink>
 			</oplSystem>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD PMIC;LDO;Vin 10V;3.3V;150mA;With En;1-Ch</oplName>
+				<oplID>310030033</oplID>
+				<oplFootprint>SOT-23-5</oplFootprint>
+				<oplPackage>SOT-23-5</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=109]]></oplLink>
+			</oplSystem>
 
 
 		</oplList>

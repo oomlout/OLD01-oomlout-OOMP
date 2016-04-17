@@ -71,6 +71,14 @@
 				<link></link>
 				<note></note>			
 			</manufacturer>
+			<manufacturer>
+				<company>Texas Instruments</company>
+				<companyCode>C-TITI</companyCode>
+				<name></name>
+				<partID>LMV358ID</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
 				
 			<bigDistributor>
 				<company>DigiKey</company>
@@ -109,8 +117,8 @@
 				<company>SEEED</company>
 				<companyCode>C-SEEE</companyCode>
 				<name>SMD IC Amplifier;DUAL;1MHz;2.7 V-5.5 V</name>
-				<partID>310020002</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=169]]></link>
+				<partID>310020007</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=1196]]></link>
 				<note></note>
 			</bigDistributor>				
 		</sourceList>
@@ -134,6 +142,15 @@
 				<oplFootprint>MS08</oplFootprint>
 				<oplPackage>MS08</oplPackage>
 				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/OPAM-MS08-X-KLMV358-01]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD IC Amplifier;DUAL;1MHz;2.7 V-5.5 V</oplName>
+				<oplID>310020007</oplID>
+				<oplFootprint>SOIC-8</oplFootprint>
+				<oplPackage>SOIC-8</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=1196]]></oplLink>
 			</oplSystem>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
