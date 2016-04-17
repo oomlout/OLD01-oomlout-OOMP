@@ -3,7 +3,7 @@
 
 <com>OOMP Base</com>
         <oompID>BUZZ-12-X-V3-01</oompID>
-        <name> 12 mm 3v Buzzer </name>
+        <name>12 mm 3v Buzzer</name>
 
         <hexID>BZ12</hexID>
         <oompSort>BUZZ12V3</oompSort>
@@ -64,7 +64,7 @@
 			<bigDistributor>
 				<company>SEEED Studio</company>
 				<companyCode>C-SEEE</companyCode>
-				<name> DIP Buzzer 3V/30mA;2700</name>
+				<name>DIP Buzzer 3V/30mA;2700</name>
 				<partID>312010004</partID>
 				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=135]]></link>
 				<note></note>
@@ -117,7 +117,7 @@
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
-				<oplName> DIP Buzzer 3V/30mA;2700</oplName>
+				<oplName>DIP Buzzer 3V/30mA;2700</oplName>
 				<oplID>312010004</oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>

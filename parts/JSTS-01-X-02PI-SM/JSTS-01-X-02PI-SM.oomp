@@ -3,7 +3,7 @@
 
 <com>OOMP Base</com>
         <oompID>JSTS-01-X-02PI-SM</oompID>
-        <name> 1 mm 2 Pin JST Socket (SMD) </name>
+        <name>1 mm 2 Pin JST Socket (SMD)</name>
 
         <hexID>J102</hexID>
         <oompSort>JSTS0102PI</oompSort>
@@ -64,7 +64,7 @@
 			<bigDistributor>
 				<company>SEEED Studio</company>
 				<companyCode>C-SEEE</companyCode>
-				<name> SMD White JST;2Pin-1.0 pitch</name>
+				<name>SMD White JST;2Pin-1.0 pitch</name>
 				<partID>320110054</partID>
 				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=555]]></link>
 				<note></note>
@@ -117,7 +117,7 @@
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
-				<oplName> SMD White JST;2Pin-1.0 pitch</oplName>
+				<oplName>SMD White JST;2Pin-1.0 pitch</oplName>
 				<oplID>320110054</oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>

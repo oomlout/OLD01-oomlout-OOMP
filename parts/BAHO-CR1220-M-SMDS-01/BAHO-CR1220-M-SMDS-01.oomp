@@ -3,7 +3,7 @@
 
 <com>OOMP Base</com>
         <oompID>BAHO-CR1220-M-SMDS-01</oompID>
-        <name> CR1220 SMD Metal Battery Holder </name>
+        <name>CR1220 SMD Metal Battery Holder</name>
 
         <hexID>BHS1220M</hexID>
         <oompSort>BAHOCR1220SMDS</oompSort>
@@ -64,7 +64,7 @@
 			<bigDistributor>
 				<company>SEEED Studio</company>
 				<companyCode>C-SEEE</companyCode>
-				<name> DIP CR1220 Cell Battery Holder</name>
+				<name>DIP CR1220 Cell Battery Holder</name>
 				<partID>320170002</partID>
 				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=467]]></link>
 				<note></note>
@@ -117,7 +117,7 @@
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
-				<oplName> DIP CR1220 Cell Battery Holder</oplName>
+				<oplName>DIP CR1220 Cell Battery Holder</oplName>
 				<oplID>320170002</oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>

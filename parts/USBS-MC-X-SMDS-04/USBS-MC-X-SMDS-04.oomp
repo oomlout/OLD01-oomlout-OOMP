@@ -3,7 +3,7 @@
 
 <com>OOMP Base</com>
         <oompID>USBS-MC-X-SMDS-04</oompID>
-        <name> Micro SMD USB Socket </name>
+        <name>Micro SMD USB Socket</name>
 
         <hexID>USM4</hexID>
         <oompSort>USBSMCSMDS</oompSort>
@@ -64,7 +64,7 @@
 			<bigDistributor>
 				<company>SEEED Studio</company>
 				<companyCode>C-SEEE</companyCode>
-				<name> SMD Micro USB-B</name>
+				<name>SMD Micro USB-B</name>
 				<partID>320010005</partID>
 				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=629]]></link>
 				<note></note>
@@ -117,7 +117,7 @@
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
-				<oplName> SMD Micro USB-B</oplName>
+				<oplName>SMD Micro USB-B</oplName>
 				<oplID>320010005</oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>

@@ -3,7 +3,7 @@
 
 <com>OOMP Base</com>
         <oompID>CAPC-0402-X-PF15D-01</oompID>
-        <name> SMD (0402) 1.5 pF Capacitor (Ceramic) </name>
+        <name>SMD (0402) 1.5 pF Capacitor (Ceramic)</name>
 
         <hexID>C42P015D</hexID>
         <oompSort>CAPC0402PF15D</oompSort>
@@ -64,7 +64,7 @@
 			<bigDistributor>
 				<company>SEEED Studio</company>
 				<companyCode>C-SEEE</companyCode>
-				<name> SMD CAP Ceramic 1.5pF-50V-0.1pF-NPO</name>
+				<name>SMD CAP Ceramic 1.5pF-50V-0.1pF-NPO</name>
 				<partID>302010023</partID>
 				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=529]]></link>
 				<note></note>
@@ -117,7 +117,7 @@
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
-				<oplName> SMD CAP Ceramic 1.5pF-50V-0.1pF-NPO</oplName>
+				<oplName>SMD CAP Ceramic 1.5pF-50V-0.1pF-NPO</oplName>
 				<oplID>302010023</oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>

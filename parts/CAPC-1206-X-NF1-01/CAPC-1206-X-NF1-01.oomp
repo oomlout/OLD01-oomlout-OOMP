@@ -3,7 +3,7 @@
 
 <com>OOMP Base</com>
         <oompID>CAPC-1206-X-NF1-01</oompID>
-        <name> SMD (1206) 1 nF Capacitor (Ceramic) </name>
+        <name>SMD (1206) 1 nF Capacitor (Ceramic)</name>
 
         <hexID>C1N001</hexID>
         <oompSort>CAPC1206NF1</oompSort>
@@ -64,7 +64,7 @@
 			<bigDistributor>
 				<company>SEEED Studio</company>
 				<companyCode>C-SEEE</companyCode>
-				<name> SMD CAP Ceramic 1nF-1KV-10%-X7R;</name>
+				<name>SMD CAP Ceramic 1nF-1KV-10%-X7R;</name>
 				<partID>302010189</partID>
 				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=1137]]></link>
 				<note></note>
@@ -117,7 +117,7 @@
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
-				<oplName> SMD CAP Ceramic 1nF-1KV-10%-X7R;</oplName>
+				<oplName>SMD CAP Ceramic 1nF-1KV-10%-X7R;</oplName>
 				<oplID>302010189</oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>

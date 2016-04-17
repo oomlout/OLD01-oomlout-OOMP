@@ -3,7 +3,7 @@
 
 <com>OOMP Base</com>
         <oompID>HEDS-35D-X-SMDS-4P</oompID>
-        <name> 3.5 mm SMD Headphone Socket (4 Pin) </name>
+        <name>3.5 mm SMD Headphone Socket (4 Pin)</name>
 
         <hexID>HP34</hexID>
         <oompSort>HEDS35DSMDS</oompSort>
@@ -64,7 +64,7 @@
 			<bigDistributor>
 				<company>SEEED Studio</company>
 				<companyCode>C-SEEE</companyCode>
-				<name> SMD Audio Jack;3.5mm;4 Degree</name>
+				<name>SMD Audio Jack;3.5mm;4 Degree</name>
 				<partID>320040003</partID>
 				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=181]]></link>
 				<note></note>
@@ -117,7 +117,7 @@
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
-				<oplName> SMD Audio Jack;3.5mm;4 Degree</oplName>
+				<oplName>SMD Audio Jack;3.5mm;4 Degree</oplName>
 				<oplID>320040003 320040009</oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
