@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ SMD (1206) 10 uF Capacitor (Ceramic) 25v __    
+Name: __SMD (1206) 10 uF Capacitor (Ceramic) 25v__    
 ID: __CAPC-1206-X-UF10-VA__   
 Hex ID: __C1U010__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-1206-X-UF10-VA__   

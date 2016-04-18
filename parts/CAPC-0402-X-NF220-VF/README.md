@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ SMD (0402) 220 nF Capacitor (Ceramic) 16v __    
+Name: __SMD (0402) 220 nF Capacitor (Ceramic) 16v__    
 ID: __CAPC-0402-X-NF220-VF__   
 Hex ID: __C42N220__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0402-X-NF220-VF__   

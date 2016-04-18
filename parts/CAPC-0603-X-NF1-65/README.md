@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ SMD (0603) 1 nF Capacitor (Ceramic) 5% __    
+Name: __SMD (0603) 1 nF Capacitor (Ceramic) 5%__    
 ID: __CAPC-0603-X-NF1-65__   
 Hex ID: __C6N0015__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0603-X-NF1-65__   

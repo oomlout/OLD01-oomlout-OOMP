@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ SMD (0402) 1 uF Capacitor (Ceramic) 6.3v __    
+Name: __SMD (0402) 1 uF Capacitor (Ceramic) 6.3v__    
 ID: __CAPC-0402-X-UF1-VH__   
 Hex ID: __C42U001__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0402-X-UF1-VH__   

@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ 18 mm Quad Band (850/900/1800/1900 Mhz) Antenna __    
+Name: __18 mm Quad Band (850/900/1800/1900 Mhz) Antenna__    
 ID: __ANTE-18-X-M4X4-01__   
 Hex ID: __AN4X18__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ANTE-18-X-M4X4-01__   

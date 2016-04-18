@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ SMD (0402) 2.2 nF Capacitor (Ceramic) __    
+Name: __SMD (0402) 2.2 nF Capacitor (Ceramic)__    
 ID: __CAPC-0402-X-NF22D-01__   
 Hex ID: __C42N002__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0402-X-NF22D-01__   

@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ SMD (0402) 0.5 pF Capacitor (Ceramic) __    
+Name: __SMD (0402) 0.5 pF Capacitor (Ceramic)__    
 ID: __CAPC-0402-X-PF05D-01__   
 Hex ID: __C42P0005__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0402-X-PF05D-01__   

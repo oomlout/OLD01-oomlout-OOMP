@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ SMD (0402) 4.7 nF Capacitor (Ceramic) __    
+Name: __SMD (0402) 4.7 nF Capacitor (Ceramic)__    
 ID: __CAPC-0402-X-NF47D-01__   
 Hex ID: __C42N004__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0402-X-NF47D-01__   

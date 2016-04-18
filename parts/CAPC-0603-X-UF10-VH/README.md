@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ SMD (0603) 10 uF Capacitor (Ceramic) 6.3v __    
+Name: __SMD (0603) 10 uF Capacitor (Ceramic) 6.3v__    
 ID: __CAPC-0603-X-UF10-VH__   
 Hex ID: __C6U010__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0603-X-UF10-VH__   

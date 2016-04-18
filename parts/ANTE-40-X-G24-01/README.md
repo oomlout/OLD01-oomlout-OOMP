@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ 40 mm 2.4 Ghz Antenna __    
+Name: __40 mm 2.4 Ghz Antenna__    
 ID: __ANTE-40-X-G24-01__   
 Hex ID: __AN2440__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ANTE-40-X-G24-01__   

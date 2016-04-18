@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ 5 mm 47 uF Capacitor (Electrolytic) 16v __    
+Name: __5 mm 47 uF Capacitor (Electrolytic) 16v__    
 ID: __CAPE-05-X-UF47-VF__   
 Hex ID: __CEU047__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPE-05-X-UF47-VF__   

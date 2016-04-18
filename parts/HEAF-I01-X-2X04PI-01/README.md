@@ -1,0 +1,15 @@
+
+Summary
+=================
+  
+Name: __2.54 mm 8 Pin (2x4) Female Header__    
+ID: __HEAF-I01-X-2X04PI-01__   
+Hex ID: __HFX4__   
+WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HEAF-I01-X-2X04PI-01__   
+Short URL: __http://oom.lt/HFX4__   
+
+Full Details
+==========================
+Full summary of this part can be found in the wiki:   
+__https://github.com/oomlout/oomlout-OOMP/wiki/HEAF-I01-X-2X04PI-01__    
+

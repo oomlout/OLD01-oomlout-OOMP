@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ SMD (6.3 mm) 220 uF Capacitor (Electrolytic) 16v __    
+Name: __SMD (6.3 mm) 220 uF Capacitor (Electrolytic) 16v__    
 ID: __CAPE-S63D-X-UF220-VF__   
 Hex ID: __CESU220__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPE-S63D-X-UF220-VF__   

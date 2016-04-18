@@ -5,9 +5,9 @@ Summary
   
 Name: __2.54 mm 10 Pin Yellow Female Header__    
 ID: __HEAF-I01-Y-10PI-01__   
-Hex ID: __10C4__   
+Hex ID: __HF10Y__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HEAF-I01-Y-10PI-01__   
-Short URL: __http://oom.lt/10C4__   
+Short URL: __http://oom.lt/HF10Y__   
 
 Full Details
 ==========================

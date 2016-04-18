@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ 200 mm Grove Cable __    
+Name: __200 mm Grove Cable__    
 ID: __CABL-200-X-GROV-01__   
 Hex ID: __CBG200__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CABL-200-X-GROV-01__   

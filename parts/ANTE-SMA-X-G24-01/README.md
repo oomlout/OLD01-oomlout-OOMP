@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ SMA 2.4 Ghz Antenna __    
+Name: __SMA 2.4 Ghz Antenna__    
 ID: __ANTE-SMA-X-G24-01__   
 Hex ID: __AN24SM__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ANTE-SMA-X-G24-01__   

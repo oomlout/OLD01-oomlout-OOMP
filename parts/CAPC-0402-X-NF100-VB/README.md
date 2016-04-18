@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ SMD (0402) 100 nF Capacitor (Ceramic) 10v __    
+Name: __SMD (0402) 100 nF Capacitor (Ceramic) 10v__    
 ID: __CAPC-0402-X-NF100-VB__   
 Hex ID: __C42N100B__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0402-X-NF100-VB__   

@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ SMD (0603) 10 pF Capacitor (Ceramic) __    
+Name: __SMD (0603) 10 pF Capacitor (Ceramic)__    
 ID: __CAPC-0603-X-PF10-01__   
 Hex ID: __C6P010__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0603-X-PF10-01__   

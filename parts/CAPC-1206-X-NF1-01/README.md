@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ SMD (1206) 1 nF Capacitor (Ceramic) __    
+Name: __SMD (1206) 1 nF Capacitor (Ceramic)__    
 ID: __CAPC-1206-X-NF1-01__   
 Hex ID: __C1N001__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-1206-X-NF1-01__   

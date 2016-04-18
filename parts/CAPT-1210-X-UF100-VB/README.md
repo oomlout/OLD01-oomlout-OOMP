@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ SMD (1210) 100 uF Capacitor (Tantalum) 10v __    
+Name: __SMD (1210) 100 uF Capacitor (Tantalum) 10v__    
 ID: __CAPT-1210-X-UF100-VB__   
 Hex ID: __C1U100__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPT-1210-X-UF100-VB__   

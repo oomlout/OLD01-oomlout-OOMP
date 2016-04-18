@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ SMD (0402) 4.7 uF Capacitor (Ceramic) 6.3v __    
+Name: __SMD (0402) 4.7 uF Capacitor (Ceramic) 6.3v__    
 ID: __CAPC-0402-X-UF47D-VH__   
 Hex ID: __C42U004__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0402-X-UF47D-VH__   

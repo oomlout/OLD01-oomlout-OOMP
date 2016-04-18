@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ SMD (0805) 22 uF Capacitor (Ceramic) 6.3v __    
+Name: __SMD (0805) 22 uF Capacitor (Ceramic) 6.3v__    
 ID: __CAPC-0805-X-UF22-VH__   
 Hex ID: __C85U022__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0805-X-UF22-VH__   
