@@ -52,8 +52,11 @@ __[(svg)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%
 ::::
 ^^0,200,%%T%%^^
 **%%ID%%,oompProject.oompID,componentList.component.compIndex&&%%T%%&&**
-| oompProject.oompID,componentList.component.compID&&%%T%%&&@@_140.jpg]] | @@%%ID%%,oompProject.oompID,componentList.component.compIden&&%%T%%&&@@,&nbsp; | [@@%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@@<br>__@3@2%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@2,oompPart.oompID,hexID@3](https://github.com/oomlout/oomlout-OOMP/wiki/@@%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@@__) | [@3@2%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@2,oompPart.oompID,name@3](https://github.com/oomlout/oomlout-OOMP/wiki/@@%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@@) | @@%%ID%%,oompProject.oompID,componentList.component.compWhy&&%%T%%&&@@|~~
+| @@%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@@_140.jpg]] | @@%%ID%%,oompProject.oompID,componentList.component.compIden&&%%T%%&&@@,&nbsp; | [@@%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@@<br>__@3@2%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@2,oompPart.oompID,hexID@3](https://github.com/oomlout/oomlout-OOMP/wiki/@@%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@@__) | [@3@2%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@2,oompPart.oompID,name@3](https://github.com/oomlout/oomlout-OOMP/wiki/@@%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@@) | @@%%ID%%,oompProject.oompID,componentList.component.compWhy&&%%T%%&&@@|~~
+
 ;;;;
+
+
 
 Source Files  
 ----------------------  
@@ -92,7 +95,7 @@ OPL Libraries
 ----------------------------------
 | __OPL Scheme__ | __Part Number__ | __Description__ |
 | -------------- | --------------- | --------------- |
-| OOMP | __(%%ID%%)[https://github.com/oomlout/oomlout-OOMP/wiki/%%ID%%]__ | @@%%ID%%,oompProject.oompID,name@@ |
+| OOMP | __[%%ID%%](https://github.com/oomlout/oomlout-OOMP/wiki/%%ID%%)__ | @@%%ID%%,oompProject.oompID,name@@ |
 ::::
 ^^0,12,%%T%%^^
 **%%ID%%,oompProject.oompID,oplList.oplSystem.oplCode&&%%T%%&&**
