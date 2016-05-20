@@ -214,6 +214,14 @@
 			<tagSort></tagSort>
     </oompTag>
     <oompTag>
+            <tagName>ooNumRows</tagName>
+            <tagReadable>Number of Rows</tagReadable>
+			<tagLabel>number of rows</tagLabel>
+			<tagType>Description</tagType>						
+            <tagDescription>The number of rows in a component. Most often used for multiple row headers.</tagDescription>
+			<tagSort></tagSort>
+    </oompTag>
+    <oompTag>
             <tagName>ooWireSize</tagName>
             <tagReadable>Wire Gauge</tagReadable>
 			<tagLabel>wire gauge</tagLabel>
