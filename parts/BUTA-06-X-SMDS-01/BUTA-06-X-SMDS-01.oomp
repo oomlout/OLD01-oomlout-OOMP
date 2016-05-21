@@ -127,7 +127,7 @@
 			<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
-				<name>Pushbutton Switches SHORT TRAVEL SWITCH 6X6, 5.0MM</name>
+				<name>Pushbutton Switches SHORT TRAVEL SWITCH 6X6; 5.0MM</name>
 				<partID>693-1301.9315</partID>
 				<link><![CDATA[http://uk.mouser.com/ProductDetail/Schurter/13019315/?qs=sGAEpiMZZMvxtGF7dlGNpine0yr6cgj2blZOKgiiQpQ%3d]]></link>
 				<note></note>
@@ -278,12 +278,12 @@
 		<drawItem>circle;-2.15;-2.15;0.75;0.75;Circle Nub 2</drawItem>
 		<drawItem>circle;2.15;-2.15;0.75;0.75;Circle Nub 3</drawItem>
 		<drawItem>circle;-2.15;2.15;0.75;0.75;Circle Nub 4</drawItem>
-		<drawItem>rectangle;6.9;0.885;1.4;0.7, pad 1</drawItem>
-		<drawItem>rectangle;-6.9;-0.885;1.4;0.7, pad 2</drawItem>
-		<drawItem>rectangle;-6.9;0.885;1.4;0.7, pad 3</drawItem>
-		<drawItem>rectangle;6.9;-0.885;1.4;0.7, pad 4</drawItem>
-		<drawItem>oompName,0,5,20,5,6 mm SMD Pushbutton (Tactile)</drawItem>
-		<drawItem>oompURL,0,-5,2.835,B06</drawItem>
+		<drawItem>rectangle;3.8;2.25;1.4;0.7;pad 1</drawItem>
+		<drawItem>rectangle;-3.8;-2.25;1.4;0.7;pad 2</drawItem>
+		<drawItem>rectangle;-3.8;2.25;1.4;0.7;pad 3</drawItem>
+		<drawItem>rectangle;3.8;-2.25;1.4;0.7;pad 4</drawItem>
+		<drawItem>oompName;0;5;20;5;6 mm SMD Pushbutton (Tactile)</drawItem>
+		<drawItem>oompURL;0;-5;2.835;B06</drawItem>	
 	</oompDiag>
 	
 	
