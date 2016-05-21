@@ -1,4 +1,5 @@
 
+![ICIC-SC16-X-KM232-01](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/ICIC-SC16-X-KM232-01/ICIC-SC16-X-KM232-01_420.jpg)   
 Summary
 =================
   

@@ -1,4 +1,5 @@
 
+![ICIC-SC8-X-K2551-01](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/ICIC-SC8-X-K2551-01/ICIC-SC8-X-K2551-01_420.jpg)   
 Summary
 =================
   

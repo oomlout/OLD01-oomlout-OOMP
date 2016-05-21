@@ -1,4 +1,5 @@
 
+![POTE-14-X-O204-68](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/POTE-14-X-O204-68/POTE-14-X-O204-68_420.jpg)   
 Summary
 =================
   

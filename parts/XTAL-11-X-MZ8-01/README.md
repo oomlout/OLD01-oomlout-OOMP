@@ -1,4 +1,5 @@
 
+![XTAL-11-X-MZ8-01](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/XTAL-11-X-MZ8-01/XTAL-11-X-MZ8-01_420.jpg)   
 Summary
 =================
   

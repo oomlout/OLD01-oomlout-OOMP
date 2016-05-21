@@ -1,4 +1,5 @@
 
+![ICIC-SP16-X-KCH340-01](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/ICIC-SP16-X-KCH340-01/ICIC-SP16-X-KCH340-01_420.jpg)   
 Summary
 =================
   

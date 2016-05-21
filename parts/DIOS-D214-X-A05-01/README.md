@@ -1,4 +1,5 @@
 
+![DIOS-D214-X-A05-01](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/DIOS-D214-X-A05-01/DIOS-D214-X-A05-01_420.jpg)   
 Summary
 =================
   
