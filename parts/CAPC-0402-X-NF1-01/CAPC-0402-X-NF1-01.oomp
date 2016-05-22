@@ -164,14 +164,14 @@
 				<footprintNote></footprintNote>
 			</footprintSystem>
 		</footprintList>
-    </oompPart>	
-	
-	<oompBbls></oompBbls>
+    	<oompBbls></oompBbls>
 	<oompDiag></oompDiag>
 	<oompIden></oompIden>
-	<oompSchem>
+		<oompSchem>
 		<drawItem>template;CAPC-XXXX-X-XXXX-XX-schem</drawItem>
 	</oompSchem>
 	<oompSimp></oompSimp>
+</oompPart>	
+	
 	
 </xml>

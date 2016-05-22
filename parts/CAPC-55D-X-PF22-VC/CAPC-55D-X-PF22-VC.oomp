@@ -159,5 +159,12 @@
 
 	<oompClass>Through Hole Component</oompClass>
 	<oompClassCode>THTH</oompClassCode>
+	<oompBbls></oompBbls>
+	<oompDiag></oompDiag>
+	<oompIden></oompIden>
+		<oompSchem>
+		<drawItem>template;CAPC-XXXX-X-XXXX-XX-schem</drawItem>
+	</oompSchem>
+	<oompSimp></oompSimp>
 </oompPart>
 </xml>

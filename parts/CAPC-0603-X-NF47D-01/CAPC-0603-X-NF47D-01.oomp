@@ -253,5 +253,12 @@
 
 	<oompClass>Surface Mount</oompClass>
 	<oompClassCode>SMDS</oompClassCode>
+	<oompBbls></oompBbls>
+	<oompDiag></oompDiag>
+	<oompIden></oompIden>
+		<oompSchem>
+		<drawItem>template;CAPC-XXXX-X-XXXX-XX-schem</drawItem>
+	</oompSchem>
+	<oompSimp></oompSimp>
 </oompPart>
 </xml>

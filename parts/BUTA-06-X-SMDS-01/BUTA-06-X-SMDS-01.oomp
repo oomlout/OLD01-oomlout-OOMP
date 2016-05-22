@@ -271,21 +271,14 @@
 	<oompClass>Surface Mount</oompClass>
 	<oompClassCode>SMDS</oompClassCode>
 	
-	<oompDiag>
-		<drawItem>rectangle;0;0;6.2;6.2;Main Square</drawItem>  		
-		<drawItem>circle;0;0;3.5;3.5;Main Button</drawItem>					
-		<drawItem>circle;2.15;2.15;0.75;0.75;Circle Nub 1</drawItem>
-		<drawItem>circle;-2.15;-2.15;0.75;0.75;Circle Nub 2</drawItem>
-		<drawItem>circle;2.15;-2.15;0.75;0.75;Circle Nub 3</drawItem>
-		<drawItem>circle;-2.15;2.15;0.75;0.75;Circle Nub 4</drawItem>
-		<drawItem>rectangle;3.8;2.25;1.4;0.7;pad 1</drawItem>
-		<drawItem>rectangle;-3.8;-2.25;1.4;0.7;pad 2</drawItem>
-		<drawItem>rectangle;-3.8;2.25;1.4;0.7;pad 3</drawItem>
-		<drawItem>rectangle;3.8;-2.25;1.4;0.7;pad 4</drawItem>
-		<drawItem>oompName;0;5;20;5;##name@@</drawItem>
-		<drawItem>oompURL;0;-5;2.835;##hexID@@</drawItem>	
-	</oompDiag>
+
 	
 	
+	
+	<oompBbls></oompBbls>
+	<oompDiag></oompDiag>
+	<oompIden></oompIden>
+	<oompSchem></oompSchem>
+	<oompSimp></oompSimp>
 </oompPart>
 </xml>
