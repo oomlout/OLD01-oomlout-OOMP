@@ -166,4 +166,12 @@
 		</footprintList>
     </oompPart>	
 	
+	<oompBbls></oompBbls>
+	<oompDiag></oompDiag>
+	<oompIden></oompIden>
+	<oompSchem>
+		<drawItem>template;CAPC-XXXX-X-XXXX-XX-schem</drawItem>
+	</oompSchem>
+	<oompSimp></oompSimp>
+	
 </xml>

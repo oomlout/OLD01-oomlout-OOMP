@@ -268,5 +268,40 @@
 
 	<oompClass>Through Hole Component</oompClass>
 	<oompClassCode>THTH</oompClassCode>
-</oompPart>
+
+	
+		<ooPin01>PC6</ooPin01>
+		<ooPin02>PD0</ooPin02>
+		<ooPin03>PD1</ooPin03>
+		<ooPin04>PD2</ooPin04>
+		<ooPin05>PD3</ooPin05>
+		<ooPin06>PD4</ooPin06>
+		<ooPin07>VCC</ooPin07>
+		<ooPin08>GND</ooPin08>
+		<ooPin09>PB6</ooPin09>
+		<ooPin10>PB7</ooPin10>
+		<ooPin11>PD5</ooPin11>
+		<ooPin12>PD6</ooPin12>
+		<ooPin13>PD7</ooPin13>
+		<ooPin14>PB0</ooPin14>
+		<ooPin15>PB1</ooPin15>
+		<ooPin16>PB2</ooPin16>
+		<ooPin17>PB3</ooPin17>
+		<ooPin18>PB4</ooPin18>
+		<ooPin19>PB5</ooPin19>
+		<ooPin20>AVCC</ooPin20>
+		<ooPin21>AREF</ooPin21>
+		<ooPin22>GND</ooPin22>
+		<ooPin23>PC0</ooPin23>
+		<ooPin24>PC1</ooPin24>
+		<ooPin25>PC2</ooPin25>
+		<ooPin26>PC3</ooPin26>
+		<ooPin27>PC4</ooPin27>
+		<ooPin28>PC5</ooPin28>
+	
+		<oompDiag>
+			<drawItem>template;ICIC-DI28-X-XXXX-01</drawItem>
+		</oompDiag>
+	
+	</oompPart>
 </xml>
