@@ -1,6 +1,5 @@
 	<oompTemplate>
-		<drawItem>rectangle;0;0;1.016;0.508;Main Square</drawItem>  		
-		<drawItem>rectangle;0;0;0.7;0.508;Main Square</drawItem>  	
+		<drawItem>template;XXXX-0402-X-XXXX-XX-generic</drawItem>
 		<drawItem>text;0,0.052;0.25;oom.lt/</drawItem>
 		<drawItem>text;0,-0.052;0.25;##hexID@@</drawItem>
 		<drawItem>oompName;0;6;20;7;##name@@</drawItem>
