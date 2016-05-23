@@ -236,7 +236,9 @@
 	<oompBbls></oompBbls>
 	<oompDiag></oompDiag>
 	<oompIden></oompIden>
-	<oompSchem></oompSchem>
+	<oompSchem>
+		<drawItem>template;REFU-XXXX-X-XXX4-XX-schem</drawItem>
+	</oompSchem>
 	<oompSimp></oompSimp>
 		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>RN1</ooDesignator>

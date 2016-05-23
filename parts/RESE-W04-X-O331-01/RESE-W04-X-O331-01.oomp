@@ -208,7 +208,9 @@
 	<oompBbls></oompBbls>
 	<oompDiag></oompDiag>
 	<oompIden></oompIden>
-	<oompSchem></oompSchem>
+	<oompSchem>
+		<drawItem>template;RESE-XXXX-X-XXXX-XX-schem</drawItem>
+	</oompSchem>
 	<oompSimp></oompSimp>
 		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>R1</ooDesignator>

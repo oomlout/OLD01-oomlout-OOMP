@@ -117,7 +117,9 @@
     	<oompBbls></oompBbls>
 	<oompDiag></oompDiag>
 	<oompIden></oompIden>
-	<oompSchem></oompSchem>
+	<oompSchem>
+		<drawItem>template;FERB-XXXX-X-XXXX-XX-schem</drawItem>
+	</oompSchem>
 	<oompSimp></oompSimp>
 		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>FB1</ooDesignator>

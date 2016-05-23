@@ -243,7 +243,9 @@
 	<oompBbls></oompBbls>
 	<oompDiag></oompDiag>
 	<oompIden></oompIden>
-	<oompSchem></oompSchem>
+	<oompSchem>
+		<drawItem>template;USBS-XXXX-X-XXXX-XX-schem</drawItem>
+	</oompSchem>
 	<oompSimp></oompSimp>
 		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>J1</ooDesignator>
