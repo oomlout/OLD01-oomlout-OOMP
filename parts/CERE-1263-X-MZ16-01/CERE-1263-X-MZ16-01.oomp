@@ -227,7 +227,9 @@
 	<oompBbls></oompBbls>
 	<oompDiag></oompDiag>
 	<oompIden></oompIden>
-	<oompSchem></oompSchem>
+	<oompSchem>
+		<drawItem>template;CERE-XXXX-X-XXXX-XX-schem</drawItem>
+	</oompSchem>
 	<oompSimp></oompSimp>
 		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>X1</ooDesignator>

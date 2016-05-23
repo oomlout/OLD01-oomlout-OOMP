@@ -3,6 +3,6 @@
 		<drawItem>rectangle;0;0;0.7;0.508;Main Square</drawItem>  	
 		<drawItem>text;0,0.052;0.25;oom.lt/</drawItem>
 		<drawItem>text;0,-0.052;0.25;##hexID@@</drawItem>
-		<drawItem>oompName;0;4;20;7;##name@@</drawItem>
+		<drawItem>oompName;0;6;20;7;##name@@</drawItem>
 		<drawItem>oompURL;0;-3;2.835;##hexID@@</drawItem>	
 	</oompTemplate>
