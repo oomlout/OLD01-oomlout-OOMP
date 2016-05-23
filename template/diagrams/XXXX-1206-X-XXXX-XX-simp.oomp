@@ -1,7 +1,7 @@
 	<oompTemplate>
 		<drawItem>template;XXXX-1206-X-XXXX-XX-generic</drawItem>
-		<drawItem>text;0,0.16;0.75;oom.lt/</drawItem>
-		<drawItem>text;0,-0.16;0.75;##hexID@@</drawItem>
+		<drawItem>text;0,0.16;3;oom.lt/</drawItem>
+		<drawItem>text;0,-0.16;3;##hexID@@</drawItem>
 		<drawItem>oompName;0;6;20;7;##name@@</drawItem>
 		<drawItem>oompURL;0;-3;2.835;##hexID@@</drawItem>	
 	</oompTemplate>
