@@ -1,5 +1,11 @@
 	<oompTemplate>
-		<drawItem>corTemplate;BUTA-XXXX-X-XXXX-XX-schem</drawItem>
-		<drawItem>oompName;0;22;20;6;##name@@</drawItem>
-		<drawItem>oompURL;0;-5;2.835;##hexID@@</drawItem>	
+				<drawItem>rectangle;0;0;12.5;12.5;main bounding box</drawItem>
+		<drawItem>rectangle;0;0;3;3;central square</drawItem>
+		<drawItem>circle;0;0;8;8;button circle</drawItem>
+		
+		<drawItem>rectangle;-6.75;2.5;1;1;pins</drawItem>
+		<drawItem>rectangle;6.75;2.5;1;1;pins</drawItem>
+		<drawItem>rectangle;6.75;-2.5;1;1;pins</drawItem>
+		<drawItem>rectangle;-6.75;-2.5;1;1;pins</drawItem>
+		
 	</oompTemplate>
