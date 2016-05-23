@@ -1,4 +1,5 @@
 
+![HEAD-I01-X-03PI-RA](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/HEAD-I01-X-03PI-RA/HEAD-I01-X-03PI-RA_420.jpg)   
 Summary
 =================
   

@@ -1,4 +1,5 @@
 
+![LEDS-03-G-STAN-01](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/LEDS-03-G-STAN-01/LEDS-03-G-STAN-01_420.jpg)   
 Summary
 =================
   

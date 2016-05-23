@@ -1,4 +1,5 @@
 
+![CABL-200-X-GROV-01](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/CABL-200-X-GROV-01/CABL-200-X-GROV-01_420.jpg)   
 Summary
 =================
   

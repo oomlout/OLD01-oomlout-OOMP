@@ -1,4 +1,5 @@
 
+![ICIC-DI18-X-KTM1636-01](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/ICIC-DI18-X-KTM1636-01/ICIC-DI18-X-KTM1636-01_420.jpg)   
 Summary
 =================
   
