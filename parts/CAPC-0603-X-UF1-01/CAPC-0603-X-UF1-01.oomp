@@ -253,5 +253,7 @@
 		<drawItem>template;CAPC-XXXX-X-XXXX-XX-schem</drawItem>
 	</oompSchem>
 	<oompSimp></oompSimp>
-</oompPart>
+		<ooPackageMarking></ooPackageMarking>
+		<ooDesignator>C1</ooDesignator>
+</oomppart>
 </xml>

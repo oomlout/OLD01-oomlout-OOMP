@@ -116,11 +116,15 @@
 		</footprintList>
     	<oompBbls></oompBbls>
 	<oompDiag></oompDiag>
-	<oompIden></oompIden>
+		<oompIden>
+		<drawItem>template;CAPC-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompIden>		
 	<oompSchem></oompSchem>
 	<oompSimp>
 		<drawItem>template;XXXX-0402-X-XXXX-XX-simp</drawItem>
 	</oompSimp>
-</oompPart>	
+		<ooPackageMarking></ooPackageMarking>
+		<ooDesignator>R1</ooDesignator>
+</oomppart>	
 	
 </xml>
