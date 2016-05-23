@@ -168,7 +168,9 @@
 	<oompDiag></oompDiag>
 	<oompIden></oompIden>
 	<oompSchem></oompSchem>
-	<oompSimp></oompSimp>
+	<oompSimp>
+		<drawItem>template;XXXX-0402-X-XXXX-XX-simp</drawItem>
+	</oompSimp>
 </oompPart>	
 	
 </xml>
