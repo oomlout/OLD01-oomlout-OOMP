@@ -227,7 +227,9 @@
 				<footprintNote></footprintNote>
 			</footprintSystem>
 		</footprintList>
-    	<oompBbls></oompBbls>
+    	<oompBbls>
+		<drawItem>template;XXXX-0402-X-XXXX-XX-bbls</drawItem>
+	</oompBbls>
 	<oompDiag>
 		<drawItem>template;XXXX-0402-X-XXXX-XX-diag</drawItem>
 	</oompDiag>
