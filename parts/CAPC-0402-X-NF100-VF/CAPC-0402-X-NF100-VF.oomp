@@ -227,7 +227,9 @@
 			</footprintSystem>
 		</footprintList>
     	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
+	<oompDiag>
+		<drawItem>template;XXXX-0402-X-XXXX-XX-diag</drawItem>
+	</oompDiag>
 		<oompIden>
 		<drawItem>template;CAPC-XXXX-X-XXXX-XX-schem</drawItem>
 		</oompIden>		
