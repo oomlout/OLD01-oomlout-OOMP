@@ -198,10 +198,25 @@
 
 	<oompClass>Through Hole Component</oompClass>
 	<oompClassCode>THTH</oompClassCode>
-	<oompBbls></oompBbls>
+	<oompBbls>
+		<drawItem>rectangle;0;0;12.5;12.5;main bounding box</drawItem>
+		<drawItem>rectangle;0;0;3;3;central square</drawItem>
+		<drawItem>circle;0;0;8;8;button circle</drawItem>
+		
+		<drawItem>rectangle;-6.75;2.5;1;1;pins</drawItem>
+		<drawItem>rectangle;6.75;2.5;1;1;pins</drawItem>
+		<drawItem>rectangle;6.75;-2.5;1;1;pins</drawItem>
+		<drawItem>rectangle;-6.75;-2.5;1;1;pins</drawItem>
+		
+		<drawItem>template;XXXX-XXXX-X-XXXX-XX-bbls-words</drawItem>		
+	</oompBbls>
 	<oompDiag></oompDiag>
 	<oompIden></oompIden>
-	<oompSchem></oompSchem>
+	<oompSchem>
+			<oompIden>
+				<drawItem>template;BUTA-XXXX-X-XXXX-XX-schem</drawItem>
+			</oompIden>	
+	</oompSchem>
 	<oompSimp></oompSimp>
 		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>S1</ooDesignator>

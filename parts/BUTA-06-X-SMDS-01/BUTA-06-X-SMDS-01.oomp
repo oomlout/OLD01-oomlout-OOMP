@@ -291,7 +291,11 @@
 		<drawItem>oompURL;0;-5;2.835;##hexID@@</drawItem>	
 	</oompDiag>	
 	<oompIden></oompIden>
-	<oompSchem></oompSchem>
+	<oompSchem>
+			<oompIden>
+				<drawItem>template;BUTA-XXXX-X-XXXX-XX-schem</drawItem>
+			</oompIden>	
+	</oompSchem>
 	<oompSimp></oompSimp>
 		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>S1</ooDesignator>

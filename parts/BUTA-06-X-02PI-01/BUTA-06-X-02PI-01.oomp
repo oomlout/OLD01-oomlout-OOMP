@@ -126,7 +126,11 @@
     	<oompBbls></oompBbls>
 	<oompDiag></oompDiag>
 	<oompIden></oompIden>
-	<oompSchem></oompSchem>
+	<oompSchem>
+			<oompIden>
+				<drawItem>template;BUTA-XXXX-X-02PI-XX-schem</drawItem>
+			</oompIden>	
+	</oompSchem>
 	<oompSimp></oompSimp>
 		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>S1</ooDesignator>
