@@ -2,20 +2,20 @@
     <oompPart>
 
 <com>OOMP Base</com>
-        <oompID>RESE-0603-X-O222-01</oompID>
-        <name> SMD (0603) 2.2k Ohm Resistor </name>
+        <oompID>RESE-0402-X-O331-67</oompID>
+        <name> SMD (0402) 330 Ohm Resistor 1% </name>
 
-        <hexID>R6222</hexID>
-        <oompSort>RESE0603O222</oompSort>
+        <hexID>R42331A</hexID>
+        <oompSort>RESE0402O331</oompSort>
 
 		<oompClass></oompClass>
 		<oompClassCode></oompClassCode>		
 		
         <oompType>RESE</oompType>
-        <oompSize>0603</oompSize>
+        <oompSize>0402</oompSize>
         <oompColor>X</oompColor>
-        <oompDesc>O222</oompDesc>
-        <oompIndex>01</oompIndex>
+        <oompDesc>O331</oompDesc>
+        <oompIndex>67</oompIndex>
 
         <oompVersion>98</oompVersion>
 
@@ -24,10 +24,10 @@
 		
 <com>Size</com>
         <ooPitch></ooPitch>
-        <ooWidth>0.8 mm</ooWidth>
+        <ooWidth>0.5 mm</ooWidth>
         <ooHeight></ooHeight>
         <ooDiameter></ooDiameter>
-        <ooLength>1.6 mm</ooLength>
+        <ooLength>1.0 mm</ooLength>
         <ooDepth></ooDepth>
 
 <com>Description</com>
@@ -48,7 +48,7 @@
 				<company>YAGEO</company>
 				<companyCode>C-YAGE</companyCode>
 				<name></name>
-				<partID>RC0603JR-072K2L</partID>
+				<partID>RC0402FR-07330RL</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -56,7 +56,7 @@
 				<company>Multicomp</company>
 				<companyCode>C-MULTI</companyCode>
 				<name></name>
-				<partID>MC0063W060352K2</partID>
+				<partID>MC00625W04021330R</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -65,8 +65,8 @@
 				<company>Digikey</company>
 				<companyCode>C-DIGK</companyCode>
 				<name></name>
-				<partID>311-2.2KGRCT-ND</partID>
-				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=11-2.2KGRCT-ND]]></link>
+				<partID>311-330LRCT-ND</partID>
+				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=311-330LRCT-ND]]></link>
 				<note></note>
 			</bigDistributor>					
 
@@ -74,32 +74,32 @@
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
 				<name></name>
-				<partID>603-RC0603JR-072K2L</partID>
-				<link><![CDATA[http://www.mouser.co.uk/Search/Refine.aspx?Keyword=603-RC0603JR-072K2L]]></link>
+				<partID>603-RC0402FR-07330RL</partID>
+				<link><![CDATA[http://www.mouser.co.uk/Search/Refine.aspx?Keyword=603-RC0402FR-07330RL]]></link>
 				<note></note>
 			</bigDistributor>	
 			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
 				<name></name>
-				<partID>9233423</partID>
-				<link><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=9233423]]></link>
+				<partID>9239170</partID>
+				<link><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=9239170]]></link>
 				<note></note>
 			</bigDistributor>	
 			<bigDistributor>
 				<company>RS Electronics</company>
 				<companyCode>C-RSRS</companyCode>
 				<name></name>
-				<partID>679-0112</partID>
-				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=679-0112]]></link>
+				<partID>732-5242</partID>
+				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=732-5242]]></link>
 				<note></note>
 			</bigDistributor>	
 			<bigDistributor>
 				<company>SEEED Studio</company>
 				<companyCode>C-SEEE</companyCode>
-				<name>SMD RES 2.2K-5%-1/10W</name>
-				<partID>301010124</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/s/301010124.html?search_in_description=0]]></link>
+				<name>SMD RES 330R-1%-1/16W;0402</name>
+				<partID>301010466</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/s/301010466.html?search_in_description=0]]></link>
 				<note></note>
 			</bigDistributor>	
 			<bigDistributor>
@@ -117,20 +117,20 @@
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
-				<oplName>SMD RES 2.2K-5%-1/10W</oplName>
-				<oplID>301010124</oplID>
-				<oplFootprint>603</oplFootprint>
-				<oplPackage>603</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/301010124.html?search_in_description=0]]></oplLink>
+				<oplName>SMD RES 330R-1%-1/16W;0402</oplName>
+				<oplID>301010466</oplID>
+				<oplFootprint>402</oplFootprint>
+				<oplPackage>402</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/301010466.html?search_in_description=0]]></oplLink>
 			</oplSystem>
 			<oplSystem>
 				<oplScheme>Circuithub.com</oplScheme>
 				<oplCode>C-CIRC</oplCode>
-				<oplName>YAGEO/RC0603JR-072K2L</oplName>
-				<oplID>YAGEO/RC0603JR-072K2L</oplID>
-				<oplFootprint>0603</oplFootprint>
-				<oplPackage>0603</oplPackage>
-				<oplLink><![CDATA[https://circuithub.com/parts/YAGEO/RC0603JR-072K2L]]></oplLink>
+				<oplName>YAGEO/RC0402FR-07330RL</oplName>
+				<oplID>YAGEO/RC0402FR-07330RL</oplID>
+				<oplFootprint>'0402</oplFootprint>
+				<oplPackage>'0402</oplPackage>
+				<oplLink><![CDATA[https://circuithub.com/parts/YAGEO/RC0402FR-07330RL]]></oplLink>
 			</oplSystem>
 			<oplSystem>
 				<oplScheme></oplScheme>

@@ -1,99 +1,149 @@
-﻿<xml>
-
+<xml>
     <oompPart>
-        <index>4104</index>
 
-<!--OOMP Base -->
+<com>OOMP Base</com>
         <oompID>RESE-0603-X-O103-01</oompID>
-        <name>SMD (0603) 10k Ohm Resistor</name>
+        <name> SMD (0603) 10k Ohm Resistor </name>
+
         <hexID>R6103</hexID>
-        <oompSort>06030010000</oompSort>
+        <oompSort>RESE0603O103</oompSort>
+
+		<oompClass></oompClass>
+		<oompClassCode></oompClassCode>		
+		
         <oompType>RESE</oompType>
         <oompSize>0603</oompSize>
         <oompColor>X</oompColor>
         <oompDesc>O103</oompDesc>
         <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion>99</oompVersion>
+
+        <oompVersion>98</oompVersion>
 
 
-<!--Size -->
+		
+		
+<com>Size</com>
         <ooPitch></ooPitch>
-        <ooWidth>1.6 mm</ooWidth>
+        <ooWidth>0.8 mm</ooWidth>
         <ooHeight></ooHeight>
         <ooDiameter></ooDiameter>
-        <ooLength>3.2 mm</ooLength>
+        <ooLength>1.6 mm</ooLength>
         <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize>
+
+<com>Description</com>
+        <ooNumPins>2</ooNumPins>
+        <ooPowerRating></ooPowerRating>
 
 
-<!--Manufacturer -->
-        <ooManufacturer>Yageo</ooManufacturer>
-        <ooManufacturerPartNumber>RC0603JR-0710KL</ooManufacturerPartNumber>
-
-
-<!--Description -->
-        <ooMaterial>Carbon Film</ooMaterial>
-        <ooNumPins></ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating>1/10 W</ooPowerRating>
-
-
-<!--Hardware -->
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize>
-
-
-<!--Maximums -->
+<com>Maximums</com>
         <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage>50 V</ooMaxVoltage>
+        <ooMaxVoltage></ooMaxVoltage>
         <ooLifetime></ooLifetime>
-        <ooTolerance>5%</ooTolerance>
+        <ooTolerance></ooTolerance>
 
 
-<!--Heat Shrink -->
-        <ooShrinkRatio></ooShrinkRatio>
+<com>Source List</com>		
+		<sourceList>
+			<manufacturer>
+				<company>YAGEO</company>
+				<companyCode>C-YAGE</companyCode>
+				<name></name>
+				<partID>RC0603JR-0710KL</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company>Multicomp</company>
+				<companyCode>C-MULT</companyCode>
+				<name></name>
+				<partID>MC0063W0603510K</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+				
+			<bigDistributor>
+				<company>Digikey</company>
+				<companyCode>C-DIGK</companyCode>
+				<name></name>
+				<partID>311-10KGRCT-ND</partID>
+				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=311-10KGRCT-ND]]></link>
+				<note></note>
+			</bigDistributor>					
 
+			<bigDistributor>
+				<company>Mouser</company>
+				<companyCode>C-MOUS</companyCode>
+				<name></name>
+				<partID>603-RC0603JR-0710KL</partID>
+				<link><![CDATA[http://www.mouser.co.uk/Search/Refine.aspx?Keyword=603-RC0603JR-0710KL]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company>Farnell</company>
+				<companyCode>C-FARN</companyCode>
+				<name></name>
+				<partID>9233504</partID>
+				<link><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=9233504]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company>RS Electronics</company>
+				<companyCode>C-RSRS</companyCode>
+				<name></name>
+				<partID>804-8921</partID>
+				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=804-8921]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company>SEEED Studio</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>SMD RES 10K-5%-1/10W</name>
+				<partID>301010293</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/s/301010293.html?search_in_description=0]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>					
+		</sourceList>
+		
+<com>OPL</com>		
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD RES 10K-5%-1/10W</oplName>
+				<oplID>301010293</oplID>
+				<oplFootprint>603</oplFootprint>
+				<oplPackage>603</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/301010293.html?search_in_description=0]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme>Octopart CPL</oplScheme>
+				<oplCode>C-OCTO</oplCode>
+				<oplName>Resistor 10 kO 1% 0603 100 mW</oplName>
+				<oplID>CPL-RES-0603-10K-0.1W</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://octopart.com/common-parts-library]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme>Circuithub.com</oplScheme>
+				<oplCode>C-CIRC</oplCode>
+				<oplName>YAGEO/RC0603JR-0710KL</oplName>
+				<oplID>YAGEO/RC0603JR-0710KL</oplID>
+				<oplFootprint>0603</oplFootprint>
+				<oplPackage>0603</oplPackage>
+				<oplLink><![CDATA[https://circuithub.com/parts/YAGEO/RC0603JR-0710KL]]></oplLink>
+			</oplSystem>
+		</oplList>
 
-<!--LED -->
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY>
-
-
-<COM>Common Uses</COM>		
-		<usageList>
-			<useItem>
-				<useID>1</useID>
-				<importance>1</importance>
-				<useTitle></useTitle>
-				<useDescription></useDescription>
-			</useItem>
-		</usageList>
-		<!--Plug -->
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength>
-
-
-<!--SEEED OPL (Open Parts Library) -->
-        <ooSEEEDsku>0010170P1</ooSEEEDsku>
-        <ooSEEEDdesc>SMD RES 10K-5%-1/10W</ooSEEEDdesc>
-
-
-<!--Hidden -->
-        <oompVersion></oompVersion>
-        <ooNameLine1of2></ooNameLine1of2>
-        <ooNameLine2of2></ooNameLine2of2>
-        <ooNameLine1of3></ooNameLine1of3>
-        <ooNameLine2of3></ooNameLine2of3>
-        <ooNameLine3of3></ooNameLine3of3>
-        <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
+<com>Hidden</com>
         <oompAbout></oompAbout>
         <ooProjectName1></ooProjectName1>
         <ooProjectDesc1></ooProjectDesc1>
@@ -103,53 +153,8 @@
         <ooBuyDesc1></ooBuyDesc1>
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>
-        <ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:Resistor0603.zip</ooSEEED3dModel>
 
-
-<!-- -->
-
-    		<sourceList>
-			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link></link>
-				<note></note>			
-			</manufacturer>
-				
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
-				<note></note>
-			</bigDistributor>					
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
-				<note></note>
-			</bigDistributor>					
-		</sourceList>
-		<oplList>
-			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[ ]]></oplLink>
-			</oplSystem>
-		</oplList>
-
-
-
-<com>Footprint</com>
+	<com>Footprint</com>
 		<footprintList>
 			<footprintSystem>
 				<footprintScheme>Eagle Default</footprintScheme>
@@ -158,69 +163,16 @@
 				<footprintName></footprintName>
 				<footprintNote></footprintNote>
 			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Kicad Default</footprintScheme>
-				<footprintSchemeCode>C-KICA</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Adafruit</footprintScheme>
-				<footprintSchemeCode>C-ADAF</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Dangerous Prototypes</footprintScheme>
-				<footprintSchemeCode>C-DPDP</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>OOMP </footprintScheme>
-				<footprintSchemeCode>C-OOMP</footprintSchemeCode>
-
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-<footprintSystem>
-				<footprintScheme>SEEED Studio</footprintScheme>
-				<footprintSchemeCode>C-SEEE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Sparkfun</footprintScheme>
-				<footprintSchemeCode>C-SPAR</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
 		</footprintList>
+    </oompPart>	
 
-	<oompClass>Surface Mount</oompClass>
-	<oompClassCode>SMDS</oompClassCode>
-	<oompBbls>
-		<drawItem>template;XXXX-0603-X-XXXX-XX-bbls</drawItem>
-</oompBbls>
-	<oompDiag>
-				<drawItem>template;XXXX-0603-X-XXXX-XX-diag</drawItem>
-</oompDiag>
-	<oompIden>
-				<drawItem>template;XXXX-0603-X-XXXX-XX-iden</drawItem>
-</oompIden>
-	<oompSchem>
-		<drawItem>template;RESE-XXXX-X-XXXX-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp>
-		<drawItem>template;XXXX-0603-X-XXXX-XX-simp</drawItem>
-</oompSimp>
+
+	<oompBbls></oompBbls>	
+	<oompDiag></oompDiag>	
+	<oompIden></oompIden>	
+	<oompSchem></oompSchem>	
+	<oompSimp></oompSimp>	
+
 		<ooPackageMarking></ooPackageMarking>
-		<ooDesignator>R1</ooDesignator>
-</oompPart>
+		<ooDesignator>R</ooDesignator>
 </xml>

@@ -165,5 +165,14 @@
 			</footprintSystem>
 		</footprintList>
     </oompPart>	
-	
+
+
+	<oompBbls>!!0,newOOMP.oompType,oompBBLS!!</oompBbls>	
+	<oompDiag>!!0,newOOMP.oompType,oompDIAG!!</oompDiag>	
+	<oompIden>!!0,newOOMP.oompType,oompIDEN!!</oompIden>	
+	<oompSchem>!!0,newOOMP.oompType,oompSCHEM!!</oompSchem>	
+	<oompSimp>!!0,newOOMP.oompType,oompSIMP!!</oompSimp>	
+
+		<ooPackageMarking>!!0,newOOMP.oompType,ooPackageMarking!!</ooPackageMarking>
+		<ooDesignator>!!0,newOOMP.oompType,ooDesignator!!</ooDesignator>
 </xml>

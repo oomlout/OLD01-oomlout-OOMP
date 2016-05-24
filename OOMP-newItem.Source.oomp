@@ -3,22 +3,22 @@
 <oompVersion>98</oompVersion>
 
 <com>IMPORTANT ALL MUST BE FILLED</com>
-<oompType>MOSP</oompType>
-<oompSize>SO23F</oompSize>
+<oompType>RESE</oompType>
+<oompSize>0402</oompSize>
 <oompColor>X</oompColor>
-<oompDesc>A06</oompDesc>
+<oompDesc>O914</oompDesc>
 <oompIndex>01</oompIndex>
-<oompSort>MOSPSO23FA06</oompSort>
+<oompSort>RESE0402O914</oompSort>
 
-<hexID>MP2F6</hexID>
+<hexID>R42914</hexID>
 
 <oompClass></oompClass>
 <oompClassCode></oompClassCode>
 
 <com>Source List</com>
-<manufacturerCompany1>Toshiba</manufacturerCompany1>
-<manufacturerCompanyCode1></manufacturerCompanyCode1>
-<manufacturerPartID1>SSM3J328R,LF</manufacturerPartID1>
+<manufacturerCompany1>YAGEO</manufacturerCompany1>
+<manufacturerCompanyCode1>C-YAGE</manufacturerCompanyCode1>
+<manufacturerPartID1>RC0402JR-07910KL</manufacturerPartID1>
 
 <manufacturerCompany2></manufacturerCompany2>
 <manufacturerCompanyCode2></manufacturerCompanyCode2>
@@ -47,13 +47,14 @@
 
 
 
+
 <oplScheme1>SEEED OPL</oplScheme1>
 <oplCode1>C-SEEE</oplCode1>
-<oplName1>SMD MOSFET P-CH 20V 6A</oplName1>
-<oplID1>305030075</oplID1>
-<oplFootprint1>SOT-23F</oplFootprint1>
-<oplPackage1>SOT-23F</oplPackage1>
-<oplLink1><![CDATA[http://www.seeedstudio.com/depot/s/305030075.html?search_in_description=0]]></oplLink1>
+<oplName1>SMD RES 910K-5%-1/16W</oplName1>
+<oplID1>301010435</oplID1>
+<oplFootprint1>402</oplFootprint1>
+<oplPackage1>402</oplPackage1>
+<oplLink1><![CDATA[http://www.seeedstudio.com/depot/s/301010435.html?search_in_description=0]]></oplLink1>
 
 
 <oplScheme99>Octopart CPL</oplScheme99>
@@ -89,12 +90,12 @@
 
 
 
-<ooNumPins></ooNumPins>
+<ooNumPins>2</ooNumPins>
 <ooPitch></ooPitch>
-<ooWidth></ooWidth>
+<ooWidth>0.5 mm</ooWidth>
 <ooHeight></ooHeight>
 <ooDiameter></ooDiameter>
-<ooLength></ooLength>
+<ooLength>1.0 mm</ooLength>
 <ooDepth></ooDepth>
 
 
@@ -103,10 +104,10 @@
 
 
 
-<bigDistributorCompanyCode99>C-DIGK</bigDistributorCompanyCode99>
-<bigDistributorCompany99>Digikey</bigDistributorCompany99>
-<bigDistributorPartID99></bigDistributorPartID99>
-<bigDistributorLink99>http://www.digikey.com/product-search/en?keywords=</bigDistributorLink99>
+<bigDistributorCompanyCode1>C-DIGK</bigDistributorCompanyCode1>
+<bigDistributorCompany1>Digikey</bigDistributorCompany1>
+<bigDistributorPartID1>YAG3319CT-ND</bigDistributorPartID1>
+<bigDistributorLink1>http://www.digikey.com/product-search/en?keywords=YAG3319CT-ND</bigDistributorLink1>
 
 
 <bigDistributorCompanyCode99>C-MOUS</bigDistributorCompanyCode99>
@@ -133,11 +134,27 @@
 <bigDistributorLink99><![CDATA[http://www.rapidonline.com/Search?query=&filterSearchScope=1]]></bigDistributorLink99>
 
 
-<bigDistributorCompanyCode1>C-SEEE</bigDistributorCompanyCode1>
-<bigDistributorCompany1>SEEED Studio</bigDistributorCompany1>
-<bigDistributorPartID1>305030075</bigDistributorPartID1>
-<bigDistributorLink1><![CDATA[http://www.seeedstudio.com/depot/s/305030075.html?search_in_description=0]]></bigDistributorLink1>
-<bigDistributorName1>SMD MOSFET P-CH 20V 6A</bigDistributorName1>
+<bigDistributorCompanyCode5>C-SEEE</bigDistributorCompanyCode5>
+<bigDistributorCompany5>SEEED Studio</bigDistributorCompany5>
+<bigDistributorPartID5>301010435</bigDistributorPartID5>
+<bigDistributorLink5><![CDATA[http://www.seeedstudio.com/depot/s/301010435.html?search_in_description=0]]></bigDistributorLink5>
+<bigDistributorName5>SMD RES 910K-5%-1/16W</bigDistributorName5>
+
+<oompBBLS></oompBBLS>
+<oompDIAG></oompDIAG>
+<oompIDEN></oompIDEN>
+<oompSCHEM></oompSCHEM>
+<oompSIMP></oompSIMP>
+
+
+<ooPackageMarking></ooPackageMarking>
+<ooDesignator>R</ooDesignator>
+
+
+
+
+
+
 
 </newOOMP>
 </xml>

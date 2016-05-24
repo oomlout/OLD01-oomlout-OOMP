@@ -2,19 +2,19 @@
     <oompPart>
 
 <com>OOMP Base</com>
-        <oompID>RESE-0603-X-O222-01</oompID>
-        <name> SMD (0603) 2.2k Ohm Resistor </name>
+        <oompID>ICIC-SS28-X-KFT232-01</oompID>
+        <name> 28 Pin SMD (SSOP) USB-Serial (FT232RL) </name>
 
-        <hexID>R6222</hexID>
-        <oompSort>RESE0603O222</oompSort>
+        <hexID>ICSF232</hexID>
+        <oompSort>ICICSS28KFT232</oompSort>
 
 		<oompClass></oompClass>
 		<oompClassCode></oompClassCode>		
 		
-        <oompType>RESE</oompType>
-        <oompSize>0603</oompSize>
+        <oompType>ICIC</oompType>
+        <oompSize>SS28</oompSize>
         <oompColor>X</oompColor>
-        <oompDesc>O222</oompDesc>
+        <oompDesc>KFT232</oompDesc>
         <oompIndex>01</oompIndex>
 
         <oompVersion>98</oompVersion>
@@ -24,14 +24,14 @@
 		
 <com>Size</com>
         <ooPitch></ooPitch>
-        <ooWidth>0.8 mm</ooWidth>
+        <ooWidth></ooWidth>
         <ooHeight></ooHeight>
         <ooDiameter></ooDiameter>
-        <ooLength>1.6 mm</ooLength>
+        <ooLength></ooLength>
         <ooDepth></ooDepth>
 
 <com>Description</com>
-        <ooNumPins>2</ooNumPins>
+        <ooNumPins>28</ooNumPins>
         <ooPowerRating></ooPowerRating>
 
 
@@ -45,18 +45,18 @@
 <com>Source List</com>		
 		<sourceList>
 			<manufacturer>
-				<company>YAGEO</company>
-				<companyCode>C-YAGE</companyCode>
+				<company>FTDI</company>
+				<companyCode>C-FTDI</companyCode>
 				<name></name>
-				<partID>RC0603JR-072K2L</partID>
+				<partID>FT232RL</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
 			<manufacturer>
-				<company>Multicomp</company>
-				<companyCode>C-MULTI</companyCode>
+				<company></company>
+				<companyCode></companyCode>
 				<name></name>
-				<partID>MC0063W060352K2</partID>
+				<partID></partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -65,8 +65,8 @@
 				<company>Digikey</company>
 				<companyCode>C-DIGK</companyCode>
 				<name></name>
-				<partID>311-2.2KGRCT-ND</partID>
-				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=11-2.2KGRCT-ND]]></link>
+				<partID>768-1007-1-ND</partID>
+				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=768-1007-1-ND]]></link>
 				<note></note>
 			</bigDistributor>					
 
@@ -74,32 +74,32 @@
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
 				<name></name>
-				<partID>603-RC0603JR-072K2L</partID>
-				<link><![CDATA[http://www.mouser.co.uk/Search/Refine.aspx?Keyword=603-RC0603JR-072K2L]]></link>
+				<partID>895-FT232RL</partID>
+				<link><![CDATA[http://www.mouser.co.uk/Search/Refine.aspx?Keyword=895-FT232RL]]></link>
 				<note></note>
 			</bigDistributor>	
 			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
 				<name></name>
-				<partID>9233423</partID>
-				<link><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=9233423]]></link>
+				<partID>1146032</partID>
+				<link><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=1146032]]></link>
 				<note></note>
 			</bigDistributor>	
 			<bigDistributor>
 				<company>RS Electronics</company>
 				<companyCode>C-RSRS</companyCode>
 				<name></name>
-				<partID>679-0112</partID>
-				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=679-0112]]></link>
+				<partID>406-580</partID>
+				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=406-580]]></link>
 				<note></note>
 			</bigDistributor>	
 			<bigDistributor>
 				<company>SEEED Studio</company>
 				<companyCode>C-SEEE</companyCode>
-				<name>SMD RES 2.2K-5%-1/10W</name>
-				<partID>301010124</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/s/301010124.html?search_in_description=0]]></link>
+				<name>SMD IC Interface;USB to UART;Speed 300b-3Mbaud;VCC 1.8V-5.25V</name>
+				<partID>310070022</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/s/310070022.html?search_in_description=0]]></link>
 				<note></note>
 			</bigDistributor>	
 			<bigDistributor>
@@ -117,29 +117,29 @@
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
-				<oplName>SMD RES 2.2K-5%-1/10W</oplName>
-				<oplID>301010124</oplID>
-				<oplFootprint>603</oplFootprint>
-				<oplPackage>603</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/301010124.html?search_in_description=0]]></oplLink>
+				<oplName>SMD IC Interface;USB to UART;Speed 300b-3Mbaud;VCC 1.8V-5.25V</oplName>
+				<oplID>310070022</oplID>
+				<oplFootprint>28-SSOP</oplFootprint>
+				<oplPackage>28-SSOP</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/310070022.html?search_in_description=0]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme>Octopart CPL</oplScheme>
+				<oplCode>C-OCTO</oplCode>
+				<oplName>USB to Serial UART Interface</oplName>
+				<oplID>CPL-IIC-USB-UART</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://octopart.com/common-parts-library]]></oplLink>
 			</oplSystem>
 			<oplSystem>
 				<oplScheme>Circuithub.com</oplScheme>
 				<oplCode>C-CIRC</oplCode>
-				<oplName>YAGEO/RC0603JR-072K2L</oplName>
-				<oplID>YAGEO/RC0603JR-072K2L</oplID>
-				<oplFootprint>0603</oplFootprint>
-				<oplPackage>0603</oplPackage>
-				<oplLink><![CDATA[https://circuithub.com/parts/YAGEO/RC0603JR-072K2L]]></oplLink>
-			</oplSystem>
-			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
+				<oplName>FTDI/FT232RL</oplName>
+				<oplID>FTDI/FT232RL</oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
-				<oplLink><![CDATA[]]></oplLink>
+				<oplLink><![CDATA[https://circuithub.com/parts/FTDI/FT232RL]]></oplLink>
 			</oplSystem>
 		</oplList>
 
@@ -174,5 +174,5 @@
 	<oompSimp></oompSimp>	
 
 		<ooPackageMarking></ooPackageMarking>
-		<ooDesignator>R</ooDesignator>
+		<ooDesignator>U1</ooDesignator>
 </xml>

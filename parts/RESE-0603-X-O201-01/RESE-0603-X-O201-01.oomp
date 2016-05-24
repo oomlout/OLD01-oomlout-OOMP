@@ -2,11 +2,11 @@
     <oompPart>
 
 <com>OOMP Base</com>
-        <oompID>RESE-0603-X-O222-01</oompID>
-        <name> SMD (0603) 2.2k Ohm Resistor </name>
+        <oompID>RESE-0603-X-O201-01</oompID>
+        <name> SMD (0603) 200 Ohm Resistor </name>
 
-        <hexID>R6222</hexID>
-        <oompSort>RESE0603O222</oompSort>
+        <hexID>R6201</hexID>
+        <oompSort>RESE0603O201</oompSort>
 
 		<oompClass></oompClass>
 		<oompClassCode></oompClassCode>		
@@ -14,7 +14,7 @@
         <oompType>RESE</oompType>
         <oompSize>0603</oompSize>
         <oompColor>X</oompColor>
-        <oompDesc>O222</oompDesc>
+        <oompDesc>O201</oompDesc>
         <oompIndex>01</oompIndex>
 
         <oompVersion>98</oompVersion>
@@ -48,15 +48,15 @@
 				<company>YAGEO</company>
 				<companyCode>C-YAGE</companyCode>
 				<name></name>
-				<partID>RC0603JR-072K2L</partID>
+				<partID>RC0603JR-07200RL</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
 			<manufacturer>
-				<company>Multicomp</company>
-				<companyCode>C-MULTI</companyCode>
+				<company></company>
+				<companyCode></companyCode>
 				<name></name>
-				<partID>MC0063W060352K2</partID>
+				<partID></partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -65,8 +65,8 @@
 				<company>Digikey</company>
 				<companyCode>C-DIGK</companyCode>
 				<name></name>
-				<partID>311-2.2KGRCT-ND</partID>
-				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=11-2.2KGRCT-ND]]></link>
+				<partID>311-200GRCT-ND</partID>
+				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=311-200GRCT-ND]]></link>
 				<note></note>
 			</bigDistributor>					
 
@@ -74,32 +74,32 @@
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
 				<name></name>
-				<partID>603-RC0603JR-072K2L</partID>
-				<link><![CDATA[http://www.mouser.co.uk/Search/Refine.aspx?Keyword=603-RC0603JR-072K2L]]></link>
+				<partID>603-RC0603JR-07200RL</partID>
+				<link><![CDATA[http://www.mouser.co.uk/Search/Refine.aspx?Keyword=603-RC0603JR-07200RL]]></link>
 				<note></note>
 			</bigDistributor>	
 			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
 				<name></name>
-				<partID>9233423</partID>
-				<link><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=9233423]]></link>
+				<partID>2413736</partID>
+				<link><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=2413736]]></link>
 				<note></note>
 			</bigDistributor>	
 			<bigDistributor>
 				<company>RS Electronics</company>
 				<companyCode>C-RSRS</companyCode>
 				<name></name>
-				<partID>679-0112</partID>
-				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=679-0112]]></link>
+				<partID>505-0123</partID>
+				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=505-0123]]></link>
 				<note></note>
 			</bigDistributor>	
 			<bigDistributor>
 				<company>SEEED Studio</company>
 				<companyCode>C-SEEE</companyCode>
-				<name>SMD RES 2.2K-5%-1/10W</name>
-				<partID>301010124</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/s/301010124.html?search_in_description=0]]></link>
+				<name>SMD RES 200R-5%-1/10W;</name>
+				<partID>301010218</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/s/301010218.html?search_in_description=0]]></link>
 				<note></note>
 			</bigDistributor>	
 			<bigDistributor>
@@ -117,20 +117,20 @@
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
-				<oplName>SMD RES 2.2K-5%-1/10W</oplName>
-				<oplID>301010124</oplID>
+				<oplName>SMD RES 200R-5%-1/10W;</oplName>
+				<oplID>301010218</oplID>
 				<oplFootprint>603</oplFootprint>
 				<oplPackage>603</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/301010124.html?search_in_description=0]]></oplLink>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/301010218.html?search_in_description=0]]></oplLink>
 			</oplSystem>
 			<oplSystem>
 				<oplScheme>Circuithub.com</oplScheme>
 				<oplCode>C-CIRC</oplCode>
-				<oplName>YAGEO/RC0603JR-072K2L</oplName>
-				<oplID>YAGEO/RC0603JR-072K2L</oplID>
+				<oplName>YAGEO/RC0603JR-07200RL</oplName>
+				<oplID>YAGEO/RC0603JR-07200RL</oplID>
 				<oplFootprint>0603</oplFootprint>
 				<oplPackage>0603</oplPackage>
-				<oplLink><![CDATA[https://circuithub.com/parts/YAGEO/RC0603JR-072K2L]]></oplLink>
+				<oplLink><![CDATA[https://circuithub.com/parts/YAGEO/RC0603JR-07200RL]]></oplLink>
 			</oplSystem>
 			<oplSystem>
 				<oplScheme></oplScheme>
