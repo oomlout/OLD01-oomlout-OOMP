@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __SMD (0603) 2.2k Ohm Resistor__    
+Name: __ SMD (0603) 2.2k Ohm Resistor __    
 ID: __RESE-0603-X-O222-01__   
 Hex ID: __R6222__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O222-01__   
