@@ -1,0 +1,43 @@
+OOMP Parts -- CSV, %%YEAR%%-%%MONTH%%-%%DAY%%
+::::
+OOMP ID,
+Name,
+Type,
+Size/Package,
+Color/Material,
+Description/Value,
+Index/Rating,
+SEEED OPL ID,
+Manufacturer 1,
+Man 1 P/N,
+Manufacturer 2,
+Man 2 P/N,
+Distributor 1,
+Dist 1 P/N,
+Distributor 2,
+Dist 2 P/N,
+Datasheet,
+;;;;
+::::
+^^0,600,%%T%%^^
+"!!%%T%%,oompPart,oompID!!",
+"!!%%T%%,oompPart,name!!",
+@@!!%%T%%,oompPart,oompType!!,oompType.code,name@@,
+@@!!%%T%%,oompPart,oompSize!!,oompSize.code,name@@,
+@@!!%%T%%,oompPart,oompColor!!,oompColor.code,name@@,
+@@!!%%T%%,oompPart,oompDesc!!,oompDesc.code,name@@,
+@@!!%%T%%,oompPart,oompIndex!!,oompIndex.code,name@@,
+^^0,12,%%U%%^^
+<<@@!!%%T%%,oompPart,oompID!!,oompPart.oompID,sourceList.bigDistributor.companyCode&&%%U%%&&@@,C-SEEE,@@!!%%T%%,oompPart,oompID!!,oompPart.oompID,sourceList.bigDistributor.partID&&%%U%%&&@@ <<"",
+@@!!%%T%%,oompPart,oompID!!,oompPart.oompID,sourceList.manufacturer.company&&1&&@@,
+@@!!%%T%%,oompPart,oompID!!,oompPart.oompID,sourceList.manufacturer.partID&&1&&@@,
+@@!!%%T%%,oompPart,oompID!!,oompPart.oompID,sourceList.manufacturer.company&&2&&@@,
+@@!!%%T%%,oompPart,oompID!!,oompPart.oompID,sourceList.manufacturer.partID&&2&&@@,
+@@!!%%T%%,oompPart,oompID!!,oompPart.oompID,sourceList.bigDistributor.company&&1&&@@,
+@@!!%%T%%,oompPart,oompID!!,oompPart.oompID,sourceList.bigDistributor.partID&&1&&@@,
+@@!!%%T%%,oompPart,oompID!!,oompPart.oompID,sourceList.bigDistributor.company&&2&&@@,
+@@!!%%T%%,oompPart,oompID!!,oompPart.oompID,sourceList.bigDistributor.partID&&2&&@@,
+https://github.com/oomlout/oomlout-OOMP/raw/master/parts/!!%%T%%,oompPart,oompID!!/!!%%T%%,oompPart,oompID!!-datasheet.pdf,
+~~""
+
+;;;;

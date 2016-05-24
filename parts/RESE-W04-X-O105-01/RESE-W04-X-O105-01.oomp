@@ -126,25 +126,27 @@
 				<link><![CDATA[ ]]></link>
 				<note></note>
 			</bigDistributor>					
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
-				<note></note>
-			</bigDistributor>					
+		<bigDistributor>	
+			<company>SEEED Studio</company>
+			<companyCode>C-SEEE</companyCode>
+			<name>DIP RES 1M-5%-1/4W;</name>
+			<partID>301020005</partID>
+			<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=]]></link>
+			<note></note>
+		</bigDistributor>	
+				
 		</sourceList>
 		<oplList>
-			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
+			<oplSystem>	
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>DIP RES 1M-5%-1/4W;</oplName>
+				<oplID>301020005</oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
-				<oplLink><![CDATA[ ]]></oplLink>
-			</oplSystem>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=]]></oplLink>
+			</oplSystem>	
+
 		</oplList>
 
 

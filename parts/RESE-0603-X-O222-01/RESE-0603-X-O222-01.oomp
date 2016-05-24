@@ -121,7 +121,15 @@
 				<partID></partID>
 				<link><![CDATA[]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>			
+			<bigDistributor>
+				<company>SEEED Studio</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>SMD RES 2K-5%-1/10W</name>
+				<partID>301010113</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=190]]></link>
+				<note></note>
+			</bigDistributor>				
 		</sourceList>
 		
 <com>OPL</com>		
@@ -133,7 +141,7 @@
 				<oplID>301010113</oplID>
 				<oplFootprint>0603</oplFootprint>
 				<oplPackage>0603</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Resistor]]></oplLink>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=190]]></oplLink>
 			</oplSystem>
 			<oplSystem>
 				<oplScheme></oplScheme>
