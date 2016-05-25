@@ -2,19 +2,19 @@
     <oompPart>
 
 <com>OOMP Base</com>
-        <oompID>DIOS-S123-X-A01-01</oompID>
-        <name> SMD (SOD-123) 1 Amp Diode (Schottky) </name>
+        <oompID>ICIC-VQF32-X-K328-01</oompID>
+        <name> 32 Pin SMD (VQFN) AtMega328P </name>
 
-        <hexID>DS35D1</hexID>
-        <oompSort>DIOSS123A01</oompSort>
+        <hexID>ICSV328</hexID>
+        <oompSort>ICICVQF32K328</oompSort>
 
 		<oompClass></oompClass>
 		<oompClassCode></oompClassCode>		
 		
-        <oompType>DIOS</oompType>
-        <oompSize>S123</oompSize>
+        <oompType>ICIC</oompType>
+        <oompSize>VQF32</oompSize>
         <oompColor>X</oompColor>
-        <oompDesc>A01</oompDesc>
+        <oompDesc>K328</oompDesc>
         <oompIndex>01</oompIndex>
 
         <oompVersion>98</oompVersion>
@@ -31,7 +31,7 @@
         <ooDepth></ooDepth>
 
 <com>Description</com>
-        <ooNumPins>2</ooNumPins>
+        <ooNumPins>32</ooNumPins>
         <ooPowerRating></ooPowerRating>
 
 
@@ -45,10 +45,10 @@
 <com>Source List</com>		
 		<sourceList>
 			<manufacturer>
-				<company>JCET</company>
-				<companyCode>C-JCET</companyCode>
+				<company>Atmel</company>
+				<companyCode>C-ATME</companyCode>
 				<name></name>
-				<partID>B0540W</partID>
+				<partID>ATMEGA328P-MU</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -65,8 +65,8 @@
 				<company>Digikey</company>
 				<companyCode>C-DIGK</companyCode>
 				<name></name>
-				<partID>B0540W-FDICT-ND</partID>
-				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=B0540W-FDICT-ND]]></link>
+				<partID>ATMEGA328P-MURCT-ND</partID>
+				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=ATMEGA328P-MURCT-ND]]></link>
 				<note></note>
 			</bigDistributor>					
 
@@ -74,32 +74,32 @@
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
 				<name></name>
-				<partID>821-B0540W</partID>
-				<link><![CDATA[http://www.mouser.co.uk/Search/Refine.aspx?Keyword=821-B0540W]]></link>
+				<partID>556-ATMEGA328P-MU</partID>
+				<link><![CDATA[http://www.mouser.co.uk/Search/Refine.aspx?Keyword=556-ATMEGA328P-MU]]></link>
 				<note></note>
 			</bigDistributor>	
 			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
 				<name></name>
-				<partID>1863143</partID>
-				<link><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=1863143]]></link>
+				<partID>2425125</partID>
+				<link><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=2425125]]></link>
 				<note></note>
 			</bigDistributor>	
 			<bigDistributor>
 				<company>RS Electronics</company>
 				<companyCode>C-RSRS</companyCode>
 				<name></name>
-				<partID>708-2245</partID>
-				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=708-2245]]></link>
+				<partID>696-3124</partID>
+				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=696-3124]]></link>
 				<note></note>
 			</bigDistributor>	
 			<bigDistributor>
 				<company>SEEED Studio</company>
 				<companyCode>C-SEEE</companyCode>
-				<name>SMD Diode Schottky 40V-500mA</name>
-				<partID>304020012</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/s/304020012.html?search_in_description=0]]></link>
+				<name>SMD IC MCU;AVR;8-Bit;32KB;16MHz;1.8-5.5V</name>
+				<partID>310010005</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/s/310010005.html?search_in_description=0]]></link>
 				<note></note>
 			</bigDistributor>	
 			<bigDistributor>
@@ -117,20 +117,20 @@
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
-				<oplName>SMD Diode Schottky 40V-500mA</oplName>
-				<oplID>304020012</oplID>
-				<oplFootprint>SOD-123</oplFootprint>
-				<oplPackage>SOD-123</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/304020012.html?search_in_description=0]]></oplLink>
+				<oplName>SMD IC MCU;AVR;8-Bit;32KB;16MHz;1.8-5.5V</oplName>
+				<oplID>310010005</oplID>
+				<oplFootprint>VFQFN-32</oplFootprint>
+				<oplPackage>VFQFN-32</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/310010005.html?search_in_description=0]]></oplLink>
 			</oplSystem>
 			<oplSystem>
-				<oplScheme>Circuithub.com</oplScheme>
-				<oplCode>C-CIRC</oplCode>
-				<oplName>DIODES/B0540W-7-F</oplName>
-				<oplID>DIODES/B0540W-7-F</oplID>
-				<oplFootprint>SOD-123</oplFootprint>
-				<oplPackage>SOD-123</oplPackage>
-				<oplLink><![CDATA[https://circuithub.com/parts/DIODES/B0540W-7-F]]></oplLink>
+				<oplScheme></oplScheme>
+				<oplCode></oplCode>
+				<oplName></oplName>
+				<oplID></oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[]]></oplLink>
 			</oplSystem>
 			<oplSystem>
 				<oplScheme></oplScheme>
@@ -173,6 +173,6 @@
 	<oompSchem></oompSchem>	
 	<oompSimp></oompSimp>	
 
-		<ooPackageMarking>SF</ooPackageMarking>
-		<ooDesignator>D</ooDesignator>
+		<ooPackageMarking>0</ooPackageMarking>
+		<ooDesignator>U</ooDesignator>
 </xml>

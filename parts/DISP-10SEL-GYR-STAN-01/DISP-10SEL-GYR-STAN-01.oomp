@@ -2,19 +2,19 @@
     <oompPart>
 
 <com>OOMP Base</com>
-        <oompID>DIOS-S123-X-A01-01</oompID>
-        <name> SMD (SOD-123) 1 Amp Diode (Schottky) </name>
+        <oompID>DISP-10SEL-GYR-STAN-01</oompID>
+        <name> 10 Segment LED Bargraph Green, Yellow, Red Display </name>
 
-        <hexID>DS35D1</hexID>
-        <oompSort>DIOSS123A01</oompSort>
+        <hexID>DS10M</hexID>
+        <oompSort>DISP10SELSTAN</oompSort>
 
 		<oompClass></oompClass>
 		<oompClassCode></oompClassCode>		
 		
-        <oompType>DIOS</oompType>
-        <oompSize>S123</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>A01</oompDesc>
+        <oompType>DISP</oompType>
+        <oompSize>10SEL</oompSize>
+        <oompColor>GYR</oompColor>
+        <oompDesc>STAN</oompDesc>
         <oompIndex>01</oompIndex>
 
         <oompVersion>98</oompVersion>
@@ -24,14 +24,14 @@
 		
 <com>Size</com>
         <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
+        <ooWidth>10.10 mm</ooWidth>
         <ooHeight></ooHeight>
         <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
+        <ooLength>25.4 mm</ooLength>
         <ooDepth></ooDepth>
 
 <com>Description</com>
-        <ooNumPins>2</ooNumPins>
+        <ooNumPins>20</ooNumPins>
         <ooPowerRating></ooPowerRating>
 
 
@@ -45,10 +45,10 @@
 <com>Source List</com>		
 		<sourceList>
 			<manufacturer>
-				<company>JCET</company>
-				<companyCode>C-JCET</companyCode>
+				<company>SP400561N</company>
+				<companyCode>C-SP40</companyCode>
 				<name></name>
-				<partID>B0540W</partID>
+				<partID>SP400561N</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -62,44 +62,44 @@
 			</manufacturer>
 				
 			<bigDistributor>
-				<company>Digikey</company>
-				<companyCode>C-DIGK</companyCode>
+				<company></company>
+				<companyCode></companyCode>
 				<name></name>
-				<partID>B0540W-FDICT-ND</partID>
-				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=B0540W-FDICT-ND]]></link>
+				<partID></partID>
+				<link><![CDATA[]]></link>
 				<note></note>
 			</bigDistributor>					
 
 			<bigDistributor>
-				<company>Mouser</company>
-				<companyCode>C-MOUS</companyCode>
+				<company></company>
+				<companyCode></companyCode>
 				<name></name>
-				<partID>821-B0540W</partID>
-				<link><![CDATA[http://www.mouser.co.uk/Search/Refine.aspx?Keyword=821-B0540W]]></link>
+				<partID></partID>
+				<link><![CDATA[]]></link>
 				<note></note>
 			</bigDistributor>	
 			<bigDistributor>
-				<company>Farnell</company>
-				<companyCode>C-FARN</companyCode>
+				<company></company>
+				<companyCode></companyCode>
 				<name></name>
-				<partID>1863143</partID>
-				<link><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=1863143]]></link>
+				<partID></partID>
+				<link><![CDATA[]]></link>
 				<note></note>
 			</bigDistributor>	
 			<bigDistributor>
-				<company>RS Electronics</company>
-				<companyCode>C-RSRS</companyCode>
+				<company></company>
+				<companyCode></companyCode>
 				<name></name>
-				<partID>708-2245</partID>
-				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=708-2245]]></link>
+				<partID></partID>
+				<link><![CDATA[]]></link>
 				<note></note>
 			</bigDistributor>	
 			<bigDistributor>
 				<company>SEEED Studio</company>
 				<companyCode>C-SEEE</companyCode>
-				<name>SMD Diode Schottky 40V-500mA</name>
-				<partID>304020012</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/s/304020012.html?search_in_description=0]]></link>
+				<name>LED 10 SEG Gauge Bar</name>
+				<partID>304080004</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/s/304080004.html?search_in_description=0]]></link>
 				<note></note>
 			</bigDistributor>	
 			<bigDistributor>
@@ -117,20 +117,20 @@
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
-				<oplName>SMD Diode Schottky 40V-500mA</oplName>
-				<oplID>304020012</oplID>
-				<oplFootprint>SOD-123</oplFootprint>
-				<oplPackage>SOD-123</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/304020012.html?search_in_description=0]]></oplLink>
+				<oplName>LED 10 SEG Gauge Bar</oplName>
+				<oplID>304080004</oplID>
+				<oplFootprint>33.02*15.24mm</oplFootprint>
+				<oplPackage>33.02*15.24mm</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/304080004.html?search_in_description=0]]></oplLink>
 			</oplSystem>
 			<oplSystem>
-				<oplScheme>Circuithub.com</oplScheme>
-				<oplCode>C-CIRC</oplCode>
-				<oplName>DIODES/B0540W-7-F</oplName>
-				<oplID>DIODES/B0540W-7-F</oplID>
-				<oplFootprint>SOD-123</oplFootprint>
-				<oplPackage>SOD-123</oplPackage>
-				<oplLink><![CDATA[https://circuithub.com/parts/DIODES/B0540W-7-F]]></oplLink>
+				<oplScheme></oplScheme>
+				<oplCode></oplCode>
+				<oplName></oplName>
+				<oplID></oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[]]></oplLink>
 			</oplSystem>
 			<oplSystem>
 				<oplScheme></oplScheme>
@@ -173,6 +173,6 @@
 	<oompSchem></oompSchem>	
 	<oompSimp></oompSimp>	
 
-		<ooPackageMarking>SF</ooPackageMarking>
+		<ooPackageMarking>0</ooPackageMarking>
 		<ooDesignator>D</ooDesignator>
 </xml>

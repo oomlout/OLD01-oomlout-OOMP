@@ -2,20 +2,20 @@
     <oompPart>
 
 <com>OOMP Base</com>
-        <oompID>DIOS-S123-X-A01-01</oompID>
-        <name> SMD (SOD-123) 1 Amp Diode (Schottky) </name>
+        <oompID>VREG-T92-X-ADJU-AH</oompID>
+        <name> TO-92 Adjustable Voltage Regulator 100 mA </name>
 
-        <hexID>DS35D1</hexID>
-        <oompSort>DIOSS123A01</oompSort>
+        <hexID>V92A</hexID>
+        <oompSort>VREGT92ADJU</oompSort>
 
 		<oompClass></oompClass>
 		<oompClassCode></oompClassCode>		
 		
-        <oompType>DIOS</oompType>
-        <oompSize>S123</oompSize>
+        <oompType>VREG</oompType>
+        <oompSize>T92</oompSize>
         <oompColor>X</oompColor>
-        <oompDesc>A01</oompDesc>
-        <oompIndex>01</oompIndex>
+        <oompDesc>ADJU</oompDesc>
+        <oompIndex>AH</oompIndex>
 
         <oompVersion>98</oompVersion>
 
@@ -31,7 +31,7 @@
         <ooDepth></ooDepth>
 
 <com>Description</com>
-        <ooNumPins>2</ooNumPins>
+        <ooNumPins>3</ooNumPins>
         <ooPowerRating></ooPowerRating>
 
 
@@ -45,10 +45,10 @@
 <com>Source List</com>		
 		<sourceList>
 			<manufacturer>
-				<company>JCET</company>
-				<companyCode>C-JCET</companyCode>
+				<company> TI </company>
+				<companyCode>C-TITI</companyCode>
 				<name></name>
-				<partID>B0540W</partID>
+				<partID>LP2950ACZ-3.3/NOPB</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -65,8 +65,8 @@
 				<company>Digikey</company>
 				<companyCode>C-DIGK</companyCode>
 				<name></name>
-				<partID>B0540W-FDICT-ND</partID>
-				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=B0540W-FDICT-ND]]></link>
+				<partID>LP2950ACZ-3.3/NOPB-ND</partID>
+				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=LP2950ACZ-3.3/NOPB-ND]]></link>
 				<note></note>
 			</bigDistributor>					
 
@@ -74,32 +74,32 @@
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
 				<name></name>
-				<partID>821-B0540W</partID>
-				<link><![CDATA[http://www.mouser.co.uk/Search/Refine.aspx?Keyword=821-B0540W]]></link>
+				<partID>926-LP2950ACZ33NOPB</partID>
+				<link><![CDATA[http://www.mouser.co.uk/Search/Refine.aspx?Keyword=926-LP2950ACZ33NOPB]]></link>
 				<note></note>
 			</bigDistributor>	
 			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
 				<name></name>
-				<partID>1863143</partID>
-				<link><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=1863143]]></link>
+				<partID>1652319</partID>
+				<link><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=1652319]]></link>
 				<note></note>
 			</bigDistributor>	
 			<bigDistributor>
 				<company>RS Electronics</company>
 				<companyCode>C-RSRS</companyCode>
 				<name></name>
-				<partID>708-2245</partID>
-				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=708-2245]]></link>
+				<partID>536-0492</partID>
+				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=536-0492]]></link>
 				<note></note>
 			</bigDistributor>	
 			<bigDistributor>
 				<company>SEEED Studio</company>
 				<companyCode>C-SEEE</companyCode>
-				<name>SMD Diode Schottky 40V-500mA</name>
-				<partID>304020012</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/s/304020012.html?search_in_description=0]]></link>
+				<name>DIP PMIC;LDO;Vin 2.3-30V;3.3V;Adj;100mA;Without En;1-Ch</name>
+				<partID>310030028</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/s/310030028.html?search_in_description=0]]></link>
 				<note></note>
 			</bigDistributor>	
 			<bigDistributor>
@@ -117,20 +117,20 @@
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
-				<oplName>SMD Diode Schottky 40V-500mA</oplName>
-				<oplID>304020012</oplID>
-				<oplFootprint>SOD-123</oplFootprint>
-				<oplPackage>SOD-123</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/304020012.html?search_in_description=0]]></oplLink>
+				<oplName>DIP PMIC;LDO;Vin 2.3-30V;3.3V;Adj;100mA;Without En;1-Ch</oplName>
+				<oplID>310030028</oplID>
+				<oplFootprint> TO-92 </oplFootprint>
+				<oplPackage> TO-92 </oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/310030028.html?search_in_description=0]]></oplLink>
 			</oplSystem>
 			<oplSystem>
 				<oplScheme>Circuithub.com</oplScheme>
 				<oplCode>C-CIRC</oplCode>
-				<oplName>DIODES/B0540W-7-F</oplName>
-				<oplID>DIODES/B0540W-7-F</oplID>
-				<oplFootprint>SOD-123</oplFootprint>
-				<oplPackage>SOD-123</oplPackage>
-				<oplLink><![CDATA[https://circuithub.com/parts/DIODES/B0540W-7-F]]></oplLink>
+				<oplName>TI/LP2950ACZ-3.3/NOPB</oplName>
+				<oplID>TI/LP2950ACZ-3.3/NOPB</oplID>
+				<oplFootprint>TO-92</oplFootprint>
+				<oplPackage>TO-92</oplPackage>
+				<oplLink><![CDATA[https://circuithub.com/parts/TI/LP2950ACZ-3.3/NOPB]]></oplLink>
 			</oplSystem>
 			<oplSystem>
 				<oplScheme></oplScheme>
@@ -173,6 +173,6 @@
 	<oompSchem></oompSchem>	
 	<oompSimp></oompSimp>	
 
-		<ooPackageMarking>SF</ooPackageMarking>
-		<ooDesignator>D</ooDesignator>
+		<ooPackageMarking>0</ooPackageMarking>
+		<ooDesignator>U</ooDesignator>
 </xml>

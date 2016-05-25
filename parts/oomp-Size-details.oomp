@@ -2364,6 +2364,10 @@
             <code>SP16</code>
             <name>16 Pin SMD (SOP)</name>
     </oompSize>		
+	<oompSize>
+            <code>SP20</code>
+            <name>20 Pin SMD (SOP)</name>
+    </oompSize>		
 	
 	<oompSize>
             <code>MS08</code>
@@ -2447,6 +2451,10 @@
 	<oompSize>
             <code>7SEL</code>
             <name>7 Segment LED</name>
+    </oompSize>	
+	<oompSize>
+            <code>10SEL</code>
+            <name>10 Segment LED Bargraph</name>
     </oompSize>	
 	<oompSize>
             <code>RJ45</code>

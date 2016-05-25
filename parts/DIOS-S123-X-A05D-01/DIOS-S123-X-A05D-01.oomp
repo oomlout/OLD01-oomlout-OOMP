@@ -69,15 +69,14 @@
 				<link><![CDATA[]]></link>
 				<note></note>
 			</bigDistributor>					
-
 			<bigDistributor>
 				<company>SEEED</company>
 				<companyCode>C-SEEE</companyCode>
 				<name>SMD Diode Schottky 20V-500mA</name>
 				<partID>304020028</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=61]]></link>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=207]]></link>
 				<note></note>
-			</bigDistributor>
+			</bigDistributor>	
 			<bigDistributor>
 				<company>SEEED</company>
 				<companyCode>C-SEEE</companyCode>
@@ -85,7 +84,8 @@
 				<partID>304020032</partID>
 				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=61]]></link>
 				<note></note>
-			</bigDistributor>				
+			</bigDistributor>	
+		
 		</sourceList>
 		
 <com>OPL</com>		
@@ -94,11 +94,22 @@
 				<oplScheme>Seeed OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
 				<oplName>SMD Diode Schottky 20V-500mA</oplName>
-				<oplID>304020032, 304020028</oplID>
+				<oplID>304020028</oplID>
+				<oplFootprint>SOD-123</oplFootprint>
+				<oplPackage>SOD-123</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=207]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme>Seeed OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD Diode Schottky 20V-500mA</oplName>
+				<oplID>304020032</oplID>
 				<oplFootprint>SOD-123</oplFootprint>
 				<oplPackage>SOD-123</oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=61]]></oplLink>
-			</oplSystem>
+			</oplSystem>			
+
+			
 		</oplList>
 
 <com>Hidden</com>

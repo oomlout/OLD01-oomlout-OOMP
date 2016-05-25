@@ -2,19 +2,19 @@
     <oompPart>
 
 <com>OOMP Base</com>
-        <oompID>DIOS-S123-X-A01-01</oompID>
-        <name> SMD (SOD-123) 1 Amp Diode (Schottky) </name>
+        <oompID>LEDS-5050-RGB-K2812-01</oompID>
+        <name> SMD (5050) Smart Controller (WS2812B) RGB LED </name>
 
-        <hexID>DS35D1</hexID>
-        <oompSort>DIOSS123A01</oompSort>
+        <hexID>L502</hexID>
+        <oompSort>LEDS5050K2812</oompSort>
 
 		<oompClass></oompClass>
 		<oompClassCode></oompClassCode>		
 		
-        <oompType>DIOS</oompType>
-        <oompSize>S123</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>A01</oompDesc>
+        <oompType>LEDS</oompType>
+        <oompSize>5050</oompSize>
+        <oompColor>RGB</oompColor>
+        <oompDesc>K2812</oompDesc>
         <oompIndex>01</oompIndex>
 
         <oompVersion>98</oompVersion>
@@ -24,14 +24,14 @@
 		
 <com>Size</com>
         <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
+        <ooWidth>5</ooWidth>
         <ooHeight></ooHeight>
         <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
+        <ooLength>5</ooLength>
         <ooDepth></ooDepth>
 
 <com>Description</com>
-        <ooNumPins>2</ooNumPins>
+        <ooNumPins>4</ooNumPins>
         <ooPowerRating></ooPowerRating>
 
 
@@ -45,10 +45,10 @@
 <com>Source List</com>		
 		<sourceList>
 			<manufacturer>
-				<company>JCET</company>
-				<companyCode>C-JCET</companyCode>
+				<company> worldsemi </company>
+				<companyCode>C-WORS</companyCode>
 				<name></name>
-				<partID>B0540W</partID>
+				<partID> WS2812B </partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -65,41 +65,41 @@
 				<company>Digikey</company>
 				<companyCode>C-DIGK</companyCode>
 				<name></name>
-				<partID>B0540W-FDICT-ND</partID>
-				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=B0540W-FDICT-ND]]></link>
+				<partID>1528-1104-ND</partID>
+				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=1528-1104-ND]]></link>
 				<note></note>
 			</bigDistributor>					
 
 			<bigDistributor>
-				<company>Mouser</company>
-				<companyCode>C-MOUS</companyCode>
+				<company></company>
+				<companyCode></companyCode>
 				<name></name>
-				<partID>821-B0540W</partID>
-				<link><![CDATA[http://www.mouser.co.uk/Search/Refine.aspx?Keyword=821-B0540W]]></link>
+				<partID></partID>
+				<link><![CDATA[]]></link>
 				<note></note>
 			</bigDistributor>	
 			<bigDistributor>
-				<company>Farnell</company>
-				<companyCode>C-FARN</companyCode>
+				<company></company>
+				<companyCode></companyCode>
 				<name></name>
-				<partID>1863143</partID>
-				<link><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=1863143]]></link>
+				<partID></partID>
+				<link><![CDATA[]]></link>
 				<note></note>
 			</bigDistributor>	
 			<bigDistributor>
-				<company>RS Electronics</company>
-				<companyCode>C-RSRS</companyCode>
+				<company></company>
+				<companyCode></companyCode>
 				<name></name>
-				<partID>708-2245</partID>
-				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=708-2245]]></link>
+				<partID></partID>
+				<link><![CDATA[]]></link>
 				<note></note>
 			</bigDistributor>	
 			<bigDistributor>
 				<company>SEEED Studio</company>
 				<companyCode>C-SEEE</companyCode>
-				<name>SMD Diode Schottky 40V-500mA</name>
-				<partID>304020012</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/s/304020012.html?search_in_description=0]]></link>
+				<name>WS2812B RGB LED with Integrated Driver Chip </name>
+				<partID>304990003</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/s/304990003.html?search_in_description=0]]></link>
 				<note></note>
 			</bigDistributor>	
 			<bigDistributor>
@@ -117,29 +117,29 @@
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
-				<oplName>SMD Diode Schottky 40V-500mA</oplName>
-				<oplID>304020012</oplID>
-				<oplFootprint>SOD-123</oplFootprint>
-				<oplPackage>SOD-123</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/304020012.html?search_in_description=0]]></oplLink>
+				<oplName>WS2812B RGB LED with Integrated Driver Chip </oplName>
+				<oplID>304990003</oplID>
+				<oplFootprint> 5050 </oplFootprint>
+				<oplPackage> 5050 </oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/304990003.html?search_in_description=0]]></oplLink>
 			</oplSystem>
 			<oplSystem>
 				<oplScheme>Circuithub.com</oplScheme>
 				<oplCode>C-CIRC</oplCode>
-				<oplName>DIODES/B0540W-7-F</oplName>
-				<oplID>DIODES/B0540W-7-F</oplID>
-				<oplFootprint>SOD-123</oplFootprint>
-				<oplPackage>SOD-123</oplPackage>
-				<oplLink><![CDATA[https://circuithub.com/parts/DIODES/B0540W-7-F]]></oplLink>
+				<oplName>AI/1655</oplName>
+				<oplID>AI/1655</oplID>
+				<oplFootprint>5050</oplFootprint>
+				<oplPackage>5050</oplPackage>
+				<oplLink><![CDATA[https://circuithub.com/parts/AI/1655]]></oplLink>
 			</oplSystem>
 			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
+				<oplScheme>Octopart CPL</oplScheme>
+				<oplCode>C-OCTO</oplCode>
+				<oplName>WS2812B  RGB integrated light source</oplName>
+				<oplID>CPL-LED-5050-RGB</oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
-				<oplLink><![CDATA[]]></oplLink>
+				<oplLink><![CDATA[https://octopart.com/common-parts-library]]></oplLink>
 			</oplSystem>
 		</oplList>
 
@@ -173,6 +173,6 @@
 	<oompSchem></oompSchem>	
 	<oompSimp></oompSimp>	
 
-		<ooPackageMarking>SF</ooPackageMarking>
+		<ooPackageMarking>0</ooPackageMarking>
 		<ooDesignator>D</ooDesignator>
 </xml>

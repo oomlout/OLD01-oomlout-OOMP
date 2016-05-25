@@ -3,9 +3,9 @@
 
 <com>OOMP Base</com>
         <oompID>HEDS-35D-X-SMDS-4P</oompID>
-        <name>3.5 mm SMD Headphone Socket (4 Pin)</name>
+        <name> 3.5 mm SMD Headphone Socket (4 Pin) </name>
 
-        <hexID>HP34</hexID>
+        <hexID>HP34X</hexID>
         <oompSort>HEDS35DSMDS</oompSort>
 
 		<oompClass></oompClass>
@@ -45,36 +45,28 @@
 <com>Source List</com>		
 		<sourceList>
 			<manufacturer>
-				<company>SUNTECH</company>
-				<companyCode>C-SUNT</companyCode>
+				<company>GT</company>
+				<companyCode>C-SUNG</companyCode>
 				<name></name>
-				<partID>PJ-3536-L6S</partID>
+				<partID>QT-CC-20016XX</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
 			<manufacturer>
-				<company>BST</company>
-				<companyCode>C-BSTT</companyCode>
+				<company></company>
+				<companyCode></companyCode>
 				<name></name>
-				<partID>PJ-393</partID>
+				<partID></partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
 				
 			<bigDistributor>
-				<company>SEEED Studio</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>SMD Audio Jack;3.5mm;4 Degree</name>
-				<partID>320040003</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=181]]></link>
-				<note></note>
-			</bigDistributor>		
-			<bigDistributor>
-				<company>SEEED Studio</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>SMD Audio Jack;3.5mm;4 Degree</name>
-				<partID>320040009</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=181]]></link>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
 				<note></note>
 			</bigDistributor>					
 
@@ -103,11 +95,11 @@
 				<note></note>
 			</bigDistributor>	
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
+				<company>SEEED Studio</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>Black Micro-SD to SD Adapter</name>
+				<partID>328030005</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/s/328030005.html?search_in_description=0]]></link>
 				<note></note>
 			</bigDistributor>	
 			<bigDistributor>
@@ -125,11 +117,11 @@
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
-				<oplName>SMD Audio Jack;3.5mm;4 Degree</oplName>
-				<oplID>320040003 320040009</oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=181]]></oplLink>
+				<oplName>Black Micro-SD to SD Adapter</oplName>
+				<oplID>328030005</oplID>
+				<oplFootprint>9P-L32mm*W24mm*H2.1mm</oplFootprint>
+				<oplPackage>9P-L32mm*W24mm*H2.1mm</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/328030005.html?search_in_description=0]]></oplLink>
 			</oplSystem>
 			<oplSystem>
 				<oplScheme></oplScheme>
@@ -172,13 +164,15 @@
 				<footprintNote></footprintNote>
 			</footprintSystem>
 		</footprintList>
-    	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem></oompSchem>
-	<oompSimp></oompSimp>
+    </oompPart>	
+
+
+	<oompBbls></oompBbls>	
+	<oompDiag></oompDiag>	
+	<oompIden></oompIden>	
+	<oompSchem></oompSchem>	
+	<oompSimp></oompSimp>	
+
 		<ooPackageMarking></ooPackageMarking>
-		<ooDesignator>J1</ooDesignator>
-</oompPart>	
-	
+		<ooDesignator>J</ooDesignator>
 </xml>
