@@ -19,14 +19,14 @@ Dist 2 P/N,
 Datasheet,
 ;;;;
 ::::
-^^0,600,%%T%%^^
+^^0,800,%%T%%^^
 "!!%%T%%,oompPart,oompID!!",
 "!!%%T%%,oompPart,name!!",
-@@!!%%T%%,oompPart,oompType!!,oompType.code,name@@,
-@@!!%%T%%,oompPart,oompSize!!,oompSize.code,name@@,
-@@!!%%T%%,oompPart,oompColor!!,oompColor.code,name@@,
-@@!!%%T%%,oompPart,oompDesc!!,oompDesc.code,name@@,
-@@!!%%T%%,oompPart,oompIndex!!,oompIndex.code,name@@,
+"@@!!%%T%%,oompPart,oompType!!,oompType.code,name@@",
+"@@!!%%T%%,oompPart,oompSize!!,oompSize.code,name@@",
+"@@!!%%T%%,oompPart,oompColor!!,oompColor.code,name@@",
+"@@!!%%T%%,oompPart,oompDesc!!,oompDesc.code,name@@",
+"@@!!%%T%%,oompPart,oompIndex!!,oompIndex.code,name@@",
 ^^0,12,%%U%%^^
 <<@@!!%%T%%,oompPart,oompID!!,oompPart.oompID,sourceList.bigDistributor.companyCode&&%%U%%&&@@,C-SEEE,@@!!%%T%%,oompPart,oompID!!,oompPart.oompID,sourceList.bigDistributor.partID&&%%U%%&&@@ <<"",
 @@!!%%T%%,oompPart,oompID!!,oompPart.oompID,sourceList.manufacturer.company&&1&&@@,

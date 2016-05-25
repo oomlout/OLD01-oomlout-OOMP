@@ -3,7 +3,7 @@
 
 <com>OOMP Base</com>
         <oompID>VREG-MS08-X-ADJU-A1</oompID>
-        <name> 8 Pin SMD (MSOP) Adjustable Voltage Regulator 1 A </name>
+        <name>8 Pin SMD (MSOP) Adjustable Voltage Regulator 1 A</name>
 
         <hexID>VS8A1</hexID>
         <oompSort>VREGMS08ADJU</oompSort>
@@ -173,6 +173,6 @@
 	<oompSchem></oompSchem>	
 	<oompSimp></oompSimp>	
 
-		<ooPackageMarking>0</ooPackageMarking>
+		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>U</ooDesignator>
 </xml>

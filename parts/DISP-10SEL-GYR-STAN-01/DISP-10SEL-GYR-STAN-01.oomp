@@ -3,7 +3,7 @@
 
 <com>OOMP Base</com>
         <oompID>DISP-10SEL-GYR-STAN-01</oompID>
-        <name> 10 Segment LED Bargraph Green, Yellow, Red Display </name>
+        <name>10 Segment LED Bargraph Green, Yellow, Red Display</name>
 
         <hexID>DS10M</hexID>
         <oompSort>DISP10SELSTAN</oompSort>
@@ -173,6 +173,6 @@
 	<oompSchem></oompSchem>	
 	<oompSimp></oompSimp>	
 
-		<ooPackageMarking>0</ooPackageMarking>
+		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>D</ooDesignator>
 </xml>

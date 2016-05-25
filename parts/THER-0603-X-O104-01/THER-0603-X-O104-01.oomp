@@ -1,0 +1,178 @@
+<xml>
+    <oompPart>
+
+<com>OOMP Base</com>
+        <oompID>THER-0603-X-O104-01</oompID>
+        <name>SMD (0603) 100k Ohm Thermistor</name>
+
+        <hexID>TH6</hexID>
+        <oompSort>THER0603O104</oompSort>
+
+		<oompClass></oompClass>
+		<oompClassCode></oompClassCode>		
+		
+        <oompType>THER</oompType>
+        <oompSize>0603</oompSize>
+        <oompColor>X</oompColor>
+        <oompDesc>O104</oompDesc>
+        <oompIndex>01</oompIndex>
+
+        <oompVersion>98</oompVersion>
+
+
+		
+		
+<com>Size</com>
+        <ooPitch></ooPitch>
+        <ooWidth>0.8 mm</ooWidth>
+        <ooHeight></ooHeight>
+        <ooDiameter></ooDiameter>
+        <ooLength>1.6 mm</ooLength>
+        <ooDepth></ooDepth>
+
+<com>Description</com>
+        <ooNumPins></ooNumPins>
+        <ooPowerRating></ooPowerRating>
+
+
+<com>Maximums</com>
+        <ooMaxCurrent></ooMaxCurrent>
+        <ooMaxVoltage></ooMaxVoltage>
+        <ooLifetime></ooLifetime>
+        <ooTolerance></ooTolerance>
+
+
+<com>Source List</com>		
+		<sourceList>
+			<manufacturer>
+				<company>Murata</company>
+				<companyCode>C-MURA</companyCode>
+				<name></name>
+				<partID>NCP18WF104F03RC</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+				
+			<bigDistributor>
+				<company>RS Electronics</company>
+				<companyCode>C-RSRS</companyCode>
+				<name></name>
+				<partID>786-9449P</partID>
+				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=786-9449P]]></link>
+				<note></note>
+			</bigDistributor>					
+
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company>SEEED Studio</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>SMD RES Thermistor NTC 100K-1%;</name>
+				<partID>314110001</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/s/314110001.html?search_in_description=0]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>					
+		</sourceList>
+		
+<com>OPL</com>		
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD RES Thermistor NTC 100K-1%;</oplName>
+				<oplID>314110001</oplID>
+				<oplFootprint>603</oplFootprint>
+				<oplPackage>603</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/314110001.html?search_in_description=0]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme></oplScheme>
+				<oplCode></oplCode>
+				<oplName></oplName>
+				<oplID></oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme></oplScheme>
+				<oplCode></oplCode>
+				<oplName></oplName>
+				<oplID></oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[]]></oplLink>
+			</oplSystem>
+		</oplList>
+
+<com>Hidden</com>
+        <oompAbout></oompAbout>
+        <ooProjectName1></ooProjectName1>
+        <ooProjectDesc1></ooProjectDesc1>
+        <ooProjectLink1></ooProjectLink1>
+        <ooProjectType1></ooProjectType1>
+        <ooBuyName1></ooBuyName1>
+        <ooBuyDesc1></ooBuyDesc1>
+        <ooBuyLink1></ooBuyLink1>
+        <ooBuyType1></ooBuyType1>
+
+	<com>Footprint</com>
+		<footprintList>
+			<footprintSystem>
+				<footprintScheme>Eagle Default</footprintScheme>
+				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+		</footprintList>
+    </oompPart>	
+
+
+	<oompBbls></oompBbls>	
+	<oompDiag></oompDiag>	
+	<oompIden></oompIden>	
+	<oompSchem></oompSchem>	
+	<oompSimp></oompSimp>	
+
+		<ooPackageMarking></ooPackageMarking>
+		<ooDesignator>RT1</ooDesignator>
+</xml>

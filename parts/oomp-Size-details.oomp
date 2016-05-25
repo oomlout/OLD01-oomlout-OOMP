@@ -68,6 +68,10 @@
             <name>SMD (3643)</name>
     </oompSize>
 	    <oompSize>
+            <code>4632</code>
+            <name>SMD (4632)</name>
+    </oompSize>
+	    <oompSize>
             <code>4735</code>
             <name>SMD (4735)</name>
     </oompSize>
@@ -86,6 +90,14 @@
 	    <oompSize>
             <code>6727</code>
             <name>SMD (6727)</name>
+    </oompSize>
+	    <oompSize>
+            <code>7135</code>
+            <name>SMD (7135)</name>
+    </oompSize>
+	    <oompSize>
+            <code>7827</code>
+            <name>SMD (7827)</name>
     </oompSize>
     <oompSize>
             <code>AVA</code>
@@ -852,6 +864,10 @@
             <name>5 mm</name>
     </oompSize>
     <oompSize>
+            <code>52D</code>
+            <name>5.2 mm</name>
+    </oompSize>
+    <oompSize>
             <code>06</code>
             <name>6 mm</name>
     </oompSize>
@@ -876,10 +892,6 @@
             <name>8 mm</name>
     </oompSize>
     <oompSize>
-            <code>87D</code>
-            <name>8.7 mm</name>
-    </oompSize>
-    <oompSize>
             <code>88D</code>
             <name>8.8 mm</name>
     </oompSize>
@@ -888,12 +900,20 @@
             <name>9 mm</name>
     </oompSize>
     <oompSize>
+            <code>92D</code>
+            <name>9.2 mm</name>
+    </oompSize>
+    <oompSize>
             <code>95D</code>
             <name>9.5 mm</name>
     </oompSize>
     <oompSize>
             <code>97D</code>
             <name>9.7 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>98D</code>
+            <name>9.8 mm</name>
     </oompSize>
     <oompSize>
             <code>10</code>
@@ -947,9 +967,17 @@
             <code>81DX42S</code>
             <name>8.1 x 4.2 mm</name>
     </oompSize>
+	   <oompSize>
+            <code>87DX45D</code>
+            <name>8.7 mm x 4.5 mm</name>
+    </oompSize>
     <oompSize>
             <code>19X15</code>
             <name>19 x 15 mm</name>
+    </oompSize>
+    <oompSize>
+            <code>25X13</code>
+            <name>25 x 13 mm</name>
     </oompSize>
     <oompSize>
             <code>20</code>

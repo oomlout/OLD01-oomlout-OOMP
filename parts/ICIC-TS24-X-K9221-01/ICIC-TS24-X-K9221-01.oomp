@@ -3,7 +3,7 @@
 
 <com>OOMP Base</com>
         <oompID>ICIC-TS24-X-K9221-01</oompID>
-        <name> 24 Pin SMD (TSSOP) 12 Channel Constant Current LED Driver (MY9221) </name>
+        <name>24 Pin SMD (TSSOP) 12 Channel Constant Current LED Driver (MY9221)</name>
 
         <hexID>ICS9221</hexID>
         <oompSort>ICICTS24K9221</oompSort>
@@ -173,6 +173,6 @@
 	<oompSchem></oompSchem>	
 	<oompSimp></oompSimp>	
 
-		<ooPackageMarking>0</ooPackageMarking>
+		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>U</ooDesignator>
 </xml>

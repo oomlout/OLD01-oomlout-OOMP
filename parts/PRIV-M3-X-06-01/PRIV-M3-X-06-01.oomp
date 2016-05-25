@@ -1,0 +1,178 @@
+<xml>
+    <oompPart>
+
+<com>OOMP Base</com>
+        <oompID>PRIV-M3-X-06-01</oompID>
+        <name>M3 x 6 mm Plastic Rivet</name>
+
+        <hexID>PR36</hexID>
+        <oompSort>PRIVM306</oompSort>
+
+		<oompClass></oompClass>
+		<oompClassCode></oompClassCode>		
+		
+        <oompType>PRIV</oompType>
+        <oompSize>M3</oompSize>
+        <oompColor>X</oompColor>
+        <oompDesc>06</oompDesc>
+        <oompIndex>01</oompIndex>
+
+        <oompVersion>98</oompVersion>
+
+
+		
+		
+<com>Size</com>
+        <ooPitch></ooPitch>
+        <ooWidth></ooWidth>
+        <ooHeight></ooHeight>
+        <ooDiameter></ooDiameter>
+        <ooLength></ooLength>
+        <ooDepth></ooDepth>
+
+<com>Description</com>
+        <ooNumPins></ooNumPins>
+        <ooPowerRating></ooPowerRating>
+
+
+<com>Maximums</com>
+        <ooMaxCurrent></ooMaxCurrent>
+        <ooMaxVoltage></ooMaxVoltage>
+        <ooLifetime></ooLifetime>
+        <ooTolerance></ooTolerance>
+
+
+<com>Source List</com>		
+		<sourceList>
+			<manufacturer>
+				<company>HKWASI</company>
+				<companyCode>C-HKWA</companyCode>
+				<name></name>
+				<partID>R3075</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+				
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>					
+
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company>SEEED Studio</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>Rivet;Black-Plastic-R3075</name>
+				<partID>326080002</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/s/326080002.html?search_in_description=0]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>					
+		</sourceList>
+		
+<com>OPL</com>		
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>Rivet;Black-Plastic-R3075</oplName>
+				<oplID>326080002</oplID>
+				<oplFootprint>R3075</oplFootprint>
+				<oplPackage>R3075</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/326080002.html?search_in_description=0]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme></oplScheme>
+				<oplCode></oplCode>
+				<oplName></oplName>
+				<oplID></oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme></oplScheme>
+				<oplCode></oplCode>
+				<oplName></oplName>
+				<oplID></oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[]]></oplLink>
+			</oplSystem>
+		</oplList>
+
+<com>Hidden</com>
+        <oompAbout></oompAbout>
+        <ooProjectName1></ooProjectName1>
+        <ooProjectDesc1></ooProjectDesc1>
+        <ooProjectLink1></ooProjectLink1>
+        <ooProjectType1></ooProjectType1>
+        <ooBuyName1></ooBuyName1>
+        <ooBuyDesc1></ooBuyDesc1>
+        <ooBuyLink1></ooBuyLink1>
+        <ooBuyType1></ooBuyType1>
+
+	<com>Footprint</com>
+		<footprintList>
+			<footprintSystem>
+				<footprintScheme>Eagle Default</footprintScheme>
+				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+		</footprintList>
+    </oompPart>	
+
+
+	<oompBbls></oompBbls>	
+	<oompDiag></oompDiag>	
+	<oompIden></oompIden>	
+	<oompSchem></oompSchem>	
+	<oompSimp></oompSimp>	
+
+		<ooPackageMarking></ooPackageMarking>
+		<ooDesignator>0</ooDesignator>
+</xml>

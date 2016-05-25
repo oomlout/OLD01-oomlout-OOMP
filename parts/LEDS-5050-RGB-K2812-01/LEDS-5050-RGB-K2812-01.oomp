@@ -3,7 +3,7 @@
 
 <com>OOMP Base</com>
         <oompID>LEDS-5050-RGB-K2812-01</oompID>
-        <name> SMD (5050) Smart Controller (WS2812B) RGB LED </name>
+        <name>SMD (5050) Smart Controller (WS2812B) RGB LED</name>
 
         <hexID>L502</hexID>
         <oompSort>LEDS5050K2812</oompSort>
@@ -97,7 +97,7 @@
 			<bigDistributor>
 				<company>SEEED Studio</company>
 				<companyCode>C-SEEE</companyCode>
-				<name>WS2812B RGB LED with Integrated Driver Chip </name>
+				<name>WS2812B RGB LED with Integrated Driver Chip</name>
 				<partID>304990003</partID>
 				<link><![CDATA[http://www.seeedstudio.com/depot/s/304990003.html?search_in_description=0]]></link>
 				<note></note>
@@ -173,6 +173,6 @@
 	<oompSchem></oompSchem>	
 	<oompSimp></oompSimp>	
 
-		<ooPackageMarking>0</ooPackageMarking>
+		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>D</ooDesignator>
 </xml>

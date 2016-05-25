@@ -1,0 +1,178 @@
+<xml>
+    <oompPart>
+
+<com>OOMP Base</com>
+        <oompID>VREG-SO235-U-V33D-AC</oompID>
+        <name> SMD (SOT-23-5) 3.3v Voltage Regulator 150 mA </name>
+
+        <hexID>VS533</hexID>
+        <oompSort>VREGSO235V33D</oompSort>
+
+		<oompClass></oompClass>
+		<oompClassCode></oompClassCode>		
+		
+        <oompType>VREG</oompType>
+        <oompSize>SO235</oompSize>
+        <oompColor>U</oompColor>
+        <oompDesc>V33D</oompDesc>
+        <oompIndex>AC</oompIndex>
+
+        <oompVersion>98</oompVersion>
+
+
+		
+		
+<com>Size</com>
+        <ooPitch></ooPitch>
+        <ooWidth></ooWidth>
+        <ooHeight></ooHeight>
+        <ooDiameter></ooDiameter>
+        <ooLength></ooLength>
+        <ooDepth></ooDepth>
+
+<com>Description</com>
+        <ooNumPins>5</ooNumPins>
+        <ooPowerRating></ooPowerRating>
+
+
+<com>Maximums</com>
+        <ooMaxCurrent></ooMaxCurrent>
+        <ooMaxVoltage></ooMaxVoltage>
+        <ooLifetime></ooLifetime>
+        <ooTolerance></ooTolerance>
+
+
+<com>Source List</com>		
+		<sourceList>
+			<manufacturer>
+				<company>TI</company>
+				<companyCode>C-TITI</companyCode>
+				<name></name>
+				<partID>LP2985-33DBVR</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+				
+			<bigDistributor>
+				<company>Digikey</company>
+				<companyCode>C-DIGK</companyCode>
+				<name></name>
+				<partID>296-18476-1-ND</partID>
+				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=296-18476-1-ND]]></link>
+				<note></note>
+			</bigDistributor>					
+
+			<bigDistributor>
+				<company>Mouser</company>
+				<companyCode>C-MOUS</companyCode>
+				<name></name>
+				<partID>595-LP2985-33DBVR</partID>
+				<link><![CDATA[http://www.mouser.co.uk/Search/Refine.aspx?Keyword=595-LP2985-33DBVR]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company>Farnell</company>
+				<companyCode>C-FARN</companyCode>
+				<name></name>
+				<partID>2395925</partID>
+				<link><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=2395925]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company>RS Electronics</company>
+				<companyCode>C-RSRS</companyCode>
+				<name></name>
+				<partID>660-6733</partID>
+				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=660-6733]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company>SEEED Studio</company>
+				<companyCode>C-SEEE</companyCode>
+				<name>SMD IC PMIC;Vin 2.2V-16V;Vout 3.3V;Iout 150mA;With-EN</name>
+				<partID>310030033</partID>
+				<link><![CDATA[http://www.seeedstudio.com/depot/s/310030033.html?search_in_description=0]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>					
+		</sourceList>
+		
+<com>OPL</com>		
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD IC PMIC;Vin 2.2V-16V;Vout 3.3V;Iout 150mA;With-EN</oplName>
+				<oplID>310030033</oplID>
+				<oplFootprint>SOT-23-5</oplFootprint>
+				<oplPackage>SOT-23-5</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/310030033.html?search_in_description=0]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme>Circuithub.com</oplScheme>
+				<oplCode>C-CIRC</oplCode>
+				<oplName>TI/LP2985-33DBVR</oplName>
+				<oplID>TI/LP2985-33DBVR</oplID>
+				<oplFootprint>SOT-23</oplFootprint>
+				<oplPackage>SOT-23</oplPackage>
+				<oplLink><![CDATA[https://circuithub.com/parts/TI/LP2985-33DBVR]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme></oplScheme>
+				<oplCode></oplCode>
+				<oplName></oplName>
+				<oplID></oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[]]></oplLink>
+			</oplSystem>
+		</oplList>
+
+<com>Hidden</com>
+        <oompAbout></oompAbout>
+        <ooProjectName1></ooProjectName1>
+        <ooProjectDesc1></ooProjectDesc1>
+        <ooProjectLink1></ooProjectLink1>
+        <ooProjectType1></ooProjectType1>
+        <ooBuyName1></ooBuyName1>
+        <ooBuyDesc1></ooBuyDesc1>
+        <ooBuyLink1></ooBuyLink1>
+        <ooBuyType1></ooBuyType1>
+
+	<com>Footprint</com>
+		<footprintList>
+			<footprintSystem>
+				<footprintScheme>Eagle Default</footprintScheme>
+				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+		</footprintList>
+    </oompPart>	
+
+
+	<oompBbls></oompBbls>	
+	<oompDiag></oompDiag>	
+	<oompIden></oompIden>	
+	<oompSchem></oompSchem>	
+	<oompSimp></oompSimp>	
+
+		<ooPackageMarking></ooPackageMarking>
+		<ooDesignator>U1</ooDesignator>
+</xml>

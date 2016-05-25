@@ -24,6 +24,10 @@
             <code>TINT</code>
             <name>Tinted</name>
     </oompDesc>
+    <oompDesc>
+            <code>TEHU</code>
+            <name>Temperature and Humidity</name>
+    </oompDesc>
 	<oompDesc>
             <code>CLER</code>
             <name>Clear</name>
@@ -11657,6 +11661,11 @@
             <name>1 m</name>
     </oompDesc>
 	<oompDesc>
+            <code>LIRE</code>
+            <name>Light (Resistive)</name>
+    </oompDesc>
+	
+	<oompDesc>
             <code>01</code>
             <name>x 1 mm</name>
     </oompDesc>
@@ -11780,14 +11789,14 @@
 </xml>	
 	<oompDesc>
             <code>PIRS</code>
-            <name>Pyroelectric Infrared Detector (PIR)</name>
+            <name>PIRS</name>
     </oompDesc>		
 	<oompDesc>
             <code>UVUV</code>
             <name>Ultraviolet</name>
     </oompDesc>	
 	<oompDesc>
-            <code>PIVS</code>
+            <code>PIVB</code>
             <name>Piezo Vibration</name>
     </oompDesc>			
 </xml>

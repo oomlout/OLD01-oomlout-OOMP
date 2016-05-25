@@ -3,7 +3,7 @@
 
 <com>OOMP Base</com>
         <oompID>INDU-0805-X-NH47D-01</oompID>
-        <name> SMD (0805) 4.7 nH Inductor </name>
+        <name>SMD (0805) 4.7 nH Inductor</name>
 
         <hexID>IN85U22D</hexID>
         <oompSort>INDU0805NH47D</oompSort>
@@ -97,7 +97,7 @@
 			<bigDistributor>
 				<company>SEEED Studio</company>
 				<companyCode>C-SEEE</companyCode>
-				<name>SMD Inductor;2.2uH-20%-1.2A </name>
+				<name>SMD Inductor;2.2uH-20%-1.2A</name>
 				<partID>303010086</partID>
 				<link><![CDATA[http://www.seeedstudio.com/depot/s/303010086.html?search_in_description=0]]></link>
 				<note></note>
@@ -173,6 +173,6 @@
 	<oompSchem></oompSchem>	
 	<oompSimp></oompSimp>	
 
-		<ooPackageMarking>0</ooPackageMarking>
+		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>L</ooDesignator>
 </xml>

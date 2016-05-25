@@ -3,7 +3,7 @@
 
 <com>OOMP Base</com>
         <oompID>INDU-0402-X-NH47D-01</oompID>
-        <name> SMD (0402) 4.7 nH Inductor </name>
+        <name>SMD (0402) 4.7 nH Inductor</name>
 
         <hexID>IN42N47D</hexID>
         <oompSort>INDU0402NH47D</oompSort>
@@ -173,6 +173,6 @@
 	<oompSchem></oompSchem>	
 	<oompSimp></oompSimp>	
 
-		<ooPackageMarking>0</ooPackageMarking>
+		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>L</ooDesignator>
 </xml>

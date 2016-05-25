@@ -3,7 +3,7 @@
 
 <com>OOMP Base</com>
         <oompID>ICIC-TS20-X-K108B-01</oompID>
-        <name> 20 Pin SMD (TSSOP) 8 bit Level Shifter (TXB0108PW) </name>
+        <name>20 Pin SMD (TSSOP) 8 bit Level Shifter (TXB0108PW)</name>
 
         <hexID>ICS108B</hexID>
         <oompSort>ICICTS20K108B</oompSort>
@@ -173,6 +173,6 @@
 	<oompSchem></oompSchem>	
 	<oompSimp></oompSimp>	
 
-		<ooPackageMarking>0</ooPackageMarking>
+		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>U</ooDesignator>
 </xml>

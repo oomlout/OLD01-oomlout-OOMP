@@ -170,6 +170,11 @@
             <code>K9221</code>
             <name>12 Channel Constant Current LED Driver (MY9221)</name>
     </oompDesc>	
+	
+	<oompDesc>
+            <code>K1550</code>
+            <name>Photo Reflective (LTH1550)</name>
+    </oompDesc>	
 	<oompDesc>
             <code>K1637</code>
             <name>7 Segment 4 Digit LED Driver (TM1637)</name>
@@ -208,7 +213,7 @@
     </oompDesc>	
 	<oompDesc>
             <code>K36</code>
-            <name>Temperature Sensor (TMP36)</name>
+            <name>Temperature (TMP36)</name>
     </oompDesc>	
 	<oompDesc>
             <code>K7660</code>

@@ -3,7 +3,7 @@
 
 <com>OOMP Base</com>
         <oompID>FERB-0603-X-O252-01</oompID>
-        <name> SMD (0603) 2.5k Ohm Ferrite Bead </name>
+        <name>SMD (0603) 2.5k Ohm Ferrite Bead</name>
 
         <hexID>F6252</hexID>
         <oompSort>FERB0603O252</oompSort>
@@ -173,6 +173,6 @@
 	<oompSchem></oompSchem>	
 	<oompSimp></oompSimp>	
 
-		<ooPackageMarking>0</ooPackageMarking>
+		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>L</ooDesignator>
 </xml>

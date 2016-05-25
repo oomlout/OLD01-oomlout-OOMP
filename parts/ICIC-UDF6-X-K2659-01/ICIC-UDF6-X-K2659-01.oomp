@@ -3,7 +3,7 @@
 
 <com>OOMP Base</com>
         <oompID>ICIC-UDF6-X-K2659-01</oompID>
-        <name> SMD (UDFN-6) GPS Amplifier (MAX2659) </name>
+        <name>SMD (UDFN-6) GPS Amplifier (MAX2659)</name>
 
         <hexID>ICSGPS</hexID>
         <oompSort>ICICUDF6K2659</oompSort>
@@ -173,6 +173,6 @@
 	<oompSchem></oompSchem>	
 	<oompSimp></oompSimp>	
 
-		<ooPackageMarking>0</ooPackageMarking>
+		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>U</ooDesignator>
 </xml>

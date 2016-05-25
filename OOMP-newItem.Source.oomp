@@ -2,25 +2,26 @@
 
 <xml>
 <newOOMP>
+
 <oompVersion>98</oompVersion>
 
 <com>IMPORTANT ALL MUST BE FILLED</com>
-<oompType>LEDS</oompType>
-<oompSize>0805</oompSize>
-<oompColor>L</oompColor>
-<oompDesc>STAN</oompDesc>
-<oompIndex>01</oompIndex>
-<oompSort>LEDS0805STAN</oompSort>
+<oompType>VREG</oompType>
+<oompSize>SO235</oompSize>
+<oompColor>U</oompColor>
+<oompDesc>V33D</oompDesc>
+<oompIndex>AC</oompIndex>
+<oompSort>VREGSO235V33D</oompSort>
 
-<hexID>L85L</hexID>
+<hexID>VS533</hexID>
 
 <oompClass></oompClass>
 <oompClassCode></oompClassCode>
 
 <com>Source List</com>
-<manufacturerCompany1>Everlight</manufacturerCompany1>
-<manufacturerCompanyCode1>C-EVER</manufacturerCompanyCode1>
-<manufacturerPartID1>EL-17-215/BHC-AN1P2/3T</manufacturerPartID1>
+<manufacturerCompany1>TI</manufacturerCompany1>
+<manufacturerCompanyCode1>C-TITI</manufacturerCompanyCode1>
+<manufacturerPartID1>LP2985-33DBVR</manufacturerPartID1>
 
 <manufacturerCompany2></manufacturerCompany2>
 <manufacturerCompanyCode2></manufacturerCompanyCode2>
@@ -50,34 +51,49 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <oplScheme1>SEEED OPL</oplScheme1>
 <oplCode1>C-SEEE</oplCode1>
-<oplName1>SMD LED Clear-Blue</oplName1>
-<oplID1>304090061</oplID1>
-<oplFootprint1>805</oplFootprint1>
-<oplPackage1>805</oplPackage1>
-<oplLink1><![CDATA[http://www.seeedstudio.com/depot/s/304090061.html?search_in_description=0]]></oplLink1>
+<oplName1>SMD IC PMIC;Vin 2.2V-16V;Vout 3.3V;Iout 150mA;With-EN</oplName1>
+<oplID1>310030033</oplID1>
+<oplFootprint1>SOT-23-5</oplFootprint1>
+<oplPackage1>SOT-23-5</oplPackage1>
+<oplLink1><![CDATA[http://www.seeedstudio.com/depot/s/310030033.html?search_in_description=0]]></oplLink1>
 
 
-<oplScheme99>Octopart CPL</oplScheme99>
-<oplCode99>C-OCTO</oplCode99>
-<oplName99></oplName99>
-<oplID99></oplID99>
-<oplFootprint99></oplFootprint99>
-<oplPackage99></oplPackage99>
-<oplLink99>https://octopart.com/common-parts-library</oplLink99>
+<oplScheme1>Octopart CPL</oplScheme1>
+<oplCode1>C-OCTO</oplCode1>
+<oplName1>Low Power Linear Voltage Regulator</oplName1>
+<oplID1>CPL-REG-LIN-3.3V-0.15A</oplID1>
+<oplFootprint1></oplFootprint1>
+<oplPackage1></oplPackage1>
+<oplLink1>https://octopart.com/common-parts-library</oplLink1>
 
 
-<oplScheme99>Circuithub.com</oplScheme99>
-<oplCode99>C-CIRC</oplCode99>
-<oplName99></oplName99>
-<oplID99></oplID99>
-<oplFootprint99></oplFootprint99>
-<oplPackage99></oplPackage99>
-<oplLink99>https://circuithub.com/parts/</oplLink99>
-
-
-
+<oplScheme2>Circuithub.com</oplScheme2>
+<oplCode2>C-CIRC</oplCode2>
+<oplName2>TI/LP2985-33DBVR</oplName2>
+<oplID2>TI/LP2985-33DBVR</oplID2>
+<oplFootprint2>SOT-23</oplFootprint2>
+<oplPackage2>SOT-23</oplPackage2>
+<oplLink2>https://circuithub.com/parts/TI/LP2985-33DBVR</oplLink2>
 
 
 
@@ -92,12 +108,15 @@
 
 
 
-<ooNumPins>2</ooNumPins>
+
+
+
+<ooNumPins>5</ooNumPins>
 <ooPitch></ooPitch>
-<ooWidth>1.25 mm</ooWidth>
+<ooWidth></ooWidth>
 <ooHeight></ooHeight>
 <ooDiameter></ooDiameter>
-<ooLength>2.0 mm</ooLength>
+<ooLength></ooLength>
 <ooDepth></ooDepth>
 
 
@@ -106,28 +125,28 @@
 
 
 
-<bigDistributorCompanyCode99>C-DIGK</bigDistributorCompanyCode99>
-<bigDistributorCompany99>Digikey</bigDistributorCompany99>
-<bigDistributorPartID99></bigDistributorPartID99>
-<bigDistributorLink99>http://www.digikey.com/product-search/en?keywords=</bigDistributorLink99>
+<bigDistributorCompanyCode1>C-DIGK</bigDistributorCompanyCode1>
+<bigDistributorCompany1>Digikey</bigDistributorCompany1>
+<bigDistributorPartID1>296-18476-1-ND</bigDistributorPartID1>
+<bigDistributorLink1>http://www.digikey.com/product-search/en?keywords=296-18476-1-ND</bigDistributorLink1>
 
 
-<bigDistributorCompanyCode99>C-MOUS</bigDistributorCompanyCode99>
-<bigDistributorCompany99>Mouser</bigDistributorCompany99>
-<bigDistributorPartID99></bigDistributorPartID99>
-<bigDistributorLink99>http://www.mouser.co.uk/Search/Refine.aspx?Keyword=</bigDistributorLink99>
+<bigDistributorCompanyCode2>C-MOUS</bigDistributorCompanyCode2>
+<bigDistributorCompany2>Mouser</bigDistributorCompany2>
+<bigDistributorPartID2>595-LP2985-33DBVR</bigDistributorPartID2>
+<bigDistributorLink2>http://www.mouser.co.uk/Search/Refine.aspx?Keyword=595-LP2985-33DBVR</bigDistributorLink2>
 
 
-<bigDistributorCompanyCode99>C-FARN</bigDistributorCompanyCode99>
-<bigDistributorCompany99>Farnell</bigDistributorCompany99>
-<bigDistributorPartID99></bigDistributorPartID99>
-<bigDistributorLink99><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=]]></bigDistributorLink99>
+<bigDistributorCompanyCode3>C-FARN</bigDistributorCompanyCode3>
+<bigDistributorCompany3>Farnell</bigDistributorCompany3>
+<bigDistributorPartID3>2395925</bigDistributorPartID3>
+<bigDistributorLink3><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=2395925]]></bigDistributorLink3>
 
 
-<bigDistributorCompanyCode99>C-RSRS</bigDistributorCompanyCode99>
-<bigDistributorCompany99>RS Electronics</bigDistributorCompany99>
-<bigDistributorPartID99></bigDistributorPartID99>
-<bigDistributorLink99><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=]]></bigDistributorLink99>
+<bigDistributorCompanyCode4>C-RSRS</bigDistributorCompanyCode4>
+<bigDistributorCompany4>RS Electronics</bigDistributorCompany4>
+<bigDistributorPartID4>660-6733</bigDistributorPartID4>
+<bigDistributorLink4><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=660-6733]]></bigDistributorLink4>
 
 
 <bigDistributorCompanyCode99>C-RAPI</bigDistributorCompanyCode99>
@@ -138,9 +157,9 @@
 
 <bigDistributorCompanyCode5>C-SEEE</bigDistributorCompanyCode5>
 <bigDistributorCompany5>SEEED Studio</bigDistributorCompany5>
-<bigDistributorPartID5>304090061</bigDistributorPartID5>
-<bigDistributorLink5><![CDATA[http://www.seeedstudio.com/depot/s/304090061.html?search_in_description=0]]></bigDistributorLink5>
-<bigDistributorName5>SMD LED Clear-Blue</bigDistributorName5>
+<bigDistributorPartID5>310030033</bigDistributorPartID5>
+<bigDistributorLink5><![CDATA[http://www.seeedstudio.com/depot/s/310030033.html?search_in_description=0]]></bigDistributorLink5>
+<bigDistributorName5>SMD IC PMIC;Vin 2.2V-16V;Vout 3.3V;Iout 150mA;With-EN</bigDistributorName5>
 
 <oompBBLS></oompBBLS>
 <oompDIAG></oompDIAG>
@@ -149,8 +168,8 @@
 <oompSIMP></oompSIMP>
 
 
-<ooPackageMarking>0</ooPackageMarking>
-<ooDesignator>D</ooDesignator>
+<ooPackageMarking></ooPackageMarking>
+<ooDesignator>U1</ooDesignator>
 
 
 
@@ -160,25 +179,6 @@
 
 </newOOMP>
 </xml>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

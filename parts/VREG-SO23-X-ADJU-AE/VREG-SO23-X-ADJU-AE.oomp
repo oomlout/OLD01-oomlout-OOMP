@@ -3,7 +3,7 @@
 
 <com>OOMP Base</com>
         <oompID>VREG-SO23-X-ADJU-AE</oompID>
-        <name> SMD (SOT-23) Adjustable Voltage Regulator 200 mA </name>
+        <name>SMD (SOT-23) Adjustable Voltage Regulator 200 mA</name>
 
         <hexID>VS3A2D</hexID>
         <oompSort>VREGSO23ADJU</oompSort>
@@ -173,6 +173,6 @@
 	<oompSchem></oompSchem>	
 	<oompSimp></oompSimp>	
 
-		<ooPackageMarking>0</ooPackageMarking>
+		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>U</ooDesignator>
 </xml>

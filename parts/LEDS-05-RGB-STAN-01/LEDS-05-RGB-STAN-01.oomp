@@ -3,7 +3,7 @@
 
 <com>OOMP Base</com>
         <oompID>LEDS-05-RGB-STAN-01</oompID>
-        <name> 5 mm RGB LED </name>
+        <name>5 mm RGB LED</name>
 
         <hexID>L5RGB</hexID>
         <oompSort>LEDS05STAN</oompSort>
@@ -173,6 +173,6 @@
 	<oompSchem></oompSchem>	
 	<oompSimp></oompSimp>	
 
-		<ooPackageMarking>0</ooPackageMarking>
+		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>D</ooDesignator>
 </xml>

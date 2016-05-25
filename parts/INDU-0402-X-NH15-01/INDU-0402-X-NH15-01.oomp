@@ -3,7 +3,7 @@
 
 <com>OOMP Base</com>
         <oompID>INDU-0402-X-NH15-01</oompID>
-        <name> SMD (0402) 15 nH Inductor </name>
+        <name>SMD (0402) 15 nH Inductor</name>
 
         <hexID>IN42N15</hexID>
         <oompSort>INDU0402NH15</oompSort>
@@ -173,6 +173,6 @@
 	<oompSchem></oompSchem>	
 	<oompSimp></oompSimp>	
 
-		<ooPackageMarking>0</ooPackageMarking>
+		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>L</ooDesignator>
 </xml>

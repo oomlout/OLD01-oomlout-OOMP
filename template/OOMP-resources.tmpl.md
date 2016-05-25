@@ -18,6 +18,7 @@ Images
 |  Size Reference Image | %%ID%%_RE.jpg | Image of the part next to a commonly known object to give an idea of size. Currently using a sharpened pencil.|
 |  Bottom Image | %%ID%%_BOTTOM.jpg | Image of the parts bottom, most useful for SMD components. | 
 |  Additional Images | %%ID%%_##.jpg | Additional images of a part. Different angles etc. |
+|  Die Shot  | %%ID%%_DIE.jpg | For silicon items an image of the bare die. |
 
 Diagram
 --------------------------------------------------

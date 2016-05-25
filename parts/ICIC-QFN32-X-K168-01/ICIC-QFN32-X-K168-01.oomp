@@ -3,7 +3,7 @@
 
 <com>OOMP Base</com>
         <oompID>ICIC-QFN32-X-K168-01</oompID>
-        <name> 32 Pin SMD (QFN) AtMega168P </name>
+        <name>32 Pin SMD (QFN) AtMega168P</name>
 
         <hexID>ICSQ168</hexID>
         <oompSort>ICICQFN32K168</oompSort>
@@ -173,6 +173,6 @@
 	<oompSchem></oompSchem>	
 	<oompSimp></oompSimp>	
 
-		<ooPackageMarking>0</ooPackageMarking>
+		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>U</ooDesignator>
 </xml>

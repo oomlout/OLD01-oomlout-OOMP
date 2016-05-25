@@ -3,7 +3,7 @@
 
 <com>OOMP Base</com>
         <oompID>ICIC-SS24-X-K6612-01</oompID>
-        <name> 24 Pin SMD (SSOP) Dual H-Bridge (TB6612) </name>
+        <name>24 Pin SMD (SSOP) Dual H-Bridge (TB6612)</name>
 
         <hexID>ICS6612</hexID>
         <oompSort>ICICSS24K6612</oompSort>
@@ -173,6 +173,6 @@
 	<oompSchem></oompSchem>	
 	<oompSimp></oompSimp>	
 
-		<ooPackageMarking>0</ooPackageMarking>
+		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>U</ooDesignator>
 </xml>

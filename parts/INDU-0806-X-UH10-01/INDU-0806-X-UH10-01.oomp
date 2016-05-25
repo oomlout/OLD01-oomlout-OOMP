@@ -3,7 +3,7 @@
 
 <com>OOMP Base</com>
         <oompID>INDU-0806-X-UH10-01</oompID>
-        <name> SMD (0806) 10 uH Inductor </name>
+        <name>SMD (0806) 10 uH Inductor</name>
 
         <hexID>IN86U10</hexID>
         <oompSort>INDU0806UH10</oompSort>
@@ -173,6 +173,6 @@
 	<oompSchem></oompSchem>	
 	<oompSimp></oompSimp>	
 
-		<ooPackageMarking>0</ooPackageMarking>
+		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>L</ooDesignator>
 </xml>
