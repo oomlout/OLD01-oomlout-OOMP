@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ 28 Pin SMD (SSOP) USB-Serial (FT232RL) __    
+Name: __28 Pin SMD (SSOP) USB-Serial (FT232RL)__    
 ID: __ICIC-SS28-X-KFT232-01__   
 Hex ID: __ICSF232__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ICIC-SS28-X-KFT232-01__   

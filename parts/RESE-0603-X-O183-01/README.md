@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ SMD (0603) 18k Ohm Resistor __    
+Name: __SMD (0603) 18k Ohm Resistor__    
 ID: __RESE-0603-X-O183-01__   
 Hex ID: __R6183__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O183-01__   

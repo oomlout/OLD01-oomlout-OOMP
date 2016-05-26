@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __ SMD (0603) 100k Ohm Resistor __    
+Name: __SMD (0603) 100k Ohm Resistor__    
 ID: __RESE-0603-X-O104-01__   
 Hex ID: __R6104__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O104-01__   
