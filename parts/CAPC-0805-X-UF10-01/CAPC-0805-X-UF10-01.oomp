@@ -1,9 +1,5 @@
-<xml>
-
-    <oompPart>
-        <index>4082</index>
-
-<!--OOMP Base -->
+<xml>    <oompPart>
+        <index>4082</index><!--OOMP Base -->
         <oompID>CAPC-0805-X-UF10-01</oompID>
         <name>SMD (0805) 10 uF Capacitor (Ceramic)</name>
         <hexID>C85U010</hexID>
@@ -14,12 +10,8 @@
         <oompDesc>UF10</oompDesc>
         <oompIndex>01</oompIndex>
         <oompOwner></oompOwner>
-        <oompVersion>99</oompVersion>
-
-			<oompClass>Surface Mount</oompClass>
-	<oompClassCode>SMDS</oompClassCode>
-
-<!--Size -->
+        <oompVersion>99</oompVersion>			<oompClass>Surface Mount</oompClass>
+	<oompClassCode>SMDS</oompClassCode><!--Size -->
         <ooPitch></ooPitch>
         <ooWidth>1.25 mm</ooWidth>
         <ooHeight></ooHeight>
@@ -27,36 +19,24 @@
         <ooLength>2.0 mm</ooLength>
         <ooDepth></ooDepth>
         <ooWireSize></ooWireSize>
-
-
 <!--Manufacturer -->
         <ooManufacturer>Yageo</ooManufacturer>
         <ooManufacturerPartNumber>CC0805KKX5R8BB106</ooManufacturerPartNumber>
-
-
 <!--Description -->
         <ooMaterial></ooMaterial>
         <ooNumPins></ooNumPins>
         <ooTerminalStyle></ooTerminalStyle>
         <ooPowerRating></ooPowerRating>
-
-
 <!--Hardware -->
         <ooHeadStyle></ooHeadStyle>
         <ooWrenchSize></ooWrenchSize>
-
-
 <!--Maximums -->
         <ooMaxCurrent></ooMaxCurrent>
         <ooMaxVoltage>25 V</ooMaxVoltage>
         <ooLifetime></ooLifetime>
         <ooTolerance>10%</ooTolerance>
-
-
 <!--Heat Shrink -->
         <ooShrinkRatio></ooShrinkRatio>
-
-
 <!--LED -->
         <ooLensColor></ooLensColor>
         <ooForwardVoltage></ooForwardVoltage>
@@ -66,8 +46,6 @@
         <ooWavelength></ooWavelength>
         <ooChromaticityX></ooChromaticityX>
         <ooChromaticityY></ooChromaticityY>
-
-
 <COM>Common Uses</COM>		
 		<usageList>
 			<useItem>
@@ -81,8 +59,6 @@
         <ooPlugID></ooPlugID>
         <ooPlugOD></ooPlugOD>
         <ooPlugLength></ooPlugLength>
-
-
 <!--SEEED OPL (Open Parts Library) -->
         <ooSEEEDsku>0100080P1</ooSEEEDsku>
         <ooSEEEDdesc>SMD CAP Ceramic 10uF-25V-10%-X5R</ooSEEEDdesc>
@@ -182,9 +158,7 @@
 				<oplLink><![CDATA[https://circuithub.com/parts/MURATA/GRM21BR61C106KE15L]]></oplLink>
 			</oplSystem>
 		
-		</oplList>
-
-<!--Hidden -->
+		</oplList><!--Hidden -->
         <oompVersion></oompVersion>
         <ooNameLine1of2></ooNameLine1of2>
         <ooNameLine2of2></ooNameLine2of2>
@@ -202,64 +176,8 @@
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>
         <ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:Capacitor0805.zip</ooSEEED3dModel>
+<!-- -->    
 
-
-<!-- -->
-
-    
-<com>Footprint</com>
-		<footprintList>
-			<footprintSystem>
-				<footprintScheme>Eagle Default</footprintScheme>
-				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Kicad Default</footprintScheme>
-				<footprintSchemeCode>C-KICA</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Adafruit</footprintScheme>
-				<footprintSchemeCode>C-ADAF</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Dangerous Prototypes</footprintScheme>
-				<footprintSchemeCode>C-DPDP</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>OOMP </footprintScheme>
-				<footprintSchemeCode>C-OOMP</footprintSchemeCode>
-
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-<footprintSystem>
-				<footprintScheme>SEEED Studio</footprintScheme>
-				<footprintSchemeCode>C-SEEE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Sparkfun</footprintScheme>
-				<footprintSchemeCode>C-SPAR</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-		</footprintList>
 	<oompBbls>
 		<drawItem>template;XXXX-0805-X-XXXX-XX-bbls</drawItem>
 </oompBbls>

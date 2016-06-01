@@ -1,13 +1,9 @@
 <xml>
-    <oompPart>
-
-<com>OOMP Base</com>
+    <oompPart><com>OOMP Base</com>
         <oompID>INDU-0805-X-NH47D-01</oompID>
-        <name>SMD (0805) 4.7 nH Inductor</name>
-
-        <hexID>IN85U22D</hexID>
-        <oompSort>INDU0805NH47D</oompSort>
-
+        <name>SMD (0805) 4.7 nH Inductor</name>        
+		<hexID>IN85U22D</hexID>
+        <oompSort>INDU0805NH47D</oompSort>		
 		<oompClass></oompClass>
 		<oompClassCode></oompClassCode>		
 		
@@ -15,11 +11,8 @@
         <oompSize>0805</oompSize>
         <oompColor>X</oompColor>
         <oompDesc>NH47D</oompDesc>
-        <oompIndex>01</oompIndex>
-
-        <oompVersion>98</oompVersion>
-
-
+        <oompIndex>01</oompIndex>        
+		<oompVersion>98</oompVersion>
 		
 		
 <com>Size</com>
@@ -28,20 +21,14 @@
         <ooHeight></ooHeight>
         <ooDiameter></ooDiameter>
         <ooLength>2.0 mm</ooLength>
-        <ooDepth></ooDepth>
-
-<com>Description</com>
+        <ooDepth></ooDepth><com>Description</com>
         <ooNumPins>2</ooNumPins>
         <ooPowerRating></ooPowerRating>
-
-
 <com>Maximums</com>
         <ooMaxCurrent></ooMaxCurrent>
         <ooMaxVoltage></ooMaxVoltage>
         <ooLifetime></ooLifetime>
         <ooTolerance></ooTolerance>
-
-
 <com>Source List</com>		
 		<sourceList>
 			<manufacturer>
@@ -49,14 +36,6 @@
 				<companyCode>C-MURA</companyCode>
 				<name></name>
 				<partID>LQM2MPN2R2MG0</partID>
-				<link></link>
-				<note></note>			
-			</manufacturer>
-			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -68,9 +47,7 @@
 				<partID>490-12072-1-ND</partID>
 				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=490-12072-1-ND]]></link>
 				<note></note>
-			</bigDistributor>					
-
-			<bigDistributor>
+			</bigDistributor>								<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
 				<name></name>
@@ -79,37 +56,14 @@
 				<note></note>
 			</bigDistributor>	
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
-				<note></note>
-			</bigDistributor>	
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
-				<note></note>
-			</bigDistributor>	
-			<bigDistributor>
 				<company>SEEED Studio</company>
 				<companyCode>C-SEEE</companyCode>
 				<name>SMD Inductor;2.2uH-20%-1.2A</name>
 				<partID>303010086</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/s/303010086.html?search_in_description=0]]></link>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=436]]></link>
 				<note></note>
 			</bigDistributor>	
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
-				<note></note>
-			</bigDistributor>					
+				
 		</sourceList>
 		
 <com>OPL</com>		
@@ -121,29 +75,9 @@
 				<oplID>303010086</oplID>
 				<oplFootprint>805</oplFootprint>
 				<oplPackage>805</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/303010086.html?search_in_description=0]]></oplLink>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=436]]></oplLink>
 			</oplSystem>
-			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[]]></oplLink>
-			</oplSystem>
-			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[]]></oplLink>
-			</oplSystem>
-		</oplList>
-
-<com>Hidden</com>
+		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>
         <ooProjectName1></ooProjectName1>
         <ooProjectDesc1></ooProjectDesc1>
@@ -152,27 +86,12 @@
         <ooBuyName1></ooBuyName1>
         <ooBuyDesc1></ooBuyDesc1>
         <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-
-	<com>Footprint</com>
-		<footprintList>
-			<footprintSystem>
-				<footprintScheme>Eagle Default</footprintScheme>
-				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-		</footprintList>
+        <ooBuyType1></ooBuyType1>	
     </oompPart>	
-
-
 	<oompBbls></oompBbls>	
 	<oompDiag></oompDiag>	
 	<oompIden></oompIden>	
 	<oompSchem></oompSchem>	
-	<oompSimp></oompSimp>	
-
-		<ooPackageMarking></ooPackageMarking>
+	<oompSimp></oompSimp>			<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>L</ooDesignator>
 </xml>

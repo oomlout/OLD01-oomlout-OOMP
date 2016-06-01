@@ -1,13 +1,9 @@
 <xml>
-    <oompPart>
-
-<com>OOMP Base</com>
+    <oompPart><com>OOMP Base</com>
         <oompID>DIOS-S123-X-A05D-V4</oompID>
-        <name>SMD (SOD-123) 500 mA Diode (Schottky) 40v</name>
-
-        <hexID>DS35D</hexID>
-        <oompSort>DIOSS123A05D</oompSort>
-
+        <name>SMD (SOD-123) 500 mA Diode (Schottky) 40v</name>        
+		<hexID>DS35D</hexID>
+        <oompSort>DIOSS123A05D</oompSort>		
 		<oompClass></oompClass>
 		<oompClassCode></oompClassCode>		
 		
@@ -15,11 +11,8 @@
         <oompSize>S123</oompSize>
         <oompColor>X</oompColor>
         <oompDesc>A05D</oompDesc>
-        <oompIndex>V4</oompIndex>
-
-        <oompVersion>98</oompVersion>
-
-
+        <oompIndex>V4</oompIndex>        
+		<oompVersion>98</oompVersion>
 		
 		
 <com>Size</com>
@@ -28,20 +21,14 @@
         <ooHeight></ooHeight>
         <ooDiameter></ooDiameter>
         <ooLength></ooLength>
-        <ooDepth></ooDepth>
-
-<com>Description</com>
+        <ooDepth></ooDepth><com>Description</com>
         <ooNumPins></ooNumPins>
         <ooPowerRating></ooPowerRating>
-
-
 <com>Maximums</com>
         <ooMaxCurrent></ooMaxCurrent>
         <ooMaxVoltage></ooMaxVoltage>
         <ooLifetime></ooLifetime>
         <ooTolerance></ooTolerance>
-
-
 <com>Source List</com>		
 		<sourceList>
 			<manufacturer>
@@ -52,90 +39,29 @@
 				<link></link>
 				<note></note>			
 			</manufacturer>
-			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link></link>
-				<note></note>			
-			</manufacturer>
 				
 			<bigDistributor>
 				<company>SEEED Studio</company>
 				<companyCode>C-SEEE</companyCode>
 				<name>SMD Diode Schottky 20V-1A</name>
 				<partID>304020034</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/s/304020034.html?search_in_description=0]]></link>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=247]]></link>
 				<note></note>
-			</bigDistributor>					
-
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
-				<note></note>
-			</bigDistributor>	
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
-				<note></note>
-			</bigDistributor>	
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
-				<note></note>
-			</bigDistributor>	
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
-				<note></note>
-			</bigDistributor>	
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
-				<note></note>
-			</bigDistributor>					
+			</bigDistributor>									
 		</sourceList>
 		
 <com>OPL</com>		
 		<oplList>
-
 			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[]]></oplLink>
+				<oplScheme>Seeed OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName> SMD Diode Schottky 20V-1A</oplName>
+				<oplID>304020034</oplID>
+				<oplFootprint>SOD-123</oplFootprint>
+				<oplPackage>SOD-123</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=247]]></oplLink>
 			</oplSystem>
-			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[]]></oplLink>
-			</oplSystem>
-		</oplList>
-
-<com>Hidden</com>
+		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>
         <ooProjectName1></ooProjectName1>
         <ooProjectDesc1></ooProjectDesc1>
@@ -144,18 +70,7 @@
         <ooBuyName1></ooBuyName1>
         <ooBuyDesc1></ooBuyDesc1>
         <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-
-	<com>Footprint</com>
-		<footprintList>
-			<footprintSystem>
-				<footprintScheme>Eagle Default</footprintScheme>
-				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-		</footprintList>
+        <ooBuyType1></ooBuyType1>	
     	<oompBbls></oompBbls>
 	<oompDiag></oompDiag>
 	<oompIden></oompIden>

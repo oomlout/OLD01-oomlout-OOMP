@@ -1,8 +1,6 @@
 <xml>
     <oompPart>
-        <index>9876</index>
-
-<com>OOMP Base</com>
+        <index>9876</index><com>OOMP Base</com>
         <oompID>CAPE-S63D-X-UF47-VA</oompID>
         <name>SMD (6.3 mm) 47 uF Capacitor (Electrolytic) 25v</name>
         <hexID>CESU047</hexID>
@@ -13,39 +11,25 @@
         <oompDesc>UF47</oompDesc>
         <oompIndex>VA</oompIndex>
         <oompOwner></oompOwner>
-        <oompVersion></oompVersion>
-
-		<oompSkip>true</oompSkip>
-
-<com>Size</com>
+        <oompVersion></oompVersion>		<oompSkip>true</oompSkip><com>Size</com>
         <ooPitch></ooPitch>
         <ooWidth>6.6</ooWidth>
         <ooHeight>5.4</ooHeight>
         <ooDiameter>6.3</ooDiameter>
         <ooLength>6.6</ooLength>
         <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize>
-
-<com>Description</com>
+        <ooWireSize></ooWireSize><com>Description</com>
         <ooMaterial></ooMaterial>
         <ooNumPins></ooNumPins>
         <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating>
-
-<com>Hardware</com>
+        <ooPowerRating></ooPowerRating><com>Hardware</com>
         <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize>
-
-<com>Maximums</com>
+        <ooWrenchSize></ooWrenchSize><com>Maximums</com>
         <ooMaxCurrent></ooMaxCurrent>
         <ooMaxVoltage>25 v</ooMaxVoltage>
         <ooLifetime></ooLifetime>
-        <ooTolerance>20%</ooTolerance>
-
-<com>Heat Shrink</com>
-        <ooShrinkRatio></ooShrinkRatio>
-
-<com>LED</com>
+        <ooTolerance>20%</ooTolerance><com>Heat Shrink</com>
+        <ooShrinkRatio></ooShrinkRatio><com>LED</com>
         <ooLensColor></ooLensColor>
         <ooForwardVoltage></ooForwardVoltage>
         <ooForwardCurrent></ooForwardCurrent>
@@ -53,14 +37,10 @@
         <ooPowerAngle></ooPowerAngle>
         <ooWavelength></ooWavelength>
         <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY>
-
-<com>Plug</com>
+        <ooChromaticityY></ooChromaticityY><com>Plug</com>
         <ooPlugID></ooPlugID>
         <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength>
-
-<com>Source List</com>		
+        <ooPlugLength></ooPlugLength><com>Source List</com>		
 		<sourceList>
 			<manufacturer>
 				<company>Panasonic</company>
@@ -86,9 +66,7 @@
 				<partID>PCE3908CT-ND</partID>
 				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/EEE-1EA470WP/PCE3908CT-ND/766284]]></link>
 				<note></note>
-			</bigDistributor>
-
-			<bigDistributor>
+			</bigDistributor>			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
 				<name>PANASONIC  EEE-1EA470WP  CAPACITOR ALUM ELEC, 47UF, 25V, 20%, SMD</name>
@@ -134,9 +112,7 @@
 				<oplPackage>S63D</oplPackage>
 				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/CAPE-S63D-X-UF47-VA]]></oplLink>
 			</oplSystem>
-		</oplList>
-
-<com>Hidden</com>
+		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>
         <ooProjectName1></ooProjectName1>
         <ooProjectDesc1></ooProjectDesc1>
@@ -147,60 +123,6 @@
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>
     
-<com>Footprint</com>
-		<footprintList>
-			<footprintSystem>
-				<footprintScheme>Eagle Default</footprintScheme>
-				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Kicad Default</footprintScheme>
-				<footprintSchemeCode>C-KICA</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Adafruit</footprintScheme>
-				<footprintSchemeCode>C-ADAF</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Dangerous Prototypes</footprintScheme>
-				<footprintSchemeCode>C-DPDP</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>OOMP </footprintScheme>
-				<footprintSchemeCode>C-OOMP</footprintSchemeCode>
-
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-<footprintSystem>
-				<footprintScheme>SEEED Studio</footprintScheme>
-				<footprintSchemeCode>C-SEEE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Sparkfun</footprintScheme>
-				<footprintSchemeCode>C-SPAR</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-		</footprintList>
-
 	<oompClass>Surface Mount</oompClass>
 	<oompClassCode>SMDS</oompClassCode>
 	<oompBbls></oompBbls>

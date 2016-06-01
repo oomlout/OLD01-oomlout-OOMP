@@ -1,9 +1,5 @@
-﻿<xml>
-
-    <oompPart>
-        <index>4283</index>
-
-<!--OOMP Base -->
+﻿<xml>    <oompPart>
+        <index>4283</index><!--OOMP Base -->
         <oompID>DCJP-21D-X-THTH-01</oompID>
         <name>2.1 mm Through Hole DC Jack</name>
         <hexID>DJ21</hexID>
@@ -15,8 +11,6 @@
         <oompIndex>01</oompIndex>
         <oompOwner></oompOwner>
         <oompVersion>99</oompVersion>
-
-
 <!--Size -->
         <ooPitch></ooPitch>
         <ooWidth>14.2 mm</ooWidth>
@@ -25,36 +19,24 @@
         <ooLength>9 mm</ooLength>
         <ooDepth></ooDepth>
         <ooWireSize></ooWireSize>
-
-
 <!--Manufacturer -->
         <ooManufacturer>C-BEST</ooManufacturer>
         <ooManufacturerPartNumber>DC-005</ooManufacturerPartNumber>
-
-
 <!--Description -->
         <ooMaterial></ooMaterial>
         <ooNumPins>3</ooNumPins>
         <ooTerminalStyle></ooTerminalStyle>
         <ooPowerRating></ooPowerRating>
-
-
 <!--Hardware -->
         <ooHeadStyle></ooHeadStyle>
         <ooWrenchSize></ooWrenchSize>
-
-
 <!--Maximums -->
         <ooMaxCurrent></ooMaxCurrent>
         <ooMaxVoltage></ooMaxVoltage>
         <ooLifetime></ooLifetime>
         <ooTolerance></ooTolerance>
-
-
 <!--Heat Shrink -->
         <ooShrinkRatio></ooShrinkRatio>
-
-
 <!--LED -->
         <ooLensColor></ooLensColor>
         <ooForwardVoltage></ooForwardVoltage>
@@ -64,8 +46,6 @@
         <ooWavelength></ooWavelength>
         <ooChromaticityX></ooChromaticityX>
         <ooChromaticityY></ooChromaticityY>
-
-
 <COM>Common Uses</COM>		
 		<usageList>
 			<useItem>
@@ -79,13 +59,9 @@
         <ooPlugID></ooPlugID>
         <ooPlugOD></ooPlugOD>
         <ooPlugLength></ooPlugLength>
-
-
 <!--SEEED OPL (Open Parts Library) -->
         <ooSEEEDsku>3410020P1</ooSEEEDsku>
         <ooSEEEDdesc>CONN POWER JACK 2.1MM</ooSEEEDdesc>
-
-
 <!--Hidden -->
         <oompVersion></oompVersion>
         <ooNameLine1of2></ooNameLine1of2>
@@ -104,11 +80,7 @@
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>
         <ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:PW-3P-2.1.zip</ooSEEED3dModel>
-
-
-<!-- -->
-
-    		<sourceList>
+<!-- -->    		<sourceList>
 			<manufacturer>
 				<company>Shenzhen Best</company>
 				<companyCode>C-BEST</companyCode>
@@ -150,9 +122,7 @@
 				<partID>CP-102A-ND</partID>
 				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/PJ-102A/CP-102A-ND/275425]]></link>
 				<note></note>
-			</bigDistributor>
-
-			<bigDistributor>
+			</bigDistributor>			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
 				<name>MULTICOMP  MJ-179PH  SOCKET, LOW VOLTAGE, 12V, 5A</name>
@@ -194,9 +164,7 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://circuithub.com/parts/CUI/PJ-102A]]></oplLink>
-			</oplSystem>
-
-			<oplSystem>
+			</oplSystem>			<oplSystem>
 				<oplScheme>Oopen Organization Method for Parts</oplScheme>
 				<oplCode>C-OOMP</oplCode>
 				<oplName>2.1 mm Through Hole DC Jack</oplName>
@@ -215,9 +183,7 @@
 				<oplPackage>PW-3P-2.1</oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=20]]></oplLink>
 			</oplSystem>
-		</oplList>
-
-	<COM>Common Uses</COM>		
+		</oplList>	<COM>Common Uses</COM>		
 		<usageList>
 			<useItem>
 				<useID>1</useID>
@@ -225,63 +191,7 @@
 				<useTitle>Arduino Power</useTitle>
 				<useDescription>Used as the power adapter jack on the Arduino UNO</useDescription>
 			</useItem>
-		</usageList>
-
-<com>Footprint</com>
-		<footprintList>
-			<footprintSystem>
-				<footprintScheme>Eagle Default</footprintScheme>
-				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Kicad Default</footprintScheme>
-				<footprintSchemeCode>C-KICA</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Adafruit</footprintScheme>
-				<footprintSchemeCode>C-ADAF</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Dangerous Prototypes</footprintScheme>
-				<footprintSchemeCode>C-DPDP</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>OOMP </footprintScheme>
-				<footprintSchemeCode>C-OOMP</footprintSchemeCode>
-
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-<footprintSystem>
-				<footprintScheme>SEEED Studio</footprintScheme>
-				<footprintSchemeCode>C-SEEE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Sparkfun</footprintScheme>
-				<footprintSchemeCode>C-SPAR</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-		</footprintList>
-
-	<oompClass>Through Hole Component</oompClass>
+		</usageList>	<oompClass>Through Hole Component</oompClass>
 	<oompClassCode>THTH</oompClassCode>
 	<oompBbls></oompBbls>
 	<oompDiag></oompDiag>

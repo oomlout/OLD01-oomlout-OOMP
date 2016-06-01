@@ -1,9 +1,5 @@
-﻿<xml>
-
-    <oompPart>
-        <index>4324</index>
-
-<!--OOMP Base -->
+﻿<xml>    <oompPart>
+        <index>4324</index><!--OOMP Base -->
         <oompID>VREG-T252-X-V05-A5D</oompID>
         <name>TO-252 5v Voltage Regulator 500 mA</name>
         <hexID>VT555</hexID>
@@ -15,8 +11,6 @@
         <oompIndex>A5D</oompIndex>
         <oompOwner></oompOwner>
         <oompVersion>99</oompVersion>
-
-
 <!--Size -->
         <ooPitch></ooPitch>
         <ooWidth></ooWidth>
@@ -25,36 +19,24 @@
         <ooLength></ooLength>
         <ooDepth></ooDepth>
         <ooWireSize></ooWireSize>
-
-
 <!--Manufacturer -->
         <ooManufacturer>C-JCST</ooManufacturer>
         <ooManufacturerPartNumber>CJ78M05</ooManufacturerPartNumber>
-
-
 <!--Description -->
         <ooMaterial></ooMaterial>
         <ooNumPins></ooNumPins>
         <ooTerminalStyle></ooTerminalStyle>
         <ooPowerRating></ooPowerRating>
-
-
 <!--Hardware -->
         <ooHeadStyle></ooHeadStyle>
         <ooWrenchSize></ooWrenchSize>
-
-
 <!--Maximums -->
         <ooMaxCurrent></ooMaxCurrent>
         <ooMaxVoltage></ooMaxVoltage>
         <ooLifetime></ooLifetime>
         <ooTolerance></ooTolerance>
-
-
 <!--Heat Shrink -->
         <ooShrinkRatio></ooShrinkRatio>
-
-
 <!--LED -->
         <ooLensColor></ooLensColor>
         <ooForwardVoltage></ooForwardVoltage>
@@ -64,8 +46,6 @@
         <ooWavelength></ooWavelength>
         <ooChromaticityX></ooChromaticityX>
         <ooChromaticityY></ooChromaticityY>
-
-
 <COM>Common Uses</COM>		
 		<usageList>
 			<useItem>
@@ -79,13 +59,9 @@
         <ooPlugID></ooPlugID>
         <ooPlugOD></ooPlugOD>
         <ooPlugLength></ooPlugLength>
-
-
 <!--SEEED OPL (Open Parts Library) -->
         <ooSEEEDsku>1300040P1</ooSEEEDsku>
         <ooSEEEDdesc>Three-terminal positive voltage regulator 0.5A 5V</ooSEEEDdesc>
-
-
 <!--Hidden -->
         <oompVersion></oompVersion>
         <ooNameLine1of2></ooNameLine1of2>
@@ -104,11 +80,7 @@
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>
         <ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:TO252.zip</ooSEEED3dModel>
-
-
-<!-- -->
-
-    		<sourceList>
+<!-- -->    		<sourceList>
 			<manufacturer>
 				<company>JCET</company>
 				<companyCode>C-JCET</companyCode>
@@ -145,65 +117,7 @@
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=35]]></oplLink>
 			</oplSystem>
-		</oplList>
-
-
-
-<com>Footprint</com>
-		<footprintList>
-			<footprintSystem>
-				<footprintScheme>Eagle Default</footprintScheme>
-				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Kicad Default</footprintScheme>
-				<footprintSchemeCode>C-KICA</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Adafruit</footprintScheme>
-				<footprintSchemeCode>C-ADAF</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Dangerous Prototypes</footprintScheme>
-				<footprintSchemeCode>C-DPDP</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>OOMP </footprintScheme>
-				<footprintSchemeCode>C-OOMP</footprintSchemeCode>
-
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-<footprintSystem>
-				<footprintScheme>SEEED Studio</footprintScheme>
-				<footprintSchemeCode>C-SEEE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Sparkfun</footprintScheme>
-				<footprintSchemeCode>C-SPAR</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-		</footprintList>
-
-	<oompClass>Surface Mount</oompClass>
+		</oplList>	<oompClass>Surface Mount</oompClass>
 	<oompClassCode>SMDS</oompClassCode>
 	<oompBbls></oompBbls>
 	<oompDiag></oompDiag>

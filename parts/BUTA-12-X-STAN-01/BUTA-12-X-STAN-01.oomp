@@ -1,8 +1,6 @@
 <xml>
     <oompPart>
-        <index>9876</index>
-
-<com>OOMP Base</com>
+        <index>9876</index><com>OOMP Base</com>
         <oompID>BUTA-12-X-STAN-01</oompID>
         <name>12 mm Pushbutton (Tactile)</name>
         <hexID>BT12</hexID>
@@ -14,8 +12,6 @@
         <oompIndex>01</oompIndex>
         <oompOwner></oompOwner>
         <oompVersion></oompVersion>
-
-
 <com>Size</com>
         <ooPitch></ooPitch>
         <ooWidth></ooWidth>
@@ -23,28 +19,18 @@
         <ooDiameter></ooDiameter>
         <ooLength></ooLength>
         <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize>
-
-<com>Description</com>
+        <ooWireSize></ooWireSize><com>Description</com>
         <ooMaterial></ooMaterial>
         <ooNumPins></ooNumPins>
         <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating>
-
-<com>Hardware</com>
+        <ooPowerRating></ooPowerRating><com>Hardware</com>
         <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize>
-
-<com>Maximums</com>
+        <ooWrenchSize></ooWrenchSize><com>Maximums</com>
         <ooMaxCurrent></ooMaxCurrent>
         <ooMaxVoltage></ooMaxVoltage>
         <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-
-<com>Heat Shrink</com>
-        <ooShrinkRatio></ooShrinkRatio>
-
-<com>LED</com>
+        <ooTolerance></ooTolerance><com>Heat Shrink</com>
+        <ooShrinkRatio></ooShrinkRatio><com>LED</com>
         <ooLensColor></ooLensColor>
         <ooForwardVoltage></ooForwardVoltage>
         <ooForwardCurrent></ooForwardCurrent>
@@ -52,14 +38,10 @@
         <ooPowerAngle></ooPowerAngle>
         <ooWavelength></ooWavelength>
         <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY>
-
-<com>Plug</com>
+        <ooChromaticityY></ooChromaticityY><com>Plug</com>
         <ooPlugID></ooPlugID>
         <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength>
-
-<com>Source List</com>		
+        <ooPlugLength></ooPlugLength><com>Source List</com>		
 		<sourceList>
 			<manufacturer>
 				<company>Diptronics</company>
@@ -98,18 +80,7 @@
 		
 <com>OPL</com>		
 		<oplList>
-			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[]]></oplLink>
-			</oplSystem>
-		</oplList>
-
-		<usageList>
+		</oplList>		<usageList>
 			<useItem>
 				<useID>1</useID>
 				<importance>1</importance>
@@ -128,9 +99,7 @@
 				<useTitle>Larger Button</useTitle>
 				<useDescription>a larger button to distinguish it from more standard pushbuttons.</useDescription>
 			</useItem>
-		</usageList>
-
-		
+		</usageList>		
 <com>Hidden</com>
         <oompAbout>A good tactile pushbutton. Useful when something larger than the standard 6mm version is desired. These also have better pin spacing for using in a breadboard.</oompAbout>
         <ooProjectName1></ooProjectName1>
@@ -142,60 +111,6 @@
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>
     
-<com>Footprint</com>
-		<footprintList>
-			<footprintSystem>
-				<footprintScheme>Eagle Default</footprintScheme>
-				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Kicad Default</footprintScheme>
-				<footprintSchemeCode>C-KICA</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Adafruit</footprintScheme>
-				<footprintSchemeCode>C-ADAF</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Dangerous Prototypes</footprintScheme>
-				<footprintSchemeCode>C-DPDP</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>OOMP </footprintScheme>
-				<footprintSchemeCode>C-OOMP</footprintSchemeCode>
-
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-<footprintSystem>
-				<footprintScheme>SEEED Studio</footprintScheme>
-				<footprintSchemeCode>C-SEEE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Sparkfun</footprintScheme>
-				<footprintSchemeCode>C-SPAR</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-		</footprintList>
-
 	<oompClass>Through Hole Component</oompClass>
 	<oompClassCode>THTH</oompClassCode>
 	<oompBbls>

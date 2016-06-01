@@ -1,8 +1,6 @@
 <xml>
     <oompPart>
-        <index>9876</index>
-
-<com>OOMP Base</com>
+        <index>9876</index><com>OOMP Base</com>
         <oompID>RESE-0603-X-O105-67</oompID>
         <name>SMD (0603) 1M Ohm Resistor 1%</name>
         <hexID>R6105A</hexID>
@@ -13,11 +11,7 @@
         <oompDesc>O105</oompDesc>
         <oompIndex>67</oompIndex>
         <oompOwner></oompOwner>
-        <oompVersion></oompVersion>
-
-		<oompSkip>true</oompSkip>
-
-<com>Size</com>
+        <oompVersion></oompVersion>		<oompSkip>true</oompSkip><com>Size</com>
         <ooPitch></ooPitch>
         <ooWidth>1.6 mm</ooWidth>
         <ooHeight>0.45 mm</ooHeight>
@@ -31,22 +25,14 @@
         <ooMaterial></ooMaterial>
         <ooNumPins>2</ooNumPins>
         <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating>
-
-<com>Hardware</com>
+        <ooPowerRating></ooPowerRating><com>Hardware</com>
         <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize>
-
-<com>Maximums</com>
+        <ooWrenchSize></ooWrenchSize><com>Maximums</com>
         <ooMaxCurrent></ooMaxCurrent>
         <ooMaxVoltage></ooMaxVoltage>
         <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-
-<com>Heat Shrink</com>
-        <ooShrinkRatio></ooShrinkRatio>
-
-<com>LED</com>
+        <ooTolerance></ooTolerance><com>Heat Shrink</com>
+        <ooShrinkRatio></ooShrinkRatio><com>LED</com>
         <ooLensColor></ooLensColor>
         <ooForwardVoltage></ooForwardVoltage>
         <ooForwardCurrent></ooForwardCurrent>
@@ -54,14 +40,10 @@
         <ooPowerAngle></ooPowerAngle>
         <ooWavelength></ooWavelength>
         <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY>
-
-<com>Plug</com>
+        <ooChromaticityY></ooChromaticityY><com>Plug</com>
         <ooPlugID></ooPlugID>
         <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength>
-
-<com>Source List</com>		
+        <ooPlugLength></ooPlugLength><com>Source List</com>		
 		<sourceList>
 			<manufacturer>
 				<company>Yageo</company>
@@ -95,18 +77,14 @@
 				<partID>RC03F 1M</partID>
 				<link></link>
 				<note></note>			
-			</manufacturer>
-
-			<bigDistributor>
+			</manufacturer>			<bigDistributor>
 				<company>DigiKey</company>
 				<companyCode>C-DIGK</companyCode>
 				<name>RES SMD 1M OHM 1% 1/10W 0603</name>
 				<partID>311-1.00MHRCT-ND</partID>
 				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/RC0603FR-071ML/311-1.00MHRCT-ND/729791]]></link>
 				<note></note>
-			</bigDistributor>
-
-			<bigDistributor>
+			</bigDistributor>			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
 				<name>YAGEO (PHYCOMP)  RC0603FR-071ML  RESISTOR, THICK FILM, 1M, 0.1W, 1%</name>
@@ -159,9 +137,7 @@
 				<oplFootprint>0603</oplFootprint>
 				<oplPackage>0603</oplPackage>
 				<oplLink><![CDATA[https://circuithub.com/parts/YAGEO2/RC0603FR-071ML]]></oplLink>
-			</oplSystem>
-
-			<oplSystem>
+			</oplSystem>			<oplSystem>
 				<oplScheme>Octopart CPL</oplScheme>
 				<oplCode>C-OCTO</oplCode>
 				<oplName>Resistor 1 MO +-1% 0603 100 mW</oplName>
@@ -169,9 +145,7 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://octopart.com/common-parts-library#Resistors]]></oplLink>
-			</oplSystem>
-
-			<oplSystem>
+			</oplSystem>			<oplSystem>
 				<oplScheme>Oopen Organization Method for Parts</oplScheme>
 				<oplCode>C-OOMP</oplCode>
 				<oplName>SMD (0603) 1M Ohm Resistor</oplName>
@@ -190,9 +164,7 @@
 				<oplPackage>0603</oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Resistor]]></oplLink>
 			</oplSystem>
-		</oplList>
-
-<com>Hidden</com>
+		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>
         <ooProjectName1></ooProjectName1>
         <ooProjectDesc1></ooProjectDesc1>
@@ -203,60 +175,6 @@
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>
     
-<com>Footprint</com>
-		<footprintList>
-			<footprintSystem>
-				<footprintScheme>Eagle Default</footprintScheme>
-				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Kicad Default</footprintScheme>
-				<footprintSchemeCode>C-KICA</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Adafruit</footprintScheme>
-				<footprintSchemeCode>C-ADAF</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Dangerous Prototypes</footprintScheme>
-				<footprintSchemeCode>C-DPDP</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>OOMP </footprintScheme>
-				<footprintSchemeCode>C-OOMP</footprintSchemeCode>
-
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-<footprintSystem>
-				<footprintScheme>SEEED Studio</footprintScheme>
-				<footprintSchemeCode>C-SEEE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Sparkfun</footprintScheme>
-				<footprintSchemeCode>C-SPAR</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-		</footprintList>
-
 	<oompClass>Surface Mount</oompClass>
 	<oompClassCode>SMDS</oompClassCode>
 	<oompBbls>

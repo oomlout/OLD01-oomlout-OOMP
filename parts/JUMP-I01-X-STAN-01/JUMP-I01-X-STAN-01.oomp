@@ -1,13 +1,9 @@
 <xml>
-    <oompPart>
-
-<com>OOMP Base</com>
+    <oompPart><com>OOMP Base</com>
         <oompID>JUMP-I01-X-STAN-01</oompID>
-        <name>2.54 mm Jumper</name>
-
-        <hexID>JU01</hexID>
-        <oompSort></oompSort>
-
+        <name>2.54 mm Jumper</name>        
+		<hexID>JU01</hexID>
+        <oompSort></oompSort>		
 		<oompClass>Through Hole</oompClass>
 		<oompClassCode>THTH</oompClassCode>		
 		
@@ -15,11 +11,8 @@
         <oompSize>I01</oompSize>
         <oompColor>X</oompColor>
         <oompDesc>STAN</oompDesc>
-        <oompIndex>01</oompIndex>
-
-        <oompVersion>40</oompVersion>
-
-
+        <oompIndex>01</oompIndex>        
+		<oompVersion>40</oompVersion>
 		
 		
 <com>Size</com>
@@ -28,20 +21,14 @@
         <ooHeight></ooHeight>
         <ooDiameter></ooDiameter>
         <ooLength></ooLength>
-        <ooDepth></ooDepth>
-
-<com>Description</com>
+        <ooDepth></ooDepth><com>Description</com>
         <ooNumPins></ooNumPins>
         <ooPowerRating></ooPowerRating>
-
-
 <com>Maximums</com>
         <ooMaxCurrent></ooMaxCurrent>
         <ooMaxVoltage></ooMaxVoltage>
         <ooLifetime></ooLifetime>
         <ooTolerance></ooTolerance>
-
-
 <com>Source List</com>		
 		<sourceList>
 			<manufacturer>
@@ -52,25 +39,8 @@
 				<link></link>
 				<note></note>			
 			</manufacturer>
-			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link></link>
-				<note></note>			
-			</manufacturer>
 				
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
-				<note></note>
-			</bigDistributor>					
-
-			<bigDistributor>
+							<bigDistributor>
 				<company>SEEED</company>
 				<companyCode>C-SEEE</companyCode>
 				<name>CONN JUMPER SHORTING</name>
@@ -91,9 +61,7 @@
 				<oplPackage>2P-2.54</oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=9]]></oplLink>
 			</oplSystem>
-		</oplList>
-
-<com>Hidden</com>
+		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>
         <ooProjectName1></ooProjectName1>
         <ooProjectDesc1></ooProjectDesc1>
@@ -102,18 +70,7 @@
         <ooBuyName1></ooBuyName1>
         <ooBuyDesc1></ooBuyDesc1>
         <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-
-	<com>Footprint</com>
-		<footprintList>
-			<footprintSystem>
-				<footprintScheme>Eagle Default</footprintScheme>
-				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-		</footprintList>
+        <ooBuyType1></ooBuyType1>	
     	<oompBbls></oompBbls>
 	<oompDiag></oompDiag>
 	<oompIden></oompIden>

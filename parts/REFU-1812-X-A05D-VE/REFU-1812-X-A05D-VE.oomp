@@ -1,9 +1,5 @@
-﻿<xml>
-
-    <oompPart>
-        <index>4274</index>
-
-<!--OOMP Base -->
+﻿<xml>    <oompPart>
+        <index>4274</index><!--OOMP Base -->
         <oompID>REFU-1812-X-A05D-VE</oompID>
         <name>SMD (1812) 500 mA Resetable Fuse 15v</name>
         <hexID>RF805</hexID>
@@ -15,8 +11,6 @@
         <oompIndex>VE</oompIndex>
         <oompOwner></oompOwner>
         <oompVersion>99</oompVersion>
-
-
 <!--Size -->
         <ooPitch></ooPitch>
         <ooWidth>4.5 mm</ooWidth>
@@ -24,38 +18,26 @@
         <ooDiameter></ooDiameter>
         <ooLength>3.25 mm</ooLength>
         <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize>
-
-<com>SMD</com>
+        <ooWireSize></ooWireSize><com>SMD</com>
 		<ooPackageMarking>50##</ooPackageMarking>>
 <!--Manufacturer -->
         <ooManufacturer></ooManufacturer>
         <ooManufacturerPartNumber></ooManufacturerPartNumber>
-
-
 <!--Description -->
         <ooMaterial></ooMaterial>
         <ooNumPins>2</ooNumPins>
         <ooTerminalStyle></ooTerminalStyle>
         <ooPowerRating></ooPowerRating>
-
-
 <!--Hardware -->
         <ooHeadStyle></ooHeadStyle>
         <ooWrenchSize></ooWrenchSize>
-
-
 <!--Maximums -->
         <ooMaxCurrent></ooMaxCurrent>
         <ooMaxVoltage></ooMaxVoltage>
         <ooLifetime></ooLifetime>
         <ooTolerance></ooTolerance>
-
-
 <!--Heat Shrink -->
         <ooShrinkRatio></ooShrinkRatio>
-
-
 <!--LED -->
         <ooLensColor></ooLensColor>
         <ooForwardVoltage></ooForwardVoltage>
@@ -65,8 +47,6 @@
         <ooWavelength></ooWavelength>
         <ooChromaticityX></ooChromaticityX>
         <ooChromaticityY></ooChromaticityY>
-
-
 <COM>Common Uses</COM>		
 		<usageList>
 			<useItem>
@@ -80,13 +60,9 @@
         <ooPlugID></ooPlugID>
         <ooPlugOD></ooPlugOD>
         <ooPlugLength></ooPlugLength>
-
-
 <!--SEEED OPL (Open Parts Library) -->
         <ooSEEEDsku></ooSEEEDsku>
         <ooSEEEDdesc></ooSEEEDdesc>
-
-
 <!--Hidden -->
         <oompVersion></oompVersion>
         <ooNameLine1of2></ooNameLine1of2>
@@ -105,11 +81,7 @@
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>
         <ooSEEED3dModel></ooSEEED3dModel>
-
-
-<!-- -->
-
-    		<sourceList>
+<!-- -->    		<sourceList>
 			<manufacturer>
 				<company>Bourns</company>
 				<companyCode>C-BOUR</companyCode>
@@ -142,9 +114,7 @@
 				<partID>MF-MSMF050-2CT-ND</partID>
 				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/MF-MSMF050-2/MF-MSMF050-2CT-ND/662842]]></link>
 				<note></note>
-			</bigDistributor>
-
-			<bigDistributor>
+			</bigDistributor>			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
 				<name>LITTELFUSE  1812L050PR  RESETTABLE FUSE, SERIES 1812L</name>
@@ -187,9 +157,7 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://circuithub.com/parts/BOURNS/MF-MSMF050-2]]></oplLink>
-			</oplSystem>
-
-			<oplSystem>
+			</oplSystem>			<oplSystem>
 				<oplScheme>Octopart CPL</oplScheme>
 				<oplCode>C-OCTO</oplCode>
 				<oplName>Resettable PTC 500 mA</oplName>
@@ -197,9 +165,7 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[]]></oplLink>
-			</oplSystem>
-
-			<oplSystem>
+			</oplSystem>			<oplSystem>
 				<oplScheme>Oopen Organization Method for Parts</oplScheme>
 				<oplCode>C-OOMP</oplCode>
 				<oplName>SMD (1812) 500 mA Resetable Fuse</oplName>
@@ -218,65 +184,7 @@
 				<oplPackage>1812</oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=67]]></oplLink>
 			</oplSystem>
-		</oplList>
-
-
-
-<com>Footprint</com>
-		<footprintList>
-			<footprintSystem>
-				<footprintScheme>Eagle Default</footprintScheme>
-				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Kicad Default</footprintScheme>
-				<footprintSchemeCode>C-KICA</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Adafruit</footprintScheme>
-				<footprintSchemeCode>C-ADAF</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Dangerous Prototypes</footprintScheme>
-				<footprintSchemeCode>C-DPDP</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>OOMP </footprintScheme>
-				<footprintSchemeCode>C-OOMP</footprintSchemeCode>
-
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-<footprintSystem>
-				<footprintScheme>SEEED Studio</footprintScheme>
-				<footprintSchemeCode>C-SEEE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Sparkfun</footprintScheme>
-				<footprintSchemeCode>C-SPAR</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-		</footprintList>
-
-	<oompClass>Surface Mount</oompClass>
+		</oplList>	<oompClass>Surface Mount</oompClass>
 	<oompClassCode>SMDS</oompClassCode>
 	<oompBbls></oompBbls>
 	<oompDiag></oompDiag>

@@ -1,13 +1,9 @@
 <xml>
-    <oompPart>
-
-<com>OOMP Base</com>
+    <oompPart><com>OOMP Base</com>
         <oompID>SENS-87DX45D-X-K1550-01</oompID>
-        <name>8.7 mm x 4.5 mm Photo Reflective (LTH1550) Sensor</name>
-
-        <hexID>SEPR</hexID>
-        <oompSort>SENS87DX45DK1550</oompSort>
-
+        <name>8.7 mm x 4.5 mm Photo Reflective (LTH1550) Sensor</name>        
+		<hexID>SEPR</hexID>
+        <oompSort>SENS87DX45DK1550</oompSort>		
 		<oompClass></oompClass>
 		<oompClassCode></oompClassCode>		
 		
@@ -15,11 +11,8 @@
         <oompSize>87DX45D</oompSize>
         <oompColor>X</oompColor>
         <oompDesc>K1550</oompDesc>
-        <oompIndex>01</oompIndex>
-
-        <oompVersion>98</oompVersion>
-
-
+        <oompIndex>01</oompIndex>        
+		<oompVersion>98</oompVersion>
 		
 		
 <com>Size</com>
@@ -28,20 +21,14 @@
         <ooHeight></ooHeight>
         <ooDiameter></ooDiameter>
         <ooLength>8.7 mm</ooLength>
-        <ooDepth></ooDepth>
-
-<com>Description</com>
+        <ooDepth></ooDepth><com>Description</com>
         <ooNumPins></ooNumPins>
         <ooPowerRating></ooPowerRating>
-
-
 <com>Maximums</com>
         <ooMaxCurrent></ooMaxCurrent>
         <ooMaxVoltage></ooMaxVoltage>
         <ooLifetime></ooLifetime>
         <ooTolerance></ooTolerance>
-
-
 <com>Source List</com>		
 		<sourceList>
 			<manufacturer>
@@ -49,14 +36,6 @@
 				<companyCode>C-LION</companyCode>
 				<name></name>
 				<partID>LTH1550-01</partID>
-				<link></link>
-				<note></note>			
-			</manufacturer>
-			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -68,30 +47,12 @@
 				<partID>LTH-1550-01-ND</partID>
 				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=LTH-1550-01-ND]]></link>
 				<note></note>
-			</bigDistributor>					
-
-			<bigDistributor>
+			</bigDistributor>								<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
 				<name></name>
 				<partID>859-LTH-1550-01</partID>
 				<link><![CDATA[http://www.mouser.co.uk/Search/Refine.aspx?Keyword=859-LTH-1550-01]]></link>
-				<note></note>
-			</bigDistributor>	
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
-				<note></note>
-			</bigDistributor>	
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
 				<note></note>
 			</bigDistributor>	
 			<bigDistributor>
@@ -102,14 +63,7 @@
 				<link><![CDATA[http://www.seeedstudio.com/depot/s/314020022.html?search_in_description=0]]></link>
 				<note></note>
 			</bigDistributor>	
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
-				<note></note>
-			</bigDistributor>					
+				
 		</sourceList>
 		
 <com>OPL</com>		
@@ -123,27 +77,7 @@
 				<oplPackage>4P-L8.7*W4.5*H5.8mm</oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/314020022.html?search_in_description=0]]></oplLink>
 			</oplSystem>
-			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[]]></oplLink>
-			</oplSystem>
-			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[]]></oplLink>
-			</oplSystem>
-		</oplList>
-
-<com>Hidden</com>
+		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>
         <ooProjectName1></ooProjectName1>
         <ooProjectDesc1></ooProjectDesc1>
@@ -152,27 +86,12 @@
         <ooBuyName1></ooBuyName1>
         <ooBuyDesc1></ooBuyDesc1>
         <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-
-	<com>Footprint</com>
-		<footprintList>
-			<footprintSystem>
-				<footprintScheme>Eagle Default</footprintScheme>
-				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-		</footprintList>
+        <ooBuyType1></ooBuyType1>	
     </oompPart>	
-
-
 	<oompBbls></oompBbls>	
 	<oompDiag></oompDiag>	
 	<oompIden></oompIden>	
 	<oompSchem></oompSchem>	
-	<oompSimp></oompSimp>	
-
-		<ooPackageMarking></ooPackageMarking>
+	<oompSimp></oompSimp>			<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>U</ooDesignator>
 </xml>

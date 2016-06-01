@@ -1,13 +1,9 @@
 <xml>
-    <oompPart>
-
-<com>OOMP Base</com>
+    <oompPart><com>OOMP Base</com>
         <oompID>RESE-0805-X-O001D-01</oompID>
-        <name>SMD (0805) 0.1 Ohm Resistor</name>
-
-        <hexID>R85001D</hexID>
-        <oompSort>RESE0805O001D</oompSort>
-
+        <name>SMD (0805) 0.1 Ohm Resistor</name>        
+		<hexID>R85001D</hexID>
+        <oompSort>RESE0805O001D</oompSort>		
 		<oompClass></oompClass>
 		<oompClassCode></oompClassCode>		
 		
@@ -15,11 +11,8 @@
         <oompSize>0805</oompSize>
         <oompColor>X</oompColor>
         <oompDesc>O001D</oompDesc>
-        <oompIndex>01</oompIndex>
-
-        <oompVersion>98</oompVersion>
-
-
+        <oompIndex>01</oompIndex>        
+		<oompVersion>98</oompVersion>
 		
 		
 <com>Size</com>
@@ -28,20 +21,14 @@
         <ooHeight></ooHeight>
         <ooDiameter></ooDiameter>
         <ooLength>2.0 mm</ooLength>
-        <ooDepth></ooDepth>
-
-<com>Description</com>
+        <ooDepth></ooDepth><com>Description</com>
         <ooNumPins>2</ooNumPins>
         <ooPowerRating></ooPowerRating>
-
-
 <com>Maximums</com>
         <ooMaxCurrent></ooMaxCurrent>
         <ooMaxVoltage></ooMaxVoltage>
         <ooLifetime></ooLifetime>
         <ooTolerance></ooTolerance>
-
-
 <com>Source List</com>		
 		<sourceList>
 			<manufacturer>
@@ -49,14 +36,6 @@
 				<companyCode>C-YAGE</companyCode>
 				<name></name>
 				<partID>RL0805JR-070R1L</partID>
-				<link></link>
-				<note></note>			
-			</manufacturer>
-			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -68,30 +47,12 @@
 				<partID>311-0.1LVCT-ND</partID>
 				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=311-0.1LVCT-ND]]></link>
 				<note></note>
-			</bigDistributor>					
-
-			<bigDistributor>
+			</bigDistributor>								<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
 				<name></name>
 				<partID>603-RL0805JR070R1L</partID>
 				<link><![CDATA[http://www.mouser.co.uk/Search/Refine.aspx?Keyword=603-RL0805JR070R1L]]></link>
-				<note></note>
-			</bigDistributor>	
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
-				<note></note>
-			</bigDistributor>	
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
 				<note></note>
 			</bigDistributor>	
 			<bigDistributor>
@@ -102,14 +63,7 @@
 				<link><![CDATA[http://www.seeedstudio.com/depot/s/301010264.html?search_in_description=0]]></link>
 				<note></note>
 			</bigDistributor>	
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
-				<note></note>
-			</bigDistributor>					
+				
 		</sourceList>
 		
 <com>OPL</com>		
@@ -123,27 +77,7 @@
 				<oplPackage>805</oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/301010264.html?search_in_description=0]]></oplLink>
 			</oplSystem>
-			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[]]></oplLink>
-			</oplSystem>
-			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[]]></oplLink>
-			</oplSystem>
-		</oplList>
-
-<com>Hidden</com>
+		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>
         <ooProjectName1></ooProjectName1>
         <ooProjectDesc1></ooProjectDesc1>
@@ -152,27 +86,12 @@
         <ooBuyName1></ooBuyName1>
         <ooBuyDesc1></ooBuyDesc1>
         <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-
-	<com>Footprint</com>
-		<footprintList>
-			<footprintSystem>
-				<footprintScheme>Eagle Default</footprintScheme>
-				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-		</footprintList>
+        <ooBuyType1></ooBuyType1>	
     </oompPart>	
-
-
 	<oompBbls></oompBbls>	
 	<oompDiag></oompDiag>	
 	<oompIden></oompIden>	
 	<oompSchem></oompSchem>	
-	<oompSimp></oompSimp>	
-
-		<ooPackageMarking></ooPackageMarking>
+	<oompSimp></oompSimp>			<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>R</ooDesignator>
 </xml>

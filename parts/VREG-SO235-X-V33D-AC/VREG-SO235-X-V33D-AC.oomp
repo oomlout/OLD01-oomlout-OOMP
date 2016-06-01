@@ -1,8 +1,6 @@
 <xml>
     <oompPart>
-        <index>9876</index>
-
-<com>OOMP Base</com>
+        <index>9876</index><com>OOMP Base</com>
         <oompID>VREG-SO235-X-V33D-AC</oompID>
         <name>SMD (SOT-23-5) 3.3v Voltage Regulator 150 mA</name>
         <hexID>VS533</hexID>
@@ -13,42 +11,28 @@
         <oompDesc>V33D</oompDesc>
         <oompIndex>AC</oompIndex>
         <oompOwner></oompOwner>
-        <oompVersion></oompVersion>
-
-		<oompSkip>true</oompSkip>
-
-<com>Size</com>
+        <oompVersion></oompVersion>		<oompSkip>true</oompSkip><com>Size</com>
         <ooPitch></ooPitch>
         <ooWidth>3 mm</ooWidth>
         <ooHeight>1.45 mm</ooHeight>
         <ooDiameter></ooDiameter>
         <ooLength>3 mm</ooLength>
         <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize>
-
-<com>SMD</com>
+        <ooWireSize></ooWireSize><com>SMD</com>
 		<ooPackageMarking>LPF_</ooPackageMarking>
 		
 <com>Description</com>
         <ooMaterial></ooMaterial>
         <ooNumPins>5</ooNumPins>
         <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating>
-
-<com>Hardware</com>
+        <ooPowerRating></ooPowerRating><com>Hardware</com>
         <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize>
-
-<com>Maximums</com>
+        <ooWrenchSize></ooWrenchSize><com>Maximums</com>
         <ooMaxCurrent></ooMaxCurrent>
         <ooMaxVoltage></ooMaxVoltage>
         <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-
-<com>Heat Shrink</com>
-        <ooShrinkRatio></ooShrinkRatio>
-
-<com>LED</com>
+        <ooTolerance></ooTolerance><com>Heat Shrink</com>
+        <ooShrinkRatio></ooShrinkRatio><com>LED</com>
         <ooLensColor></ooLensColor>
         <ooForwardVoltage></ooForwardVoltage>
         <ooForwardCurrent></ooForwardCurrent>
@@ -56,14 +40,10 @@
         <ooPowerAngle></ooPowerAngle>
         <ooWavelength></ooWavelength>
         <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY>
-
-<com>Plug</com>
+        <ooChromaticityY></ooChromaticityY><com>Plug</com>
         <ooPlugID></ooPlugID>
         <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength>
-
-<com>Source List</com>		
+        <ooPlugLength></ooPlugLength><com>Source List</com>		
 		<sourceList>
 			<manufacturer>
 				<company>Texas instruments</company>
@@ -90,9 +70,7 @@
 				<partID>296-18476-1-ND</partID>
 				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/LP2985-33DBVR/296-18476-1-ND/809911]]></link>
 				<note></note>
-			</bigDistributor>
-
-			<bigDistributor>
+			</bigDistributor>			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
 				<name>TEXAS INSTRUMENTS  LP2985-33DBVR..  IC, LDO VOLT REG, 3.3V, 150mA, 5-SOT-23</name>
@@ -128,9 +106,7 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://circuithub.com/parts/TI/LP2985-33DBVR]]></oplLink>
-			</oplSystem>
-
-			<oplSystem>
+			</oplSystem>			<oplSystem>
 				<oplScheme>Octopart CPL</oplScheme>
 				<oplCode>C-OCTO</oplCode>
 				<oplName>Low Power Linear Voltage Regulator</oplName>
@@ -138,9 +114,7 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[]]></oplLink>
-			</oplSystem>
-
-			<oplSystem>
+			</oplSystem>			<oplSystem>
 				<oplScheme>Oopen Organization Method for Parts</oplScheme>
 				<oplCode>C-OOMP</oplCode>
 				<oplName>SMD (SOT-23-5) 3.3v Voltage Regulator 150 mA</oplName>
@@ -158,9 +132,7 @@
 				<oplPackage>SOT25</oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=109]]></oplLink>
 			</oplSystem>
-		</oplList>
-
-<com>Hidden</com>
+		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>
         <ooProjectName1></ooProjectName1>
         <ooProjectDesc1></ooProjectDesc1>
@@ -171,60 +143,6 @@
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>
     
-<com>Footprint</com>
-		<footprintList>
-			<footprintSystem>
-				<footprintScheme>Eagle Default</footprintScheme>
-				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Kicad Default</footprintScheme>
-				<footprintSchemeCode>C-KICA</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Adafruit</footprintScheme>
-				<footprintSchemeCode>C-ADAF</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Dangerous Prototypes</footprintScheme>
-				<footprintSchemeCode>C-DPDP</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>OOMP </footprintScheme>
-				<footprintSchemeCode>C-OOMP</footprintSchemeCode>
-
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-<footprintSystem>
-				<footprintScheme>SEEED Studio</footprintScheme>
-				<footprintSchemeCode>C-SEEE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Sparkfun</footprintScheme>
-				<footprintSchemeCode>C-SPAR</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-		</footprintList>
-
 	<oompClass>Surface Mount</oompClass>
 	<oompClassCode>SMDS</oompClassCode>
 	<oompBbls></oompBbls>

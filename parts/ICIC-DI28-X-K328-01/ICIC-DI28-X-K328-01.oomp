@@ -1,9 +1,5 @@
-﻿<xml>
-
-    <oompPart>
-        <index>4321</index>
-
-<!--OOMP Base -->
+﻿<xml>    <oompPart>
+        <index>4321</index><!--OOMP Base -->
         <oompID>ICIC-DI28-X-K328-01</oompID>
         <name>28 Pin DIP AtMega328P</name>
         <hexID>IC328</hexID>
@@ -15,8 +11,6 @@
         <oompIndex>01</oompIndex>
         <oompOwner></oompOwner>
         <oompVersion>99</oompVersion>
-
-
 <!--Size -->
         <ooPitch>2.54 mm</ooPitch>
         <ooWidth>34.7 mm</ooWidth>
@@ -25,36 +19,24 @@
         <ooLength>7.25 mm</ooLength>
         <ooDepth></ooDepth>
         <ooWireSize></ooWireSize>
-
-
 <!--Manufacturer -->
         <ooManufacturer>C-ATME</ooManufacturer>
         <ooManufacturerPartNumber>ATMEGA328P-PU</ooManufacturerPartNumber>
-
-
 <!--Description -->
         <ooMaterial></ooMaterial>
         <ooNumPins>28</ooNumPins>
         <ooTerminalStyle></ooTerminalStyle>
         <ooPowerRating></ooPowerRating>
-
-
 <!--Hardware -->
         <ooHeadStyle></ooHeadStyle>
         <ooWrenchSize></ooWrenchSize>
-
-
 <!--Maximums -->
         <ooMaxCurrent></ooMaxCurrent>
         <ooMaxVoltage></ooMaxVoltage>
         <ooLifetime></ooLifetime>
         <ooTolerance></ooTolerance>
-
-
 <!--Heat Shrink -->
         <ooShrinkRatio></ooShrinkRatio>
-
-
 <!--LED -->
         <ooLensColor></ooLensColor>
         <ooForwardVoltage></ooForwardVoltage>
@@ -64,8 +46,6 @@
         <ooWavelength></ooWavelength>
         <ooChromaticityX></ooChromaticityX>
         <ooChromaticityY></ooChromaticityY>
-
-
 <COM>Common Uses</COM>		
 		<usageList>
 			<useItem>
@@ -79,13 +59,9 @@
         <ooPlugID></ooPlugID>
         <ooPlugOD></ooPlugOD>
         <ooPlugLength></ooPlugLength>
-
-
 <!--SEEED OPL (Open Parts Library) -->
         <ooSEEEDsku>1030050P1</ooSEEEDsku>
         <ooSEEEDdesc>IC MCU 8BIT 32KB FLASH</ooSEEEDdesc>
-
-
 <!--Hidden -->
         <oompVersion></oompVersion>
         <ooNameLine1of2></ooNameLine1of2>
@@ -104,11 +80,7 @@
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>
         <ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:DIP28.zip</ooSEEED3dModel>
-
-
-<!-- -->
-
-    		<sourceList>
+<!-- -->    		<sourceList>
 			<manufacturer>
 				<company>Atmel</company>
 				<companyCode>C-ATME</companyCode>
@@ -125,9 +97,7 @@
 				<partID>ATMEGA328P-PU-ND</partID>
 				<link><![CDATA[http://www.digikey.co.uk/product-search/en?lang=en&site=UK&WT.z_homepage_link=hp_go_button&x=0&y=0&KeyWords=ATMEGA328P-PU]]></link>
 				<note></note>
-			</bigDistributor>
-
-			<bigDistributor>
+			</bigDistributor>			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
 				<name>ATMEL  ATMEGA328P-PU  MCU, 8BIT, ATMEGA, 20MHZ, DIP-28</name>
@@ -177,9 +147,7 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://circuithub.com/parts/ATMEL/ATMEGA328P-PU]]></oplLink>
-			</oplSystem>
-
-			<oplSystem>
+			</oplSystem>			<oplSystem>
 				<oplScheme>Octopart CPL</oplScheme>
 				<oplCode>C-OCTO</oplCode>
 				<oplName>ATmega328 - DIP</oplName>
@@ -187,9 +155,7 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://octopart.com/common-parts-library#Microcontrollers]]></oplLink>
-			</oplSystem>
-
-			<oplSystem>
+			</oplSystem>			<oplSystem>
 				<oplScheme>Oopen Organization Method for Parts</oplScheme>
 				<oplCode>C-OOMP</oplCode>
 				<oplName>28 Pin DIP AtMega328P</oplName>
@@ -208,68 +174,8 @@
 				<oplPackage>28-DIP</oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=23]]></oplLink>
 			</oplSystem>
-		</oplList>
-
-
-
-<com>Footprint</com>
-		<footprintList>
-			<footprintSystem>
-				<footprintScheme>Eagle Default</footprintScheme>
-				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Kicad Default</footprintScheme>
-				<footprintSchemeCode>C-KICA</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Adafruit</footprintScheme>
-				<footprintSchemeCode>C-ADAF</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Dangerous Prototypes</footprintScheme>
-				<footprintSchemeCode>C-DPDP</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>OOMP </footprintScheme>
-				<footprintSchemeCode>C-OOMP</footprintSchemeCode>
-
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-<footprintSystem>
-				<footprintScheme>SEEED Studio</footprintScheme>
-				<footprintSchemeCode>C-SEEE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Sparkfun</footprintScheme>
-				<footprintSchemeCode>C-SPAR</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-		</footprintList>
-
-	<oompClass>Through Hole Component</oompClass>
-	<oompClassCode>THTH</oompClassCode>
-
-	
+		</oplList>	<oompClass>Through Hole Component</oompClass>
+	<oompClassCode>THTH</oompClassCode>	
 		<ooPin01>PC6</ooPin01>
 		<ooPin02>PD0</ooPin02>
 		<ooPin03>PD1</ooPin03>
@@ -298,9 +204,7 @@
 		<ooPin26>PC3</ooPin26>
 		<ooPin27>PC4</ooPin27>
 		<ooPin28>PC5</ooPin28>
-	
-
-	
+		
 		<oompBbls></oompBbls>
 		<oompDiag>
 		<drawItem>template;ICIC-DI28-X-XXXX-01</drawItem>

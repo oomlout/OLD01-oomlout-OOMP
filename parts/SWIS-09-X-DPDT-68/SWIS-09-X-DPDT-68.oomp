@@ -1,13 +1,9 @@
 <xml>
-    <oompPart>
-
-<com>OOMP Base</com>
+    <oompPart><com>OOMP Base</com>
         <oompID>SWIS-09-X-DPDT-68</oompID>
-        <name>9 mm DPDT Switch (Slide) Side Adjust</name>
-
-        <hexID>SSW9S</hexID>
-        <oompSort>SWIS09DPDT</oompSort>
-
+        <name>9 mm DPDT Switch (Slide) Side Adjust</name>        
+		<hexID>SSW9S</hexID>
+        <oompSort>SWIS09DPDT</oompSort>		
 		<oompClass></oompClass>
 		<oompClassCode></oompClassCode>		
 		
@@ -15,11 +11,8 @@
         <oompSize>09</oompSize>
         <oompColor>X</oompColor>
         <oompDesc>DPDT</oompDesc>
-        <oompIndex>68</oompIndex>
-
-        <oompVersion>98</oompVersion>
-
-
+        <oompIndex>68</oompIndex>        
+		<oompVersion>98</oompVersion>
 		
 		
 <com>Size</com>
@@ -28,20 +21,14 @@
         <ooHeight></ooHeight>
         <ooDiameter></ooDiameter>
         <ooLength></ooLength>
-        <ooDepth></ooDepth>
-
-<com>Description</com>
+        <ooDepth></ooDepth><com>Description</com>
         <ooNumPins>6</ooNumPins>
         <ooPowerRating></ooPowerRating>
-
-
 <com>Maximums</com>
         <ooMaxCurrent></ooMaxCurrent>
         <ooMaxVoltage></ooMaxVoltage>
         <ooLifetime></ooLifetime>
         <ooTolerance></ooTolerance>
-
-
 <com>Source List</com>		
 		<sourceList>
 			<manufacturer>
@@ -52,64 +39,17 @@
 				<link></link>
 				<note></note>			
 			</manufacturer>
-			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link></link>
-				<note></note>			
-			</manufacturer>
 				
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
-				<note></note>
-			</bigDistributor>					
-
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
-				<note></note>
-			</bigDistributor>	
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
-				<note></note>
-			</bigDistributor>	
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
-				<note></note>
-			</bigDistributor>	
+				
 			<bigDistributor>
 				<company>SEEED Studio</company>
 				<companyCode>C-SEEE</companyCode>
 				<name>DIP Toggle Switch;SPDT;200gf</name>
 				<partID>311030004</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/s/311030004.html?search_in_description=0]]></link>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=162]]></link>
 				<note></note>
 			</bigDistributor>	
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
-				<note></note>
-			</bigDistributor>					
+				
 		</sourceList>
 		
 <com>OPL</com>		
@@ -121,29 +61,9 @@
 				<oplID>311030004</oplID>
 				<oplFootprint>6P-2.54-L9.0*W3.5*H3.2mm</oplFootprint>
 				<oplPackage>6P-2.54-L9.0*W3.5*H3.2mm</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/311030004.html?search_in_description=0]]></oplLink>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=162]]></oplLink>
 			</oplSystem>
-			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[]]></oplLink>
-			</oplSystem>
-			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[]]></oplLink>
-			</oplSystem>
-		</oplList>
-
-<com>Hidden</com>
+		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>
         <ooProjectName1></ooProjectName1>
         <ooProjectDesc1></ooProjectDesc1>
@@ -152,27 +72,12 @@
         <ooBuyName1></ooBuyName1>
         <ooBuyDesc1></ooBuyDesc1>
         <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-
-	<com>Footprint</com>
-		<footprintList>
-			<footprintSystem>
-				<footprintScheme>Eagle Default</footprintScheme>
-				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-		</footprintList>
+        <ooBuyType1></ooBuyType1>	
     </oompPart>	
-
-
 	<oompBbls></oompBbls>	
 	<oompDiag></oompDiag>	
 	<oompIden></oompIden>	
 	<oompSchem></oompSchem>	
-	<oompSimp></oompSimp>	
-
-		<ooPackageMarking></ooPackageMarking>
+	<oompSimp></oompSimp>			<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>S1</ooDesignator>
 </xml>

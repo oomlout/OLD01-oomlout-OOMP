@@ -1,8 +1,6 @@
 <xml>
     <oompPart>
-        <index>9876</index>
-
-<com>OOMP Base</com>
+        <index>9876</index><com>OOMP Base</com>
         <oompID>CERE-1263-X-MZ16-01</oompID>
         <name>SMD (1206-3) 16 MHz Ceramic Resonator</name>
         <hexID>CR16316</hexID>
@@ -13,39 +11,25 @@
         <oompDesc>MZ16</oompDesc>
         <oompIndex>01</oompIndex>
         <oompOwner></oompOwner>
-        <oompVersion></oompVersion>
-
-		<oompSkip>true</oompSkip>
-
-<com>Size</com>
+        <oompVersion></oompVersion>		<oompSkip>true</oompSkip><com>Size</com>
         <ooPitch></ooPitch>
         <ooWidth>3.2 mm</ooWidth>
         <ooHeight>0.9 mm</ooHeight>
         <ooDiameter></ooDiameter>
         <ooLength>1.3 mm</ooLength>
         <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize>
-
-<com>Description</com>
+        <ooWireSize></ooWireSize><com>Description</com>
         <ooMaterial></ooMaterial>
         <ooNumPins>3</ooNumPins>
         <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating>
-
-<com>Hardware</com>
+        <ooPowerRating></ooPowerRating><com>Hardware</com>
         <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize>
-
-<com>Maximums</com>
+        <ooWrenchSize></ooWrenchSize><com>Maximums</com>
         <ooMaxCurrent></ooMaxCurrent>
         <ooMaxVoltage></ooMaxVoltage>
         <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-
-<com>Heat Shrink</com>
-        <ooShrinkRatio></ooShrinkRatio>
-
-<com>LED</com>
+        <ooTolerance></ooTolerance><com>Heat Shrink</com>
+        <ooShrinkRatio></ooShrinkRatio><com>LED</com>
         <ooLensColor></ooLensColor>
         <ooForwardVoltage></ooForwardVoltage>
         <ooForwardCurrent></ooForwardCurrent>
@@ -53,14 +37,10 @@
         <ooPowerAngle></ooPowerAngle>
         <ooWavelength></ooWavelength>
         <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY>
-
-<com>Plug</com>
+        <ooChromaticityY></ooChromaticityY><com>Plug</com>
         <ooPlugID></ooPlugID>
         <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength>
-
-<com>Source List</com>		
+        <ooPlugLength></ooPlugLength><com>Source List</com>		
 		<sourceList>
 			<manufacturer>
 				<company>Murata</company>
@@ -78,9 +58,7 @@
 				<partID>490-1198-1-ND</partID>
 				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/CSTCE16M0V53-R0/490-1198-1-ND/584635]]></link>
 				<note></note>
-			</bigDistributor>
-
-			<bigDistributor>
+			</bigDistributor>			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
 				<name>MURATA  CSTCE16M0V53-R0  RESONATOR, CERAMIC, 16MHZ, SMD</name>
@@ -133,9 +111,7 @@
 				<oplFootprint>SMD 3P-3.20X1.30X1.0mm</oplFootprint>
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=709]]></oplLink>
-			</oplSystem>
-
-			<oplSystem>
+			</oplSystem>			<oplSystem>
 				<oplScheme>Octopart CPL</oplScheme>
 				<oplCode>C-OCTO</oplCode>
 				<oplName>16 MHz Ceramic Resonator</oplName>
@@ -143,9 +119,7 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://octopart.com/common-parts-library#CrystalOscillators]]></oplLink>
-			</oplSystem>
-
-			<oplSystem>
+			</oplSystem>			<oplSystem>
 				<oplScheme>Oopen Organization Method for Parts</oplScheme>
 				<oplCode>C-OOMP</oplCode>
 				<oplName>SMD (1206-3) 16 MHz Ceramic Resonator</oplName>
@@ -155,9 +129,7 @@
 				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/CERE-1263-X-MZ16-01]]></oplLink>
 			</oplSystem>
 			
-		</oplList>
-
-<com>Hidden</com>
+		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>
         <ooProjectName1></ooProjectName1>
         <ooProjectDesc1></ooProjectDesc1>
@@ -168,60 +140,6 @@
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>
     
-<com>Footprint</com>
-		<footprintList>
-			<footprintSystem>
-				<footprintScheme>Eagle Default</footprintScheme>
-				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Kicad Default</footprintScheme>
-				<footprintSchemeCode>C-KICA</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Adafruit</footprintScheme>
-				<footprintSchemeCode>C-ADAF</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Dangerous Prototypes</footprintScheme>
-				<footprintSchemeCode>C-DPDP</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>OOMP </footprintScheme>
-				<footprintSchemeCode>C-OOMP</footprintSchemeCode>
-
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-<footprintSystem>
-				<footprintScheme>SEEED Studio</footprintScheme>
-				<footprintSchemeCode>C-SEEE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Sparkfun</footprintScheme>
-				<footprintSchemeCode>C-SPAR</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-		</footprintList>
-
 	<oompClass>Surface Mount</oompClass>
 	<oompClassCode>SMDS</oompClassCode>
 	<oompBbls></oompBbls>

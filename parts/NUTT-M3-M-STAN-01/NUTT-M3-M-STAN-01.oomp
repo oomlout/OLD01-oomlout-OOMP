@@ -1,9 +1,5 @@
-﻿<xml>
-
-    <oompPart>
-        <index>4213</index>
-
-<!--OOMP Base -->
+﻿<xml>    <oompPart>
+        <index>4213</index><!--OOMP Base -->
         <oompID>NUTT-M3-M-STAN-01</oompID>
         <name>M3 Nut</name>
         <hexID>NU3</hexID>
@@ -15,8 +11,6 @@
         <oompIndex>01</oompIndex>
         <oompOwner></oompOwner>
         <oompVersion>31</oompVersion>
-
-
 <!--Size -->
         <ooPitch></ooPitch>
         <ooWidth></ooWidth>
@@ -25,36 +19,24 @@
         <ooLength></ooLength>
         <ooDepth></ooDepth>
         <ooWireSize></ooWireSize>
-
-
 <!--Manufacturer -->
         <ooManufacturer></ooManufacturer>
         <ooManufacturerPartNumber></ooManufacturerPartNumber>
-
-
 <!--Description -->
         <ooMaterial></ooMaterial>
         <ooNumPins></ooNumPins>
         <ooTerminalStyle></ooTerminalStyle>
         <ooPowerRating></ooPowerRating>
-
-
 <!--Hardware -->
         <ooHeadStyle></ooHeadStyle>
         <ooWrenchSize></ooWrenchSize>
-
-
 <!--Maximums -->
         <ooMaxCurrent></ooMaxCurrent>
         <ooMaxVoltage></ooMaxVoltage>
         <ooLifetime></ooLifetime>
         <ooTolerance></ooTolerance>
-
-
 <!--Heat Shrink -->
         <ooShrinkRatio></ooShrinkRatio>
-
-
 <!--LED -->
         <ooLensColor></ooLensColor>
         <ooForwardVoltage></ooForwardVoltage>
@@ -64,8 +46,6 @@
         <ooWavelength></ooWavelength>
         <ooChromaticityX></ooChromaticityX>
         <ooChromaticityY></ooChromaticityY>
-
-
 <COM>Common Uses</COM>		
 		<usageList>
 			<useItem>
@@ -79,13 +59,9 @@
         <ooPlugID></ooPlugID>
         <ooPlugOD></ooPlugOD>
         <ooPlugLength></ooPlugLength>
-
-
 <!--SEEED OPL (Open Parts Library) -->
         <ooSEEEDsku></ooSEEEDsku>
         <ooSEEEDdesc></ooSEEEDdesc>
-
-
 <!--Hidden -->
         <oompVersion></oompVersion>
         <ooNameLine1of2></ooNameLine1of2>
@@ -104,19 +80,7 @@
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>
         <ooSEEED3dModel></ooSEEED3dModel>
-
-
-<!-- -->
-
-    		<sourceList>
-			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link></link>
-				<note></note>			
-			</manufacturer>
+<!-- -->    		<sourceList>
 				
 			<bigDistributor>
 				<company></company>
@@ -145,65 +109,7 @@
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[ ]]></oplLink>
 			</oplSystem>
-		</oplList>
-
-
-
-<com>Footprint</com>
-		<footprintList>
-			<footprintSystem>
-				<footprintScheme>Eagle Default</footprintScheme>
-				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Kicad Default</footprintScheme>
-				<footprintSchemeCode>C-KICA</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Adafruit</footprintScheme>
-				<footprintSchemeCode>C-ADAF</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Dangerous Prototypes</footprintScheme>
-				<footprintSchemeCode>C-DPDP</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>OOMP </footprintScheme>
-				<footprintSchemeCode>C-OOMP</footprintSchemeCode>
-
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-<footprintSystem>
-				<footprintScheme>SEEED Studio</footprintScheme>
-				<footprintSchemeCode>C-SEEE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Sparkfun</footprintScheme>
-				<footprintSchemeCode>C-SPAR</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-		</footprintList>
-
-		<oompClass>Hardware</oompClass>
+		</oplList>		<oompClass>Hardware</oompClass>
 		<oompClassCode>HARD</oompClassCode>
 	<oompBbls></oompBbls>
 	<oompDiag></oompDiag>

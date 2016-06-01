@@ -1,13 +1,9 @@
 <xml>
-    <oompPart>
-
-<com>OOMP Base</com>
+    <oompPart><com>OOMP Base</com>
         <oompID>TRNN-SO23-X-A05D-02</oompID>
-        <name>SMD (SOT-23) 500 mA NPN Transistor</name>
-
-        <hexID>TNS25D2</hexID>
-        <oompSort>TRNNSO23A05D</oompSort>
-
+        <name>SMD (SOT-23) 500 mA NPN Transistor</name>        
+		<hexID>TNS25D2</hexID>
+        <oompSort>TRNNSO23A05D</oompSort>		
 		<oompClass></oompClass>
 		<oompClassCode></oompClassCode>		
 		
@@ -15,11 +11,8 @@
         <oompSize>SO23</oompSize>
         <oompColor>X</oompColor>
         <oompDesc>A05D</oompDesc>
-        <oompIndex>02</oompIndex>
-
-        <oompVersion>98</oompVersion>
-
-
+        <oompIndex>02</oompIndex>        
+		<oompVersion>98</oompVersion>
 		
 		
 <com>Size</com>
@@ -28,20 +21,14 @@
         <ooHeight></ooHeight>
         <ooDiameter></ooDiameter>
         <ooLength></ooLength>
-        <ooDepth></ooDepth>
-
-<com>Description</com>
+        <ooDepth></ooDepth><com>Description</com>
         <ooNumPins>3</ooNumPins>
         <ooPowerRating></ooPowerRating>
-
-
 <com>Maximums</com>
         <ooMaxCurrent></ooMaxCurrent>
         <ooMaxVoltage></ooMaxVoltage>
         <ooLifetime></ooLifetime>
         <ooTolerance></ooTolerance>
-
-
 <com>Source List</com>		
 		<sourceList>
 			<manufacturer>
@@ -68,9 +55,7 @@
 				<partID>MMSS8050-L-TPMSDKR-ND</partID>
 				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=MMSS8050-L-TPMSDKR-ND]]></link>
 				<note></note>
-			</bigDistributor>					
-
-			<bigDistributor>
+			</bigDistributor>								<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
 				<name></name>
@@ -83,33 +68,10 @@
 				<companyCode>C-SEEE</companyCode>
 				<name>SMD Transistors NPN 25V 500mW</name>
 				<partID>305010017</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/s/305010017.html?search_in_description=0]]></link>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=137]]></link>
 				<note></note>
 			</bigDistributor>	
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
-				<note></note>
-			</bigDistributor>	
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
-				<note></note>
-			</bigDistributor>	
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
-				<note></note>
-			</bigDistributor>					
+				
 		</sourceList>
 		
 <com>OPL</com>		
@@ -121,7 +83,7 @@
 				<oplID>305010017</oplID>
 				<oplFootprint>SOT-23</oplFootprint>
 				<oplPackage>SOT-23</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/305010017.html?search_in_description=0]]></oplLink>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=137]]></oplLink>
 			</oplSystem>
 			<oplSystem>
 				<oplScheme>Circuithub.com</oplScheme>
@@ -132,18 +94,7 @@
 				<oplPackage>SOT-23</oplPackage>
 				<oplLink><![CDATA[https://circuithub.com/parts/MMSS8050-H-TP]]></oplLink>
 			</oplSystem>
-			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[]]></oplLink>
-			</oplSystem>
-		</oplList>
-
-<com>Hidden</com>
+		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>
         <ooProjectName1></ooProjectName1>
         <ooProjectDesc1></ooProjectDesc1>
@@ -152,27 +103,12 @@
         <ooBuyName1></ooBuyName1>
         <ooBuyDesc1></ooBuyDesc1>
         <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-
-	<com>Footprint</com>
-		<footprintList>
-			<footprintSystem>
-				<footprintScheme>Eagle Default</footprintScheme>
-				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-		</footprintList>
+        <ooBuyType1></ooBuyType1>	
     </oompPart>	
-
-
 	<oompBbls></oompBbls>	
 	<oompDiag></oompDiag>	
 	<oompIden></oompIden>	
 	<oompSchem></oompSchem>	
-	<oompSimp></oompSimp>	
-
-		<ooPackageMarking></ooPackageMarking>
+	<oompSimp></oompSimp>			<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>Q1</ooDesignator>
 </xml>

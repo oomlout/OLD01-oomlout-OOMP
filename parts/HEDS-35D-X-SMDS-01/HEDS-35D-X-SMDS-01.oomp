@@ -1,9 +1,5 @@
-﻿<xml>
-
-    <oompPart>
-        <index>4289</index>
-
-<!--OOMP Base -->
+﻿<xml>    <oompPart>
+        <index>4289</index><!--OOMP Base -->
         <oompID>HEDS-35D-X-SMDS-01</oompID>
         <name>3.5 mm SMD Headphone Socket</name>
         <hexID>10C1</hexID>
@@ -15,8 +11,6 @@
         <oompIndex>01</oompIndex>
         <oompOwner></oompOwner>
         <oompVersion>99</oompVersion>
-
-
 <!--Size -->
         <ooPitch></ooPitch>
         <ooWidth></ooWidth>
@@ -25,36 +19,24 @@
         <ooLength></ooLength>
         <ooDepth></ooDepth>
         <ooWireSize></ooWireSize>
-
-
 <!--Manufacturer -->
         <ooManufacturer>C-SUNT</ooManufacturer>
         <ooManufacturerPartNumber>ST-PJ-312</ooManufacturerPartNumber>
-
-
 <!--Description -->
         <ooMaterial></ooMaterial>
         <ooNumPins></ooNumPins>
         <ooTerminalStyle></ooTerminalStyle>
         <ooPowerRating></ooPowerRating>
-
-
 <!--Hardware -->
         <ooHeadStyle></ooHeadStyle>
         <ooWrenchSize></ooWrenchSize>
-
-
 <!--Maximums -->
         <ooMaxCurrent></ooMaxCurrent>
         <ooMaxVoltage></ooMaxVoltage>
         <ooLifetime></ooLifetime>
         <ooTolerance></ooTolerance>
-
-
 <!--Heat Shrink -->
         <ooShrinkRatio></ooShrinkRatio>
-
-
 <!--LED -->
         <ooLensColor></ooLensColor>
         <ooForwardVoltage></ooForwardVoltage>
@@ -64,8 +46,6 @@
         <ooWavelength></ooWavelength>
         <ooChromaticityX></ooChromaticityX>
         <ooChromaticityY></ooChromaticityY>
-
-
 <COM>Common Uses</COM>		
 		<usageList>
 			<useItem>
@@ -79,13 +59,9 @@
         <ooPlugID></ooPlugID>
         <ooPlugOD></ooPlugOD>
         <ooPlugLength></ooPlugLength>
-
-
 <!--SEEED OPL (Open Parts Library) -->
         <ooSEEEDsku>3440030P1</ooSEEEDsku>
         <ooSEEEDdesc>AUDIO-Connector</ooSEEEDdesc>
-
-
 <!--Hidden -->
         <oompVersion></oompVersion>
         <ooNameLine1of2></ooNameLine1of2>
@@ -104,11 +80,7 @@
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>
         <ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:6P-SMD-3.5.zip</ooSEEED3dModel>
-
-
-<!-- -->
-
-    		<sourceList>
+<!-- -->    		<sourceList>
 			<manufacturer>
 				<company>Suntech</company>
 				<companyCode>C-SUNT</companyCode>
@@ -123,7 +95,7 @@
 				<companyCode>C-SEEE</companyCode>
 				<name>SMD Audio Jack;3.5mm;3 Degree</name>
 				<partID>320040007</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=674]]></link>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=1256]]></link>
 				<note></note>
 			</bigDistributor>					
 			<bigDistributor>
@@ -143,11 +115,9 @@
 				<oplID>320040007</oplID>
 				<oplFootprint>6P-3.5-14*9mm</oplFootprint>
 				<oplPackage></oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=674]]></oplLink>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=1256]]></oplLink>
 			</oplSystem>
 		</oplList>
-
-
 	<oompBbls></oompBbls>
 	<oompDiag></oompDiag>
 	<oompIden></oompIden>

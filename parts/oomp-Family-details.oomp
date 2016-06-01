@@ -56,9 +56,7 @@
 		<familyHexNameSpace>R85</familyHexNameSpace>
 		<familyHexNameSpaceDisplay>R85###</familyHexNameSpaceDisplay>	
 		<familyAbout></familyAbout>
-	</oompFamily>
-
-	<oompFamily>
+	</oompFamily>	<oompFamily>
 		<familyName>SMD (1206) Resistor</familyName>
 		<familyType>RESE</familyType>
 		<familySize>1206</familySize>
@@ -104,9 +102,7 @@
 		<familyHexNameSpace>PT</familyHexNameSpace>
 		<familyHexNameSpaceDisplay>PT####</familyHexNameSpaceDisplay>	
 		<familyAbout></familyAbout>
-	</oompFamily>
-
-	
+	</oompFamily>	
 	
 	<oompFamily>
 		<familyName>Through Hole Capacitor (Ceramic) 50 v</familyName>
@@ -198,8 +194,6 @@
 		<familyHexNameSpaceDisplay>RF###</familyHexNameSpaceDisplay>	
 		<familyAbout></familyAbout>
 	</oompFamily>	
-
-
 	<!-- 2Digit followed by 2 digit spaces -->
 	<oompFamily>
 		<familyName>2.54 mm Black Crimp Housing</familyName>
@@ -233,9 +227,7 @@
 		<familyHexNameSpace>NFF</familyHexNameSpace>
 		<familyHexNameSpaceDisplay>NFF##</familyHexNameSpaceDisplay>		
 		<familyAbout></familyAbout>
-		</oompFamily>	
-
-		
+		</oompFamily>			
 		
 		
 	<oompFamily>
@@ -248,9 +240,7 @@
 		<familyHexNameSpace>DD</familyHexNameSpace>
 		<familyHexNameSpaceDisplay>DD##</familyHexNameSpaceDisplay>		
 		<familyAbout></familyAbout>
-	</oompFamily>		
-
-	<oompFamily>
+	</oompFamily>			<oompFamily>
 		<familyName>Nylon Nut</familyName>
 		<familyType>NNUT</familyType>
 		<familySize></familySize>
@@ -272,9 +262,7 @@
 		<familyHexNameSpaceDisplay>NU#</familyHexNameSpaceDisplay>		
 		<familyAbout></familyAbout>
 	</oompFamily>			
-	
-
-	<oompFamily>
+		<oompFamily>
 		<familyName>M3 Screw Cross Head</familyName>
 		<familyType>SCRE</familyType>
 		<familySize>M3</familySize>
@@ -458,9 +446,7 @@
 		<familyHexNameSpace>DJ</familyHexNameSpace>
 		<familyHexNameSpaceDisplay>DJ##</familyHexNameSpaceDisplay>		
 		<familyAbout></familyAbout>
-	</oompFamily>		
-
-	<oompFamily>
+	</oompFamily>			<oompFamily>
 		<familyName>N-Ch MOSFET</familyName>
 		<familyType>MOSN</familyType>
 		<familySize></familySize>
@@ -575,9 +561,7 @@
 		<familyHexNameSpace>US</familyHexNameSpace>
 		<familyHexNameSpaceDisplay>US#</familyHexNameSpaceDisplay>		
 		<familyAbout>Surface mount USB sockets, for oproviding USB connectivity to your circuit.</familyAbout>
-	</oompFamily>	
-
-	<oompFamily>
+	</oompFamily>		<oompFamily>
 		<familyName>10 mm Frosted LED</familyName>
 		<familyType>LEDS</familyType>
 		<familySize>10</familySize>
@@ -599,9 +583,7 @@
 		<familyHexNameSpaceDisplay>LT5#</familyHexNameSpaceDisplay>		
 		<familyAbout></familyAbout>
 	</oompFamily>	
-	
-
-	<oompFamily>
+		<oompFamily>
 		<familyName>5 mm LED</familyName>
 		<familyType>LEDS</familyType>
 		<familySize>05</familySize>

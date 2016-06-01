@@ -1,9 +1,5 @@
-﻿<xml>
-
-    <oompPart>
-        <index>4115</index>
-
-<!--OOMP Base -->
+﻿<xml>    <oompPart>
+        <index>4115</index><!--OOMP Base -->
         <oompID>RESA-1268-X-O103X4-01</oompID>
         <name>SMD (1206-8) 10k Ohm (x4) Resistor Array</name>
         <hexID>RA1103</hexID>
@@ -15,8 +11,6 @@
         <oompIndex>01</oompIndex>
         <oompOwner></oompOwner>
         <oompVersion>99</oompVersion>
-
-
 <!--Size -->
         <ooPitch></ooPitch>
         <ooWidth>1.6 mm</ooWidth>
@@ -24,38 +18,26 @@
         <ooDiameter></ooDiameter>
         <ooLength>3.2 mm</ooLength>
         <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize>
-
-<com>SMD</com>
+        <ooWireSize></ooWireSize><com>SMD</com>
 		<ooPackageMarking>103</ooPackageMarking>
 <!--Manufacturer -->
         <ooManufacturer></ooManufacturer>
         <ooManufacturerPartNumber></ooManufacturerPartNumber>
-
-
 <!--Description -->
         <ooMaterial></ooMaterial>
         <ooNumPins>8</ooNumPins>
         <ooTerminalStyle></ooTerminalStyle>
         <ooPowerRating>62.5 mW</ooPowerRating>
-
-
 <!--Hardware -->
         <ooHeadStyle></ooHeadStyle>
         <ooWrenchSize></ooWrenchSize>
-
-
 <!--Maximums -->
         <ooMaxCurrent></ooMaxCurrent>
         <ooMaxVoltage></ooMaxVoltage>
         <ooLifetime></ooLifetime>
         <ooTolerance>5%</ooTolerance>
-
-
 <!--Heat Shrink -->
         <ooShrinkRatio></ooShrinkRatio>
-
-
 <!--LED -->
         <ooLensColor></ooLensColor>
         <ooForwardVoltage></ooForwardVoltage>
@@ -65,8 +47,6 @@
         <ooWavelength></ooWavelength>
         <ooChromaticityX></ooChromaticityX>
         <ooChromaticityY></ooChromaticityY>
-
-
 <COM>Common Uses</COM>		
 		<usageList>
 			<useItem>
@@ -80,13 +60,9 @@
         <ooPlugID></ooPlugID>
         <ooPlugOD></ooPlugOD>
         <ooPlugLength></ooPlugLength>
-
-
 <!--SEEED OPL (Open Parts Library) -->
         <ooSEEEDsku></ooSEEEDsku>
         <ooSEEEDdesc></ooSEEEDdesc>
-
-
 <!--Hidden -->
         <oompVersion></oompVersion>
         <ooNameLine1of2></ooNameLine1of2>
@@ -104,11 +80,7 @@
         <ooBuyDesc1></ooBuyDesc1>
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>
-        <ooSEEED3dModel></ooSEEED3dModel>
-
-
-
-<com>Source List</com>		
+        <ooSEEED3dModel></ooSEEED3dModel><com>Source List</com>		
 		<sourceList>
 			<manufacturer>
 				<company>Bourns</company>
@@ -127,9 +99,7 @@
 				<partID>CAT16-103J4LFCT-ND</partID>
 				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/CAT16-103J4LF/CAT16-103J4LFCT-ND/3593010]]></link>
 				<note></note>
-			</bigDistributor>
-
-			<bigDistributor>
+			</bigDistributor>			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
 				<name>BOURNS  CAT16-103J4LF  RESISTOR, ARRAY-4, 10K, 1206, 5%, SMD</name>
@@ -194,8 +164,6 @@
 				<oplLink><![CDATA[]]></oplLink>
 			</oplSystem>			
 		</oplList>
-
-
 	<COM>Common Uses</COM>		
 		<usageList>
 			<useItem>
@@ -204,65 +172,7 @@
 				<useTitle>Pullup Resistor</useTitle>
 				<useDescription>Used to hold a digital pin high. When you need more than one and would like to save space.</useDescription>
 			</useItem>
-		</usageList>
-
-		
-
-
-<com>Footprint</com>
-		<footprintList>
-			<footprintSystem>
-				<footprintScheme>Eagle Default</footprintScheme>
-				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Kicad Default</footprintScheme>
-				<footprintSchemeCode>C-KICA</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Adafruit</footprintScheme>
-				<footprintSchemeCode>C-ADAF</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Dangerous Prototypes</footprintScheme>
-				<footprintSchemeCode>C-DPDP</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>OOMP </footprintScheme>
-				<footprintSchemeCode>C-OOMP</footprintSchemeCode>
-
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-<footprintSystem>
-				<footprintScheme>SEEED Studio</footprintScheme>
-				<footprintSchemeCode>C-SEEE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-			<footprintSystem>
-				<footprintScheme>Sparkfun</footprintScheme>
-				<footprintSchemeCode>C-SPAR</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-		</footprintList>
-
+		</usageList>		
 	<oompClass>Surface Mount</oompClass>
 	<oompClassCode>SMDS</oompClassCode>
 	<oompBbls></oompBbls>

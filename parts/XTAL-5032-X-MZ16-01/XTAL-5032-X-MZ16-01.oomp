@@ -1,13 +1,9 @@
 <xml>
-    <oompPart>
-
-<com>OOMP Base</com>
+    <oompPart><com>OOMP Base</com>
         <oompID>XTAL-5032-X-MZ16-01</oompID>
-        <name>SMD (5032) 16 MHz Crystal</name>
-
-        <hexID>XS516</hexID>
-        <oompSort></oompSort>
-
+        <name>SMD (5032) 16 MHz Crystal</name>        
+		<hexID>XS516</hexID>
+        <oompSort></oompSort>		
 		<oompClass>Surface Mount</oompClass>
 		<oompClassCode>SMDS</oompClassCode>		
 		
@@ -15,11 +11,8 @@
         <oompSize>5032</oompSize>
         <oompColor>X</oompColor>
         <oompDesc>MZ16</oompDesc>
-        <oompIndex>01</oompIndex>
-
-        <oompVersion>40</oompVersion>
-
-
+        <oompIndex>01</oompIndex>        
+		<oompVersion>40</oompVersion>
 		
 		
 <com>Size</com>
@@ -28,20 +21,14 @@
         <ooHeight></ooHeight>
         <ooDiameter></ooDiameter>
         <ooLength></ooLength>
-        <ooDepth></ooDepth>
-
-<com>Description</com>
+        <ooDepth></ooDepth><com>Description</com>
         <ooNumPins></ooNumPins>
         <ooPowerRating></ooPowerRating>
-
-
 <com>Maximums</com>
         <ooMaxCurrent></ooMaxCurrent>
         <ooMaxVoltage></ooMaxVoltage>
         <ooLifetime></ooLifetime>
         <ooTolerance></ooTolerance>
-
-
 <com>Source List</com>		
 		<sourceList>
 			<manufacturer>
@@ -49,14 +36,6 @@
 				<companyCode>C-JING</companyCode>
 				<name></name>
 				<partID>X053201602002</partID>
-				<link></link>
-				<note></note>			
-			</manufacturer>
-			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -68,16 +47,7 @@
 				<partID>306010054</partID>
 				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=54]]></link>
 				<note></note>
-			</bigDistributor>					
-
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
-				<note></note>
-			</bigDistributor>					
+			</bigDistributor>									
 		</sourceList>
 		
 <com>OPL</com>		
@@ -91,9 +61,7 @@
 				<oplPackage>2P-SMD-5.0X3.2</oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=54]]></oplLink>
 			</oplSystem>
-		</oplList>
-
-<com>Hidden</com>
+		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>
         <ooProjectName1></ooProjectName1>
         <ooProjectDesc1></ooProjectDesc1>
@@ -102,18 +70,7 @@
         <ooBuyName1></ooBuyName1>
         <ooBuyDesc1></ooBuyDesc1>
         <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-
-	<com>Footprint</com>
-		<footprintList>
-			<footprintSystem>
-				<footprintScheme>Eagle Default</footprintScheme>
-				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-		</footprintList>
+        <ooBuyType1></ooBuyType1>	
     	<oompBbls></oompBbls>
 	<oompDiag></oompDiag>
 	<oompIden></oompIden>

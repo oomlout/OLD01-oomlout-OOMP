@@ -1,8 +1,4 @@
-<xml>
-
-		<!-- Base Details -->
-
-    <oompTag>
+<xml>		<!-- Base Details -->    <oompTag>
             <tagName>oompID</tagName>
             <tagReadable>ID</tagReadable>
 			<tagType>OOMP Base</tagType>
@@ -15,9 +11,7 @@
 			<tagType>OOMP Base</tagType>
             <tagDescription><![CDATA[Part Name (ex. <b>2.54mm 1 Pin Black Crimp Housing</b>)]]></tagDescription>
 			<tagSort>20</tagSort>
-    </oompTag>
-
-    <oompTag>
+    </oompTag>    <oompTag>
             <tagName>hexID</tagName>
             <tagReadable>Hex ID</tagReadable>
 			<tagType>OOMP Base</tagType>
@@ -31,9 +25,7 @@
             <tagDescription>Used to sort components based on their values (ie 10k Ohm resistor = 10000)</tagDescription>
 			<tagSort>40</tagSort>
     </oompTag>
-		<!-- OOMP Details -->
-
-    <oompTag>
+		<!-- OOMP Details -->    <oompTag>
             <tagName>oompVersion</tagName>
             <tagReadable></tagReadable>
 			<tagLabel>version</tagLabel>
@@ -89,9 +81,7 @@
 			<tagType>OOMP Base</tagType>
 			<tagDescription><![CDATA[Code used to define the owner of a component. This is used to allow individuals or companies to add components without needing to link them to the main OOMP system. <a href="/oom.php/oomp/idcodesexplained">(Code Description)<a href="https://github.com/oomlout/oomp/blob/master/oomp-Owner-details.oomp"> (source) </a> ]]></tagDescription>
 			<tagSort>10000</tagSort>
-    </oompTag>
-
-	
+    </oompTag>	
 	
 	<!-- Part Numbers -->
 	
@@ -236,9 +226,7 @@
 			<tagType>Description</tagType>			
             <tagDescription>The style of terminal the component uses. (ex. dupont, screw)</tagDescription>
 			<tagSort>160</tagSort>
-    </oompTag>
-
-	<!-- Hardware Part Details -->
+    </oompTag>	<!-- Hardware Part Details -->
     <oompTag>
             <tagName>ooHeadStyle</tagName>
             <tagReadable>Head Style</tagReadable>
@@ -419,11 +407,7 @@
 			<tagType>Hidden</tagType>
             <tagDescription></tagDescription>
 			<tagSort></tagSort>
-    </oompTag>
-
-<!-- Projects that use -->		
-
-    <oompTag>
+    </oompTag><!-- Projects that use -->		    <oompTag>
             <tagName>ooProjectName1</tagName>
             <tagReadable></tagReadable>
 			<tagType>Hidden</tagType>
@@ -522,9 +506,7 @@
             <tagDescription></tagDescription>
 			<tagType>Hidden</tagType>
 			<tagSort></tagSort>
-    </oompTag>
-
-    <oompTag>
+    </oompTag>    <oompTag>
             <tagName>numComponents</tagName>
             <tagReadable>Number of Components</tagReadable>
             <tagDescription>The total number of components in a project</tagDescription>

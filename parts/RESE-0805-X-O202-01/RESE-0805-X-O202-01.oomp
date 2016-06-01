@@ -1,13 +1,9 @@
 <xml>
-    <oompPart>
-
-<com>OOMP Base</com>
+    <oompPart><com>OOMP Base</com>
         <oompID>RESE-0805-X-O202-01</oompID>
-        <name>SMD (0805) 2k Ohm Resistor</name>
-
-        <hexID>R85202</hexID>
-        <oompSort></oompSort>
-
+        <name>SMD (0805) 2k Ohm Resistor</name>        
+		<hexID>R85202</hexID>
+        <oompSort></oompSort>		
 		<oompClass>Surface Mount</oompClass>
 		<oompClassCode>SMDS</oompClassCode>		
 		
@@ -15,11 +11,8 @@
         <oompSize>0805</oompSize>
         <oompColor>X</oompColor>
         <oompDesc>O202</oompDesc>
-        <oompIndex>01</oompIndex>
-
-        <oompVersion>40</oompVersion>
-
-
+        <oompIndex>01</oompIndex>        
+		<oompVersion>40</oompVersion>
 		
 		
 <com>Size</com>
@@ -28,20 +21,14 @@
         <ooHeight></ooHeight>
         <ooDiameter></ooDiameter>
         <ooLength></ooLength>
-        <ooDepth></ooDepth>
-
-<com>Description</com>
+        <ooDepth></ooDepth><com>Description</com>
         <ooNumPins></ooNumPins>
         <ooPowerRating></ooPowerRating>
-
-
 <com>Maximums</com>
         <ooMaxCurrent></ooMaxCurrent>
         <ooMaxVoltage></ooMaxVoltage>
         <ooLifetime></ooLifetime>
         <ooTolerance></ooTolerance>
-
-
 <com>Source List</com>		
 		<sourceList>
 			<manufacturer>
@@ -49,14 +36,6 @@
 				<companyCode>C-YAGE</companyCode>
 				<name></name>
 				<partID>RC0805JR-072KL</partID>
-				<link></link>
-				<note></note>			
-			</manufacturer>
-			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -68,16 +47,7 @@
 				<partID>301010318</partID>
 				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=292]]></link>
 				<note></note>
-			</bigDistributor>					
-
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
-				<note></note>
-			</bigDistributor>					
+			</bigDistributor>									
 		</sourceList>
 		
 <com>OPL</com>		
@@ -91,9 +61,7 @@
 				<oplPackage>0805</oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Resistor]]></oplLink>
 			</oplSystem>
-		</oplList>
-
-<com>Hidden</com>
+		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>
         <ooProjectName1></ooProjectName1>
         <ooProjectDesc1></ooProjectDesc1>
@@ -102,18 +70,7 @@
         <ooBuyName1></ooBuyName1>
         <ooBuyDesc1></ooBuyDesc1>
         <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-
-	<com>Footprint</com>
-		<footprintList>
-			<footprintSystem>
-				<footprintScheme>Eagle Default</footprintScheme>
-				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-		</footprintList>
+        <ooBuyType1></ooBuyType1>	
     	<oompBbls>
 		<drawItem>template;XXXX-0805-X-XXXX-XX-bbls</drawItem>
 </oompBbls>
