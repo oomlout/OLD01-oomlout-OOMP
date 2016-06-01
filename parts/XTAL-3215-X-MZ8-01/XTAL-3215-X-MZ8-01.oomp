@@ -1,5 +1,6 @@
 <xml>
-    <oompPart><com>OOMP Base</com>
+<oompPart>
+	<com>OOMP Base</com>
         <oompID>XTAL-3215-X-MZ8-01</oompID>
         <name>SMD (3215) 8 MHz Crystal</name>        
 		<hexID>XS38</hexID>
@@ -101,4 +102,6 @@
 	<oompSchem></oompSchem>	
 	<oompSimp></oompSimp>			<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>X</ooDesignator>
+		
+</oompPart>		
 </xml>

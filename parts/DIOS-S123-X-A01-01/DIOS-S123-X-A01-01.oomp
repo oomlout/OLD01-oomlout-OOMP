@@ -1,5 +1,6 @@
 <xml>
-    <oompPart><com>OOMP Base</com>
+<oompPart>
+	<com>OOMP Base</com>
         <oompID>DIOS-S123-X-A01-01</oompID>
         <name>SMD (SOD-123) 1 Amp Diode (Schottky)</name>        
 		<hexID>DS35D1</hexID>
@@ -76,7 +77,7 @@
 				<companyCode>C-SEEE</companyCode>
 				<name>SMD Diode Schottky 40V-500mA</name>
 				<partID>304020012</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=542]></link>
+				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=542]]></link>
 				<note></note>
 			</bigDistributor>	
 				
