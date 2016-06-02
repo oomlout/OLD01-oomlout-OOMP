@@ -158,7 +158,8 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://circuithub.com/parts/BOURNS/MF-MSMF050-2]]></oplLink>
-			</oplSystem>			<oplSystem>
+			</oplSystem>			
+			<oplSystem>
 				<oplScheme>Octopart CPL</oplScheme>
 				<oplCode>C-OCTO</oplCode>
 				<oplName>Resettable PTC 500 mA</oplName>
@@ -166,16 +167,7 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[]]></oplLink>
-			</oplSystem>			<oplSystem>
-				<oplScheme>Oopen Organization Method for Parts</oplScheme>
-				<oplCode>C-OOMP</oplCode>
-				<oplName>SMD (1812) 500 mA Resetable Fuse</oplName>
-				<oplID>REFU-1812-X-A05D-01</oplID>
-				<oplFootprint>1812</oplFootprint>
-				<oplPackage>1812</oplPackage>
-				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/]]></oplLink>
-			</oplSystem>
-			
+			</oplSystem>	
 			<oplSystem>
 				<oplScheme>Seeed Studio OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>

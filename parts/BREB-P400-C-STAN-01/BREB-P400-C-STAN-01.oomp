@@ -170,15 +170,6 @@
 			</bigDistributor>					
 		</sourceList>
 		<oplList>
-			<oplSystem>
-				<oplScheme>Oopen Organization Method for Parts</oplScheme>
-				<oplCode>C-OOMP</oplCode>
-				<oplName>400 Point Clear Breadboard</oplName>
-				<oplID>BREB-P400-C-STAN-01</oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/BREB-P400-C-STAN-01]]></oplLink>
-			</oplSystem>
 		</oplList>
 	<oompClass>Wiring</oompClass>
 	<oompClassCode>WIRE</oompClassCode>

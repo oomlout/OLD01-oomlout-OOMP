@@ -106,7 +106,8 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://circuithub.com/parts/TI/LP2985-33DBVR]]></oplLink>
-			</oplSystem>			<oplSystem>
+			</oplSystem>			
+			<oplSystem>
 				<oplScheme>Octopart CPL</oplScheme>
 				<oplCode>C-OCTO</oplCode>
 				<oplName>Low Power Linear Voltage Regulator</oplName>
@@ -114,14 +115,6 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[]]></oplLink>
-			</oplSystem>			<oplSystem>
-				<oplScheme>Oopen Organization Method for Parts</oplScheme>
-				<oplCode>C-OOMP</oplCode>
-				<oplName>SMD (SOT-23-5) 3.3v Voltage Regulator 150 mA</oplName>
-				<oplID>VREG-SO235-X-V33D-AC</oplID>
-				<oplFootprint>SO235</oplFootprint>
-				<oplPackage>SO235</oplPackage>
-				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/VREG-SO235-X-V33D-AC]]></oplLink>
 			</oplSystem>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>

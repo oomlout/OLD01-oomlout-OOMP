@@ -62,15 +62,6 @@
 				<oplPackage>2P-L6.0*W3.0*H4.3mm-90D</oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=164]]></oplLink>
 			</oplSystem>
-			<oplSystem>
-				<oplScheme>Oopen Organization Method for Parts</oplScheme>
-				<oplCode>C-OOMP</oplCode>
-				<oplName>6 mm 2 Pin Pushbutton (Tactile)</oplName>
-				<oplID>BUTA-06-X-02PI-01</oplID>
-				<oplFootprint>BUTA-06-X-02PI-01</oplFootprint>
-				<oplPackage>BUTA-06-X-02PI-01</oplPackage>
-				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/BUTA-06-X-02PI-01]]></oplLink>
-			</oplSystem>
 		</oplList><com>Hidden</com>
         <oompAbout>A simple tactile pushbutton with two pins. This button is not commonly used. However it is imcluded in OOMP due to it being a part in the SEEED OPL. For a more commonly used through hole button we recommend (BUTA-06-X-STAN-01)</oompAbout>
         <ooProjectName1></ooProjectName1>

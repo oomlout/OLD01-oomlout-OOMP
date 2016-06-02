@@ -111,7 +111,8 @@
 				<oplFootprint>SMD 3P-3.20X1.30X1.0mm</oplFootprint>
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=709]]></oplLink>
-			</oplSystem>			<oplSystem>
+			</oplSystem>			
+			<oplSystem>
 				<oplScheme>Octopart CPL</oplScheme>
 				<oplCode>C-OCTO</oplCode>
 				<oplName>16 MHz Ceramic Resonator</oplName>
@@ -119,15 +120,8 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://octopart.com/common-parts-library#CrystalOscillators]]></oplLink>
-			</oplSystem>			<oplSystem>
-				<oplScheme>Oopen Organization Method for Parts</oplScheme>
-				<oplCode>C-OOMP</oplCode>
-				<oplName>SMD (1206-3) 16 MHz Ceramic Resonator</oplName>
-				<oplID>CERE-1263-X-MZ16-01</oplID>
-				<oplFootprint>1263</oplFootprint>
-				<oplPackage>1263</oplPackage>
-				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/CERE-1263-X-MZ16-01]]></oplLink>
-			</oplSystem>
+			</oplSystem>			
+			
 			
 		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>

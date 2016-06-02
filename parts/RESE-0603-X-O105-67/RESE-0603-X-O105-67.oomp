@@ -137,7 +137,8 @@
 				<oplFootprint>0603</oplFootprint>
 				<oplPackage>0603</oplPackage>
 				<oplLink><![CDATA[https://circuithub.com/parts/YAGEO2/RC0603FR-071ML]]></oplLink>
-			</oplSystem>			<oplSystem>
+			</oplSystem>			
+			<oplSystem>
 				<oplScheme>Octopart CPL</oplScheme>
 				<oplCode>C-OCTO</oplCode>
 				<oplName>Resistor 1 MO +-1% 0603 100 mW</oplName>
@@ -145,15 +146,7 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://octopart.com/common-parts-library#Resistors]]></oplLink>
-			</oplSystem>			<oplSystem>
-				<oplScheme>Oopen Organization Method for Parts</oplScheme>
-				<oplCode>C-OOMP</oplCode>
-				<oplName>SMD (0603) 1M Ohm Resistor</oplName>
-				<oplID>RESE-0603-X-O105-01</oplID>
-				<oplFootprint>0603</oplFootprint>
-				<oplPackage>0603</oplPackage>
-				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/RESE-0603-X-O105-01]]></oplLink>
-			</oplSystem>
+			</oplSystem>	
 			
 			<oplSystem>
 				<oplScheme>Seeed Studio OPL</oplScheme>

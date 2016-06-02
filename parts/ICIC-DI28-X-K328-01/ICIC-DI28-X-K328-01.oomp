@@ -148,7 +148,8 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://circuithub.com/parts/ATMEL/ATMEGA328P-PU]]></oplLink>
-			</oplSystem>			<oplSystem>
+			</oplSystem>			
+			<oplSystem>
 				<oplScheme>Octopart CPL</oplScheme>
 				<oplCode>C-OCTO</oplCode>
 				<oplName>ATmega328 - DIP</oplName>
@@ -156,14 +157,6 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://octopart.com/common-parts-library#Microcontrollers]]></oplLink>
-			</oplSystem>			<oplSystem>
-				<oplScheme>Oopen Organization Method for Parts</oplScheme>
-				<oplCode>C-OOMP</oplCode>
-				<oplName>28 Pin DIP AtMega328P</oplName>
-				<oplID>ICIC-DI28-X-K328-01</oplID>
-				<oplFootprint>DI28</oplFootprint>
-				<oplPackage>DI28</oplPackage>
-				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/]]></oplLink>
 			</oplSystem>
 			
 			<oplSystem>

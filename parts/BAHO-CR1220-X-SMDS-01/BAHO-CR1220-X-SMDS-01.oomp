@@ -52,16 +52,7 @@
 		</sourceList>
 		
 <com>OPL</com>		
-		<oplList>		
-		<oplSystem>
-				<oplScheme>Oopen Organization Method for Parts</oplScheme>
-				<oplCode>C-OOMP</oplCode>
-				<oplName>CR1220 SMD Battery Holder</oplName>
-				<oplID>BAHO-CR1220-X-SMDS-01</oplID>
-				<oplFootprint>BAHO-CR1220-X-SMDS-01</oplFootprint>
-				<oplPackage>BAHO-CR1220-X-SMDS-01</oplPackage>
-				<oplLink><![CDATA[http://learn.oomlout.co.uk/OO/Projects/oomp/part/BAHO-CR1220-X-SMDS-01]]></oplLink>
-			</oplSystem>
+		<oplList>	
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
