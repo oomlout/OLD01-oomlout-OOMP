@@ -1,0 +1,134 @@
+﻿<xml>
+
+    <oompProject>
+        <index>0020</index>
+
+<!--OOMP Base -->
+        <oompID>POLC-4988-01</oompID>
+        <name>A4988 Breakout Board</name>
+        <hexID>A4988B</hexID>
+        <oompSort></oompSort>
+        <oompVersion>01</oompVersion>
+		<oompAbout>A breakout board for the A4988 Stepper driver chip.</oompAbout>
+		<oompOfficialLink>http://oom.lt/A4988B</oompOfficialLink>
+
+		
+<!--About -->
+		<company>Pololu</company>
+		<companyCode>C-POLO</companyCode>
+			
+<!--Size -->
+        <ooWidth></ooWidth>
+        <ooHeight></ooHeight>
+        <ooDiameter></ooDiameter>
+        <ooLength></ooLength>
+        <ooDepth></ooDepth>
+
+<!-- Details -->
+		<numComponents></numComponents>
+		<numUniqueComponents></numUniqueComponents>
+		
+<!-- Source Files -->		
+		<sourceFileList>
+			<source>
+				<sourceIndex></sourceIndex>
+				<sourceType></sourceType>
+				<sourceFormat></sourceFormat>
+				<sourceNote></sourceNote>
+				<sourceLink></sourceLink>
+			</source>
+		</sourceFileList>
+
+<COM>Common Uses</COM>		
+		<componentList>
+
+			<component>
+				<compIndex>1,2,3,4,14, 15</compIndex>
+				<compIden>C1, C2, C4, C5, C6,C7</compIden>
+				<compID>CAPC-0603-X-NF100-01</compID>
+				<compWhy></compWhy>
+				<compDesc>(Guessed at values)</compDesc>
+			</component>
+
+			<component>
+				<compIndex>5</compIndex>
+				<compIden>C3, C2, C4, C5, C6</compIden>
+				<compID>CAPC-0805-X-UF47D-01</compID>
+				<compWhy></compWhy>
+				<compDesc>(guessed value and wrong size)</compDesc>
+			</component>			
+		
+			<component>
+				<compIndex>6,7</compIndex>
+				<compIden>S1, S2</compIden>
+				<compID>RESE-0603-X-O100-01</compID>
+				<compWhy></compWhy>
+				<compDesc>(wrong size)</compDesc>
+			</component>			
+				
+			<component>
+				<compIndex>8</compIndex>
+				<compIden>R1</compIden>
+				<compID>RESE-0603-X-O000-01</compID>
+				<compWhy></compWhy>
+				<compDesc>(wrong value)</compDesc>
+			</component>			
+				
+			<component>
+				<compIndex>9,10</compIndex>
+				<compIden>R2, R3</compIden>
+				<compID>RESE-0603-X-O104-01</compID>
+				<compWhy></compWhy>
+				<compDesc>(wrong size)</compDesc>
+			</component>			
+			
+			<component>
+				<compIndex>11</compIndex>
+				<compIden>R4</compIden>
+				<compID>RESE-0603-X-O000-01</compID>
+				<compWhy></compWhy>
+				<compDesc>(wrong size)</compDesc>
+			</component>			
+			
+			
+			<component>
+				<compIndex>12</compIndex>
+				<compIden>U1</compIden>
+				<compID>ICIC-QFN32-X-K4988-01</compID>
+				<compWhy></compWhy>
+				<compDesc>(not in OOMP yet)</compDesc>
+			</component>			
+				
+			<component>
+				<compIndex>13</compIndex>
+				<compIden>VR1</compIden>
+				<compID>POTE-XXXX-X-OXXX-01</compID>
+				<compWhy></compWhy>
+				<compDesc>(not in OOMP yet)</compDesc>
+			</component>			
+			
+			
+		
+		</componentList>
+		<sourceList>
+			<manufacturer>
+				<company>Pololu</company>
+				<companyCode>C-POLO</companyCode>
+				<name></name>
+				<partID></partID>
+				<link>https://www.pololu.com/product/1182</link>
+				<note></note>			
+			</manufacturer>
+			<bigDistributor>
+				<company>Pololu</company>
+				<companyCode>C-POLO</companyCode>
+				<name>A4988 Stepper Motor Driver Carrier</name>
+				<partID>1182</partID>
+				<link><![CDATA[https://www.pololu.com/product/1182]]></link>
+				<note></note>
+			</bigDistributor>
+
+		</sourceList>
+		
+</oompProject>
+</xml>

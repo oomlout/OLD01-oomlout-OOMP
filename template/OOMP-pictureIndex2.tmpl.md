@@ -6,7 +6,7 @@ Below is a list of OOMP Parts, organized by type.
 @@oompIndexNavigation,oompBasic.type,value@@   
 
 ::::
-^^0,33,%%U%%^^
+^^34,100,%%U%%^^
 ==%%U%%,oompType.code,code==
 !!%%U%%,oompType.code,code!! - !!%%U%%,oompType.code,name!!~~
 --------------------------------------------------------------   ~~

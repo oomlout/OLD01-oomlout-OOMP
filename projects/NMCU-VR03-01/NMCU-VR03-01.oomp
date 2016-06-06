@@ -1,0 +1,167 @@
+﻿<xml>
+
+    <oompProject>
+        <index>0020</index>
+
+<!--OOMP Base -->
+        <oompID>NMCU-VR03-01</oompID>
+        <name>Node MCU DevKit V3</name>
+        <hexID>NMCU3</hexID>
+        <oompSort></oompSort>
+        <oompVersion>01</oompVersion>
+		<oompAbout>An open source development kit for working with the NODE MCU (esp8266) module.</oompAbout>
+		<oompOfficialLink>http://oom.lt/NMCU3</oompOfficialLink>
+
+		
+<!--About -->
+		<company>Node MCU</company>
+		<companyCode>C-NMCU</companyCode>
+			
+<!--Size -->
+        <ooWidth></ooWidth>
+        <ooHeight></ooHeight>
+        <ooDiameter></ooDiameter>
+        <ooLength></ooLength>
+        <ooDepth></ooDepth>
+
+<!-- Details -->
+		<numComponents></numComponents>
+		<numUniqueComponents></numUniqueComponents>
+		
+<!-- Source Files -->		
+		<sourceFileList>
+			<source>
+				<sourceIndex></sourceIndex>
+				<sourceType></sourceType>
+				<sourceFormat></sourceFormat>
+				<sourceNote></sourceNote>
+				<sourceLink></sourceLink>
+			</source>
+		</sourceFileList>
+
+<COM>Common Uses</COM>		
+		<componentList>
+		<component>
+				<compIndex>1,2,3,4,5,6,7,8,9,10,11,12,13</compIndex>
+				<compIden>R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13</compIden>
+				<compID>RESE-0402-X-O102-01</compID>
+				<compWhy></compWhy>
+				<compDesc>(need to confirm values)</compDesc>
+			</component>
+
+		<component>
+				<compIndex>14,15</compIndex>
+				<compIden>Q1,Q2</compIden>
+				<compID>TRNN-SO23-X-A05D-01</compID>
+				<compWhy></compWhy>
+				<compDesc></compDesc>
+			</component>
+			
+		<component>
+				<compIndex>16</compIndex>
+				<compIden>U2</compIden>
+				<compID>VREG-SO223-X-V33D-A1</compID>
+				<compWhy></compWhy>
+				<compDesc></compDesc>
+			</component>
+		<component>
+				<compIndex>17,18,19</compIndex>
+				<compIden>C1,C2,C3</compIden>
+				<compID>CAPC-0402-X-NF1-01</compID>
+				<compWhy></compWhy>
+				<compDesc>(need to confirm value)</compDesc>
+			</component>
+		<component>
+				<compIndex>20,21,22</compIndex>
+				<compIden>C4,C5,C6</compIden>
+				<compID>CAPC-0402-X-NF10-01</compID>
+				<compWhy></compWhy>
+				<compDesc>(need to confirm value)</compDesc>
+			</component>
+		<component>
+				<compIndex>23</compIndex>
+				<compIden>D1</compIden>
+				<compID>LEDS-0603-L-STAN-01</compID>
+				<compWhy></compWhy>
+				<compDesc></compDesc>
+		</component>
+		<component>
+				<compIndex>24</compIndex>
+				<compIden>U1</compIden>
+				<compID>MODU-XXXX-X-K8266-01</compID>
+				<compWhy></compWhy>
+				<compDesc>(Not yet added)</compDesc>
+		</component>
+			
+		<component>
+				<compIndex>25</compIndex>
+				<compIden>U3</compIden>
+				<compID>ICIC-MLP28-X-K2102-01</compID>
+				<compWhy></compWhy>
+				<compDesc>(Not yet added)</compDesc>
+		</component>
+		<component>
+				<compIndex>26,27</compIndex>
+				<compIden>S1,S2</compIden>
+				<compID>BUTA-XXXX-X-02PI-01</compID>
+				<compWhy></compWhy>
+				<compDesc>(Not yet added)</compDesc>
+		</component>
+		<component>
+				<compIndex>28</compIndex>
+				<compIden>D2</compIden>
+				<compID>DIOD-XXXX-X-XXXX-01</compID>
+				<compWhy></compWhy>
+				<compDesc>(Not yet added package marking S4)</compDesc>
+		</component>
+		
+		<component>
+				<compIndex>29</compIndex>
+				<compIden>C7</compIden>
+				<compID>CAPT-0805-X-UF10-VH</compID>
+				<compWhy></compWhy>
+				<compDesc>(Not yet added package marking 106J)</compDesc>
+		</component>
+		
+		<component>
+				<compIndex>30</compIndex>
+				<compIden>C8</compIden>
+				<compID>CAPT-1210-X-UF100-VH</compID>
+				<compWhy></compWhy>
+				<compDesc>(Not yet added package marking 107J)</compDesc>
+		</component>
+		<component>
+				<compIndex>31</compIndex>
+				<compIden>C8</compIden>
+				<compID>USBS-MC-X-SMDS-XX</compID>
+				<compWhy></compWhy>
+				<compDesc>(Not yet added)</compDesc>
+		</component>
+		
+		
+		
+			
+		
+		</componentList>
+		<sourceList>
+			<manufacturer>
+				<company>Node MCU</company>
+				<companyCode>C-NMCU</companyCode>
+				<name></name>
+				<partID></partID>
+				<link>http://nodemcu.com/index_en.html#fr_54747661d775ef1a3600009e</link>
+				<note></note>			
+			</manufacturer>
+			<bigDistributor>
+				<company>SEEED</company>
+				<companyCode>C-SEED</companyCode>
+				<name>Shennie Arduino Compatible</name>
+				<partID>ARDC-SHEN-01</partID>
+				<link><![CDATA[http://www.seeedstudio.com/item_detail.html?p_id=2415]]></link>
+				<note></note>
+			</bigDistributor>
+
+		</sourceList>
+		
+</oompProject>
+</xml>
