@@ -18,15 +18,15 @@
 		<companyCode>C-POLO</companyCode>
 			
 <!--Size -->
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
+        <ooWidth>15.24 mm</ooWidth>
+        <ooHeight>20.32 mm</ooHeight>
         <ooDiameter></ooDiameter>
         <ooLength></ooLength>
         <ooDepth></ooDepth>
 
 <!-- Details -->
-		<numComponents></numComponents>
-		<numUniqueComponents></numUniqueComponents>
+		<numComponents>19</numComponents>
+		<numUniqueComponents>8</numUniqueComponents>
 		
 <!-- Source Files -->		
 		<sourceFileList>
@@ -43,7 +43,7 @@
 		<componentList>
 
 			<component>
-				<compIndex>1,2,3,4,14, 15</compIndex>
+				<compIndex>1,2,3,4,14,15</compIndex>
 				<compIden>C1, C2, C4, C5, C6,C7</compIden>
 				<compID>CAPC-0603-X-NF100-01</compID>
 				<compWhy></compWhy>
