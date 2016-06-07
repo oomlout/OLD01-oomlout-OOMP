@@ -1,9 +1,9 @@
 ## OOMP -- Template for a picture index
 OOMP Index    
 =========================   
-Below is a list of OOMP Parts, organized by type.   
+Below is a list of OOMP Parts (N-Z), organized by type. You can find [(A-M) here](https://github.com/oomlout/oomlout-OOMP/wiki/pictureIndex)
 
-@@oompIndexNavigation,oompBasic.type,value@@   
+@@oompIndexNavigation2,oompBasic.type,value@@   
 
 ::::
 ^^34,100,%%U%%^^
@@ -17,5 +17,5 @@ Below is a list of OOMP Parts, organized by type.
 ""~~
 ""~~
 ;;;;
-
+Above is a list of OOMP Parts (N-Z), organized by type. You can find [(A-M) here](https://github.com/oomlout/oomlout-OOMP/wiki/pictureIndex)
 @@bottomText,oompBasic.type,value@@   
