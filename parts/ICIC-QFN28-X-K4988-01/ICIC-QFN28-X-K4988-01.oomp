@@ -1,0 +1,222 @@
+<xml>
+    <oompPart>
+
+<com>OOMP Base</com>
+        <oompID>ICIC-QFN28-X-K4988-01</oompID>
+        <name>28 Pin SMD (QFN) Stepper Motor Driver (A4988)</name>
+
+        <hexID>IC4988</hexID>
+        <oompSort></oompSort>
+
+		<oompClass></oompClass>
+		<oompClassCode></oompClassCode>		
+		
+        <oompType>ICIC</oompType>
+        <oompSize>QFN28</oompSize>
+        <oompColor>X</oompColor>
+        <oompDesc>K4988</oompDesc>
+        <oompIndex>01</oompIndex>
+
+        <oompVersion>98</oompVersion>
+
+
+		
+		
+<com>Size</com>
+        <ooPitch></ooPitch>
+        <ooWidth></ooWidth>
+        <ooHeight></ooHeight>
+        <ooDiameter></ooDiameter>
+        <ooLength></ooLength>
+        <ooDepth></ooDepth>
+
+<com>Description</com>
+        <ooNumPins>28</ooNumPins>
+        <ooPowerRating></ooPowerRating>
+
+
+<com>Maximums</com>
+        <ooMaxCurrent></ooMaxCurrent>
+        <ooMaxVoltage></ooMaxVoltage>
+        <ooLifetime></ooLifetime>
+        <ooTolerance></ooTolerance>
+
+
+<com>Source List</com>		
+		<sourceList>
+			<manufacturer>
+				<company>Allegro</company>
+				<companyCode>C-ALLE</companyCode>
+				<name></name>
+				<partID>A4988</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+				
+			<bigDistributor>
+				<company>Digikey</company>
+				<companyCode>C-DIGK</companyCode>
+				<name></name>
+				<partID>620-1343-1-ND</partID>
+				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/allegro-microsystems-llc/A4988SETTR-T/620-1343-1-ND/2238004]]></link>
+				<note></note>
+			</bigDistributor>					
+
+			<bigDistributor>
+				<company>Farnell</company>
+				<companyCode>C-FARN</companyCode>
+				<name></name>
+				<partID>2057418</partID>
+				<link><![CDATA[http://uk.farnell.com/allegro-microsystems/a4988settr-t/motor-driver-stepper-2a-qfn-28/dp/2057418]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company>RS Electronics</company>
+				<companyCode>C-RSRS</companyCode>
+				<name></name>
+				<partID>724-8726</partID>
+				<link><![CDATA[http://uk.rs-online.com/web/p/motor-driver-ics/7248726/?searchTerm=A4988&relevancy-data=636F3D3226696E3D4931384E4B6E6F776E41734D504E266C753D656E266D6D3D6D61746368616C6C7061727469616C26706D3D5E5B5C707B4C7D5C707B4E647D2D2C2F255C2E5D2B2426706F3D313326736E3D592673743D4D414E5F504152545F4E554D4245522677633D424F5448267573743D4134393838267374613D413439383826]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>					
+		</sourceList>
+		
+<com>OPL</com>		
+		<oplList>
+			<oplSystem>
+				<oplScheme></oplScheme>
+				<oplCode></oplCode>
+				<oplName></oplName>
+				<oplID></oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme></oplScheme>
+				<oplCode></oplCode>
+				<oplName></oplName>
+				<oplID></oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme></oplScheme>
+				<oplCode></oplCode>
+				<oplName></oplName>
+				<oplID></oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[]]></oplLink>
+			</oplSystem>
+		</oplList>
+
+<com>Hidden</com>
+        <oompAbout></oompAbout>
+        <ooProjectName1></ooProjectName1>
+        <ooProjectDesc1></ooProjectDesc1>
+        <ooProjectLink1></ooProjectLink1>
+        <ooProjectType1></ooProjectType1>
+        <ooBuyName1></ooBuyName1>
+        <ooBuyDesc1></ooBuyDesc1>
+        <ooBuyLink1></ooBuyLink1>
+        <ooBuyType1></ooBuyType1>
+
+	<com>Footprint</com>
+		<footprintList>
+			<footprintSystem>
+				<footprintScheme>Eagle Default</footprintScheme>
+				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+		</footprintList>
+    </oompPart>	
+
+
+	<ooPin01>OUT2B</ooPin01>
+	<ooPin02>ENABLE</ooPin02>
+	<ooPin03>GND</ooPin03>
+	<ooPin04>CP1</ooPin04>
+	<ooPin05>CP2</ooPin05>
+	<ooPin06>VCP</ooPin06>
+	<ooPin07>NC</ooPin07>
+	
+	<ooPin08>VREG</ooPin08>
+	<ooPin09>MS1</ooPin09>
+	<ooPin10>MS2</ooPin10>
+	<ooPin11>MS3</ooPin11>
+	<ooPin12>RESET</ooPin12>
+	<ooPin13>ROSC</ooPin13>
+	<ooPin14>SLEEP</ooPin14>
+	
+	<ooPin15>VDD</ooPin15>
+	<ooPin16>STEP</ooPin16>
+	<ooPin17>REF</ooPin17>
+	<ooPin18>GND</ooPin18>
+	<ooPin19>DIR</ooPin19>
+	<ooPin20>NC</ooPin20>
+	<ooPin21>OUT1B</ooPin21>
+	
+	
+	<ooPin22>VBB1</ooPin22>
+	<ooPin23>SENSE1</ooPin23>
+	<ooPin24>OUT1A</ooPin24>
+	<ooPin25>NC</ooPin25>
+	<ooPin26>OUT2A</ooPin26>
+	<ooPin27>SENSE2</ooPin27>
+	<ooPin28>VBB2</ooPin28>
+	<ooPackageMarking>A4988</ooPackageMarking>
+	
+	
+	
+	<oompBbls>
+				<drawItem>template;ICIC-QFN28-X-XXXX-01-bbls</drawItem>		
+	</oompBbls>	
+	<oompDiag>
+				<drawItem>template;ICIC-QFN28-X-XXXX-01-diag</drawItem>	
+	</oompDiag>	
+	<oompIden>
+				<drawItem>template;ICIC-QFN28-X-XXXX-01-iden</drawItem>	
+	</oompIden>	
+	<oompSchem></oompSchem>	
+	<oompSimp>
+				<drawItem>template;ICIC-QFN28-X-XXXX-01-simp</drawItem>	
+	</oompSimp>	
+
+		<ooPackageMarking></ooPackageMarking>
+		<ooDesignator>U1</ooDesignator>
+</xml>

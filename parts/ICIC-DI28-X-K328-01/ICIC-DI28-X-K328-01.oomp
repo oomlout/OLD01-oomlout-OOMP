@@ -201,12 +201,12 @@
 		
 		<oompBbls></oompBbls>
 		<oompDiag>
-		<drawItem>template;ICIC-DI28-X-XXXX-01</drawItem>
+		<drawItem>template;ICIC-DI28-X-XXXX-01-diag</drawItem>
 		</oompDiag>
 	<oompIden></oompIden>
 	<oompSchem></oompSchem>
 	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+		<ooPackageMarking>ATMEGA328</ooPackageMarking>
 		<ooDesignator>U1</ooDesignator>
 </oompPart>
 </xml>

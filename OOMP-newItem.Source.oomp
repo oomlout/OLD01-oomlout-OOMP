@@ -6,112 +6,70 @@
 <oompVersion>98</oompVersion>
 
 <com>IMPORTANT ALL MUST BE FILLED</com>
-<oompType>VREG</oompType>
-<oompSize>SO235</oompSize>
-<oompColor>U</oompColor>
-<oompDesc>V33D</oompDesc>
-<oompIndex>AC</oompIndex>
-<oompSort>VREGSO235V33D</oompSort>
+<oompType>ICIC</oompType>
+<oompSize>QFN28</oompSize>
+<oompColor>X</oompColor>
+<oompDesc>K4988</oompDesc>
+<oompIndex>01</oompIndex>
+<oompSort></oompSort>
 
-<hexID>VS533</hexID>
+<hexID>IC4988</hexID>
 
 <oompClass></oompClass>
 <oompClassCode></oompClassCode>
 
 <com>Source List</com>
-<manufacturerCompany1>TI</manufacturerCompany1>
-<manufacturerCompanyCode1>C-TITI</manufacturerCompanyCode1>
-<manufacturerPartID1>LP2985-33DBVR</manufacturerPartID1>
+<manufacturerCompany1>Allegro</manufacturerCompany1>
+<manufacturerCompanyCode1>C-ALLE</manufacturerCompanyCode1>
+<manufacturerPartID1>A4988</manufacturerPartID1>
 
 <manufacturerCompany2></manufacturerCompany2>
 <manufacturerCompanyCode2></manufacturerCompanyCode2>
 <manufacturerPartID2></manufacturerPartID2>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<oplScheme1>SEEED OPL</oplScheme1>
-<oplCode1>C-SEEE</oplCode1>
-<oplName1>SMD IC PMIC;Vin 2.2V-16V;Vout 3.3V;Iout 150mA;With-EN</oplName1>
-<oplID1>310030033</oplID1>
-<oplFootprint1>SOT-23-5</oplFootprint1>
-<oplPackage1>SOT-23-5</oplPackage1>
-<oplLink1><![CDATA[http://www.seeedstudio.com/depot/s/310030033.html?search_in_description=0]]></oplLink1>
-
-
-<oplScheme1>Octopart CPL</oplScheme1>
-<oplCode1>C-OCTO</oplCode1>
-<oplName1>Low Power Linear Voltage Regulator</oplName1>
-<oplID1>CPL-REG-LIN-3.3V-0.15A</oplID1>
+<oplScheme1></oplScheme1>
+<oplCode1></oplCode1>
+<oplName1></oplName1>
+<oplID1></oplID1>
 <oplFootprint1></oplFootprint1>
 <oplPackage1></oplPackage1>
-<oplLink1>https://octopart.com/common-parts-library</oplLink1>
+<oplLink1></oplLink1>
 
 
-<oplScheme2>Circuithub.com</oplScheme2>
-<oplCode2>C-CIRC</oplCode2>
-<oplName2>TI/LP2985-33DBVR</oplName2>
-<oplID2>TI/LP2985-33DBVR</oplID2>
-<oplFootprint2>SOT-23</oplFootprint2>
-<oplPackage2>SOT-23</oplPackage2>
-<oplLink2>https://circuithub.com/parts/TI/LP2985-33DBVR</oplLink2>
+<oplScheme1></oplScheme1>
+<oplCode1></oplCode1>
+<oplName1></oplName1>
+<oplID1></oplID1>
+<oplFootprint1></oplFootprint1>
+<oplPackage1></oplPackage1>
+<oplLink1></oplLink1>
 
 
-
-
-
-
-
-
-
-
-
-
+<oplScheme2></oplScheme2>
+<oplCode2></oplCode2>
+<oplName2></oplName2>
+<oplID2></oplID2>
+<oplFootprint2></oplFootprint2>
+<oplPackage2></oplPackage2>
+<oplLink2></oplLink2>
 
 
 
 
 
-<ooNumPins>5</ooNumPins>
+
+
+
+
+
+
+
+
+
+
+
+
+<ooNumPins>28</ooNumPins>
 <ooPitch></ooPitch>
 <ooWidth></ooWidth>
 <ooHeight></ooHeight>
@@ -127,39 +85,20 @@
 
 <bigDistributorCompanyCode1>C-DIGK</bigDistributorCompanyCode1>
 <bigDistributorCompany1>Digikey</bigDistributorCompany1>
-<bigDistributorPartID1>296-18476-1-ND</bigDistributorPartID1>
-<bigDistributorLink1>http://www.digikey.com/product-search/en?keywords=296-18476-1-ND</bigDistributorLink1>
+<bigDistributorPartID1>620-1343-1-ND</bigDistributorPartID1>
+<bigDistributorLink1>http://www.digikey.co.uk/product-detail/en/allegro-microsystems-llc/A4988SETTR-T/620-1343-1-ND/2238004</bigDistributorLink1>
 
 
-<bigDistributorCompanyCode2>C-MOUS</bigDistributorCompanyCode2>
-<bigDistributorCompany2>Mouser</bigDistributorCompany2>
-<bigDistributorPartID2>595-LP2985-33DBVR</bigDistributorPartID2>
-<bigDistributorLink2>http://www.mouser.co.uk/Search/Refine.aspx?Keyword=595-LP2985-33DBVR</bigDistributorLink2>
+<bigDistributorCompanyCode2>C-FARN</bigDistributorCompanyCode2>
+<bigDistributorCompany2>Farnell</bigDistributorCompany2>
+<bigDistributorPartID2>2057418</bigDistributorPartID2>
+<bigDistributorLink2><![CDATA[http://uk.farnell.com/allegro-microsystems/a4988settr-t/motor-driver-stepper-2a-qfn-28/dp/2057418]]></bigDistributorLink2>
 
 
-<bigDistributorCompanyCode3>C-FARN</bigDistributorCompanyCode3>
-<bigDistributorCompany3>Farnell</bigDistributorCompany3>
-<bigDistributorPartID3>2395925</bigDistributorPartID3>
-<bigDistributorLink3><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=2395925]]></bigDistributorLink3>
-
-
-<bigDistributorCompanyCode4>C-RSRS</bigDistributorCompanyCode4>
-<bigDistributorCompany4>RS Electronics</bigDistributorCompany4>
-<bigDistributorPartID4>660-6733</bigDistributorPartID4>
-<bigDistributorLink4><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=660-6733]]></bigDistributorLink4>
-
-
-<bigDistributorCompanyCode99>C-RAPI</bigDistributorCompanyCode99>
-<bigDistributorCompany99>Rapid Electronics</bigDistributorCompany99>
-<bigDistributorPartID99></bigDistributorPartID99>
-<bigDistributorLink99><![CDATA[http://www.rapidonline.com/Search?query=&filterSearchScope=1]]></bigDistributorLink99>
-
-
-<bigDistributorCompanyCode5>C-SEEE</bigDistributorCompanyCode5>
-<bigDistributorCompany5>SEEED Studio</bigDistributorCompany5>
-<bigDistributorPartID5>310030033</bigDistributorPartID5>
-<bigDistributorLink5><![CDATA[http://www.seeedstudio.com/depot/s/310030033.html?search_in_description=0]]></bigDistributorLink5>
-<bigDistributorName5>SMD IC PMIC;Vin 2.2V-16V;Vout 3.3V;Iout 150mA;With-EN</bigDistributorName5>
+<bigDistributorCompanyCode3>C-RSRS</bigDistributorCompanyCode3>
+<bigDistributorCompany3>RS Electronics</bigDistributorCompany3>
+<bigDistributorPartID3>724-8726</bigDistributorPartID3>
+<bigDistributorLink3><![CDATA[http://uk.rs-online.com/web/p/motor-driver-ics/7248726/?searchTerm=A4988&relevancy-data=636F3D3226696E3D4931384E4B6E6F776E41734D504E266C753D656E266D6D3D6D61746368616C6C7061727469616C26706D3D5E5B5C707B4C7D5C707B4E647D2D2C2F255C2E5D2B2426706F3D313326736E3D592673743D4D414E5F504152545F4E554D4245522677633D424F5448267573743D4134393838267374613D413439383826]]></bigDistributorLink3>
 
 <oompBBLS></oompBBLS>
 <oompDIAG></oompDIAG>
