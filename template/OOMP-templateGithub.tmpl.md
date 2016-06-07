@@ -18,12 +18,13 @@ Short URL: __http://oom.lt/@@%%ID%%,oompPart.oompID,hexID@@__
 | @2@1%%ID%%,oompPart.oompID,oompType@1,oompType.code,name@2		| @2@1%%ID%%,oompPart.oompID,oompSize@1,oompSize.code,name@2	| @2@1%%ID%%,oompPart.oompID,oompColor@1,oompColor.code,name@2		| @2@1%%ID%%,oompPart.oompID,oompDesc@1,oompDesc.code,name@2	| @2@1%%ID%%,oompPart.oompID,oompIndex@1,oompIndex.code,name@2	|    
 $$%%ID%%.jpg$$Images
 $$%%ID%%.jpg$$--------------------------------------------  
-$$%%ID%%.jpg$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/%%ID%%/%%ID%%_140.jpg|alt=%%ID%%]] 
-$$%%ID%%_RE.jpg$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/%%ID%%/%%ID%%_RE_140.jpg|alt=%%ID%%]]
-$$%%ID%%_BOTTOM.jpg$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/%%ID%%/%%ID%%_BOTTOM_140.jpg|alt=%%ID%%]]
-$$%%ID%%_01.jpg$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/%%ID%/%%ID%%_01_140.jpg|alt=%%ID%%]]
-$$%%ID%%_02.jpg$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/%%ID%%/%%ID%%_02_140.jpg|alt=%%ID%%]]
-$$%%ID%%_ISO.jpg$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/%%ID%%/%%ID%%_ISO_140.jpg|alt=%%ID%%]]      
+$$%%ID%%.jpg$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/%%ID%%/%%ID%%_140.jpg|alt=%%ID%%]][__MAIN__](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/%%ID%%/%%ID%%.jpg)
+$$%%ID%%_RE.jpg$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/%%ID%%/%%ID%%_RE_140.jpg|alt=%%ID%%]][__RE__](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/%%ID%%/%%ID%%_RE.jpg)
+$$%%ID%%_TOP.jpg$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/%%ID%%/%%ID%%_TOP_140.jpg|alt=%%ID%%]][__TOP__](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/%%ID%%/%%ID%%_TOP.jpg)
+$$%%ID%%_BOTTOM.jpg$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/%%ID%%/%%ID%%_BOTTOM_140.jpg|alt=%%ID%%]][__BOTTOM__](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/%%ID%%/%%ID%%_BOTTOM.jpg)
+$$%%ID%%_01.jpg$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/%%ID%/%%ID%%_01_140.jpg|alt=%%ID%%]][__EXTRA 1__](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/%%ID%%/%%ID%%_01.jpg)
+$$%%ID%%_02.jpg$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/%%ID%%/%%ID%%_02_140.jpg|alt=%%ID%%]][__EXTRA 2__](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/%%ID%%/%%ID%%_02.jpg)
+$$%%ID%%_ISO.jpg$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/%%ID%%/%%ID%%_ISO_140.jpg|alt=%%ID%%]][__3D__](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/%%ID%%/%%ID%%_ISO.png)
 **%%ID%%,oompPart.oompID,oompAbout**About     
 **%%ID%%,oompPart.oompID,oompAbout**---------------------------------  
 **%%ID%%,oompPart.oompID,oompAbout**@@%%ID%%,oompPart.oompID,oompAbout@@     
