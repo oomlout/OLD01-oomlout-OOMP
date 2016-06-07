@@ -13,13 +13,14 @@ Short URL: __http://oom.lt/@@%%ID%%,oompProject.oompID,hexID@@__<br>
 Revision History: __[Github](https://github.com/oomlout/oomlout-OOMP/master/projects/%%ID%%)__<br>
 Images
 -------------------------
-$$%%ID%%.jpg$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%_140.jpg]]
-$$%%ID%%_RE.jpg$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%_RE_140.jpg]]
-$$%%ID%%_BOTTOM.jpg$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%_BOTTOM_140.jpg]]
-$$%%ID%%_TOP.jpg$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%_TOP_140.jpg]]
-$$%%ID%%_01.jpg$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%_01_140.jpg]]
-$$%%ID%%_02.jpg$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%_02_140.jpg]]
-$$%%ID%%_ISO.png$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%_ISO_140.png]]  
+$$%%ID%%.jpg$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%_140.jpg]] [__MAIN__](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%.jpg)
+$$%%ID%%_RE.jpg$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%_RE_140.jpg]][__RE__](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%_RE.jpg)
+$$%%ID%%_BOTTOM.jpg$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%_BOTTOM_140.jpg]][__BOTTOM__](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%_BOTTOM.jpg)
+$$%%ID%%_TOP.jpg$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%_TOP_140.jpg]][__TOP__](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%_TOP.jpg)
+$$%%ID%%_01.jpg$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%_01_140.jpg]][__EXTRA 1__](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%_01.jpg)
+$$%%ID%%_02.jpg$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%_02_140.jpg]][__EXTRA 2__](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%_02.jpg)
+$$%%ID%%_ISO.png$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%_ISO_140.png]][__3D__](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%_ISO.png)    
+[High Resolution(Flickr)](https://www.flickr.com/search/?w=33504192@N00&q=%%ID%%)
 
 About    
 ---------------------
@@ -37,22 +38,22 @@ Specifications
 | !!%%U%%,oompTag.tagName,tagReadable!! | __@@%%ID%%,oompProject.oompID,!!%%U%%,oompTag.tagName,tagName!!@@__|>>~~
 ;;;;
 
-Diagram
--------------------------------------
-[[https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-diag_420.png]]    
-__[(svg)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-diag.svg)__ &nbsp; __[(cdr)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-diag.cdr)__ &nbsp; __[(png)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-diag.png)__ &nbsp; __[(pdf)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-diag_S.pdf)__       
+$$%%ID%%-diag.cdr$$Diagram
+$$%%ID%%-diag.cdr$$-------------------------------------
+$$%%ID%%-diag.cdr$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-diag_420.png]]    
+$$%%ID%%-diag.cdr$$__[(svg)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-diag.svg)__ &nbsp; __[(cdr)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-diag.cdr)__ &nbsp; $$%%ID%%-diag.cdr$$__[(png)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-diag.png)__ &nbsp; __[(pdf)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-diag_S.pdf)__       
 
 Parts   
 --------------------------------
-[[https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-iden_420.png]]  
-__[(svg)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-iden.svg)__ &nbsp; __[(cdr)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-iden.cdr)__ &nbsp; __[(png)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-iden.png)__ &nbsp; __[(pdf)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-iden_S.pdf)__       
+$$%%ID%%-iden.cdr$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-iden_420.png]]  
+$$%%ID%%-iden.cdr$$__[(svg)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-iden.svg)__ &nbsp; __[(cdr)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-iden.cdr)__ &nbsp; $$%%ID%%-iden.cdr$$__[(png)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-iden.png)__ &nbsp; __[(pdf)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-iden_S.pdf)__       
 
 | __Image__ | __Iden-<br>tifier__ | __OOMP ID__ | __Name__ | __Purpose__ |
 | -------- | ------------------- | ----------- | -------- | ----------- |
 ::::
 ^^0,200,%%T%%^^
 **%%ID%%,oompProject.oompID,componentList.component.compIndex&&%%T%%&&**
-| @@%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@@_140.jpg]] | @@%%ID%%,oompProject.oompID,componentList.component.compIden&&%%T%%&&@@,&nbsp; | [@@%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@@<br>__@3@2%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@2,oompPart.oompID,hexID@3](https://github.com/oomlout/oomlout-OOMP/wiki/@@%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@@__) | [@3@2%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@2,oompPart.oompID,name@3](https://github.com/oomlout/oomlout-OOMP/wiki/@@%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@@) | @@%%ID%%,oompProject.oompID,componentList.component.compWhy&&%%T%%&&@@|~~
+| [[https://github.com/oomlout/oomlout-OOMP/blob/master/parts/@@%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@@/@@%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@@_140.jpg]] | @@%%ID%%,oompProject.oompID,componentList.component.compIden&&%%T%%&&@@,&nbsp; | [@@%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@@<br>__@3@2%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@2,oompPart.oompID,hexID@3](https://github.com/oomlout/oomlout-OOMP/wiki/@@%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@@__) | [@3@2%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@2,oompPart.oompID,name@3](https://github.com/oomlout/oomlout-OOMP/wiki/@@%%ID%%,oompProject.oompID,componentList.component.compID&&%%T%%&&@@) | @@%%ID%%,oompProject.oompID,componentList.component.compWhy&&%%T%%&&@@|~~
 
 ;;;;
 
