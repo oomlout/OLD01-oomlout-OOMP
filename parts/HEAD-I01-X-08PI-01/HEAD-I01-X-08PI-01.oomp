@@ -75,11 +75,21 @@
         <ooBuyDesc1></ooBuyDesc1>
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>	
-    	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem></oompSchem>
-	<oompSimp></oompSimp>
+<oompBbls>
+		<drawItem>template;HEAD-I01-X-08PI-XX-bbls</drawItem>
+	</oompBbls>
+	<oompDiag>
+		<drawItem>template;HEAD-I01-X-08PI-XX-diag</drawItem>
+	</oompDiag>
+		<oompIden>
+		<drawItem>template;HEAD-I01-X-08PI-XX-iden</drawItem>
+		</oompIden>		
+	<oompSchem>
+		
+	</oompSchem>
+	<oompSimp>
+		<drawItem>template;HEAD-I01-X-08PI-XX-simp</drawItem>
+	</oompSimp>
 		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>J1</ooDesignator>
 </oompPart>	

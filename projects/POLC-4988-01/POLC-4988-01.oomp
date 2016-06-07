@@ -52,7 +52,7 @@
 
 			<component>
 				<compIndex>5</compIndex>
-				<compIden>C3, C2, C4, C5, C6</compIden>
+				<compIden>C3</compIden>
 				<compID>CAPC-0805-X-UF47D-01</compID>
 				<compWhy></compWhy>
 				<compDesc>(guessed value and wrong size)</compDesc>
@@ -61,9 +61,9 @@
 			<component>
 				<compIndex>6,7</compIndex>
 				<compIden>S1, S2</compIden>
-				<compID>RESE-0603-X-O100-01</compID>
-				<compWhy></compWhy>
-				<compDesc>(wrong size)</compDesc>
+				<compID>RESE-0805-X-O001D-01</compID>
+				<compWhy>Current sense resistor.</compWhy>
+				<compDesc>Used to sense the current goign through each coil and control it actively.</compDesc>
 			</component>			
 				
 			<component>
@@ -105,6 +105,13 @@
 				<compID>POTE-XXXX-X-OXXX-01</compID>
 				<compWhy></compWhy>
 				<compDesc>(not in OOMP yet)</compDesc>
+			</component>				
+			<component>
+				<compIndex>14,15</compIndex>
+				<compIden>J1,J2</compIden>
+				<compID>HEAD-I01-X-08PI-01</compID>
+				<compWhy></compWhy>
+				<compDesc></compDesc>
 			</component>			
 			
 			
