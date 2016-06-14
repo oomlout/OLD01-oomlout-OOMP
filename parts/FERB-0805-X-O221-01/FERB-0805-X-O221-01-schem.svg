@@ -63,12 +63,14 @@ viewBox="0 0 210 297"
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <polygon class="fil0" points="-10,287 10,287 10,307 -10,307 "/>
-  <polyline class="fil1 str0" points="-10,297 10,297 7.4999,297 "/>
-  <rect class="fil0 str1" transform="matrix(1.55699 -2.69678 1.30945 0.75601 -2.79902 298.848)" width="1.9268" height="1.9841"/>
-  <text x="-8.5068" y="291.025"  class="fil2 fnt0">SMD (0805) 220 OHM </text>
-  <text x="-5.6734" y="292.667"  class="fil2 fnt0">FERRITE BEAD</text>
-  <text x="-3.5787" y="302.336"  class="fil2 fnt1">oom.lt/</text>
-  <text x="0.636" y="302.336"  class="fil2 fnt2">F8221</text>
+  <g id="_333600064">
+   <polygon id="_330961576" class="fil0" points="-10,287 10,287 10,307 -10,307 "/>
+   <polyline id="_330964192" class="fil1 str0" points="-10,297 10,297 7.4999,297 "/>
+   <rect id="_330960544" class="fil0 str1" transform="matrix(1.55699 -2.69678 1.30945 0.75601 -2.79902 298.848)" width="1.9268" height="1.9841"/>
+   <text x="-8.5068" y="291.025" id="_330963808" class="fil2 fnt0">SMD (0805) 220 OHM </text>
+   <text x="-5.6734" y="292.667" id="_330963808" class="fil2 fnt0">FERRITE BEAD</text>
+   <text x="-3.5787" y="302.336" id="_333614920" class="fil2 fnt1">oom.lt/</text>
+   <text x="0.636" y="302.336" id="_333614920" class="fil2 fnt2">F8221</text>
+  </g>
  </g>
 </svg>

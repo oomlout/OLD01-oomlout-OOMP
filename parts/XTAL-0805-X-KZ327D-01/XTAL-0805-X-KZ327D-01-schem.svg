@@ -5,7 +5,7 @@
 viewBox="0 0 210 297"
  xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <font id="FontID1" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400,700">
+  <font id="FontID1" font-variant="normal" style="fill-rule:nonzero" font-weight="400,700">
 	<font-face 
 		font-family="DejaVu Sans Mono">
 	</font-face>
@@ -71,15 +71,17 @@ viewBox="0 0 210 297"
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <polygon class="fil0" points="-10,287 10,287 10,307 -10,307 "/>
-  <line class="fil1 str0" x1="-10" y1="297" x2="-3.5001" y2= "297" />
-  <line class="fil1 str0" x1="3.4999" y1="294.5" x2="3.4999" y2= "299.5" />
-  <line class="fil1 str0" x1="3.5" y1="297" x2="9.9999" y2= "297" />
-  <line class="fil1 str0" x1="-3.5001" y1="294.5" x2="-3.5001" y2= "299.5" />
-  <rect class="fil1 str1" x="-1.50009" y="294.5" width="3" height="5"/>
-  <text x="-9.5131" y="291.025"  class="fil2 fnt0">SMD (0805) 32.768 KHZ </text>
-  <text x="-3.557" y="292.667"  class="fil2 fnt0">CRYSTAL</text>
-  <text x="-4.4848" y="302.336"  class="fil2 fnt1">oom.lt/</text>
-  <text x="-0.2701" y="302.336"  class="fil2 fnt2">X85K327D</text>
+  <g id="_395885696">
+   <polygon id="_395892920" class="fil0" points="-10,287 10,287 10,307 -10,307 "/>
+   <line id="_395891648" class="fil1 str0" x1="-10" y1="297" x2="-3.5001" y2= "297" />
+   <line id="_395891432" class="fil1 str0" x1="3.4999" y1="294.5" x2="3.4999" y2= "299.5" />
+   <line id="_395891384" class="fil1 str0" x1="3.5" y1="297" x2="9.9999" y2= "297" />
+   <line id="_395885792" class="fil1 str0" x1="-3.5001" y1="294.5" x2="-3.5001" y2= "299.5" />
+   <rect id="_395892296" class="fil1 str1" x="-1.50009" y="294.5" width="3" height="5"/>
+   <text x="-9.5131" y="291.025" id="_365715592" class="fil2 fnt0">SMD (0805) 32.768 KHZ </text>
+   <text x="-3.557" y="292.667" id="_365715592" class="fil2 fnt0">CRYSTAL</text>
+   <text x="-4.4848" y="302.336" id="_395889896" class="fil2 fnt1">oom.lt/</text>
+   <text x="-0.2701" y="302.336" id="_395889896" class="fil2 fnt2">X85K327D</text>
+  </g>
  </g>
 </svg>

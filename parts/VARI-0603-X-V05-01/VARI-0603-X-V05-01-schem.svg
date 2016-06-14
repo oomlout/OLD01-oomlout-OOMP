@@ -62,14 +62,16 @@ viewBox="0 0 210 297"
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <rect class="fil0" x="-10" y="287" width="20" height="20"/>
-  <path class="fil1 str0" d="M-7.5 297l-2.5 0 2.5 0zm0 0l1.25 2.5 2.5 -5 2.5 5 2.5 -5 2.4999 5 2.5 -5 1.25 2.5m0 0l2.5001 0"/>
-  <line class="fil1 str1" x1="-0.5001" y1="301.732" x2="0.4999" y2= "293.268" />
-  <line class="fil1 str1" x1="2.4998" y1="293.268" x2="0.4999" y2= "293.268" />
-  <line class="fil1 str1" x1="-0.5001" y1="301.732" x2="-2.5" y2= "301.732" />
-  <text x="-5.8467" y="291.025"  class="fil2 fnt0">SMD (0603) 5v </text>
-  <text x="-4.0304" y="292.667"  class="fil2 fnt0">VARISTOR</text>
-  <text x="-3.5726" y="304.336"  class="fil2 fnt1">oom.lt/</text>
-  <text x="0.6421" y="304.336"  class="fil2 fnt2">V6305</text>
+  <g id="_395206088">
+   <rect id="_395204840" class="fil0" x="-10" y="287" width="20" height="20"/>
+   <path id="_395205872" class="fil1 str0" d="M-7.5 297l-2.5 0 2.5 0zm0 0l1.25 2.5 2.5 -5 2.5 5 2.5 -5 2.4999 5 2.5 -5 1.25 2.5m0 0l2.5001 0"/>
+   <line id="_395203496" class="fil1 str1" x1="-0.5001" y1="301.732" x2="0.4999" y2= "293.268" />
+   <line id="_395204696" class="fil1 str1" x1="2.4998" y1="293.268" x2="0.4999" y2= "293.268" />
+   <line id="_395208032" class="fil1 str1" x1="-0.5001" y1="301.732" x2="-2.5" y2= "301.732" />
+   <text x="-5.8467" y="290.525" id="_395208464" class="fil2 fnt0">SMD (0603) 5v </text>
+   <text x="-4.0304" y="292.167" id="_395208464" class="fil2 fnt0">VARISTOR</text>
+   <text x="-3.5726" y="304.336" id="_395205968" class="fil2 fnt1">oom.lt/</text>
+   <text x="0.6421" y="304.336" id="_395205968" class="fil2 fnt2">V6305</text>
+  </g>
  </g>
 </svg>

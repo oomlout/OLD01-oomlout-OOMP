@@ -56,23 +56,25 @@ viewBox="0 0 210 297"
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <polygon class="fil0" points="-10,287 10,287 10,307 -10,307 "/>
-  <line class="fil1 str0" x1="-10" y1="297" x2="-2.5001" y2= "297" />
-  <polygon class="fil0 str0" points="-2.5001,299.5 -2.5001,294.5 2.5,297 "/>
-  <line class="fil1 str0" x1="2.4999" y1="294.5" x2="2.4999" y2= "299.5" />
-  <g id="_335885544">
-   <line id="_335862288" class="fil1 str1" x1="0.0302" y1="301.03" x2="-1.0304" y2= "299.97" />
-   <line id="_335885424" class="fil1 str1" x1="0.0302" y1="301.03" x2="-0.6769" y2= "301.03" />
-   <line id="_335884632" class="fil1 str1" x1="0.0302" y1="301.03" x2="0.0303" y2= "300.323" />
+  <g id="_228031352">
+   <polygon id="_226247328" class="fil0" points="-10,287 10,287 10,307 -10,307 "/>
+   <line id="_226255968" class="fil1 str0" x1="-10" y1="297" x2="-2.5001" y2= "297" />
+   <polygon id="_226260384" class="fil0 str0" points="-2.5001,299.5 -2.5001,294.5 2.5,297 "/>
+   <line id="_226258584" class="fil1 str0" x1="2.4999" y1="294.5" x2="2.4999" y2= "299.5" />
+   <g>
+    <line id="_226258560" class="fil1 str1" x1="0.0302" y1="301.03" x2="-1.0304" y2= "299.97" />
+    <line id="_226249080" class="fil1 str1" x1="0.0302" y1="301.03" x2="-0.6769" y2= "301.03" />
+    <line id="_226255608" class="fil1 str1" x1="0.0302" y1="301.03" x2="0.0303" y2= "300.323" />
+   </g>
+   <g>
+    <line id="_226247256" class="fil1 str1" x1="1.5302" y1="300.03" x2="0.4696" y2= "298.97" />
+    <line id="_226257264" class="fil1 str1" x1="1.5302" y1="300.03" x2="0.8231" y2= "300.03" />
+    <line id="_226256424" class="fil1 str1" x1="1.5302" y1="300.03" x2="1.5303" y2= "299.323" />
+   </g>
+   <line id="_226261800" class="fil1 str0" x1="2.5" y1="297" x2="9.9999" y2= "297" />
+   <text x="-8.2695" y="292.667" id="_226252560" class="fil2 fnt0">SMD (0805) RED LED</text>
+   <text x="-3.3116" y="302.336" id="_228038744" class="fil2 fnt1">oom.lt/</text>
+   <text x="0.9031" y="302.336" id="_228038744" class="fil2 fnt2">L85R</text>
   </g>
-  <g id="_335884584">
-   <line id="_335884608" class="fil1 str1" x1="1.5302" y1="300.03" x2="0.4696" y2= "298.97" />
-   <line id="_335884848" class="fil1 str1" x1="1.5302" y1="300.03" x2="0.8231" y2= "300.03" />
-   <line id="_335884800" class="fil1 str1" x1="1.5302" y1="300.03" x2="1.5303" y2= "299.323" />
-  </g>
-  <line class="fil1 str0" x1="2.5" y1="297" x2="9.9999" y2= "297" />
-  <text x="-8.2695" y="292.667"  class="fil2 fnt0">SMD (0805) RED LED</text>
-  <text x="-3.3116" y="302.336"  class="fil2 fnt1">oom.lt/</text>
-  <text x="0.9031" y="302.336"  class="fil2 fnt2">L85R</text>
  </g>
 </svg>
