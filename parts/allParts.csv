@@ -1,4 +1,4 @@
-OOMP Parts -- CSV, 2016-06-07
+OOMP Parts -- CSV, 2016-06-14
 OOMP ID,Name,Type,Size/Package,Color/Material,Description/Value,Index/Rating,SEEED OPL ID,Manufacturer 1,Man 1 P/N,Manufacturer 2,Man 2 P/N,Distributor 1,Dist 1 P/N,Distributor 2,Dist 2 P/N,Datasheet,
 "ANTE-18-X-M4X4-01","18 mm Quad Band (850/900/1800/1900 Mhz) Antenna","Antenna","18 mm","","Quad Band (850/900/1800/1900 Mhz)","",318020014 ,,,,,,,,,https://github.com/oomlout/oomlout-OOMP/raw/master/parts/ANTE-18-X-M4X4-01/ANTE-18-X-M4X4-01-datasheet.pdf,
 "ANTE-40-X-G24-01","40 mm 2.4 Ghz Antenna","Antenna","40 mm","","2.4 Ghz","",318020019 ,,,,,,,,,https://github.com/oomlout/oomlout-OOMP/raw/master/parts/ANTE-40-X-G24-01/ANTE-40-X-G24-01-datasheet.pdf,
@@ -254,6 +254,7 @@ OOMP ID,Name,Type,Size/Package,Color/Material,Description/Value,Index/Rating,SEE
 "ICIC-PS20-X-KL298-A4","SMD (Power SO-20) Dual H-Bridge (L298) 4 A","","SMD (Power SO-20)","","Dual H-Bridge (L298)","4 A",310040018 ,,,,,,,,,https://github.com/oomlout/oomlout-OOMP/raw/master/parts/ICIC-PS20-X-KL298-A4/ICIC-PS20-X-KL298-A4-datasheet.pdf,
 "ICIC-QFN16-X-K5883-01","16 Pin SMD (QFN) 3-Axis Digital Compass (HMC5883L)","","16 Pin SMD (QFN)","","3-Axis Digital Compass (HMC5883L)","",314040002 ,,,,,Farnell,1971743,SEEED Studio,314040002,https://github.com/oomlout/oomlout-OOMP/raw/master/parts/ICIC-QFN16-X-K5883-01/ICIC-QFN16-X-K5883-01-datasheet.pdf,
 "ICIC-QFN24-X-K9250-01","24 Pin SMD (QFN) 9-Axis Inertial Measurement Unit (MPU-9250)","","24 Pin SMD (QFN)","","9-Axis Inertial Measurement Unit (MPU-9250)","",314990005 ,,,,,RS Electronics,883-7942,SEEED Studio,314990005,https://github.com/oomlout/oomlout-OOMP/raw/master/parts/ICIC-QFN24-X-K9250-01/ICIC-QFN24-X-K9250-01-datasheet.pdf,
+"ICIC-QFN28-X-K4988-01","28 Pin SMD (QFN) Stepper Motor Driver (A4988)","","28 Pin SMD (QFN)","","Stepper Motor Driver (A4988)","",,,,,,Farnell,2057418,RS Electronics,724-8726,https://github.com/oomlout/oomlout-OOMP/raw/master/parts/ICIC-QFN28-X-K4988-01/ICIC-QFN28-X-K4988-01-datasheet.pdf,
 "ICIC-QFN32-X-K168-01","32 Pin SMD (QFN) AtMega168P","","32 Pin SMD (QFN)","","AtMega168P","",310010072 ,,,,,Mouser,556-ATMEGA168PA-MU,Farnell,1748517,https://github.com/oomlout/oomlout-OOMP/raw/master/parts/ICIC-QFN32-X-K168-01/ICIC-QFN32-X-K168-01-datasheet.pdf,
 "ICIC-QFN32-X-K16U2-01","32 Pin SMD (QFN) ATMega16U2","","32 Pin SMD (QFN)","","AtMega16U2","",310010018 ,,,,,Mouser,556-ATMEGA16U2-MU,SEEED,310010018,https://github.com/oomlout/oomlout-OOMP/raw/master/parts/ICIC-QFN32-X-K16U2-01/ICIC-QFN32-X-K16U2-01-datasheet.pdf,
 "ICIC-QFN48-X-KRF822-01","48 Pin SMD (QFN) nRF51822 (Bluetooth MCU)","","48 Pin SMD (QFN)","","nRF51822 (Bluetooth MCU)","",310060026 ,,,,,,,,,https://github.com/oomlout/oomlout-OOMP/raw/master/parts/ICIC-QFN48-X-KRF822-01/ICIC-QFN48-X-KRF822-01-datasheet.pdf,
@@ -629,7 +630,6 @@ OOMP ID,Name,Type,Size/Package,Color/Material,Description/Value,Index/Rating,SEE
 "XTAL-5032-X-MZ12-01","SMD (5032) 12 MHz Crystal","Crystal","SMD (5032)","","12 MHz","",306010047 ,,,,,,,,,https://github.com/oomlout/oomlout-OOMP/raw/master/parts/XTAL-5032-X-MZ12-01/XTAL-5032-X-MZ12-01-datasheet.pdf,
 "XTAL-5032-X-MZ16-01","SMD (5032) 16 MHz Crystal","Crystal","SMD (5032)","","16 MHz","",306010054 ,,,,,,,,,https://github.com/oomlout/oomlout-OOMP/raw/master/parts/XTAL-5032-X-MZ16-01/XTAL-5032-X-MZ16-01-datasheet.pdf,
 "XTAL-5032-X-MZ8-01","SMD (5032) 8 MHz Crystal","Crystal","SMD (5032)","","8 MHz","",,,,,,,,,,https://github.com/oomlout/oomlout-OOMP/raw/master/parts/XTAL-5032-X-MZ8-01/XTAL-5032-X-MZ8-01-datasheet.pdf,
-"","","","","","","",,,,,,,,,,https://github.com/oomlout/oomlout-OOMP/raw/master/parts//-datasheet.pdf,
 "","","","","","","",,,,,,,,,,https://github.com/oomlout/oomlout-OOMP/raw/master/parts//-datasheet.pdf,
 "","","","","","","",,,,,,,,,,https://github.com/oomlout/oomlout-OOMP/raw/master/parts//-datasheet.pdf,
 "","","","","","","",,,,,,,,,,https://github.com/oomlout/oomlout-OOMP/raw/master/parts//-datasheet.pdf,
