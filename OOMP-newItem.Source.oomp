@@ -6,22 +6,22 @@
 <oompVersion>98</oompVersion>
 
 <com>IMPORTANT ALL MUST BE FILLED</com>
-<oompType>ICIC</oompType>
-<oompSize>QFN28</oompSize>
+<oompType>HEAD</oompType>
+<oompSize>I01</oompSize>
 <oompColor>X</oompColor>
-<oompDesc>K4988</oompDesc>
-<oompIndex>01</oompIndex>
+<oompDesc>2X36PI</oompDesc>
+<oompIndex>RA</oompIndex>
 <oompSort></oompSort>
 
-<hexID>IC4988</hexID>
+<hexID>HR2X03</hexID>
 
 <oompClass></oompClass>
 <oompClassCode></oompClassCode>
 
 <com>Source List</com>
-<manufacturerCompany1>Allegro</manufacturerCompany1>
-<manufacturerCompanyCode1>C-ALLE</manufacturerCompanyCode1>
-<manufacturerPartID1>A4988</manufacturerPartID1>
+<manufacturerCompany1></manufacturerCompany1>
+<manufacturerCompanyCode1></manufacturerCompanyCode1>
+<manufacturerPartID1></manufacturerPartID1>
 
 <manufacturerCompany2></manufacturerCompany2>
 <manufacturerCompanyCode2></manufacturerCompanyCode2>
@@ -62,53 +62,6 @@
 
 
 
-
-
-
-
-
-
-
-<ooNumPins>28</ooNumPins>
-<ooPitch></ooPitch>
-<ooWidth></ooWidth>
-<ooHeight></ooHeight>
-<ooDiameter></ooDiameter>
-<ooLength></ooLength>
-<ooDepth></ooDepth>
-
-
-
-
-
-
-
-<bigDistributorCompanyCode1>C-DIGK</bigDistributorCompanyCode1>
-<bigDistributorCompany1>Digikey</bigDistributorCompany1>
-<bigDistributorPartID1>620-1343-1-ND</bigDistributorPartID1>
-<bigDistributorLink1>http://www.digikey.co.uk/product-detail/en/allegro-microsystems-llc/A4988SETTR-T/620-1343-1-ND/2238004</bigDistributorLink1>
-
-
-<bigDistributorCompanyCode2>C-FARN</bigDistributorCompanyCode2>
-<bigDistributorCompany2>Farnell</bigDistributorCompany2>
-<bigDistributorPartID2>2057418</bigDistributorPartID2>
-<bigDistributorLink2><![CDATA[http://uk.farnell.com/allegro-microsystems/a4988settr-t/motor-driver-stepper-2a-qfn-28/dp/2057418]]></bigDistributorLink2>
-
-
-<bigDistributorCompanyCode3>C-RSRS</bigDistributorCompanyCode3>
-<bigDistributorCompany3>RS Electronics</bigDistributorCompany3>
-<bigDistributorPartID3>724-8726</bigDistributorPartID3>
-<bigDistributorLink3><![CDATA[http://uk.rs-online.com/web/p/motor-driver-ics/7248726/?searchTerm=A4988&relevancy-data=636F3D3226696E3D4931384E4B6E6F776E41734D504E266C753D656E266D6D3D6D61746368616C6C7061727469616C26706D3D5E5B5C707B4C7D5C707B4E647D2D2C2F255C2E5D2B2426706F3D313326736E3D592673743D4D414E5F504152545F4E554D4245522677633D424F5448267573743D4134393838267374613D413439383826]]></bigDistributorLink3>
-
-<oompBBLS></oompBBLS>
-<oompDIAG></oompDIAG>
-<oompIDEN></oompIDEN>
-<oompSCHEM></oompSCHEM>
-<oompSIMP></oompSIMP>
-
-
-<ooPackageMarking></ooPackageMarking>
-<ooDesignator>U1</ooDesignator>
 
 
 
