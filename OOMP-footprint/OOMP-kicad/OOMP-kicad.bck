@@ -1,5 +1,13 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LED
+K LED
+$ENDCMP
+#
+$CMP LEDS-XX-X-XXXX-XX
+K LED
+$ENDCMP
+#
 $CMP OOMP-USBS-MC-M-SMDS-01
 D B connector
 K USB USB_B
