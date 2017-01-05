@@ -1,4 +1,5 @@
 
+![SDCS-MC-M-SMDS-03](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/SDCS-MC-M-SMDS-03/SDCS-MC-M-SMDS-03_420.jpg)   
 Summary
 =================
   

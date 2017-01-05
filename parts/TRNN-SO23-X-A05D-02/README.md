@@ -1,4 +1,5 @@
 
+![TRNN-SO23-X-A05D-02](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/TRNN-SO23-X-A05D-02/TRNN-SO23-X-A05D-02_420.jpg)   
 Summary
 =================
   

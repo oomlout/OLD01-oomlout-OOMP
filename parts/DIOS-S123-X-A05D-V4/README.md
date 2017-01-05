@@ -1,4 +1,5 @@
 
+![DIOS-S123-X-A05D-V4](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/DIOS-S123-X-A05D-V4/DIOS-S123-X-A05D-V4_420.jpg)   
 Summary
 =================
   

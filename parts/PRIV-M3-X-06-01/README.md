@@ -1,4 +1,5 @@
 
+![PRIV-M3-X-06-01](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/PRIV-M3-X-06-01/PRIV-M3-X-06-01_420.jpg)   
 Summary
 =================
   

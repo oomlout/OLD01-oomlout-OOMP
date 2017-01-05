@@ -1,4 +1,5 @@
 
+![DIOD-I03-X-A01-VI](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/DIOD-I03-X-A01-VI/DIOD-I03-X-A01-VI_420.jpg)   
 Summary
 =================
   

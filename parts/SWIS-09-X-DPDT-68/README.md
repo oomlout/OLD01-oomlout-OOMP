@@ -1,4 +1,5 @@
 
+![SWIS-09-X-DPDT-68](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/SWIS-09-X-DPDT-68/SWIS-09-X-DPDT-68_420.jpg)   
 Summary
 =================
   

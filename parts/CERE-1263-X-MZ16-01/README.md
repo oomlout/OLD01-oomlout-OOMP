@@ -1,4 +1,5 @@
 
+![CERE-1263-X-MZ16-01](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/CERE-1263-X-MZ16-01/CERE-1263-X-MZ16-01_420.jpg)   
 Summary
 =================
   

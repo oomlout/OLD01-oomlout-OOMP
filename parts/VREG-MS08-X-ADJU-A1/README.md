@@ -1,4 +1,5 @@
 
+![VREG-MS08-X-ADJU-A1](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/VREG-MS08-X-ADJU-A1/VREG-MS08-X-ADJU-A1_420.jpg)   
 Summary
 =================
   

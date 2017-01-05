@@ -1,4 +1,5 @@
 
+![LEDS-08-RGB-STAN-CA](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/LEDS-08-RGB-STAN-CA/LEDS-08-RGB-STAN-CA_420.jpg)   
 Summary
 =================
   

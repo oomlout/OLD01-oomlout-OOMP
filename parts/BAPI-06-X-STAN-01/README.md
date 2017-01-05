@@ -1,4 +1,5 @@
 
+![BAPI-06-X-STAN-01](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/BAPI-06-X-STAN-01/BAPI-06-X-STAN-01_420.jpg)   
 Summary
 =================
   

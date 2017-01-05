@@ -1,4 +1,5 @@
 
+![OPAM-MS08-X-KLMV358-01](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/OPAM-MS08-X-KLMV358-01/OPAM-MS08-X-KLMV358-01_420.jpg)   
 Summary
 =================
   

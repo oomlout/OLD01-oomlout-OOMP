@@ -1,4 +1,5 @@
 
+![VREG-T92-X-ADJU-AH](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/VREG-T92-X-ADJU-AH/VREG-T92-X-ADJU-AH_420.jpg)   
 Summary
 =================
   

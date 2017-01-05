@@ -1,4 +1,5 @@
 
+![SWIS-7827-X-SPDT-01](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/SWIS-7827-X-SPDT-01/SWIS-7827-X-SPDT-01_420.jpg)   
 Summary
 =================
   

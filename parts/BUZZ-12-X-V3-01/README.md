@@ -1,4 +1,5 @@
 
+![BUZZ-12-X-V3-01](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/BUZZ-12-X-V3-01/BUZZ-12-X-V3-01_420.jpg)   
 Summary
 =================
   

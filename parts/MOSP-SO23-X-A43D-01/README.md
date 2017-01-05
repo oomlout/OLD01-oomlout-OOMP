@@ -1,4 +1,5 @@
 
+![MOSP-SO23-X-A43D-01](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/MOSP-SO23-X-A43D-01/MOSP-SO23-X-A43D-01_420.jpg)   
 Summary
 =================
   

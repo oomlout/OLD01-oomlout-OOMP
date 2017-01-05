@@ -1,4 +1,5 @@
 
+![ICIC-PS20-X-KL298-A4](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/ICIC-PS20-X-KL298-A4/ICIC-PS20-X-KL298-A4_420.jpg)   
 Summary
 =================
   

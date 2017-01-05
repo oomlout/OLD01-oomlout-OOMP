@@ -1,4 +1,5 @@
 
+![MICR-97D-X-STAN-01](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/MICR-97D-X-STAN-01/MICR-97D-X-STAN-01_420.jpg)   
 Summary
 =================
   
