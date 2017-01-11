@@ -75,20 +75,29 @@
         <ooBuyDesc1></ooBuyDesc1>
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>	
-<oompBbls>
-		<drawItem>template;HEAD-I01-X-08PI-XX-bbls</drawItem>
+	<oompBbls>
+		<drawItem>variable;clear</drawItem>
+		<drawItem>variable;pins;8</drawItem>
+		<drawItem>template;XXXX-I01-X-XX-01-bbls</drawItem>
 	</oompBbls>
 	<oompDiag>
-		<drawItem>template;HEAD-I01-X-08PI-XX-diag</drawItem>
+		<drawItem>variable;clear</drawItem>
+		<drawItem>variable;pins;8</drawItem>
+		<drawItem>template;HEAD-I01-X-XX-01-diag</drawItem>
 	</oompDiag>
-		<oompIden>
-		<drawItem>template;HEAD-I01-X-08PI-XX-iden</drawItem>
-		</oompIden>		
+	<oompIden></oompIden>
+		<drawItem>variable;clear</drawItem>
+		<drawItem>variable;pins;8</drawItem>
+		<drawItem>template;XXXX-I01-X-XX-01-iden</drawItem>		
 	<oompSchem>
-		
+		<drawItem>variable;clear</drawItem>
+		<drawItem>variable;pins;8</drawItem>
+		<drawItem>template;XXXX-XX-X-XX-01-PINS-EVEN-schem</drawItem>	
 	</oompSchem>
 	<oompSimp>
-		<drawItem>template;HEAD-I01-X-08PI-XX-simp</drawItem>
+		<drawItem>variable;clear</drawItem>
+		<drawItem>variable;pins;8</drawItem>
+		<drawItem>template;XXXX-I01-X-XX-01-simp</drawItem>		
 	</oompSimp>
 		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>J1</ooDesignator>
