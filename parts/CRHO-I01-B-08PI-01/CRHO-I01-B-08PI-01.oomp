@@ -120,21 +120,31 @@
 			</oplSystem>
 		</oplList>	<oompClass>Through Hole Component</oompClass>
 	<oompClassCode>THTH</oompClassCode>
-<oompBbls>
-		<drawItem>template;CRHO-I01-X-08PI-XX-bbls</drawItem>
+	<oompBbls>
+		<drawItem>variable;clear</drawItem>
+		<drawItem>variable;pins;8</drawItem>
+		<drawItem>template;XXXX-I01-X-XX-01-bbls</drawItem>
 	</oompBbls>
 	<oompDiag>
-		<drawItem>template;CRHO-I01-X-08PI-XX-diag</drawItem>
+		<drawItem>variable;clear</drawItem>
+		<drawItem>variable;pins;8</drawItem>
+		<drawItem>template;CRHO-I01-X-XX-01-diag</drawItem>
 	</oompDiag>
-		<oompIden>
-		<drawItem>template;CRHO-I01-X-08PI-XX-iden</drawItem>
-		</oompIden>		
+	<oompIden></oompIden>
+		<drawItem>variable;clear</drawItem>
+		<drawItem>variable;pins;8</drawItem>
+		<drawItem>template;CRHO-I01-X-XX-01-iden</drawItem>		
 	<oompSchem>
-		
+		<drawItem>variable;clear</drawItem>
+		<drawItem>variable;pins;8</drawItem>
+		<drawItem>template;XXXX-XX-X-XX-01-PINS-EVEN-schem</drawItem>	
 	</oompSchem>
 	<oompSimp>
-		<drawItem>template;CRHO-I01-X-08PI-XX-simp</drawItem>
+		<drawItem>variable;clear</drawItem>
+		<drawItem>variable;pins;8</drawItem>
+		<drawItem>template;XXXX-I01-X-XX-01-simp</drawItem>		
 	</oompSimp>
 		<ooPackageMarking></ooPackageMarking>
+		<ooDesignator>J1</ooDesignator>
 </oompPart>
 </xml>

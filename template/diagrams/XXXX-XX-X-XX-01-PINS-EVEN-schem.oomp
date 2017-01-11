@@ -1,0 +1,11 @@
+	<oompTemplate>
+		<drawItem>linewidth;0</drawItem>
+		<drawItem>rectangle;0;10;20;10*%%pins%% + 20;OutlineSquare</drawItem>
+		<drawItem>linewidth;1</drawItem>
+		<drawItem>rectangle;-1.5;5;13;10*%%pins%%;Square</drawItem>
+		<drawItem>repeat;%%pins%%;hLine;7.5;(%%pins%%*10/2)-(%%i%%-1)*10;5;0;pin %%i%%</drawItem>			
+		<drawItem>repeat;%%pins%%;textb;2;(%%pins%%*10/2)-(%%i%%-1)*10;3.5;PIN %%i%%</drawItem>
+		<drawItem>oompURL;0;-(%%pins%%*10/2)+3.5;3.5;##hexID@@</drawItem>	
+		<drawItem>oompName;0;(%%pins%%*10/2)+10;20;5;##name@@</drawItem>
+
+	</oompTemplate>
