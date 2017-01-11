@@ -81,25 +81,26 @@
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>
         <ooSEEED3dModel></ooSEEED3dModel>
-<!-- -->    		<sourceList>
+<sourceList>
+			<manufacturer>
+				<company>TR Fastenings</company>
+				<companyCode>C-TRFA</companyCode>
+				<name></name>
+				<partID>FAHSNGFFM3-30-6</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
 				
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
+				<company>Farnell</company>
+				<companyCode>C-FARN</companyCode>
+				<name>TR FASTENINGS  FAHSNGFFM3-30-6  Standoff, Nylon 6 (Polyamide 6), M3, Hex Female, 30 mm, FAHS Series</name>
+				<partID>2480027</partID>
+				<link><![CDATA[http://uk.farnell.com/tr-fastenings/fahsngffm3-30-6/standoff-hex-female-nylon-6-30mm/dp/2480027]]></link>
 				<note></note>
-			</bigDistributor>					
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
-				<note></note>
-			</bigDistributor>					
+			</bigDistributor>			
 		</sourceList>
+
 		<oplList>
 			<oplSystem>
 				<oplScheme></oplScheme>

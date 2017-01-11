@@ -1,14 +1,14 @@
 ﻿<xml>    
 	<oompPart>
-        <index>4195</index><!--OOMP Base -->
-        <oompID>NHFF-M3-X-12-01</oompID>
-        <name>M3 x 12 mm Nylon Standoff (F-F)</name>
-        <hexID>NFF12</hexID>
-        <oompSort>M3M312</oompSort>
+        <index>4197</index><!--OOMP Base -->
+        <oompID>NHFF-M3-X-25-01</oompID>
+        <name>M3 x 25 mm Nylon Standoff (F-F)</name>
+        <hexID>NFF25</hexID>
+        <oompSort>M3M325</oompSort>
         <oompType>NHFF</oompType>
         <oompSize>M3</oompSize>
         <oompColor>X</oompColor>
-        <oompDesc>12</oompDesc>
+        <oompDesc>25</oompDesc>
         <oompIndex>01</oompIndex>
         <oompOwner></oompOwner>
         <oompVersion>31</oompVersion>
@@ -81,12 +81,12 @@
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>
         <ooSEEED3dModel></ooSEEED3dModel>
-<!-- -->    		<sourceList>
+<sourceList>
 			<manufacturer>
 				<company>Keystone Electronics</company>
 				<companyCode>C-KEYS</companyCode>
 				<name></name>
-				<partID>25511</partID>
+				<partID>25515</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -94,21 +94,20 @@
 			<bigDistributor>
 				<company>DigiKey</company>
 				<companyCode>C-DIGK</companyCode>
-				<name>HEX STANDOFF M3 NYLON 12MM</name>
-				<partID>36-25511-ND</partID>
-				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/keystone-electronics/25511/36-25511-ND/1532189]]></link>
+				<name>HEX STANDOFF M3 NYLON 25MM</name>
+				<partID>36-25515-ND</partID>
+				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/keystone-electronics/25514/36-25515-ND/]]></link>
 				<note></note>
 			</bigDistributor>			
 		
 			<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
-				<name>Standoffs & Spacers 5.0 HEX 12mm NYLON</name>
-				<partID>534-25511</partID>
-				<link><![CDATA[http://www.mouser.co.uk/ProductDetail/Keystone-Electronics/25511/?qs=%2fha2pyFadugenAX7QbWVFCpZwkk95tJj9%252b9EidT6DBuI7cNDtuDhiw%3d%3d]]></link>
+				<name>Standoffs & Spacers 5.0 HEX 25mm NYLON</name>
+				<partID>534-25515</partID>
+				<link><![CDATA[http://www.mouser.co.uk/ProductDetail/Keystone-Electronics/25515]]></link>
 				<note></note>
 			</bigDistributor>
-
 		</sourceList>
 		<oplList>
 			<oplSystem>

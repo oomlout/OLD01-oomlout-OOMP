@@ -1,29 +1,29 @@
 <xml>
 <oompPart>
 	<com>OOMP Base</com>
-        <oompID>DIOD-S123-X-A03D-VG</oompID>
-        <name>SMD (SOD-123) 300 mA Diode 20v</name>        
-		<hexID>DS303</hexID>
+        <oompID>BUTA-6035-X-STAN-01</oompID>
+        <name>SMD (6035) Pushbutton (Tactile)</name>        
+		<hexID>B6035</hexID>
         <oompSort></oompSort>		
 		<oompClass>Surface Mount</oompClass>
 		<oompClassCode>SDMS</oompClassCode>		
 		
-        <oompType>DIOD</oompType>
-        <oompSize>S123</oompSize>
+        <oompType>BUTA</oompType>
+        <oompSize>6035</oompSize>
         <oompColor>X</oompColor>
-        <oompDesc>A03D</oompDesc>
-        <oompIndex>VG</oompIndex>        
+        <oompDesc>STAN</oompDesc>
+        <oompIndex>01</oompIndex>        
 		<oompVersion>99</oompVersion>
 		
 		
 <com>Size</com>
         <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
+        <ooWidth>3.5 mm</ooWidth>
+        <ooHeight>2.5 mm</ooHeight>
         <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
+        <ooLength>6 mm</ooLength>
         <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins></ooNumPins>
+        <ooNumPins>2</ooNumPins>
         <ooPowerRating></ooPowerRating>
 <com>Maximums</com>
         <ooMaxCurrent></ooMaxCurrent>
@@ -31,24 +31,16 @@
         <ooLifetime></ooLifetime>
         <ooTolerance></ooTolerance>
 <com>Source List</com>		
-<sourceList>
+		<sourceList>
 			<manufacturer>
-				<company>On Semi</company>
-				<companyCode>C-ONON</companyCode>
+				<company>Xiejia</company>
+				<companyCode>C-XIEJ</companyCode>
 				<name></name>
-				<partID>MBR0520</partID>
-				<link></link>
+				<partID>TD-19XA</partID>
+				<link><![CDATA[http://xiejia.net/productsShow.asp?MID=185&SID=945]]></link>
 				<note></note>			
 			</manufacturer>
-			<bigDistributor>
-				<company>DigiKey</company>
-				<companyCode>C-DIGK</companyCode>
-				<name>DIODE SCHOTTKY 20V 500MA SOD123</name>
-				<partID>MBR0520LT1GOSCT-ND</partID>
-				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/on-semiconductor/MBR0520LT1G/MBR0520LT1GOSCT-ND/917965]]></link>
-				<note></note>
-			</bigDistributor>
-</sourceList>			
+		</sourceList>
 		
 <com>OPL</com>		
 		<oplList>
@@ -75,11 +67,13 @@
 	<oompDiag></oompDiag>
 	<oompIden></oompIden>
 	<oompSchem>
-		<drawItem>template;DIOD-XXXX-X-XXXX-XX-schem</drawItem>
+			<oompIden>
+				<drawItem>template;BUTA-XXXX-X-XXXX-XX-schem</drawItem>
+			</oompIden>	
 	</oompSchem>
 	<oompSimp></oompSimp>
 		<ooPackageMarking></ooPackageMarking>
-		<ooDesignator>D1</ooDesignator>
+		<ooDesignator>S1</ooDesignator>
 </oompPart>	
 	
 </xml>

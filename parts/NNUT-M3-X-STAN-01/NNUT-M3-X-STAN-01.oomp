@@ -81,24 +81,57 @@
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>
         <ooSEEED3dModel></ooSEEED3dModel>
-<!-- -->    		<sourceList>
+	<sourceList>
+			<manufacturer>
+				<company>Keystone</company>
+				<companyCode>C-KEYS</companyCode>
+				<name></name>
+				<partID>4688</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company>Duratool</company>
+				<companyCode>C-DURA</companyCode>
+				<name></name>
+				<partID>DTRNNE 34814 M3</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<bigDistributor>
+				<company>Digikey</company>
+				<companyCode>C-DIGK</companyCode>
+				<name>HEX NUT 0.217" NYLON M</name>
+				<partID>36-4688-ND</partID>
+				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/keystone-electronics/4688/36-4688-ND/4499297]]></link>
+				<note></note>
+			</bigDistributor>	
 				
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
+				<company>Mouser</company>
+				<companyCode>C-MOUS</companyCode>
+				<name>Screws & Fasteners NYLON HEX NUT</name>
+				<partID>534-4688</partID>
+				<link><![CDATA[http://www.mouser.co.uk/ProductDetail/Keystone-Electronics/4688/?qs=sGAEpiMZZMvEjrTWH%2f8WZw3dLCgF4%2f6u]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
+				<company>Farnell</company>
+				<companyCode>C-FARN</companyCode>
+				<name>DURATOOL  DTRNNE 34814 M3  Nut, Hex, M3, Nylon 6.6, Pack of 100</name>
+				<partID>2472687</partID>
+				<link><![CDATA[http://uk.farnell.com/duratool/dtrnne-34814-m3/hex-nut-m3-nylon-6-6-natural/dp/2472687]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>	
+			<bigDistributor>
+				<company>RS Electronics</company>
+				<companyCode>C-RSRS</companyCode>
+				<name>Nylon, Hex Nut Natural, M3</name>
+				<partID>525-701</partID>
+				<link><![CDATA[http://uk.rs-online.com/web/p/hex-nuts/0525701/]]></link>
+				<note></note>
+			</bigDistributor>	
+				
 		</sourceList>
 		<oplList>
 			<oplSystem>

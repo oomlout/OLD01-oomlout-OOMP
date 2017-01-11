@@ -82,23 +82,40 @@
         <ooBuyType1></ooBuyType1>
         <ooSEEED3dModel></ooSEEED3dModel>
 <!-- -->    		<sourceList>
+			<manufacturer>
+				<company>Keystone Electronics</company>
+				<companyCode>C-KEYS</companyCode>
+				<name></name>
+				<partID>25512</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
 				
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
+				<company>DigiKey</company>
+				<companyCode>C-DIGK</companyCode>
+				<name>HEX STANDOFF M3 NYLON 15MM</name>
+				<partID>36-25512-ND</partID>
+				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/keystone-electronics/25512/36-25512-ND/1532190]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>			
+		
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
+				<company>Mouser</company>
+				<companyCode>C-MOUS</companyCode>
+				<name>Standoffs & Spacers 5.0 HEX 15mm NYLON</name>
+				<partID>534-25512</partID>
+				<link><![CDATA[http://www.mouser.co.uk/ProductDetail/Keystone-Electronics/25512]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>
+			<bigDistributor>
+				<company>RapidOnline</company>
+				<companyCode>C-RAPI</companyCode>
+				<name>Affix Nylon Hexagonal Tapped Spacer 15mm - Pack Of 100 Report an error</name>
+				<partID>33-2040</partID>
+				<link><![CDATA[https://www.rapidonline.com/affix-nylon-hexagonal-tapped-spacer-15mm-pack-of-100-33-2040]]></link>
+				<note></note>
+			</bigDistributor>			
 		</sourceList>
 		<oplList>
 			<oplSystem>

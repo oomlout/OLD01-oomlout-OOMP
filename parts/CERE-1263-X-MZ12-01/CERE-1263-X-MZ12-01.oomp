@@ -31,9 +31,48 @@
         <ooLifetime></ooLifetime>
         <ooTolerance></ooTolerance>
 <com>Source List</com>		
-		<sourceList>
+<sourceList>
+			<manufacturer>
+				<company>Murata</company>
+				<companyCode>C-MURA</companyCode>
+				<name></name>
+				<partID>CSTCE12M0G55-R0</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
 				
-								
+			<bigDistributor>
+				<company>DigiKey</company>
+				<companyCode>C-DIGK</companyCode>
+				<name>CER RES 12.0000MHZ 33PF SMD</name>
+				<partID>490-1197-1-ND</partID>
+				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/murata-electronics-north-america/CSTCE12M0G55-R0/490-1197-1-ND/584634]]></link>
+				<note></note>
+			</bigDistributor>			
+			<bigDistributor>
+				<company>Farnell</company>
+				<companyCode>C-FARN</companyCode>
+				<name>MURATA  CSTCE12M0G55Z-R0  Resonator, Ceramic, 12 MHz, SMD, 3 Pin, ± 0.5%</name>
+				<partID>2470357</partID>
+				<link><![CDATA[http://uk.farnell.com/murata/cstce12m0g55z-r0/resonator-ceramic-12mhz-smd/dp/2470357]]></link>
+				<note></note>
+			</bigDistributor>			
+			<bigDistributor>
+				<company>Mouser</company>
+				<companyCode>C-MOUS</companyCode>
+				<name>Resonators 12.00MHZ .5% CHIP RE</name>
+				<partID>81-CSTCE12M0G55-R0</partID>
+				<link><![CDATA[http://www.mouser.co.uk/ProductDetail/Murata/CSTCE12M0G55-R0/?qs=%2fha2pyFadui6OgAUC6RkU%252bQP68kRcFiCcn155aZ6seLzYClGzSJ7Tg%3d%3d]]></link>
+				<note></note>
+			</bigDistributor>
+			<bigDistributor>
+				<company>RS</company>
+				<companyCode>C-RSRS</companyCode>
+				<name>CSTCE12M0G55-R0, Ceramic Resonator, 12MHz Fundamental 33pF, 3-Pin Cap Chip, 3.2 x 1.3 x 0.7mm</name>
+				<partID>721-4809</partID>
+				<link><![CDATA[http://uk.rs-online.com/web/p/ceramic-resonators/7214809/]]></link>
+				<note></note>
+			</bigDistributor>	
 		</sourceList>
 		
 <com>OPL</com>		
