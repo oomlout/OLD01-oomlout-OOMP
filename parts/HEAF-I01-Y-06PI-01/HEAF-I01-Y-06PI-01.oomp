@@ -72,11 +72,30 @@
         <ooBuyDesc1></ooBuyDesc1>
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>	
-    	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
+	<oompBbls>
+		<drawItem>variable;clear</drawItem>
+		<drawItem>variable;pins;6</drawItem>
+		<drawItem>template;XXXX-I01-X-XX-01-bbls</drawItem>
+	</oompBbls>
+	<oompDiag>
+		<drawItem>variable;clear</drawItem>
+		<drawItem>variable;pins;6</drawItem>
+		<drawItem>template;HEAF-I01-X-XX-01-diag</drawItem>
+	</oompDiag>
 	<oompIden></oompIden>
-	<oompSchem></oompSchem>
-	<oompSimp></oompSimp>
+		<drawItem>variable;clear</drawItem>
+		<drawItem>variable;pins;6</drawItem>
+		<drawItem>template;XXXX-I01-X-XX-01-iden</drawItem>		
+	<oompSchem>
+		<drawItem>variable;clear</drawItem>
+		<drawItem>variable;pins;6</drawItem>
+		<drawItem>template;XXXX-XX-X-XX-01-PINS-EVEN-schem</drawItem>	
+	</oompSchem>
+	<oompSimp>
+		<drawItem>variable;clear</drawItem>
+		<drawItem>variable;pins;6</drawItem>
+		<drawItem>template;XXXX-I01-X-XX-01-simp</drawItem>		
+	</oompSimp>
 		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>J1</ooDesignator>
 </oompPart>	
