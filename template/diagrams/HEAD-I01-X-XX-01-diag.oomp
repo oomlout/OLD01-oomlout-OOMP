@@ -1,6 +1,6 @@
 	<oompTemplate>
 		<drawItem>linewidth;0.5</drawItem>
-		<drawItem>repeat;%%pins%%;rectangle;(2.54*%%pins%%)/2-1.27-2.54*%%i%%;-2;0.64;11.54;pin %%i%%</drawItem>		
+		<drawItem>repeat;%%pins%%;rectangle;(2.54*%%pins%%/2-2.54/2)-2.54*(%%i%%-1);-2;0.64;11.54;pin %%i%%</drawItem>		
 		<drawItem>linewidth;1</drawItem>
 		<drawItem>rectangle;0;-1.5;2.54*%%pins%%;2.54;Main Square</drawItem>
 		<drawItem>oompName;0;11;20;5;##name@@</drawItem>
