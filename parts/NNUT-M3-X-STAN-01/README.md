@@ -13,4 +13,3 @@ Full Details
 ==========================
 Full summary of this part can be found in the wiki:   
 __https://github.com/oomlout/oomlout-OOMP/wiki/NNUT-M3-X-STAN-01__    
-
