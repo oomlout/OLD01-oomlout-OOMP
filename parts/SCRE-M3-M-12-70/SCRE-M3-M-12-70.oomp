@@ -81,24 +81,25 @@
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>
         <ooSEEED3dModel></ooSEEED3dModel>
-<!-- -->    		<sourceList>
+<sourceList>
+			<manufacturer>
+				<company>Generic</company>
+				<companyCode>C-GENE</companyCode>
+				<name></name>
+				<partID>MRPM030012CB</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
 				
 			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
+				<company>Farnell</company>
+				<companyCode>C-FARN</companyCode>
+				<name>UNBRANDED  MRPM030012CB  Machine Screw, M3, Metal, 12 mm, Black Oxide, Pan Head Pozidriv</name>
+				<partID>2528953</partID>
+				<link><![CDATA[http://uk.farnell.com/unbranded/mrpm030012cb/screw-pan-head-pz-m3-x-12mm-pk50/dp/2528953]]></link>
 				<note></note>
-			</bigDistributor>					
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
-				<note></note>
-			</bigDistributor>					
+			</bigDistributor>			
+
 		</sourceList>
 		<oplList>
 			<oplSystem>

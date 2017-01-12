@@ -83,10 +83,10 @@
         <ooSEEED3dModel></ooSEEED3dModel>
 <sourceList>
 			<manufacturer>
-				<company>Keystone Electronics</company>
-				<companyCode>C-KEYS</companyCode>
+				<company>Essentra Components</company>
+				<companyCode>C-ESSE</companyCode>
 				<name></name>
-				<partID>29344</partID>
+				<partID>NSE-34812-M3-12</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -94,23 +94,14 @@
 			<bigDistributor>
 				<company>DigiKey</company>
 				<companyCode>C-DIGK</companyCode>
-				<name>MACHINE SCREW PAN SLOTTED M3</name>
-				<partID>36-29344-ND</partID>
-				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/keystone-electronics/29344/36-29344-ND/1532217]]></link>
+				<name>MACHINE SCREW PAN PHILLIPS M3</name>
+				<partID>RPC2024-ND</partID>
+				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/essentra-components/NSE-34812-M3-12/RPC2024-ND/3814304]]></link>
 				<note></note>
 			</bigDistributor>			
-		
-			<bigDistributor>
-				<company>Mouser</company>
-				<companyCode>C-MOUS</companyCode>
-				<name>Screws & Fasteners M3 12.0mm NYL SCRW</name>
-				<partID>29344</partID>
-				<link><![CDATA[http://www.mouser.co.uk/ProductDetail/Keystone-Electronics/29344/?qs=%2fha2pyFaduignfv5jrCPnR3MCLKcDfSmKCcQiK0ZfDQo6Qsc7HHz%2fw%3d%3d]]></link>
-				<note></note>
-			</bigDistributor>
+
 		</sourceList>
-tor>					
-		</sourceList>
+
 		<oplList>
 			<oplSystem>
 				<oplScheme></oplScheme>

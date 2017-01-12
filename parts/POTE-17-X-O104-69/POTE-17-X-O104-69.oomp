@@ -31,9 +31,25 @@
         <ooLifetime></ooLifetime>
         <ooTolerance></ooTolerance>
 <com>Source List</com>		
-		<sourceList>
+<sourceList>
+			<manufacturer>
+				<company>TruOhm</company>
+				<companyCode>C-TRUO</companyCode>
+				<name></name>
+				<partID>TruOhm-POT17-104</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			
 				
-								
+			<bigDistributor>
+				<company>RapidOnline</company>
+				<companyCode>C-RAPI</companyCode>
+				<name>TruOhm 100K 16mm Linear Potentiometer Report an error</name>
+				<partID>65-0730</partID>
+				<link><![CDATA[https://www.rapidonline.com/truohm-100k-16mm-linear-potentiometer-65-0730]]></link>
+				<note></note>
+			</bigDistributor>
 		</sourceList>
 		
 <com>OPL</com>		
