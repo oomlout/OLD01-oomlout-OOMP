@@ -1,4 +1,5 @@
 
+![RESE-0603-X-O163-67](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/RESE-0603-X-O163-67/RESE-0603-X-O163-67_420.jpg)   
 Summary
 =================
   

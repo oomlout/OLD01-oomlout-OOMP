@@ -1,4 +1,5 @@
 
+![RESE-0402-X-O152-01](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/RESE-0402-X-O152-01/RESE-0402-X-O152-01_420.jpg)   
 Summary
 =================
   

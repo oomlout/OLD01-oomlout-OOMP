@@ -1,4 +1,5 @@
 
+![CAPC-0603-X-UF10-VB](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/CAPC-0603-X-UF10-VB/CAPC-0603-X-UF10-VB_420.jpg)   
 Summary
 =================
   
