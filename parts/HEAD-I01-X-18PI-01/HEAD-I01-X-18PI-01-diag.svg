@@ -47,6 +47,7 @@ viewBox="0 0 210 297"
     @font-face { font-family:"DejaVu Sans Mono";src:url("#FontID1") format(svg)}
     @font-face { font-family:"DejaVu Sans";src:url("#FontID0") format(svg)}
     .str0 {stroke:#1F1A17;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round}
+    .str1 {stroke:#1F1A17;stroke-linecap:round;stroke-linejoin:round}
     .fil1 {fill:#1F1A17}
     .fil0 {fill:white}
     .fnt1 {font-weight:normal;font-size:1.0001;font-family:'DejaVu Sans Mono'}
@@ -57,32 +58,30 @@ viewBox="0 0 210 297"
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_877485520">
-   <g>
-    <rect id="_875529936" class="fil0 str0" x="-21.91" y="289.67" width="0.64" height="11.6"/>
-    <rect id="_875532912" class="fil0 str0" x="-19.37" y="289.67" width="0.64" height="11.6"/>
-    <rect id="_875533128" class="fil0 str0" x="-16.83" y="289.67" width="0.64" height="11.6"/>
-    <rect id="_875533008" class="fil0 str0" x="-14.29" y="289.67" width="0.64" height="11.6"/>
-    <rect id="_875532456" class="fil0 str0" x="-11.75" y="289.67" width="0.64" height="11.6"/>
-    <rect id="_875533536" class="fil0 str0" x="-9.21" y="289.67" width="0.64" height="11.6"/>
-    <rect id="_875533272" class="fil0 str0" x="-6.67" y="289.67" width="0.64" height="11.6"/>
-    <rect id="_875533560" class="fil0 str0" x="-4.13" y="289.67" width="0.64" height="11.6"/>
-    <rect id="_875529552" class="fil0 str0" x="-1.59" y="289.67" width="0.64" height="11.6"/>
-    <rect id="_875532720" class="fil0 str0" x="0.95" y="289.67" width="0.64" height="11.6"/>
-    <rect id="_875531568" class="fil0 str0" x="3.49" y="289.67" width="0.64" height="11.6"/>
-    <rect id="_875531856" class="fil0 str0" x="6.03" y="289.67" width="0.64" height="11.6"/>
-    <rect id="_875531880" class="fil0 str0" x="8.57" y="289.67" width="0.64" height="11.6"/>
-    <rect id="_875531808" class="fil0 str0" x="11.11" y="289.67" width="0.64" height="11.6"/>
-    <rect id="_875529768" class="fil0 str0" x="13.65" y="289.67" width="0.64" height="11.6"/>
-    <rect id="_875533368" class="fil0 str0" x="16.19" y="289.67" width="0.64" height="11.6"/>
-    <rect id="_875531976" class="fil0 str0" x="18.73" y="289.67" width="0.64" height="11.6"/>
-    <rect id="_875531760" class="fil0 str0" x="21.27" y="289.67" width="0.64" height="11.6"/>
-    <rect id="_875523744" class="fil0 str0" x="-22.86" y="295.73" width="45.72" height="2.54"/>
-   </g>
-   <text x="-3.4569" y="286.81" id="_875533320" class="fil1 fnt0">2.54 mm </text>
-   <text x="-6.0726" y="288.452" id="_875533320" class="fil1 fnt0">18 PIN HEADER</text>
-   <text x="-2.9786" y="303.336" id="_877474600" class="fil1 fnt1">oom.lt/</text>
-   <text x="1.2361" y="303.336" id="_877474600" class="fil1 fnt2">H18</text>
+  <g id="_330946440">
+   <rect id="_330945192" class="fil0 str0" x="21.27" y="293.23" width="0.64" height="11.54"/>
+   <rect id="_330945240" class="fil0 str0" x="18.73" y="293.23" width="0.64" height="11.54"/>
+   <rect id="_330945288" class="fil0 str0" x="16.19" y="293.23" width="0.64" height="11.54"/>
+   <rect id="_330945336" class="fil0 str0" x="13.65" y="293.23" width="0.64" height="11.54"/>
+   <rect id="_330945384" class="fil0 str0" x="11.11" y="293.23" width="0.64" height="11.54"/>
+   <rect id="_330945432" class="fil0 str0" x="8.57" y="293.23" width="0.64" height="11.54"/>
+   <rect id="_330945480" class="fil0 str0" x="6.03" y="293.23" width="0.64" height="11.54"/>
+   <rect id="_330945528" class="fil0 str0" x="3.49" y="293.23" width="0.64" height="11.54"/>
+   <rect id="_330945576" class="fil0 str0" x="0.95" y="293.23" width="0.64" height="11.54"/>
+   <rect id="_330945624" class="fil0 str0" x="-1.59" y="293.23" width="0.64" height="11.54"/>
+   <rect id="_330945672" class="fil0 str0" x="-4.13" y="293.23" width="0.64" height="11.54"/>
+   <rect id="_330945720" class="fil0 str0" x="-6.67" y="293.23" width="0.64" height="11.54"/>
+   <rect id="_330945768" class="fil0 str0" x="-9.21" y="293.23" width="0.64" height="11.54"/>
+   <rect id="_330945816" class="fil0 str0" x="-11.75" y="293.23" width="0.64" height="11.54"/>
+   <rect id="_330945864" class="fil0 str0" x="-14.29" y="293.23" width="0.64" height="11.54"/>
+   <rect id="_330945912" class="fil0 str0" x="-16.83" y="293.23" width="0.64" height="11.54"/>
+   <rect id="_330947208" class="fil0 str0" x="-19.37" y="293.23" width="0.64" height="11.54"/>
+   <rect id="_330947160" class="fil0 str0" x="-21.91" y="293.23" width="0.64" height="11.54"/>
+   <rect id="_330947232" class="fil0 str1" x="-22.86" y="299.23" width="45.72" height="2.54"/>
+   <text x="-3.4569" y="286.525" id="_330947424" class="fil1 fnt0">2.54 mm </text>
+   <text x="-6.0726" y="288.167" id="_330947424" class="fil1 fnt0">18 PIN HEADER</text>
+   <text x="-2.9786" y="305.836" id="_330946464" class="fil1 fnt1">oom.lt/</text>
+   <text x="1.2361" y="305.836" id="_330946464" class="fil1 fnt2">H18</text>
   </g>
  </g>
 </svg>
