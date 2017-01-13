@@ -41,14 +41,6 @@
 				<note></note>			
 			</manufacturer>
 				
-			<bigDistributor>
-				<company>SEEED Studio</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>SMD PPTC 750mA-16V</name>
-				<partID>307010002</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=71]]></link>
-				<note></note>
-			</bigDistributor>									
 		</sourceList>
 		
 <com>OPL</com>		
@@ -60,7 +52,7 @@
 				<oplID>307010002</oplID>
 				<oplFootprint>$2.266/Set </oplFootprint>
 				<oplPackage>$2.266/Set </oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=71]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>

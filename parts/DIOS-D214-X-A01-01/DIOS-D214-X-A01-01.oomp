@@ -40,14 +40,6 @@
 				<note></note>			
 			</manufacturer>
 				
-							<bigDistributor>
-				<company>SEEED</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>SMD Diode Schottky 40V-1A</name>
-				<partID>304020027</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=45]]></link>
-				<note></note>
-			</bigDistributor>					
 		</sourceList>
 		
 <com>OPL</com>		
@@ -59,7 +51,7 @@
 				<oplID>304020027</oplID>
 				<oplFootprint>DO-214AC</oplFootprint>
 				<oplPackage>DO-214AC</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=45]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>

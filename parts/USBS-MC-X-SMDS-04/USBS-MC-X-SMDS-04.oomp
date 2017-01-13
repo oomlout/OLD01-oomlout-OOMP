@@ -41,14 +41,6 @@
 				<note></note>			
 			</manufacturer>
 				
-			<bigDistributor>
-				<company>SEEED Studio</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>SMD Micro USB-B</name>
-				<partID>320010005</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=629]]></link>
-				<note></note>
-			</bigDistributor>									
 		</sourceList>
 		
 <com>OPL</com>		
@@ -60,7 +52,7 @@
 				<oplID>320010005</oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=629]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>

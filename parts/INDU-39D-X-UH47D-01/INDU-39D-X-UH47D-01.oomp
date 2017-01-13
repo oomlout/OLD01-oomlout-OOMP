@@ -41,14 +41,6 @@
 				<note></note>			
 			</manufacturer>
 				
-			<bigDistributor>
-				<company>SEEED Studio</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>SMD Power Inductor 4.7uH-20%</name>
-				<partID>0210410P1</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=88]]></link>
-				<note></note>
-			</bigDistributor>									
 		</sourceList>
 		
 <com>OPL</com>		
@@ -60,7 +52,7 @@
 				<oplID>0210410P1</oplID>
 				<oplFootprint>SMD-2P-3.9X3.9X2.0H</oplFootprint>
 				<oplPackage>SMD-2P-3.9X3.9X2.0H</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Inductor]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>

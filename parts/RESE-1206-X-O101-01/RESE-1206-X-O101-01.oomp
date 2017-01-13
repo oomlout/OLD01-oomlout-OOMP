@@ -91,14 +91,6 @@
 				<link><![CDATA[ ]]></link>
 				<note></note>
 			</bigDistributor>					
-			<bigDistributor>
-				<company>SEEED Studio</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>SMD RES 100R-5%-1/4W</name>
-				<partID>301010412</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=48]]></link>
-				<note></note>
-			</bigDistributor>					
 		</sourceList>
 		<oplList>
 			<oplSystem>
@@ -108,7 +100,7 @@
 				<oplID>301010412</oplID>
 				<oplFootprint>1206</oplFootprint>
 				<oplPackage>1206</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=48]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList>	<oompClass>Surface Mount</oompClass>
 	<oompClassCode>SMDS</oompClassCode>

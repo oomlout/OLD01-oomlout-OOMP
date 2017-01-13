@@ -41,14 +41,6 @@
 				<note></note>			
 			</manufacturer>
 				
-			<bigDistributor>
-				<company>SEEED Studio</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>SMD IC RF 2.4G RF  Cortex M0 MCU QFAA 256KB Flash 16KB RAM VCC 1.8V-3.6V</name>
-				<partID>310060026</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/s/310060026.html?search_in_description=0]]></link>
-				<note></note>
-			</bigDistributor>									
 		</sourceList>
 		
 <com>OPL</com>		
@@ -60,7 +52,7 @@
 				<oplID>310060026</oplID>
 				<oplFootprint>QFN-48</oplFootprint>
 				<oplPackage>QFN-48</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/310060026.html?search_in_description=0]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>

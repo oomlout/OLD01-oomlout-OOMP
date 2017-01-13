@@ -48,14 +48,6 @@
 				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/fairchild-on-semiconductor/LL4148/LL4148FSDKR-ND/1923182]]></link>
 				<note></note>
 			</bigDistributor>			
-			<bigDistributor>
-				<company>SEEED Studio</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>SMD Diode Switching 75V-200mA</name>
-				<partID>304040011</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=177]]></link>
-				<note></note>
-			</bigDistributor>									
 		</sourceList>
 		
 <com>OPL</com>		
@@ -67,7 +59,7 @@
 				<oplID>304040011</oplID>
 				<oplFootprint>LL-34</oplFootprint>
 				<oplPackage>LL-34</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=177]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>

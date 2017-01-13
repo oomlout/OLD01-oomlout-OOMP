@@ -72,14 +72,6 @@
 				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=406-580]]></link>
 				<note></note>
 			</bigDistributor>	
-			<bigDistributor>
-				<company>SEEED Studio</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>SMD IC Interface;USB to UART;Speed 300b-3Mbaud;VCC 1.8V-5.25V</name>
-				<partID>310070022</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/s/310070022.html?search_in_description=0]]></link>
-				<note></note>
-			</bigDistributor>	
 				
 		</sourceList>
 		
@@ -92,7 +84,7 @@
 				<oplID>310070022</oplID>
 				<oplFootprint>28-SSOP</oplFootprint>
 				<oplPackage>28-SSOP</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/310070022.html?search_in_description=0]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 			<oplSystem>
 				<oplScheme>Octopart CPL</oplScheme>

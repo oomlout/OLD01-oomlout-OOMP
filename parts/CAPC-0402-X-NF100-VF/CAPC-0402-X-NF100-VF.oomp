@@ -53,15 +53,7 @@
 				<link></link>
 				<note></note>			
 			</manufacturer>
-				
-			<bigDistributor>
-				<company>SEEED Studio</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>SMD CAP Ceramic 100nF-16V-10%-X7R</name>
-				<partID>302010004</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=261]]></link>
-				<note></note>
-			</bigDistributor>									
+												
 				
 				
 		</sourceList>
@@ -75,7 +67,7 @@
 				<oplID>302010004</oplID>
 				<oplFootprint>0402</oplFootprint>
 				<oplPackage>0402</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Capacitor]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>

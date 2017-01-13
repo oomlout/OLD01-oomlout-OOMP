@@ -52,14 +52,6 @@
 				<note></note>			
 			</manufacturer>
 				
-			<bigDistributor>
-				<company>SEEED</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>SMD PMIC; LDO;Vin 5V;3.3V;1A;Without En;1-Ch</name>
-				<partID>310030097</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=33]]></link>
-				<note></note>
-			</bigDistributor>					
 		</sourceList>
 		
 <com>OPL</com>		
@@ -71,7 +63,7 @@
 				<oplID>310030097</oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=33]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>

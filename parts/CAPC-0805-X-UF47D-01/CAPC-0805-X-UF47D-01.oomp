@@ -55,14 +55,6 @@
 				<note></note>			
 			</manufacturer>
 				
-			<bigDistributor>
-				<company>SEEED Studio</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>SMD CAP Ceramic 4.7uF-25V-10%-X5R;0805</name>
-				<partID>302010146</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=194]]></link>
-				<note></note>
-			</bigDistributor>									
 				
 				
 		</sourceList>
@@ -76,7 +68,7 @@
 				<oplID>302010146</oplID>
 				<oplFootprint>0805</oplFootprint>
 				<oplPackage>0805</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Capacitor]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>

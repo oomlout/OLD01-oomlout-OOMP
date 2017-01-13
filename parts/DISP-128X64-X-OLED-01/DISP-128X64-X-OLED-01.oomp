@@ -41,14 +41,6 @@
 				<note></note>			
 			</manufacturer>
 				
-			<bigDistributor>
-				<company>SEEED Studio</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>OLED-128*64;27P-0.6-L26.7*W19.26*H1.3mm</name>
-				<partID>308020000</partID>
-				<link><![CDATA[]]></link>
-				<note></note>
-			</bigDistributor>									
 		</sourceList>
 		
 <com>OPL</com>		
@@ -60,7 +52,7 @@
 				<oplID>308020000</oplID>
 				<oplFootprint>128*64;27P-0.6-L26.7*W19.26*H1.3mm</oplFootprint>
 				<oplPackage>128*64;27P-0.6-L26.7*W19.26*H1.3mm</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#optoelectronics]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>

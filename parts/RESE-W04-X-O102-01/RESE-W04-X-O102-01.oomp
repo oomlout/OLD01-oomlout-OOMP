@@ -91,14 +91,6 @@
 				<link><![CDATA[ ]]></link>
 				<note></note>
 			</bigDistributor>					
-			<bigDistributor>	
-				<company>SEEED Studio</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>DIP RES 1K-5%-1/4W;Axial-D2.3*L6.5mm</name>
-				<partID>301020000</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=]]></link>
-				<note></note>
-			</bigDistributor>	
 				
 		</sourceList>
 		<oplList>
@@ -109,7 +101,7 @@
 				<oplID>301020000</oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>			</oplList>	<oompClass>Through Hole Component</oompClass>
 	<oompClassCode>THTH</oompClassCode>
 	<oompBbls></oompBbls>

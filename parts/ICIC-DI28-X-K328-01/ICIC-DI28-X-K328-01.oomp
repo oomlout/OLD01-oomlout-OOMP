@@ -130,14 +130,6 @@
 				<link><![CDATA[http://uk.rs-online.com/web/p/microcontrollers/6962260/?searchTerm=ATMEGA328P-PU&relevancy-data=636F3D3226696E3D4931384E4B6E6F776E41734D504E266C753D656E266D6D3D6D61746368616C6C7061727469616C26706D3D5E5B5C707B4C7D5C707B4E647D2D2C2F255C2E5D2B2426706F3D313326736E3D592673743D4D414E5F504152545F4E554D4245522677633D424F5448267573743D41544D454741333238502D505526]]></link>
 				<note></note>
 			</bigDistributor>				
-			<bigDistributor>
-				<company>SEEED Studio</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>IC MCU 8BIT 32KB FLASH</name>
-				<partID>310010051</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=23]]></link>
-				<note></note>
-			</bigDistributor>			
 		</sourceList>
 		<oplList>
 			<oplSystem>
@@ -166,7 +158,7 @@
 				<oplID>310010051</oplID>
 				<oplFootprint>28-DIP</oplFootprint>
 				<oplPackage>28-DIP</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=23]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList>	<oompClass>Through Hole Component</oompClass>
 	<oompClassCode>THTH</oompClassCode>	

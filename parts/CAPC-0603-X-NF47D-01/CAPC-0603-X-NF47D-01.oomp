@@ -113,14 +113,6 @@
 				<link><![CDATA[http://uk.mouser.com/Search/Refine.aspx?Keyword=603-C0603KRX7R9BB472]]></link>
 				<note></note>
 			</bigDistributor>				
-			<bigDistributor>
-				<company>SEEED Studios</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>SMD CAP Ceramic 4.7nF-50V-10%-X7R</name>
-				<partID>302010144</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=42]]></link>
-				<note></note>
-			</bigDistributor>				
 		</sourceList>
 		<oplList>
 			<oplSystem>
@@ -130,7 +122,7 @@
 				<oplID>302010144</oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage>0603</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=42]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 			<oplSystem>
 				<oplScheme>OctoPart CPL</oplScheme>

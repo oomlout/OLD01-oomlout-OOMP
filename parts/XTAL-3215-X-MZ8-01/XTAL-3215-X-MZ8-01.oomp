@@ -63,15 +63,7 @@
 				<partID>747-4732</partID>
 				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=747-4732]]></link>
 				<note></note>
-			</bigDistributor>				<bigDistributor>
-				<company>SEEED Studio</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>SMD Crystal 8MHz-33pF-0.1%</name>
-				<partID>306030005</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=942]]></link>
-				<note></note>
-			</bigDistributor>	
-				
+			</bigDistributor>		
 		</sourceList>
 		
 <com>OPL</com>		
@@ -83,7 +75,7 @@
 				<oplID>306030005</oplID>
 				<oplFootprint>W1.3*L3.2*H1.1mm</oplFootprint>
 				<oplPackage>W1.3*L3.2*H1.1mm</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=942]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>

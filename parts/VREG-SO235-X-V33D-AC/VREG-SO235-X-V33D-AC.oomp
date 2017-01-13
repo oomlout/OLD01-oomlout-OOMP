@@ -86,14 +86,6 @@
 				<link><![CDATA[http://uk.mouser.com/ProductDetail/Texas-Instruments/LP2985-33DBVR/?qs=sGAEpiMZZMsGz1a6aV8DcCOj5hh%2fNjhX4p6toGEueJ8%3d]]></link>
 				<note></note>
 			</bigDistributor>	
-			<bigDistributor>
-				<company>SEEED</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>SMD PMIC;LDO;Vin 10V;3.3V;150mA;With En;1-Ch</name>
-				<partID>310030046</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=109]]></link>
-				<note></note>
-			</bigDistributor>
 		</sourceList>
 		
 <com>OPL</com>		
@@ -123,7 +115,7 @@
 				<oplID>310030046</oplID>
 				<oplFootprint>SOT25</oplFootprint>
 				<oplPackage>SOT25</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=109]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>

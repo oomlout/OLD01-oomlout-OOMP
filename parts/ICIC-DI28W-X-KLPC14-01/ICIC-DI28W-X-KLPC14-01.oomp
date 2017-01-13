@@ -41,14 +41,6 @@
 				<note></note>			
 			</manufacturer>
 				
-			<bigDistributor>
-				<company>SEEED Studio</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>DIP IC MCU; ARM Cortex-M0 based 32-bit MCU (DIP)</name>
-				<partID>310010024</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/LPC1114FN28-ARM-CortexM0-based-32bit-MCU-DIP-p-1700.html?cPath=6_11]]></link>
-				<note></note>
-			</bigDistributor>									
 		</sourceList>
 		
 <com>OPL</com>		
@@ -60,7 +52,7 @@
 				<oplID>310010024</oplID>
 				<oplFootprint>DIP-28</oplFootprint>
 				<oplPackage>DIP-28</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#IC]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>

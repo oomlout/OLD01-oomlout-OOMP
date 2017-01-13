@@ -99,14 +99,6 @@
 				<link><![CDATA[ ]]></link>
 				<note></note>
 			</bigDistributor>					
-			<bigDistributor>					
-				<company>SEEED</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>SMD LED Clear-Green</name>
-				<partID>304090043</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=6]]></link>
-				<note></note>
-			</bigDistributor>					
 		</sourceList>
 		<oplList>
 			<oplSystem>
@@ -116,7 +108,7 @@
 				<oplID>304090043</oplID>
 				<oplFootprint>0603</oplFootprint>
 				<oplPackage>0603</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=6]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList>	<oompClass>Surface Mount</oompClass>
 	<oompClassCode>SMDS</oompClassCode>

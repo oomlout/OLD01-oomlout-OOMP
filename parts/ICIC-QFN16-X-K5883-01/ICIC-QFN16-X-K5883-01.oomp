@@ -56,14 +56,6 @@
 				<link><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=1971743]]></link>
 				<note></note>
 			</bigDistributor>	
-			<bigDistributor>
-				<company>SEEED Studio</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>SMD 3-Axis Magnetic Sensor</name>
-				<partID>314040002</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/s/314040002.html?search_in_description=0]]></link>
-				<note></note>
-			</bigDistributor>	
 				
 		</sourceList>
 		
@@ -76,7 +68,7 @@
 				<oplID>314040002</oplID>
 				<oplFootprint>QFN-16</oplFootprint>
 				<oplPackage>QFN-16</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/314040002.html?search_in_description=0]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 			<oplSystem>
 				<oplScheme>Circuithub.com</oplScheme>

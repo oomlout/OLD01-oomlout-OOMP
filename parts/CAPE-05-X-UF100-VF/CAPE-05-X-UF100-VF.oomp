@@ -55,14 +55,6 @@
 				<note></note>			
 			</manufacturer>
 				
-			<bigDistributor>
-				<company>SEEED Studio</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>DIP CAP Aluminum 100uF-16V</name>
-				<partID>302030031</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=189]]></link>
-				<note></note>
-			</bigDistributor>									
 				
 				
 		</sourceList>
@@ -76,7 +68,7 @@
 				<oplID>302030031</oplID>
 				<oplFootprint>Radial-D5.0*H7.0mm</oplFootprint>
 				<oplPackage>Radial-D5.0*H7.0mm</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Capacitor]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>

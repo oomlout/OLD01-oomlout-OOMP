@@ -109,14 +109,6 @@
 				<link><![CDATA[http://uk.rs-online.com/web/p/rectifier-schottky-diodes/6708836/]]></link>
 				<note></note>
 			</bigDistributor>		
-			<bigDistributor>
-				<company>SEEED Studio</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>DIODE GEN PURPOSE 1KV 1A</name>
-				<partID>304010013</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=31]]></link>
-				<note></note>
-			</bigDistributor>
 		</sourceList>
 			
 		
@@ -140,7 +132,7 @@
 				<oplID>304010013</oplID>
 				<oplFootprint>DO-214AC</oplFootprint>
 				<oplPackage>DO-214AC</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=31]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList><com>Hidden</com>
         <oompAbout>This is a commonly used general purpose high current (1A) surface mount diode. </oompAbout>

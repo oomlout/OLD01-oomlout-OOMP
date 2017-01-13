@@ -72,14 +72,6 @@
 				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=536-0492]]></link>
 				<note></note>
 			</bigDistributor>	
-			<bigDistributor>
-				<company>SEEED Studio</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>DIP PMIC;LDO;Vin 2.3-30V;3.3V;Adj;100mA;Without En;1-Ch</name>
-				<partID>310030028</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=1411]]></link>
-				<note></note>
-			</bigDistributor>	
 				
 		</sourceList>
 		
@@ -92,7 +84,7 @@
 				<oplID>310030028</oplID>
 				<oplFootprint> TO-92 </oplFootprint>
 				<oplPackage> TO-92 </oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=1411]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 			<oplSystem>
 				<oplScheme>Circuithub.com</oplScheme>

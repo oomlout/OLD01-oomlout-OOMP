@@ -99,14 +99,6 @@
 				<link><![CDATA[ ]]></link>
 				<note></note>
 			</bigDistributor>
-			<bigDistributor>
-				<company>SEEED Studio</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>DIP RES 100K-5%-1/6W;</name>
-				<partID>301020040</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=593]]></link>
-				<note></note>
-			</bigDistributor>				
 		</sourceList>
 		<oplList>
 				<oplSystem>
@@ -116,7 +108,7 @@
 				<oplID>301020040</oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=593]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList>	<oompClass>Through Hole Component</oompClass>
 	<oompClassCode>THTH</oompClassCode>

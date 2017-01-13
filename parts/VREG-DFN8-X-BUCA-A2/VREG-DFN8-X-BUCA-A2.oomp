@@ -41,14 +41,6 @@
 				<note></note>			
 			</manufacturer>
 				
-			<bigDistributor>
-				<company>SEEED Studio</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>SMD PMIC;DC-DC;Vin 2.6-5.5V,Adj;2A;3MHz;Sync;Buck;1-Ch</name>
-				<partID>310030161</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/s/310030161.html?search_in_description=0]]></link>
-				<note></note>
-			</bigDistributor>									
 		</sourceList>
 		
 <com>OPL</com>		
@@ -60,7 +52,7 @@
 				<oplID>310030161</oplID>
 				<oplFootprint>$1.5/Set </oplFootprint>
 				<oplPackage>$1.5/Set </oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/310030161.html?search_in_description=0]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>

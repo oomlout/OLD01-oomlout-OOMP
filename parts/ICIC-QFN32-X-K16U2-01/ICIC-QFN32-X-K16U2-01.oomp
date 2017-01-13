@@ -67,14 +67,6 @@
 				<link><![CDATA[http://uk.mouser.com/ProductDetail/Atmel/ATMEGA16U2-MU/?qs=sGAEpiMZZMvqv2n3s2xjsYzXfq0AWv1CPzAhpc7LPFc%3d]]></link>
 				<note></note>
 			</bigDistributor>
-			<bigDistributor>
-				<company>SEEED</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>SMD IC MCU;AVR;8-bit;16KB;16MHz;2.7-5.5V</name>
-				<partID>310010018</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=1415]]></link>
-				<note></note>
-			</bigDistributor>
 					
 		</sourceList>
 		
@@ -96,7 +88,7 @@
 				<oplID>310010018</oplID>
 				<oplFootprint>32QFN</oplFootprint>
 				<oplPackage>32QFN</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=1415]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>

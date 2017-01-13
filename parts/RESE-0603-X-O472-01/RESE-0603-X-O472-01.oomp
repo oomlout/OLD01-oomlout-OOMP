@@ -91,14 +91,6 @@
 				<link><![CDATA[ ]]></link>
 				<note></note>
 			</bigDistributor>					
-			<bigDistributor>
-				<company>SEEED</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>SMD RES 4.7K-5%-1/10W</name>
-				<partID>301010290</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=10]]></link>
-				<note></note>
-			</bigDistributor>					
 		</sourceList>
 		<oplList>
 			<oplSystem>
@@ -108,7 +100,7 @@
 				<oplID>301010290</oplID>
 				<oplFootprint>0603</oplFootprint>
 				<oplPackage></oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=10]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList>	<oompClass>Surface Mount</oompClass>
 	<oompClassCode>SMDS</oompClassCode>

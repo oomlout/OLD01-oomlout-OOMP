@@ -41,14 +41,6 @@
 				<note></note>			
 			</manufacturer>
 				
-							<bigDistributor>
-				<company>SEEED</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>DIP Mini USB-B</name>
-				<partID>320010014</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=36]]></link>
-				<note></note>
-			</bigDistributor>					
 		</sourceList>
 		
 <com>OPL</com>		
@@ -60,7 +52,7 @@
 				<oplID>320010014</oplID>
 				<oplFootprint>MINI-B-5P-SMD</oplFootprint>
 				<oplPackage>MINI-B-5P-SMD</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=36]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>

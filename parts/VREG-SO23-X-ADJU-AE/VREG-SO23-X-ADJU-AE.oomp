@@ -42,14 +42,6 @@
 			</manufacturer>
 				
 				
-			<bigDistributor>
-				<company>SEEED Studio</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>SMD PMIC;LDO;Vin 18V;Adj;200mA;Without En;1-Ch</name>
-				<partID>310030079</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=1210]]></link>
-				<note></note>
-			</bigDistributor>	
 				
 		</sourceList>
 		
@@ -62,7 +54,7 @@
 				<oplID>310030079</oplID>
 				<oplFootprint>SOT-23</oplFootprint>
 				<oplPackage>SOT-23</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=1210]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>

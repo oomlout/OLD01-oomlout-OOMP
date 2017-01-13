@@ -41,14 +41,6 @@
 				<note></note>			
 			</manufacturer>
 				
-							<bigDistributor>
-				<company>SEEED</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>CONN JUMPER SHORTING</name>
-				<partID>320190003</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=9]]></link>
-				<note></note>
-			</bigDistributor>					
 		</sourceList>
 		
 <com>OPL</com>		
@@ -60,7 +52,7 @@
 				<oplID>320190003</oplID>
 				<oplFootprint>2P-2.54</oplFootprint>
 				<oplPackage>2P-2.54</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=9]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>

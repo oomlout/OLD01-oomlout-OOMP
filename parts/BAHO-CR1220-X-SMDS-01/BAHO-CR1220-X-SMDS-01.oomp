@@ -41,14 +41,6 @@
 				<note></note>			
 			</manufacturer>
 				
-			<bigDistributor>
-				<company>SEEED Studio</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>SMD Battery Cell Holder Plastic</name>
-				<partID>320170000</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=130]]></link>
-				<note></note>
-			</bigDistributor>								
 		</sourceList>
 		
 <com>OPL</com>		
@@ -60,7 +52,7 @@
 				<oplID>320170000</oplID>
 				<oplFootprint>CR1220-15.06*13.00*H4.1mm</oplFootprint>
 				<oplPackage>CR1220-15.06*13.00*H4.1mm</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Connector]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList><com>Hidden</com>
         <oompAbout>A surface mount battery holder for a CR1220 lithium ion button cell. Commonly used as a battery backup for on board clocks.</oompAbout>

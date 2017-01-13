@@ -115,14 +115,6 @@
 				<note></note>
 			</bigDistributor>
 				
-			<bigDistributor>
-				<company>SEEED Studios</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>SMD CAP Ceramic 1uF-25V-10%-X7R</name>
-				<partID>302010179</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=8]]></link>
-				<note></note>
-			</bigDistributor>					
 		</sourceList>
 		<oplList>
 			<oplSystem>
@@ -132,7 +124,7 @@
 				<oplID>302010179</oplID>
 				<oplFootprint></oplFootprint>
 				<oplPackage>0805</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#Capacitor]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 			<oplSystem>
 				<oplScheme>HubStock</oplScheme>

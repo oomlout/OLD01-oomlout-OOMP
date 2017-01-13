@@ -41,14 +41,6 @@
 				<note></note>			
 			</manufacturer>
 				
-			<bigDistributor>
-				<company>SEEED Studio</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>SMD IC Interface;USB to UART;Speed 300b-3Mbaud;VCC 2.97V-5.5V</name>
-				<partID>310070030</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/s/310070030.html?search_in_description=0]]></link>
-				<note></note>
-			</bigDistributor>									
 		</sourceList>
 		
 <com>OPL</com>		
@@ -60,7 +52,7 @@
 				<oplID>310070030</oplID>
 				<oplFootprint>SSOP-16</oplFootprint>
 				<oplPackage>SSOP-16</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/310070030.html?search_in_description=0]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>

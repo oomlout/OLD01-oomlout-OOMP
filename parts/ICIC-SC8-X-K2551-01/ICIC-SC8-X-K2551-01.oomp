@@ -41,14 +41,6 @@
 				<note></note>			
 			</manufacturer>
 				
-							<bigDistributor>
-				<company>SEEED Studio</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>SMD IC Interface</name>
-				<partID>310070024</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=212]]></link>
-				<note></note>
-			</bigDistributor>					
 		</sourceList>
 		
 <com>OPL</com>		
@@ -60,7 +52,7 @@
 				<oplID>310070024</oplID>
 				<oplFootprint>8-SOIC</oplFootprint>
 				<oplPackage>8-SOIC</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/wiki/Open_parts_library#IC]]></oplLink>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList><com>Hidden</com>
         <oompAbout></oompAbout>
