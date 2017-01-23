@@ -27,15 +27,15 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1601"
-   inkscape:window-height="1028"
+   inkscape:window-width="1920"
+   inkscape:window-height="1057"
    id="namedview309"
    showgrid="false"
-   inkscape:zoom="0.50701889"
-   inkscape:cx="1112.6299"
-   inkscape:cy="60.609376"
-   inkscape:window-x="71"
-   inkscape:window-y="-8"
+   inkscape:zoom="1.7587218"
+   inkscape:cx="584.51778"
+   inkscape:cy="369.01518"
+   inkscape:window-x="-8"
+   inkscape:window-y="2152"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg2" />
  <defs
@@ -468,7 +468,25 @@
   
   
  </defs>
- <rect
+ <text
+   style="font-size:41.66690063px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+   id="text301"
+   class="fil0 fnt8"
+   y="339.30099"
+   x="86.596222">Resistor</text>
+<text
+   style="font-size:41.66690063px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
+   id="text303"
+   class="fil0 fnt8"
+   y="386.54501"
+   x="86.596222">SMD (0603)</text>
+<rect
+   style="fill:#ffffff;fill-rule:evenodd;stroke:none"
+   id="rect3133-1"
+   width="397.67743"
+   height="107.10867"
+   x="529.53119"
+   y="294.84247" /><rect
    style="fill:#000000;stroke:none;stroke-width:0.93149769000000004"
    id="rect279"
    height="183.5881"
@@ -500,6 +518,7 @@
      x="138.88373"
      y="643.69379">R6183</tspan></text>
 
+
 </g><rect
    class="fil0 str0"
    x="159.84805"
@@ -528,6 +547,7 @@
 
 
 
+
   </g><text
    xml:space="preserve"
    style="font-size:60px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans Mono;-inkscape-font-specification:Sans Bold"
@@ -539,6 +559,7 @@
      id="tspan3152"
      x="166.25604"
      y="503.29153">R6183</tspan></text>
+
 
 <rect
    transform="scale(-1,1)"
@@ -568,6 +589,7 @@
 
 
 
+
   </g><rect
    style="fill:#ffffff;stroke:none"
    id="rect3133"
@@ -585,6 +607,7 @@
    x="449.18655"><tspan
      style="text-align:center;text-anchor:middle;-inkscape-font-specification:DejaVu Sans Bold;font-family:DejaVu Sans;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:51.46465231px"
      id="tspan3314">RESE-0603-X-O183-01</tspan></text>
+
 
 
 
@@ -631,12 +654,14 @@
 
 
 
+
 <text
    style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
    id="text293"
    class="fil0 fnt8"
    y="339.30099"
    x="15.0764">Type:</text>
+
 
 
 
@@ -659,12 +684,14 @@
 
 
 
+
 <text
    style="font-size:20px;font-weight:bold;fill:#000000;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold;font-style:normal;font-stretch:normal;font-variant:normal"
    id="text297"
    class="fil0 fnt8"
    y="339.30099"
    x="540.73102">Desc:</text>
+
 
 
 
@@ -687,12 +714,6 @@
 
 
 
-<text
-   style="font-size:41.66690063px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
-   id="text301"
-   class="fil0 fnt8"
-   y="339.30099"
-   x="86.596222">Resistor</text>
 
 
 
@@ -701,12 +722,9 @@
 
 
 
-<text
-   style="font-size:41.66690063px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"
-   id="text303"
-   class="fil0 fnt8"
-   y="386.54501"
-   x="86.596222">SMD (0603)</text>
+
+
+
 
 
 
@@ -721,6 +739,7 @@
    class="fil0 fnt8"
    y="389.30099"
    x="609.04517"></text>
+
 
 
 
@@ -744,6 +763,7 @@
 
 
 
+
 <g
    transform="translate(-210.00834,275.44879)"
    id="use3148"
@@ -756,6 +776,7 @@
    style="font-size:92.63158417px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold"><tspan
      id="tspan3154"
      style="font-size:23.7135334px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;text-anchor:start;fill:#ffffff;font-family:DejaVu Sans Mono;-inkscape-font-specification:DejaVu Sans Mono Bold">http://oom.lt/R6183</tspan></text>
+
 
 
 
@@ -799,6 +820,7 @@
 
 
 
+
   </g><rect
    class="fil0 str0"
    x="864.56567"
@@ -818,6 +840,7 @@
    transform="scale(0.88047104,1.1357557)"><tspan
      style="text-align:center;text-anchor:middle"
      id="tspan3316">*R6183*</tspan></text>
+
 
 
 
