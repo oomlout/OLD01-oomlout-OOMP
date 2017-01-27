@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __M3 x 20 mm Metal Screw Cross Head__    
+Name: __M3 x 20 mm Metal Machine Screw Cross Head__    
 ID: __SCRE-M3-M-20-70__   
 Hex ID: __M320__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/SCRE-M3-M-20-70__   
