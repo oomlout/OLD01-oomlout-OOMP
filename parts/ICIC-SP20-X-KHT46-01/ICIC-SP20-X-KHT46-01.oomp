@@ -193,11 +193,16 @@
 		<oompDiag>
 				<drawItem>template;ICIC-SP20-X-XXXX-01-diag</drawItem>	
 	</oompDiag>		
-	<oompIden></oompIden>	
-	<oompSchem></oompSchem>	
-	<oompSimp></oompSimp>	
+	<oompIden>
+				<drawItem>template;ICIC-SP20-X-XXXX-01-iden</drawItem>
+	</oompIden>	
+	<oompSchem>
+	</oompSchem>	
+	<oompSimp>
+				<drawItem>template;ICIC-SP20-X-XXXX-01-simp</drawItem>
+	</oompSimp>	
 
-		<ooPackageMarking></ooPackageMarking>
-		<ooDesignator></ooDesignator>
+		<ooPackageMarking>HT46R066B</ooPackageMarking>
+		<ooDesignator>U1</ooDesignator>
     </oompPart>			
 </xml>
