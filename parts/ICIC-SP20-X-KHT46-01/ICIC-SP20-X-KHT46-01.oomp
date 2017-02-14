@@ -1,0 +1,203 @@
+<xml>
+    <oompPart>
+
+<com>OOMP Base</com>
+        <oompID>ICIC-SP20-X-KHT46-01</oompID>
+        <name> 20 Pin SMD (SOP) Holtek HT46R066 </name>
+
+        <hexID>ICSKHT46</hexID>
+        <oompSort>ICICSP20KHT46</oompSort>
+
+		<oompClass></oompClass>
+		<oompClassCode></oompClassCode>		
+		
+        <oompType>ICIC</oompType>
+        <oompSize>SP20</oompSize>
+        <oompColor>X</oompColor>
+        <oompDesc>KHT46</oompDesc>
+        <oompIndex>01</oompIndex>
+
+        <oompVersion>98</oompVersion>
+
+
+		
+		
+<com>Size</com>
+        <ooPitch></ooPitch>
+        <ooWidth></ooWidth>
+        <ooHeight></ooHeight>
+        <ooDiameter></ooDiameter>
+        <ooLength></ooLength>
+        <ooDepth></ooDepth>
+
+<com>Description</com>
+        <ooNumPins></ooNumPins>
+        <ooPowerRating></ooPowerRating>
+
+
+<com>Maximums</com>
+        <ooMaxCurrent></ooMaxCurrent>
+        <ooMaxVoltage></ooMaxVoltage>
+        <ooLifetime></ooLifetime>
+        <ooTolerance></ooTolerance>
+
+
+<com>Source List</com>		
+		<sourceList>
+			<manufacturer>
+				<company>0</company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID>0</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+				
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>					
+
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>					
+		</sourceList>
+		
+<com>OPL</com>		
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>0</oplName>
+				<oplID>0</oplID>
+				<oplFootprint>0</oplFootprint>
+				<oplPackage>0</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/0.html?search_in_description=0]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme></oplScheme>
+				<oplCode></oplCode>
+				<oplName></oplName>
+				<oplID></oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[]]></oplLink>
+			</oplSystem>
+			<oplSystem>
+				<oplScheme></oplScheme>
+				<oplCode></oplCode>
+				<oplName></oplName>
+				<oplID></oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[]]></oplLink>
+			</oplSystem>
+		</oplList>
+
+<com>Hidden</com>
+        <oompAbout></oompAbout>
+        <ooProjectName1></ooProjectName1>
+        <ooProjectDesc1></ooProjectDesc1>
+        <ooProjectLink1></ooProjectLink1>
+        <ooProjectType1></ooProjectType1>
+        <ooBuyName1></ooBuyName1>
+        <ooBuyDesc1></ooBuyDesc1>
+        <ooBuyLink1></ooBuyLink1>
+        <ooBuyType1></ooBuyType1>
+
+	<com>Footprint</com>
+		<footprintList>
+			<footprintSystem>
+				<footprintScheme>Eagle Default</footprintScheme>
+				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+		</footprintList>
+
+
+	<ooPin01>PA3/INT/AN3</ooPin01>
+	<ooPin02>PA2/TC0/AN2</ooPin02>
+	<ooPin03>PA1/TC0/AN1</ooPin03>
+	<ooPin04>PA0/AN0</ooPin04>
+	<ooPin05>VSS/GND</ooPin05>
+	<ooPin06>PC0/AN4</ooPin06>
+	<ooPin07>PC1/AN5</ooPin07>
+	<ooPin08>PB0/SCOM0</ooPin08>
+	<ooPin09>PB1/SCOM1</ooPin09>
+	<ooPin10>PB2/SCOM2</ooPin10>
+	
+	<ooPin11>PB3/SCOM3</ooPin11>
+	<ooPin12>PB4/TC0</ooPin12>
+	<ooPin13>PB5/INT</ooPin13>
+	<ooPin14>PC2</ooPin14>
+	<ooPin15>PC3/PWM1</ooPin15>
+	<ooPin16>VDD</ooPin16>
+	<ooPin17>PA7/RES</ooPin17>
+	<ooPin18>PA6/OSC1</ooPin18>
+	<ooPin19>PA5/OSC2</ooPin19>
+	<ooPin20>PA4/PWM0/TC1</ooPin20>
+		
+		
+	<oompBbls></oompBbls>	
+		<oompDiag>
+				<drawItem>template;ICIC-SP20-X-XXXX-01-diag</drawItem>	
+	</oompDiag>		
+	<oompIden></oompIden>	
+	<oompSchem></oompSchem>	
+	<oompSimp></oompSimp>	
+
+		<ooPackageMarking></ooPackageMarking>
+		<ooDesignator></ooDesignator>
+    </oompPart>			
+</xml>

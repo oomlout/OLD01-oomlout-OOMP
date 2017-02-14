@@ -1,0 +1,26 @@
+	<oompTemplate>
+		<drawItem>linewidth;0.1</drawItem>
+		<drawItem>rectangle;0;0;7.65;12.7;Main Square</drawItem>  		
+		<drawItem>circle;-3;5.5;0.25;0.25;Pin 1 marker</drawItem>  		
+		<drawItem>rectangle;-4.525;-5.715;0.4;1.4;pin 10</drawItem>
+		<drawItem>rectangle;-4.525;-4.445;0.4;1.4;pin 9</drawItem>
+		<drawItem>rectangle;-4.525;-3.175;0.4;1.4;pin 8</drawItem>
+		<drawItem>rectangle;-4.525;-1.905;0.4;1.4;pin 7</drawItem>
+		<drawItem>rectangle;-4.525;-0.635;0.4;1.4;pin 6</drawItem>
+		<drawItem>rectangle;-4.525;0.635;0.4;1.4;pin 5</drawItem>
+		<drawItem>rectangle;-4.525;1.905;0.4;1.4;pin 4</drawItem>
+		<drawItem>rectangle;-4.525;3.175;0.4;1.4;pin 3</drawItem>
+		<drawItem>rectangle;-4.525;4.445;0.4;1.4;pin 2</drawItem>
+		<drawItem>rectangle;-4.525;5.715;0.4;1.4;pin 1</drawItem>
+		<drawItem>rectangle;4.525;-5.715;0.4;1.4;pin 11</drawItem>
+		<drawItem>rectangle;4.525;-4.445;0.4;1.4;pin 12</drawItem>
+		<drawItem>rectangle;4.525;-3.175;0.4;1.4;pin 13</drawItem>
+		<drawItem>rectangle;4.525;-1.905;0.4;1.4;pin 14</drawItem>
+		<drawItem>rectangle;4.525;-0.635;0.4;1.4;pin 15</drawItem>
+		<drawItem>rectangle;4.525;0.635;0.4;1.4;pin 16</drawItem>
+		<drawItem>rectangle;4.525;1.905;0.4;1.4;pin 17</drawItem>
+		<drawItem>rectangle;4.525;3.175;0.4;1.4;pin 18</drawItem>
+		<drawItem>rectangle;4.525;4.445;0.4;1.4;pin 19</drawItem>
+		<drawItem>rectangle;4.525;5.715;0.4;1.4;pin 20</drawItem>
+		
+	</oompTemplate>
