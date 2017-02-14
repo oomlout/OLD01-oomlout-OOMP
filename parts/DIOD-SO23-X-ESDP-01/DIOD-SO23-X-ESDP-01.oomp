@@ -64,14 +64,28 @@
         <ooBuyDesc1></ooBuyDesc1>
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>	
-    	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
+		<ooPin01>C</ooPin01>
+		<ooPin02>C</ooPin02>
+		<ooPin03>A</ooPin03>
+		
+		
+			<oompBbls>
+				<drawItem>template;XXXX-SO23-X-XXXX-01-bbls</drawItem>		
+	</oompBbls>	
+	<oompDiag>
+				<drawItem>template;XXXX-SO23-X-XXXX-01-diag</drawItem>	
+	</oompDiag>	
+	<oompIden>
+				<drawItem>template;XXXX-SO23-X-XXXX-01-iden</drawItem>	
+	</oompIden>	
 	<oompSchem>
-		<drawItem>template;DIOD-XXXX-X-XXXX-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+		<drawItem>template;DIOS-XXXX-X-ESDP-XX-schem</drawItem>
+	</oompSchem>	
+	<oompSimp>
+				<drawItem>template;XXXX-SO23-X-XXXX-01-simp</drawItem>	
+	</oompSimp>	
+
+		<ooPackageMarking>5M</ooPackageMarking>
 		<ooDesignator>D1</ooDesignator>
 </oompPart>	
 	

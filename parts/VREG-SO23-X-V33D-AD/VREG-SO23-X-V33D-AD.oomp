@@ -1,6 +1,7 @@
 <xml>
 <oompPart>
-        <index>9876</index><com>OOMP Base</com>
+        <index>9876</index>
+		<com>OOMP Base</com>
         <oompID>VREG-SO23-X-V33D-AD</oompID>
         <name>SMD (SOT-23) 3.3v Voltage Regulator 250 mA</name>
         <hexID>VS332</hexID>
@@ -71,12 +72,27 @@
     
 	<oompClass>Surface Mount</oompClass>
 	<oompClassCode>SMDS</oompClassCode>
-	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem></oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+		<ooPin01>VSS</ooPin01>
+		<ooPin02>VOUT</ooPin02>
+		<ooPin03>VIN</ooPin03>
+				<oompBbls>
+				<drawItem>template;XXXX-SO23-X-XXXX-01-bbls</drawItem>		
+	</oompBbls>	
+	<oompDiag>
+				<drawItem>template;XXXX-SO23-X-XXXX-01-diag</drawItem>	
+	</oompDiag>	
+	<oompIden>
+				<drawItem>template;XXXX-SO23-X-XXXX-01-iden</drawItem>	
+	</oompIden>	
+	<oompSchem>
+		
+	</oompSchem>	
+	<oompSimp>
+				<drawItem>template;XXXX-SO23-X-XXXX-01-simp</drawItem>	
+	</oompSimp>	
+
+		<ooPackageMarking>662S</ooPackageMarking>
 		<ooDesignator>U1</ooDesignator>
+	
 </oompPart>
 </xml>

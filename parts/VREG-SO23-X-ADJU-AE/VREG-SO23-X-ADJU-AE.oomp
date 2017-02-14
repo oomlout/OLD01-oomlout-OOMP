@@ -66,11 +66,26 @@
         <ooBuyDesc1></ooBuyDesc1>
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>	
-    </oompPart>	
-	<oompBbls></oompBbls>	
-	<oompDiag></oompDiag>	
-	<oompIden></oompIden>	
+    
+		<ooPin01>REF</ooPin01>
+		<ooPin02>CATH</ooPin02>
+		<ooPin03>ANODE</ooPin03>
+		
+			<oompBbls>
+				<drawItem>template;XXXX-SO23-X-XXXX-01-bbls</drawItem>		
+	</oompBbls>	
+	<oompDiag>
+				<drawItem>template;XXXX-SO23-X-XXXX-01-diag</drawItem>	
+	</oompDiag>	
+	<oompIden>
+				<drawItem>template;XXXX-SO23-X-XXXX-01-iden</drawItem>	
+	</oompIden>	
 	<oompSchem></oompSchem>	
-	<oompSimp></oompSimp>			<ooPackageMarking></ooPackageMarking>
-		<ooDesignator>U</ooDesignator>
+	<oompSimp>
+				<drawItem>template;XXXX-SO23-X-XXXX-01-simp</drawItem>	
+	</oompSimp>	
+
+		<ooPackageMarking>432</ooPackageMarking>
+		<ooDesignator>U1</ooDesignator>
+</oompPart>			
 </xml>

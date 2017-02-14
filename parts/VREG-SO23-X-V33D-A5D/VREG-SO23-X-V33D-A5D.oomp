@@ -112,12 +112,29 @@
 			</oplSystem>
 		</oplList>	<oompClass>Surface Mount</oompClass>
 	<oompClassCode>SMDS</oompClassCode>
-	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem></oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
-		<ooDesignator>U1</ooDesignator>
+		<ooPin01>VSS</ooPin01>
+		<ooPin02>VOUT</ooPin02>
+		<ooPin03>VIN</ooPin03>
+			<oompBbls>
+				<drawItem>template;XXXX-SO23-X-XXXX-01-bbls</drawItem>		
+	</oompBbls>	
+	<oompDiag>
+				<drawItem>template;XXXX-SO23-X-XXXX-01-diag</drawItem>	
+	</oompDiag>	
+	<oompIden>
+				<drawItem>template;XXXX-SO23-X-XXXX-01-iden</drawItem>	
+	</oompIden>	
+	<oompSchem>
+		
+	</oompSchem>	
+	<oompSimp>
+				<drawItem>template;XXXX-SO23-X-XXXX-01-simp</drawItem>	
+	</oompSimp>	
+
+		<ooPackageMarking>662K</ooPackageMarking>
+		<ooDesignator>D1</ooDesignator>
+	
+	
+	
 </oompPart>
 </xml>
