@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __M3 x 6 mm Screw Cross Head__    
+Name: __M3 x 6 mm Machine Screw Cross Head__    
 ID: __SCRE-M3-X-06-70__   
 Hex ID: __M36__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/SCRE-M3-X-06-70__   

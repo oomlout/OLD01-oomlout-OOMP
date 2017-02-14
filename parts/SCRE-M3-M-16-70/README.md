@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __M3 x 16 mm Screw Cross Head__    
+Name: __M3 x 16 mm Machine Screw Cross Head__    
 ID: __SCRE-M3-M-16-70__   
 Hex ID: __M316__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/SCRE-M3-M-16-70__   

@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __M3 x 30 mm Metal Screw Cross Head__    
+Name: __M3 x 30 mm Metal Machine Screw Cross Head__    
 ID: __SCRE-M3-M-30-70__   
 Hex ID: __M330__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/SCRE-M3-M-30-70__   
