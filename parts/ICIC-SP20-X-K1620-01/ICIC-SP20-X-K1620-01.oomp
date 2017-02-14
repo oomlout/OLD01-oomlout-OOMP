@@ -188,14 +188,21 @@
 	<ooPin19>CLK</ooPin19>
 	<ooPin20>STB</ooPin20>
 		
-		
-	<oompBbls></oompBbls>	
+
+	<oompBbls>
+			<drawItem>template;ICIC-SP20-X-XXXX-01-bbls</drawItem>	
+	</oompBbls>	
 		<oompDiag>
 				<drawItem>template;ICIC-SP20-X-XXXX-01-diag</drawItem>	
 	</oompDiag>		
-	<oompIden></oompIden>	
-	<oompSchem></oompSchem>	
-	<oompSimp></oompSimp>	
+	<oompIden>
+				<drawItem>template;ICIC-SP20-X-XXXX-01-iden</drawItem>
+	</oompIden>	
+	<oompSchem>
+	</oompSchem>	
+	<oompSimp>
+				<drawItem>template;ICIC-SP20-X-XXXX-01-simp</drawItem>
+	</oompSimp>	
 
 		<ooPackageMarking>TM1620</ooPackageMarking>
 		<ooDesignator>U1</ooDesignator>

@@ -189,7 +189,9 @@
 	<ooPin20>PA4/PWM0/TC1</ooPin20>
 		
 		
-	<oompBbls></oompBbls>	
+	<oompBbls>
+			<drawItem>template;ICIC-SP20-X-XXXX-01-bbls</drawItem>	
+	</oompBbls>	
 		<oompDiag>
 				<drawItem>template;ICIC-SP20-X-XXXX-01-diag</drawItem>	
 	</oompDiag>		
