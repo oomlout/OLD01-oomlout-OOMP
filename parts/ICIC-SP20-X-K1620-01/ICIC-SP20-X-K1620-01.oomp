@@ -164,15 +164,40 @@
 				<footprintNote></footprintNote>
 			</footprintSystem>
 		</footprintList>
-    </oompPart>	
+    
 
 
+	<ooPin01>VDD</ooPin01>
+	<ooPin02>SEG1</ooPin02>
+	<ooPin03>SEG2</ooPin03>
+	<ooPin04>SEG3</ooPin04>
+	<ooPin05>SEG4</ooPin05>
+	<ooPin06>SEG5</ooPin06>
+	<ooPin07>SEG6</ooPin07>
+	<ooPin08>SEG7</ooPin08>
+	<ooPin09>SEG8</ooPin09>
+	<ooPin10>GRID6</ooPin10>	
+	<ooPin11>GRID5</ooPin11>
+	<ooPin12>GND</ooPin12>
+	<ooPin13>GRID4</ooPin13>
+	<ooPin14>GRID3</ooPin14>
+	<ooPin15>GND</ooPin15>
+	<ooPin16>GRID2</ooPin16>
+	<ooPin17>GRID1</ooPin17>
+	<ooPin18>DIN</ooPin18>
+	<ooPin19>CLK</ooPin19>
+	<ooPin20>STB</ooPin20>
+		
+		
 	<oompBbls></oompBbls>	
-	<oompDiag></oompDiag>	
+		<oompDiag>
+				<drawItem>template;ICIC-SP20-X-XXXX-01-diag</drawItem>	
+	</oompDiag>		
 	<oompIden></oompIden>	
 	<oompSchem></oompSchem>	
 	<oompSimp></oompSimp>	
 
 		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator></ooDesignator>
+	</oompPart>	
 </xml>

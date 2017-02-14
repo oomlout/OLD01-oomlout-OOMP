@@ -66,11 +66,36 @@
         <ooBuyDesc1></ooBuyDesc1>
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>	
-    </oompPart>	
+
+	<ooPin01>GND</ooPin01>
+	<ooPin02>SEG1/KS1</ooPin02>
+	<ooPin03>SEG2/KS2</ooPin03>
+	<ooPin04>SEG3/KS3</ooPin04>
+	<ooPin05>SEG4/KS4</ooPin05>
+	<ooPin06>SEG5/KS5</ooPin06>
+	<ooPin07>SEG6/KS6</ooPin07>
+	<ooPin08>SEG7/KS7</ooPin08>
+	<ooPin09>SEG8/KS8</ooPin09>
+	<ooPin10>GRID6</ooPin10>	
+	<ooPin11>GRID5</ooPin11>
+	<ooPin12>GRID4</ooPin12>
+	<ooPin13>GRID3</ooPin13>
+	<ooPin14>GRID2</ooPin14>
+	<ooPin15>GRID1</ooPin15>
+	<ooPin16>VDD</ooPin16>
+	<ooPin17>DIO</ooPin17>
+	<ooPin18>CLK</ooPin18>
+	<ooPin19>K1</ooPin19>
+	<ooPin20>K2</ooPin20>
+		
+		
 	<oompBbls></oompBbls>	
-	<oompDiag></oompDiag>	
+		<oompDiag>
+				<drawItem>template;ICIC-SP20-X-XXXX-01-diag</drawItem>	
+	</oompDiag>	
 	<oompIden></oompIden>	
 	<oompSchem></oompSchem>	
 	<oompSimp></oompSimp>			<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>U</ooDesignator>
+    </oompPart>	
 </xml>
