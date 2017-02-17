@@ -96,11 +96,24 @@
         <ooBuyDesc1></ooBuyDesc1>
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>	
-    </oompPart>	
-	<oompBbls></oompBbls>	
-	<oompDiag></oompDiag>	
-	<oompIden></oompIden>	
+    		<ooPin01>G</ooPin01>
+		<ooPin02>S</ooPin02>
+		<ooPin03>D</ooPin03>
+				<oompBbls>
+				<drawItem>template;XXXX-SO323-X-XXXX-01-bbls</drawItem>		
+	</oompBbls>	
+	<oompDiag>
+				<drawItem>template;XXXX-SO323-X-XXXX-01-diag</drawItem>	
+	</oompDiag>	
+	<oompIden>
+				<drawItem>template;XXXX-SO323-X-XXXX-01-iden</drawItem>	
+	</oompIden>	
 	<oompSchem></oompSchem>	
-	<oompSimp></oompSimp>			<ooPackageMarking></ooPackageMarking>
+	<oompSimp>
+				<drawItem>template;XXXX-SO323-X-XXXX-01-simp</drawItem>	
+	</oompSimp>	
+
+		<ooPackageMarking>K38</ooPackageMarking>
 		<ooDesignator>Q1</ooDesignator>
+	</oompPart>	
 </xml>
