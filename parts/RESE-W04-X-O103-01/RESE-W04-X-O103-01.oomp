@@ -105,7 +105,9 @@
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>			</oplList>	<oompClass>Through Hole Component</oompClass>
 	<oompClassCode>THTH</oompClassCode>
-	<oompBbls></oompBbls>
+	<oompBbls>
+		<drawItem>template;RESE-XXXX-X-XXXX-XX-bbls</drawItem>
+	</oompBbls>
 	<oompDiag></oompDiag>
 	<oompIden></oompIden>
 	<oompSchem>
