@@ -2481,6 +2481,11 @@
             <code>128X64</code>
             <name>128 x 64 Pixels</name>
     </oompSize>
+	
+	<oompSize>
+            <code>16X2</code>
+            <name>16 x 2 Character</name>
+    </oompSize>
 	<oompSize>
             <code>7SEL</code>
             <name>7 Segment LED</name>

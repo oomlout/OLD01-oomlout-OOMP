@@ -3,14 +3,14 @@
 <oompVersion>98</oompVersion>
 
 <com>IMPORTANT ALL MUST BE FILLED</com>
-<oompType>TRNN</oompType>
-<oompSize>T220</oompSize>
-<oompColor>X</oompColor>
-<oompDesc>A05</oompDesc>
-<oompIndex>01</oompIndex>
-<oompSort>TRNNT220A05</oompSort>
+<oompType>DISP</oompType>
+<oompSize>16X2</oompSize>
+<oompColor>G</oompColor>
+<oompDesc>LCD</oompDesc>
+<oompIndex>I2</oompIndex>
+<oompSort>DISP16X2LCD</oompSort>
 
-<hexID>TN120</hexID>
+<hexID>DS16</hexID>
 
 <oompClass></oompClass>
 <oompClassCode></oompClassCode>
@@ -89,8 +89,8 @@
 
 
 
-<ooNumPins>3</ooNumPins>
-<ooPitch>2.54</ooPitch>
+<ooNumPins></ooNumPins>
+<ooPitch></ooPitch>
 <ooWidth></ooWidth>
 <ooHeight></ooHeight>
 <ooDiameter></ooDiameter>
