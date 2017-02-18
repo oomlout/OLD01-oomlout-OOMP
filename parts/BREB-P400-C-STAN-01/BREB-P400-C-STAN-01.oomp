@@ -173,7 +173,9 @@
 		</oplList>
 	<oompClass>Wiring</oompClass>
 	<oompClassCode>WIRE</oompClassCode>
-	<oompBbls></oompBbls>
+	<oompBbls>
+		<drawItem>template;BREB-P400-C-STAN-01-bbls</drawItem>
+	</oompBbls>
 	<oompDiag></oompDiag>
 	<oompIden></oompIden>
 	<oompSchem></oompSchem>
