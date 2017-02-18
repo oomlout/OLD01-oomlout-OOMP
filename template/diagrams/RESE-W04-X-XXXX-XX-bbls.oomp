@@ -1,4 +1,5 @@
 	<oompTemplate>
+		<drawItem>linewidth;0.2</drawItem>
 		<drawItem>vLineColor;-1.782;0;1;2.3;##colorBand1@@;band1</drawItem>
 		<drawItem>vLineColor;-0.782;0;1;1.875;##colorBand2@@;band2</drawItem>
 		<drawItem>vLineColor;0.218;0;1;1.75;##colorBand3@@;band3</drawItem>
