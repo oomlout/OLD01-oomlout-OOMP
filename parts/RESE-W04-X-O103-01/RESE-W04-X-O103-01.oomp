@@ -113,12 +113,18 @@
 	<oompBbls>
 		<drawItem>template;RESE-W04-X-XXXX-XX-bbls</drawItem>
 	</oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
+	<oompDiag>
+		<drawItem>template;RESE-W04-X-XXXX-XX-diag</drawItem>
+	</oompDiag>
+	<oompIden>
+		<drawItem>template;RESE-W04-X-XXXX-XX-iden</drawItem>
+	</oompIden>
 	<oompSchem>
 		<drawItem>template;RESE-XXXX-X-XXXX-XX-schem</drawItem>
 	</oompSchem>
-	<oompSimp></oompSimp>
+	<oompSimp>
+		<drawItem>template;RESE-W04-X-XXXX-XX-simp</drawItem>
+	</oompSimp>
 		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>R1</ooDesignator>
 </oompPart>
