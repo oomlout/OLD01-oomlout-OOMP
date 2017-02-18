@@ -114,15 +114,7 @@
 		
 <com>OPL</com>		
 		<oplList>
-			<oplSystem>
-				<oplScheme>SEEED OPL</oplScheme>
-				<oplCode>C-SEEE</oplCode>
-				<oplName>0</oplName>
-				<oplID>0</oplID>
-				<oplFootprint>0</oplFootprint>
-				<oplPackage>0</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/0.html?search_in_description=0]]></oplLink>
-			</oplSystem>
+			
 			<oplSystem>
 				<oplScheme></oplScheme>
 				<oplCode></oplCode>
@@ -168,7 +160,7 @@
 
 
 	<oompBbls>
-		<drawItem>template;DISP-16X2-G-LCD-I2-bbls</drawItem>	
+		<drawItem>template;DISP-16X2-X-LCD-I2-bbls</drawItem>	
 	</oompBbls>	
 	<oompDiag></oompDiag>	
 	<oompIden></oompIden>	
