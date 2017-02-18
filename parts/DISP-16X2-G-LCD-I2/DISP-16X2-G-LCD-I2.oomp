@@ -156,8 +156,11 @@
 				<footprintNote></footprintNote>
 			</footprintSystem>
 		</footprintList>
-    </oompPart>	
-
+    
+		<ooPin01>SCL</ooPin01>
+		<ooPin02>SDA</ooPin02>
+		<ooPin03>VCC</ooPin03>
+		<ooPin04>GND</ooPin04>
 
 	<oompBbls>
 		<drawItem>template;DISP-16X2-X-LCD-I2-bbls</drawItem>	
@@ -169,4 +172,5 @@
 
 		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator></ooDesignator>
+		</oompPart>	
 </xml>

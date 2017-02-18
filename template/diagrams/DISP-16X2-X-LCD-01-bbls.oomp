@@ -1,6 +1,21 @@
 	<oompTemplate>
-
 		<drawItem>corTemplate;DISP-16X2-X-LCD-01</drawItem>
-				<drawItem>oompName;0;25;40;10;##name@@</drawItem>
+		<drawItem>textB;-32.87;14.375;3.75;##ooPin01@@;pin 1</drawItem>
+		<drawItem>textB;-30.33;13.25;3.75;##ooPin02@@;pin 1</drawItem>
+		<drawItem>textB;-27.79;14.375;3.75;##ooPin03@@;pin 1</drawItem>
+		<drawItem>textB;-25.25;13.25;3.75;##ooPin04@@;pin 1</drawItem>
+		<drawItem>textB;-22.71;14.375;3.75;##ooPin05@@;pin 1</drawItem>
+		<drawItem>textB;-20.17;13.25;3.75;##ooPin06@@;pin 1</drawItem>
+		<drawItem>textB;-17.63;14.375;3.75;##ooPin07@@;pin 1</drawItem>
+		<drawItem>textB;-15.09;13.25;3.75;##ooPin08@@;pin 1</drawItem>
+		<drawItem>textB;-12.55;14.375;3.75;##ooPin09@@;pin 1</drawItem>
+		<drawItem>textB;-10.01;13.25;3.75;##ooPin10@@;pin 1</drawItem>
+		<drawItem>textB;-7.47;14.375;3.75;##ooPin11@@;pin 1</drawItem>
+		<drawItem>textB;-4.93;13.25;3.75;##ooPin12@@;pin 1</drawItem>
+		<drawItem>textB;-2.39;14.375;3.75;##ooPin13@@;pin 1</drawItem>
+		<drawItem>textB;0.15;13.25;3.75;##ooPin14@@;pin 1</drawItem>
+		<drawItem>textB;2.69;14.375;3.75;##ooPin15@@;pin 1</drawItem>
+		<drawItem>textB;5.23;13.25;3.75;##ooPin16@@;pin 1</drawItem>
+		<drawItem>oompName;0;25;40;10;##name@@</drawItem>
 		<drawItem>oompURL;0;-22;12;##hexID@@</drawItem>	
 	</oompTemplate>
