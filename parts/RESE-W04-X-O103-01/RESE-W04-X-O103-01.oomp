@@ -105,8 +105,13 @@
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>			</oplList>	<oompClass>Through Hole Component</oompClass>
 	<oompClassCode>THTH</oompClassCode>
+	
+	<colourBand1>BROWN</colourBand1>
+	<colourBand2>BLACK</colourBand2>
+	<colourBand3>ORANGE</colourBand3>
+	
 	<oompBbls>
-		<drawItem>template;RESE-XXXX-X-XXXX-XX-bbls</drawItem>
+		<drawItem>template;RESE-W04-X-XXXX-XX-bbls</drawItem>
 	</oompBbls>
 	<oompDiag></oompDiag>
 	<oompIden></oompIden>
