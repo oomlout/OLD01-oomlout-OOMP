@@ -19,6 +19,11 @@
             <code>BUTA</code>
             <name>Pushbutton (Tactile)</name>
     </oompType>
+
+    <oompType>
+            <code>BUTP</code>
+            <name>Pushbutton</name>
+    </oompType>
     <oompType>
             <code>BUZZ</code>
             <name>Buzzer</name>
