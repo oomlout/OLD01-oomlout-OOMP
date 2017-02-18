@@ -164,7 +164,7 @@
 				<footprintNote></footprintNote>
 			</footprintSystem>
 		</footprintList>
-    </oompPart>	
+    
 
 
 	<oompBbls>!!0,newOOMP.oompType,oompBBLS!!</oompBbls>	
@@ -175,4 +175,5 @@
 
 		<ooPackageMarking>!!0,newOOMP.oompType,ooPackageMarking!!</ooPackageMarking>
 		<ooDesignator>!!0,newOOMP.oompType,ooDesignator!!</ooDesignator>
+	</oompPart>			
 </xml>
