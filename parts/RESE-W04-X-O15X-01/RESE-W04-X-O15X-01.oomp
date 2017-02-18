@@ -112,13 +112,25 @@
 			</oplSystem>
 		</oplList>	<oompClass>Through Hole Component</oompClass>
 	<oompClassCode>THTH</oompClassCode>
-	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
+<colorBand1>BROWN</colorBand1>
+	<colorBand2>GREEN</colorBand2>
+	<colorBand3>GOLD</colorBand3>
+	
+	<oompBbls>
+		<drawItem>template;RESE-W04-X-XXXX-XX-bbls</drawItem>
+	</oompBbls>
+	<oompDiag>
+		<drawItem>template;RESE-W04-X-XXXX-XX-diag</drawItem>
+	</oompDiag>
+	<oompIden>
+		<drawItem>template;RESE-W04-X-XXXX-XX-iden</drawItem>
+	</oompIden>
 	<oompSchem>
 		<drawItem>template;RESE-XXXX-X-XXXX-XX-schem</drawItem>
 	</oompSchem>
-	<oompSimp></oompSimp>
+	<oompSimp>
+		<drawItem>template;RESE-W04-X-XXXX-XX-simp</drawItem>
+	</oompSimp>
 		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>R1</ooDesignator>
 </oompPart>
