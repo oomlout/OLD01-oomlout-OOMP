@@ -1,0 +1,11 @@
+	<oompTemplate>
+		<drawItem>linewidth;0.2</drawItem>
+		<drawItem>template;XXXX-T220-X-XXXX-01</drawItem>
+		<drawItem>textB;-2.54;1;4;##ooPin01@@;pin 1</drawItem>
+		<drawItem>textB;0;1;4;##ooPin02@@;pin 2</drawItem>
+		<drawItem>textB;2.54;1;4;##ooPin03@@;pin 3</drawItem>
+		<drawItem>textB;0;6;6;##ooPackageMarking@@;id</drawItem>em>
+		
+		<drawItem>oompName;0;18;20;5;##name@@</drawItem>
+		<drawItem>oompURL;0;-17.5;2.835;##hexID@@</drawItem>	
+	</oompTemplate>

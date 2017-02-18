@@ -1,0 +1,157 @@
+<xml>
+    <oompPart>
+
+<com>OOMP Base</com>
+        <oompID>TRNN-T220-X-A05-01</oompID>
+        <name>TO-220 5 Amp NPN Transistor</name>
+
+        <hexID>TN120</hexID>
+        <oompSort>TRNNT220A05</oompSort>
+
+		<oompClass></oompClass>
+		<oompClassCode></oompClassCode>		
+		
+        <oompType>TRNN</oompType>
+        <oompSize>T220</oompSize>
+        <oompColor>X</oompColor>
+        <oompDesc>A05</oompDesc>
+        <oompIndex>01</oompIndex>
+
+        <oompVersion>98</oompVersion>
+
+
+		
+		
+<com>Size</com>
+        <ooPitch>2.54</ooPitch>
+        <ooWidth></ooWidth>
+        <ooHeight></ooHeight>
+        <ooDiameter></ooDiameter>
+        <ooLength></ooLength>
+        <ooDepth></ooDepth>
+
+<com>Description</com>
+        <ooNumPins>3</ooNumPins>
+        <ooPowerRating></ooPowerRating>
+
+
+<com>Maximums</com>
+        <ooMaxCurrent>5 Amp</ooMaxCurrent>
+        <ooMaxVoltage></ooMaxVoltage>
+        <ooLifetime></ooLifetime>
+        <ooTolerance></ooTolerance>
+
+
+<com>Source List</com>		
+		<sourceList>
+			<manufacturer>
+				<company>Fairchild</company>
+				<companyCode>C-FAIR</companyCode>
+				<name></name>
+				<partID>TIP120</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+			<manufacturer>
+				<company>STMicroelectronics</company>
+				<companyCode>C-STMI</companyCode>
+				<name></name>
+				<partID>TIP120</partID>
+				<link></link>
+				<note></note>			
+			</manufacturer>
+				
+			
+			<bigDistributor>
+				<company>Farnell</company>
+				<companyCode>C-FARN</companyCode>
+				<name>FAIRCHILD SEMICONDUCTOR  TIP120  Bipolar (BJT) Single Transistor, Darlington, NPN, 60 V, 65 W, 5 A, 1000 hFE</name>
+				<partID>2454191</partID>
+				<link><![CDATA[http://uk.farnell.com/fairchild-semiconductor/tip120/transistor-bipol-npn-60v-to-220ab/dp/2454191]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company>Digikey</company>
+				<companyCode>C-DIGK</companyCode>
+				<name>Bipolar (BJT) Transistor NPN - Darlington 60V 5A 2W Through Hole TO-220-3</name>
+				<partID>TIP120-ND</partID>
+				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/fairchild-on-semiconductor/TIP120/TIP120-ND/1052441]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company>Mouser</company>
+				<companyCode>C-MOUS</companyCode>
+				<name>Darlington Transistors NPN Epitaxial Darl</name>
+				<partID>512-TIP120</partID>
+				<link><![CDATA[http://www.mouser.co.uk/ProductDetail/Fairchild-Semiconductor/TIP120/?qs=sGAEpiMZZMuGqqSvxcmxwoydirLRmfJr]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company>Rapid Online</company>
+				<companyCode>C-RAPI</companyCode>
+				<name>ST TIP120 Darlington NPN 60V 5A TO220</name>
+				<partID>81-0168</partID>
+				<link><![CDATA[https://www.rapidonline.com/st-tip120-darlington-npn-60v-5a-to220-81-0168]]></link>
+				<note></note>
+			</bigDistributor>	
+			<bigDistributor>
+				<company></company>
+				<companyCode></companyCode>
+				<name></name>
+				<partID></partID>
+				<link><![CDATA[]]></link>
+				<note></note>
+			</bigDistributor>					
+		</sourceList>
+		
+<com>OPL</com>		
+		<oplList>
+			
+		</oplList>
+
+<com>Hidden</com>
+        <oompAbout></oompAbout>
+        <ooProjectName1></ooProjectName1>
+        <ooProjectDesc1></ooProjectDesc1>
+        <ooProjectLink1></ooProjectLink1>
+        <ooProjectType1></ooProjectType1>
+        <ooBuyName1></ooBuyName1>
+        <ooBuyDesc1></ooBuyDesc1>
+        <ooBuyLink1></ooBuyLink1>
+        <ooBuyType1></ooBuyType1>
+
+	<com>Footprint</com>
+		<footprintList>
+			<footprintSystem>
+				<footprintScheme>Eagle Default</footprintScheme>
+				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
+				<footprintCode></footprintCode>
+				<footprintName></footprintName>
+				<footprintNote></footprintNote>
+			</footprintSystem>
+		</footprintList>
+	
+		<ooPin01>B</ooPin01>
+		<ooPin02>C</ooPin02>
+		<ooPin03>E</ooPin03>
+
+		<oompBbls>
+		<drawItem>template;XXXX-T220-X-XXXX-01-bbls</drawItem>
+	</oompBbls>
+	<oompDiag>
+		<drawItem>template;XXXX-T220-X-XXXX-01-diag</drawItem>
+	</oompDiag>
+	<oompIden>
+		<drawItem>template;XXXX-T220-X-XXXX-01-iden</drawItem>
+	</oompIden>
+	<oompSchem>
+		<drawItem>template;RESE-XXXX-X-XXXX-XX-schem</drawItem>
+	</oompSchem>
+	<oompSimp>
+		<drawItem>template;XXXX-T220-X-XXXX-01-simp</drawItem>
+	</oompSimp>	
+
+		<ooPackageMarking>TIP120</ooPackageMarking>
+		<ooDesignator>Q1</ooDesignator>
+    </oompPart>		
+</xml>

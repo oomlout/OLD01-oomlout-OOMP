@@ -3,14 +3,14 @@
 <oompVersion>98</oompVersion>
 
 <com>IMPORTANT ALL MUST BE FILLED</com>
-<oompType>ICIC</oompType>
-<oompSize>SP20</oompSize>
+<oompType>TRNN</oompType>
+<oompSize>T220</oompSize>
 <oompColor>X</oompColor>
-<oompDesc>KHT46</oompDesc>
+<oompDesc>A05</oompDesc>
 <oompIndex>01</oompIndex>
-<oompSort>ICICSP20KHT46</oompSort>
+<oompSort>TRNNT220A05</oompSort>
 
-<hexID>ICSKHT46</hexID>
+<hexID>TN120</hexID>
 
 <oompClass></oompClass>
 <oompClassCode></oompClassCode>
@@ -89,8 +89,8 @@
 
 
 
-<ooNumPins></ooNumPins>
-<ooPitch></ooPitch>
+<ooNumPins>3</ooNumPins>
+<ooPitch>2.54</ooPitch>
 <ooWidth></ooWidth>
 <ooHeight></ooHeight>
 <ooDiameter></ooDiameter>
