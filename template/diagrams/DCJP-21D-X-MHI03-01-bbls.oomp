@@ -1,6 +1,8 @@
 	<oompTemplate>
 
 		<drawItem>corTemplate;DCJP-21D-X-MHI03-01-bbls</drawItem>
+		<drawItem>textB;-3.5;2;5;##ooPin01@@;pin 1</drawItem>
+		<drawItem>textB;3.5;2;5;##ooPin02@@;pin 1</drawItem>
 		<drawItem>oompName;0;8;20;5;##name@@</drawItem>
 		<drawItem>oompURL;0;-6.5;2.835;##hexID@@</drawItem>	
 		
