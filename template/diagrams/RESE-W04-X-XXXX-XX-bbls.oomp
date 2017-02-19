@@ -1,10 +1,11 @@
 	<oompTemplate>
 		<drawItem>linewidth;0.2</drawItem>
+		<drawItem>template;RESE-W04-X-XXXX-01</drawItem>
 		<drawItem>vLineColor;-1.782;0;1;2.3;##colorBand1@@;band1</drawItem>
 		<drawItem>vLineColor;-0.782;0;1;1.875;##colorBand2@@;band2</drawItem>
 		<drawItem>vLineColor;0.218;0;1;1.75;##colorBand3@@;band3</drawItem>
 		<drawItem>vLineColor;2.218;0;1;2.3;GOLD;band3</drawItem>
-		<drawItem>template;RESE-W04-X-XXXX-01</drawItem>
+		<drawItem>template;RESE-W04-X-XXXX-OT</drawItem>
 		<drawItem>oompName;0;5;20;5;##name@@</drawItem>
 		<drawItem>oompURL;0;-3.5;2.835;##hexID@@</drawItem>	
 	</oompTemplate>
