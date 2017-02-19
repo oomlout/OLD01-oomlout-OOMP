@@ -2,19 +2,19 @@
     <oompPart>
 
 <com>OOMP Base</com>
-        <oompID>BUTP-07-X-STAN-69</oompID>
-        <name> 7 mm Pushbutton Panel Mount </name>
+        <oompID>DCJP-21D-X-MHI03-69</oompID>
+        <name> 2.1 mm (7 mm mounting hole) DC Jack Panel Mount </name>
 
-        <hexID>BP07</hexID>
-        <oompSort>BUTP07STAN</oompSort>
+        <hexID>GJP3</hexID>
+        <oompSort>DCJP21DMHI03</oompSort>
 
 		<oompClass></oompClass>
 		<oompClassCode></oompClassCode>		
 		
-        <oompType>BUTP</oompType>
-        <oompSize>07</oompSize>
+        <oompType>DCJP</oompType>
+        <oompSize>21D</oompSize>
         <oompColor>X</oompColor>
-        <oompDesc>STAN</oompDesc>
+        <oompDesc>MHI03</oompDesc>
         <oompIndex>69</oompIndex>
 
         <oompVersion>98</oompVersion>
@@ -45,10 +45,10 @@
 <com>Source List</com>		
 		<sourceList>
 			<manufacturer>
-				<company>0</company>
+				<company>EClyxun</company>
 				<companyCode></companyCode>
 				<name></name>
-				<partID>0</partID>
+				<partID>DC-022B</partID>
 				<link></link>
 				<note></note>			
 			</manufacturer>
@@ -61,13 +61,6 @@
 				<note></note>			
 			</manufacturer>
 				
-			<bigDistributor>
-				<company>SEEED Studio</company>
-				<companyCode>C-SEEE</companyCode>
-				<name>0</name>
-				<partID>0</partID>
-				<link><![CDATA[http://www.seeedstudio.com/depot/s/0.html?search_in_description=0]]></link>
-				<note></note>
 			</bigDistributor>					
 
 			<bigDistributor>
@@ -117,11 +110,11 @@
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
-				<oplName>0</oplName>
-				<oplID>0</oplID>
-				<oplFootprint>0</oplFootprint>
-				<oplPackage>0</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/0.html?search_in_description=0]]></oplLink>
+				<oplName>SMD MOSFET P-CH 20V 6A</oplName>
+				<oplID>305030075</oplID>
+				<oplFootprint>SOT-23F</oplFootprint>
+				<oplPackage>SOT-23F</oplPackage>
+				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/305030075.html?search_in_description=0]]></oplLink>
 			</oplSystem>
 			<oplSystem>
 				<oplScheme></oplScheme>
@@ -166,9 +159,12 @@
 		</footprintList>
     
 
-
-	<oompBbls></oompBbls>	
-	<oompDiag></oompDiag>	
+	<oompBbls>
+				<drawItem>template;DCJP-21D-X-MHI03-01-bbls</drawItem>		
+	</oompBbls>	
+	<oompDiag>
+				<drawItem>template;DCJP-21D-X-MHI03-01-diag</drawItem>	
+	</oompDiag>	
 	<oompIden></oompIden>	
 	<oompSchem></oompSchem>	
 	<oompSimp></oompSimp>	

@@ -3,22 +3,22 @@
 <oompVersion>98</oompVersion>
 
 <com>IMPORTANT ALL MUST BE FILLED</com>
-<oompType>BUTP</oompType>
-<oompSize>07</oompSize>
+<oompType>DCJP</oompType>
+<oompSize>21D</oompSize>
 <oompColor>X</oompColor>
-<oompDesc>STAN</oompDesc>
+<oompDesc>MHI03</oompDesc>
 <oompIndex>69</oompIndex>
-<oompSort>BUTP07STAN</oompSort>
+<oompSort>DCJP21DMHI03</oompSort>
 
-<hexID>BP07</hexID>
+<hexID>GJP3</hexID>
 
 <oompClass></oompClass>
 <oompClassCode></oompClassCode>
 
 <com>Source List</com>
-<manufacturerCompany1>0</manufacturerCompany1>
+<manufacturerCompany1>Toshiba</manufacturerCompany1>
 <manufacturerCompanyCode1></manufacturerCompanyCode1>
-<manufacturerPartID1>0</manufacturerPartID1>
+<manufacturerPartID1>SSM3J328R,LF</manufacturerPartID1>
 
 <manufacturerCompany2></manufacturerCompany2>
 <manufacturerCompanyCode2></manufacturerCompanyCode2>
@@ -49,11 +49,11 @@
 
 <oplScheme1>SEEED OPL</oplScheme1>
 <oplCode1>C-SEEE</oplCode1>
-<oplName1>0</oplName1>
-<oplID1>0</oplID1>
-<oplFootprint1>0</oplFootprint1>
-<oplPackage1>0</oplPackage1>
-<oplLink1><![CDATA[http://www.seeedstudio.com/depot/s/0.html?search_in_description=0]]></oplLink1>
+<oplName1>SMD MOSFET P-CH 20V 6A</oplName1>
+<oplID1>305030075</oplID1>
+<oplFootprint1>SOT-23F</oplFootprint1>
+<oplPackage1>SOT-23F</oplPackage1>
+<oplLink1><![CDATA[http://www.seeedstudio.com/depot/s/305030075.html?search_in_description=0]]></oplLink1>
 
 
 <oplScheme99>Octopart CPL</oplScheme99>
@@ -135,9 +135,9 @@
 
 <bigDistributorCompanyCode1>C-SEEE</bigDistributorCompanyCode1>
 <bigDistributorCompany1>SEEED Studio</bigDistributorCompany1>
-<bigDistributorPartID1>0</bigDistributorPartID1>
-<bigDistributorLink1><![CDATA[http://www.seeedstudio.com/depot/s/0.html?search_in_description=0]]></bigDistributorLink1>
-<bigDistributorName1>0</bigDistributorName1>
+<bigDistributorPartID1>305030075</bigDistributorPartID1>
+<bigDistributorLink1><![CDATA[http://www.seeedstudio.com/depot/s/305030075.html?search_in_description=0]]></bigDistributorLink1>
+<bigDistributorName1>SMD MOSFET P-CH 20V 6A</bigDistributorName1>
 
 </newOOMP>
 </xml>
