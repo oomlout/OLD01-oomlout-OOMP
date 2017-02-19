@@ -1,4 +1,5 @@
 	<oompTemplate>
+			<drawItem>linewidth;0.2</drawItem>
 		 <drawItem>rectangle;0;0;10.16;4.35;Main Square</drawItem>  		
 		 <drawItem>rectangle;-2.54;-0.675;0.6;0.6;pin1</drawItem>  		
 		 <drawItem>rectangle;0;-0.675;0.6;0.6;pin2</drawItem>  		

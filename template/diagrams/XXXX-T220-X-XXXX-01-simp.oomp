@@ -1,5 +1,6 @@
 	<oompTemplate>
-		<drawItem>rectangle;0;0;10.16;4.35;Main Square</drawItem>  		
+		<drawItem>rectangle;0;0;10.16;4.35;Main Square</drawItem>  	
+			<drawItem>hLine;0;0.925;10.16;1;top line</drawItem>
 		<drawItem>text;0;0;4;oom.lt/;pin 1</drawItem>
 		<drawItem>textB;0;-1.5;4;##hexID@@;pin 1</drawItem>
 	</oompTemplate>
