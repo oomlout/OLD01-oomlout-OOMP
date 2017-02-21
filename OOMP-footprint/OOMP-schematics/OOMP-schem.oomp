@@ -1,0 +1,23 @@
+<xml>
+	<oompSchematic>
+		<oompSchemTemplate>
+			<drawItem>variable;id;ARDC-SHEN-01</drawItem>
+			<drawItem>variable;name;Shennie Arduino Compatible</drawItem>
+			<drawItem>variable;designator;U</drawItem>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;30</drawItem>
+			<drawItem>variable;projOwner;ARDC-SHEN-01</drawItem>
+			<drawItem>template;ICIC-DIXX-X-XXXX-XX-schem</drawItem>
+		</oompSchemTemplate>
+	</oompSchematic>
+	<oompSchematic>
+		<id>HEAD-XX-X-01PI-XX</id>
+		<name>Header (1 Pin)</name>
+		<designator>J</designator>
+		<oompSchemTemplate>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;1</drawItem>
+			<drawItem>template;HEAD-XX-X-XXXX-XX-schem</drawItem>
+		</oompSchemTemplate>
+	</oompSchematic>	
+</xml>
