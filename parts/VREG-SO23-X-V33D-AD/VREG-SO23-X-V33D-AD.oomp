@@ -72,9 +72,9 @@
     
 	<oompClass>Surface Mount</oompClass>
 	<oompClassCode>SMDS</oompClassCode>
-		<ooPin01>VSS</ooPin01>
-		<ooPin02>VOUT</ooPin02>
-		<ooPin03>VIN</ooPin03>
+		<ooPin1>VSS</ooPin1>
+		<ooPin2>VOUT</ooPin2>
+		<ooPin3>VIN</ooPin3>
 				<oompBbls>
 				<drawItem>template;XXXX-SO23-X-XXXX-01-bbls</drawItem>		
 	</oompBbls>	

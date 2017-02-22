@@ -1,9 +1,9 @@
 	<oompTemplate>
 
 		<drawItem>corTemplate;DCJP-21D-X-MHI03-01-diag</drawItem>
-		<drawItem>textB;-2.6;-2;5;##ooPin01@@;pin 1</drawItem>
-		<drawItem>textB;2.6;-2;5;##ooPin02@@;pin 1</drawItem>
-		<drawItem>oompName;0;12.5<drawItem>textB;0;0.55;1;##ooPin03@@;pin 3</drawItem>;20;5;##name@@</drawItem>
+		<drawItem>textB;-2.6;-2;5;##ooPin1@@;pin 1</drawItem>
+		<drawItem>textB;2.6;-2;5;##ooPin2@@;pin 1</drawItem>
+		<drawItem>oompName;0;12.5<drawItem>textB;0;0.55;1;##ooPin3@@;pin 3</drawItem>;20;5;##name@@</drawItem>
 		<drawItem>oompURL;0;-10.5;2.835;##hexID@@</drawItem>	
 		
 	</oompTemplate>
