@@ -1,0 +1,5 @@
+<oompSchematic>
+	<drawItem>rectangle;-250;%%pins%%/2*50;250;-%%pins%%/2*50;OutlineSquare</drawItem>
+	<drawItem>repeat;%%pins%%/2;pin;-400;((%%pins%%/2*50)-50)-((%%i%%-1)*100);##ooPin%%i%%@@;Right;pin %%i%%</drawItem>
+	<drawItem>repeat;%%pins%%/2;pin;400;((%%pins%%/2*50)-50)-((%%i%%-1)*100);ba##ooPin!!%%i%%+%%pins%%/2^^@@;%%i%%+%%pins%%/2;Left;aa##ooPin%%i%%@@</drawItem>
+</oompSchematic>

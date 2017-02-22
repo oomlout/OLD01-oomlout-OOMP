@@ -1,0 +1,7 @@
+<oompSchematic>
+	<drawItem>variable;pins;3</drawItem>
+	<drawItem>rectangle;-50;%%pins%%*50;250;-%%pins%%*50;OutlineSquare</drawItem>
+	<drawItem>pin;-150;-100;B;1;Right;pin 1</drawItem>
+	<drawItem>pin;-150;-0;C;2;Right;pin 1</drawItem>
+	<drawItem>pin;-150;100;E;3;Right;pin 1</drawItem>	
+</oompSchematic>
