@@ -3,6 +3,7 @@
 		<oompSchemTemplate>
 			<drawItem>variable;clear</drawItem>
 			<drawItem>variable;id;ARDC-SHEN-01</drawItem>
+			<drawItem>variable;footprint1;OOMP-PRO-ARDC-SHEN-*</drawItem>
 			<drawItem>template;ICIC-DIXX-X-XXXX-XX-schem</drawItem>
 		</oompSchemTemplate>
 	</oompSchematic>
@@ -18,6 +19,7 @@
 			<drawItem>variable;clear</drawItem>
 			<drawItem>variable;name;Header (1 Pin)</drawItem>
 			<drawItem>variable;id;HEAD-XX-X-01PI-XX</drawItem>
+			<drawItem>variable;footprint1;HEAD-I01-X-01PI-*</drawItem>
 			<drawItem>variable;pins;1</drawItem>
 			<drawItem>template;HEAD-XX-X-XXXX-XX-schem</drawItem>
 		</oompSchemTemplate>
@@ -27,6 +29,7 @@
 			<drawItem>variable;clear</drawItem>
 			<drawItem>variable;name;Header (2 Pin)</drawItem>
 			<drawItem>variable;id;HEAD-XX-X-02PI-XX</drawItem>
+			<drawItem>variable;footprint1;HEAD-I01-X-02PI-*</drawItem>
 			<drawItem>variable;pins;2</drawItem>
 			<drawItem>template;HEAD-XX-X-XXXX-XX-schem</drawItem>
 		</oompSchemTemplate>
@@ -36,6 +39,7 @@
 			<drawItem>variable;clear</drawItem>
 			<drawItem>variable;name;Header (3 Pin)</drawItem>
 			<drawItem>variable;id;HEAD-XX-X-03PI-XX</drawItem>
+			<drawItem>variable;footprint1;HEAD-I01-X-03PI-*</drawItem>
 			<drawItem>variable;pins;3</drawItem>
 			<drawItem>template;HEAD-XX-X-XXXX-XX-schem</drawItem>
 		</oompSchemTemplate>
@@ -45,7 +49,68 @@
 			<drawItem>variable;clear</drawItem>
 			<drawItem>variable;name;Header (4 Pin)</drawItem>
 			<drawItem>variable;id;HEAD-XX-X-04PI-XX</drawItem>
+			<drawItem>variable;footprint1;HEAD-I01-X-04PI-*</drawItem>
 			<drawItem>variable;pins;4</drawItem>
+			<drawItem>template;HEAD-XX-X-XXXX-XX-schem</drawItem>
+		</oompSchemTemplate>
+	</oompSchematic>	
+	<oompSchematic>
+		<oompSchemTemplate>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;name;Header (5 Pin)</drawItem>
+			<drawItem>variable;id;HEAD-XX-X-05PI-XX</drawItem>
+			<drawItem>variable;pins;5</drawItem>
+			<drawItem>variable;footprint1;HEAD-I01-X-05PI-*</drawItem>
+			<drawItem>template;HEAD-XX-X-XXXX-XX-schem</drawItem>
+		</oompSchemTemplate>
+	</oompSchematic>	
+	<oompSchematic>
+		<oompSchemTemplate>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;name;Header (6 Pin)</drawItem>
+			<drawItem>variable;id;HEAD-XX-X-06PI-XX</drawItem>
+			<drawItem>variable;footprint1;HEAD-I01-X-06PI-*</drawItem>
+			<drawItem>variable;pins;6</drawItem>
+			<drawItem>template;HEAD-XX-X-XXXX-XX-schem</drawItem>
+		</oompSchemTemplate>
+	</oompSchematic>	
+	<oompSchematic>
+		<oompSchemTemplate>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;name;Header (7 Pin)</drawItem>
+			<drawItem>variable;id;HEAD-XX-X-07PI-XX</drawItem>
+			<drawItem>variable;footprint1;HEAD-I01-X-07PI-*</drawItem>
+			<drawItem>variable;pins;7</drawItem>
+			<drawItem>template;HEAD-XX-X-XXXX-XX-schem</drawItem>
+		</oompSchemTemplate>
+	</oompSchematic>	
+	<oompSchematic>
+		<oompSchemTemplate>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;name;Header (8 Pin)</drawItem>
+			<drawItem>variable;id;HEAD-XX-X-08PI-XX</drawItem>
+			<drawItem>variable;footprint1;HEAD-I01-X-08PI-*</drawItem>
+			<drawItem>variable;pins;8</drawItem>
+			<drawItem>template;HEAD-XX-X-XXXX-XX-schem</drawItem>
+		</oompSchemTemplate>
+	</oompSchematic>	
+	<oompSchematic>
+		<oompSchemTemplate>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;name;Header (10 Pin)</drawItem>
+			<drawItem>variable;id;HEAD-XX-X-10PI-XX</drawItem>
+			<drawItem>variable;footprint1;HEAD-I01-X-10PI-*</drawItem>
+			<drawItem>variable;pins;10</drawItem>
+			<drawItem>template;HEAD-XX-X-XXXX-XX-schem</drawItem>
+		</oompSchemTemplate>
+	</oompSchematic>	
+	<oompSchematic>
+		<oompSchemTemplate>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;name;Header (12 Pin)</drawItem>
+			<drawItem>variable;id;HEAD-XX-X-12PI-XX</drawItem>
+			<drawItem>variable;footprint1;HEAD-I01-X-12PI-*</drawItem>
+			<drawItem>variable;pins;12</drawItem>
 			<drawItem>template;HEAD-XX-X-XXXX-XX-schem</drawItem>
 		</oompSchemTemplate>
 	</oompSchematic>	
@@ -54,6 +119,7 @@
 			<drawItem>variable;clear</drawItem>
 			<drawItem>variable;name;Resistor</drawItem>
 			<drawItem>variable;id;RESE-XXXX-X-XXXX-XX</drawItem>
+			<drawItem>variable;footprint1;RESE-*</drawItem>
 			<drawItem>template;RESE-XXXX-X-XXXX-XX-schem</drawItem>
 		</oompSchemTemplate>
 	</oompSchematic>
@@ -62,6 +128,7 @@
 			<drawItem>variable;clear</drawItem>
 			<drawItem>variable;name;NPN Transistor</drawItem>
 			<drawItem>variable;id;TRNN-XXXX-X-BCE-XX</drawItem>
+			<drawItem>variable;id;TRNN-*-X-BCE-*</drawItem>
 			<drawItem>template;TRNN-XX-X-XXXX-XX-BCE-schem</drawItem>
 		</oompSchemTemplate>
 	</oompSchematic>
@@ -70,6 +137,7 @@
 			<drawItem>variable;clear</drawItem>
 			<drawItem>variable;name;LED</drawItem>
 			<drawItem>variable;id;LEDS-XXXX-X-XXXX-XX</drawItem>		
+			<drawItem>variable;id;LEDS-*</drawItem>
 			<drawItem>template;LEDS-XXXX-X-XXXX-XX-schem</drawItem>
 		</oompSchemTemplate>
 	</oompSchematic>
