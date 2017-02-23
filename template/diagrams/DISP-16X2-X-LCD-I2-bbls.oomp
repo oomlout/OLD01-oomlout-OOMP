@@ -1,10 +1,10 @@
 	<oompTemplate>
 
 		<drawItem>corTemplate;DISP-16X2-X-LCD-I2</drawItem>
-		<drawItem>textB;-35;9.571;5;##ooPin01@@;pin 1</drawItem>
-		<drawItem>textB;-35;7.031;5;##ooPin02@@;pin 2</drawItem>
-		<drawItem>textB;-35;4.491;5;##ooPin03@@;pin 3</drawItem>
-		<drawItem>textB;-35;1.951;5;##ooPin04@@;pin 4</drawItem>
+		<drawItem>textB;-35;9.571;5;##ooPin1@@;pin 1</drawItem>
+		<drawItem>textB;-35;7.031;5;##ooPin2@@;pin 2</drawItem>
+		<drawItem>textB;-35;4.491;5;##ooPin3@@;pin 3</drawItem>
+		<drawItem>textB;-35;1.951;5;##ooPin4@@;pin 4</drawItem>
 		<drawItem>oompName;0;25;40;10;##name@@</drawItem>
 		<drawItem>oompURL;0;-22;12;##hexID@@</drawItem>	
 	</oompTemplate>

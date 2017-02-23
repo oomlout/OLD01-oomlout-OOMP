@@ -162,15 +162,15 @@
 			</oplSystem>
 		</oplList>	<oompClass>Through Hole Component</oompClass>
 	<oompClassCode>THTH</oompClassCode>	
-		<ooPin01>PC6</ooPin01>
-		<ooPin02>PD0</ooPin02>
-		<ooPin03>PD1</ooPin03>
-		<ooPin04>PD2</ooPin04>
-		<ooPin05>PD3</ooPin05>
-		<ooPin06>PD4</ooPin06>
-		<ooPin07>VCC</ooPin07>
-		<ooPin08>GND</ooPin08>
-		<ooPin09>PB6</ooPin09>
+		<ooPin1>PC6</ooPin1>
+		<ooPin2>PD0</ooPin2>
+		<ooPin3>PD1</ooPin3>
+		<ooPin4>PD2</ooPin4>
+		<ooPin5>PD3</ooPin5>
+		<ooPin6>PD4</ooPin6>
+		<ooPin7>VCC</ooPin7>
+		<ooPin8>GND</ooPin8>
+		<ooPin9>PB6</ooPin9>
 		<ooPin10>PB7</ooPin10>
 		<ooPin11>PD5</ooPin11>
 		<ooPin12>PD6</ooPin12>
@@ -190,6 +190,8 @@
 		<ooPin26>PC3</ooPin26>
 		<ooPin27>PC4</ooPin27>
 		<ooPin28>PC5</ooPin28>
+		
+		<oonumPins>28</ooNumPins>
 		
 		<oompBbls></oompBbls>
 		<oompDiag>

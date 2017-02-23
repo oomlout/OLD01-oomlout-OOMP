@@ -157,10 +157,10 @@
 			</footprintSystem>
 		</footprintList>
     
-		<ooPin01>SCL</ooPin01>
-		<ooPin02>SDA</ooPin02>
-		<ooPin03>VCC</ooPin03>
-		<ooPin04>GND</ooPin04>
+		<ooPin1>SCL</ooPin1>
+		<ooPin2>SDA</ooPin2>
+		<ooPin3>VCC</ooPin3>
+		<ooPin4>GND</ooPin4>
 
 	<oompBbls>
 		<drawItem>template;DISP-16X2-X-LCD-I2-bbls</drawItem>	
