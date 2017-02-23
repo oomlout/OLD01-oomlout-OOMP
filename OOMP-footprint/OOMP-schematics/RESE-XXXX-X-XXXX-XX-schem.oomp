@@ -1,4 +1,10 @@
 <oompSchematic>
+	<drawItem>variable;ooDesignator;R</drawItem>
+	<drawItem>variable;idLocX;0</drawItem>
+	<drawItem>variable;idLocY;100</drawItem>
+	<drawItem>variable;desLocX;0</drawItem>
+	<drawItem>variable;desLocY;-100</drawItem>			
+	<drawItem>header;2</drawItem>			
 	<drawItem>rectangle;-100;50;100;-50;OutlineSquare</drawItem>
 	<drawItem>pin;-200;0;~;1;Right;pin 1</drawItem>
 	<drawItem>pin;200;0;~;2;Left;pin 2</drawItem>

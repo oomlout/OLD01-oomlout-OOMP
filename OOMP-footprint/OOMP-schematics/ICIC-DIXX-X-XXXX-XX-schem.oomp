@@ -1,4 +1,9 @@
 <oompSchematic>
+	<drawItem>variable;idLocX;0</drawItem>
+	<drawItem>variable;idLocY;%%pins%%/2*50+50</drawItem>
+	<drawItem>variable;desLocX;0</drawItem>
+	<drawItem>variable;desLocY;-%%pins%%/2*50+50</drawItem>						
+	<drawItem>header;1</drawItem>
 	<drawItem>rectangle;-250;%%pins%%/2*50;250;-%%pins%%/2*50;OutlineSquare</drawItem>
 	<drawItem>repeat;%%pins%%/2;pin;-400;((%%pins%%/2*50)-50)-((%%i%%-1)*100);##ooPin%%i%%@@;%%i%%;Right;pin %%i%%</drawItem>
 	<drawItem>repeat;%%pins%%/2;pin;400;-((%%pins%%/2*50)-50)+((%%i%%-1)*100);##ooPin!!%%i%%+%%pins%%/2^^@@;%%i%%+15;Left;aa##ooPin%%i%%@@</drawItem>

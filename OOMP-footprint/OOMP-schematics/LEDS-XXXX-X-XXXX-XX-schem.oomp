@@ -1,0 +1,23 @@
+<oompSchematic>
+	<drawItem>variable;ooDesignator;L</drawItem>
+	<drawItem>variable;idLocX;0</drawItem>
+	<drawItem>variable;idLocY;100</drawItem>
+	<drawItem>variable;desLocX;0</drawItem>
+	<drawItem>variable;desLocY;-100</drawItem>	
+	<drawItem>header;2</drawItem>			
+	<drawItem>line;-50;50;-50;-50;vertical line front</drawItem>
+	<drawItem>line;50;50;50;-50;vertical line back</drawItem>
+	<drawItem>line;50;50;-50;0;triangle top</drawItem>
+	<drawItem>line;50;-50;-50;0;triangle bottom</drawItem>
+	
+	<drawItem>line;-70;-20;-110;-60;arrow main</drawItem>
+	<drawItem>line;-110;-60;-110;-40;arrow up</drawItem>
+	<drawItem>line;-110;-60;-90;-60;arrow horizontal</drawItem>
+	
+	<drawItem>line;-120;-20;-160;-60;arrow main</drawItem>
+	<drawItem>line;-160;-60;-160;-40;arrow up</drawItem>
+	<drawItem>line;-160;-60;-140;-60;arrow horizontal</drawItem>
+	
+	<drawItem>pin;-200;0;~;1;Right;pin 1</drawItem>
+	<drawItem>pin;200;0;~;2;Left;pin 2</drawItem>
+</oompSchematic>
