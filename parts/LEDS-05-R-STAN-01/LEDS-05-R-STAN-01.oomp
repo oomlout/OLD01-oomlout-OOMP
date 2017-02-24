@@ -112,13 +112,21 @@
 			</oplSystem>
 		</oplList>	<oompClass>Through Hole Component</oompClass>
 	<oompClassCode>THTH</oompClassCode>
-	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
+	<oompBbls>
+		<drawItem>template;LEDS-05-X-XXXX-01-bbls</drawItem>
+	</oompBbls>
+	<oompDiag>
+		<drawItem>template;LEDS-05-X-XXXX-01-diag</drawItem>
+	</oompDiag>
+	<oompIden>
+		<drawItem>template;LEDS-05-X-XXXX-01-iden</drawItem>
+	</oompIden>
 	<oompSchem>
 		<drawItem>template;LEDS-XXXX-X-XXXX-XX-schem</drawItem>
 	</oompSchem>
-	<oompSimp></oompSimp>
+	<oompSimp>
+		<drawItem>template;LEDS-05-X-XXXX-01-simp</drawItem>
+	</oompSimp>
 		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>D1</ooDesignator>
 </oompPart>

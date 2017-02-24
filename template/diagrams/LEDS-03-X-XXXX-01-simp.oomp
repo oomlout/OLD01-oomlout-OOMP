@@ -1,0 +1,6 @@
+		<oompTemplate>
+		<drawItem>linewidth;0.2</drawItem>
+		<drawItem>template;LEDS-03-X-XXXX-01</drawItem>
+		<drawItem>text;0;0.4;1.75;oom.lt/;pin 1</drawItem>
+		<drawItem>textB;0;-0.4;1.75;##hexID@@;pin 1</drawItem>
+	</oompTemplate>

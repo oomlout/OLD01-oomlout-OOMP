@@ -1,0 +1,10 @@
+	<oompTemplate>
+		<drawItem>linewidth;0.2</drawItem>
+		<drawItem>template;LEDS-05-X-XXXX-01</drawItem>
+		 <drawItem>rectangle;-1.27;0;0.6;0.6;pin1</drawItem>  		
+		 <drawItem>rectangle;1.27;0;0.6;0.6;pin2</drawItem>  		
+		 <drawItem>textB;-1.27;1;2.5;A;pin 1</drawItem>
+		 <drawItem>textB;1.27;1;2.5;K;pin 2</drawItem>
+		 <drawItem>oompName;0;6;20;5;##name@@</drawItem>
+		<drawItem>oompURL;0;-4;2.835;##hexID@@</drawItem>	
+	</oompTemplate>

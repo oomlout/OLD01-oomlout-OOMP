@@ -64,13 +64,21 @@
         <ooBuyDesc1></ooBuyDesc1>
         <ooBuyLink1></ooBuyLink1>
         <ooBuyType1></ooBuyType1>	
-    	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
+<oompBbls>
+		<drawItem>template;LEDS-03-X-XXXX-01-bbls</drawItem>
+	</oompBbls>
+	<oompDiag>
+		<drawItem>template;LEDS-03-X-XXXX-01-diag</drawItem>
+	</oompDiag>
+	<oompIden>
+		<drawItem>template;LEDS-03-X-XXXX-01-iden</drawItem>
+	</oompIden>
 	<oompSchem>
 		<drawItem>template;LEDS-XXXX-X-XXXX-XX-schem</drawItem>
 	</oompSchem>
-	<oompSimp></oompSimp>
+	<oompSimp>
+		<drawItem>template;LEDS-03-X-XXXX-01-simp</drawItem>
+	</oompSimp>
 		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>D1</ooDesignator>
 </oompPart>	
