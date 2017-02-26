@@ -49,14 +49,15 @@ viewBox="0 0 210 297"
    <![CDATA[
     @font-face { font-family:"DejaVu Sans Mono";src:url("#FontID1") format(svg)}
     @font-face { font-family:"DejaVu Sans";src:url("#FontID0") format(svg)}
-    .str1 {stroke:#00923F;stroke-width:0.3528;stroke-linecap:round;stroke-linejoin:round}
-    .str0 {stroke:#1F1A17;stroke-width:0.3528;stroke-linecap:round;stroke-linejoin:round}
-    .str2 {stroke:#28166F;stroke-width:0.3528;stroke-linecap:round;stroke-linejoin:round}
-    .str3 {stroke:#71625B;stroke-width:0.3528;stroke-linecap:round;stroke-linejoin:round}
-    .str4 {stroke:#C0A062;stroke-width:0.3528;stroke-linecap:round;stroke-linejoin:round}
-    .fil2 {fill:none}
-    .fil1 {fill:#1F1A17}
-    .fil0 {fill:white}
+    .str0 {stroke:#1F1A17;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round}
+    .str1 {stroke:black;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round}
+    .str3 {stroke:blue;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round}
+    .str2 {stroke:lime;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round}
+    .str4 {stroke:#663333;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round}
+    .str5 {stroke:#CC9933;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round}
+    .fil0 {fill:none}
+    .fil2 {fill:#1F1A17}
+    .fil1 {fill:white}
     .fnt1 {font-weight:normal;font-size:1.0001;font-family:'DejaVu Sans Mono'}
     .fnt2 {font-weight:bold;font-size:1.0001;font-family:'DejaVu Sans Mono'}
     .fnt0 {font-weight:bold;font-size:1.4111;font-family:'DejaVu Sans'}
@@ -65,20 +66,19 @@ viewBox="0 0 210 297"
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_391729136">
-   <rect id="_392754720" class="fil0" x="-10" y="287" width="20" height="20"/>
-   <text x="-7.6287" y="291.025" id="_392760528" class="fil1 fnt0">1/4 WATT 560 OHM </text>
-   <text x="-3.9283" y="292.667" id="_392760528" class="fil1 fnt0">RESISTOR</text>
-   <text x="-3.5787" y="302.336" id="_391733696" class="fil1 fnt1">oom.lt/</text>
-   <text x="0.636" y="302.336" id="_391733696" class="fil1 fnt2">R4561</text>
-   <path id="_391725920" class="fil0 str0" d="M1.564 295.85c-1.4821,0.3336 -2.0812,0.3317 -3.564,0 -0.7342,-0.1643 -1.368,0.3937 -1.368,0.874l0 0.552c0,0.4801 0.6346,1.0391 1.368,0.874 1.482,-0.3336 2.0814,-0.3321 3.564,0 0.7336,0.1642 1.368,-0.3933 1.368,-0.874l0 -0.552c0,-0.4807 -0.634,-1.0392 -1.368,-0.874z"/>
-   <line id="_391729904" class="fil2 str1" x1="-2" y1="295.85" x2="-2" y2= "298.15" />
-   <line id="_391732328" class="fil2 str2" x1="-1" y1="296.05" x2="-1" y2= "297.925" />
-   <line id="_391725872" class="fil2 str3" x1="-0" y1="296.125" x2="-0" y2= "297.875" />
-   <line id="_391727432" class="fil2 str4" x1="1.9" y1="295.85" x2="1.9" y2= "298.15" />
-   <line id="_391728368" class="fil2 str0" x1="-3.393" y1="297" x2="-5.298" y2= "297" />
-   <line id="_391732976" class="fil2 str0" x1="4.862" y1="297" x2="2.982" y2= "297" />
-   <path id="_391723208" class="fil2 str0" d="M1.564 295.85c-1.4821,0.3336 -2.0812,0.3317 -3.564,0 -0.7342,-0.1643 -1.368,0.3937 -1.368,0.874l0 0.552c0,0.4801 0.6346,1.0391 1.368,0.874 1.482,-0.3336 2.0814,-0.3321 3.564,0 0.7336,0.1642 1.368,-0.3933 1.368,-0.874l0 -0.552c0,-0.4807 -0.634,-1.0392 -1.368,-0.874z"/>
+  <g id="_355892136">
+   <line id="_352371568" class="fil0 str0" x1="-3.175" y1="297" x2="-5.08" y2= "297" />
+   <line id="_352374520" class="fil0 str0" x1="5.08" y1="297" x2="3.2" y2= "297" />
+   <path id="_355892544" class="fil1 str1" d="M1.782 295.85c-1.4821,0.3336 -2.0812,0.3317 -3.564,0 -0.7342,-0.1643 -1.368,0.3937 -1.368,0.874l0 0.552c0,0.4801 0.6346,1.0391 1.368,0.874 1.482,-0.3336 2.0814,-0.3321 3.564,0 0.7336,0.1642 1.368,-0.3933 1.368,-0.874l0 -0.552c0,-0.4807 -0.634,-1.0392 -1.368,-0.874z"/>
+   <line id="_355890480" class="fil0 str2" x1="-1.782" y1="298.15" x2="-1.782" y2= "295.85" />
+   <line id="_355892904" class="fil0 str3" x1="-0.782" y1="297.938" x2="-0.782" y2= "296.063" />
+   <line id="_355869504" class="fil0 str4" x1="0.218" y1="297.875" x2="0.218" y2= "296.125" />
+   <line id="_355893432" class="fil0 str5" x1="2.218" y1="298.15" x2="2.218" y2= "295.85" />
+   <path id="_355892712" class="fil0 str1" d="M1.782 295.85c-1.4821,0.3336 -2.0812,0.3317 -3.564,0 -0.7342,-0.1643 -1.368,0.3937 -1.368,0.874l0 0.552c0,0.4801 0.6346,1.0391 1.368,0.874 1.482,-0.3336 2.0814,-0.3321 3.564,0 0.7336,0.1642 1.368,-0.3933 1.368,-0.874l0 -0.552c0,-0.4807 -0.634,-1.0392 -1.368,-0.874z"/>
+   <text x="-7.6286" y="292.525" id="_355893648" class="fil2 fnt0">1/4 WATT 560 OHM </text>
+   <text x="-3.9282" y="294.167" id="_355893648" class="fil2 fnt0">RESISTOR</text>
+   <text x="-3.5787" y="300.836" id="_355893480" class="fil2 fnt1">oom.lt/</text>
+   <text x="0.636" y="300.836" id="_355893480" class="fil2 fnt2">R4561</text>
   </g>
  </g>
 </svg>
