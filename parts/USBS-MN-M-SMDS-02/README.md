@@ -1,4 +1,5 @@
 
+![USBS-MN-M-SMDS-02](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/USBS-MN-M-SMDS-02/USBS-MN-M-SMDS-02_420.jpg)   
 Summary
 =================
   

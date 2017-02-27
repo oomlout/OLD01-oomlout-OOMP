@@ -1,4 +1,5 @@
 
+![USBS-MC-X-SMDS-01](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/USBS-MC-X-SMDS-01/USBS-MC-X-SMDS-01_420.jpg)   
 Summary
 =================
   
