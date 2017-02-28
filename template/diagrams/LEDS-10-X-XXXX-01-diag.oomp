@@ -1,8 +1,8 @@
 	<oompTemplate>
 		<drawItem>linewidth;0.2</drawItem>
 		<drawItem>corTemplate;LEDS-10-X-XXXX-01-diag</drawItem>
-		<drawItem>textB;-1.14;10.35;5;A;Anode</drawItem>
-		<drawItem>textB;1.14;10.35;5;K;Cathode</drawItem>
+		<drawItem>textB;-1.14;9.1;5;A;Anode</drawItem>
+		<drawItem>textB;1.14;9.1;5;K;Cathode</drawItem>
 		<drawItem>oompName;0;23;20;5;##name@@</drawItem>
-		<drawItem>oompURL;0;-20;4;##hexID@@</drawItem>	
+		<drawItem>oompURL;0;-21;4;##hexID@@</drawItem>	
 	</oompTemplate>

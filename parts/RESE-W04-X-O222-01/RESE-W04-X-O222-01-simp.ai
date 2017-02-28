@@ -1,13 +1,12 @@
 %!PS-Adobe-3.0
 %%Creator:Adobe Illustrator (TM) 8.000000 Exported from CorelDRAW
-%%Title:LEDS-03-G-STAN-01-bbls.ai
-%%CreationDate: Fri Feb 24 07:02:13 2017
+%%Title:RESE-W04-X-O222-01-simp.ai
+%%CreationDate: Mon Feb 27 19:29:19 2017
 
-%%BoundingBox:-27 -12 28 24
+%%BoundingBox:-14 -3 15 4
 %%DocumentProcessColors: Cyan Magenta Yellow Black
-%%DocumentFonts: DejaVuSansMono-Bold
-%%+ DejaVuSans-Bold
-%%+ DejaVuSansMono
+%%DocumentFonts: DejaVuSansMono
+%%+ DejaVuSansMono-Bold
 %%DocumentSuppliedResources: procset Adobe_level2_AI5 1.2 0
 %%+ procset Adobe_typography_AI5 1.0 1
 %%+ procset Adobe_ColorImage_AI6 1.1 0
@@ -29,9 +28,8 @@
 %%IncludeResource: procset Adobe_cshow 2.0 8
 %%EndProlog
 %%BeginSetup
-%%IncludeFont: DejaVuSansMono-Bold
-%%IncludeFont: DejaVuSans-Bold
 %%IncludeFont: DejaVuSansMono
+%%IncludeFont: DejaVuSansMono-Bold
 Adobe_level2_AI5 /initialize get exec
 Adobe_cshow /initialize get exec
 Adobe_Illustrator_AI5_vars Adobe_Illustrator_AI5 Adobe_typography_AI5 /initialize get exec
@@ -57,22 +55,16 @@ Adobe_Illustrator_AI5 /initialize get exec
 /hungarumlaut/ogonek/caron
 TE
 
-%AI3_BeginEncoding: _DejaVuSansMono-Bold DejaVuSansMono-Bold
-[/_DejaVuSansMono-Bold/DejaVuSansMono-Bold 0 0 1 TZ
-%AI3_EndEncoding TrueType
-%AI3_BeginEncoding: _DejaVuSans-Bold DejaVuSans-Bold
-[/_DejaVuSans-Bold/DejaVuSans-Bold 0 0 1 TZ
-%AI3_EndEncoding TrueType
 %AI3_BeginEncoding: _DejaVuSansMono DejaVuSansMono
 [/_DejaVuSansMono/DejaVuSansMono 0 0 1 TZ
+%AI3_EndEncoding TrueType
+%AI3_BeginEncoding: _DejaVuSansMono-Bold DejaVuSansMono-Bold
+[/_DejaVuSansMono-Bold/DejaVuSansMono-Bold 0 0 1 TZ
 %AI3_EndEncoding TrueType
 %%EndSetup
 %AI5_BeginLayer
  1 1 1 1 0 0 -1 31 26 23 Lb
 (Layer 1) Ln
-u
-u
-1 XR
 0 R
 0.0000 0.0000 0.0000 1.0000 K
 0 1 0 0 0 Xy
@@ -81,13 +73,9 @@ u
 22.9256 M
 0.5669 w
 []0 d
-0.0003 -4.2517 m
-2.3423 -4.2517 4.2523 -2.3417 4.2523 0.0003 c
-4.2523 2.3423 2.3423 4.2523 0.0003 4.2523 c
--2.3417 4.2523 -4.2517 2.3423 -4.2517 0.0003 c
--4.2517 -2.3417 -2.3417 -4.2517 0.0003 -4.2517 c
-s
-1 XR
+-9.0000 -0.0003 m
+-14.4000 -0.0003 L
+S
 0 R
 0.0000 0.0000 0.0000 1.0000 K
 0 1 0 0 0 Xy
@@ -96,122 +84,39 @@ s
 22.9256 M
 0.5669 w
 []0 d
-0.0000 5.3858 m
-1.7283 5.3858 3.2664 4.5714 4.2520 3.3055 C
-4.2520 -3.3055 L
-3.2664 -4.5714 1.7283 -5.3858 0.0000 -5.3858 c
--2.9741 -5.3858 -5.3858 -2.9741 -5.3858 0.0000 c
--5.3858 2.9741 -2.9741 5.3858 0.0000 5.3858 c
-s
-U
+14.4000 -0.0003 m
+9.0709 -0.0003 L
+S
 1 XR
 0 O
 1.0000 1.0000 1.0000 Xa
 0 R
-0.0000 0.0000 0.0000 1.0000 K
+0.0000 0.0000 0.0000 XA
 0 1 0 0 0 Xy
 1 J
 1 j
 22.9256 M
 0.5669 w
 []0 d
--4.0816 -0.8501 m
--2.3808 -0.8501 L
--2.3808 0.8507 L
--4.0816 0.8507 L
--4.0816 -0.8501 L
-b
-1 XR
-0 O
-1.0000 1.0000 1.0000 Xa
-0 R
-0.0000 0.0000 0.0000 1.0000 K
-0 1 0 0 0 Xy
-1 J
-1 j
-22.9256 M
-0.5669 w
-[]0 d
-2.3814 -0.8501 m
-4.0822 -0.8501 L
-4.0822 0.8507 L
-2.3814 0.8507 L
-2.3814 -0.8501 L
+5.0513 3.2596 m
+0.8501 2.3139 -0.8481 2.3193 -5.0513 3.2596 c
+-7.1325 3.7253 -8.9291 2.1436 -8.9291 0.7821 c
+-8.9291 -0.7826 l
+-8.9291 -2.1436 -7.1303 -3.7281 -5.0513 -3.2601 c
+-0.8504 -2.3145 0.8487 -2.3187 5.0513 -3.2601 C
+7.1308 -3.7256 8.9291 -2.1453 8.9291 -0.7826 c
+8.9291 0.7821 l
+8.9291 2.1447 7.1320 3.7278 5.0513 3.2596 c
 b
 1 XR
 0 O
 0.0000 0.0000 0.0000 1.0000 k
 0 To
-1.0000 0.0000 0.0000 1.0000 -3.9640 1.9239 0 Tp
+1.0000 0.0000 0.0000 1.0000 -4.1397 0.4615 0 Tp
 0 Tv
 TP
 0 Tr
-/_DejaVuSansMono-Bold 2.4999 Tf
-0 Ta
-0 0 0 TC
-100 100 100 TW
-0.0000 Tc
-0.0000 Tw
-(A) Tx
-(\r) TX
-TO
-1 XR
-0 O
-0.0000 0.0000 0.0000 1.0000 k
-0 To
-1.0000 0.0000 0.0000 1.0000 2.4837 1.9239 0 Tp
-0 Tv
-TP
-0 Tr
-/_DejaVuSansMono-Bold 2.4999 Tf
-0 Ta
-0 0 0 TC
-100 100 100 TW
-0.0000 Tc
-0.0000 Tw
-(K) Tx
-(\r) TX
-TO
-1 XR
-0 O
-0.0000 0.0000 0.0000 1.0000 k
-0 To
-1.0000 0.0000 0.0000 1.0000 -6.2558 15.5205 0 Tp
-0 Tv
-TP
-0 Tr
-/_DejaVuSans-Bold 4.0000 Tf
-0 Ta
-0 0 0 TC
-100 100 100 TW
-0.0000 Tc
-0.0000 Tw
-(3 mm ) Tx
-(\r) TX
-TO
-0 To
-1.0000 0.0000 0.0000 1.0000 -12.5847 10.8646 0 Tp
-0 Tv
-TP
-0 Tr
-/_DejaVuSans-Bold 4.0000 Tf
-0 Ta
-0 0 0 TC
-100 100 100 TW
-0.0000 Tc
-0.0000 Tw
-(GREEN LED) Tx
-(\r) TX
-TO
-1 XR
-0 O
-0.0000 0.0000 0.0000 1.0000 k
-0 To
-1.0000 0.0000 0.0000 1.0000 -8.4447 -12.2916 0 Tp
-0 Tv
-TP
-0 Tr
-/_DejaVuSansMono 2.8349 Tf
+/_DejaVuSansMono 2.0001 Tf
 0 Ta
 0 0 0 TC
 100 100 100 TW
@@ -220,21 +125,23 @@ TP
 (oom.lt/) Tx
 (\r) TX
 TO
+1 XR
+0 O
+0.0000 0.0000 0.0000 1.0000 k
 0 To
-1.0000 0.0000 0.0000 1.0000 3.5025 -12.2916 0 Tp
+1.0000 0.0000 0.0000 1.0000 -2.9273 -1.8757 0 Tp
 0 Tv
 TP
 0 Tr
-/_DejaVuSansMono-Bold 2.8349 Tf
+/_DejaVuSansMono-Bold 2.0001 Tf
 0 Ta
 0 0 0 TC
 100 100 100 TW
 0.0000 Tc
 0.0000 Tw
-(L3G) Tx
+(R4222) Tx
 (\r) TX
 TO
-U
 LB
 %AI5_EndLayer--
 %%PageTrailer
