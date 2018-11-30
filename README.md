@@ -39,3 +39,4 @@ Not Great. Requires Janky oolmout-TPGE
 
 Generate Resources:
 Z-badScripts/OOMP-generateAll.bat
+((need to fix pictureIndexRaw to wrap properly macro OOMPPIF))

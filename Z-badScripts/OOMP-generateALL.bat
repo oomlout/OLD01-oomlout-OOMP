@@ -76,7 +76,7 @@ python %TPGEdirectory%TPGEmain.py -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\o
 
 REM PictureIndex Type Github wiki
 
-python %TPGEdirectory%TPGEmain.py -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp,%OOMPprojectsDirectory% -tm %OOMPdirectory%template/OOMP-typePictureIndex.tmpl.md -of %OOMPWikiDirectory%typePictureIndex%%%%ID%%%%.md -ui oompType.code
+python %TPGEdirectory%TPGEmain.py -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp,%OOMPprojectsDirectory% -tm %OOMPdirectory%template/OOMP-pictureIndexType.tmpl.md -of %OOMPWikiDirectory%typePictureIndex%%%%ID%%%%.md -ui oompType.code
 
 
 REM SEEEDIndex Github wiki
