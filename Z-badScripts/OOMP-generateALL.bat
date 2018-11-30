@@ -13,22 +13,22 @@ REM
 REM 	Redirect Pages
 REM 
 
-python %TPGEdirectory%TPGEmain.py -rm A -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp -tm %OOMPdirectory%template/OOMP-Redirect-template.tmpl.html -of %REDIdirectory%%%%%ID%%%%\index.html
-python %TPGEdirectory%TPGEmain.py -rm A -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp -tm %OOMPdirectory%template/OOMP-Redirect-template.tmpl.html -of %REDIdirectory%@@%%%%ID%%%%,oompPart.oompID,hexID@@\index.html
+REM 111 python %TPGEdirectory%TPGEmain.py -rm A -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp -tm %OOMPdirectory%template/OOMP-Redirect-template.tmpl.html -of %REDIdirectory%%%%%ID%%%%\index.html
+REM 111 python %TPGEdirectory%TPGEmain.py -rm A -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp -tm %OOMPdirectory%template/OOMP-Redirect-template.tmpl.html -of %REDIdirectory%@@%%%%ID%%%%,oompPart.oompID,hexID@@\index.html
 
 REM 
 REM 	Redirect Pages Datasheet
 REM 
 
-python %TPGEdirectory%TPGEmain.py -rm A -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp -tm %OOMPdirectory%template/OOMP-RedirectDatasheet-template.tmpl.html -of %REDIdirectory%%%%%ID%%%%D\index.html
-python %TPGEdirectory%TPGEmain.py -rm A -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp -tm %OOMPdirectory%template/OOMP-RedirectDatasheet-template.tmpl.html -of %REDIdirectory%@@%%%%ID%%%%,oompPart.oompID,hexID@@D\index.html
+REM 111 python %TPGEdirectory%TPGEmain.py -rm A -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp -tm %OOMPdirectory%template/OOMP-RedirectDatasheet-template.tmpl.html -of %REDIdirectory%%%%%ID%%%%D\index.html
+REM 111 python %TPGEdirectory%TPGEmain.py -rm A -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp -tm %OOMPdirectory%template/OOMP-RedirectDatasheet-template.tmpl.html -of %REDIdirectory%@@%%%%ID%%%%,oompPart.oompID,hexID@@D\index.html
 
 REM 
 REM 	Redirect Pages BOM
 REM 
 
-python %TPGEdirectory%TPGEmain.py -rm A -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp -tm %OOMPdirectory%template/OOMP-RedirectBOM-template.tmpl.html -of %REDIdirectory%%%%%ID%%%%BOM\index.html
-python %TPGEdirectory%TPGEmain.py -rm A -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp -tm %OOMPdirectory%template/OOMP-RedirectBOM-template.tmpl.html -of %REDIdirectory%@@%%%%ID%%%%,oompPart.oompID,hexID@@BOM\index.html
+REM 111 python %TPGEdirectory%TPGEmain.py -rm A -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp -tm %OOMPdirectory%template/OOMP-RedirectBOM-template.tmpl.html -of %REDIdirectory%%%%%ID%%%%BOM\index.html
+REM 111 python %TPGEdirectory%TPGEmain.py -rm A -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp -tm %OOMPdirectory%template/OOMP-RedirectBOM-template.tmpl.html -of %REDIdirectory%@@%%%%ID%%%%,oompPart.oompID,hexID@@BOM\index.html
 
 
 
@@ -36,7 +36,7 @@ REM
 REM 	In directory HTML Pages
 REM
 
-python %TPGEdirectory%TPGEmain.py -rm A -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp -tm %OOMPdirectory%template/OOMP-templateStatic.tmpl.html -of %OOBBpartsDirectory%%%%%ID%%%%\%%%%ID%%%%.html
+REM 111 python %TPGEdirectory%TPGEmain.py -rm A -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp -tm %OOMPdirectory%template/OOMP-templateStatic.tmpl.html -of %OOBBpartsDirectory%%%%%ID%%%%\%%%%ID%%%%.html
 
 
 REM 
@@ -50,7 +50,7 @@ REM 	Readme Markdown Pages
 REM
 
 
-python %TPGEdirectory%TPGEmain.py -rm A -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp -tm %OOMPdirectory%template/OOMP-template.tmpl.md -of %OOBBpartsDirectory%%%%%ID%%%%\README.md
+REM 555 python %TPGEdirectory%TPGEmain.py -rm A -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp -tm %OOMPdirectory%template/OOMP-template.tmpl.md -of %OOBBpartsDirectory%%%%%ID%%%%\README.md
 
 
 REM
@@ -59,9 +59,9 @@ REM
 
 set extra=projectIndex
 	REM All Parts
-python %TPGEdirectory%TPGEmain.py -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp,%OOMPprojectsDirectory% -tm %OOMPdirectory%template/OOMP-%extra%.tmpl.md -of %OOMPwikiDirectory%%extra%.md
+REM 222 python %TPGEdirectory%TPGEmain.py -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp,%OOMPprojectsDirectory% -tm %OOMPdirectory%template/OOMP-%extra%.tmpl.md -of %OOMPwikiDirectory%%extra%.md
 
-python %TPGEdirectory%TPGEmain.py -rm A -bd %OOMPprojectsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp,%OOBBpartsDirectory% -tm %OOMPdirectory%template/OOMP-projectPage.tmpl.md -of %OOMPwikiDirectory%\projects\%%%%ID%%%%.md
+REM 222 python %TPGEdirectory%TPGEmain.py -rm A -bd %OOMPprojectsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp,%OOBBpartsDirectory% -tm %OOMPdirectory%template/OOMP-projectPage.tmpl.md -of %OOMPwikiDirectory%\projects\%%%%ID%%%%.md
 
 
 
@@ -81,16 +81,16 @@ python %TPGEdirectory%TPGEmain.py -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\o
 
 REM SEEEDIndex Github wiki
 
-python %TPGEdirectory%TPGEmain.py -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp,%OOMPprojectsDirectory% -tm %OOMPdirectory%template/OOMP-seeedIndex.tmpl.md -of %OOMPWikiDirectory%seeedIndex.md
+REM 333 python %TPGEdirectory%TPGEmain.py -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp,%OOMPprojectsDirectory% -tm %OOMPdirectory%template/OOMP-seeedIndex.tmpl.md -of %OOMPWikiDirectory%seeedIndex.md
 
 
 REM PictureIndex Static HTML
 
-python %TPGEdirectory%TPGEmain.py -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp,%OOMPprojectsDirectory% -tm %OOMPdirectory%template/OOMP-pictureIndexStatic.tmpl.html -of %OOBBpartsDirectory%pictureIndex.html
+REM 111 python %TPGEdirectory%TPGEmain.py -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp,%OOMPprojectsDirectory% -tm %OOMPdirectory%template/OOMP-pictureIndexStatic.tmpl.html -of %OOBBpartsDirectory%pictureIndex.html
 
 
 REM PictureIndexAll
-python %TPGEdirectory%TPGEmain.py -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp,%OOMPprojectsDirectory% -tm %OOMPdirectory%template/OOMP-pictureIndexAll.tmpl.html -of %OOBBpartsDirectory%pictureIndexAll-wiki.html
+REM 111 python %TPGEdirectory%TPGEmain.py -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp,%OOMPprojectsDirectory% -tm %OOMPdirectory%template/OOMP-pictureIndexAll.tmpl.html -of %OOBBpartsDirectory%pictureIndexAll-wiki.html
 
 REM FamilyIndex
 python %TPGEdirectory%TPGEmain.py -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp,%OOMPprojectsDirectory% -tm %OOMPdirectory%template/OOMP-familyIndex.tmpl.md -of %OOMPwikiDirectory%familyIndex.md
@@ -145,22 +145,22 @@ REM
 
 set extra=label-inventory
 
-python %TPGEdirectory%TPGEmain.py -rm A -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp -tm %OOMPdirectory%template/OOMP-%extra%.tmpl.svg -of %OOBBpartsDirectory%%%%%ID%%%%\%%%%ID%%%%-%extra%.svg
-python %INKSdirectory%INKSmain.py -id inkscape.exe -bd %OOMPDirectory% -fi %extra%
+REM 444 python %TPGEdirectory%TPGEmain.py -rm A -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp -tm %OOMPdirectory%template/OOMP-%extra%.tmpl.svg -of %OOBBpartsDirectory%%%%%ID%%%%\%%%%ID%%%%-%extra%.svg
+REM 444 python %INKSdirectory%INKSmain.py -id inkscape.exe -bd %OOMPDirectory% -fi %extra%
 
 set extra=label-front
 
-python %TPGEdirectory%TPGEmain.py -rm A -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp -tm %OOMPdirectory%template/OOMP-%extra%.tmpl.svg -of %OOBBpartsDirectory%%%%%ID%%%%\%%%%ID%%%%-%extra%.svg
-python %INKSdirectory%INKSmain.py -id inkscape.exe -bd %OOMPDirectory% -fi %extra%
+REM 444 python %TPGEdirectory%TPGEmain.py -rm A -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp -tm %OOMPdirectory%template/OOMP-%extra%.tmpl.svg -of %OOBBpartsDirectory%%%%%ID%%%%\%%%%ID%%%%-%extra%.svg
+REM 444 python %INKSdirectory%INKSmain.py -id inkscape.exe -bd %OOMPDirectory% -fi %extra%
 
 
 set extra=label-spec
 
-python %TPGEdirectory%TPGEmain.py -rm A -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp -tm %OOMPdirectory%template/OOMP-%extra%.tmpl.svg -of %OOBBpartsDirectory%%%%%ID%%%%\%%%%ID%%%%-%extra%.svg
-python %INKSdirectory%INKSmain.py -id inkscape.exe -bd %OOMPDirectory% -fi %extra%
+REM 444 python %TPGEdirectory%TPGEmain.py -rm A -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp -tm %OOMPdirectory%template/OOMP-%extra%.tmpl.svg -of %OOBBpartsDirectory%%%%%ID%%%%\%%%%ID%%%%-%extra%.svg
+REM 444 python %INKSdirectory%INKSmain.py -id inkscape.exe -bd %OOMPDirectory% -fi %extra%
 
 
 set extra=label-smdBox
 
-python %TPGEdirectory%TPGEmain.py -rm A -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp -tm %OOMPdirectory%template/OOMP-%extra%.tmpl.svg -of %OOBBpartsDirectory%%%%%ID%%%%\%%%%ID%%%%-%extra%.svg
-python %INKSdirectory%INKSmain.py -id inkscape.exe -bd %OOMPDirectory% -fi %extra%
+REM 444 python %TPGEdirectory%TPGEmain.py -rm A -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp -tm %OOMPdirectory%template/OOMP-%extra%.tmpl.svg -of %OOBBpartsDirectory%%%%%ID%%%%\%%%%ID%%%%-%extra%.svg
+REM 444 python %INKSdirectory%INKSmain.py -id inkscape.exe -bd %OOMPDirectory% -fi %extra%

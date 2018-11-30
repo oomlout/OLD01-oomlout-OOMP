@@ -33,4 +33,9 @@ README.md -- A markdown formated page with part details.
 * ID-simp.cdr -- Same drawing as ID-bbls. However all markings are inside the diagram. Only a link to the parts shortname is included. (used for layouts) (generated formats: ai, dxf, eps, pdf, svg, _87.png, _140.png, _420.png, _600.png, _1500.png, _S.pdf (in the middle of an a4 sheet))
 * ID-iden.cdr --  Same drawing as ID-bbls. Only an PCB identifier is left (ie R1). (generated formats: ai, dxf, eps, pdf, svg, _87.png, _140.png, _420.png, _600.png, _1500.png, _S.pdf (in the middle of an a4 sheet))
 
+##### Generating Files
 
+Not Great. Requires Janky oolmout-TPGE 
+
+Generate Resources:
+Z-badScripts/OOMP-generateAll.bat
