@@ -24,6 +24,21 @@
         <ooLength></ooLength>
         <ooDepth></ooDepth><com>Description</com>
         <ooNumPins>8</ooNumPins>
+		
+		<ooPin1>GND</ooPin1>
+		<ooPin2>TRG</ooPin2>
+		<ooPin3>OUT</ooPin3>
+		<ooPin4>RES</ooPin4>
+		<ooPin5>CV</ooPin5>
+		<ooPin6>THR</ooPin6>
+		<ooPin7>DIS</ooPin7>
+		<ooPin8>Vcc</ooPin8>
+		
+		<oompDiag>
+		<drawItem>template;ICIC-DI08-X-XXXX-01-diag</drawItem>
+		</oompDiag>
+		
+		
         <ooPowerRating></ooPowerRating>
 <com>Maximums</com>
         <ooMaxCurrent></ooMaxCurrent>

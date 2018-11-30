@@ -1,0 +1,31 @@
+	<oompTemplate>
+		
+		<drawItem>rectangle;0;0;7.25;4*2.54;Main Square</drawItem> 
+
+ 		
+		<drawItem>rectangle;-4.125;2.54/2+1*2.54;1;1;pin 1</drawItem>
+		<drawItem>rectangle;-4.125;2.54/2+0*2.54;1;1;pin 2</drawItem>
+		<drawItem>rectangle;-4.125;-2.54/2-1*2.54;1;1;pin 3</drawItem>
+		<drawItem>rectangle;-4.125;-2.54/2-0*2.54;1;1;pin 4</drawItem>
+
+		<drawItem>textB;-7.125;2.54/2+1*2.54;2.5;##ooPin1@@;pin 1</drawItem>
+		<drawItem>textB;-7.125;2.54/2+0*2.54;2.5;##ooPin2@@;pin 2</drawItem>				
+		<drawItem>textB;-7.125;-2.54/2-1*2.54;2.5;##ooPin3@@;pin 3</drawItem>
+		<drawItem>textB;-7.125;-2.54/2-0*2.54;2.5;##ooPin4@@;pin 4</drawItem>				
+
+		
+		
+		<drawItem>rectangle;4.125;2.54/2+1*2.54;1;1;pin 8</drawItem>
+		<drawItem>rectangle;4.125;2.54/2+0*2.54;1;1;pin 7</drawItem>
+		<drawItem>rectangle;4.125;-2.54/2-1*2.54;1;1;pin6</drawItem>
+		<drawItem>rectangle;4.125;-2.54/2-0*2.54;1;1;pin 5</drawItem>
+
+		<drawItem>textB;7.125;2.54/2+1*2.54;2.5;##ooPin8@@;pin 8</drawItem>
+		<drawItem>textB;7.125;2.54/2+0*2.54;2.5;##ooPin7@@;pin 7</drawItem>				
+		<drawItem>textB;7.125;-2.54/2-1*2.54;2.5;##ooPin6@@;pin 6</drawItem>
+		<drawItem>textB;7.125;-2.54/2-0*2.54;2.5;##ooPin5@@;pin 5</drawItem>				
+
+							
+		<drawItem>oompName;0;2.54/2+3*2.54;20;5;##name@@</drawItem>
+		<drawItem>oompURL;0;-2.54/2-3*2.54;2.835;##hexID@@</drawItem>	
+	</oompTemplate>
