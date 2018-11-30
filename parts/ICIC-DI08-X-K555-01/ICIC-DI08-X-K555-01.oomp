@@ -26,12 +26,12 @@
         <ooNumPins>8</ooNumPins>
 		
 		<ooPin1>GND</ooPin1>
-		<ooPin2>TRG</ooPin2>
-		<ooPin3>OUT</ooPin3>
-		<ooPin4>RES</ooPin4>
-		<ooPin5>CV</ooPin5>
-		<ooPin6>THR</ooPin6>
-		<ooPin7>DIS</ooPin7>
+		<ooPin2>TRIGGER</ooPin2>
+		<ooPin3>OUTPUT</ooPin3>
+		<ooPin4>RESET</ooPin4>
+		<ooPin5>CONTROL VOLTAGE</ooPin5>
+		<ooPin6>THRESHOLD</ooPin6>
+		<ooPin7>DISCHARGE</ooPin7>
 		<ooPin8>Vcc</ooPin8>
 		
 		<oompDiag>
