@@ -11,6 +11,7 @@
         <oompDesc>UF10</oompDesc>
         <oompIndex>VF</oompIndex>
         <oompOwner></oompOwner>
+		
         <oompVersion>99</oompVersion>
 <!--Size -->
         <ooPitch></ooPitch>
@@ -25,7 +26,8 @@
         <ooManufacturerPartNumber></ooManufacturerPartNumber>
 <!--Description -->
         <ooMaterial></ooMaterial>
-        <ooNumPins></ooNumPins>
+        <ooNumPins>2</ooNumPins>
+		<ooFootprint>OOMP-CAPT-1206-*</ooFootprint>
         <ooTerminalStyle></ooTerminalStyle>
         <ooPowerRating></ooPowerRating>
 <!--Hardware -->
