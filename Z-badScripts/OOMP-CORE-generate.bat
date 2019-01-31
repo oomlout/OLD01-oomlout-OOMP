@@ -2,7 +2,7 @@
 set COREdirectory=C:\GH\oomlout-CORE\
 
 
-set OOMPDirectory=C:\GH\oomlout-OOMP\
+set OOMPDirectory=C:\GH\oomlout-OOMP\parts\
 
 REM Overwrite
 
