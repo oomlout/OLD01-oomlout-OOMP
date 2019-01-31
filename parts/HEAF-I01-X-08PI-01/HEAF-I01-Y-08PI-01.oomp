@@ -25,7 +25,9 @@
         <ooManufacturerPartNumber>F185-1108A1BSYC1</ooManufacturerPartNumber>
 <!--Description -->
         <ooMaterial></ooMaterial>
-        <ooNumPins></ooNumPins>
+        <ooNumPins>8</ooNumPins>
+		<ooFootprint>OOMP-HEAD-I01-X-08PI-01</ooFootprint>
+        
         <ooTerminalStyle></ooTerminalStyle>
         <ooPowerRating></ooPowerRating>
 <!--Hardware -->

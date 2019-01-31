@@ -21,7 +21,9 @@
         <ooDepth></ooDepth>
         <ooWireSize></ooWireSize><com>Description</com>
         <ooMaterial></ooMaterial>
-        <ooNumPins></ooNumPins>
+        <ooNumPins>16</ooNumPins>
+		<ooFootprint>OOMP-ICIC-DI16-X-XXXX-01</ooFootprint>
+        
         <ooTerminalStyle></ooTerminalStyle>
         <ooPowerRating></ooPowerRating><com>Hardware</com>
         <ooHeadStyle></ooHeadStyle>

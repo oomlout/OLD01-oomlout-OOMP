@@ -21,7 +21,9 @@
         <ooDepth></ooDepth>
         <ooWireSize></ooWireSize><com>Description</com>
         <ooMaterial></ooMaterial>
-        <ooNumPins></ooNumPins>
+        <ooNumPins>18</ooNumPins>
+		<ooFootprint>OOMP-ICIC-DI18-X-XXXX-01</ooFootprint>
+        
         <ooTerminalStyle></ooTerminalStyle>
         <ooPowerRating></ooPowerRating><com>Hardware</com>
         <ooHeadStyle></ooHeadStyle>
@@ -69,5 +71,27 @@
 	<oompSimp></oompSimp>
 		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>U1</ooDesignator>
+		
+		
+	<ooPin1>IN1</ooPin1>
+		<ooPin2>IN2</ooPin2>
+		<ooPin3>IN3</ooPin3>
+		<ooPin4>IN4</ooPin4>
+		<ooPin5>IN5</ooPin5>
+		<ooPin6>IN6</ooPin6>
+		<ooPin7>IN7</ooPin7>
+		<ooPin8>IN8</ooPin8>
+		<ooPin9>GND</ooPin9>
+		<ooPin10>COM</ooPin10>
+		<ooPin11>OUT8</ooPin11>
+		<ooPin12>OUT7</ooPin12>
+		<ooPin13>OUT6</ooPin13>
+		<ooPin14>OUT5</ooPin14>
+		<ooPin15>OUT4</ooPin15>
+		<ooPin16>OUT3</ooPin16>
+		<ooPin17>OUT2</ooPin17>
+		<ooPin18>OUT1</ooPin18>
+			
+		
 </oompPart>
 </xml>

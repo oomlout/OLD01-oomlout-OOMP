@@ -23,7 +23,9 @@
         <ooDiameter></ooDiameter>
         <ooLength></ooLength>
         <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins></ooNumPins>
+        <ooNumPins>10</ooNumPins>
+		<ooFootprint>OOMP-HEAD-02-X-10PI-01</ooFootprint>
+        
         <ooPowerRating></ooPowerRating>
 <com>Maximums</com>
         <ooMaxCurrent></ooMaxCurrent>

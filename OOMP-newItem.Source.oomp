@@ -3,141 +3,35 @@
 <oompVersion>98</oompVersion>
 
 <com>IMPORTANT ALL MUST BE FILLED</com>
-<oompType>DCJP</oompType>
-<oompSize>21D</oompSize>
-<oompColor>X</oompColor>
-<oompDesc>MHI03</oompDesc>
-<oompIndex>69</oompIndex>
-<oompSort>DCJP21DMHI03</oompSort>
+<oompType>TERS</oompType>
+<oompSize>35D</oompSize>
+<oompColor>L</oompColor>
+<oompDesc>08PI</oompDesc>
+<oompIndex>01</oompIndex>
+<oompSort>TERS35D08PI</oompSort>
 
-<hexID>GJP3</hexID>
+<hexID>ST308L</hexID>
 
 <oompClass></oompClass>
 <oompClassCode></oompClassCode>
 
+
+
 <com>Source List</com>
-<manufacturerCompany1>Toshiba</manufacturerCompany1>
-<manufacturerCompanyCode1></manufacturerCompanyCode1>
-<manufacturerPartID1>SSM3J328R,LF</manufacturerPartID1>
-
-<manufacturerCompany2></manufacturerCompany2>
-<manufacturerCompanyCode2></manufacturerCompanyCode2>
-<manufacturerPartID2></manufacturerPartID2>
+<manufacturercompany1>4uCon</manufacturercompany1>
+<manufacturerCompanyCode1>C-4UCN</manufacturerCompanyCode1>
+<manufacturerPartID1>19965</manufacturerPartID1>
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<oplScheme1>SEEED OPL</oplScheme1>
-<oplCode1>C-SEEE</oplCode1>
-<oplName1>SMD MOSFET P-CH 20V 6A</oplName1>
-<oplID1>305030075</oplID1>
-<oplFootprint1>SOT-23F</oplFootprint1>
-<oplPackage1>SOT-23F</oplPackage1>
-<oplLink1><![CDATA[http://www.seeedstudio.com/depot/s/305030075.html?search_in_description=0]]></oplLink1>
-
-
-<oplScheme99>Octopart CPL</oplScheme99>
-<oplCode99>C-OCTO</oplCode99>
-<oplName99></oplName99>
-<oplID99></oplID99>
-<oplFootprint99></oplFootprint99>
-<oplPackage99></oplPackage99>
-<oplLink99>https://octopart.com/common-parts-library</oplLink99>
-
-
-<oplScheme99>Circuithub.com</oplScheme99>
-<oplCode99>C-CIRC</oplCode99>
-<oplName99></oplName99>
-<oplID99></oplID99>
-<oplFootprint99></oplFootprint99>
-<oplPackage99></oplPackage99>
-<oplLink99>https://circuithub.com/parts/</oplLink99>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<ooNumPins></ooNumPins>
-<ooPitch></ooPitch>
+<ooNumPins>8</ooNumPins>
+<ooPitch>3.5mm</ooPitch>
 <ooWidth></ooWidth>
 <ooHeight></ooHeight>
 <ooDiameter></ooDiameter>
 <ooLength></ooLength>
 <ooDepth></ooDepth>
-
-
-
-
-
-
-
-<bigDistributorCompanyCode99>C-DIGK</bigDistributorCompanyCode99>
-<bigDistributorCompany99>Digikey</bigDistributorCompany99>
-<bigDistributorPartID99></bigDistributorPartID99>
-<bigDistributorLink99>http://www.digikey.com/product-search/en?keywords=</bigDistributorLink99>
-
-
-<bigDistributorCompanyCode99>C-MOUS</bigDistributorCompanyCode99>
-<bigDistributorCompany99>Mouser</bigDistributorCompany99>
-<bigDistributorPartID99></bigDistributorPartID99>
-<bigDistributorLink99>http://www.mouser.co.uk/Search/Refine.aspx?Keyword=</bigDistributorLink99>
-
-
-<bigDistributorCompanyCode99>C-FARN</bigDistributorCompanyCode99>
-<bigDistributorCompany99>Farnell</bigDistributorCompany99>
-<bigDistributorPartID99></bigDistributorPartID99>
-<bigDistributorLink99><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=]]></bigDistributorLink99>
-
-
-<bigDistributorCompanyCode99>C-RSRS</bigDistributorCompanyCode99>
-<bigDistributorCompany99>RS Electronics</bigDistributorCompany99>
-<bigDistributorPartID99></bigDistributorPartID99>
-<bigDistributorLink99><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=]]></bigDistributorLink99>
-
-
-<bigDistributorCompanyCode99>C-RAPI</bigDistributorCompanyCode99>
-<bigDistributorCompany99>Rapid Electronics</bigDistributorCompany99>
-<bigDistributorPartID99></bigDistributorPartID99>
-<bigDistributorLink99><![CDATA[http://www.rapidonline.com/Search?query=&filterSearchScope=1]]></bigDistributorLink99>
-
-
-<bigDistributorCompanyCode1>C-SEEE</bigDistributorCompanyCode1>
-<bigDistributorCompany1>SEEED Studio</bigDistributorCompany1>
-<bigDistributorPartID1>305030075</bigDistributorPartID1>
-<bigDistributorLink1><![CDATA[http://www.seeedstudio.com/depot/s/305030075.html?search_in_description=0]]></bigDistributorLink1>
-<bigDistributorName1>SMD MOSFET P-CH 20V 6A</bigDistributorName1>
 
 </newOOMP>
 </xml>

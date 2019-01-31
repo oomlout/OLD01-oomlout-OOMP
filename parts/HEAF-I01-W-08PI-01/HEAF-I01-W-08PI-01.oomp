@@ -23,8 +23,10 @@
         <ooDiameter></ooDiameter>
         <ooLength></ooLength>
         <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins></ooNumPins>
-        <ooPowerRating></ooPowerRating>
+        <ooNumPins>8</ooNumPins>
+        <ooFootprint>OOMP-HEAD-I01-X-08PI-01</ooFootprint>
+        
+		<ooPowerRating></ooPowerRating>
 <com>Maximums</com>
         <ooMaxCurrent></ooMaxCurrent>
         <ooMaxVoltage></ooMaxVoltage>

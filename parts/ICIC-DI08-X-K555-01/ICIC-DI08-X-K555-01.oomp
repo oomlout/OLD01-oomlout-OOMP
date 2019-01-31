@@ -24,6 +24,23 @@
         <ooLength></ooLength>
         <ooDepth></ooDepth><com>Description</com>
         <ooNumPins>8</ooNumPins>
+		<ooFootprint>OOMP-ICIC-DI08-X-XXXX-01</ooFootprint>
+        
+		
+		<ooPin1>GND</ooPin1>
+		<ooPin2>TRIGGER</ooPin2>
+		<ooPin3>OUTPUT</ooPin3>
+		<ooPin4>RESET</ooPin4>
+		<ooPin5>CONTROL-VOLTAGE</ooPin5>
+		<ooPin6>THRESHOLD</ooPin6>
+		<ooPin7>DISCHARGE</ooPin7>
+		<ooPin8>Vcc</ooPin8>
+		
+		<oompDiag>
+		<drawItem>template;ICIC-DI08-X-XXXX-01-diag</drawItem>
+		</oompDiag>
+		
+		
         <ooPowerRating></ooPowerRating>
 <com>Maximums</com>
         <ooMaxCurrent></ooMaxCurrent>

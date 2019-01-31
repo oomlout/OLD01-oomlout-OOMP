@@ -1,0 +1,38 @@
+;######  OOMP NOTES  ######
+;##########################
+
+;######  Autoit Scripts
+	C:\DB\Dropbox\erpe\OOMP
+
+	C:\DB\Dropbox\erpe\OOMP-test.au3
+
+
+;######  OOMP TODO
+
+	* make up a schem for ICs 
+	* Check to make sure 555 IC generation is working
+	
+;######  Footprints and diagrams
+
+	;###### TODO
+		grab footprints and diagrams from kicad libraries 
+		add ooFootprint to oomp files
+		
+	;###### Building
+	
+	OOMPbuildKicad() ;symbols and footprints
+	
+	
+	diagrams are built in autoit OOMP-kicad (erpe directory)
+	
+	
+	diaggrams needed but not worth making elsewhere can be stored in 
+	C:\GH\oomlout-OOMP\OOMP-footprint\OOMP-kicad\OOMP-kicad-GENERIC.lib
+	
+	kicad diagram directory
+	C:\Program Files\KiCad\share\kicad\library
+	
+	kicad footprints in
+	C:\Program Files\KiCad\share\kicad\modules
+	
+	footprints in C:\GH\oomlout-OOMP\OOMP-footprint\OOMP-kicad\OOMP-kicad.pretty
