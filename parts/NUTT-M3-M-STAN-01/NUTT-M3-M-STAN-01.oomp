@@ -1,96 +1,25 @@
-﻿<xml>    
+﻿<xml>
 	<oompPart>
-        <index>4213</index><!--OOMP Base -->
-        <oompID>NUTT-M3-M-STAN-01</oompID>
-        <name>M3 Nut</name>
-        <hexID>NU3</hexID>
-        <oompSort>M3M3</oompSort>
-        <oompType>NUTT</oompType>
-        <oompSize>M3</oompSize>
-        <oompColor>M</oompColor>
-        <oompDesc>STAN</oompDesc>
-        <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion>31</oompVersion>
-<!--Size -->
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize>
-<!--Manufacturer -->
-        <ooManufacturer></ooManufacturer>
-        <ooManufacturerPartNumber></ooManufacturerPartNumber>
-<!--Description -->
-        <ooMaterial></ooMaterial>
-        <ooNumPins></ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating>
-<!--Hardware -->
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize>
-<!--Maximums -->
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<!--Heat Shrink -->
-        <ooShrinkRatio></ooShrinkRatio>
-<!--LED -->
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY>
-<COM>Common Uses</COM>		
-		<usageList>
-			<useItem>
-				<useID>1</useID>
-				<importance>1</importance>
-				<useTitle></useTitle>
-				<useDescription></useDescription>
-			</useItem>
-		</usageList>
-		<!--Plug -->
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength>
-<!--SEEED OPL (Open Parts Library) -->
-        <ooSEEEDsku></ooSEEEDsku>
-        <ooSEEEDdesc></ooSEEEDdesc>
-<!--Hidden -->
-        <oompVersion></oompVersion>
-        <ooNameLine1of2></ooNameLine1of2>
-        <ooNameLine2of2></ooNameLine2of2>
-        <ooNameLine1of3></ooNameLine1of3>
-        <ooNameLine2of3></ooNameLine2of3>
-        <ooNameLine3of3></ooNameLine3of3>
-        <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-        <ooSEEED3dModel></ooSEEED3dModel>
-<sourceList>
+		<index>4213</index>
+		<oompID>NUTT-M3-M-STAN-01</oompID>
+		<name>M3 Nut</name>
+		<hexID>NU3</hexID>
+		<oompSort>M3M3</oompSort>
+		<oompType>NUTT</oompType>
+		<oompSize>M3</oompSize>
+		<oompColor>M</oompColor>
+		<oompDesc>STAN</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>31</oompVersion>
+		<sourceList>
 			<manufacturer>
 				<company>Keystone Electronics</company>
 				<companyCode>C-KEYS</companyCode>
 				<name></name>
 				<partID>4708</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 			<bigDistributor>
 				<company>DigiKey</company>
 				<companyCode>C-DIGK</companyCode>
@@ -98,26 +27,9 @@
 				<partID>4708</partID>
 				<link><![CDATA[http://www.digikey.co.uk/products/en/hardware-fasteners-accessories/nuts/573?k=m3+nut&k=&pkeyword=m3+nut&pv121=215&pv70=50&FV=ffe0023d&mnonly=0&newproducts=0&ColumnSort=0&page=1&quantity=0&ptm=0&fid=0&pageSize=25]]></link>
 				<note></note>
-			</bigDistributor>			
-
+			</bigDistributor>
 		</sourceList>
-		<oplList>
-			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[ ]]></oplLink>
-			</oplSystem>
-		</oplList>		<oompClass>Hardware</oompClass>
+		<oompClass>Hardware</oompClass>
 		<oompClassCode>HARD</oompClassCode>
-	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem></oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
-</oompPart>
+	</oompPart>
 </xml>

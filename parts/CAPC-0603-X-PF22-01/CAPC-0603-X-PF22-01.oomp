@@ -1,69 +1,24 @@
-﻿<xml>    
+﻿<xml>
 	<oompPart>
-        <index>4092</index><!--OOMP Base -->
-        <oompID>CAPC-0603-X-PF22-01</oompID>
-        <name>SMD (0603) 22 pF Capacitor (Ceramic)</name>
-        <hexID>C6P022</hexID>
-        <oompSort>06030.00000000000220</oompSort>
-        <oompType>CAPC</oompType>
-        <oompSize>0603</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>PF22</oompDesc>
-        <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion>99</oompVersion>
-<!--Size -->
-        <ooPitch></ooPitch>
-        <ooWidth>0.8 mm</ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>1.6 mm</ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize>
-<!--Manufacturer -->
-        <ooManufacturer>Yageo</ooManufacturer>
-        <ooManufacturerPartNumber>CC0603JRNPO9BN220</ooManufacturerPartNumber>
-<!--Description -->
-        <ooMaterial></ooMaterial>
-        <ooNumPins></ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating>
-<!--Hardware -->
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize>
-<!--Maximums -->
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage>50 V</ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance>5%</ooTolerance>
-<!--Heat Shrink -->
-        <ooShrinkRatio></ooShrinkRatio>
-<!--LED -->
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY>
-<COM>Common Uses</COM>		
-		<usageList>
-			<useItem>
-				<useID>1</useID>
-				<importance>1</importance>
-				<useTitle></useTitle>
-				<useDescription></useDescription>
-			</useItem>
-		</usageList>
-		<!--Plug -->
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength>
-<!--SEEED OPL (Open Parts Library) -->
-        <ooSEEEDsku>0100620P1</ooSEEEDsku>
-        <ooSEEEDdesc>SMD CAP Ceramic 22pF-50V-5%-NPO</ooSEEEDdesc>
-		
+		<index>4092</index>
+		<oompID>CAPC-0603-X-PF22-01</oompID>
+		<name>SMD (0603) 22 pF Capacitor (Ceramic)</name>
+		<hexID>C6P022</hexID>
+		<oompSort>06030.00000000000220</oompSort>
+		<oompType>CAPC</oompType>
+		<oompSize>0603</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>PF22</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>99</oompVersion>
+		<ooWidth>0.8 mm</ooWidth>
+		<ooLength>1.6 mm</ooLength>
+		<ooManufacturer>Yageo</ooManufacturer>
+		<ooManufacturerPartNumber>CC0603JRNPO9BN220</ooManufacturerPartNumber>
+		<ooMaxVoltage>50 V</ooMaxVoltage>
+		<ooTolerance>5%</ooTolerance>
+		<ooSEEEDsku>0100620P1</ooSEEEDsku>
+		<ooSEEEDdesc>SMD CAP Ceramic 22pF-50V-5%-NPO</ooSEEEDdesc>
 		<sourceList>
 			<manufacturer>
 				<company>Yageo</company>
@@ -71,7 +26,7 @@
 				<name></name>
 				<partID>CC0603JRNPO9BN220</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<manufacturer>
 				<company>Kemet</company>
@@ -79,7 +34,7 @@
 				<name></name>
 				<partID>C0603C220J5GACTU</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<manufacturer>
 				<company>Samsung</company>
@@ -87,8 +42,8 @@
 				<name></name>
 				<partID>CL10C220JB8NNNC</partID>
 				<link></link>
-				<note></note>			
-			</manufacturer>				
+				<note></note>
+			</manufacturer>
 			<bigDistributor>
 				<company>DigiKey</company>
 				<companyCode>C-DIGK</companyCode>
@@ -96,7 +51,7 @@
 				<partID>311-1062-1-ND</partID>
 				<link><![CDATA[http://www.digikey.com/product-detail/en/CC0603JRNPO9BN220/311-1062-1-ND/302972]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>
 			<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
@@ -113,7 +68,6 @@
 				<link><![CDATA[http://www.rapidonline.com/electronic-components/22pf-50v-10-npo-0603-chip-capacitor-pack-of-100-71-1792]]></link>
 				<note></note>
 			</bigDistributor>
-				
 		</sourceList>
 		<oplList>
 			<oplSystem>
@@ -133,7 +87,7 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=27]]></oplLink>
-			</oplSystem>			
+			</oplSystem>
 			<oplSystem>
 				<oplScheme>HubStock</oplScheme>
 				<oplCode>C-HUBS</oplCode>
@@ -143,43 +97,25 @@
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://circuithub.com/parts/YAGEO2/CC0603JRNPO9BN220]]></oplLink>
 			</oplSystem>
-		</oplList><!--Hidden -->
-        <oompVersion></oompVersion>
-        <ooNameLine1of2></ooNameLine1of2>
-        <ooNameLine2of2></ooNameLine2of2>
-        <ooNameLine1of3></ooNameLine1of3>
-        <ooNameLine2of3></ooNameLine2of3>
-        <ooNameLine3of3></ooNameLine3of3>
-        <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-        <ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:Capacitor0603.zip</ooSEEED3dModel>
-<!-- -->    
-	<oompClass>Surface Mount</oompClass>
-	<oompClassCode>SMDS</oompClassCode>
-	<oompBbls>
-		<drawItem>template;XXXX-0603-X-XXXX-XX-bbls</drawItem>
-</oompBbls>
-	<oompDiag>
-				<drawItem>template;XXXX-0603-X-XXXX-XX-diag</drawItem>
-</oompDiag>
-	<oompIden>
-				<drawItem>template;XXXX-0603-X-XXXX-XX-iden</drawItem>
-</oompIden>
+		</oplList>
+		<ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:Capacitor0603.zip</ooSEEED3dModel>
+		<oompClass>Surface Mount</oompClass>
+		<oompClassCode>SMDS</oompClassCode>
+		<oompBbls>
+			<drawItem>template;XXXX-0603-X-XXXX-XX-bbls</drawItem>
+		</oompBbls>
+		<oompDiag>
+			<drawItem>template;XXXX-0603-X-XXXX-XX-diag</drawItem>
+		</oompDiag>
+		<oompIden>
+			<drawItem>template;XXXX-0603-X-XXXX-XX-iden</drawItem>
+		</oompIden>
 		<oompSchem>
-		<drawItem>template;CAPC-XXXX-X-XXXX-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp>
-		<drawItem>template;XXXX-0603-X-XXXX-XX-simp</drawItem>
-</oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+			<drawItem>template;CAPC-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
+		<oompSimp>
+			<drawItem>template;XXXX-0603-X-XXXX-XX-simp</drawItem>
+		</oompSimp>
 		<ooDesignator>C1</ooDesignator>
-</oompPart>
+	</oompPart>
 </xml>

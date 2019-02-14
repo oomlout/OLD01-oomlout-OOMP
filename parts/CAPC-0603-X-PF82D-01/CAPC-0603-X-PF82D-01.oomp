@@ -1,36 +1,20 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>CAPC-0603-X-PF82D-01</oompID>
-        <name>SMD (0603) 8.2 pF Capacitor (Ceramic)</name>        
+	<oompPart>
+		<oompID>CAPC-0603-X-PF82D-01</oompID>
+		<name>SMD (0603) 8.2 pF Capacitor (Ceramic)</name>
 		<hexID>C6P008</hexID>
-        <oompSort>06030.00000000008200</oompSort>		
+		<oompSort>06030.00000000008200</oompSort>
 		<oompClass>Surface Mount</oompClass>
-		<oompClassCode>SMDS</oompClassCode>		
-		
-        <oompType>CAPC</oompType>
-        <oompSize>0603</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>PF82D</oompDesc>
-        <oompIndex>01</oompIndex>        
+		<oompClassCode>SMDS</oompClassCode>
+		<oompType>CAPC</oompType>
+		<oompSize>0603</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>PF82D</oompDesc>
+		<oompIndex>01</oompIndex>
 		<oompVersion>98</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth>0.8</ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>1.6</ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins>2</ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
+		<ooWidth>0.8</ooWidth>
+		<ooLength>1.6</ooLength>
+		<ooNumPins>2</ooNumPins>
 		<sourceList>
 			<manufacturer>
 				<company>YAGEO</company>
@@ -38,7 +22,7 @@
 				<name></name>
 				<partID>CC0603DRNPO9BN8R2</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<manufacturer>
 				<company>Kemet</company>
@@ -46,9 +30,8 @@
 				<name></name>
 				<partID>C0603C829J5GACTU</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 			<bigDistributor>
 				<company>Digikey</company>
 				<companyCode>C-DIGK</companyCode>
@@ -56,14 +39,14 @@
 				<partID>311-1742-1-ND</partID>
 				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=311-1742-1-ND]]></link>
 				<note></note>
-			</bigDistributor>								<bigDistributor>
+				</bigDistributor>								<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
 				<name></name>
 				<partID>603-CC603DRNPO9BN8R2</partID>
 				<link><![CDATA[http://www.mouser.co.uk/Search/Refine.aspx?Keyword=603-CC603DRNPO9BN8R2]]></link>
 				<note></note>
-			</bigDistributor>	
+			</bigDistributor>
 			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
@@ -71,7 +54,7 @@
 				<partID>721955</partID>
 				<link><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=721955]]></link>
 				<note></note>
-			</bigDistributor>	
+			</bigDistributor>
 			<bigDistributor>
 				<company>RS Electronics</company>
 				<companyCode>C-RSRS</companyCode>
@@ -79,11 +62,8 @@
 				<partID>616-9032</partID>
 				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=616-9032]]></link>
 				<note></note>
-			</bigDistributor>	
-				
+			</bigDistributor>
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
@@ -103,33 +83,22 @@
 				<oplPackage>603</oplPackage>
 				<oplLink><![CDATA[https://octopart.com/common-parts-library]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    	<oompBbls>
-		<drawItem>template;XXXX-0603-X-XXXX-XX-bbls</drawItem>
-</oompBbls>
-	<oompDiag>
-				<drawItem>template;XXXX-0603-X-XXXX-XX-diag</drawItem>
-</oompDiag>
-	<oompIden>
-				<drawItem>template;XXXX-0603-X-XXXX-XX-iden</drawItem>
-</oompIden>
+		</oplList>
+		<oompBbls>
+			<drawItem>template;XXXX-0603-X-XXXX-XX-bbls</drawItem>
+		</oompBbls>
+		<oompDiag>
+			<drawItem>template;XXXX-0603-X-XXXX-XX-diag</drawItem>
+		</oompDiag>
+		<oompIden>
+			<drawItem>template;XXXX-0603-X-XXXX-XX-iden</drawItem>
+		</oompIden>
 		<oompSchem>
-		<drawItem>template;CAPC-XXXX-X-XXXX-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp>
-		<drawItem>template;XXXX-0603-X-XXXX-XX-simp</drawItem>
-</oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+			<drawItem>template;CAPC-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
+		<oompSimp>
+			<drawItem>template;XXXX-0603-X-XXXX-XX-simp</drawItem>
+		</oompSimp>
 		<ooDesignator>C1</ooDesignator>
-</oompPart>	
-	
+	</oompPart>
 </xml>

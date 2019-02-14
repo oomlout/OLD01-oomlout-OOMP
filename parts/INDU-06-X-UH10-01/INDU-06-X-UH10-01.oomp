@@ -1,36 +1,17 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>INDU-06-X-UH10-01</oompID>
-        <name>6 mm 10 uH Inductor</name>        
+	<oompPart>
+		<oompID>INDU-06-X-UH10-01</oompID>
+		<name>6 mm 10 uH Inductor</name>
 		<hexID>IN06U10</hexID>
-        <oompSort></oompSort>		
+		<oompSort></oompSort>
 		<oompClass>Surface Mount</oompClass>
-		<oompClassCode>SMDS</oompClassCode>		
-		
-        <oompType>INDU</oompType>
-        <oompSize>06</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>UH10</oompDesc>
-        <oompIndex>01</oompIndex>        
+		<oompClassCode>SMDS</oompClassCode>
+		<oompType>INDU</oompType>
+		<oompSize>06</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>UH10</oompDesc>
+		<oompIndex>01</oompIndex>
 		<oompVersion>40</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins></ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
 		<sourceList>
 			<manufacturer>
 				<company>Shenzhen Codaca Electronic Co. Ltd.</company>
@@ -38,12 +19,9 @@
 				<name></name>
 				<partID>CSAB0630-100M</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
@@ -54,25 +32,10 @@
 				<oplPackage>SPD3D16-4R7M</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem>
-		<drawItem>template;INDU-XXXX-X-XXXX-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+		</oplList>
+		<oompSchem>
+			<drawItem>template;INDU-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
 		<ooDesignator>L1</ooDesignator>
-</oompPart>	
-	
+	</oompPart>
 </xml>

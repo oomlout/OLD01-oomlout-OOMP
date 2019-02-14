@@ -1,49 +1,21 @@
 <xml>
-<oompPart>
-        <index>9876</index><com>OOMP Base</com>
-        <oompID>DIOD-D214-X-A01-01</oompID>
-        <name>SMD (DO-214) 1 Amp Diode</name>
-        <hexID>DS201</hexID>
-        <oompSort>D21401.000</oompSort>
-        <oompType>DIOD</oompType>
-        <oompSize>D214</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>A01</oompDesc>
-        <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion></oompVersion>		<oompSkip>true</oompSkip><com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth>5.6 mm</ooWidth>
-        <ooHeight>2 mm</ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>2.75 mm</ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize>
-<com>SMD</com>
+	<oompPart>
+		<index>9876</index>
+		<oompID>DIOD-D214-X-A01-01</oompID>
+		<name>SMD (DO-214) 1 Amp Diode</name>
+		<hexID>DS201</hexID>
+		<oompSort>D21401.000</oompSort>
+		<oompType>DIOD</oompType>
+		<oompSize>D214</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>A01</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>99</oompVersion>		<oompSkip>true</oompSkip><ooWidth>5.6 mm</ooWidth>
+		<ooHeight>2 mm</ooHeight>
+		<ooLength>2.75 mm</ooLength>
+		<com>SMD</com>
 		<ooPackageMarking>M7, S1M</ooPackageMarking>
-<com>Description</com>
-        <ooMaterial></ooMaterial>
-        <ooNumPins>2</ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating><com>Hardware</com>
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize><com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance><com>Heat Shrink</com>
-        <ooShrinkRatio></ooShrinkRatio><com>LED</com>
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY><com>Plug</com>
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength><com>Source List</com>		
+		<ooNumPins>2</ooNumPins>
 		<sourceList>
 			<manufacturer>
 				<company>Yongyutai Electronics</company>
@@ -51,7 +23,7 @@
 				<name></name>
 				<partID>1N4007</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<manufacturer>
 				<company>Fairchild Semiconductor</company>
@@ -59,7 +31,7 @@
 				<name></name>
 				<partID>S1M</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<manufacturer>
 				<company>Taiwan Semiconductor</company>
@@ -67,9 +39,8 @@
 				<name></name>
 				<partID>S1M E3</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 			<bigDistributor>
 				<company>DigiKey</company>
 				<companyCode>C-DIGK</companyCode>
@@ -77,14 +48,14 @@
 				<partID>S1MFSCT-ND</partID>
 				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/S1M/S1MFSCT-ND/965721]]></link>
 				<note></note>
-			</bigDistributor>			<bigDistributor>
+				</bigDistributor>			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
 				<name>FAIRCHILD SEMICONDUCTOR  S1M  DIODE, STANDARD, 1A, 1000V, SMD</name>
 				<partID>9843841</partID>
 				<link><![CDATA[http://uk.farnell.com/fairchild-semiconductor/s1m/diode-standard-1a-1000v-smd/dp/9843841]]></link>
 				<note></note>
-			</bigDistributor>			
+			</bigDistributor>
 			<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
@@ -108,11 +79,8 @@
 				<partID>670-8836</partID>
 				<link><![CDATA[http://uk.rs-online.com/web/p/rectifier-schottky-diodes/6708836/]]></link>
 				<note></note>
-			</bigDistributor>		
+			</bigDistributor>
 		</sourceList>
-			
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>Circuithub.com</oplScheme>
@@ -122,9 +90,7 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[]]></oplLink>
-
 			</oplSystem>
-			
 			<oplSystem>
 				<oplScheme>Seeed Studio OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
@@ -134,18 +100,8 @@
 				<oplPackage>DO-214AC</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout>This is a commonly used general purpose high current (1A) surface mount diode. </oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-		
-	<COM>Common Uses</COM>		
+		</oplList>
+		<oompAbout>This is a commonly used general purpose high current (1A) surface mount diode. </oompAbout>
 		<usageList>
 			<useItem>
 				<useID>1</useID>
@@ -153,19 +109,12 @@
 				<useTitle>Arduino Power protection</useTitle>
 				<useDescription>Used on the Arduino UNO board to protect agaionst inserting the DC power supply backwards.</useDescription>
 			</useItem>
-		</usageList>		
-		
-    
-	<oompClass>Surface Mount</oompClass>
-	<oompClassCode>SMDS</oompClassCode>
-	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem>
-		<drawItem>template;DIOD-XXXX-X-XXXX-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+		</usageList>
+		<oompClass>Surface Mount</oompClass>
+		<oompClassCode>SMDS</oompClassCode>
+		<oompSchem>
+			<drawItem>template;DIOD-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
 		<ooDesignator>D1</ooDesignator>
-</oompPart>
+	</oompPart>
 </xml>

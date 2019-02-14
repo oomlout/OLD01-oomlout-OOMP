@@ -1,36 +1,13 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>BUTA-52D-X-STAN-01</oompID>
-        <name>5.2 mm Pushbutton (Tactile)</name>        
+	<oompPart><oompID>BUTA-52D-X-STAN-01</oompID>
+		<name>5.2 mm Pushbutton (Tactile)</name>
 		<hexID>BT52</hexID>
-        <oompSort>BUTA52DSTAN</oompSort>		
-		<oompClass></oompClass>
-		<oompClassCode></oompClassCode>		
-		
-        <oompType>BUTA</oompType>
-        <oompSize>52D</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>STAN</oompDesc>
-        <oompIndex>01</oompIndex>        
-		<oompVersion>98</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins>4</ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
+		<oompSort>BUTA52DSTAN</oompSort><oompType>BUTA</oompType>
+		<oompSize>52D</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>STAN</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>98</oompVersion><ooNumPins>4</ooNumPins>
 		<sourceList>
 			<manufacturer>
 				<company>ALPS</company>
@@ -38,24 +15,22 @@
 				<name></name>
 				<partID>SKQGADE010</partID>
 				<link></link>
-				<note></note>			
-			</manufacturer>
-				
-			<bigDistributor>
+				<note></note>
+				</manufacturer><bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
 				<name></name>
 				<partID>688-SKQGAD</partID>
 				<link><![CDATA[http://www.mouser.co.uk/Search/Refine.aspx?Keyword=688-SKQGAD]]></link>
 				<note></note>
-			</bigDistributor>								<bigDistributor>
+				</bigDistributor>								<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
 				<name></name>
 				<partID>1656434</partID>
 				<link><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=1656434]]></link>
 				<note></note>
-			</bigDistributor>	
+			</bigDistributor>
 			<bigDistributor>
 				<company>RS Electronics</company>
 				<companyCode>C-RSRS</companyCode>
@@ -63,36 +38,18 @@
 				<partID>58-2067</partID>
 				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=58-2067]]></link>
 				<note></note>
-			</bigDistributor>			
-				
-		</sourceList>
-		
-<com>OPL</com>		
-		<oplList>
-			<oplSystem>
-				<oplScheme>SEEED OPL</oplScheme>
-				<oplCode>C-SEEE</oplCode>
-				<oplName>SMD Button;260gf</oplName>
-				<oplID>311020017</oplID>
-				<oplFootprint>4P-L5.2*W5.2*H1.5mm</oplFootprint>
-				<oplPackage>4P-L5.2*W5.2*H1.5mm</oplPackage>
-				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
-			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    </oompPart>	
-	<oompBbls></oompBbls>	
-	<oompDiag></oompDiag>	
-	<oompIden></oompIden>	
-	<oompSchem></oompSchem>	
-	<oompSimp></oompSimp>			<ooPackageMarking></ooPackageMarking>
-		<ooDesignator>S1</ooDesignator>
+			</bigDistributor></sourceList>
+			<oplList>
+				<oplSystem>
+					<oplScheme>SEEED OPL</oplScheme>
+					<oplCode>C-SEEE</oplCode>
+					<oplName>SMD Button;260gf</oplName>
+					<oplID>311020017</oplID>
+					<oplFootprint>4P-L5.2*W5.2*H1.5mm</oplFootprint>
+					<oplPackage>4P-L5.2*W5.2*H1.5mm</oplPackage>
+					<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
+				</oplSystem>
+			</oplList>
+			<ooDesignator>S1</ooDesignator>
+	</oompPart>
 </xml>

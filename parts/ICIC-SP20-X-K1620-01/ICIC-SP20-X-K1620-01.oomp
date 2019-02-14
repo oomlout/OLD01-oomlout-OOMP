@@ -1,209 +1,48 @@
 <xml>
-    <oompPart>
-
-<com>OOMP Base</com>
-        <oompID>ICIC-SP20-X-K1620-01</oompID>
-        <name> 20 Pin SMD (SOP) 7 Segment 8 Digit LED Driver (TM1620) </name>
-
-        <hexID>ICS1620</hexID>
-        <oompSort>ICICSP20K1620</oompSort>
-
-		<oompClass></oompClass>
-		<oompClassCode></oompClassCode>		
-		
-        <oompType>ICIC</oompType>
-        <oompSize>SP20</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>K1620</oompDesc>
-        <oompIndex>01</oompIndex>
-
-        <oompVersion>98</oompVersion>
-
-
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth>
-
-<com>Description</com>
-        <ooNumPins></ooNumPins>
-        <ooPowerRating></ooPowerRating>
-
-
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-
-
-<com>Source List</com>		
-		<sourceList>
-			<manufacturer>
-				<company>0</company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID>0</partID>
-				<link></link>
-				<note></note>			
-			</manufacturer>
-			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link></link>
-				<note></note>			
-			</manufacturer>
-				
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
-				<note></note>
-			</bigDistributor>					
-
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
-				<note></note>
-			</bigDistributor>	
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
-				<note></note>
-			</bigDistributor>	
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
-				<note></note>
-			</bigDistributor>	
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
-				<note></note>
-			</bigDistributor>	
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
-				<note></note>
-			</bigDistributor>					
-		</sourceList>
-		
-<com>OPL</com>		
-		<oplList>
-			<oplSystem>
-				<oplScheme>SEEED OPL</oplScheme>
-				<oplCode>C-SEEE</oplCode>
-				<oplName>0</oplName>
-				<oplID>0</oplID>
-				<oplFootprint>0</oplFootprint>
-				<oplPackage>0</oplPackage>
-				<oplLink><![CDATA[http://www.seeedstudio.com/depot/s/0.html?search_in_description=0]]></oplLink>
-			</oplSystem>
-			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[]]></oplLink>
-			</oplSystem>
-			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[]]></oplLink>
-			</oplSystem>
-		</oplList>
-
-<com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-
-	<com>Footprint</com>
-		<footprintList>
-			<footprintSystem>
-				<footprintScheme>Eagle Default</footprintScheme>
-				<footprintSchemeCode>C-EAGE</footprintSchemeCode>
-				<footprintCode></footprintCode>
-				<footprintName></footprintName>
-				<footprintNote></footprintNote>
-			</footprintSystem>
-		</footprintList>
-    
-
-
-	<ooPin1>VDD</ooPin1>
-	<ooPin2>SEG1</ooPin2>
-	<ooPin3>SEG2</ooPin3>
-	<ooPin4>SEG3</ooPin4>
-	<ooPin5>SEG4</ooPin5>
-	<ooPin6>SEG5</ooPin6>
-	<ooPin7>SEG6</ooPin7>
-	<ooPin8>SEG7</ooPin8>
-	<ooPin9>SEG8</ooPin9>
-	<ooPin10>GRID6</ooPin10>	
-	<ooPin11>GRID5</ooPin11>
-	<ooPin12>GND</ooPin12>
-	<ooPin13>GRID4</ooPin13>
-	<ooPin14>GRID3</ooPin14>
-	<ooPin15>GND</ooPin15>
-	<ooPin16>GRID2</ooPin16>
-	<ooPin17>GRID1</ooPin17>
-	<ooPin18>DIN</ooPin18>
-	<ooPin19>CLK</ooPin19>
-	<ooPin20>STB</ooPin20>
-		
-
-	<oompBbls>
-			<drawItem>template;ICIC-SP20-X-XXXX-01-bbls</drawItem>	
-	</oompBbls>	
+	<oompPart>
+		<oompID>ICIC-SP20-X-K1620-01</oompID>
+		<name> 20 Pin SMD (SOP) 7 Segment 8 Digit LED Driver (TM1620) </name>
+		<hexID>ICS1620</hexID>
+		<oompSort>ICICSP20K1620</oompSort>
+		<oompType>ICIC</oompType>
+		<oompSize>SP20</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>K1620</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>98</oompVersion>
+		<ooPin1>VDD</ooPin1>
+		<ooPin2>SEG1</ooPin2>
+		<ooPin3>SEG2</ooPin3>
+		<ooPin4>SEG3</ooPin4>
+		<ooPin5>SEG4</ooPin5>
+		<ooPin6>SEG5</ooPin6>
+		<ooPin7>SEG6</ooPin7>
+		<ooPin8>SEG7</ooPin8>
+		<ooPin9>SEG8</ooPin9>
+		<ooPin10>GRID6</ooPin10>
+		<ooPin11>GRID5</ooPin11>
+		<ooPin12>GND</ooPin12>
+		<ooPin13>GRID4</ooPin13>
+		<ooPin14>GRID3</ooPin14>
+		<ooPin15>GND</ooPin15>
+		<ooPin16>GRID2</ooPin16>
+		<ooPin17>GRID1</ooPin17>
+		<ooPin18>DIN</ooPin18>
+		<ooPin19>CLK</ooPin19>
+		<ooPin20>STB</ooPin20>
+		<oompBbls>
+			<drawItem>template;ICIC-SP20-X-XXXX-01-bbls</drawItem>
+		</oompBbls>
 		<oompDiag>
-				<drawItem>template;ICIC-SP20-X-XXXX-01-diag</drawItem>	
-	</oompDiag>		
-	<oompIden>
-				<drawItem>template;ICIC-SP20-X-XXXX-01-iden</drawItem>
-	</oompIden>	
-	<oompSchem></oompSchem>	
-	<oompSimp>
-				<drawItem>template;ICIC-SP20-X-XXXX-01-simp</drawItem>
-	</oompSimp>	
-
+			<drawItem>template;ICIC-SP20-X-XXXX-01-diag</drawItem>
+		</oompDiag>
+		<oompIden>
+			<drawItem>template;ICIC-SP20-X-XXXX-01-iden</drawItem>
+		</oompIden>
+		<oompSimp>
+			<drawItem>template;ICIC-SP20-X-XXXX-01-simp</drawItem>
+		</oompSimp>
 		<ooPackageMarking>TM1620</ooPackageMarking>
 		<ooDesignator>U1</ooDesignator>
-	</oompPart>	
+	</oompPart>
 </xml>

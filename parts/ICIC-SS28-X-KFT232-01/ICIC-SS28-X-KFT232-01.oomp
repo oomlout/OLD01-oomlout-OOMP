@@ -1,36 +1,16 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>ICIC-SS28-X-KFT232-01</oompID>
-        <name>28 Pin SMD (SSOP) USB-Serial (FT232RL)</name>        
+	<oompPart>
+		<oompID>ICIC-SS28-X-KFT232-01</oompID>
+		<name>28 Pin SMD (SSOP) USB-Serial (FT232RL)</name>
 		<hexID>ICSF232</hexID>
-        <oompSort>ICICSS28KFT232</oompSort>		
-		<oompClass></oompClass>
-		<oompClassCode></oompClassCode>		
-		
-        <oompType>ICIC</oompType>
-        <oompSize>SS28</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>KFT232</oompDesc>
-        <oompIndex>01</oompIndex>        
+		<oompSort>ICICSS28KFT232</oompSort>
+		<oompType>ICIC</oompType>
+		<oompSize>SS28</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>KFT232</oompDesc>
+		<oompIndex>01</oompIndex>
 		<oompVersion>98</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins>28</ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
+		<ooNumPins>28</ooNumPins>
 		<sourceList>
 			<manufacturer>
 				<company>FTDI</company>
@@ -38,9 +18,8 @@
 				<name></name>
 				<partID>FT232RL</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 			<bigDistributor>
 				<company>Digikey</company>
 				<companyCode>C-DIGK</companyCode>
@@ -48,14 +27,14 @@
 				<partID>768-1007-1-ND</partID>
 				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=768-1007-1-ND]]></link>
 				<note></note>
-			</bigDistributor>								<bigDistributor>
+				</bigDistributor>								<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
 				<name></name>
 				<partID>895-FT232RL</partID>
 				<link><![CDATA[http://www.mouser.co.uk/Search/Refine.aspx?Keyword=895-FT232RL]]></link>
 				<note></note>
-			</bigDistributor>	
+			</bigDistributor>
 			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
@@ -63,7 +42,7 @@
 				<partID>1146032</partID>
 				<link><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=1146032]]></link>
 				<note></note>
-			</bigDistributor>	
+			</bigDistributor>
 			<bigDistributor>
 				<company>RS Electronics</company>
 				<companyCode>C-RSRS</companyCode>
@@ -71,11 +50,8 @@
 				<partID>406-580</partID>
 				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=406-580]]></link>
 				<note></note>
-			</bigDistributor>	
-				
+			</bigDistributor>
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
@@ -104,21 +80,7 @@
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://circuithub.com/parts/FTDI/FT232RL]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    </oompPart>	
-	<oompBbls></oompBbls>	
-	<oompDiag></oompDiag>	
-	<oompIden></oompIden>	
-	<oompSchem></oompSchem>	
-	<oompSimp></oompSimp>			<ooPackageMarking></ooPackageMarking>
+		</oplList>
 		<ooDesignator>U1</ooDesignator>
+	</oompPart>
 </xml>

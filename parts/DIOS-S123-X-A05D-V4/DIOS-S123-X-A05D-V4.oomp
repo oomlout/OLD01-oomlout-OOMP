@@ -1,36 +1,15 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>DIOS-S123-X-A05D-V4</oompID>
-        <name>SMD (SOD-123) 500 mA Diode (Schottky) 40v</name>        
+	<oompPart>
+		<oompID>DIOS-S123-X-A05D-V4</oompID>
+		<name>SMD (SOD-123) 500 mA Diode (Schottky) 40v</name>
 		<hexID>DS35D</hexID>
-        <oompSort>DIOSS123A05D</oompSort>		
-		<oompClass></oompClass>
-		<oompClassCode></oompClassCode>		
-		
-        <oompType>DIOS</oompType>
-        <oompSize>S123</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>A05D</oompDesc>
-        <oompIndex>V4</oompIndex>        
+		<oompSort>DIOSS123A05D</oompSort>
+		<oompType>DIOS</oompType>
+		<oompSize>S123</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>A05D</oompDesc>
+		<oompIndex>V4</oompIndex>
 		<oompVersion>98</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins></ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
 		<sourceList>
 			<manufacturer>
 				<company>Micro Commercial Components</company>
@@ -38,12 +17,9 @@
 				<name></name>
 				<partID>B5819W</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>Seeed OPL</oplScheme>
@@ -54,25 +30,10 @@
 				<oplPackage>SOD-123</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem>
-		<drawItem>template;DIOS-XXXX-X-XXXX-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+		</oplList>
+		<oompSchem>
+			<drawItem>template;DIOS-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
 		<ooDesignator>D1</ooDesignator>
-</oompPart>	
-	
+	</oompPart>
 </xml>

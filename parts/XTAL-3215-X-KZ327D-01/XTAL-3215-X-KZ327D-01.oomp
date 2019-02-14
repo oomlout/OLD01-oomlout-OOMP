@@ -1,32 +1,16 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>XTAL-3215-X-KZ327D-01</oompID>
-        <name>SMD (3215) 32.768 kHz Crystal</name>        
+	<oompPart>
+		<oompID>XTAL-3215-X-KZ327D-01</oompID>
+		<name>SMD (3215) 32.768 kHz Crystal</name>
 		<hexID>X3K327D</hexID>
-        <oompSort></oompSort>		
+		<oompSort></oompSort>
 		<oompClass>Surface Mount</oompClass>
 		<oompClassCode>SMDS</oompClassCode>        <oompType>XTAL</oompType>
-        <oompSize>3215</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>KZ327D</oompDesc>
-        <oompIndex>01</oompIndex>        
+		<oompSize>3215</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>KZ327D</oompDesc>
+		<oompIndex>01</oompIndex>
 		<oompVersion>40</oompVersion>
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins></ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>
 		<sourceList>
 			<manufacturer>
 				<company>Xinhunjing</company>
@@ -36,25 +20,7 @@
 				<link></link>
 				<note></note>
 			</manufacturer>
-			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link></link>
-				<note></note>
-			</manufacturer>			
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[]]></link>
-				<note></note>
-			</bigDistributor>	
 		</sourceList>
-		
-		<com>OPL</com>
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
@@ -65,23 +31,9 @@
 				<oplPackage>2P-L5.0*W3.2mm</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem>
-		<drawItem>template;XTAL-XXXX-X-XXXX-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
-		<ooDesignator>X1</ooDesignator>
-</oompPart></xml>
+		</oplList>
+		<oompSchem>
+			<drawItem>template;XTAL-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem><ooDesignator>X1</ooDesignator>
+	</oompPart>
+</xml>

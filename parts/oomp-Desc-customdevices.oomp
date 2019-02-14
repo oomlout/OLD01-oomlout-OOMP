@@ -1,238 +1,222 @@
 <xml>
 	<oompDesc>
-            <code>K222</code>
-            <name>2222A</name>
-    </oompDesc>
+		<code>K222</code>
+		<name>2222A</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K555</code>
-            <name>555 Timer</name>
-    </oompDesc>
+		<code>K555</code>
+		<name>555 Timer</name>
+	</oompDesc>
 	<oompDesc>
-            <code>KCH340</code>
-            <name>USB-Serial (CH340)</name>
-    </oompDesc>	
-	
+		<code>KCH340</code>
+		<name>USB-Serial (CH340)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>KFT232</code>
-            <name>USB-Serial (FT232RL)</name>
-    </oompDesc>	
+		<code>KFT232</code>
+		<name>USB-Serial (FT232RL)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K328</code>
-            <name>AtMega328P</name>
-    </oompDesc>	
+		<code>K328</code>
+		<name>AtMega328P</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K168</code>
-            <name>AtMega168P</name>
-    </oompDesc>	
-	
+		<code>K168</code>
+		<name>AtMega168P</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K345</code>
-            <name>Digital Accelerometer (ADXL345)</name>
-    </oompDesc>	
-	
+		<code>K345</code>
+		<name>Digital Accelerometer (ADXL345)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K8</code>
-            <name>AtMega8A</name>
-    </oompDesc>	
+		<code>K8</code>
+		<name>AtMega8A</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K2560</code>
-            <name>AtMega2560</name>
-    </oompDesc>	
+		<code>K2560</code>
+		<name>AtMega2560</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K4988</code>
-            <name>Stepper Motor Driver (A4988)</name>
-    </oompDesc>	
-	
+		<code>K4988</code>
+		<name>Stepper Motor Driver (A4988)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K16U2</code>
-            <name>AtMega16U2</name>
-    </oompDesc>	
-	
+		<code>K16U2</code>
+		<name>AtMega16U2</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K32U4</code>
-            <name>AtMega32U4</name>
-    </oompDesc>	
+		<code>K32U4</code>
+		<name>AtMega32U4</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K125</code>
-            <name>Quad Buffer (74HC125)</name>
-    </oompDesc>	
+		<code>K125</code>
+		<name>Quad Buffer (74HC125)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K1555</code>
-            <name>Lithium Ion Battery Charger (1 Cell) (MAX1555)</name>
-    </oompDesc>	
-	
+		<code>K1555</code>
+		<name>Lithium Ion Battery Charger (1 Cell) (MAX1555)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K125LS</code>
-            <name>Single Buffer (74LVC1G125)</name>
-    </oompDesc>	
+		<code>K125LS</code>
+		<name>Single Buffer (74LVC1G125)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K232</code>
-            <name>FTDI USB-Serial</name>
-    </oompDesc>	
-	
+		<code>K232</code>
+		<name>FTDI USB-Serial</name>
+	</oompDesc>
 	<oompDesc>
-            <code>KM232</code>
-            <name>RS232 to TTL Converter (MAX232)</name>
-    </oompDesc>	
+		<code>KM232</code>
+		<name>RS232 to TTL Converter (MAX232)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K595</code>
-            <name>74HC595 8-Bit Shift Register (Latching)</name>
-    </oompDesc>	
+		<code>K595</code>
+		<name>74HC595 8-Bit Shift Register (Latching)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K2515</code>
-            <name>CAN Controller SPI (MCP2515)</name>
-    </oompDesc>	
-		
+		<code>K2515</code>
+		<name>CAN Controller SPI (MCP2515)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K2551</code>
-            <name>CAN Tranceiver (MCP2521)</name>
-    </oompDesc>	
-		
+		<code>K2551</code>
+		<name>CAN Tranceiver (MCP2521)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K2803</code>
-            <name>ULN2803A Octal Transistor Array</name>
-    </oompDesc>	
-	
+		<code>K2803</code>
+		<name>ULN2803A Octal Transistor Array</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K2904</code>
-            <name>LM2904 Dual</name>
-    </oompDesc>	
+		<code>K2904</code>
+		<name>LM2904 Dual</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K333</code>
-            <name>OPA333</name>
-    </oompDesc>	
-	
+		<code>K333</code>
+		<name>OPA333</name>
+	</oompDesc>
 	<oompDesc>
-            <code>KDS1307</code>
-            <name>Real Time Clock (DS1307)</name>
-    </oompDesc>	
+		<code>KDS1307</code>
+		<name>Real Time Clock (DS1307)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>KDS1337</code>
-            <name>Real Time Clock (DS1337)</name>
-    </oompDesc>	
+		<code>KDS1337</code>
+		<name>Real Time Clock (DS1337)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>KL298</code>
-            <name>Dual H-Bridge (L298)</name>
-    </oompDesc>	
-	
+		<code>KL298</code>
+		<name>Dual H-Bridge (L298)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>KLMV324</code>
-            <name>LMV358</name>
-    </oompDesc>	
-	
+		<code>KLMV324</code>
+		<name>LMV358</name>
+	</oompDesc>
 	<oompDesc>
-            <code>KLMV358</code>
-            <name>LMV358</name>
-    </oompDesc>	
-	
+		<code>KLMV358</code>
+		<name>LMV358</name>
+	</oompDesc>
 	<oompDesc>
-            <code>KM293</code>
-            <name>Dual Differential Comparator (LM293)</name>
-    </oompDesc>	
+		<code>KM293</code>
+		<name>Dual Differential Comparator (LM293)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>KTM1636</code>
-            <name>7 Segment Driver and Keypad Scanning (TM1636)</name>
-    </oompDesc>	
+		<code>KTM1636</code>
+		<name>7 Segment Driver and Keypad Scanning (TM1636)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>KLM358</code>
-            <name>LM358</name>
-    </oompDesc>	
-	
+		<code>KLM358</code>
+		<name>LM358</name>
+	</oompDesc>
 	<oompDesc>
-            <code>KCN3065</code>
-            <name>Lithium Ion Battery Charger (CN3065)</name>
-    </oompDesc>	
+		<code>KCN3065</code>
+		<name>Lithium Ion Battery Charger (CN3065)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>KLPC33</code>
-            <name>LPC11U35FHI33 (Cortex M0)</name>
-    </oompDesc>	
+		<code>KLPC33</code>
+		<name>LPC11U35FHI33 (Cortex M0)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>KLPC11</code>
-            <name>LPC11U24 (Cortex M0)</name>
-    </oompDesc>	
+		<code>KLPC11</code>
+		<name>LPC11U24 (Cortex M0)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>KLPC14</code>
-            <name>LPC1114 (Cortex M0)</name>
-    </oompDesc>	
+		<code>KLPC14</code>
+		<name>LPC1114 (Cortex M0)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>KLPC17</code>
-            <name>LPC1768 (Cortex M3)</name>
-    </oompDesc>	
+		<code>KLPC17</code>
+		<name>LPC1768 (Cortex M3)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>KRF822</code>
-            <name>nRF51822 (Bluetooth MCU)</name>
-    </oompDesc>	
+		<code>KRF822</code>
+		<name>nRF51822 (Bluetooth MCU)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>KF230</code>
-            <name>High Speed USB-Serial (FT230XS-R)</name>
-    </oompDesc>	
+		<code>KF230</code>
+		<name>High Speed USB-Serial (FT230XS-R)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K108</code>
-            <name>8-bit Level Shifter (TXS108E)</name>
-    </oompDesc>	
+		<code>K108</code>
+		<name>8-bit Level Shifter (TXS108E)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K6612</code>
-            <name>Dual H-Bridge (TB6612)</name>
-    </oompDesc>	
+		<code>K6612</code>
+		<name>Dual H-Bridge (TB6612)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K9221</code>
-            <name>12 Channel Constant Current LED Driver (MY9221)</name>
-    </oompDesc>	
-	
+		<code>K9221</code>
+		<name>12 Channel Constant Current LED Driver (MY9221)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K1550</code>
-            <name>Photo Reflective (LTH1550)</name>
-    </oompDesc>	
+		<code>K1550</code>
+		<name>Photo Reflective (LTH1550)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K1637</code>
-            <name>7 Segment 8 Digit LED Driver (TM1637)</name>
-    </oompDesc>	
+		<code>K1637</code>
+		<name>7 Segment 8 Digit LED Driver (TM1637)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K1620</code>
-            <name>7 Segment 8 Digit LED Driver (TM1620)</name>
-    </oompDesc>	
+		<code>K1620</code>
+		<name>7 Segment 8 Digit LED Driver (TM1620)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>KHT46</code>
-            <name>Holtek HT46R066</name>
-    </oompDesc>	
+		<code>KHT46</code>
+		<name>Holtek HT46R066</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K108B</code>
-            <name>8 bit Level Shifter (TXB0108PW)</name>
-    </oompDesc>	
+		<code>K108B</code>
+		<name>8 bit Level Shifter (TXB0108PW)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K1820</code>
-            <name>Voice Recorder (ISD1820P)</name>
-    </oompDesc>	
+		<code>K1820</code>
+		<name>Voice Recorder (ISD1820P)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K2659</code>
-            <name>GPS Amplifier (MAX2659)</name>
-    </oompDesc>	
+		<code>K2659</code>
+		<name>GPS Amplifier (MAX2659)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K2812</code>
-            <name>Smart Controller (WS2812B)</name>
-    </oompDesc>	
+		<code>K2812</code>
+		<name>Smart Controller (WS2812B)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>KFLA</code>
-            <name>Flashing (50F503)</name>
-    </oompDesc>	
+		<code>KFLA</code>
+		<name>Flashing (50F503)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K2291</code>
-            <name>PIR Motion Sensing (TM2291)</name>
-    </oompDesc>	
+		<code>K2291</code>
+		<name>PIR Motion Sensing (TM2291)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K5883</code>
-            <name>3-Axis Digital Compass (HMC5883L)</name>
-    </oompDesc>	
+		<code>K5883</code>
+		<name>3-Axis Digital Compass (HMC5883L)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K9250</code>
-            <name>9-Axis Inertial Measurement Unit (MPU-9250)</name>
-    </oompDesc>	
+		<code>K9250</code>
+		<name>9-Axis Inertial Measurement Unit (MPU-9250)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K36</code>
-            <name>Temperature (TMP36)</name>
-    </oompDesc>	
+		<code>K36</code>
+		<name>Temperature (TMP36)</name>
+	</oompDesc>
 	<oompDesc>
-            <code>K7660</code>
-            <name>3-Axis Accelerometer (MMA7660FCR1)</name>
-    </oompDesc>	
+		<code>K7660</code>
+		<name>3-Axis Accelerometer (MMA7660FCR1)</name>
+	</oompDesc>
 </xml>

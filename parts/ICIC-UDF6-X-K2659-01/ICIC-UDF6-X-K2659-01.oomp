@@ -1,36 +1,18 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>ICIC-UDF6-X-K2659-01</oompID>
-        <name>SMD (UDFN-6) GPS Amplifier (MAX2659)</name>        
+	<oompPart>
+		<oompID>ICIC-UDF6-X-K2659-01</oompID>
+		<name>SMD (UDFN-6) GPS Amplifier (MAX2659)</name>
 		<hexID>ICSGPS</hexID>
-        <oompSort>ICICUDF6K2659</oompSort>		
-		<oompClass></oompClass>
-		<oompClassCode></oompClassCode>		
-		
-        <oompType>ICIC</oompType>
-        <oompSize>UDF6</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>K2659</oompDesc>
-        <oompIndex>01</oompIndex>        
+		<oompSort>ICICUDF6K2659</oompSort>
+		<oompType>ICIC</oompType>
+		<oompSize>UDF6</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>K2659</oompDesc>
+		<oompIndex>01</oompIndex>
 		<oompVersion>98</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth>1.0 mm</ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>1.5 mm</ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins>6</ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
+		<ooWidth>1.0 mm</ooWidth>
+		<ooLength>1.5 mm</ooLength>
+		<ooNumPins>6</ooNumPins>
 		<sourceList>
 			<manufacturer>
 				<company>Maxim</company>
@@ -38,9 +20,8 @@
 				<name></name>
 				<partID>MAX2659ELT</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 			<bigDistributor>
 				<company>Digikey</company>
 				<companyCode>C-DIGK</companyCode>
@@ -48,14 +29,14 @@
 				<partID>LP29 MAX2659ELT+TTR-ND</partID>
 				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=LP29 MAX2659ELT+TTR-ND]]></link>
 				<note></note>
-			</bigDistributor>								<bigDistributor>
+				</bigDistributor>								<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
 				<name></name>
 				<partID>700-MAX2659ELT+T</partID>
 				<link><![CDATA[http://www.mouser.co.uk/Search/Refine.aspx?Keyword=700-MAX2659ELT+T]]></link>
 				<note></note>
-			</bigDistributor>	
+			</bigDistributor>
 			<bigDistributor>
 				<company>RS Electronics</company>
 				<companyCode>C-RSRS</companyCode>
@@ -63,11 +44,8 @@
 				<partID>732-8982</partID>
 				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=732-8982]]></link>
 				<note></note>
-			</bigDistributor>					
-			
+			</bigDistributor>
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
@@ -78,21 +56,7 @@
 				<oplPackage>UDFN-6(1.5*1.0mm)</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    </oompPart>	
-	<oompBbls></oompBbls>	
-	<oompDiag></oompDiag>	
-	<oompIden></oompIden>	
-	<oompSchem></oompSchem>	
-	<oompSimp></oompSimp>			<ooPackageMarking></ooPackageMarking>
+		</oplList>
 		<ooDesignator>U</ooDesignator>
+	</oompPart>
 </xml>

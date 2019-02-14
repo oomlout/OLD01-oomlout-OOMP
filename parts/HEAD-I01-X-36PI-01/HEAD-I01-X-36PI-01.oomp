@@ -1,144 +1,50 @@
-﻿<xml>    
+﻿<xml>
 	<oompPart>
-        <index>3968</index><!--OOMP Base -->
-        <oompID>HEAD-I01-X-36PI-01</oompID>
-        <name>2.54 mm 36 Pin Header</name>
-        <hexID>H36</hexID>
-        <oompSort>010136</oompSort>
-        <oompType>HEAD</oompType>
-        <oompSize>I01</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>36PI</oompDesc>
-        <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion>10</oompVersion>
-<!--Size -->
-        <ooPitch>2.54 mm</ooPitch>
-        <ooWidth>91.44mm</ooWidth>
-        <ooHeight>11.54 mm</ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth>2.54 mm</ooDepth>
-        <ooWireSize></ooWireSize>
-<!--Manufacturer -->
-        <ooManufacturer></ooManufacturer>
-        <ooManufacturerPartNumber></ooManufacturerPartNumber>
-<!--Description -->
-        <ooMaterial></ooMaterial>
-        <ooNumPins>36</ooNumPins>
+		<index>3968</index>
+		<oompID>HEAD-I01-X-36PI-01</oompID>
+		<name>2.54 mm 36 Pin Header</name>
+		<hexID>H36</hexID>
+		<oompSort>010136</oompSort>
+		<oompType>HEAD</oompType>
+		<oompSize>I01</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>36PI</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>10</oompVersion>
+		<ooPitch>2.54 mm</ooPitch>
+		<ooWidth>91.44mm</ooWidth>
+		<ooHeight>11.54 mm</ooHeight>
+		<ooDepth>2.54 mm</ooDepth>
+		<ooNumPins>36</ooNumPins>
 		<ooFootprint>OOMP-HEAD-I01-X-36PI-01</ooFootprint>
-        
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating>
-<!--Hardware -->
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize>
-<!--Maximums -->
-        <ooMaxCurrent>3 A</ooMaxCurrent>
-        <ooMaxVoltage>1000 V</ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<!--Heat Shrink -->
-        <ooShrinkRatio></ooShrinkRatio>
-<!--LED -->
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY>
-<COM>Common Uses</COM>		
-		<usageList>
-			<useItem>
-				<useID>1</useID>
-				<importance>1</importance>
-				<useTitle></useTitle>
-				<useDescription></useDescription>
-			</useItem>
-		</usageList>
-		<!--Plug -->
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength>
-<!--SEEED OPL (Open Parts Library) -->
-        <ooSEEEDsku></ooSEEEDsku>
-        <ooSEEEDdesc></ooSEEEDdesc>
-<!--Hidden -->
-        <oompVersion></oompVersion>
-        <ooNameLine1of2></ooNameLine1of2>
-        <ooNameLine2of2></ooNameLine2of2>
-        <ooNameLine1of3></ooNameLine1of3>
-        <ooNameLine2of3></ooNameLine2of3>
-        <ooNameLine3of3></ooNameLine3of3>
-        <ooFrontDiagram></ooFrontDiagram>
-        <oompAbout>These 36 pin strips are by far the most common length. They are designed to be snapped to any length (using either pliers or snips) so are the most useful to have in your toolbox.</oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-        <ooSEEED3dModel></ooSEEED3dModel>
-<!-- -->    		<sourceList>
-				
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
-				<note></note>
-			</bigDistributor>					
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
-				<note></note>
-			</bigDistributor>					
-		</sourceList>
-		<oplList>
-			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[ ]]></oplLink>
-			</oplSystem>
-		</oplList>	<oompClass>Through Hole Component</oompClass>
-	<oompClassCode>THTH</oompClassCode>
-	<oompBbls>
+		<ooMaxCurrent>3 A</ooMaxCurrent>
+		<ooMaxVoltage>1000 V</ooMaxVoltage>
+		<oompAbout>These 36 pin strips are by far the most common length. They are designed to be snapped to any length (using either pliers or snips) so are the most useful to have in your toolbox.</oompAbout>
+		<oompClass>Through Hole Component</oompClass>
+		<oompClassCode>THTH</oompClassCode>
+		<oompBbls>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;36</drawItem>
+			<drawItem>template;XXXX-I01-X-XX-01-bbls</drawItem>
+		</oompBbls>
+		<oompDiag>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;36</drawItem>
+			<drawItem>template;HEAD-I01-X-XX-01-diag</drawItem>
+		</oompDiag>
 		<drawItem>variable;clear</drawItem>
 		<drawItem>variable;pins;36</drawItem>
-		<drawItem>template;XXXX-I01-X-XX-01-bbls</drawItem>
-	</oompBbls>
-	<oompDiag>
-		<drawItem>variable;clear</drawItem>
-		<drawItem>variable;pins;36</drawItem>
-		<drawItem>template;HEAD-I01-X-XX-01-diag</drawItem>
-	</oompDiag>
-	<oompIden></oompIden>
-		<drawItem>variable;clear</drawItem>
-		<drawItem>variable;pins;36</drawItem>
-		<drawItem>template;XXXX-I01-X-XX-01-iden</drawItem>		
-	<oompSchem>
-		<drawItem>variable;clear</drawItem>
-		<drawItem>variable;pins;36</drawItem>
-		<drawItem>template;XXXX-XX-X-XX-01-PINS-EVEN-schem</drawItem>	
-	</oompSchem>
-	<oompSimp>
-		<drawItem>variable;clear</drawItem>
-		<drawItem>variable;pins;36</drawItem>
-		<drawItem>template;XXXX-I01-X-XX-01-simp</drawItem>		
-	</oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+		<drawItem>template;XXXX-I01-X-XX-01-iden</drawItem>
+		<oompSchem>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;36</drawItem>
+			<drawItem>template;XXXX-XX-X-XX-01-PINS-EVEN-schem</drawItem>
+		</oompSchem>
+		<oompSimp>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;36</drawItem>
+			<drawItem>template;XXXX-I01-X-XX-01-simp</drawItem>
+		</oompSimp>
 		<ooDesignator>J1</ooDesignator>
-</oompPart>
+	</oompPart>
 </xml>

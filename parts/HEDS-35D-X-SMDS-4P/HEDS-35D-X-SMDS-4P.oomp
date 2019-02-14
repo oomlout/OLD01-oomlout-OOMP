@@ -1,36 +1,15 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>HEDS-35D-X-SMDS-4P</oompID>
-        <name>3.5 mm SMD Headphone Socket (4 Pin)</name>        
+	<oompPart>
+		<oompID>HEDS-35D-X-SMDS-4P</oompID>
+		<name>3.5 mm SMD Headphone Socket (4 Pin)</name>
 		<hexID>HP34X</hexID>
-        <oompSort>HEDS35DSMDS</oompSort>		
-		<oompClass></oompClass>
-		<oompClassCode></oompClassCode>		
-		
-        <oompType>HEDS</oompType>
-        <oompSize>35D</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>SMDS</oompDesc>
-        <oompIndex>4P</oompIndex>        
+		<oompSort>HEDS35DSMDS</oompSort>
+		<oompType>HEDS</oompType>
+		<oompSize>35D</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>SMDS</oompDesc>
+		<oompIndex>4P</oompIndex>
 		<oompVersion>98</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins></ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
 		<sourceList>
 			<manufacturer>
 				<company>GT</company>
@@ -38,14 +17,9 @@
 				<name></name>
 				<partID>QT-CC-20016XX</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
-				
-				
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
@@ -56,21 +30,7 @@
 				<oplPackage>9P-L32mm*W24mm*H2.1mm</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    </oompPart>	
-	<oompBbls></oompBbls>	
-	<oompDiag></oompDiag>	
-	<oompIden></oompIden>	
-	<oompSchem></oompSchem>	
-	<oompSimp></oompSimp>			<ooPackageMarking></ooPackageMarking>
-		<ooDesignator>J</ooDesignator>
+		</oplList>
+		<ooDesignator>J1</ooDesignator>
+	</oompPart>
 </xml>

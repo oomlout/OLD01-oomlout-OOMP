@@ -1,94 +1,24 @@
-﻿<xml>    
+﻿<xml>
 	<oompPart>
-        <index>4199</index><!--OOMP Base -->
-        <oompID>NNUT-M3-X-STAN-01</oompID>
-        <name>M3 Nylon Nut</name>
-        <hexID>NN3</hexID>
-        <oompSort>M3M3</oompSort>
-        <oompType>NNUT</oompType>
-        <oompSize>M3</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>STAN</oompDesc>
-        <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion>31</oompVersion>
-<!--Size -->
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize>
-<!--Manufacturer -->
-        <ooManufacturer></ooManufacturer>
-        <ooManufacturerPartNumber></ooManufacturerPartNumber>
-<!--Description -->
-        <ooMaterial></ooMaterial>
-        <ooNumPins></ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating>
-<!--Hardware -->
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize>
-<!--Maximums -->
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<!--Heat Shrink -->
-        <ooShrinkRatio></ooShrinkRatio>
-<!--LED -->
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY>
-<COM>Common Uses</COM>		
-		<usageList>
-			<useItem>
-				<useID>1</useID>
-				<importance>1</importance>
-				<useTitle></useTitle>
-				<useDescription></useDescription>
-			</useItem>
-		</usageList>
-		<!--Plug -->
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength>
-<!--SEEED OPL (Open Parts Library) -->
-        <ooSEEEDsku></ooSEEEDsku>
-        <ooSEEEDdesc></ooSEEEDdesc>
-<!--Hidden -->
-        <oompVersion></oompVersion>
-        <ooNameLine1of2></ooNameLine1of2>
-        <ooNameLine2of2></ooNameLine2of2>
-        <ooNameLine1of3></ooNameLine1of3>
-        <ooNameLine2of3></ooNameLine2of3>
-        <ooNameLine3of3></ooNameLine3of3>
-        <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-        <ooSEEED3dModel></ooSEEED3dModel>
-	<sourceList>
+		<index>4199</index>
+		<oompID>NNUT-M3-X-STAN-01</oompID>
+		<name>M3 Nylon Nut</name>
+		<hexID>NN3</hexID>
+		<oompSort>M3M3</oompSort>
+		<oompType>NNUT</oompType>
+		<oompSize>M3</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>STAN</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>31</oompVersion>
+		<sourceList>
 			<manufacturer>
 				<company>Keystone</company>
 				<companyCode>C-KEYS</companyCode>
 				<name></name>
 				<partID>4688</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<manufacturer>
 				<company>Duratool</company>
@@ -96,7 +26,7 @@
 				<name></name>
 				<partID>DTRNNE 34814 M3</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<bigDistributor>
 				<company>Digikey</company>
@@ -105,8 +35,7 @@
 				<partID>36-4688-ND</partID>
 				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/keystone-electronics/4688/36-4688-ND/4499297]]></link>
 				<note></note>
-			</bigDistributor>	
-				
+			</bigDistributor>
 			<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
@@ -122,7 +51,7 @@
 				<partID>2472687</partID>
 				<link><![CDATA[http://uk.farnell.com/duratool/dtrnne-34814-m3/hex-nut-m3-nylon-6-6-natural/dp/2472687]]></link>
 				<note></note>
-			</bigDistributor>	
+			</bigDistributor>
 			<bigDistributor>
 				<company>RS Electronics</company>
 				<companyCode>C-RSRS</companyCode>
@@ -130,26 +59,9 @@
 				<partID>525-701</partID>
 				<link><![CDATA[http://uk.rs-online.com/web/p/hex-nuts/0525701/]]></link>
 				<note></note>
-			</bigDistributor>	
-				
+			</bigDistributor>
 		</sourceList>
-		<oplList>
-			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[ ]]></oplLink>
-			</oplSystem>
-		</oplList>		<oompClass>Hardware</oompClass>
+		<oompClass>Hardware</oompClass>
 		<oompClassCode>HARD</oompClassCode>
-	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem></oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
-</oompPart>
+	</oompPart>
 </xml>

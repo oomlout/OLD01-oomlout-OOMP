@@ -1,79 +1,22 @@
 <xml>
-<oompPart>
-        <index>9876</index><com>OOMP Base</com>
-        <oompID>ICIC-DI18-X-K2803-01</oompID>
-        <name>18 Pin DIP ULN2803A Octal Transistor Array</name>
-        <hexID>IC2803</hexID>
-        <oompSort>ULN2803A</oompSort>
-        <oompType>ICIC</oompType>
-        <oompSize>DI18</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>K2803</oompDesc>
-        <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion></oompVersion>
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize><com>Description</com>
-        <ooMaterial></ooMaterial>
-        <ooNumPins>18</ooNumPins>
+	<oompPart>
+		<index>9876</index>
+		<oompID>ICIC-DI18-X-K2803-01</oompID>
+		<name>18 Pin DIP ULN2803A Octal Transistor Array</name>
+		<hexID>IC2803</hexID>
+		<oompSort>ULN2803A</oompSort>
+		<oompType>ICIC</oompType>
+		<oompSize>DI18</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>K2803</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>99</oompVersion>
+		<ooNumPins>18</ooNumPins>
 		<ooFootprint>OOMP-ICIC-DI18-X-XXXX-01</ooFootprint>
-        
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating><com>Hardware</com>
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize><com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance><com>Heat Shrink</com>
-        <ooShrinkRatio></ooShrinkRatio><com>LED</com>
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY><com>Plug</com>
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength><com>Source List</com>		
-		<sourceList>
-				
-				
-		</sourceList>
-		
-<com>OPL</com>		
-		<oplList>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-    
-	<oompClass>Through Hole Component</oompClass>
-	<oompClassCode>THTH</oompClassCode>
-	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem></oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+		<oompClass>Through Hole Component</oompClass>
+		<oompClassCode>THTH</oompClassCode>
 		<ooDesignator>U1</ooDesignator>
-		
-		
-	<ooPin1>IN1</ooPin1>
+		<ooPin1>IN1</ooPin1>
 		<ooPin2>IN2</ooPin2>
 		<ooPin3>IN3</ooPin3>
 		<ooPin4>IN4</ooPin4>
@@ -91,7 +34,5 @@
 		<ooPin16>OUT3</ooPin16>
 		<ooPin17>OUT2</ooPin17>
 		<ooPin18>OUT1</ooPin18>
-			
-		
-</oompPart>
+	</oompPart>
 </xml>

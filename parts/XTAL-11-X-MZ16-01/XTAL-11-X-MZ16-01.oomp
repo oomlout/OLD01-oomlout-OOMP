@@ -1,88 +1,32 @@
-﻿<xml>    
+﻿<xml>
 	<oompPart>
-        <index>4046</index><!--OOMP Base -->
-        <oompID>XTAL-11-X-MZ16-01</oompID>
-        <name>11 mm 16 MHz Crystal</name>
-        <hexID>XT16</hexID>
-        <oompSort>THTH16000000</oompSort>
-        <oompType>XTAL</oompType>
-        <oompSize>11</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>MZ16</oompDesc>
-        <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion>20</oompVersion>
-<!--Size -->
-        <ooPitch>4.88 mm</ooPitch>
-        <ooWidth>4.65 mm</ooWidth>
-        <ooHeight>3.5 mm</ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>11.05 mm</ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize><com>SMD</com>
+		<index>4046</index>
+		<oompID>XTAL-11-X-MZ16-01</oompID>
+		<name>11 mm 16 MHz Crystal</name>
+		<hexID>XT16</hexID>
+		<oompSort>THTH16000000</oompSort>
+		<oompType>XTAL</oompType>
+		<oompSize>11</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>MZ16</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>20</oompVersion>
+		<ooPitch>4.88 mm</ooPitch>
+		<ooWidth>4.65 mm</ooWidth>
+		<ooHeight>3.5 mm</ooHeight>
+		<ooLength>11.05 mm</ooLength>
+		<com>SMD</com>
 		<ooPackageMarking>16.000</ooPackageMarking>
-<!--Description -->
-        <ooMaterial></ooMaterial>
-        <ooNumPins>2</ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating>
-<!--Hardware -->
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize>
-<!--Maximums -->
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<!--Heat Shrink -->
-        <ooShrinkRatio></ooShrinkRatio>
-<!--LED -->
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY>
-<COM>Common Uses</COM>		
-		<usageList>
-			<useItem>
-				<useID>1</useID>
-				<importance>1</importance>
-				<useTitle></useTitle>
-				<useDescription></useDescription>
-			</useItem>
-		</usageList>
-		<!--Plug -->
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength><!--Hidden -->
-        <oompVersion></oompVersion>
-        <ooNameLine1of2></ooNameLine1of2>
-        <ooNameLine2of2></ooNameLine2of2>
-        <ooNameLine1of3></ooNameLine1of3>
-        <ooNameLine2of3></ooNameLine2of3>
-        <ooNameLine3of3></ooNameLine3of3>
-        <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout>A 16MHz Crystal, in a commonly used through hole size.</oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-        <ooSEEED3dModel></ooSEEED3dModel>
-<!-- -->    		<sourceList>
+		<ooNumPins>2</ooNumPins>
+		<oompAbout>A 16MHz Crystal, in a commonly used through hole size.</oompAbout>
+		<sourceList>
 			<manufacturer>
 				<company>Vishay</company>
 				<companyCode>C-VISH</companyCode>
 				<name></name>
 				<partID>XT49S16M</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<manufacturer>
 				<company>Advanced Crystal Technology</company>
@@ -90,7 +34,7 @@
 				<name></name>
 				<partID>16.0MHZ HC49/S 20 50</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<manufacturer>
 				<company>Fox Electronics</company>
@@ -98,41 +42,39 @@
 				<name></name>
 				<partID>FOXSLF/160-20</partID>
 				<link></link>
-				<note></note>			
-			</manufacturer>	
+				<note></note>
+			</manufacturer>
 			<manufacturer>
 				<company>CTS Components</company>
 				<companyCode>C-CTSC</companyCode>
 				<name></name>
 				<partID>FOXSLF/160-20</partID>
 				<link></link>
-				<note></note>			
-			</manufacturer>		
+				<note></note>
+			</manufacturer>
 			<manufacturer>
 				<company>Xinhunjing</company>
 				<companyCode>C-XINH</companyCode>
 				<name></name>
 				<partID>49S/18PF</partID>
 				<link></link>
-				<note></note>			
-			</manufacturer>	
+				<note></note>
+			</manufacturer>
 			<manufacturer>
 				<company>Jing Pengyuan</company>
 				<companyCode>C-PENG</companyCode>
 				<name></name>
 				<partID>HC-49US 16.000MHz</partID>
 				<link></link>
-				<note></note>			
-			</manufacturer>			
-				
-			<bigDistributor>
+				<note></note>
+				</manufacturer><bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
 				<name>VISHAY DALE  XT49S16M  CRYSTAL, 16MHZ, 20PF, THROUGH HOLE</name>
 				<partID>1469640</partID>
 				<link><![CDATA[http://uk.farnell.com/vishay-dale/xt49s16m/crystal-16mhz-20pf-through-hole/dp/1469640?ost=1469640]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>
 			<bigDistributor>
 				<company>Rapid Electronics</company>
 				<companyCode>C-RAPI</companyCode>
@@ -140,7 +82,7 @@
 				<partID>90-1082</partID>
 				<link><![CDATA[http://www.rapidonline.com/Electronic-Components/16-00mhz-Hc49-s-Crystal-20ppm-90-1082]]></link>
 				<note></note>
-			</bigDistributor>	
+			</bigDistributor>
 			<bigDistributor>
 				<company>RS Electronics</company>
 				<companyCode>C-RSRS</companyCode>
@@ -148,7 +90,7 @@
 				<partID>547-6294</partID>
 				<link><![CDATA[http://uk.rs-online.com/web/p/crystal-units/5476294/?searchTerm=5476294&relevancy-data=636F3D3126696E3D4931384E525353746F636B4E756D6265724D504E266C753D656E266D6D3D6D61746368616C6C26706D3D5E5C647B367D247C5E5C647B377D247C5E5C647B31307D2426706F3D313426736E3D592673743D52535F53544F434B5F4E554D4245522677633D4E4F4E45267573743D3534373632393426]]></link>
 				<note></note>
-			</bigDistributor>	
+			</bigDistributor>
 			<bigDistributor>
 				<company>SEEED Studio</company>
 				<companyCode>C-SEEE</companyCode>
@@ -156,7 +98,7 @@
 				<partID>306010014</partID>
 				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=704]]></link>
 				<note></note>
-			</bigDistributor>			
+			</bigDistributor>
 		</sourceList>
 		<oplList>
 			<oplSystem>
@@ -178,7 +120,6 @@
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList>
-	<COM>Common Uses</COM>		
 		<usageList>
 			<useItem>
 				<useID>1</useID>
@@ -187,16 +128,10 @@
 				<useDescription>Used to provide a clock source to a microcontroller. Commonly used with Atmel 8bit microcontrollers operating at 5v.</useDescription>
 			</useItem>
 		</usageList>
-	<oompClass>Through Hole Component</oompClass>
-	<oompClassCode>THTH</oompClassCode>
-	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem>
-		<drawItem>template;XTAL-XXXX-X-XXXX-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
-		<ooDesignator>X1</ooDesignator>
-</oompPart>
+		<oompClass>Through Hole Component</oompClass>
+		<oompClassCode>THTH</oompClassCode>
+<oompSchem>
+			<drawItem>template;XTAL-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem><ooDesignator>X1</ooDesignator>
+	</oompPart>
 </xml>

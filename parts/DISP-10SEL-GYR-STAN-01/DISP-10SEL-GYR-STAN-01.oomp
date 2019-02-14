@@ -1,36 +1,18 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>DISP-10SEL-GYR-STAN-01</oompID>
-        <name>10 Segment LED Bargraph Green, Yellow, Red Display</name>        
+	<oompPart>
+		<oompID>DISP-10SEL-GYR-STAN-01</oompID>
+		<name>10 Segment LED Bargraph Green, Yellow, Red Display</name>
 		<hexID>DS10M</hexID>
-        <oompSort>DISP10SELSTAN</oompSort>		
-		<oompClass></oompClass>
-		<oompClassCode></oompClassCode>		
-		
-        <oompType>DISP</oompType>
-        <oompSize>10SEL</oompSize>
-        <oompColor>GYR</oompColor>
-        <oompDesc>STAN</oompDesc>
-        <oompIndex>01</oompIndex>        
+		<oompSort>DISP10SELSTAN</oompSort>
+		<oompType>DISP</oompType>
+		<oompSize>10SEL</oompSize>
+		<oompColor>GYR</oompColor>
+		<oompDesc>STAN</oompDesc>
+		<oompIndex>01</oompIndex>
 		<oompVersion>98</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth>10.10 mm</ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>25.4 mm</ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins>20</ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
+		<ooWidth>10.10 mm</ooWidth>
+		<ooLength>25.4 mm</ooLength>
+		<ooNumPins>20</ooNumPins>
 		<sourceList>
 			<manufacturer>
 				<company>SP400561N</company>
@@ -38,13 +20,9 @@
 				<name></name>
 				<partID>SP400561N</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
-				
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
@@ -55,21 +33,7 @@
 				<oplPackage>33.02*15.24mm</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    </oompPart>	
-	<oompBbls></oompBbls>	
-	<oompDiag></oompDiag>	
-	<oompIden></oompIden>	
-	<oompSchem></oompSchem>	
-	<oompSimp></oompSimp>			<ooPackageMarking></ooPackageMarking>
-		<ooDesignator>D</ooDesignator>
+		</oplList>
+		<ooDesignator>D1</ooDesignator>
+	</oompPart>
 </xml>

@@ -1,104 +1,30 @@
-﻿<xml>    
+﻿<xml>
 	<oompPart>
-        <index>4289</index><!--OOMP Base -->
-        <oompID>HEDS-35D-X-SMDS-01</oompID>
-        <name>3.5 mm SMD Headphone Socket</name>
-        <hexID>10C1</hexID>
-        <oompSort></oompSort>
-        <oompType>HEDS</oompType>
-        <oompSize>35D</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>SMDS</oompDesc>
-        <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion>99</oompVersion>
-<!--Size -->
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize>
-<!--Manufacturer -->
-        <ooManufacturer>C-SUNT</ooManufacturer>
-        <ooManufacturerPartNumber>ST-PJ-312</ooManufacturerPartNumber>
-<!--Description -->
-        <ooMaterial></ooMaterial>
-        <ooNumPins></ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating>
-<!--Hardware -->
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize>
-<!--Maximums -->
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<!--Heat Shrink -->
-        <ooShrinkRatio></ooShrinkRatio>
-<!--LED -->
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY>
-<COM>Common Uses</COM>		
-		<usageList>
-			<useItem>
-				<useID>1</useID>
-				<importance>1</importance>
-				<useTitle></useTitle>
-				<useDescription></useDescription>
-			</useItem>
-		</usageList>
-		<!--Plug -->
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength>
-<!--SEEED OPL (Open Parts Library) -->
-        <ooSEEEDsku>3440030P1</ooSEEEDsku>
-        <ooSEEEDdesc>AUDIO-Connector</ooSEEEDdesc>
-<!--Hidden -->
-        <oompVersion></oompVersion>
-        <ooNameLine1of2></ooNameLine1of2>
-        <ooNameLine2of2></ooNameLine2of2>
-        <ooNameLine1of3></ooNameLine1of3>
-        <ooNameLine2of3></ooNameLine2of3>
-        <ooNameLine3of3></ooNameLine3of3>
-        <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-        <ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:6P-SMD-3.5.zip</ooSEEED3dModel>
-<!-- -->    		<sourceList>
+		<index>4289</index>
+		<oompID>HEDS-35D-X-SMDS-01</oompID>
+		<name>3.5 mm SMD Headphone Socket</name>
+		<hexID>10C1</hexID>
+		<oompSort></oompSort>
+		<oompType>HEDS</oompType>
+		<oompSize>35D</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>SMDS</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>99</oompVersion>
+		<ooManufacturer>C-SUNT</ooManufacturer>
+		<ooManufacturerPartNumber>ST-PJ-312</ooManufacturerPartNumber>
+		<ooSEEEDsku>3440030P1</ooSEEEDsku>
+		<ooSEEEDdesc>AUDIO-Connector</ooSEEEDdesc>
+		<ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:6P-SMD-3.5.zip</ooSEEED3dModel>
+		<sourceList>
 			<manufacturer>
 				<company>Suntech</company>
 				<companyCode>C-SUNT</companyCode>
 				<name></name>
 				<partID>ST-PJ-312</partID>
 				<link></link>
-				<note></note>			
-			</manufacturer>
-				
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
 				<note></note>
-			</bigDistributor>					
+			</manufacturer>
 		</sourceList>
 		<oplList>
 			<oplSystem>
@@ -111,12 +37,6 @@
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList>
-	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem></oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>J1</ooDesignator>
-</oompPart>
+	</oompPart>
 </xml>

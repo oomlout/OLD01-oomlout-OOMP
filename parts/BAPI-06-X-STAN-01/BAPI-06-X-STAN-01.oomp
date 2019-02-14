@@ -1,46 +1,23 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>BAPI-06-X-STAN-01</oompID>
-        <name>6 mm Badge Pin</name>        
+	<oompPart><oompID>BAPI-06-X-STAN-01</oompID>
+		<name>6 mm Badge Pin</name>
 		<hexID>BAPI</hexID>
-        <oompSort>BAPI06THTH</oompSort>		
-		<oompClass></oompClass>
-		<oompClassCode></oompClassCode>		
-		
-        <oompType>BAPI</oompType>
-        <oompSize>06</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>STAN</oompDesc>
-        <oompIndex>01</oompIndex>        
+		<oompSort>BAPI06THTH</oompSort>
+		<oompType>BAPI</oompType>
+		<oompSize>06</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>STAN</oompDesc>
+		<oompIndex>01</oompIndex>
 		<oompVersion>98</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins></ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
-		<sourceList>
+<sourceList>
 			<manufacturer>
 				<company>JJWJ</company>
 				<companyCode>C-JJWJ</companyCode>
 				<name></name>
 				<partID>0</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 			<bigDistributor>
 				<company>SEEED Studio</company>
 				<companyCode>C-SEEE</companyCode>
@@ -48,10 +25,8 @@
 				<partID>323050000</partID>
 				<link><![CDATA[https://www.seeedstudio.com/opl.html]]></link>
 				<note></note>
-			</bigDistributor>									
+			</bigDistributor>
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
@@ -62,22 +37,6 @@
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=468]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem></oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
-</oompPart>	
-	
+		</oplList>
+	</oompPart>
 </xml>

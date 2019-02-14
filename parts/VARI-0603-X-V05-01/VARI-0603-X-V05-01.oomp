@@ -1,46 +1,19 @@
 <xml>
-<oompPart>
-        <index>9876</index><com>OOMP Base</com>
-        <oompID>VARI-0603-X-V05-01</oompID>
-        <name>SMD (0603) 5v Varistor</name>
-        <hexID>V6305</hexID>
-        <oompSort>060305.0</oompSort>
-        <oompType>VARI</oompType>
-        <oompSize>0603</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>V05</oompDesc>
-        <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion></oompVersion>		<oompSkip>true</oompSkip><com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth>1.6 mm</ooWidth>
-        <ooHeight>0.45 mm</ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>0.8 mm</ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize><com>Description</com>
-        <ooMaterial></ooMaterial>
-        <ooNumPins>2</ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating><com>Hardware</com>
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize><com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance><com>Heat Shrink</com>
-        <ooShrinkRatio></ooShrinkRatio><com>LED</com>
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY><com>Plug</com>
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength><com>Source List</com>		
+	<oompPart>
+		<index>9876</index>
+		<oompID>VARI-0603-X-V05-01</oompID>
+		<name>SMD (0603) 5v Varistor</name>
+		<hexID>V6305</hexID>
+		<oompSort>060305.0</oompSort>
+		<oompType>VARI</oompType>
+		<oompSize>0603</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>V05</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>99</oompVersion>		<oompSkip>true</oompSkip><ooWidth>1.6 mm</ooWidth>
+		<ooHeight>0.45 mm</ooHeight>
+		<ooLength>0.8 mm</ooLength>
+		<ooNumPins>2</ooNumPins>
 		<sourceList>
 			<manufacturer>
 				<company>Bourns</company>
@@ -48,10 +21,8 @@
 				<name></name>
 				<partID>CG0603MLC-05E</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
-		
 			<bigDistributor>
 				<company>DigiKey</company>
 				<companyCode>C-DIGK</companyCode>
@@ -59,14 +30,14 @@
 				<partID>CG0603MLC-05ECT-ND</partID>
 				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/CG0603MLC-05E/CG0603MLC-05ECT-ND/3438061]]></link>
 				<note></note>
-			</bigDistributor>			<bigDistributor>
+				</bigDistributor>			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
 				<name>BOURNS  CG0603MLC-05E  VARISTOR,SUPP,ESD PROTECT,20V,0603</name>
 				<partID>1838966</partID>
 				<link><![CDATA[http://uk.farnell.com/bourns/cg0603mlc-05e/varistor-supp-esd-protect-20v/dp/1838966]]></link>
 				<note></note>
-			</bigDistributor>			
+			</bigDistributor>
 			<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
@@ -83,11 +54,8 @@
 				<link><![CDATA[]]></link>
 				<note></note>
 			</bigDistributor>
-						
 		</sourceList>
-		
-<com>OPL</com>		
-		<oplList>			
+		<oplList>
 			<oplSystem>
 				<oplScheme>Circuithub.com</oplScheme>
 				<oplCode>C-CIRC</oplCode>
@@ -106,34 +74,23 @@
 				<oplPackage>0603</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-    
-	<oompClass>Surface Mount</oompClass>
-	<oompClassCode>SMDS</oompClassCode>
-	<oompBbls>
-		<drawItem>template;XXXX-0603-X-XXXX-XX-bbls</drawItem>
-</oompBbls>
-	<oompDiag>
-				<drawItem>template;XXXX-0603-X-XXXX-XX-diag</drawItem>
-</oompDiag>
-	<oompIden>
-				<drawItem>template;XXXX-0603-X-XXXX-XX-iden</drawItem>
-</oompIden>
-	<oompSchem>
-		<drawItem>template;VARI-XXXX-X-XXXX-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp>
-		<drawItem>template;XXXX-0603-X-XXXX-XX-simp</drawItem>
-</oompSimp>
-		<ooPackageMarking></ooPackageMarking>
-</oompPart>
+		</oplList>
+		<oompClass>Surface Mount</oompClass>
+		<oompClassCode>SMDS</oompClassCode>
+		<oompBbls>
+			<drawItem>template;XXXX-0603-X-XXXX-XX-bbls</drawItem>
+		</oompBbls>
+		<oompDiag>
+			<drawItem>template;XXXX-0603-X-XXXX-XX-diag</drawItem>
+		</oompDiag>
+		<oompIden>
+			<drawItem>template;XXXX-0603-X-XXXX-XX-iden</drawItem>
+		</oompIden>
+		<oompSchem>
+			<drawItem>template;VARI-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
+		<oompSimp>
+			<drawItem>template;XXXX-0603-X-XXXX-XX-simp</drawItem>
+		</oompSimp>
+	</oompPart>
 </xml>

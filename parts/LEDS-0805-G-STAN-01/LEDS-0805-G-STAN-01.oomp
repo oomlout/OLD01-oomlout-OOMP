@@ -1,46 +1,25 @@
 <xml>
-<oompPart>
-        <index>9876</index><com>OOMP Base</com>
-        <oompID>LEDS-0805-G-STAN-01</oompID>
-        <name>SMD (0805) Green LED</name>
-        <hexID>L85G</hexID>
-        <oompSort>0805G</oompSort>
-        <oompType>LEDS</oompType>
-        <oompSize>0805</oompSize>
-        <oompColor>G</oompColor>
-        <oompDesc>STAN</oompDesc>
-        <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion>99</oompVersion>		<oompSkip>true</oompSkip><com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth>2 mm</ooWidth>
-        <ooHeight>0.8 mm</ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>1.25 mm</ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize><com>Description</com>
-        <ooMaterial></ooMaterial>
-        <ooNumPins>2</ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating><com>Hardware</com>
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize><com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance><com>Heat Shrink</com>
-        <ooShrinkRatio></ooShrinkRatio><com>LED</com>
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage>2.4 v</ooForwardVoltage>
-        <ooForwardCurrent>25 mA</ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY><com>Plug</com>
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength><com>Source List</com>		
+	<oompPart>
+		<index>9876</index>
+		<oompID>LEDS-0805-G-STAN-01</oompID>
+		<name>SMD (0805) Green LED</name>
+		<hexID>L85G</hexID>
+		<oompSort>0805G</oompSort>
+		<oompType>LEDS</oompType>
+		<oompSize>0805</oompSize>
+		<oompColor>G</oompColor>
+		<oompDesc>STAN</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>99</oompVersion>		<oompSkip>true</oompSkip><ooWidth>2 mm</ooWidth>
+		<ooHeight>0.8 mm</ooHeight>
+		<ooLength>1.25 mm</ooLength>
+		<ooNumPins>2</ooNumPins>
+		<ooLensColor></ooLensColor>
+		<ooForwardVoltage>2.4 v</ooForwardVoltage>
+		<ooForwardCurrent>25 mA</ooForwardCurrent>
+		<ooIntensity></ooIntensity>
+		<ooPowerAngle></ooPowerAngle>
+		<ooWavelength></ooWavelength>
 		<sourceList>
 			<manufacturer>
 				<company>Everlight</company>
@@ -48,24 +27,23 @@
 				<name></name>
 				<partID>17-215SYGC/S530-E2/TR8</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 			<manufacturer>
 				<company>Avago</company>
 				<companyCode>C-AVAG</companyCode>
 				<name></name>
 				<partID>HSMG-C170</partID>
 				<link></link>
-				<note></note>			
-			</manufacturer>	
+				<note></note>
+			</manufacturer>
 			<manufacturer>
 				<company>Kingbright</company>
 				<companyCode>C-KING</companyCode>
 				<name></name>
 				<partID>KP-2012SGT</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<manufacturer>
 				<company>TruOpto</company>
@@ -73,9 +51,8 @@
 				<name></name>
 				<partID>KP-2012SGT</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 			<bigDistributor>
 				<company>DigiKey</company>
 				<companyCode>C-DIGK</companyCode>
@@ -83,14 +60,14 @@
 				<partID>516-1434-1-ND</partID>
 				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/HSMG-C170/516-1434-1-ND/637758]]></link>
 				<note></note>
-			</bigDistributor>			<bigDistributor>
+				</bigDistributor>			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
 				<name>AVAGO TECHNOLOGIES  HSMG-C170  LED, GREEN, 1.25MM X 1.4MM, 15MCD, 527NM</name>
 				<partID>5790852</partID>
 				<link><![CDATA[http://uk.farnell.com/avago-technologies/hsmg-c170/led-green-1-25mm-x-1-4mm-15mcd/dp/5790852]]></link>
 				<note></note>
-			</bigDistributor>			
+			</bigDistributor>
 			<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
@@ -116,9 +93,6 @@
 				<note></note>
 			</bigDistributor>
 		</sourceList>
-		
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>Circuithub.com</oplScheme>
@@ -128,8 +102,7 @@
 				<oplFootprint>0805</oplFootprint>
 				<oplPackage>0805</oplPackage>
 				<oplLink><![CDATA[https://circuithub.com/parts/AVAGO/HSMG-C170]]></oplLink>
-			</oplSystem>	
-			
+			</oplSystem>
 			<oplSystem>
 				<oplScheme>Seeed Studio OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
@@ -139,35 +112,24 @@
 				<oplPackage>0805</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-    
-	<oompClass>Surface Mount</oompClass>
-	<oompClassCode>SMDS</oompClassCode>
-	<oompBbls>
-		<drawItem>template;XXXX-0805-X-XXXX-XX-bbls</drawItem>
-</oompBbls>
-	<oompDiag>
-				<drawItem>template;XXXX-0805-X-XXXX-XX-diag</drawItem>
-</oompDiag>
-	<oompIden>
-				<drawItem>template;XXXX-0805-X-XXXX-XX-iden</drawItem>
-</oompIden>
-	<oompSchem>
-		<drawItem>template;LEDS-XXXX-X-XXXX-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp>
-		<drawItem>template;XXXX-0805-X-XXXX-XX-simp</drawItem>
-</oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+		</oplList>
+		<oompClass>Surface Mount</oompClass>
+		<oompClassCode>SMDS</oompClassCode>
+		<oompBbls>
+			<drawItem>template;XXXX-0805-X-XXXX-XX-bbls</drawItem>
+		</oompBbls>
+		<oompDiag>
+			<drawItem>template;XXXX-0805-X-XXXX-XX-diag</drawItem>
+		</oompDiag>
+		<oompIden>
+			<drawItem>template;XXXX-0805-X-XXXX-XX-iden</drawItem>
+		</oompIden>
+		<oompSchem>
+			<drawItem>template;LEDS-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
+		<oompSimp>
+			<drawItem>template;XXXX-0805-X-XXXX-XX-simp</drawItem>
+		</oompSimp>
 		<ooDesignator>D1</ooDesignator>
-</oompPart>
+	</oompPart>
 </xml>

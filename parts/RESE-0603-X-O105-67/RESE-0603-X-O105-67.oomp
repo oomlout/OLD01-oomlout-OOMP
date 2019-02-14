@@ -1,49 +1,21 @@
 <xml>
-<oompPart>
-        <index>9876</index><com>OOMP Base</com>
-        <oompID>RESE-0603-X-O105-67</oompID>
-        <name>SMD (0603) 1M Ohm Resistor 1%</name>
-        <hexID>R6105A</hexID>
-        <oompSort>06031000000</oompSort>
-        <oompType>RESE</oompType>
-        <oompSize>0603</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>O105</oompDesc>
-        <oompIndex>67</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion></oompVersion>		<oompSkip>true</oompSkip><com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth>1.6 mm</ooWidth>
-        <ooHeight>0.45 mm</ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>0.8 mm</ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize>
-<com>SMD</com>
+	<oompPart>
+		<index>9876</index>
+		<oompID>RESE-0603-X-O105-67</oompID>
+		<name>SMD (0603) 1M Ohm Resistor 1%</name>
+		<hexID>R6105A</hexID>
+		<oompSort>06031000000</oompSort>
+		<oompType>RESE</oompType>
+		<oompSize>0603</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>O105</oompDesc>
+		<oompIndex>67</oompIndex>
+		<oompVersion>99</oompVersion>		<oompSkip>true</oompSkip><ooWidth>1.6 mm</ooWidth>
+		<ooHeight>0.45 mm</ooHeight>
+		<ooLength>0.8 mm</ooLength>
+		<com>SMD</com>
 		<ooPackageMarking>105</ooPackageMarking>>
-<com>Description</com>
-        <ooMaterial></ooMaterial>
-        <ooNumPins>2</ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating><com>Hardware</com>
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize><com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance><com>Heat Shrink</com>
-        <ooShrinkRatio></ooShrinkRatio><com>LED</com>
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY><com>Plug</com>
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength><com>Source List</com>		
+		<ooNumPins>2</ooNumPins>
 		<sourceList>
 			<manufacturer>
 				<company>Yageo</company>
@@ -51,7 +23,7 @@
 				<name></name>
 				<partID>RC0603FR-071ML</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<manufacturer>
 				<company>Panasonic</company>
@@ -59,39 +31,38 @@
 				<name></name>
 				<partID>ERJ-3EKF1004V</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 			<manufacturer>
 				<company>Vishay Dale</company>
 				<companyCode>C-VISH</companyCode>
 				<name></name>
 				<partID>CRCW06031M00FKEA</partID>
 				<link></link>
-				<note></note>			
-			</manufacturer>	
+				<note></note>
+			</manufacturer>
 			<manufacturer>
 				<company>TruOhm</company>
 				<companyCode>C-TRUH</companyCode>
 				<name></name>
 				<partID>RC03F 1M</partID>
 				<link></link>
-				<note></note>			
-			</manufacturer>			<bigDistributor>
+				<note></note>
+				</manufacturer>			<bigDistributor>
 				<company>DigiKey</company>
 				<companyCode>C-DIGK</companyCode>
 				<name>RES SMD 1M OHM 1% 1/10W 0603</name>
 				<partID>311-1.00MHRCT-ND</partID>
 				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/RC0603FR-071ML/311-1.00MHRCT-ND/729791]]></link>
 				<note></note>
-			</bigDistributor>			<bigDistributor>
+				</bigDistributor>			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
 				<name>YAGEO (PHYCOMP)  RC0603FR-071ML  RESISTOR, THICK FILM, 1M, 0.1W, 1%</name>
 				<partID>9238840</partID>
 				<link><![CDATA[http://uk.farnell.com/yageo-phycomp/rc0603fr-071ml/resistor-thick-film-1m-0-1w-1/dp/9238840]]></link>
 				<note></note>
-			</bigDistributor>			
+			</bigDistributor>
 			<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
@@ -115,11 +86,8 @@
 				<partID>504-8956</partID>
 				<link><![CDATA[http://uk.rs-online.com/web/p/surface-mount-fixed-resistors/5048956/?searchTerm=C0603FR-071ML&relevancy-data=636F3D3226696E3D4931384E4B6E6F776E41734D504E266C753D656E266D6D3D6D61746368616C6C7061727469616C26706D3D5E5B5C707B4C7D5C707B4E647D2D2C2F255C2E5D2B2426706F3D313326736E3D592673743D4D414E5F504152545F4E554D4245522677633D424F5448267573743D433036303346522D3037314D4C26]]></link>
 				<note></note>
-			</bigDistributor>			
-				
+			</bigDistributor>
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>Circuithub.com</oplScheme>
@@ -129,7 +97,7 @@
 				<oplFootprint>0603</oplFootprint>
 				<oplPackage>0603</oplPackage>
 				<oplLink><![CDATA[https://circuithub.com/parts/YAGEO2/RC0603FR-071ML]]></oplLink>
-			</oplSystem>			
+			</oplSystem>
 			<oplSystem>
 				<oplScheme>Octopart CPL</oplScheme>
 				<oplCode>C-OCTO</oplCode>
@@ -138,8 +106,7 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://octopart.com/common-parts-library#Resistors]]></oplLink>
-			</oplSystem>	
-			
+			</oplSystem>
 			<oplSystem>
 				<oplScheme>Seeed Studio OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
@@ -149,35 +116,24 @@
 				<oplPackage>0603</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-    
-	<oompClass>Surface Mount</oompClass>
-	<oompClassCode>SMDS</oompClassCode>
-	<oompBbls>
-		<drawItem>template;XXXX-0603-X-XXXX-XX-bbls</drawItem>
-</oompBbls>
-	<oompDiag>
-				<drawItem>template;XXXX-0603-X-XXXX-XX-diag</drawItem>
-</oompDiag>
-	<oompIden>
-				<drawItem>template;XXXX-0603-X-XXXX-XX-iden</drawItem>
-</oompIden>
-	<oompSchem>
-		<drawItem>template;RESE-XXXX-X-XXXX-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp>
-		<drawItem>template;XXXX-0603-X-XXXX-XX-simp</drawItem>
-</oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+		</oplList>
+		<oompClass>Surface Mount</oompClass>
+		<oompClassCode>SMDS</oompClassCode>
+		<oompBbls>
+			<drawItem>template;XXXX-0603-X-XXXX-XX-bbls</drawItem>
+		</oompBbls>
+		<oompDiag>
+			<drawItem>template;XXXX-0603-X-XXXX-XX-diag</drawItem>
+		</oompDiag>
+		<oompIden>
+			<drawItem>template;XXXX-0603-X-XXXX-XX-iden</drawItem>
+		</oompIden>
+		<oompSchem>
+			<drawItem>template;RESE-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
+		<oompSimp>
+			<drawItem>template;XXXX-0603-X-XXXX-XX-simp</drawItem>
+		</oompSimp>
 		<ooDesignator>R1</ooDesignator>
-</oompPart>
+	</oompPart>
 </xml>

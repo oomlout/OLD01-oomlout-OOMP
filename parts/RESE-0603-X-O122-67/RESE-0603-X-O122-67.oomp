@@ -1,36 +1,17 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>RESE-0603-X-O122-67</oompID>
-        <name>SMD (0603) 1.2k Ohm Resistor 1%</name>        
+	<oompPart>
+		<oompID>RESE-0603-X-O122-67</oompID>
+		<name>SMD (0603) 1.2k Ohm Resistor 1%</name>
 		<hexID>R6122A</hexID>
-        <oompSort></oompSort>		
+		<oompSort></oompSort>
 		<oompClass>Surface Mount</oompClass>
-		<oompClassCode>SMDS</oompClassCode>		
-		
-        <oompType>RESE</oompType>
-        <oompSize>0603</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>O122</oompDesc>
-        <oompIndex>67</oompIndex>        
+		<oompClassCode>SMDS</oompClassCode>
+		<oompType>RESE</oompType>
+		<oompSize>0603</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>O122</oompDesc>
+		<oompIndex>67</oompIndex>
 		<oompVersion>40</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins></ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
 		<sourceList>
 			<manufacturer>
 				<company>Yageo</company>
@@ -38,12 +19,9 @@
 				<name></name>
 				<partID>RC0603FR-071K2L</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>Seeed OPL</oplScheme>
@@ -54,33 +32,22 @@
 				<oplPackage>0603</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    	<oompBbls>
-		<drawItem>template;XXXX-0603-X-XXXX-XX-bbls</drawItem>
-</oompBbls>
-	<oompDiag>
-				<drawItem>template;XXXX-0603-X-XXXX-XX-diag</drawItem>
-</oompDiag>
-	<oompIden>
-				<drawItem>template;XXXX-0603-X-XXXX-XX-iden</drawItem>
-</oompIden>
-	<oompSchem>
-		<drawItem>template;RESE-XXXX-X-XXXX-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp>
-		<drawItem>template;XXXX-0603-X-XXXX-XX-simp</drawItem>
-</oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+		</oplList>
+		<oompBbls>
+			<drawItem>template;XXXX-0603-X-XXXX-XX-bbls</drawItem>
+		</oompBbls>
+		<oompDiag>
+			<drawItem>template;XXXX-0603-X-XXXX-XX-diag</drawItem>
+		</oompDiag>
+		<oompIden>
+			<drawItem>template;XXXX-0603-X-XXXX-XX-iden</drawItem>
+		</oompIden>
+		<oompSchem>
+			<drawItem>template;RESE-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
+		<oompSimp>
+			<drawItem>template;XXXX-0603-X-XXXX-XX-simp</drawItem>
+		</oompSimp>
 		<ooDesignator>R1</ooDesignator>
-</oompPart>	
-	
+	</oompPart>
 </xml>

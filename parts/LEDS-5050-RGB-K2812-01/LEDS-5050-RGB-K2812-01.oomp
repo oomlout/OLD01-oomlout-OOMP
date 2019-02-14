@@ -1,36 +1,18 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>LEDS-5050-RGB-K2812-01</oompID>
-        <name>SMD (5050) Smart Controller (WS2812B) RGB LED</name>        
+	<oompPart>
+		<oompID>LEDS-5050-RGB-K2812-01</oompID>
+		<name>SMD (5050) Smart Controller (WS2812B) RGB LED</name>
 		<hexID>L502</hexID>
-        <oompSort>LEDS5050K2812</oompSort>		
-		<oompClass></oompClass>
-		<oompClassCode></oompClassCode>		
-		
-        <oompType>LEDS</oompType>
-        <oompSize>5050</oompSize>
-        <oompColor>RGB</oompColor>
-        <oompDesc>K2812</oompDesc>
-        <oompIndex>01</oompIndex>        
+		<oompSort>LEDS5050K2812</oompSort>
+		<oompType>LEDS</oompType>
+		<oompSize>5050</oompSize>
+		<oompColor>RGB</oompColor>
+		<oompDesc>K2812</oompDesc>
+		<oompIndex>01</oompIndex>
 		<oompVersion>98</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth>5</ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>5</ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins>4</ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
+		<ooWidth>5</ooWidth>
+		<ooLength>5</ooLength>
+		<ooNumPins>4</ooNumPins>
 		<sourceList>
 			<manufacturer>
 				<company> worldsemi </company>
@@ -38,9 +20,8 @@
 				<name></name>
 				<partID> WS2812B </partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 			<bigDistributor>
 				<company>Digikey</company>
 				<companyCode>C-DIGK</companyCode>
@@ -48,11 +29,8 @@
 				<partID>1528-1104-ND</partID>
 				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=421]]></link>
 				<note></note>
-			</bigDistributor>					
-				
+			</bigDistributor>
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
@@ -81,21 +59,7 @@
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://octopart.com/common-parts-library]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    </oompPart>	
-	<oompBbls></oompBbls>	
-	<oompDiag></oompDiag>	
-	<oompIden></oompIden>	
-	<oompSchem></oompSchem>	
-	<oompSimp></oompSimp>			<ooPackageMarking></ooPackageMarking>
-		<ooDesignator>D</ooDesignator>
+		</oplList>
+		<ooDesignator>D1</ooDesignator>
+	</oompPart>
 </xml>

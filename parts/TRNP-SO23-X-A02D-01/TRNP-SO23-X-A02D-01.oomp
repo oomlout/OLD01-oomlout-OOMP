@@ -1,36 +1,16 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>TRNP-SO23-X-A02D-01</oompID>
-        <name>SMD (SOT-23) 200 mA PNP Transistor</name>        
+	<oompPart>
+		<oompID>TRNP-SO23-X-A02D-01</oompID>
+		<name>SMD (SOT-23) 200 mA PNP Transistor</name>
 		<hexID>TPS22D</hexID>
-        <oompSort>TRNPSO23A02D</oompSort>		
-		<oompClass></oompClass>
-		<oompClassCode></oompClassCode>		
-		
-        <oompType>TRNP</oompType>
-        <oompSize>SO23</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>A02D</oompDesc>
-        <oompIndex>01</oompIndex>        
+		<oompSort>TRNPSO23A02D</oompSort>
+		<oompType>TRNP</oompType>
+		<oompSize>SO23</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>A02D</oompDesc>
+		<oompIndex>01</oompIndex>
 		<oompVersion>98</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins>3</ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
+		<ooNumPins>3</ooNumPins>
 		<sourceList>
 			<manufacturer>
 				<company>ON</company>
@@ -38,9 +18,8 @@
 				<name></name>
 				<partID>MMBT3906LT3G</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 			<bigDistributor>
 				<company>Digikey</company>
 				<companyCode>C-DIGK</companyCode>
@@ -48,14 +27,14 @@
 				<partID>MMBT3906LT3GOSCT-ND</partID>
 				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=MMBT3906LT3GOSCT-ND]]></link>
 				<note></note>
-			</bigDistributor>								<bigDistributor>
+				</bigDistributor>								<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
 				<name></name>
 				<partID>863-MMBT3906LT3G</partID>
 				<link><![CDATA[http://www.mouser.co.uk/Search/Refine.aspx?Keyword=863-MMBT3906LT3G]]></link>
 				<note></note>
-			</bigDistributor>	
+			</bigDistributor>
 			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
@@ -63,7 +42,7 @@
 				<partID>2372923</partID>
 				<link><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=2372923]]></link>
 				<note></note>
-			</bigDistributor>	
+			</bigDistributor>
 			<bigDistributor>
 				<company>RS Electronics</company>
 				<companyCode>C-RSRS</companyCode>
@@ -71,11 +50,8 @@
 				<partID>793-0765</partID>
 				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=793-0765]]></link>
 				<note></note>
-			</bigDistributor>	
-				
+			</bigDistributor>
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
@@ -86,38 +62,23 @@
 				<oplPackage>SOT-23</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    
-
-	
-	<ooPin1>B</ooPin1>
+		</oplList>
+		<ooPin1>B</ooPin1>
 		<ooPin2>E</ooPin2>
 		<ooPin3>C</ooPin3>
-		
-			<oompBbls>
-				<drawItem>template;XXXX-SO23-X-XXXX-01-bbls</drawItem>		
-	</oompBbls>	
-	<oompDiag>
-				<drawItem>template;XXXX-SO23-X-XXXX-01-diag</drawItem>	
-	</oompDiag>	
-	<oompIden>
-				<drawItem>template;XXXX-SO23-X-XXXX-01-iden</drawItem>	
-	</oompIden>	
-	<oompSchem></oompSchem>	
-	<oompSimp>
-				<drawItem>template;XXXX-SO23-X-XXXX-01-simp</drawItem>	
-	</oompSimp>	
-
+		<oompBbls>
+			<drawItem>template;XXXX-SO23-X-XXXX-01-bbls</drawItem>
+		</oompBbls>
+		<oompDiag>
+			<drawItem>template;XXXX-SO23-X-XXXX-01-diag</drawItem>
+		</oompDiag>
+		<oompIden>
+			<drawItem>template;XXXX-SO23-X-XXXX-01-iden</drawItem>
+		</oompIden>
+		<oompSimp>
+			<drawItem>template;XXXX-SO23-X-XXXX-01-simp</drawItem>
+		</oompSimp>
 		<ooPackageMarking>2AM</ooPackageMarking>
 		<ooDesignator>U1</ooDesignator>
-</oompPart>	
-		</xml>
+	</oompPart>
+</xml>

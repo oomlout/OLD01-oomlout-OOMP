@@ -1,36 +1,18 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>LEDS-0805-L-STAN-01</oompID>
-        <name>SMD (0805) Blue LED</name>        
+	<oompPart>
+		<oompID>LEDS-0805-L-STAN-01</oompID>
+		<name>SMD (0805) Blue LED</name>
 		<hexID>L85L</hexID>
-        <oompSort>LEDS0805STAN</oompSort>		
-		<oompClass></oompClass>
-		<oompClassCode></oompClassCode>		
-		
-        <oompType>LEDS</oompType>
-        <oompSize>0805</oompSize>
-        <oompColor>L</oompColor>
-        <oompDesc>STAN</oompDesc>
-        <oompIndex>01</oompIndex>        
+		<oompSort>LEDS0805STAN</oompSort>
+		<oompType>LEDS</oompType>
+		<oompSize>0805</oompSize>
+		<oompColor>L</oompColor>
+		<oompDesc>STAN</oompDesc>
+		<oompIndex>01</oompIndex>
 		<oompVersion>98</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth>1.25 mm</ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>2.0 mm</ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins>2</ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
+		<ooWidth>1.25 mm</ooWidth>
+		<ooLength>2.0 mm</ooLength>
+		<ooNumPins>2</ooNumPins>
 		<sourceList>
 			<manufacturer>
 				<company>Everlight</company>
@@ -38,14 +20,9 @@
 				<name></name>
 				<partID>EL-17-215/BHC-AN1P2/3T</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
-				
-				
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
@@ -56,21 +33,7 @@
 				<oplPackage>805</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    </oompPart>	
-	<oompBbls></oompBbls>	
-	<oompDiag></oompDiag>	
-	<oompIden></oompIden>	
-	<oompSchem></oompSchem>	
-	<oompSimp></oompSimp>			<ooPackageMarking></ooPackageMarking>
-		<ooDesignator>D</ooDesignator>
+		</oplList>
+		<ooDesignator>D1</ooDesignator>
+	</oompPart>
 </xml>

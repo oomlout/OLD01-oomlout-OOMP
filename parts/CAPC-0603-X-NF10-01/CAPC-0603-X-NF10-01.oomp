@@ -1,75 +1,30 @@
-﻿<xml>    
+﻿<xml>
 	<oompPart>
-        <index>4086</index><!--OOMP Base -->
-        <oompID>CAPC-0603-X-NF10-01</oompID>
-        <name>SMD (0603) 10 nF Capacitor (Ceramic)</name>
-        <hexID>C6N010</hexID>
-        <oompSort>06030.00000001000000</oompSort>
-        <oompType>CAPC</oompType>
-        <oompSize>0603</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>NF10</oompDesc>
-        <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion>99</oompVersion>
-<!--Size -->
-        <ooPitch></ooPitch>
-        <ooWidth>0.8 mm</ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>1.6 mm</ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize>
-<!--Manufacturer -->
-        <ooManufacturer>Yageo</ooManufacturer>
-        <ooManufacturerPartNumber>CC0603KRX7R9BB103</ooManufacturerPartNumber>
-<!--Description -->
-        <ooMaterial></ooMaterial>
-        <ooNumPins></ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating>
-<!--Hardware -->
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize>
-<!--Maximums -->
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance>10%</ooTolerance>
-<!--Heat Shrink -->
-        <ooShrinkRatio></ooShrinkRatio>
-<!--LED -->
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY>
-<COM>Common Uses</COM>		
-		<usageList>
-			<useItem>
-				<useID>1</useID>
-				<importance>1</importance>
-				<useTitle></useTitle>
-				<useDescription></useDescription>
-			</useItem>
-		</usageList>
-		<!--Plug -->
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength>
-<!--SEEED OPL (Open Parts Library) -->
-        <ooSEEEDsku>302010140</ooSEEEDsku>
-        <ooSEEEDdesc>SMD CAP Ceramic 10nF-50V-10%-X7R</ooSEEEDdesc>		<sourceList>
+		<index>4086</index>
+		<oompID>CAPC-0603-X-NF10-01</oompID>
+		<name>SMD (0603) 10 nF Capacitor (Ceramic)</name>
+		<hexID>C6N010</hexID>
+		<oompSort>06030.00000001000000</oompSort>
+		<oompType>CAPC</oompType>
+		<oompSize>0603</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>NF10</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>99</oompVersion>
+		<ooWidth>0.8 mm</ooWidth>
+		<ooLength>1.6 mm</ooLength>
+		<ooManufacturer>Yageo</ooManufacturer>
+		<ooManufacturerPartNumber>CC0603KRX7R9BB103</ooManufacturerPartNumber>
+		<ooTolerance>10%</ooTolerance>
+		<ooSEEEDsku>302010140</ooSEEEDsku>
+		<ooSEEEDdesc>SMD CAP Ceramic 10nF-50V-10%-X7R</ooSEEEDdesc>		<sourceList>
 			<manufacturer>
 				<company>Yageo</company>
 				<companyCode>C-YAGE</companyCode>
 				<name></name>
 				<partID>CC0603KRX7R9BB103</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<manufacturer>
 				<company>AVX Interconnect</company>
@@ -77,7 +32,7 @@
 				<name></name>
 				<partID>06035C103JAT2A</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<manufacturer>
 				<company>Kemet</company>
@@ -85,7 +40,7 @@
 				<name></name>
 				<partID>C0603C103J5RACTU</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<manufacturer>
 				<company>Samsung</company>
@@ -93,9 +48,8 @@
 				<name></name>
 				<partID>CL10B103KB8NNNC</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-			
 			<bigDistributor>
 				<company>Digikey</company>
 				<companyCode>C-DIGK</companyCode>
@@ -103,7 +57,7 @@
 				<partID>311-1085-2-ND</partID>
 				<link><![CDATA[http://www.digikey.com/product-detail/en/CC0603KRX7R9BB103/311-1085-2-ND/302819]]></link>
 				<note></note>
-			</bigDistributor>				
+			</bigDistributor>
 			<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
@@ -111,7 +65,7 @@
 				<partID>603-CC603KRX7R9BB103</partID>
 				<link><![CDATA[http://uk.mouser.com/ProductDetail/Yageo/CC0603KRX7R9BB103/?qs=%2fha2pyFaduh%2bUOWCkAJwPDBTdHczBT8rvHgrBk5f2mwvasGbjGc5Rw%3d%3d]]></link>
 				<note></note>
-			</bigDistributor>	
+			</bigDistributor>
 			<bigDistributor>
 				<company>Rapid Electronics</company>
 				<companyCode>C-RAPI</companyCode>
@@ -131,7 +85,6 @@
 				<oplPackage>0603</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-			
 			<oplSystem>
 				<oplScheme>OctoPart CPL</oplScheme>
 				<oplCode>C-OCTO</oplCode>
@@ -140,7 +93,7 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage>0603</oplPackage>
 				<oplLink><![CDATA[https://octopart.com/common-parts-library#Capacitors]]></oplLink>
-			</oplSystem>			
+			</oplSystem>
 			<oplSystem>
 				<oplScheme>HubStock</oplScheme>
 				<oplCode>C-HUBS</oplCode>
@@ -151,43 +104,24 @@
 				<oplLink><![CDATA[https://circuithub.com/parts/AI3/06035C-103KAT2A]]></oplLink>
 			</oplSystem>
 		</oplList>
-<!--Hidden -->
-        <oompVersion></oompVersion>
-        <ooNameLine1of2></ooNameLine1of2>
-        <ooNameLine2of2></ooNameLine2of2>
-        <ooNameLine1of3></ooNameLine1of3>
-        <ooNameLine2of3></ooNameLine2of3>
-        <ooNameLine3of3></ooNameLine3of3>
-        <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-        <ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:Capacitor0603.zip</ooSEEED3dModel>
-<!-- -->    
-	<oompClass>Surface Mount</oompClass>
-	<oompClassCode>SMDS</oompClassCode>
-	<oompBbls>
-		<drawItem>template;XXXX-0603-X-XXXX-XX-bbls</drawItem>
-</oompBbls>
-	<oompDiag>
-				<drawItem>template;XXXX-0603-X-XXXX-XX-diag</drawItem>
-</oompDiag>
-	<oompIden>
-				<drawItem>template;XXXX-0603-X-XXXX-XX-iden</drawItem>
-</oompIden>
+		<ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:Capacitor0603.zip</ooSEEED3dModel>
+		<oompClass>Surface Mount</oompClass>
+		<oompClassCode>SMDS</oompClassCode>
+		<oompBbls>
+			<drawItem>template;XXXX-0603-X-XXXX-XX-bbls</drawItem>
+		</oompBbls>
+		<oompDiag>
+			<drawItem>template;XXXX-0603-X-XXXX-XX-diag</drawItem>
+		</oompDiag>
+		<oompIden>
+			<drawItem>template;XXXX-0603-X-XXXX-XX-iden</drawItem>
+		</oompIden>
 		<oompSchem>
-		<drawItem>template;CAPC-XXXX-X-XXXX-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp>
-		<drawItem>template;XXXX-0603-X-XXXX-XX-simp</drawItem>
-</oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+			<drawItem>template;CAPC-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
+		<oompSimp>
+			<drawItem>template;XXXX-0603-X-XXXX-XX-simp</drawItem>
+		</oompSimp>
 		<ooDesignator>C1</ooDesignator>
-</oompPart>
+	</oompPart>
 </xml>

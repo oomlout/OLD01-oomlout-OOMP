@@ -1,36 +1,17 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>POTE-95D-X-O103-01</oompID>
-        <name>9.5 mm 10k Ohm Potentiometer</name>        
+	<oompPart>
+		<oompID>POTE-95D-X-O103-01</oompID>
+		<name>9.5 mm 10k Ohm Potentiometer</name>
 		<hexID>PT95103</hexID>
-        <oompSort>POTE95DO103</oompSort>		
-		<oompClass></oompClass>
-		<oompClassCode></oompClassCode>		
-		
-        <oompType>POTE</oompType>
-        <oompSize>95D</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>O103</oompDesc>
-        <oompIndex>01</oompIndex>        
+		<oompSort>POTE95DO103</oompSort>
+		<oompType>POTE</oompType>
+		<oompSize>95D</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>O103</oompDesc>
+		<oompIndex>01</oompIndex>
 		<oompVersion>98</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth>9.5 mm</ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>9.5 mm</ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins></ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
+		<ooWidth>9.5 mm</ooWidth>
+		<ooLength>9.5 mm</ooLength>
 		<sourceList>
 			<manufacturer>
 				<company>BST</company>
@@ -38,14 +19,9 @@
 				<name></name>
 				<partID>3386U-103</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
-				
-				
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
@@ -56,21 +32,7 @@
 				<oplPackage>3P-2.54-L9.5*W9.5*H5.0mm</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    </oompPart>	
-	<oompBbls></oompBbls>	
-	<oompDiag></oompDiag>	
-	<oompIden></oompIden>	
-	<oompSchem></oompSchem>	
-	<oompSimp></oompSimp>			<ooPackageMarking></ooPackageMarking>
+		</oplList>
 		<ooDesignator>VR1</ooDesignator>
+	</oompPart>
 </xml>

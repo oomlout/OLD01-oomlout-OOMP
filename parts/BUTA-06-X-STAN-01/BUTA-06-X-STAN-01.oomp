@@ -1,53 +1,20 @@
-﻿<xml>    
+﻿<xml>
 	<oompPart>
-        <index>4316</index><!--OOMP Base -->
-        <oompID>BUTA-06-X-STAN-01</oompID>
-        <name>6 mm Pushbutton (Tactile)</name>
-        <hexID>BT6</hexID>
-        <oompSort>0606</oompSort>
-        <oompType>BUTA</oompType>
-        <oompSize>06</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>STAN</oompDesc>
-        <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion>99</oompVersion>
-<!--Size -->
-        <ooPitch></ooPitch>
-        <ooWidth>6.2 mm</ooWidth>
-        <ooHeight>3.5 mm</ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>6.2 mm</ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize>
-<!--Manufacturer -->
-        <ooManufacturer>C-BEST</ooManufacturer>
-        <ooManufacturerPartNumber>TS-1109</ooManufacturerPartNumber>
-<!--Description -->
-        <ooMaterial></ooMaterial>
-        <ooNumPins>4</ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating>
-<!--Hardware -->
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize>
-<!--Maximums -->
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<!--Heat Shrink -->
-        <ooShrinkRatio></ooShrinkRatio>
-<!--LED -->
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY>
-<COM>Common Uses</COM>		
+		<index>4316</index>
+		<oompID>BUTA-06-X-STAN-01</oompID>
+		<name>6 mm Pushbutton (Tactile)</name>
+		<hexID>BT6</hexID>
+		<oompSort>0606</oompSort>
+		<oompType>BUTA</oompType>
+		<oompSize>06</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>STAN</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>99</oompVersion>        <ooWidth>6.2 mm</ooWidth>
+		<ooHeight>3.5 mm</ooHeight>
+		<ooLength>6.2 mm</ooLength>
+		<ooManufacturer>C-BEST</ooManufacturer>
+		<ooManufacturerPartNumber>TS-1109</ooManufacturerPartNumber>        <ooNumPins>4</ooNumPins>
 		<usageList>
 			<useItem>
 				<useID>1</useID>
@@ -62,20 +29,15 @@
 				<useDescription>a button on a keypad.</useDescription>
 			</useItem>
 		</usageList>
-		<!--Plug -->
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength>
-<!--SEEED OPL (Open Parts Library) -->
-        <ooSEEEDsku>3110040P1</ooSEEEDsku>
-        <ooSEEEDdesc>SWITCH TACTILE SPST-NO 0.05A 12V</ooSEEEDdesc>		<sourceList>
+		<ooSEEEDsku>3110040P1</ooSEEEDsku>
+		<ooSEEEDdesc>SWITCH TACTILE SPST-NO 0.05A 12V</ooSEEEDdesc>		<sourceList>
 			<manufacturer>
 				<company>Omron</company>
 				<companyCode>C-OMRO</companyCode>
 				<name></name>
 				<partID>B3F-1000</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<manufacturer>
 				<company>Shenzhen Best</company>
@@ -83,7 +45,7 @@
 				<name></name>
 				<partID>TS-1109</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<manufacturer>
 				<company>TE Connectivity</company>
@@ -91,27 +53,24 @@
 				<name></name>
 				<partID>1825910-6</partID>
 				<link></link>
-				<note></note>			
-			</manufacturer>			
+				<note></note>
+			</manufacturer>
 			<manufacturer>
 				<company>Tyco</company>
 				<companyCode>C-TYCO</companyCode>
 				<name></name>
 				<partID>FSM4JH</partID>
 				<link></link>
-				<note></note>			
-			</manufacturer>	
-			
+				<note></note>
+			</manufacturer>
 			<manufacturer>
 				<company>RVFM</company>
 				<companyCode>C-RVFM</companyCode>
 				<name>Tactile switches 6 x 6mm</name>
 				<partID>TC-00104-043C</partID>
 				<link></link>
-				<note></note>			
-			</manufacturer>		
-				
-				
+				<note></note>
+			</manufacturer>
 			<bigDistributor>
 				<company>DigiKey</company>
 				<companyCode>C-DIGK</companyCode>
@@ -127,7 +86,7 @@
 				<partID>1555982</partID>
 				<link><![CDATA[http://uk.farnell.com/te-connectivity-alcoswitch/fsm4jh/switch-spno-0-05a/dp/1555982?ost=1555982]]></link>
 				<note></note>
-			</bigDistributor>	
+			</bigDistributor>
 			<bigDistributor>
 				<company>RS</company>
 				<companyCode>C-RSRS</companyCode>
@@ -135,7 +94,7 @@
 				<partID>479-1413</partID>
 				<link><![CDATA[http://uk.rs-online.com/web/p/tactile-switches/4791413/?searchTerm=479-1413&relevancy-data=636F3D3126696E3D4931384E525353746F636B4E756D6265724D504E266C753D656E266D6D3D6D61746368616C6C26706D3D5E5C647B337D5B5C732D2F255C2E2C5D5C647B332C347D2426706F3D313426736E3D592673743D52535F53544F434B5F4E554D4245522677633D4E4F4E45267573743D3437392D3134313326]]></link>
 				<note></note>
-			</bigDistributor>			
+			</bigDistributor>
 			<bigDistributor>
 				<company>Rapid Electronics</company>
 				<companyCode>C-RAPI</companyCode>
@@ -160,7 +119,6 @@
 				<link><![CDATA[http://www.adafruit.com/products/367]]></link>
 				<note></note>
 			</bigDistributor>
-	
 			<bigDistributor>
 				<company>Oomlout</company>
 				<companyCode>C-OOML</companyCode>
@@ -168,9 +126,9 @@
 				<partID>BUTT-01-05</partID>
 				<link><![CDATA[http://oomlout.co.uk/products/pushbutton-x5]]></link>
 				<note></note>
-			</bigDistributor>				
+			</bigDistributor>
 		</sourceList>
-		<oplList>			
+		<oplList>
 			<oplSystem>
 				<oplScheme>HubStock</oplScheme>
 				<oplCode>C-HUBS</oplCode>
@@ -179,7 +137,7 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://circuithub.com/parts/OMRON/B3F-1000]]></oplLink>
-			</oplSystem>	
+			</oplSystem>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
@@ -188,38 +146,16 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage>4P-6.0X6.0X5.0H</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
-			</oplSystem>		</oplList>		
-		<!--Hidden -->
-        <oompVersion></oompVersion>
-        <ooNameLine1of2></ooNameLine1of2>
-        <ooNameLine2of2></ooNameLine2of2>
-        <ooNameLine1of3></ooNameLine1of3>
-        <ooNameLine2of3></ooNameLine2of3>
-        <ooNameLine3of3></ooNameLine3of3>
-        <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout>The most commonly used through hole tactile pushbutton. It's often more difficult to find a PCB without one of these than with.</oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-        <ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:4P-6.0X6.0X5.0H.zip</ooSEEED3dModel>
-<!-- -->    
-	<oompClass>Through Hole Component</oompClass>
-	<oompClassCode>THTH</oompClassCode>
-	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem>
-			<oompIden>
-				<drawItem>template;BUTA-XXXX-X-XXXX-XX-schem</drawItem>
-			</oompIden>	
-	</oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
-		<ooDesignator>S1</ooDesignator>
-</oompPart>
+			</oplSystem>		</oplList>
+			<oompAbout>The most commonly used through hole tactile pushbutton. It's often more difficult to find a PCB without one of these than with.</oompAbout>
+			<ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:4P-6.0X6.0X5.0H.zip</ooSEEED3dModel>
+			<oompClass>Through Hole Component</oompClass>
+			<oompClassCode>THTH</oompClassCode>
+			<oompSchem>
+				<oompIden>
+					<drawItem>template;BUTA-XXXX-X-XXXX-XX-schem</drawItem>
+				</oompIden>
+			</oompSchem>
+			<ooDesignator>S1</ooDesignator>
+	</oompPart>
 </xml>

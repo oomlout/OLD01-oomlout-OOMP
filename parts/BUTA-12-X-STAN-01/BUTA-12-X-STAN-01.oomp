@@ -1,47 +1,16 @@
 <xml>
-<oompPart>
-        <index>9876</index><com>OOMP Base</com>
-        <oompID>BUTA-12-X-STAN-01</oompID>
-        <name>12 mm Pushbutton (Tactile)</name>
-        <hexID>BT12</hexID>
-        <oompSort>1212</oompSort>
-        <oompType>BUTA</oompType>
-        <oompSize>12</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>STAN</oompDesc>
-        <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion></oompVersion>
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize><com>Description</com>
-        <ooMaterial></ooMaterial>
-        <ooNumPins></ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating><com>Hardware</com>
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize><com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance><com>Heat Shrink</com>
-        <ooShrinkRatio></ooShrinkRatio><com>LED</com>
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY><com>Plug</com>
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength><com>Source List</com>		
+	<oompPart>
+		<index>9876</index>
+		<oompID>BUTA-12-X-STAN-01</oompID>
+		<name>12 mm Pushbutton (Tactile)</name>
+		<hexID>BT12</hexID>
+		<oompSort>1212</oompSort>
+		<oompType>BUTA</oompType>
+		<oompSize>12</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>STAN</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>99</oompVersion>
 		<sourceList>
 			<manufacturer>
 				<company>Diptronics</company>
@@ -49,10 +18,8 @@
 				<name></name>
 				<partID>DTS-24R-V</partID>
 				<link></link>
-				<note></note>			
-			</manufacturer>
-						
-			<bigDistributor>
+				<note></note>
+				</manufacturer><bigDistributor>
 				<company>Rapid Electronics</company>
 				<companyCode>C-RAPI</companyCode>
 				<name>7.3mm Sq 12x12 Tactile Switch 260gf</name>
@@ -77,10 +44,8 @@
 				<note></note>
 			</bigDistributor>
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
-		</oplList>		<usageList>
+			</oplList>		<usageList>
 			<useItem>
 				<useID>1</useID>
 				<importance>1</importance>
@@ -99,48 +64,28 @@
 				<useTitle>Larger Button</useTitle>
 				<useDescription>a larger button to distinguish it from more standard pushbuttons.</useDescription>
 			</useItem>
-		</usageList>		
-<com>Hidden</com>
-        <oompAbout>A good tactile pushbutton. Useful when something larger than the standard 6mm version is desired. These also have better pin spacing for using in a breadboard.</oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-    
-	<oompClass>Through Hole Component</oompClass>
-	<oompClassCode>THTH</oompClassCode>
-	<oompBbls>
-		<drawItem>template;BUTA-12-X-STAN-01</drawItem>		
-		<drawItem>template;XXXX-XXXX-X-XXXX-XX-bbls-words</drawItem>		
-	</oompBbls>
-	<oompDiag>
-		<drawItem>template;BUTA-12-X-STAN-01</drawItem>		
-		<drawItem>template;XXXX-XXXX-X-XXXX-XX-diag-words</drawItem>		
-	</oompDiag>
-	<oompIden>
-		<drawItem>template;BUTA-12-X-STAN-01</drawItem>		
-		<drawItem>template;XXXX-XXXX-X-XXXX-XX-iden-words</drawItem>		
-	</oompIden>
-	<oompSchem>
+		</usageList><oompAbout>A good tactile pushbutton. Useful when something larger than the standard 6mm version is desired. These also have better pin spacing for using in a breadboard.</oompAbout><oompClass>Through Hole Component</oompClass>
+		<oompClassCode>THTH</oompClassCode>
+		<oompBbls>
+			<drawItem>template;BUTA-12-X-STAN-01</drawItem>
+			<drawItem>template;XXXX-XXXX-X-XXXX-XX-bbls-words</drawItem>
+		</oompBbls>
+		<oompDiag>
+			<drawItem>template;BUTA-12-X-STAN-01</drawItem>
+			<drawItem>template;XXXX-XXXX-X-XXXX-XX-diag-words</drawItem>
+		</oompDiag>
+		<oompIden>
+			<drawItem>template;BUTA-12-X-STAN-01</drawItem>
+			<drawItem>template;XXXX-XXXX-X-XXXX-XX-iden-words</drawItem>
+		</oompIden>
+		<oompSchem>
 			<oompIden>
 				<drawItem>template;BUTA-XXXX-X-XXXX-XX-schem</drawItem>
-			</oompIden>	
-	</oompSchem>
-	<oompSimp>
-		<drawItem>template;BUTA-12-X-STAN-01</drawItem>		
-		<drawItem>template;XXXX-XXXX-X-XXXX-XX-simp-words</drawItem>		
-	</oompSimp>
-	
-	
-	
-	
-	
-	
-		<ooPackageMarking></ooPackageMarking>
-		<ooDesignator>S1</ooDesignator>
-</oompPart>
+			</oompIden>
+		</oompSchem>
+		<oompSimp>
+			<drawItem>template;BUTA-12-X-STAN-01</drawItem>
+			<drawItem>template;XXXX-XXXX-X-XXXX-XX-simp-words</drawItem>
+		</oompSimp><ooDesignator>S1</ooDesignator>
+	</oompPart>
 </xml>

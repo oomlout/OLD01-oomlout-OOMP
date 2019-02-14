@@ -1,36 +1,18 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>LEDS-05-RGB-STAN-01</oompID>
-        <name>5 mm RGB LED</name>        
+	<oompPart>
+		<oompID>LEDS-05-RGB-STAN-01</oompID>
+		<name>5 mm RGB LED</name>
 		<hexID>L5RGB</hexID>
-        <oompSort>LEDS05STAN</oompSort>		
-		<oompClass></oompClass>
-		<oompClassCode></oompClassCode>		
-		
-        <oompType>LEDS</oompType>
-        <oompSize>05</oompSize>
-        <oompColor>RGB</oompColor>
-        <oompDesc>STAN</oompDesc>
-        <oompIndex>01</oompIndex>        
+		<oompSort>LEDS05STAN</oompSort>
+		<oompType>LEDS</oompType>
+		<oompSize>05</oompSize>
+		<oompColor>RGB</oompColor>
+		<oompDesc>STAN</oompDesc>
+		<oompIndex>01</oompIndex>
 		<oompVersion>98</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch>2.54</ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter>5.0 mm</ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins>2</ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
+		<ooPitch>2.54</ooPitch>
+		<ooDiameter>5.0 mm</ooDiameter>
+		<ooNumPins>2</ooNumPins>
 		<sourceList>
 			<manufacturer>
 				<company>chengguangxing</company>
@@ -38,14 +20,9 @@
 				<name></name>
 				<partID>504RGBW-K</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
-				
-				
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
@@ -56,21 +33,7 @@
 				<oplPackage>Radial-2P-2.54-5mm</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    </oompPart>	
-	<oompBbls></oompBbls>	
-	<oompDiag></oompDiag>	
-	<oompIden></oompIden>	
-	<oompSchem></oompSchem>	
-	<oompSimp></oompSimp>			<ooPackageMarking></ooPackageMarking>
-		<ooDesignator>D</ooDesignator>
+		</oplList>
+		<ooDesignator>D1</ooDesignator>
+	</oompPart>
 </xml>

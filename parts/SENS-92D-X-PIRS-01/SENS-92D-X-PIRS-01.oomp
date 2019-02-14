@@ -1,36 +1,15 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>SENS-92D-X-PIRS-01</oompID>
-        <name>9.2 mm PIRS Sensor</name>        
+	<oompPart>
+		<oompID>SENS-92D-X-PIRS-01</oompID>
+		<name>9.2 mm PIRS Sensor</name>
 		<hexID>SEPI</hexID>
-        <oompSort>SENS92DPIRS</oompSort>		
-		<oompClass></oompClass>
-		<oompClassCode></oompClassCode>		
-		
-        <oompType>SENS</oompType>
-        <oompSize>92D</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>PIRS</oompDesc>
-        <oompIndex>01</oompIndex>        
+		<oompSort>SENS92DPIRS</oompSort><oompType>SENS</oompType>
+		<oompSize>92D</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>PIRS</oompDesc>
+		<oompIndex>01</oompIndex>
 		<oompVersion>98</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter>9.2 mm</ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins>2</ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
+		<ooDiameter>9.2 mm</ooDiameter><ooNumPins>2</ooNumPins>
 		<sourceList>
 			<manufacturer>
 				<company>PreKinElmer</company>
@@ -38,14 +17,9 @@
 				<name></name>
 				<partID>LHI778</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
-				
-				
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
@@ -56,21 +30,7 @@
 				<oplPackage>3P-D8.1X4.2Hmm</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    </oompPart>	
-	<oompBbls></oompBbls>	
-	<oompDiag></oompDiag>	
-	<oompIden></oompIden>	
-	<oompSchem></oompSchem>	
-	<oompSimp></oompSimp>			<ooPackageMarking></ooPackageMarking>
+		</oplList>
 		<ooDesignator>0</ooDesignator>
+	</oompPart>
 </xml>

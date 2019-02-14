@@ -1,47 +1,23 @@
 <xml>
-<oompPart>
-        <index>9876</index><com>OOMP Base</com>
-        <oompID>CAPT-36D-X-NF100-VC</oompID>
-        <name>3.6 mm 100 nF Capacitor (Tantalum) 50v</name>
-        <hexID>CTN100</hexID>
-        <oompSort>THTH0.00000010000000</oompSort>
-        <oompType>CAPT</oompType>
-        <oompSize>36D</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>NF100</oompDesc>
-        <oompIndex>VC</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion></oompVersion>
-<com>Size</com>
-        <ooPitch>2.5 mm</ooPitch>
-        <ooWidth>4 mm</ooWidth>
-        <ooHeight>4 mm</ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth>2.6 mm</ooDepth>
-        <ooWireSize></ooWireSize><com>Description</com>
-        <ooMaterial></ooMaterial>
-        <ooNumPins>2</ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating><com>Hardware</com>
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize><com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage>50 V</ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance>10 %</ooTolerance><com>Heat Shrink</com>
-        <ooShrinkRatio></ooShrinkRatio><com>LED</com>
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY><com>Plug</com>
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength><com>Source List</com>		
+	<oompPart>
+		<index>9876</index>
+		<oompID>CAPT-36D-X-NF100-VC</oompID>
+		<name>3.6 mm 100 nF Capacitor (Tantalum) 50v</name>
+		<hexID>CTN100</hexID>
+		<oompSort>THTH0.00000010000000</oompSort>
+		<oompType>CAPT</oompType>
+		<oompSize>36D</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>NF100</oompDesc>
+		<oompIndex>VC</oompIndex>
+		<oompVersion>99</oompVersion>
+		<ooPitch>2.5 mm</ooPitch>
+		<ooWidth>4 mm</ooWidth>
+		<ooHeight>4 mm</ooHeight>
+		<ooDepth>2.6 mm</ooDepth>
+		<ooNumPins>2</ooNumPins>
+		<ooMaxVoltage>50 V</ooMaxVoltage>
+		<ooTolerance>10 %</ooTolerance>
 		<sourceList>
 			<manufacturer>
 				<company>Vishay</company>
@@ -49,9 +25,8 @@
 				<name></name>
 				<partID>K104K15X7RF53L2</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
@@ -59,32 +34,13 @@
 				<partID>1141775</partID>
 				<link><![CDATA[http://uk.farnell.com/vishay/k104k15x7rf53l2/cap-mlcc-x7r-100nf-50v-rad/dp/1141775?ost=1141775]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>
 		</sourceList>
-		
-<com>OPL</com>		
-		<oplList>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-    
-	<oompClass>Through Hole Component</oompClass>
-	<oompClassCode>THTH</oompClassCode>
-	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem>
-		<drawItem>template;CAPT-XXXX-X-XXXX-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+		<oompClass>Through Hole Component</oompClass>
+		<oompClassCode>THTH</oompClassCode>
+		<oompSchem>
+			<drawItem>template;CAPT-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
 		<ooDesignator>C1</ooDesignator>
-</oompPart>
+	</oompPart>
 </xml>

@@ -1,125 +1,30 @@
-﻿<xml>    
+﻿<xml>
 	<oompPart>
-        <index>4116</index><!--OOMP Base -->
-        <oompID>RESA-1268-X-O472X4-01</oompID>
-        <name>SMD (1206-8) 4.7k Ohm (x4) Resistor Array</name>
-        <hexID>RA1472</hexID>
-        <oompSort>12680004700</oompSort>
-        <oompType>RESA</oompType>
-        <oompSize>1268</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>O472X4</oompDesc>
-        <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion>99</oompVersion>
-<!--Size -->
-        <ooPitch></ooPitch>
-        <ooWidth>1.6 mm</ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>3.2 mm</ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize>
-<!--Manufacturer -->
-        <ooManufacturer>Yageo</ooManufacturer>
-        <ooManufacturerPartNumber>YC164-JR-074K7L</ooManufacturerPartNumber>
-<!--Description -->
-        <ooMaterial></ooMaterial>
-        <ooNumPins>8</ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating>62.5 mW</ooPowerRating>
-<!--Hardware -->
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize>
-<!--Maximums -->
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance>5%</ooTolerance>
-<!--Heat Shrink -->
-        <ooShrinkRatio></ooShrinkRatio>
-<!--LED -->
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY>
-<COM>Common Uses</COM>		
-		<usageList>
-			<useItem>
-				<useID>1</useID>
-				<importance>1</importance>
-				<useTitle></useTitle>
-				<useDescription></useDescription>
-			</useItem>
-		</usageList>
-		<!--Plug -->
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength>
-<!--SEEED OPL (Open Parts Library) -->
-        <ooSEEEDsku>0040040P1</ooSEEEDsku>
-        <ooSEEEDdesc>SMD RES ARRAY 4.7K OHM 4 RES 1206	</ooSEEEDdesc>
-<!--Hidden -->
-        <oompVersion></oompVersion>
-        <ooNameLine1of2></ooNameLine1of2>
-        <ooNameLine2of2></ooNameLine2of2>
-        <ooNameLine1of3></ooNameLine1of3>
-        <ooNameLine2of3></ooNameLine2of3>
-        <ooNameLine3of3></ooNameLine3of3>
-        <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-        <ooSEEED3dModel></ooSEEED3dModel>
-<!-- -->    		<sourceList>
-				
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
-				<note></note>
-			</bigDistributor>					
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
-				<note></note>
-			</bigDistributor>					
-		</sourceList>
-		<oplList>
-			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[ ]]></oplLink>
-			</oplSystem>
-		</oplList>	<oompClass>Surface Mount</oompClass>
-	<oompClassCode>SMDS</oompClassCode>
-	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem>
-		<drawItem>template;RESA-XXXX-X-XXX4-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+		<index>4116</index>
+		<oompID>RESA-1268-X-O472X4-01</oompID>
+		<name>SMD (1206-8) 4.7k Ohm (x4) Resistor Array</name>
+		<hexID>RA1472</hexID>
+		<oompSort>12680004700</oompSort>
+		<oompType>RESA</oompType>
+		<oompSize>1268</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>O472X4</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>99</oompVersion>
+		<ooWidth>1.6 mm</ooWidth>
+		<ooLength>3.2 mm</ooLength>
+		<ooManufacturer>Yageo</ooManufacturer>
+		<ooManufacturerPartNumber>YC164-JR-074K7L</ooManufacturerPartNumber>
+		<ooNumPins>8</ooNumPins>
+		<ooPowerRating>62.5 mW</ooPowerRating>
+		<ooTolerance>5%</ooTolerance>
+		<ooSEEEDsku>0040040P1</ooSEEEDsku>
+		<ooSEEEDdesc>SMD RES ARRAY 4.7K OHM 4 RES 1206	</ooSEEEDdesc>
+		<oompClass>Surface Mount</oompClass>
+		<oompClassCode>SMDS</oompClassCode>
+		<oompSchem>
+			<drawItem>template;RESA-XXXX-X-XXX4-XX-schem</drawItem>
+		</oompSchem>
 		<ooDesignator>RN1</ooDesignator>
-</oompPart>
+	</oompPart>
 </xml>

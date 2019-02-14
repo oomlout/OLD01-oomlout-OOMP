@@ -1,36 +1,16 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>VREG-MS08-X-V05-A5D</oompID>
-        <name>8 Pin SMD (MSOP) 5v Voltage Regulator 500 mA</name>        
+	<oompPart>
+		<oompID>VREG-MS08-X-V05-A5D</oompID>
+		<name>8 Pin SMD (MSOP) 5v Voltage Regulator 500 mA</name>
 		<hexID>VS855D</hexID>
-        <oompSort>VREGMS08V05</oompSort>		
-		<oompClass></oompClass>
-		<oompClassCode></oompClassCode>		
-		
-        <oompType>VREG</oompType>
-        <oompSize>MS08</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>V05</oompDesc>
-        <oompIndex>A5D</oompIndex>        
+		<oompSort>VREGMS08V05</oompSort>
+		<oompType>VREG</oompType>
+		<oompSize>MS08</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>V05</oompDesc>
+		<oompIndex>A5D</oompIndex>
 		<oompVersion>98</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins>8</ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
+		<ooNumPins>8</ooNumPins>
 		<sourceList>
 			<manufacturer>
 				<company>Texas Instruments</company>
@@ -38,9 +18,8 @@
 				<name></name>
 				<partID>TPS2051BDGN</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 			<bigDistributor>
 				<company>Digikey</company>
 				<companyCode>C-DIGK</companyCode>
@@ -48,14 +27,14 @@
 				<partID>296-17313-1-ND</partID>
 				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=296-17313-1-ND]]></link>
 				<note></note>
-			</bigDistributor>								<bigDistributor>
+				</bigDistributor>								<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
 				<name></name>
 				<partID>595-TPS2051BDGN</partID>
 				<link><![CDATA[http://www.mouser.co.uk/Search/Refine.aspx?Keyword=595-TPS2051BDGN]]></link>
 				<note></note>
-			</bigDistributor>	
+			</bigDistributor>
 			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
@@ -63,7 +42,7 @@
 				<partID>2112636</partID>
 				<link><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=2112636]]></link>
 				<note></note>
-			</bigDistributor>	
+			</bigDistributor>
 			<bigDistributor>
 				<company>RS Electronics</company>
 				<companyCode>C-RSRS</companyCode>
@@ -71,11 +50,8 @@
 				<partID>662-2457</partID>
 				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=662-2457]]></link>
 				<note></note>
-			</bigDistributor>	
-				
+			</bigDistributor>
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
@@ -86,21 +62,7 @@
 				<oplPackage>MSOP-8</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    </oompPart>	
-	<oompBbls></oompBbls>	
-	<oompDiag></oompDiag>	
-	<oompIden></oompIden>	
-	<oompSchem></oompSchem>	
-	<oompSimp></oompSimp>			<ooPackageMarking></ooPackageMarking>
+		</oplList>
 		<ooDesignator>U</ooDesignator>
+	</oompPart>
 </xml>

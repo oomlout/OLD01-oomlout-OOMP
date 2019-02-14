@@ -1,46 +1,19 @@
 <xml>
-<oompPart>
-        <index>9876</index><com>OOMP Base</com>
-        <oompID>USBS-TB-X-THTH-01</oompID>
-        <name>Type B Through Hole USB Socket</name>
-        <hexID>UTB</hexID>
-        <oompSort>THTHTB</oompSort>
-        <oompType>USBS</oompType>
-        <oompSize>TB</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>THTH</oompDesc>
-        <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion></oompVersion>		<oompSkip>true</oompSkip><com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth>16 mm</ooWidth>
-        <ooHeight>10.3 mm</ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>12.2 mm</ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize><com>Description</com>
-        <ooMaterial></ooMaterial>
-        <ooNumPins>4</ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating><com>Hardware</com>
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize><com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance><com>Heat Shrink</com>
-        <ooShrinkRatio></ooShrinkRatio><com>LED</com>
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY><com>Plug</com>
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength><com>Source List</com>		
+	<oompPart>
+		<index>9876</index>
+		<oompID>USBS-TB-X-THTH-01</oompID>
+		<name>Type B Through Hole USB Socket</name>
+		<hexID>UTB</hexID>
+		<oompSort>THTHTB</oompSort>
+		<oompType>USBS</oompType>
+		<oompSize>TB</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>THTH</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>99</oompVersion>		<oompSkip>true</oompSkip><ooWidth>16 mm</ooWidth>
+		<ooHeight>10.3 mm</ooHeight>
+		<ooLength>12.2 mm</ooLength>
+		<ooNumPins>4</ooNumPins>
 		<sourceList>
 			<manufacturer>
 				<company>Suntech</company>
@@ -56,7 +29,7 @@
 				<name></name>
 				<partID>61729-1011BLF</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<manufacturer>
 				<company>TruConnect</company>
@@ -64,10 +37,8 @@
 				<name></name>
 				<partID>24-0346</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
-		
 			<bigDistributor>
 				<company>DigiKey</company>
 				<companyCode>C-DIGK</companyCode>
@@ -75,14 +46,14 @@
 				<partID>609-3657-ND</partID>
 				<link><![CDATA[http://www.digikey.co.uk/product-search/en?lang=en&site=UK&WT.z_homepage_link=hp_go_button&x=0&y=0&KeyWords=61729-1011BLF]]></link>
 				<note></note>
-			</bigDistributor>			<bigDistributor>
+				</bigDistributor>			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
 				<name>FCI  61729-1011BLF  USB CONNECTOR, RECEPTACLE, 4POS, THD</name>
 				<partID>1824489</partID>
 				<link><![CDATA[http://uk.farnell.com/fci/61729-1011blf/usb-connector-receptacle-4pos/dp/1824489?ost=61729-1011BLF]]></link>
 				<note></note>
-			</bigDistributor>			
+			</bigDistributor>
 			<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
@@ -108,8 +79,6 @@
 				<note></note>
 			</bigDistributor>
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>Octopart CPL</oplScheme>
@@ -119,8 +88,7 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://octopart.com/common-parts-library#Connectors]]></oplLink>
-			</oplSystem>	
-			
+			</oplSystem>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
@@ -129,29 +97,12 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
-			</oplSystem>		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-    
-
-		
-		<oompClass>Through Hole Component</oompClass>
-		<oompClassCode>THTH</oompClassCode>
-	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem>
-		<drawItem>template;USBS-XXXX-X-XXXX-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
-		<ooDesignator>J1</ooDesignator>
-</oompPart>
+			</oplSystem>		</oplList>
+			<oompClass>Through Hole Component</oompClass>
+			<oompClassCode>THTH</oompClassCode>
+			<oompSchem>
+				<drawItem>template;USBS-XXXX-X-XXXX-XX-schem</drawItem>
+			</oompSchem>
+			<ooDesignator>J1</ooDesignator>
+	</oompPart>
 </xml>

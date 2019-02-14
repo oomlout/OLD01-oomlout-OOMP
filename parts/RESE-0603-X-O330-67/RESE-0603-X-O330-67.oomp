@@ -1,133 +1,43 @@
-﻿<xml>    
+﻿<xml>
 	<oompPart>
-        <index>4114</index><!--OOMP Base -->
-        <oompID>RESE-0603-X-O330-67</oompID>
-        <name>SMD (0603) 33 Ohm Resistor 1%</name>
-        <hexID>R6330A</hexID>
-        <oompSort>ZZZ06030000033</oompSort>
-        <oompType>RESE</oompType>
-        <oompSize>0603</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>O330</oompDesc>
-        <oompIndex>67</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion>99</oompVersion>
-<!--Size -->
-        <ooPitch></ooPitch>
-        <ooWidth>0.8 mm</ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>1.6 mm</ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize>
-<!--Manufacturer -->
-        <ooManufacturer>YageoYageo</ooManufacturer>
-        <ooManufacturerPartNumber>RC0603FR-07330RL</ooManufacturerPartNumber>
-<!--Description -->
-        <ooMaterial>Thick Film</ooMaterial>
-        <ooNumPins></ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating>1/10 W</ooPowerRating>
-<!--Hardware -->
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize>
-<!--Maximums -->
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance>5%</ooTolerance>
-<!--Heat Shrink -->
-        <ooShrinkRatio></ooShrinkRatio>
-<!--LED -->
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY>
-<COM>Common Uses</COM>		
-		<usageList>
-			<useItem>
-				<useID>1</useID>
-				<importance>1</importance>
-				<useTitle></useTitle>
-				<useDescription></useDescription>
-			</useItem>
-		</usageList>
-		<!--Plug -->
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength>
-<!--SEEED OPL (Open Parts Library) -->
-        <ooSEEEDsku>0011330P1</ooSEEEDsku>
-        <ooSEEEDdesc>SMD RES 330R-1%-1/10W</ooSEEEDdesc>
-<!--Hidden -->
-        <oompVersion></oompVersion>
-        <ooNameLine1of2></ooNameLine1of2>
-        <ooNameLine2of2></ooNameLine2of2>
-        <ooNameLine1of3></ooNameLine1of3>
-        <ooNameLine2of3></ooNameLine2of3>
-        <ooNameLine3of3></ooNameLine3of3>
-        <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-        <ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:Resistor0603.zip</ooSEEED3dModel>
-<!-- -->    		<sourceList>
-				
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
-				<note></note>
-			</bigDistributor>					
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
-				<note></note>
-			</bigDistributor>					
-		</sourceList>
-		<oplList>
-			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[ ]]></oplLink>
-			</oplSystem>
-		</oplList>	<oompClass>Surface Mount</oompClass>
-	<oompClassCode>SMDS</oompClassCode>
-	<oompBbls>
-		<drawItem>template;XXXX-0603-X-XXXX-XX-bbls</drawItem>
-</oompBbls>
-	<oompDiag>
-				<drawItem>template;XXXX-0603-X-XXXX-XX-diag</drawItem>
-</oompDiag>
-	<oompIden>
-				<drawItem>template;XXXX-0603-X-XXXX-XX-iden</drawItem>
-</oompIden>
-	<oompSchem>
-		<drawItem>template;RESE-XXXX-X-XXXX-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp>
-		<drawItem>template;XXXX-0603-X-XXXX-XX-simp</drawItem>
-</oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+		<index>4114</index>
+		<oompID>RESE-0603-X-O330-67</oompID>
+		<name>SMD (0603) 33 Ohm Resistor 1%</name>
+		<hexID>R6330A</hexID>
+		<oompSort>ZZZ06030000033</oompSort>
+		<oompType>RESE</oompType>
+		<oompSize>0603</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>O330</oompDesc>
+		<oompIndex>67</oompIndex>
+		<oompVersion>99</oompVersion>
+		<ooWidth>0.8 mm</ooWidth>
+		<ooLength>1.6 mm</ooLength>
+		<ooManufacturer>YageoYageo</ooManufacturer>
+		<ooManufacturerPartNumber>RC0603FR-07330RL</ooManufacturerPartNumber>
+		<ooMaterial>Thick Film</ooMaterial>
+		<ooPowerRating>1/10 W</ooPowerRating>
+		<ooTolerance>5%</ooTolerance>
+		<ooSEEEDsku>0011330P1</ooSEEEDsku>
+		<ooSEEEDdesc>SMD RES 330R-1%-1/10W</ooSEEEDdesc>
+		<ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:Resistor0603.zip</ooSEEED3dModel>
+		<oompClass>Surface Mount</oompClass>
+		<oompClassCode>SMDS</oompClassCode>
+		<oompBbls>
+			<drawItem>template;XXXX-0603-X-XXXX-XX-bbls</drawItem>
+		</oompBbls>
+		<oompDiag>
+			<drawItem>template;XXXX-0603-X-XXXX-XX-diag</drawItem>
+		</oompDiag>
+		<oompIden>
+			<drawItem>template;XXXX-0603-X-XXXX-XX-iden</drawItem>
+		</oompIden>
+		<oompSchem>
+			<drawItem>template;RESE-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
+		<oompSimp>
+			<drawItem>template;XXXX-0603-X-XXXX-XX-simp</drawItem>
+		</oompSimp>
 		<ooDesignator>R1</ooDesignator>
-</oompPart>
+	</oompPart>
 </xml>

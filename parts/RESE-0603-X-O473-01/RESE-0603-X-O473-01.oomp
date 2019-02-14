@@ -1,36 +1,18 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>RESE-0603-X-O473-01</oompID>
-        <name>SMD (0603) 47k Ohm Resistor</name>        
+	<oompPart>
+		<oompID>RESE-0603-X-O473-01</oompID>
+		<name>SMD (0603) 47k Ohm Resistor</name>
 		<hexID>R6473</hexID>
-        <oompSort>RESE0603O473</oompSort>		
-		<oompClass></oompClass>
-		<oompClassCode></oompClassCode>		
-		
-        <oompType>RESE</oompType>
-        <oompSize>0603</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>O473</oompDesc>
-        <oompIndex>01</oompIndex>        
+		<oompSort>RESE0603O473</oompSort>
+		<oompType>RESE</oompType>
+		<oompSize>0603</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>O473</oompDesc>
+		<oompIndex>01</oompIndex>
 		<oompVersion>98</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth>0.8</ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>1.6</ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins>2</ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
+		<ooWidth>0.8</ooWidth>
+		<ooLength>1.6</ooLength>
+		<ooNumPins>2</ooNumPins>
 		<sourceList>
 			<manufacturer>
 				<company>YAGEO</company>
@@ -38,7 +20,7 @@
 				<name></name>
 				<partID>RC0603JR-0747KL</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<manufacturer>
 				<company>Multicomp</company>
@@ -46,9 +28,8 @@
 				<name></name>
 				<partID>MC0063W0603547K</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 			<bigDistributor>
 				<company>Digikey</company>
 				<companyCode>C-DIGK</companyCode>
@@ -56,14 +37,14 @@
 				<partID>311-47KGRCT-ND</partID>
 				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=311-47KGRCT-ND]]></link>
 				<note></note>
-			</bigDistributor>								<bigDistributor>
+				</bigDistributor>								<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
 				<name></name>
 				<partID>603-RC0603JR-0747KL</partID>
 				<link><![CDATA[http://www.mouser.co.uk/Search/Refine.aspx?Keyword=603-RC0603JR-0747KL]]></link>
 				<note></note>
-			</bigDistributor>	
+			</bigDistributor>
 			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
@@ -71,7 +52,7 @@
 				<partID>9233580</partID>
 				<link><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=9233580]]></link>
 				<note></note>
-			</bigDistributor>	
+			</bigDistributor>
 			<bigDistributor>
 				<company>RS Electronics</company>
 				<companyCode>C-RSRS</companyCode>
@@ -79,11 +60,8 @@
 				<partID>504-7363</partID>
 				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=504-7363]]></link>
 				<note></note>
-			</bigDistributor>	
-				
+			</bigDistributor>
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
@@ -112,21 +90,8 @@
 				<oplPackage>0603</oplPackage>
 				<oplLink><![CDATA[https://circuithub.com/parts/YAGEO/RC0603JR-0747KL]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    </oompPart>	
-	<oompBbls></oompBbls>	
-	<oompDiag></oompDiag>	
-	<oompIden></oompIden>	
-	<oompSchem></oompSchem>	
-	<oompSimp></oompSimp>			<ooPackageMarking>473</ooPackageMarking>
-		<ooDesignator>R</ooDesignator>
+		</oplList>
+		<ooPackageMarking>473</ooPackageMarking>
+		<ooDesignator>R1</ooDesignator>
+	</oompPart>
 </xml>

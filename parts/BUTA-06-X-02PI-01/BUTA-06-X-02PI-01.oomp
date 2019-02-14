@@ -1,36 +1,21 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>BUTA-06-X-02PI-01</oompID>
-        <name>6 mm 2 Pin Pushbutton (Tactile)</name>        
+	<oompPart>
+		<oompID>BUTA-06-X-02PI-01</oompID>
+		<name>6 mm 2 Pin Pushbutton (Tactile)</name>
 		<hexID>BT62</hexID>
-        <oompSort></oompSort>		
+		<oompSort></oompSort>
 		<oompClass>Through Hole</oompClass>
-		<oompClassCode>THTH</oompClassCode>		
-		
-        <oompType>BUTA</oompType>
-        <oompSize>06</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>02PI</oompDesc>
-        <oompIndex>01</oompIndex>        
+		<oompClassCode>THTH</oompClassCode><oompType>BUTA</oompType>
+		<oompSize>06</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>02PI</oompDesc>
+		<oompIndex>01</oompIndex>
 		<oompVersion>40</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth>6 mm</ooWidth>
-        <ooHeight>3.5 mm</ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth>3.5 mm</ooDepth><com>Description</com>
-        <ooNumPins>2</ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime>50 000 cycles</ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
+		<ooWidth>6 mm</ooWidth>
+		<ooHeight>3.5 mm</ooHeight>
+		<ooDepth>3.5 mm</ooDepth>
+		<ooNumPins>2</ooNumPins>
+		<ooLifetime>50 000 cycles</ooLifetime>
 		<sourceList>
 			<manufacturer>
 				<company>Shenzhen Best</company>
@@ -38,13 +23,9 @@
 				<name></name>
 				<partID>TS-1101F</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
-			
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
@@ -55,25 +36,10 @@
 				<oplPackage>2P-L6.0*W3.0*H4.3mm-90D</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout>A simple tactile pushbutton with two pins. This button is not commonly used. However it is imcluded in OOMP due to it being a part in the SEEED OPL. For a more commonly used through hole button we recommend (BUTA-06-X-STAN-01)</oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem>
-				<drawItem>template;BUTA-XXXX-X-02PI-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
-		<ooDesignator>S1</ooDesignator>
-</oompPart>	
-	
+		</oplList>
+		<oompAbout>A simple tactile pushbutton with two pins. This button is not commonly used. However it is imcluded in OOMP due to it being a part in the SEEED OPL. For a more commonly used through hole button we recommend (BUTA-06-X-STAN-01)</oompAbout>
+		<oompSchem>
+			<drawItem>template;BUTA-XXXX-X-02PI-XX-schem</drawItem>
+		</oompSchem><ooDesignator>S1</ooDesignator>
+	</oompPart>
 </xml>

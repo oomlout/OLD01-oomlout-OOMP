@@ -1,49 +1,18 @@
 <xml>
-<oompPart>
-        <index>9876</index><com>OOMP Base</com>
-        <oompID>RESA-1268-X-O102X4-01</oompID>
-        <name>SMD (1206-8) 1k Ohm (x4) Resistor Array</name>
-        <hexID>RA1102</hexID>
-        <oompSort>12680001000</oompSort>
-        <oompType>RESA</oompType>
-        <oompSize>1268</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>O102X4</oompDesc>
-        <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion></oompVersion>		<oompSkip>true</oompSkip><com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize>
-<com>SMD</com>
+	<oompPart>
+		<index>9876</index>
+		<oompID>RESA-1268-X-O102X4-01</oompID>
+		<name>SMD (1206-8) 1k Ohm (x4) Resistor Array</name>
+		<hexID>RA1102</hexID>
+		<oompSort>12680001000</oompSort>
+		<oompType>RESA</oompType>
+		<oompSize>1268</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>O102X4</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>99</oompVersion>		<oompSkip>true</oompSkip>
+		<com>SMD</com>
 		<ooPackageMarking>102</ooPackageMarking>
-<com>Description</com>
-        <ooMaterial></ooMaterial>
-        <ooNumPins></ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating><com>Hardware</com>
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize><com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance><com>Heat Shrink</com>
-        <ooShrinkRatio></ooShrinkRatio><com>LED</com>
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY><com>Plug</com>
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength><com>Source List</com>		
 		<sourceList>
 			<manufacturer>
 				<company>Bourns</company>
@@ -51,7 +20,7 @@
 				<name></name>
 				<partID>CAT16-102J4LF</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<manufacturer>
 				<company>RoyalOhm</company>
@@ -59,24 +28,23 @@
 				<name></name>
 				<partID>4D02-WG-J-0102-T-5</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
-		<bigDistributor>
+			<bigDistributor>
 				<company>DigiKey</company>
 				<companyCode>C-DIGK</companyCode>
 				<name>RES ARRAY 1K OHM 4 RES 1206</name>
 				<partID>CAT16-102J4LFCT-ND</partID>
 				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/CAT16-102J4LF/CAT16-102J4LFCT-ND/3593006]]></link>
 				<note></note>
-			</bigDistributor>			<bigDistributor>
+				</bigDistributor>			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
 				<name>BOURNS  CAT16-102J4LF  RESISTOR ARRAY, 1206, 1K</name>
 				<partID>1770121</partID>
 				<link><![CDATA[http://uk.farnell.com/bourns/cat16-102j4lf/resistor-array-1206-1k/dp/1770121]]></link>
 				<note></note>
-			</bigDistributor>			
+			</bigDistributor>
 			<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
@@ -92,62 +60,44 @@
 				<partID>522-5406</partID>
 				<link><![CDATA[http://uk.rs-online.com/web/p/array-resistors/5225406/?searchTerm=CAT16-102J4LF&relevancy-data=636F3D3226696E3D4931384E4B6E6F776E41734D504E266C753D656E266D6D3D6D61746368616C6C7061727469616C26706D3D5E5B5C707B4C7D5C707B4E647D2D2C2F255C2E5D2B2426706F3D313326736E3D592673743D4D414E5F504152545F4E554D4245522677633D424F5448267573743D43415431362D3130324A344C4626]]></link>
 				<note></note>
-			</bigDistributor>		
-			
+			</bigDistributor>
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
-	<oplList>
-			<oplSystem>
-				<oplScheme>Circuithub.com</oplScheme>
-				<oplCode>C-CIRC</oplCode>
-				<oplName>BOURNS/CAT16-102J4LF</oplName>
-				<oplID>BOURNS/CAT16-102J4LF</oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[https://circuithub.com/parts/BOURNS/CAT16-102J4LF]]></oplLink>
-			</oplSystem>
-			<oplSystem>
-				<oplScheme>Octopart CPL</oplScheme>
-				<oplCode>C-OCTO</oplCode>
-				<oplName>Resistor Array 1k Ohm 1206 62 mW x4</oplName>
-				<oplID>Resistor Array 1k Ohm 1206 62 mW x4</oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[https://octopart.com/common-parts-library#ResistorArrays]]></oplLink>
-			</oplSystem>
-			<oplSystem>
-				<oplScheme>SEEED OPL</oplScheme>
-				<oplCode>C-SEEE</oplCode>
-				<oplName>SMD RES Array 1k-4R</oplName>
-				<oplID>301030012</oplID>
-				<oplFootprint>1206-8</oplFootprint>
-				<oplPackage>1206-8</oplPackage>
-				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
-			</oplSystem>			
+			<oplList>
+				<oplSystem>
+					<oplScheme>Circuithub.com</oplScheme>
+					<oplCode>C-CIRC</oplCode>
+					<oplName>BOURNS/CAT16-102J4LF</oplName>
+					<oplID>BOURNS/CAT16-102J4LF</oplID>
+					<oplFootprint></oplFootprint>
+					<oplPackage></oplPackage>
+					<oplLink><![CDATA[https://circuithub.com/parts/BOURNS/CAT16-102J4LF]]></oplLink>
+				</oplSystem>
+				<oplSystem>
+					<oplScheme>Octopart CPL</oplScheme>
+					<oplCode>C-OCTO</oplCode>
+					<oplName>Resistor Array 1k Ohm 1206 62 mW x4</oplName>
+					<oplID>Resistor Array 1k Ohm 1206 62 mW x4</oplID>
+					<oplFootprint></oplFootprint>
+					<oplPackage></oplPackage>
+					<oplLink><![CDATA[https://octopart.com/common-parts-library#ResistorArrays]]></oplLink>
+				</oplSystem>
+				<oplSystem>
+					<oplScheme>SEEED OPL</oplScheme>
+					<oplCode>C-SEEE</oplCode>
+					<oplName>SMD RES Array 1k-4R</oplName>
+					<oplID>301030012</oplID>
+					<oplFootprint>1206-8</oplFootprint>
+					<oplPackage>1206-8</oplPackage>
+					<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
+				</oplSystem>
+			</oplList>
 		</oplList>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-    
-	<oompClass>Surface Mount</oompClass>
-	<oompClassCode>SMDS</oompClassCode>
-	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem>
-		<drawItem>template;RESA-XXXX-X-XXX4-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+		<oompClass>Surface Mount</oompClass>
+		<oompClassCode>SMDS</oompClassCode>
+		<oompSchem>
+			<drawItem>template;RESA-XXXX-X-XXX4-XX-schem</drawItem>
+		</oompSchem>
 		<ooDesignator>RN1</ooDesignator>
-</oompPart>
+	</oompPart>
 </xml>

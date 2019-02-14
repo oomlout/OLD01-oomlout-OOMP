@@ -1,50 +1,24 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>ANTE-SMA-X-G24-01</oompID>
-        <name>SMA 2.4 Ghz Antenna</name>        
+	<oompPart><oompID>ANTE-SMA-X-G24-01</oompID>
+		<name>SMA 2.4 Ghz Antenna</name>
 		<hexID>AN24SM</hexID>
-        <oompSort>ANTESMAM4X4</oompSort>		
-		<oompClass></oompClass>
-		<oompClassCode></oompClassCode>		
-		
-        <oompType>ANTE</oompType>
-        <oompSize>SMA</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>G24</oompDesc>
-        <oompIndex>01</oompIndex>        
+		<oompSort>ANTESMAM4X4</oompSort>
+		<oompType>ANTE</oompType>
+		<oompSize>SMA</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>G24</oompDesc>
+		<oompIndex>01</oompIndex>
 		<oompVersion>98</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins></ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
-		<sourceList>
+<sourceList>
 			<manufacturer>
 				<company>DYRH</company>
 				<companyCode>C-DYRH</companyCode>
 				<name></name>
 				<partID>RH0111-30002</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
-		</sourceList>
-		
-<com>OPL</com>		
-		<oplList>
+			</sourceList><oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
@@ -54,25 +28,10 @@
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem>
-		<drawItem>template;ANTE-XXXX-X-XXXX-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+		</oplList>
+		<oompSchem>
+			<drawItem>template;ANTE-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
 		<ooDesignator>AE1</ooDesignator>
-</oompPart>	
-	
+	</oompPart>
 </xml>

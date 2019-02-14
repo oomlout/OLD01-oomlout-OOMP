@@ -1,44 +1,42 @@
 <xml>
-    <oompDistributor>
-            <code>D-DIGK</code>
-            <name>Digikey</name>
-    </oompDistributor>    
-    <oompDistributor>
-            <code>C-FARN</code>
-            <name>Farnell</name>
-    </oompDistributor>    
-    <oompDistributor>
-            <code>C-MOUS</code>
-            <name>Mouser</name>
-    </oompDistributor>    
-    <oompDistributor>
-            <code>C-RAPI</code>
-            <name>Rapid Electronics</name>
-    </oompDistributor>    
-    <oompDistributor>
-            <code>C-RSRS</code>
-            <name>RS</name>
-    </oompDistributor>    
-    <oompDistributor>
-            <code>C-ADAF</code>
-            <name>Adafruit</name>
-    </oompDistributor>    
 	<oompDistributor>
-            <code>C-OOML</code>
-            <name>Oomlout</name>
-    </oompDistributor>    
-    <oompDistributor>
-            <code>C-SEEE</code>
-            <name>Seeed Studio</name>
-    </oompDistributor>    
-    
-    <oompDistributor>
-            <code>C-SPAR</code>
-            <name>Sparkfun</name>
-    </oompDistributor>    
-    
+		<code>D-DIGK</code>
+		<name>Digikey</name>
+	</oompDistributor>
 	<oompDistributor>
-            <code></code>
-            <name></name>
-    </oompDistributor>    
+		<code>C-FARN</code>
+		<name>Farnell</name>
+	</oompDistributor>
+	<oompDistributor>
+		<code>C-MOUS</code>
+		<name>Mouser</name>
+	</oompDistributor>
+	<oompDistributor>
+		<code>C-RAPI</code>
+		<name>Rapid Electronics</name>
+	</oompDistributor>
+	<oompDistributor>
+		<code>C-RSRS</code>
+		<name>RS</name>
+	</oompDistributor>
+	<oompDistributor>
+		<code>C-ADAF</code>
+		<name>Adafruit</name>
+	</oompDistributor>
+	<oompDistributor>
+		<code>C-OOML</code>
+		<name>Oomlout</name>
+	</oompDistributor>
+	<oompDistributor>
+		<code>C-SEEE</code>
+		<name>Seeed Studio</name>
+	</oompDistributor>
+	<oompDistributor>
+		<code>C-SPAR</code>
+		<name>Sparkfun</name>
+	</oompDistributor>
+	<oompDistributor>
+		<code></code>
+		<name></name>
+	</oompDistributor>
 </xml>

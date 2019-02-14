@@ -1,36 +1,15 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>CERE-1263-X-MZ8-01</oompID>
-        <name>SMD (1206-3) 8 MHz Ceramic Resonator</name>        
+	<oompPart>
+		<oompID>CERE-1263-X-MZ8-01</oompID>
+		<name>SMD (1206-3) 8 MHz Ceramic Resonator</name>
 		<hexID>CR1638</hexID>
-        <oompSort>CERE1263MZ8</oompSort>		
-		<oompClass></oompClass>
-		<oompClassCode></oompClassCode>		
-		
-        <oompType>CERE</oompType>
-        <oompSize>1263</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>MZ8</oompDesc>
-        <oompIndex>01</oompIndex>        
+		<oompSort>CERE1263MZ8</oompSort>
+		<oompType>CERE</oompType>
+		<oompSize>1263</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>MZ8</oompDesc>
+		<oompIndex>01</oompIndex>
 		<oompVersion>98</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins></ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
 		<sourceList>
 			<manufacturer>
 				<company>Murata</company>
@@ -38,12 +17,9 @@
 				<name></name>
 				<partID>CSTCE8M00G55-RO</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
@@ -54,25 +30,10 @@
 				<oplPackage>3P-L3.2*W1.3mm</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem>
-		<drawItem>template;CERE-XXXX-X-XXXX-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+		</oplList>
+		<oompSchem>
+			<drawItem>template;CERE-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
 		<ooDesignator>X1</ooDesignator>
-</oompPart>	
-	
+	</oompPart>
 </xml>

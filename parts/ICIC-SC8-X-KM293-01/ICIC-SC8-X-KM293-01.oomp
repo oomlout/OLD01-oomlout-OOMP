@@ -1,36 +1,17 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>ICIC-SC8-X-KM293-01</oompID>
-        <name>8 Pin SMD (SOIC) Dual Differential Comparator (LM293)</name>        
+	<oompPart>
+		<oompID>ICIC-SC8-X-KM293-01</oompID>
+		<name>8 Pin SMD (SOIC) Dual Differential Comparator (LM293)</name>
 		<hexID>ICSM293</hexID>
-        <oompSort></oompSort>		
+		<oompSort></oompSort>
 		<oompClass>Surface Mount</oompClass>
-		<oompClassCode>SMDS</oompClassCode>		
-		
-        <oompType>ICIC</oompType>
-        <oompSize>SC8</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>KM293</oompDesc>
-        <oompIndex>01</oompIndex>        
+		<oompClassCode>SMDS</oompClassCode>
+		<oompType>ICIC</oompType>
+		<oompSize>SC8</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>KM293</oompDesc>
+		<oompIndex>01</oompIndex>
 		<oompVersion>40</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins></ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
 		<sourceList>
 			<manufacturer>
 				<company>Texas Instruments</company>
@@ -38,13 +19,9 @@
 				<name></name>
 				<partID>LM293D</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-			
-				</sourceList>
-				
-		
-<com>OPL</com>		
+		</sourceList>
 		<oplList>
 			<oplSystem>
 				<oplScheme>Seeed OPL</oplScheme>
@@ -56,24 +33,6 @@
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList>
-		
-		<com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem></oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>U1</ooDesignator>
-</oompPart>	
-	
+	</oompPart>
 </xml>

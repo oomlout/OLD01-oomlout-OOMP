@@ -1,47 +1,26 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>POTE-17-X-O103-69</oompID>
-        <name>17 mm 10k Ohm Potentiometer Panel Mount</name>        
+	<oompPart>
+		<oompID>POTE-17-X-O103-69</oompID>
+		<name>17 mm 10k Ohm Potentiometer Panel Mount</name>
 		<hexID>PT7103</hexID>
-        <oompSort></oompSort>		
+		<oompSort></oompSort>
 		<oompClass>Through Hole Component</oompClass>
-		<oompClassCode>THTH</oompClassCode>		
-		
-        <oompType>POTE</oompType>
-        <oompSize>17</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>O103</oompDesc>
-        <oompIndex>69</oompIndex>        
+		<oompClassCode>THTH</oompClassCode>
+		<oompType>POTE</oompType>
+		<oompSize>17</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>O103</oompDesc>
+		<oompIndex>69</oompIndex>
 		<oompVersion>40</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins></ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
-<sourceList>
+		<sourceList>
 			<manufacturer>
 				<company>TruOhm</company>
 				<companyCode>C-TRUO</companyCode>
 				<name></name>
 				<partID>TruOhm-POT17-103</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-			
-				
 			<bigDistributor>
 				<company>RapidOnline</company>
 				<companyCode>C-RAPI</companyCode>
@@ -51,26 +30,6 @@
 				<note></note>
 			</bigDistributor>
 		</sourceList>
-		
-<com>OPL</com>		
-		<oplList>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem></oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
 		<ooDesignator>VR1</ooDesignator>
-</oompPart>	
-	
+	</oompPart>
 </xml>

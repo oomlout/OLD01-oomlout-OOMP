@@ -1,185 +1,115 @@
-﻿<xml>    
+﻿<xml>
 	<oompPart>
-        <index>4128</index><!--OOMP Base -->
-        <oompID>BREB-P400-C-STAN-01</oompID>
-        <name>400 Point Clear Breadboard</name>
-        <hexID>BB4C</hexID>
-        <oompSort>P400</oompSort>
-        <oompType>BREB</oompType>
-        <oompSize>P400</oompSize>
-        <oompColor>C</oompColor>
-        <oompDesc>STAN</oompDesc>
-        <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion>99</oompVersion>
-<!--Size -->
-        <ooPitch>2.54 mm</ooPitch>
-        <ooWidth>53 mm</ooWidth>
-        <ooHeight>8.5 mm</ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>82 mm</ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize><!--Description -->
-        <ooMaterial></ooMaterial>
-        <ooNumPins></ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating>
-<!--Hardware -->
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize>
-<!--Maximums -->
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage>300 v</ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<!--Heat Shrink -->
-        <ooShrinkRatio></ooShrinkRatio>
-<!--LED -->
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY>
-<COM>Common Uses</COM>		
-		<usageList>
-			<useItem>
-				<useID>1</useID>
-				<importance>1</importance>
-				<useTitle>Prototyping</useTitle>
-				<useDescription>a base for prototyping new circuits.</useDescription>
-			</useItem>
-		</usageList>
-		<!--Plug -->
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength>
-<!--SEEED OPL (Open Parts Library) -->
-        <ooSEEEDsku></ooSEEEDsku>
-        <ooSEEEDdesc></ooSEEEDdesc>
-<!--Hidden -->
-        <oompVersion></oompVersion>
-        <ooNameLine1of2></ooNameLine1of2>
-        <ooNameLine2of2></ooNameLine2of2>
-        <ooNameLine1of3></ooNameLine1of3>
-        <ooNameLine2of3></ooNameLine2of3>
-        <ooNameLine3of3>Breadboard </ooNameLine3of3>
-        <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout>The start of any project. Great for quickly prototyping a new ciruit. Compatible with most 2.54 mm (0.1") components.</oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-        <ooSEEED3dModel></ooSEEED3dModel>
-<!-- -->    		<sourceList>
-			<manufacturer>
-				<company>Bud Industries</company>
-				<companyCode>C-BUDI</companyCode>
-				<name></name>
-				<partID>BB-32621</partID>
-				<link></link>
-				<note></note>			
-			</manufacturer>
-			<manufacturer>
-				<company>Multicomp</company>
-				<companyCode>C-MULTI</companyCode>
-				<name></name>
-				<partID>MCBB400</partID>
-				<link></link>
-				<note></note>			
-			</manufacturer>
-			<manufacturer>
-				<company>Cixi Industries</company>
-				<companyCode>C-CIXI</companyCode>
-				<name></name>
-				<partID>BB-801-2-72</partID>
-				<link></link>
-				<note></note>			
-			</manufacturer>
-				
-			<bigDistributor>
-			<company>DigiKey</company>
-				<companyCode>C-DIGK</companyCode>
-				<name>BB-32621</name>
-				<partID>377-2094-ND</partID>
-				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/BB-32621/377-2094-ND/4156445]]></link>
-				<note></note>
-			</bigDistributor><bigDistributor>
-			<company>Mouser</company>
-				<companyCode>C-MOUS</companyCode>
-				<name>BusBoard Prototype Systems BB400T</name>
-				<partID>854-BB400T</partID>
-				<link><![CDATA[http://uk.mouser.com/ProductDetail/BusBoard-Prototype-Systems/BB400T/?qs=sGAEpiMZZMsw61Ac3T98PzbKRAPAEF6k]]></link>
-				<note></note>
-			</bigDistributor>
-			
-			<bigDistributor>
-				<company>Farnell</company>
-				<companyCode>C-FARN</companyCode>
-				<name>MULTICOMP  MCBB400  BREADBOARD, SOLDERLESS, 300V, ABS</name>
-				<partID>2395961</partID>
-				<link><![CDATA[http://uk.farnell.com/multicomp/mcbb400/breadboard-solderless-300v-abs/dp/2395961]]></link>
-				<note></note>
-			</bigDistributor>	
-			<bigDistributor>
-				<company>Rapid Electronics</company>
-				<companyCode>C-RAPI</companyCode>
-				<name>Solderless Breadboard Transparent 400 Points</name>
-				<partID> 34-0671</partID>
-				<link><![CDATA[http://www.rapidonline.com/tools-equipment/solderless-breadboard-transparent-400-points-34-0671]]></link>
-				<note></note>
-			</bigDistributor>
-			<bigDistributor>
-				<company>Sparkfun</company>
-				<companyCode>C-SPAR</companyCode>
-				<name>Breadboard - Translucent Self-Adhesive (Clear)</name>
-				<partID>9567</partID>
-				<link><![CDATA[https://www.sparkfun.com/products/9567]]></link>
-				<note></note>
-			</bigDistributor>
-			<bigDistributor>
-				<company>Adafruit</company>
-				<companyCode>C-ADAF</companyCode>
-				<name>Half-size breadboard</name>
-				<partID>64</partID>
-				<link><![CDATA[https://www.adafruit.com/products/64]]></link>
-				<note></note>
-			</bigDistributor>
-			<bigDistributor>
-				<company>Oomlout</company>
-				<companyCode>C-OOML</companyCode>
-				<name>Breadboard (400 point)</name>
-				<partID>BREB-01</partID>
-				<link><![CDATA[http://oomlout.co.uk/products/breadboard-400-point]]></link>
-				<note></note>
-			</bigDistributor>						
-						
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
-				<note></note>
-			</bigDistributor>					
-		</sourceList>
-		<oplList>
-		</oplList>
-	<oompClass>Wiring</oompClass>
-	<oompClassCode>WIRE</oompClassCode>
-	<oompBbls>
-		<drawItem>template;BREB-P400-C-STAN-01-bbls</drawItem>
-	</oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem></oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
-</oompPart>
-</xml>
+		<index>4128</index>
+			<oompID>BREB-P400-C-STAN-01</oompID>
+			<name>400 Point Clear Breadboard</name>
+			<hexID>BB4C</hexID>
+			<oompSort>P400</oompSort>
+			<oompType>BREB</oompType>
+			<oompSize>P400</oompSize>
+			<oompColor>C</oompColor>
+			<oompDesc>STAN</oompDesc>
+			<oompIndex>01</oompIndex>
+			<oompVersion>99</oompVersion><ooPitch>2.54 mm</ooPitch>
+			<ooWidth>53 mm</ooWidth>
+			<ooHeight>8.5 mm</ooHeight>
+			<ooLength>82 mm</ooLength>
+			<ooMaxVoltage>300 v</ooMaxVoltage>
+			<usageList>
+				<useItem>
+					<useID>1</useID>
+					<importance>1</importance>
+					<useTitle>Prototyping</useTitle>
+					<useDescription>a base for prototyping new circuits.</useDescription>
+				</useItem>
+			</usageList>
+			<ooNameLine3of3>Breadboard </ooNameLine3of3><oompAbout>The start of any project. Great for quickly prototyping a new ciruit. Compatible with most 2.54 mm (0.1") components.</oompAbout>
+			<sourceList>
+				<manufacturer>
+					<company>Bud Industries</company>
+					<companyCode>C-BUDI</companyCode>
+					<name></name>
+					<partID>BB-32621</partID>
+					<link></link>
+					<note></note>
+				</manufacturer>
+				<manufacturer>
+					<company>Multicomp</company>
+					<companyCode>C-MULTI</companyCode>
+					<name></name>
+					<partID>MCBB400</partID>
+					<link></link>
+					<note></note>
+				</manufacturer>
+				<manufacturer>
+					<company>Cixi Industries</company>
+					<companyCode>C-CIXI</companyCode>
+					<name></name>
+					<partID>BB-801-2-72</partID>
+					<link></link>
+					<note></note>
+				</manufacturer>
+				<bigDistributor>
+					<company>DigiKey</company>
+					<companyCode>C-DIGK</companyCode>
+					<name>BB-32621</name>
+					<partID>377-2094-ND</partID>
+					<link><![CDATA[http://www.digikey.co.uk/product-detail/en/BB-32621/377-2094-ND/4156445]]></link>
+					<note></note>
+				</bigDistributor>
+				<bigDistributor>
+					<company>Mouser</company>
+					<companyCode>C-MOUS</companyCode>
+					<name>BusBoard Prototype Systems BB400T</name>
+					<partID>854-BB400T</partID>
+					<link><![CDATA[http://uk.mouser.com/ProductDetail/BusBoard-Prototype-Systems/BB400T/?qs=sGAEpiMZZMsw61Ac3T98PzbKRAPAEF6k]]></link>
+					<note></note>
+				</bigDistributor>
+				<bigDistributor>
+					<company>Farnell</company>
+					<companyCode>C-FARN</companyCode>
+					<name>MULTICOMP  MCBB400  BREADBOARD, SOLDERLESS, 300V, ABS</name>
+					<partID>2395961</partID>
+					<link><![CDATA[http://uk.farnell.com/multicomp/mcbb400/breadboard-solderless-300v-abs/dp/2395961]]></link>
+					<note></note>
+				</bigDistributor>
+				<bigDistributor>
+					<company>Rapid Electronics</company>
+					<companyCode>C-RAPI</companyCode>
+					<name>Solderless Breadboard Transparent 400 Points</name>
+					<partID> 34-0671</partID>
+					<link><![CDATA[http://www.rapidonline.com/tools-equipment/solderless-breadboard-transparent-400-points-34-0671]]></link>
+					<note></note>
+				</bigDistributor>
+				<bigDistributor>
+					<company>Sparkfun</company>
+					<companyCode>C-SPAR</companyCode>
+					<name>Breadboard - Translucent Self-Adhesive (Clear)</name>
+					<partID>9567</partID>
+					<link><![CDATA[https://www.sparkfun.com/products/9567]]></link>
+					<note></note>
+				</bigDistributor>
+				<bigDistributor>
+					<company>Adafruit</company>
+					<companyCode>C-ADAF</companyCode>
+					<name>Half-size breadboard</name>
+					<partID>64</partID>
+					<link><![CDATA[https://www.adafruit.com/products/64]]></link>
+					<note></note>
+				</bigDistributor>
+				<bigDistributor>
+					<company>Oomlout</company>
+					<companyCode>C-OOML</companyCode>
+					<name>Breadboard (400 point)</name>
+					<partID>BREB-01</partID>
+					<link><![CDATA[http://oomlout.co.uk/products/breadboard-400-point]]></link>
+					<note></note>
+				</bigDistributor>
+			</sourceList>
+			<oompClass>Wiring</oompClass>
+			<oompClassCode>WIRE</oompClassCode>
+			<oompBbls>
+				<drawItem>template;BREB-P400-C-STAN-01-bbls</drawItem>
+			</oompBbls>
+		</oompPart>
+</xml>		

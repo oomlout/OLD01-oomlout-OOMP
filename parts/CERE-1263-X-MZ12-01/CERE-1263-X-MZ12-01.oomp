@@ -1,46 +1,29 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>CERE-1263-X-MZ12-01</oompID>
-        <name>SMD (1206-3) 12 MHz Ceramic Resonator</name>        
+	<oompPart>
+		<oompID>CERE-1263-X-MZ12-01</oompID>
+		<name>SMD (1206-3) 12 MHz Ceramic Resonator</name>
 		<hexID>CR16312</hexID>
-        <oompSort></oompSort>		
+		<oompSort></oompSort>
 		<oompClass>Surface Mount</oompClass>
-		<oompClassCode>SDMS</oompClassCode>		
-		
-        <oompType>CERE</oompType>
-        <oompSize>1263</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>MZ12</oompDesc>
-        <oompIndex>01</oompIndex>        
+		<oompClassCode>SDMS</oompClassCode>
+		<oompType>CERE</oompType>
+		<oompSize>1263</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>MZ12</oompDesc>
+		<oompIndex>01</oompIndex>
 		<oompVersion>99</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth>3.2 mm</ooWidth>
-        <ooHeight>0.9 mm</ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>1.3 mm</ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins></ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
-<sourceList>
+		<ooWidth>3.2 mm</ooWidth>
+		<ooHeight>0.9 mm</ooHeight>
+		<ooLength>1.3 mm</ooLength>
+		<sourceList>
 			<manufacturer>
 				<company>Murata</company>
 				<companyCode>C-MURA</companyCode>
 				<name></name>
 				<partID>CSTCE12M0G55-R0</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 			<bigDistributor>
 				<company>DigiKey</company>
 				<companyCode>C-DIGK</companyCode>
@@ -48,7 +31,7 @@
 				<partID>490-1197-1-ND</partID>
 				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/murata-electronics-north-america/CSTCE12M0G55-R0/490-1197-1-ND/584634]]></link>
 				<note></note>
-			</bigDistributor>			
+			</bigDistributor>
 			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
@@ -56,7 +39,7 @@
 				<partID>2470357</partID>
 				<link><![CDATA[http://uk.farnell.com/murata/cstce12m0g55z-r0/resonator-ceramic-12mhz-smd/dp/2470357]]></link>
 				<note></note>
-			</bigDistributor>			
+			</bigDistributor>
 			<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
@@ -72,10 +55,8 @@
 				<partID>721-4809</partID>
 				<link><![CDATA[http://uk.rs-online.com/web/p/ceramic-resonators/7214809/]]></link>
 				<note></note>
-			</bigDistributor>	
+			</bigDistributor>
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
@@ -86,25 +67,10 @@
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem>
-		<drawItem>template;CERE-XXXX-X-XXXX-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+		</oplList>
+		<oompSchem>
+			<drawItem>template;CERE-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
 		<ooDesignator>X1</ooDesignator>
-</oompPart>	
-	
+	</oompPart>
 </xml>

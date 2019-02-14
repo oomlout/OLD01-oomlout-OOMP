@@ -1,36 +1,18 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>FERB-0805-X-O331-01</oompID>
-        <name>SMD (0805) 330 Ohm Ferrite Bead</name>        
+	<oompPart>
+		<oompID>FERB-0805-X-O331-01</oompID>
+		<name>SMD (0805) 330 Ohm Ferrite Bead</name>
 		<hexID>F85331</hexID>
-        <oompSort>FERB0805O331</oompSort>		
-		<oompClass></oompClass>
-		<oompClassCode></oompClassCode>		
-		
-        <oompType>FERB</oompType>
-        <oompSize>0805</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>O331</oompDesc>
-        <oompIndex>01</oompIndex>        
+		<oompSort>FERB0805O331</oompSort>
+		<oompType>FERB</oompType>
+		<oompSize>0805</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>O331</oompDesc>
+		<oompIndex>01</oompIndex>
 		<oompVersion>98</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth>1.25</ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>2</ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins>2</ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
+		<ooWidth>1.25</ooWidth>
+		<ooLength>2</ooLength>
+		<ooNumPins>2</ooNumPins>
 		<sourceList>
 			<manufacturer>
 				<company>Murata</company>
@@ -38,9 +20,8 @@
 				<name></name>
 				<partID>BLM21PG331SN1D</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 			<bigDistributor>
 				<company>Digikey</company>
 				<companyCode>C-DIGK</companyCode>
@@ -48,14 +29,14 @@
 				<partID>BLM21PG331SN1D</partID>
 				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=BLM21PG331SN1D]]></link>
 				<note></note>
-			</bigDistributor>								<bigDistributor>
+				</bigDistributor>								<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
 				<name></name>
 				<partID>81-BLM21P331SG</partID>
 				<link><![CDATA[http://www.mouser.co.uk/Search/Refine.aspx?Keyword=81-BLM21P331SG]]></link>
 				<note></note>
-			</bigDistributor>	
+			</bigDistributor>
 			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
@@ -63,7 +44,7 @@
 				<partID>1515663</partID>
 				<link><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=1515663]]></link>
 				<note></note>
-			</bigDistributor>	
+			</bigDistributor>
 			<bigDistributor>
 				<company>RS Electronics</company>
 				<companyCode>C-RSRS</companyCode>
@@ -71,7 +52,7 @@
 				<partID>724-1545</partID>
 				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=724-1545]]></link>
 				<note></note>
-			</bigDistributor>	
+			</bigDistributor>
 			<bigDistributor>
 				<company>Rapid Electronics</company>
 				<companyCode>C-RAPI</companyCode>
@@ -79,10 +60,8 @@
 				<partID> 59-225</partID>
 				<link><![CDATA[http://www.rapidonline.com/Search?query= 59-225&filterSearchScope=1]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
@@ -93,21 +72,7 @@
 				<oplPackage>805</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    </oompPart>	
-	<oompBbls></oompBbls>	
-	<oompDiag></oompDiag>	
-	<oompIden></oompIden>	
-	<oompSchem></oompSchem>	
-	<oompSimp></oompSimp>			<ooPackageMarking></ooPackageMarking>
-		<ooDesignator>L</ooDesignator>
+		</oplList>
+		<ooDesignator>L1</ooDesignator>
+	</oompPart>
 </xml>

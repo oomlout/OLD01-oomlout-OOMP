@@ -1,96 +1,25 @@
-﻿<xml>    
+﻿<xml>
 	<oompPart>
-        <index>4195</index><!--OOMP Base -->
-        <oompID>NHFF-M3-X-12-01</oompID>
-        <name>M3 x 12 mm Nylon Standoff (F-F)</name>
-        <hexID>NFF12</hexID>
-        <oompSort>M3M312</oompSort>
-        <oompType>NHFF</oompType>
-        <oompSize>M3</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>12</oompDesc>
-        <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion>31</oompVersion>
-<!--Size -->
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize>
-<!--Manufacturer -->
-        <ooManufacturer></ooManufacturer>
-        <ooManufacturerPartNumber></ooManufacturerPartNumber>
-<!--Description -->
-        <ooMaterial></ooMaterial>
-        <ooNumPins></ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating>
-<!--Hardware -->
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize>
-<!--Maximums -->
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<!--Heat Shrink -->
-        <ooShrinkRatio></ooShrinkRatio>
-<!--LED -->
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY>
-<COM>Common Uses</COM>		
-		<usageList>
-			<useItem>
-				<useID>1</useID>
-				<importance>1</importance>
-				<useTitle></useTitle>
-				<useDescription></useDescription>
-			</useItem>
-		</usageList>
-		<!--Plug -->
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength>
-<!--SEEED OPL (Open Parts Library) -->
-        <ooSEEEDsku></ooSEEEDsku>
-        <ooSEEEDdesc></ooSEEEDdesc>
-<!--Hidden -->
-        <oompVersion></oompVersion>
-        <ooNameLine1of2></ooNameLine1of2>
-        <ooNameLine2of2></ooNameLine2of2>
-        <ooNameLine1of3></ooNameLine1of3>
-        <ooNameLine2of3></ooNameLine2of3>
-        <ooNameLine3of3></ooNameLine3of3>
-        <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-        <ooSEEED3dModel></ooSEEED3dModel>
-<!-- -->    		<sourceList>
+		<index>4195</index>
+		<oompID>NHFF-M3-X-12-01</oompID>
+		<name>M3 x 12 mm Nylon Standoff (F-F)</name>
+		<hexID>NFF12</hexID>
+		<oompSort>M3M312</oompSort>
+		<oompType>NHFF</oompType>
+		<oompSize>M3</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>12</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>31</oompVersion>
+		<sourceList>
 			<manufacturer>
 				<company>Keystone Electronics</company>
 				<companyCode>C-KEYS</companyCode>
 				<name></name>
 				<partID>25511</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 			<bigDistributor>
 				<company>DigiKey</company>
 				<companyCode>C-DIGK</companyCode>
@@ -98,8 +27,7 @@
 				<partID>36-25511-ND</partID>
 				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/keystone-electronics/25511/36-25511-ND/1532189]]></link>
 				<note></note>
-			</bigDistributor>			
-		
+			</bigDistributor>
 			<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
@@ -108,25 +36,8 @@
 				<link><![CDATA[http://www.mouser.co.uk/ProductDetail/Keystone-Electronics/25511/?qs=%2fha2pyFadugenAX7QbWVFCpZwkk95tJj9%252b9EidT6DBuI7cNDtuDhiw%3d%3d]]></link>
 				<note></note>
 			</bigDistributor>
-
 		</sourceList>
-		<oplList>
-			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[ ]]></oplLink>
-			</oplSystem>
-		</oplList>		<oompClass>Hardware</oompClass>
+		<oompClass>Hardware</oompClass>
 		<oompClassCode>HARD</oompClassCode>
-	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem></oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
-</oompPart>
+	</oompPart>
 </xml>

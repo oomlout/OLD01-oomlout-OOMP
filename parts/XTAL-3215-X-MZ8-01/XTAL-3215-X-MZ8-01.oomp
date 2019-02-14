@@ -1,36 +1,16 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>XTAL-3215-X-MZ8-01</oompID>
-        <name>SMD (3215) 8 MHz Crystal</name>        
+	<oompPart>
+		<oompID>XTAL-3215-X-MZ8-01</oompID>
+		<name>SMD (3215) 8 MHz Crystal</name>
 		<hexID>XS38</hexID>
-        <oompSort>XTAL3215MZ8</oompSort>		
-		<oompClass></oompClass>
-		<oompClassCode></oompClassCode>		
-		
-        <oompType>XTAL</oompType>
-        <oompSize>3215</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>MZ8</oompDesc>
-        <oompIndex>01</oompIndex>        
+		<oompSort>XTAL3215MZ8</oompSort><oompType>XTAL</oompType>
+		<oompSize>3215</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>MZ8</oompDesc>
+		<oompIndex>01</oompIndex>
 		<oompVersion>98</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth>1.5 mm</ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>3.2 mm</ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins>2</ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
+		<ooWidth>1.5 mm</ooWidth>
+		<ooLength>3.2 mm</ooLength><ooNumPins>2</ooNumPins>
 		<sourceList>
 			<manufacturer>
 				<company>Murata</company>
@@ -38,24 +18,22 @@
 				<name></name>
 				<partID>CSTCE8M00G15L99-R0</partID>
 				<link></link>
-				<note></note>			
-			</manufacturer>
-				
-			<bigDistributor>
+				<note></note>
+				</manufacturer><bigDistributor>
 				<company>Digikey</company>
 				<companyCode>C-DIGK</companyCode>
 				<name></name>
 				<partID>490-11071-1-ND</partID>
 				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=490-11071-1-ND]]></link>
 				<note></note>
-			</bigDistributor>								<bigDistributor>
+				</bigDistributor><bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
 				<name></name>
 				<partID>81-CSTCE8M00G15L99R0</partID>
 				<link><![CDATA[http://www.mouser.co.uk/Search/Refine.aspx?Keyword=81-CSTCE8M00G15L99R0]]></link>
 				<note></note>
-			</bigDistributor>	
+			</bigDistributor>
 			<bigDistributor>
 				<company>RS Electronics</company>
 				<companyCode>C-RSRS</companyCode>
@@ -63,10 +41,8 @@
 				<partID>747-4732</partID>
 				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=747-4732]]></link>
 				<note></note>
-			</bigDistributor>		
+			</bigDistributor>
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
@@ -77,23 +53,7 @@
 				<oplPackage>W1.3*L3.2*H1.1mm</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    </oompPart>	
-	<oompBbls></oompBbls>	
-	<oompDiag></oompDiag>	
-	<oompIden></oompIden>	
-	<oompSchem></oompSchem>	
-	<oompSimp></oompSimp>			<ooPackageMarking></ooPackageMarking>
+		</oplList>
 		<ooDesignator>X</ooDesignator>
-		
-</oompPart>		
+	</oompPart>
 </xml>

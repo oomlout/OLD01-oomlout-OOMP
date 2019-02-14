@@ -1,52 +1,51 @@
 <xml>
-    <oompFootprint>
-            <code>C-EAGL</code>
-			<shortName>Eagle Default</shortName>
-            <name>Eagle Default Footprint Library (Eagle)</name>				
-			<link></link>
-			<about></about>
-    </oompFootprint>    
-    <oompFootprint>
-            <code>C-KICA</code>
-			<shortName>Kicad Default</shortName>
-            <name>Kicad Footprint Library (Eagle)</name>				
-			<link></link>
-			<about></about>
-    </oompFootprint>    
-    <oompFootprint>
-            <code>C-ADAF</code>
-			<shortName>Adafruit</shortName>
-            <name>AdaFruit Footprint Library (Eagle)</name>				
-			<link></link>
-			<about></about>
-    </oompFootprint>    
-    <oompFootprint>
-            <code>C-DPDP</code>
-			<shortName>Dangerous Prototypes</shortName>
-            <name>Dangerous Prototype Footprint Library (Eagle)</name>				
-			<link></link>
-			<about></about>
-    </oompFootprint>    
-    <oompFootprint>
-            <code>C-OOMP</code>
-			<shortName>OOMP</shortName>
-            <name>OOMP Footprint Library</name>				
-			<link></link>
-			<about></about>
-    </oompFootprint>    
-    <oompFootprint>
-            <code>C-SEEE</code>
-			<shortName>SEEED Studio</shortName>
-            <name>SEEED OPL Footprint Library (Eagle)</name>		
-			<link></link>
-			<about></about>		
-    </oompFootprint>    
-    <oompFootprint>
-            <code>C-SPAR</code>
-			<shortName>Sparkfun</shortName>
-            <name>Sparkfun Footprint Library (Eagle)</name>			
-			<link></link>
-			<about></about>
-    </oompFootprint>    
-	
+	<oompFootprint>
+		<code>C-EAGL</code>
+		<shortName>Eagle Default</shortName>
+		<name>Eagle Default Footprint Library (Eagle)</name>
+		<link></link>
+		<about></about>
+	</oompFootprint>
+	<oompFootprint>
+		<code>C-KICA</code>
+		<shortName>Kicad Default</shortName>
+		<name>Kicad Footprint Library (Eagle)</name>
+		<link></link>
+		<about></about>
+	</oompFootprint>
+	<oompFootprint>
+		<code>C-ADAF</code>
+		<shortName>Adafruit</shortName>
+		<name>AdaFruit Footprint Library (Eagle)</name>
+		<link></link>
+		<about></about>
+	</oompFootprint>
+	<oompFootprint>
+		<code>C-DPDP</code>
+		<shortName>Dangerous Prototypes</shortName>
+		<name>Dangerous Prototype Footprint Library (Eagle)</name>
+		<link></link>
+		<about></about>
+	</oompFootprint>
+	<oompFootprint>
+		<code>C-OOMP</code>
+		<shortName>OOMP</shortName>
+		<name>OOMP Footprint Library</name>
+		<link></link>
+		<about></about>
+	</oompFootprint>
+	<oompFootprint>
+		<code>C-SEEE</code>
+		<shortName>SEEED Studio</shortName>
+		<name>SEEED OPL Footprint Library (Eagle)</name>
+		<link></link>
+		<about></about>
+	</oompFootprint>
+	<oompFootprint>
+		<code>C-SPAR</code>
+		<shortName>Sparkfun</shortName>
+		<name>Sparkfun Footprint Library (Eagle)</name>
+		<link></link>
+		<about></about>
+	</oompFootprint>
 </xml>

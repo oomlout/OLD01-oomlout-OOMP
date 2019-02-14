@@ -1,106 +1,32 @@
-﻿<xml>    
+﻿<xml>
 	<oompPart>
-        <index>4290</index><!--OOMP Base -->
-        <oompID>HEAF-I01-Y-08PI-01</oompID>
-        <name>2.54 mm 8 Pin Yellow Female Header</name>
-        <hexID>10C2</hexID>
-        <oompSort>010803</oompSort>
-        <oompType>HEAF</oompType>
-        <oompSize>I01</oompSize>
-        <oompColor>Y</oompColor>
-        <oompDesc>08PI</oompDesc>
-        <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion>99</oompVersion>
-<!--Size -->
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize>
-<!--Manufacturer -->
-        <ooManufacturer>C-YXCO</ooManufacturer>
-        <ooManufacturerPartNumber>F185-1108A1BSYC1</ooManufacturerPartNumber>
-<!--Description -->
-        <ooMaterial></ooMaterial>
-        <ooNumPins>8</ooNumPins>
+		<index>4290</index>
+		<oompID>HEAF-I01-Y-08PI-01</oompID>
+		<name>2.54 mm 8 Pin Yellow Female Header</name>
+		<hexID>10C2</hexID>
+		<oompSort>010803</oompSort>
+		<oompType>HEAF</oompType>
+		<oompSize>I01</oompSize>
+		<oompColor>Y</oompColor>
+		<oompDesc>08PI</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>99</oompVersion>
+		<ooManufacturer>C-YXCO</ooManufacturer>
+		<ooManufacturerPartNumber>F185-1108A1BSYC1</ooManufacturerPartNumber>
+		<ooNumPins>8</ooNumPins>
 		<ooFootprint>OOMP-HEAD-I01-X-08PI-01</ooFootprint>
-        
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating>
-<!--Hardware -->
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize>
-<!--Maximums -->
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<!--Heat Shrink -->
-        <ooShrinkRatio></ooShrinkRatio>
-<!--LED -->
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY>
-<COM>Common Uses</COM>		
-		<usageList>
-			<useItem>
-				<useID>1</useID>
-				<importance>1</importance>
-				<useTitle></useTitle>
-				<useDescription></useDescription>
-			</useItem>
-		</usageList>
-		<!--Plug -->
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength>
-<!--SEEED OPL (Open Parts Library) -->
-        <ooSEEEDsku>3460590P1</ooSEEEDsku>
-        <ooSEEEDdesc>DIP Yellow Female Header</ooSEEEDdesc>
-<!--Hidden -->
-        <oompVersion></oompVersion>
-        <ooNameLine1of2></ooNameLine1of2>
-        <ooNameLine2of2></ooNameLine2of2>
-        <ooNameLine1of3></ooNameLine1of3>
-        <ooNameLine2of3></ooNameLine2of3>
-        <ooNameLine3of3></ooNameLine3of3>
-        <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-        <ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:1X8P-2.54-8.5-YELLOW-FEMALE.zip</ooSEEED3dModel>
-<!-- -->    		<sourceList>
+		<ooSEEEDsku>3460590P1</ooSEEEDsku>
+		<ooSEEEDdesc>DIP Yellow Female Header</ooSEEEDdesc>
+		<ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:1X8P-2.54-8.5-YELLOW-FEMALE.zip</ooSEEED3dModel>
+		<sourceList>
 			<manufacturer>
 				<company>Yuxi</company>
 				<companyCode>C-YUXI</companyCode>
 				<name></name>
 				<partID>F185-1108A1BSYC1</partID>
 				<link></link>
-				<note></note>			
-			</manufacturer>
-				
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
 				<note></note>
-			</bigDistributor>					
+			</manufacturer>
 		</sourceList>
 		<oplList>
 			<oplSystem>
@@ -113,31 +39,29 @@
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList>
-	<oompBbls>
+		<oompBbls>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;8</drawItem>
+			<drawItem>template;XXXX-I01-X-XX-01-bbls</drawItem>
+		</oompBbls>
+		<oompDiag>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;8</drawItem>
+			<drawItem>template;HEAF-I01-X-XX-01-diag</drawItem>
+		</oompDiag>
 		<drawItem>variable;clear</drawItem>
 		<drawItem>variable;pins;8</drawItem>
-		<drawItem>template;XXXX-I01-X-XX-01-bbls</drawItem>
-	</oompBbls>
-	<oompDiag>
-		<drawItem>variable;clear</drawItem>
-		<drawItem>variable;pins;8</drawItem>
-		<drawItem>template;HEAF-I01-X-XX-01-diag</drawItem>
-	</oompDiag>
-	<oompIden></oompIden>
-		<drawItem>variable;clear</drawItem>
-		<drawItem>variable;pins;8</drawItem>
-		<drawItem>template;XXXX-I01-X-XX-01-iden</drawItem>		
-	<oompSchem>
-		<drawItem>variable;clear</drawItem>
-		<drawItem>variable;pins;8</drawItem>
-		<drawItem>template;XXXX-XX-X-XX-01-PINS-EVEN-schem</drawItem>	
-	</oompSchem>
-	<oompSimp>
-		<drawItem>variable;clear</drawItem>
-		<drawItem>variable;pins;8</drawItem>
-		<drawItem>template;XXXX-I01-X-XX-01-simp</drawItem>		
-	</oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+		<drawItem>template;XXXX-I01-X-XX-01-iden</drawItem>
+		<oompSchem>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;8</drawItem>
+			<drawItem>template;XXXX-XX-X-XX-01-PINS-EVEN-schem</drawItem>
+		</oompSchem>
+		<oompSimp>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;8</drawItem>
+			<drawItem>template;XXXX-I01-X-XX-01-simp</drawItem>
+		</oompSimp>
 		<ooDesignator>J1</ooDesignator>
-</oompPart>
+	</oompPart>
 </xml>

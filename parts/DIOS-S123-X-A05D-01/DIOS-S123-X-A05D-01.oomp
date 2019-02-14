@@ -1,36 +1,17 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>DIOS-S123-X-A05D-01</oompID>
-        <name>SMD (SOD-123) 500 mA Diode (Schottky)</name>        
+	<oompPart>
+		<oompID>DIOS-S123-X-A05D-01</oompID>
+		<name>SMD (SOD-123) 500 mA Diode (Schottky)</name>
 		<hexID>DS35D</hexID>
-        <oompSort></oompSort>		
+		<oompSort></oompSort>
 		<oompClass>Surface Mount</oompClass>
-		<oompClassCode>SMDS</oompClassCode>		
-		
-        <oompType>DIOS</oompType>
-        <oompSize>S123</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>A05D</oompDesc>
-        <oompIndex>01</oompIndex>        
+		<oompClassCode>SMDS</oompClassCode>
+		<oompType>DIOS</oompType>
+		<oompSize>S123</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>A05D</oompDesc>
+		<oompIndex>01</oompIndex>
 		<oompVersion>40</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins></ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
 		<sourceList>
 			<manufacturer>
 				<company>Panjit Semiconductor</company>
@@ -38,7 +19,7 @@
 				<name></name>
 				<partID>SS0520-7-F</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<manufacturer>
 				<company>On Semiconductors</company>
@@ -46,10 +27,8 @@
 				<name></name>
 				<partID>MBR0520LT1G</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
-				
 			<bigDistributor>
 				<company>SEEED</company>
 				<companyCode>C-SEEE</companyCode>
@@ -57,11 +36,8 @@
 				<partID>304020032</partID>
 				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=61]]></link>
 				<note></note>
-			</bigDistributor>	
-		
+			</bigDistributor>
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>Seeed OPL</oplScheme>
@@ -80,26 +56,11 @@
 				<oplFootprint>SOD-123</oplFootprint>
 				<oplPackage>SOD-123</oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=61]]></oplLink>
-			</oplSystem>						
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem>
-		<drawItem>template;DIOS-XXXX-X-XXXX-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+			</oplSystem>
+		</oplList>
+		<oompSchem>
+			<drawItem>template;DIOS-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
 		<ooDesignator>D1</ooDesignator>
-</oompPart>	
-	
+	</oompPart>
 </xml>

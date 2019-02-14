@@ -1,130 +1,36 @@
-﻿<xml>    
+﻿<xml>
 	<oompPart>
-        <index>3950</index><!--OOMP Base -->
-        <oompID>CRHO-I01-B-06PI-01</oompID>
-        <name>2.54 mm 6 Pin Black Crimp Housing</name>
-        <hexID>CH06</hexID>
-        <oompSort>010106</oompSort>
-        <oompType>CRHO</oompType>
-        <oompSize>I01</oompSize>
-        <oompColor>B</oompColor>
-        <oompDesc>06PI</oompDesc>
-        <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion>10</oompVersion>
-<!--Size -->
-        <ooPitch>2.54 mm</ooPitch>
-        <ooWidth>15.44 mm</ooWidth>
-        <ooHeight>14 mm</ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth>2.5 mm</ooDepth>
-        <ooWireSize></ooWireSize>
-<!--Manufacturer -->
-        <ooManufacturer></ooManufacturer>
-        <ooManufacturerPartNumber></ooManufacturerPartNumber>
-<!--Description -->
-        <ooMaterial>Plastic</ooMaterial>
-        <ooNumPins></ooNumPins>
-        <ooTerminalStyle>DuPont</ooTerminalStyle>
-        <ooPowerRating></ooPowerRating>
-<!--Hardware -->
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize>
-<!--Maximums -->
-        <ooMaxCurrent>3 A</ooMaxCurrent>
-        <ooMaxVoltage>250 V</ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<!--Heat Shrink -->
-        <ooShrinkRatio></ooShrinkRatio>
-<!--LED -->
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY>
-<COM>Common Uses</COM>		
-		<usageList>
-			<useItem>
-				<useID>1</useID>
-				<importance>1</importance>
-				<useTitle></useTitle>
-				<useDescription></useDescription>
-			</useItem>
-		</usageList>
-		<!--Plug -->
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength>
-<!--SEEED OPL (Open Parts Library) -->
-        <ooSEEEDsku></ooSEEEDsku>
-        <ooSEEEDdesc></ooSEEEDdesc>
-<!--Hidden -->
-        <oompVersion></oompVersion>
-        <ooNameLine1of2></ooNameLine1of2>
-        <ooNameLine2of2></ooNameLine2of2>
-        <ooNameLine1of3></ooNameLine1of3>
-        <ooNameLine2of3></ooNameLine2of3>
-        <ooNameLine3of3></ooNameLine3of3>
-        <ooFrontDiagram></ooFrontDiagram>
-        <oompAbout>These six pin connectors are often used simply when you find you have six wires that need connecting. However they can occasionally be found on a stepper motor being driven in uni-polar mode (A,B,ABCom,C,D,CDCom), or are also handy when paired with a ten pin connector to attach a parallel LCD screen to a project.</oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-        <ooSEEED3dModel></ooSEEED3dModel>
-<!-- -->    		<sourceList>
+		<index>3950</index>
+		<oompID>CRHO-I01-B-06PI-01</oompID>
+		<name>2.54 mm 6 Pin Black Crimp Housing</name>
+		<hexID>CH06</hexID>
+		<oompSort>010106</oompSort>
+		<oompType>CRHO</oompType>
+		<oompSize>I01</oompSize>
+		<oompColor>B</oompColor>
+		<oompDesc>06PI</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>10</oompVersion>
+		<ooPitch>2.54 mm</ooPitch>
+		<ooWidth>15.44 mm</ooWidth>
+		<ooHeight>14 mm</ooHeight>
+		<ooDepth>2.5 mm</ooDepth>
+		<ooMaterial>Plastic</ooMaterial>
+		<ooTerminalStyle>DuPont</ooTerminalStyle>
+		<ooMaxCurrent>3 A</ooMaxCurrent>
+		<ooMaxVoltage>250 V</ooMaxVoltage>
+		<oompAbout>These six pin connectors are often used simply when you find you have six wires that need connecting. However they can occasionally be found on a stepper motor being driven in uni-polar mode (A,B,ABCom,C,D,CDCom), or are also handy when paired with a ten pin connector to attach a parallel LCD screen to a project.</oompAbout>
+		<sourceList>
 			<manufacturer>
 				<company>4uCon</company>
 				<companyCode>C-4UCN</companyCode>
 				<name></name>
 				<partID>02046</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
-			<bigDistributor>
-				<company>Farnell</company>
-				<companyCode>C-FARN</companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
-				<note></note>
-			</bigDistributor>					
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
-				<note></note>
-			</bigDistributor>					
 		</sourceList>
-		<oplList>
-			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[ ]]></oplLink>
-			</oplSystem>
-		</oplList>	<oompClass>Through Hole Component</oompClass>
-	<oompClassCode>THTH</oompClassCode>
-	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem></oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
-</oompPart>
+		<oompClass>Through Hole Component</oompClass>
+		<oompClassCode>THTH</oompClassCode>
+	</oompPart>
 </xml>

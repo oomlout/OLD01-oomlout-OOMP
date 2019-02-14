@@ -1,50 +1,30 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>BAHO-CR1220-X-SMDS-01</oompID>
-        <name>CR1220 SMD Battery Holder</name>        
+	<oompPart><oompID>BAHO-CR1220-X-SMDS-01</oompID>
+		<name>CR1220 SMD Battery Holder</name>
 		<hexID>BHS1220</hexID>
-        <oompSort></oompSort>		
+		<oompSort></oompSort>
 		<oompClass>Surface Mount</oompClass>
-		<oompClassCode>SMDS</oompClassCode>		
-		
-        <oompType>BAHO</oompType>
-        <oompSize>CR1220</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>SMDS</oompDesc>
-        <oompIndex>01</oompIndex>        
+		<oompClassCode>SMDS</oompClassCode>
+		<oompType>BAHO</oompType>
+		<oompSize>CR1220</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>SMDS</oompDesc>
+		<oompIndex>01</oompIndex>
 		<oompVersion>40</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth>15.06 mm</ooWidth>
-        <ooHeight>4.10 mm</ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>15 mm</ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins>2</ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
-		<sourceList>
+		<ooWidth>15.06 mm</ooWidth>
+		<ooHeight>4.10 mm</ooHeight>
+		<ooLength>15 mm</ooLength>
+		<ooNumPins>2</ooNumPins>
+<sourceList>
 			<manufacturer>
 				<company>Unknown</company>
 				<companyCode>C-UNKN</companyCode>
 				<name></name>
 				<partID>CR1220-2</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
-		</sourceList>
-		
-<com>OPL</com>		
-		<oplList>	
+			</sourceList><oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
@@ -54,25 +34,11 @@
 				<oplPackage>CR1220-15.06*13.00*H4.1mm</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout>A surface mount battery holder for a CR1220 lithium ion button cell. Commonly used as a battery backup for on board clocks.</oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem>
-		<drawItem>template;BAHO-XXXX-X-XXXX-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+		</oplList>
+		<oompAbout>A surface mount battery holder for a CR1220 lithium ion button cell. Commonly used as a battery backup for on board clocks.</oompAbout>
+<oompSchem>
+			<drawItem>template;BAHO-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
 		<ooDesignator>BT1</ooDesignator>
-</oompPart>	
-	
+	</oompPart>
 </xml>

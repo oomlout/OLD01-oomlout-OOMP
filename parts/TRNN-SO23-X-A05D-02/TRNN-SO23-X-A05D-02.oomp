@@ -1,36 +1,16 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>TRNN-SO23-X-A05D-02</oompID>
-        <name>SMD (SOT-23) 500 mA NPN Transistor</name>        
+	<oompPart>
+		<oompID>TRNN-SO23-X-A05D-02</oompID>
+		<name>SMD (SOT-23) 500 mA NPN Transistor</name>
 		<hexID>TNS25D2</hexID>
-        <oompSort>TRNNSO23A05D</oompSort>		
-		<oompClass></oompClass>
-		<oompClassCode></oompClassCode>		
-		
-        <oompType>TRNN</oompType>
-        <oompSize>SO23</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>A05D</oompDesc>
-        <oompIndex>02</oompIndex>        
+		<oompSort>TRNNSO23A05D</oompSort>
+		<oompType>TRNN</oompType>
+		<oompSize>SO23</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>A05D</oompDesc>
+		<oompIndex>02</oompIndex>
 		<oompVersion>98</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins>3</ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
+		<ooNumPins>3</ooNumPins>
 		<sourceList>
 			<manufacturer>
 				<company>JCET</company>
@@ -38,7 +18,7 @@
 				<name></name>
 				<partID>S8050</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<manufacturer>
 				<company>Micro Commercial Co</company>
@@ -46,9 +26,8 @@
 				<name></name>
 				<partID>MMSS8050-L-TP</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 			<bigDistributor>
 				<company>Digikey</company>
 				<companyCode>C-DIGK</companyCode>
@@ -56,18 +35,15 @@
 				<partID>MMSS8050-L-TPMSDKR-ND</partID>
 				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=MMSS8050-L-TPMSDKR-ND]]></link>
 				<note></note>
-			</bigDistributor>								<bigDistributor>
+				</bigDistributor>								<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
 				<name></name>
 				<partID>833-MMSS8050-L-TP</partID>
 				<link><![CDATA[http://www.mouser.co.uk/Search/Refine.aspx?Keyword=833-MMSS8050-L-TP]]></link>
 				<note></note>
-			</bigDistributor>	
-				
+			</bigDistributor>
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
@@ -87,38 +63,23 @@
 				<oplPackage>SOT-23</oplPackage>
 				<oplLink><![CDATA[https://circuithub.com/parts/MMSS8050-H-TP]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    </oompPart>	
+		</oplList>
 		<ooPin1>B</ooPin1>
 		<ooPin2>E</ooPin2>
 		<ooPin3>C</ooPin3>
-	
-			<oompBbls>
-				<drawItem>template;XXXX-SO23-X-XXXX-01-bbls</drawItem>		
-	</oompBbls>	
-	<oompDiag>
-				<drawItem>template;XXXX-SO23-X-XXXX-01-diag</drawItem>	
-	</oompDiag>	
-	<oompIden>
-				<drawItem>template;XXXX-SO23-X-XXXX-01-iden</drawItem>	
-	</oompIden>	
-	<oompSchem></oompSchem>	
-	<oompSimp>
-				<drawItem>template;XXXX-SO23-X-XXXX-01-simp</drawItem>	
-	</oompSimp>	
-
+		<oompBbls>
+			<drawItem>template;XXXX-SO23-X-XXXX-01-bbls</drawItem>
+		</oompBbls>
+		<oompDiag>
+			<drawItem>template;XXXX-SO23-X-XXXX-01-diag</drawItem>
+		</oompDiag>
+		<oompIden>
+			<drawItem>template;XXXX-SO23-X-XXXX-01-iden</drawItem>
+		</oompIden>
+		<oompSimp>
+			<drawItem>template;XXXX-SO23-X-XXXX-01-simp</drawItem>
+		</oompSimp>
 		<ooPackageMarking>J3Y</ooPackageMarking>
 		<ooDesignator>Q1</ooDesignator>
-	
-	
-	
+	</oompPart>
 </xml>

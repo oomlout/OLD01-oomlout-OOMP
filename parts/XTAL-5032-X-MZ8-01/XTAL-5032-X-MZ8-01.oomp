@@ -1,36 +1,16 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>XTAL-5032-X-MZ8-01</oompID>
-        <name>SMD (5032) 8 MHz Crystal</name>        
+	<oompPart>
+		<oompID>XTAL-5032-X-MZ8-01</oompID>
+		<name>SMD (5032) 8 MHz Crystal</name>
 		<hexID>XS58</hexID>
-        <oompSort></oompSort>		
+		<oompSort></oompSort>
 		<oompClass>Surface Mount</oompClass>
-		<oompClassCode>SMDS</oompClassCode>		
-		
-        <oompType>XTAL</oompType>
-        <oompSize>5032</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>MZ8</oompDesc>
-        <oompIndex>01</oompIndex>        
+		<oompClassCode>SMDS</oompClassCode><oompType>XTAL</oompType>
+		<oompSize>5032</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>MZ8</oompDesc>
+		<oompIndex>01</oompIndex>
 		<oompVersion>40</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins></ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
 		<sourceList>
 			<manufacturer>
 				<company>Xinhunjing</company>
@@ -38,13 +18,9 @@
 				<name></name>
 				<partID>5032-4P</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
-								
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
@@ -55,25 +31,9 @@
 				<oplPackage>2P-L5.0*W3.2mm</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem>
-		<drawItem>template;XTAL-XXXX-X-XXXX-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
-		<ooDesignator>X1</ooDesignator>
-</oompPart>	
-	
+		</oplList>
+		<oompSchem>
+			<drawItem>template;XTAL-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem><ooDesignator>X1</ooDesignator>
+	</oompPart>
 </xml>

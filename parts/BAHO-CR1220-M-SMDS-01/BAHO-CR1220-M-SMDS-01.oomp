@@ -1,50 +1,14 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>BAHO-CR1220-M-SMDS-01</oompID>
-        <name>CR1220 SMD Metal Battery Holder</name>        
+	<oompPart><oompID>BAHO-CR1220-M-SMDS-01</oompID>
+		<name>CR1220 SMD Metal Battery Holder</name>
 		<hexID>BHS1220M</hexID>
-        <oompSort>BAHOCR1220SMDS</oompSort>		
-		<oompClass></oompClass>
-		<oompClassCode></oompClassCode>		
-		
-        <oompType>BAHO</oompType>
-        <oompSize>CR1220</oompSize>
-        <oompColor>M</oompColor>
-        <oompDesc>SMDS</oompDesc>
-        <oompIndex>01</oompIndex>        
-		<oompVersion>98</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins></ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
-		<sourceList>
-			<manufacturer>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID>0</partID>
-				<link></link>
-				<note></note>			
-			</manufacturer>
-				
-		</sourceList>
-		
-<com>OPL</com>		
-		<oplList>
+		<oompSort>BAHOCR1220SMDS</oompSort>
+		<oompType>BAHO</oompType>
+		<oompSize>CR1220</oompSize>
+		<oompColor>M</oompColor>
+		<oompDesc>SMDS</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>98</oompVersion><oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
@@ -54,25 +18,10 @@
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem>
-		<drawItem>template;BAHO-XXXX-X-XXXX-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+		</oplList>
+		<oompSchem>
+			<drawItem>template;BAHO-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
 		<ooDesignator>BT1</ooDesignator>
-</oompPart>	
-	
+	</oompPart>
 </xml>

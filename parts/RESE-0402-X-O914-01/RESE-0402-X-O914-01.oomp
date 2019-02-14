@@ -1,36 +1,18 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>RESE-0402-X-O914-01</oompID>
-        <name>SMD (0402) 910k Ohm Resistor</name>        
+	<oompPart>
+		<oompID>RESE-0402-X-O914-01</oompID>
+		<name>SMD (0402) 910k Ohm Resistor</name>
 		<hexID>R42914</hexID>
-        <oompSort>RESE0402O914</oompSort>		
-		<oompClass></oompClass>
-		<oompClassCode></oompClassCode>		
-		
-        <oompType>RESE</oompType>
-        <oompSize>0402</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>O914</oompDesc>
-        <oompIndex>01</oompIndex>        
+		<oompSort>RESE0402O914</oompSort>
+		<oompType>RESE</oompType>
+		<oompSize>0402</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>O914</oompDesc>
+		<oompIndex>01</oompIndex>
 		<oompVersion>98</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth>0.5 mm</ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>1.0 mm</ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins>2</ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
+		<ooWidth>0.5 mm</ooWidth>
+		<ooLength>1.0 mm</ooLength>
+		<ooNumPins>2</ooNumPins>
 		<sourceList>
 			<manufacturer>
 				<company>YAGEO</company>
@@ -38,9 +20,8 @@
 				<name></name>
 				<partID>RC0402JR-07910KL</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 			<bigDistributor>
 				<company>Digikey</company>
 				<companyCode>C-DIGK</companyCode>
@@ -48,11 +29,8 @@
 				<partID>YAG3319CT-ND</partID>
 				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=YAG3319CT-ND]]></link>
 				<note></note>
-			</bigDistributor>					
-				
+			</bigDistributor>
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
@@ -63,21 +41,7 @@
 				<oplPackage>402</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    </oompPart>	
-	<oompBbls></oompBbls>	
-	<oompDiag></oompDiag>	
-	<oompIden></oompIden>	
-	<oompSchem></oompSchem>	
-	<oompSimp></oompSimp>			<ooPackageMarking></ooPackageMarking>
-		<ooDesignator>R</ooDesignator>
+		</oplList>
+		<ooDesignator>R1</ooDesignator>
+	</oompPart>
 </xml>

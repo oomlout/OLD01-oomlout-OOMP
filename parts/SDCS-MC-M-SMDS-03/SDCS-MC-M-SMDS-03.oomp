@@ -1,36 +1,17 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>SDCS-MC-M-SMDS-03</oompID>
-        <name>Micro SMD Metal SD Card Socket</name>        
+	<oompPart>
+		<oompID>SDCS-MC-M-SMDS-03</oompID>
+		<name>Micro SMD Metal SD Card Socket</name>
 		<hexID>SDMS3</hexID>
-        <oompSort></oompSort>		
+		<oompSort></oompSort>
 		<oompClass>Surface Mount</oompClass>
-		<oompClassCode>SMDS</oompClassCode>		
-		
-        <oompType>SDCS</oompType>
-        <oompSize>MC</oompSize>
-        <oompColor>M</oompColor>
-        <oompDesc>SMDS</oompDesc>
-        <oompIndex>03</oompIndex>        
+		<oompClassCode>SMDS</oompClassCode>
+		<oompType>SDCS</oompType>
+		<oompSize>MC</oompSize>
+		<oompColor>M</oompColor>
+		<oompDesc>SMDS</oompDesc>
+		<oompIndex>03</oompIndex>
 		<oompVersion>40</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins></ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
 		<sourceList>
 			<manufacturer>
 				<company>Best</company>
@@ -38,12 +19,9 @@
 				<name></name>
 				<partID>TF-01-6D59</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>Seeed OPL</oplScheme>
@@ -54,23 +32,7 @@
 				<oplPackage>TF-01</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem></oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+		</oplList>
 		<ooDesignator>J1</ooDesignator>
-</oompPart>	
-	
+	</oompPart>
 </xml>

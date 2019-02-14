@@ -1,54 +1,23 @@
-﻿<xml>    
+﻿<xml>
 	<oompPart>
-        <index>4283</index><!--OOMP Base -->
-        <oompID>DCJP-21D-X-THTH-01</oompID>
-        <name>2.1 mm Through Hole DC Jack</name>
-        <hexID>DJ21</hexID>
-        <oompSort>THTH21D</oompSort>
-        <oompType>DCJP</oompType>
-        <oompSize>21D</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>THTH</oompDesc>
-        <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion>99</oompVersion>
-<!--Size -->
-        <ooPitch></ooPitch>
-        <ooWidth>14.2 mm</ooWidth>
-        <ooHeight>11 mm</ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>9 mm</ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize>
-<!--Manufacturer -->
-        <ooManufacturer>C-BEST</ooManufacturer>
-        <ooManufacturerPartNumber>DC-005</ooManufacturerPartNumber>
-<!--Description -->
-        <ooMaterial></ooMaterial>
-        <ooNumPins>3</ooNumPins>
+		<index>4283</index>
+		<oompID>DCJP-21D-X-THTH-01</oompID>
+		<name>2.1 mm Through Hole DC Jack</name>
+		<hexID>DJ21</hexID>
+		<oompSort>THTH21D</oompSort>
+		<oompType>DCJP</oompType>
+		<oompSize>21D</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>THTH</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>99</oompVersion>
+		<ooWidth>14.2 mm</ooWidth>
+		<ooHeight>11 mm</ooHeight>
+		<ooLength>9 mm</ooLength>
+		<ooManufacturer>C-BEST</ooManufacturer>
+		<ooManufacturerPartNumber>DC-005</ooManufacturerPartNumber>
+		<ooNumPins>3</ooNumPins>
 		<ooFootprint>OOMP-DCJP-21D-X-THTH-01</ooFootprint>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating>
-<!--Hardware -->
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize>
-<!--Maximums -->
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<!--Heat Shrink -->
-        <ooShrinkRatio></ooShrinkRatio>
-<!--LED -->
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY>
-<COM>Common Uses</COM>		
 		<usageList>
 			<useItem>
 				<useID>1</useID>
@@ -57,39 +26,18 @@
 				<useDescription>a socket for low voltage DC power.</useDescription>
 			</useItem>
 		</usageList>
-		<!--Plug -->
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength>
-<!--SEEED OPL (Open Parts Library) -->
-        <ooSEEEDsku>3410020P1</ooSEEEDsku>
-        <ooSEEEDdesc>CONN POWER JACK 2.1MM</ooSEEEDdesc>
-<!--Hidden -->
-        <oompVersion></oompVersion>
-        <ooNameLine1of2></ooNameLine1of2>
-        <ooNameLine2of2></ooNameLine2of2>
-        <ooNameLine1of3></ooNameLine1of3>
-        <ooNameLine2of3></ooNameLine2of3>
-        <ooNameLine3of3></ooNameLine3of3>
-        <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout>A commonly used adapter for connecting DC power to a project. Often reffered to as a barrel jack. It is common (although not always) practice to wire these up centre pin positive.</oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-        <ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:PW-3P-2.1.zip</ooSEEED3dModel>
-<!-- -->    		<sourceList>
+		<ooSEEEDsku>3410020P1</ooSEEEDsku>
+		<ooSEEEDdesc>CONN POWER JACK 2.1MM</ooSEEEDdesc>
+		<oompAbout>A commonly used adapter for connecting DC power to a project. Often reffered to as a barrel jack. It is common (although not always) practice to wire these up centre pin positive.</oompAbout>
+		<ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:PW-3P-2.1.zip</ooSEEED3dModel>
+		<sourceList>
 			<manufacturer>
 				<company>Shenzhen Best</company>
 				<companyCode>C-BEST</companyCode>
 				<name></name>
 				<partID>DC-005</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<manufacturer>
 				<company>CUI</company>
@@ -97,7 +45,7 @@
 				<name></name>
 				<partID>PJ-102A</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<manufacturer>
 				<company>Switchcraft</company>
@@ -105,18 +53,16 @@
 				<name></name>
 				<partID>RAPC722X</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 			<manufacturer>
 				<company>Multicomp</company>
 				<companyCode>C-MULT</companyCode>
 				<name></name>
 				<partID>MJ-179PH</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 			<bigDistributor>
 				<company>DigiKey</company>
 				<companyCode>C-DIGK</companyCode>
@@ -124,14 +70,14 @@
 				<partID>CP-102A-ND</partID>
 				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/PJ-102A/CP-102A-ND/275425]]></link>
 				<note></note>
-			</bigDistributor>			<bigDistributor>
+				</bigDistributor>			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
 				<name>MULTICOMP  MJ-179PH  SOCKET, LOW VOLTAGE, 12V, 5A</name>
 				<partID>1737246</partID>
 				<link><![CDATA[http://uk.farnell.com/multicomp/mj-179ph/socket-low-voltage-12v-5a/dp/1737246]]></link>
 				<note></note>
-			</bigDistributor>			
+			</bigDistributor>
 			<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
@@ -150,7 +96,7 @@
 			</bigDistributor>
 		</sourceList>
 		<oplList>
-				<oplSystem>
+			<oplSystem>
 				<oplScheme>Circuithub.com</oplScheme>
 				<oplCode>C-CIRC</oplCode>
 				<oplName>CUI/PJ-102A</oplName>
@@ -158,8 +104,7 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://circuithub.com/parts/CUI/PJ-102A]]></oplLink>
-			</oplSystem>		
-			
+			</oplSystem>
 			<oplSystem>
 				<oplScheme>Seeed Studio OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
@@ -169,7 +114,7 @@
 				<oplPackage>PW-3P-2.1</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList>	<COM>Common Uses</COM>		
+		</oplList>
 		<usageList>
 			<useItem>
 				<useID>1</useID>
@@ -178,13 +123,7 @@
 				<useDescription>Used as the power adapter jack on the Arduino UNO</useDescription>
 			</useItem>
 		</usageList>	<oompClass>Through Hole Component</oompClass>
-	<oompClassCode>THTH</oompClassCode>
-	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem></oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+		<oompClassCode>THTH</oompClassCode>
 		<ooDesignator>J1</ooDesignator>
-</oompPart>
+	</oompPart>
 </xml>

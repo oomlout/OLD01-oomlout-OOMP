@@ -1,36 +1,18 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>FERB-0805-X-O471-01</oompID>
-        <name>SMD (0805) 470 Ohm Ferrite Bead</name>        
+	<oompPart>
+		<oompID>FERB-0805-X-O471-01</oompID>
+		<name>SMD (0805) 470 Ohm Ferrite Bead</name>
 		<hexID>F85471</hexID>
-        <oompSort>FERB0805O471</oompSort>		
-		<oompClass></oompClass>
-		<oompClassCode></oompClassCode>		
-		
-        <oompType>FERB</oompType>
-        <oompSize>0805</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>O471</oompDesc>
-        <oompIndex>01</oompIndex>        
+		<oompSort>FERB0805O471</oompSort>
+		<oompType>FERB</oompType>
+		<oompSize>0805</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>O471</oompDesc>
+		<oompIndex>01</oompIndex>
 		<oompVersion>98</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth>1.25</ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>2</ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins>2</ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
+		<ooWidth>1.25</ooWidth>
+		<ooLength>2</ooLength>
+		<ooNumPins>2</ooNumPins>
 		<sourceList>
 			<manufacturer>
 				<company>WELL</company>
@@ -38,14 +20,9 @@
 				<name></name>
 				<partID>WLB2012-471T20</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
-				
-				
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
@@ -56,21 +33,7 @@
 				<oplPackage>805</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    </oompPart>	
-	<oompBbls></oompBbls>	
-	<oompDiag></oompDiag>	
-	<oompIden></oompIden>	
-	<oompSchem></oompSchem>	
-	<oompSimp></oompSimp>			<ooPackageMarking></ooPackageMarking>
-		<ooDesignator>L</ooDesignator>
+		</oplList>
+		<ooDesignator>L1</ooDesignator>
+	</oompPart>
 </xml>

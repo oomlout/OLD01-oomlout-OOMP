@@ -1,100 +1,25 @@
-﻿<xml>    
+﻿<xml>
 	<oompPart>
-        <index>4159</index><!--OOMP Base -->
-        <oompID>RESE-W04-X-O471-01</oompID>
-        <name>1/4 Watt 470 Ohm Resistor</name>
-        <hexID>R4471</hexID>
-        <oompSort>0W040000470</oompSort>
-        <oompType>RESE</oompType>
-        <oompSize>W04</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>O471</oompDesc>
-        <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion>99</oompVersion>
-<!--Size -->
-        <ooPitch></ooPitch>
-        <ooWidth>62.8 mm</ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter>2.5 mm</ooDiameter>
-        <ooLength>6.8 mm</ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize>
-<!--Manufacturer -->
-        <ooManufacturer></ooManufacturer>
-        <ooManufacturerPartNumber></ooManufacturerPartNumber>
-<!--Description -->
-        <ooMaterial>Carbon</ooMaterial>
-        <ooNumPins></ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating>1/4 W</ooPowerRating>
-<!--Hardware -->
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize>
-<!--Maximums -->
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage>500 V</ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance>5%</ooTolerance>
-<!--Heat Shrink -->
-        <ooShrinkRatio></ooShrinkRatio>
-<!--LED -->
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY>
-<COM>Common Uses</COM>		
-		<usageList>
-			<useItem>
-				<useID>1</useID>
-				<importance>1</importance>
-				<useTitle></useTitle>
-				<useDescription></useDescription>
-			</useItem>
-		</usageList>
-		<!--Plug -->
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength>
-<!--SEEED OPL (Open Parts Library) -->
-        <ooSEEEDsku></ooSEEEDsku>
-        <ooSEEEDdesc></ooSEEEDdesc>
-<!--Hidden -->
-        <oompVersion></oompVersion>
-        <ooNameLine1of2></ooNameLine1of2>
-        <ooNameLine2of2></ooNameLine2of2>
-        <ooNameLine1of3></ooNameLine1of3>
-        <ooNameLine2of3></ooNameLine2of3>
-        <ooNameLine3of3></ooNameLine3of3>
-        <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-        <ooSEEED3dModel></ooSEEED3dModel>
-<!-- -->    		<sourceList>
-				
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
-				<note></note>
-			</bigDistributor>					
-					
-		</sourceList>
+		<index>4159</index>
+		<oompID>RESE-W04-X-O471-01</oompID>
+		<name>1/4 Watt 470 Ohm Resistor</name>
+		<hexID>R4471</hexID>
+		<oompSort>0W040000470</oompSort>
+		<oompType>RESE</oompType>
+		<oompSize>W04</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>O471</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>99</oompVersion>
+		<ooWidth>62.8 mm</ooWidth>
+		<ooDiameter>2.5 mm</ooDiameter>
+		<ooLength>6.8 mm</ooLength>
+		<ooMaterial>Carbon</ooMaterial>
+		<ooPowerRating>1/4 W</ooPowerRating>
+		<ooMaxVoltage>500 V</ooMaxVoltage>
+		<ooTolerance>5%</ooTolerance>
 		<oplList>
-			<oplSystem>	
+			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
 				<oplName>DIP RES 470R-5%-1/4W;Axial-D2.3*L6.5mm</oplName>
@@ -102,28 +27,27 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
-			</oplSystem>			</oplList>	<oompClass>Through Hole Component</oompClass>
-	<oompClassCode>THTH</oompClassCode>
-<colorBand1>YELLOW</colorBand1>
-	<colorBand2>PURPLE</colorBand2>
-	<colorBand3>BROWN</colorBand3>
-	
-	<oompBbls>
-		<drawItem>template;RESE-W04-X-XXXX-XX-bbls</drawItem>
-	</oompBbls>
-	<oompDiag>
-		<drawItem>template;RESE-W04-X-XXXX-XX-diag</drawItem>
-	</oompDiag>
-	<oompIden>
-		<drawItem>template;RESE-W04-X-XXXX-XX-iden</drawItem>
-	</oompIden>
-	<oompSchem>
-		<drawItem>template;RESE-XXXX-X-XXXX-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp>
-		<drawItem>template;RESE-W04-X-XXXX-XX-simp</drawItem>
-	</oompSimp>
-		<ooPackageMarking></ooPackageMarking>
-		<ooDesignator>R1</ooDesignator>
-</oompPart>
+			</oplSystem>			</oplList>
+			<oompClass>Through Hole Component</oompClass>
+			<oompClassCode>THTH</oompClassCode>
+			<colorBand1>YELLOW</colorBand1>
+			<colorBand2>PURPLE</colorBand2>
+			<colorBand3>BROWN</colorBand3>
+			<oompBbls>
+				<drawItem>template;RESE-W04-X-XXXX-XX-bbls</drawItem>
+			</oompBbls>
+			<oompDiag>
+				<drawItem>template;RESE-W04-X-XXXX-XX-diag</drawItem>
+			</oompDiag>
+			<oompIden>
+				<drawItem>template;RESE-W04-X-XXXX-XX-iden</drawItem>
+			</oompIden>
+			<oompSchem>
+				<drawItem>template;RESE-XXXX-X-XXXX-XX-schem</drawItem>
+			</oompSchem>
+			<oompSimp>
+				<drawItem>template;RESE-W04-X-XXXX-XX-simp</drawItem>
+			</oompSimp>
+			<ooDesignator>R1</ooDesignator>
+	</oompPart>
 </xml>

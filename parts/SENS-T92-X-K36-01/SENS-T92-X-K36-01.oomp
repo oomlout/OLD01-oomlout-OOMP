@@ -1,36 +1,16 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>SENS-T92-X-K36-01</oompID>
-        <name>TO-92 Temperature (TMP36) Sensor</name>        
+	<oompPart>
+		<oompID>SENS-T92-X-K36-01</oompID>
+		<name>TO-92 Temperature (TMP36) Sensor</name>
 		<hexID>SE36</hexID>
-        <oompSort>SENST92K36</oompSort>		
-		<oompClass></oompClass>
-		<oompClassCode></oompClassCode>		
-		
-        <oompType>SENS</oompType>
-        <oompSize>T92</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>K36</oompDesc>
-        <oompIndex>01</oompIndex>        
+		<oompSort>SENST92K36</oompSort>
+		<oompType>SENS</oompType>
+		<oompSize>T92</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>K36</oompDesc>
+		<oompIndex>01</oompIndex>
 		<oompVersion>98</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins>3</ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
+		<ooNumPins>3</ooNumPins>
 		<sourceList>
 			<manufacturer>
 				<company>Analog Devices Inc</company>
@@ -38,9 +18,8 @@
 				<name></name>
 				<partID>TMP36</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 			<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
@@ -48,14 +27,14 @@
 				<partID>584-TMP36GT9Z</partID>
 				<link><![CDATA[http://www.mouser.co.uk/Search/Refine.aspx?Keyword=584-TMP36GT9Z]]></link>
 				<note></note>
-			</bigDistributor>								<bigDistributor>
+				</bigDistributor>								<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
 				<name></name>
 				<partID>1438760</partID>
 				<link><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=1438760]]></link>
 				<note></note>
-			</bigDistributor>	
+			</bigDistributor>
 			<bigDistributor>
 				<company>RS Electronics</company>
 				<companyCode>C-RSRS</companyCode>
@@ -63,10 +42,8 @@
 				<partID>427-351</partID>
 				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=427-351]]></link>
 				<note></note>
-			</bigDistributor>		
+			</bigDistributor>
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
@@ -77,21 +54,8 @@
 				<oplPackage>TO-92-3</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    </oompPart>	
-	<oompBbls></oompBbls>	
-	<oompDiag></oompDiag>	
-	<oompIden></oompIden>	
-	<oompSchem></oompSchem>	
-	<oompSimp></oompSimp>			<ooPackageMarking>TMP36</ooPackageMarking>
+		</oplList>
+		<ooPackageMarking>TMP36</ooPackageMarking>
 		<ooDesignator>U</ooDesignator>
+	</oompPart>
 </xml>

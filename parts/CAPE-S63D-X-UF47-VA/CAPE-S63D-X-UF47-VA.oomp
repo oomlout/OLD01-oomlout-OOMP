@@ -1,46 +1,21 @@
 <xml>
-<oompPart>
-        <index>9876</index><com>OOMP Base</com>
-        <oompID>CAPE-S63D-X-UF47-VA</oompID>
-        <name>SMD (6.3 mm) 47 uF Capacitor (Electrolytic) 25v</name>
-        <hexID>CESU047</hexID>
-        <oompSort>S63F0.00004700000000</oompSort>
-        <oompType>CAPE</oompType>
-        <oompSize>S63D</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>UF47</oompDesc>
-        <oompIndex>VA</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion></oompVersion>		<oompSkip>true</oompSkip><com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth>6.6</ooWidth>
-        <ooHeight>5.4</ooHeight>
-        <ooDiameter>6.3</ooDiameter>
-        <ooLength>6.6</ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize><com>Description</com>
-        <ooMaterial></ooMaterial>
-        <ooNumPins></ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating><com>Hardware</com>
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize><com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage>25 v</ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance>20%</ooTolerance><com>Heat Shrink</com>
-        <ooShrinkRatio></ooShrinkRatio><com>LED</com>
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY><com>Plug</com>
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength><com>Source List</com>		
+	<oompPart>
+		<index>9876</index>
+		<oompID>CAPE-S63D-X-UF47-VA</oompID>
+		<name>SMD (6.3 mm) 47 uF Capacitor (Electrolytic) 25v</name>
+		<hexID>CESU047</hexID>
+		<oompSort>S63F0.00004700000000</oompSort>
+		<oompType>CAPE</oompType>
+		<oompSize>S63D</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>UF47</oompDesc>
+		<oompIndex>VA</oompIndex>
+		<oompVersion>99</oompVersion>		<oompSkip>true</oompSkip><ooWidth>6.6</ooWidth>
+		<ooHeight>5.4</ooHeight>
+		<ooDiameter>6.3</ooDiameter>
+		<ooLength>6.6</ooLength>
+		<ooMaxVoltage>25 v</ooMaxVoltage>
+		<ooTolerance>20%</ooTolerance>
 		<sourceList>
 			<manufacturer>
 				<company>Panasonic</company>
@@ -48,7 +23,7 @@
 				<name></name>
 				<partID>EEE1EA470WP</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<manufacturer>
 				<company>Semetech Electronics Ltd.</company>
@@ -56,9 +31,8 @@
 				<name></name>
 				<partID>EEE1EA470WP</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 			<bigDistributor>
 				<company>DigiKey</company>
 				<companyCode>C-DIGK</companyCode>
@@ -66,14 +40,14 @@
 				<partID>PCE3908CT-ND</partID>
 				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/EEE-1EA470WP/PCE3908CT-ND/766284]]></link>
 				<note></note>
-			</bigDistributor>			<bigDistributor>
+				</bigDistributor>			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
 				<name>PANASONIC  EEE-1EA470WP  CAPACITOR ALUM ELEC, 47UF, 25V, 20%, SMD</name>
 				<partID>2284803</partID>
 				<link><![CDATA[http://uk.farnell.com/panasonic/eee-1ea470wp/capacitor-alum-elec-47uf-25v-20/dp/2284803]]></link>
 				<note></note>
-			</bigDistributor>			
+			</bigDistributor>
 			<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
@@ -83,8 +57,6 @@
 				<note></note>
 			</bigDistributor>
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
@@ -95,27 +67,12 @@
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-    
-	<oompClass>Surface Mount</oompClass>
-	<oompClassCode>SMDS</oompClassCode>
-	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem>
-		<drawItem>template;CAPE-XXXX-X-XXXX-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+		</oplList>
+		<oompClass>Surface Mount</oompClass>
+		<oompClassCode>SMDS</oompClassCode>
+		<oompSchem>
+			<drawItem>template;CAPE-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
 		<ooDesignator>C1</ooDesignator>
-</oompPart>
+	</oompPart>
 </xml>

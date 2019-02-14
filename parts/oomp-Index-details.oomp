@@ -7,12 +7,10 @@
 		<code>65</code>
 		<name>5%</name>
 	</oompIndex>
-	
 	<oompIndex>
 		<code>68</code>
 		<name>Side Adjust</name>
 	</oompIndex>
-	
 	<oompIndex>
 		<code>69</code>
 		<name>Panel Mount</name>
@@ -25,17 +23,14 @@
 		<code>80</code>
 		<name>Keyed</name>
 	</oompIndex>
-	
 	<oompIndex>
 		<code>CA</code>
 		<name>Common Anode</name>
 	</oompIndex>
-	
 	<oompIndex>
 		<code>CC</code>
 		<name>Common Cathode</name>
 	</oompIndex>
-	
 	<oompIndex>
 		<code>LI</code>
 		<name>w/Lights</name>
@@ -48,13 +43,16 @@
 		<code>FM</code>
 		<name>Female</name>
 	</oompIndex>
-	
 	<oompIndex>
 		<code>V6</code>
 		<name>6v</name>
 	</oompIndex>
 	<oompIndex>
 		<code>VH</code>
+		<name>6.3v</name>
+	</oompIndex>
+	<oompIndex>
+		<code>V63D</code>
 		<name>6.3v</name>
 	</oompIndex>
 	<oompIndex>
@@ -66,8 +64,16 @@
 		<name>10v</name>
 	</oompIndex>
 	<oompIndex>
+		<code>V10</code>
+		<name>10v</name>
+	</oompIndex>
+	<oompIndex>
 		<code>VE</code>
 		<name>15v</name>
+	</oompIndex>
+	<oompIndex>
+		<code>V16</code>
+		<name>16v</name>
 	</oompIndex>
 	<oompIndex>
 		<code>VM</code>
@@ -80,114 +86,129 @@
 	<oompIndex>
 		<code>V3</code>
 		<name>3.3v</name>
-	</oompIndex>	
+	</oompIndex>
 	<oompIndex>
 		<code>VJ</code>
 		<name>3v</name>
-	</oompIndex>	
+	</oompIndex>
 	<oompIndex>
 		<code>VA</code>
 		<name>25v</name>
 	</oompIndex>
-		
+	<oompIndex>
+		<code>V25</code>
+		<name>25v</name>
+	</oompIndex>
 	<oompIndex>
 		<code>VG</code>
 		<name>20v</name>
 	</oompIndex>
-	<oompIndex>
-		<code>VC</code>
-		<name>50v</name>
-	</oompIndex>
-	<oompIndex>
-		<code>VD</code>
-		<name>63v</name>
-	</oompIndex>		
-	<oompIndex>
-		<code>VI</code>
-		<name>400v</name>
-	</oompIndex>		
-	<oompIndex>
-		<code>V7</code>
-		<name>75v</name>
-	</oompIndex>		
-	<oompIndex>
-		<code>V1</code>
-		<name>100v</name>
-	</oompIndex>		
-	<oompIndex>
-		<code>V4</code>
-		<name>40v</name>
-	</oompIndex>	
-	<oompIndex>
-		<code>AI</code>
-		<name>25 mA</name>
-	</oompIndex>	
-	<oompIndex>
-		<code>AH</code>
-		<name>100 mA</name>
-	</oompIndex>
-	<oompIndex>
-		<code>AC</code>
-		<name>150 mA</name>
-	</oompIndex>
-	<oompIndex>
-		<code>AD</code>
-		<name>250 mA</name>
-	</oompIndex>
-	<oompIndex>
-		<code>AE</code>
-		<name>200 mA</name>
-	</oompIndex>	
-	<oompIndex>
-		<code>A5D</code>
-		<name>500 mA</name>
-	</oompIndex>	
-		<oompIndex>
-		<code>A1</code>
-		<name>1 A</name>
-	</oompIndex>	
-		<oompIndex>
-		<code>AB</code>
-		<name>1.2 A</name>
-	</oompIndex>	
-		<oompIndex>
-		<code>A2</code>
-		<name>2 A</name>
-	</oompIndex>	
-		<oompIndex>
-		<code>A4</code>
-		<name>4 A</name>
-	</oompIndex>	
-	<oompIndex>
-		<code>A5</code>
-		<name>5 A</name>
-	</oompIndex>	
-	<oompIndex>
-		<code>SM</code>
-		<name>SMD</name>
-	</oompIndex>	
-	<oompIndex>
-		<code>RA</code>
-		<name>Right Angle</name>
-	</oompIndex>		
-	<oompIndex>
-		<code>RS</code>
-		<name>Right Angle (SMD)</name>
-	</oompIndex>		
-	<oompIndex>
-		<code>SM</code>
-		<name>(SMD)</name>
-	</oompIndex>			
-	<oompIndex>
-		<code>4P</code>
-		<name>(4 Pin)</name>
-	</oompIndex>			
-	<oompIndex>
-		<code>RO</code>
-		<name>(Round)</name>
-	</oompIndex>			
-	<oompIndex>
-		<code>I2</code>
-		<name>(I2C)</name>
-	</oompIndex>			
+<oompIndex>
+<code>VC</code>
+<name>50v</name>
+</oompIndex>
+<oompIndex>
+<code>V50</code>
+<name>50v</name>
+</oompIndex>
+<oompIndex>
+<code>VD</code>
+<name>63v</name>
+</oompIndex>
+<oompIndex>
+<code>VI</code>
+<name>400v</name>
+</oompIndex>
+<oompIndex>
+<code>V400</code>
+<name>400v</name>
+</oompIndex>
+<oompIndex>
+<code>V1000</code>
+<name>1000v</name>
+</oompIndex>
+<oompIndex>
+<code>V7</code>
+<name>75v</name>
+</oompIndex>
+<oompIndex>
+<code>V1</code>
+<name>100v</name>
+</oompIndex>
+<oompIndex>
+<code>V4</code>
+<name>40v</name>
+</oompIndex>
+<oompIndex>
+<code>AI</code>
+<name>25 mA</name>
+</oompIndex>
+<oompIndex>
+<code>AH</code>
+<name>100 mA</name>
+</oompIndex>
+<oompIndex>
+<code>AC</code>
+<name>150 mA</name>
+</oompIndex>
+<oompIndex>
+<code>AD</code>
+<name>250 mA</name>
+</oompIndex>
+<oompIndex>
+<code>AE</code>
+<name>200 mA</name>
+</oompIndex>
+<oompIndex>
+<code>A5D</code>
+<name>500 mA</name>
+</oompIndex>
+<oompIndex>
+<code>A1</code>
+<name>1 A</name>
+</oompIndex>
+<oompIndex>
+<code>AB</code>
+<name>1.2 A</name>
+</oompIndex>
+<oompIndex>
+<code>A2</code>
+<name>2 A</name>
+</oompIndex>
+<oompIndex>
+<code>A4</code>
+<name>4 A</name>
+</oompIndex>
+<oompIndex>
+<code>A5</code>
+<name>5 A</name>
+</oompIndex>
+<oompIndex>
+<code>SM</code>
+<name>SMD</name>
+</oompIndex>
+<oompIndex>
+<code>RA</code>
+<name>Right Angle</name>
+</oompIndex>
+<oompIndex>
+<code>RS</code>
+<name>Right Angle (SMD)</name>
+</oompIndex>
+<oompIndex>
+<code>SM</code>
+<name>(SMD)</name>
+</oompIndex>
+<oompIndex>
+<code>4P</code>
+<name>(4 Pin)</name>
+</oompIndex>
+<oompIndex>
+<code>RO</code>
+<name>(Round)</name>
+</oompIndex>
+<oompIndex>
+<code>I2</code>
+<name>(I2C)</name>
+</oompIndex>
 </xml>

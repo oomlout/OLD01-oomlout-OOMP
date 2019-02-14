@@ -1,49 +1,23 @@
 <xml>
-<oompPart>
-        <index>9876</index><com>OOMP Base</com>
-        <oompID>HEAD-I01-X-2X02PI-01</oompID>
-        <name>2.54 mm 4 Pin (2x2) Header</name>
-        <hexID>H2X02</hexID>
-        <oompSort>A0101Z2X02</oompSort>
-        <oompType>HEAD</oompType>
-        <oompSize>I01</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>2X02PI</oompDesc>
-        <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion></oompVersion>		<oompSkip>true</oompSkip><com>Size</com>
-        <ooPitch>2.54 mm</ooPitch>
-        <ooWidth>5.08mm</ooWidth>
-        <ooHeight>11.8 mm</ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>5.08 mm</ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize><com>Description</com>
-        <ooMaterial></ooMaterial>
+	<oompPart>
+		<index>9876</index>
+		<oompID>HEAD-I01-X-2X02PI-01</oompID>
+		<name>2.54 mm 4 Pin (2x2) Header</name>
+		<hexID>H2X02</hexID>
+		<oompSort>A0101Z2X02</oompSort>
+		<oompType>HEAD</oompType>
+		<oompSize>I01</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>2X02PI</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>99</oompVersion>		<oompSkip>true</oompSkip><ooPitch>2.54 mm</ooPitch>
+		<ooWidth>5.08mm</ooWidth>
+		<ooHeight>11.8 mm</ooHeight>
+		<ooLength>5.08 mm</ooLength>
+		<ooMaterial></ooMaterial>
 		<ooNumRows>2</ooNumRows>
-        <ooNumPins>4</ooNumPins>
+		<ooNumPins>4</ooNumPins>
 		<ooFootprint>OOMP-HEAD-I01-X-2X02PI-01</ooFootprint>
-        
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating><com>Hardware</com>
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize><com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance><com>Heat Shrink</com>
-        <ooShrinkRatio></ooShrinkRatio><com>LED</com>
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY><com>Plug</com>
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength><com>Source List</com>		
 		<sourceList>
 			<manufacturer>
 				<company>FCI</company>
@@ -51,7 +25,7 @@
 				<name></name>
 				<partID>67996-104HLF</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<manufacturer>
 				<company>TruConnect</company>
@@ -59,9 +33,8 @@
 				<name></name>
 				<partID>22-0525</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 			<bigDistributor>
 				<company>DigiKey</company>
 				<companyCode>C-DIGK</companyCode>
@@ -69,14 +42,14 @@
 				<partID>609-3201-ND</partID>
 				<link><![CDATA[http://www.digikey.co.uk/product-search/en?lang=en&site=UK&WT.z_homepage_link=hp_go_button&x=0&y=0&KeyWords=67996-104HLF]]></link>
 				<note></note>
-			</bigDistributor>			<bigDistributor>
+				</bigDistributor>			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
 				<name>FCI  67996-104HLF  BOARD-BOARD CONNECTOR HEADER, 4WAY, 2ROW</name>
 				<partID>1824421</partID>
 				<link><![CDATA[http://uk.farnell.com/fci/67996-104hlf/board-board-connector-header-4way/dp/1824421?ost=67996-104HLF]]></link>
 				<note></note>
-			</bigDistributor>			
+			</bigDistributor>
 			<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
@@ -92,30 +65,10 @@
 				<partID>22-0525</partID>
 				<link><![CDATA[http://www.rapidonline.com/cables-connectors/2-2-way-double-row-pcb-header-plug-22-0525]]></link>
 				<note></note>
-			</bigDistributor>			
+			</bigDistributor>
 		</sourceList>
-		
-<com>OPL</com>		
-		<oplList>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-    
-	<oompClass>Through Hole Component</oompClass>
-	<oompClassCode>THTH</oompClassCode>
-	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem></oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+		<oompClass>Through Hole Component</oompClass>
+		<oompClassCode>THTH</oompClassCode>
 		<ooDesignator>J1</ooDesignator>
-</oompPart>
+	</oompPart>
 </xml>

@@ -9,46 +9,43 @@
 			<oompLabelDetail>oompType</oompLabelDetail>
 			<oompLabelDetail>oompSize</oompLabelDetail>
 			<oompLabelDetail>oompColor</oompLabelDetail>
-			<oompLabelDetail>oompDesc</oompLabelDetail>	
-			<oompLabelDetail>oompIndex</oompLabelDetail>	
-		</oompLabelList>		<oompLabelList>
+			<oompLabelDetail>oompDesc</oompLabelDetail>
+			<oompLabelDetail>oompIndex</oompLabelDetail>
+			</oompLabelList>		<oompLabelList>
 			<oompLabelFamily>BASEEND</oompLabelFamily>
 			<oompLabelDetail>ooLength</oompLabelDetail>
 			<oompLabelDetail>ooWidth</oompLabelDetail>
-			<oompLabelDetail>ooHeight</oompLabelDetail>			
-			<oompLabelDetail>ooDepth</oompLabelDetail>	
-			<oompLabelDetail>ooDiameter</oompLabelDetail>	
+			<oompLabelDetail>ooHeight</oompLabelDetail>
+			<oompLabelDetail>ooDepth</oompLabelDetail>
+			<oompLabelDetail>ooDiameter</oompLabelDetail>
 		</oompLabelList>
-		
 		<oompLabelList>
 			<oompLabelFamily>BOLT</oompLabelFamily>
 			<oompLabelDetail>ooWrenchSize</oompLabelDetail>
 			<oompLabelDetail>ooHeadStyle</oompLabelDetail>
 			<oompLabelSwap>oompDesc-length</oompLabelSwap>
 		</oompLabelList>
-		
 		<oompLabelList>
 			<oompLabelFamily>BREB</oompLabelFamily>
 			<oompLabelDetail></oompLabelDetail>
 			<oompLabelSwap></oompLabelSwap>
 		</oompLabelList>
-		
 		<oompLabelList>
 			<oompLabelFamily>BUTA</oompLabelFamily>
 			<oompLabelDetail>ooPitch</oompLabelDetail>
 			<oompLabelSwap>oompType2-style</oompLabelSwap>
-		</oompLabelList>		<oompLabelList>
+			</oompLabelList>		<oompLabelList>
 			<oompLabelFamily>BUTP</oompLabelFamily>
 			<oompLabelDetail>ooPitch</oompLabelDetail>
 			<oompLabelSwap>oompType2-style</oompLabelSwap>
-		</oompLabelList>		<oompLabelList>
+			</oompLabelList>		<oompLabelList>
 			<oompLabelFamily>CAPC</oompLabelFamily>
 			<oompLabelDetail>ooTolerance</oompLabelDetail>
 			<oompLabelDetail>ooMaxVoltage</oompLabelDetail>
 			<oompLabelSwap>oompType2-material</oompLabelSwap>
 			<oompLabelSwap>oompIndex-voltage</oompLabelSwap>
 			<oompLabelSwap>oompDesc-value</oompLabelSwap>
-		</oompLabelList>		<oompLabelList>
+			</oompLabelList>		<oompLabelList>
 			<oompLabelFamily>CAPE</oompLabelFamily>
 			<oompLabelDetail>ooTolerance</oompLabelDetail>
 			<oompLabelDetail>ooMaxVoltage</oompLabelDetail>
@@ -56,15 +53,14 @@
 			<oompLabelSwap>oompType2-material</oompLabelSwap>
 			<oompLabelSwap>oompIndex-voltage</oompLabelSwap>
 			<oompLabelSwap>oompDesc-value</oompLabelSwap>
-		</oompLabelList>		<oompLabelList>
+			</oompLabelList>		<oompLabelList>
 			<oompLabelFamily>CAPT</oompLabelFamily>
 			<oompLabelDetail>ooTolerance</oompLabelDetail>
 			<oompLabelDetail>ooMaxVoltage</oompLabelDetail>
 			<oompLabelSwap>oompType2-material</oompLabelSwap>
 			<oompLabelSwap>oompIndex-voltage</oompLabelSwap>
 			<oompLabelSwap>oompDesc-value</oompLabelSwap>
-		</oompLabelList>		
-		
+		</oompLabelList>
 		<oompLabelList>
 			<oompLabelFamily>CRHO</oompLabelFamily>
 			<oompLabelDetail>ooTerminalStyle</oompLabelDetail>
@@ -73,103 +69,102 @@
 			<oompLabelDetail>ooMaxVoltage</oompLabelDetail>
 			<oompLabelSwap>oompDesc-pitch</oompLabelSwap>
 		</oompLabelList>
-		
 		<oompLabelList>
 			<oompLabelFamily>DCJP</oompLabelFamily>
 			<oompLabelDetail></oompLabelDetail>
 			<oompLabelSwap></oompLabelSwap>
-		</oompLabelList>		<oompLabelList>
+			</oompLabelList>		<oompLabelList>
 			<oompLabelFamily>DIOD</oompLabelFamily>
 			<oompLabelDetail></oompLabelDetail>
 			<oompLabelSwap>oompDesc-current</oompLabelSwap>
-		</oompLabelList>		<oompLabelList>
+			</oompLabelList>		<oompLabelList>
 			<oompLabelFamily>DIOS</oompLabelFamily>
 			<oompLabelDetail></oompLabelDetail>
 			<oompLabelSwap>oompDesc-current</oompLabelSwap>
-		</oompLabelList>		<oompLabelList>
+			</oompLabelList>		<oompLabelList>
 			<oompLabelFamily>HEAD</oompLabelFamily>
 			<oompLabelDetail></oompLabelDetail>
 			<oompLabelSwap>oompSize-pitch</oompLabelSwap>
 			<oompLabelSwap>oompDesc-length</oompLabelSwap>
-		</oompLabelList>		<oompLabelList>
+			</oompLabelList>		<oompLabelList>
 			<oompLabelFamily>HEAF</oompLabelFamily>
 			<oompLabelDetail></oompLabelDetail>
 			<oompLabelSwap>oompSize-pitch</oompLabelSwap>
 			<oompLabelSwap>oompDesc-length</oompLabelSwap>
-		</oompLabelList>		<oompLabelList>
+			</oompLabelList>		<oompLabelList>
 			<oompLabelFamily>HEAL</oompLabelFamily>
 			<oompLabelDetail></oompLabelDetail>
 			<oompLabelSwap>oompType2-style</oompLabelSwap>
 			<oompLabelSwap>oompSize-pitch</oompLabelSwap>
 			<oompLabelSwap>oompDesc-length</oompLabelSwap>
-		</oompLabelList>		<oompLabelList>
+			</oompLabelList>		<oompLabelList>
 			<oompLabelFamily>HEDS</oompLabelFamily>
 			<oompLabelDetail></oompLabelDetail>
 			<oompLabelSwap></oompLabelSwap>
-		</oompLabelList>		<oompLabelList>
+			</oompLabelList>		<oompLabelList>
 			<oompLabelFamily>HELF</oompLabelFamily>
 			<oompLabelDetail></oompLabelDetail>
 			<oompLabelSwap>oompType2-style</oompLabelSwap>
 			<oompLabelSwap>oompSize-pitch</oompLabelSwap>
 			<oompLabelSwap>oompDesc-length</oompLabelSwap>
-		</oompLabelList>		<oompLabelList>
+			</oompLabelList>		<oompLabelList>
 			<oompLabelFamily>HESH</oompLabelFamily>
 			<oompLabelDetail>ooShrinkRatio</oompLabelDetail>
 			<oompLabelSwap>oompSize-diameter</oompLabelSwap>
-		</oompLabelList>		<oompLabelList>
+			</oompLabelList>		<oompLabelList>
 			<oompLabelFamily>HSFF</oompLabelFamily>
 			<oompLabelDetail>ooWrenchSize</oompLabelDetail>
 			<oompLabelSwap>oompType2-style</oompLabelSwap>
 			<oompLabelSwap>oompDesc-length</oompLabelSwap>
-		</oompLabelList>		<oompLabelList>
+			</oompLabelList>		<oompLabelList>
 			<oompLabelFamily>HSFM</oompLabelFamily>
 			<oompLabelDetail>ooWrenchSize</oompLabelDetail>
 			<oompLabelSwap>oompType2-style</oompLabelSwap>
 			<oompLabelSwap>oompDesc-length</oompLabelSwap>
-		</oompLabelList>		<oompLabelList>
+			</oompLabelList>		<oompLabelList>
 			<oompLabelFamily>ICIC</oompLabelFamily>
 			<oompLabelDetail></oompLabelDetail>
 			<oompLabelSwap>oompType2-package style</oompLabelSwap>
 			<oompLabelSwap>oompDesc-type</oompLabelSwap>
-		</oompLabelList>		<oompLabelList>
+			</oompLabelList>		<oompLabelList>
 			<oompLabelFamily>IDCP</oompLabelFamily>
 			<oompLabelDetail></oompLabelDetail>
 			<oompLabelSwap>oompSize-pitch</oompLabelSwap>
 			<oompLabelSwap>oompDesc-size</oompLabelSwap>
-		</oompLabelList>		<oompLabelList>
+			</oompLabelList>		<oompLabelList>
 			<oompLabelFamily>IDCS</oompLabelFamily>
 			<oompLabelDetail></oompLabelDetail>
 			<oompLabelSwap>oompSize-pitch</oompLabelSwap>
 			<oompLabelSwap>oompDesc-size</oompLabelSwap>
-		</oompLabelList>		<oompLabelList>
+			</oompLabelList>		<oompLabelList>
 			<oompLabelFamily>INDU</oompLabelFamily>
 			<oompLabelDetail></oompLabelDetail>
 			<oompLabelSwap>oompDesc-value</oompLabelSwap>
-		</oompLabelList>		<oompLabelList>
+			</oompLabelList>		<oompLabelList>
 			<oompLabelFamily>JSTS</oompLabelFamily>
 			<oompLabelDetail></oompLabelDetail>
 			<oompLabelSwap>oompSize-pitch</oompLabelSwap>
 			<oompLabelSwap>oompDesc-length</oompLabelSwap>
 			<oompLabelSwap>oompIndex-style</oompLabelSwap>
-		</oompLabelList>		<oompLabelList>
+			</oompLabelList>		<oompLabelList>
 			<oompLabelFamily>JUMP</oompLabelFamily>
 			<oompLabelDetail></oompLabelDetail>
 			<oompLabelSwap>oompSize-pitch</oompLabelSwap>
-		</oompLabelList>		<oompLabelList>
+			</oompLabelList>		<oompLabelList>
 			<oompLabelFamily>KCHO</oompLabelFamily>
 			<oompLabelDetail>ooTerminalStyle</oompLabelDetail>
 			<oompLabelDetail>ooMaterial</oompLabelDetail>
 			<oompLabelDetail>ooMaxCurrent</oompLabelDetail>
 			<oompLabelDetail>ooMaxVoltage</oompLabelDetail>
 			<oompLabelSwap>oompDesc-pitch</oompLabelSwap>
-		</oompLabelList>		<oompLabelList>
+			</oompLabelList>		<oompLabelList>
 			<oompLabelFamily>KCHS</oompLabelFamily>
 			<oompLabelDetail>ooTerminalStyle</oompLabelDetail>
 			<oompLabelDetail>ooMaterial</oompLabelDetail>
 			<oompLabelDetail>ooMaxCurrent</oompLabelDetail>
 			<oompLabelDetail>ooMaxVoltage</oompLabelDetail>
-			<oompLabelSwap>oompDesc-pitch</oompLabelSwap>	
-		</oompLabelList>		<oompLabelList>
+			<oompLabelSwap>oompDesc-pitch</oompLabelSwap>
+			</oompLabelList>		<oompLabelList>
 			<oompLabelFamily>LEDS</oompLabelFamily>
 			<oompLabelDetail>ooForwardVoltage</oompLabelDetail>
 			<oompLabelDetail>ooForwardCurrent</oompLabelDetail>
@@ -179,35 +174,35 @@
 			<oompLabelDetail>ooChromaticityX</oompLabelDetail>
 			<oompLabelDetail>ooChromaticityY</oompLabelDetail>
 			<oompLabelSwap>oompDesc-lens style</oompLabelSwap>
-		</oompLabelList>		<oompLabelList>
+			</oompLabelList>		<oompLabelList>
 			<oompLabelFamily>MOSN</oompLabelFamily>
 			<oompLabelDetail></oompLabelDetail>
 			<oompLabelSwap></oompLabelSwap>
-		</oompLabelList>		<oompLabelList>
+			</oompLabelList>		<oompLabelList>
 			<oompLabelFamily>MOSP</oompLabelFamily>
 			<oompLabelDetail></oompLabelDetail>
 			<oompLabelSwap></oompLabelSwap>
-		</oompLabelList>		<oompLabelList>
+			</oompLabelList>		<oompLabelList>
 			<oompLabelFamily>NHFF</oompLabelFamily>
 			<oompLabelDetail>ooWrenchSize</oompLabelDetail>
 			<oompLabelSwap>oompType2-style</oompLabelSwap>
 			<oompLabelSwap>oompDesc-length</oompLabelSwap>
-		</oompLabelList>		<oompLabelList>
+			</oompLabelList>		<oompLabelList>
 			<oompLabelFamily>NHFM</oompLabelFamily>
 			<oompLabelDetail>ooWrenchSize</oompLabelDetail>
 			<oompLabelSwap>oompType2-style</oompLabelSwap>
 			<oompLabelSwap>oompDesc-length</oompLabelSwap>
-		</oompLabelList>		<oompLabelList>
+			</oompLabelList>		<oompLabelList>
 			<oompLabelFamily>NNUT</oompLabelFamily>
-			<oompLabelDetail>ooWrenchSize</oompLabelDetail>			
+			<oompLabelDetail>ooWrenchSize</oompLabelDetail>
 			<oompLabelDetail></oompLabelDetail>
 			<oompLabelSwap></oompLabelSwap>
-		</oompLabelList>		<oompLabelList>
+			</oompLabelList>		<oompLabelList>
 			<oompLabelFamily>NSCR</oompLabelFamily>
 			<oompLabelDetail>ooWrenchSize</oompLabelDetail>
 			<oompLabelDetail>ooHeadStyle</oompLabelDetail>
 			<oompLabelSwap>oompDesc-length</oompLabelSwap>
-		</oompLabelList>		<oompLabelList>
+			</oompLabelList>		<oompLabelList>
 			<oompLabelFamily>NUTT</oompLabelFamily>
 			<oompLabelDetail>ooWrenchSize</oompLabelDetail>
 			<oompLabelSwap></oompLabelSwap>
@@ -287,11 +282,10 @@
 			<oompLabelFamily>WIRS</oompLabelFamily>
 			<oompLabelDetail></oompLabelDetail>
 			<oompLabelSwap></oompLabelSwap>
-		</oompLabelList>		<oompLabelList>
+			</oompLabelList>		<oompLabelList>
 			<oompLabelFamily>XTAL</oompLabelFamily>
 			<oompLabelDetail></oompLabelDetail>
 			<oompLabelSwap></oompLabelSwap>
 		</oompLabelList>
-	
 	</oompLabel>
 </xml>

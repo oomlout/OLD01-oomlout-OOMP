@@ -1,133 +1,41 @@
-﻿<xml>    
+﻿<xml>
 	<oompPart>
-        <index>3974</index><!--OOMP Base -->
-        <oompID>LEDS-10-Y-FROS-01</oompID>
-        <name>10 mm Frosted Yellow LED</name>
-        <hexID>L10Y</hexID>
-        <oompSort>1010Y</oompSort>
-        <oompType>LEDS</oompType>
-        <oompSize>10</oompSize>
-        <oompColor>Y</oompColor>
-        <oompDesc>FROS</oompDesc>
-        <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion>20</oompVersion>
-<!--Size -->
-        <ooPitch>2.54 mm</ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize>
-<!--Manufacturer -->
-        <ooManufacturer></ooManufacturer>
-        <ooManufacturerPartNumber></ooManufacturerPartNumber>
-<!--Description -->
-        <ooMaterial></ooMaterial>
-        <ooNumPins></ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating>
-<!--Hardware -->
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize>
-<!--Maximums -->
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<!--Heat Shrink -->
-        <ooShrinkRatio></ooShrinkRatio>
-<!--LED -->
-        <ooLensColor>Frosted</ooLensColor>
-        <ooForwardVoltage>2.0 V</ooForwardVoltage>
-        <ooForwardCurrent>15 mA</ooForwardCurrent>
-        <ooIntensity>1,000 mcd</ooIntensity>
-        <ooPowerAngle>50 deg</ooPowerAngle>
-        <ooWavelength>590 nm</ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY>
-<COM>Common Uses</COM>		
-		<usageList>
-			<useItem>
-				<useID>1</useID>
-				<importance>1</importance>
-				<useTitle></useTitle>
-				<useDescription></useDescription>
-			</useItem>
-		</usageList>
-		<!--Plug -->
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength>
-<!--SEEED OPL (Open Parts Library) -->
-        <ooSEEEDsku></ooSEEEDsku>
-        <ooSEEEDdesc></ooSEEEDdesc>
-<!--Hidden -->
-        <oompVersion></oompVersion>
-        <ooNameLine1of2></ooNameLine1of2>
-        <ooNameLine2of2></ooNameLine2of2>
-        <ooNameLine1of3></ooNameLine1of3>
-        <ooNameLine2of3></ooNameLine2of3>
-        <ooNameLine3of3></ooNameLine3of3>
-        <ooFrontDiagram>OOMP-LEDS-10.png</ooFrontDiagram>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-        <ooSEEED3dModel></ooSEEED3dModel>
-<!-- -->    		<sourceList>
-				
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
-				<note></note>
-			</bigDistributor>					
-			<bigDistributor>
-				<company></company>
-				<companyCode></companyCode>
-				<name></name>
-				<partID></partID>
-				<link><![CDATA[ ]]></link>
-				<note></note>
-			</bigDistributor>					
-		</sourceList>
-		<oplList>
-			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[ ]]></oplLink>
-			</oplSystem>
-		</oplList>	<oompClass>Through Hole Component</oompClass>
-	<oompClassCode>THTH</oompClassCode>
-	<oompBbls>
-		<drawItem>template;LEDS-10-X-XXXX-01-bbls</drawItem>
-	</oompBbls>
-	<oompDiag>
-		<drawItem>template;LEDS-10-X-XXXX-01-diag</drawItem>
-	</oompDiag>
-	<oompIden>
-		<drawItem>template;LEDS-10-X-XXXX-01-iden</drawItem>
-	</oompIden>
-	<oompSchem>
-		<drawItem>template;LEDS-XXXX-X-XXXX-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp>
-		<drawItem>template;LEDS-10-X-XXXX-01-simp</drawItem>
-	</oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+		<index>3974</index>
+		<oompID>LEDS-10-Y-FROS-01</oompID>
+		<name>10 mm Frosted Yellow LED</name>
+		<hexID>L10Y</hexID>
+		<oompSort>1010Y</oompSort>
+		<oompType>LEDS</oompType>
+		<oompSize>10</oompSize>
+		<oompColor>Y</oompColor>
+		<oompDesc>FROS</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>20</oompVersion>
+		<ooPitch>2.54 mm</ooPitch>
+		<ooLensColor>Frosted</ooLensColor>
+		<ooForwardVoltage>2.0 V</ooForwardVoltage>
+		<ooForwardCurrent>15 mA</ooForwardCurrent>
+		<ooIntensity>1,000 mcd</ooIntensity>
+		<ooPowerAngle>50 deg</ooPowerAngle>
+		<ooWavelength>590 nm</ooWavelength>
+		<ooFrontDiagram>OOMP-LEDS-10.png</ooFrontDiagram>
+		<oompClass>Through Hole Component</oompClass>
+		<oompClassCode>THTH</oompClassCode>
+		<oompBbls>
+			<drawItem>template;LEDS-10-X-XXXX-01-bbls</drawItem>
+		</oompBbls>
+		<oompDiag>
+			<drawItem>template;LEDS-10-X-XXXX-01-diag</drawItem>
+		</oompDiag>
+		<oompIden>
+			<drawItem>template;LEDS-10-X-XXXX-01-iden</drawItem>
+		</oompIden>
+		<oompSchem>
+			<drawItem>template;LEDS-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
+		<oompSimp>
+			<drawItem>template;LEDS-10-X-XXXX-01-simp</drawItem>
+		</oompSimp>
 		<ooDesignator>D1</ooDesignator>
-</oompPart>
+	</oompPart>
 </xml>

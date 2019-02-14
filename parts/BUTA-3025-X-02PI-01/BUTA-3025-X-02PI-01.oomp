@@ -1,36 +1,14 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>BUTA-3025-X-02PI-01</oompID>
-        <name>SMD (3025) 2 Pin Pushbutton (Tactile)</name>        
+	<oompPart>
+		<oompID>BUTA-3025-X-02PI-01</oompID>
+		<name>SMD (3025) 2 Pin Pushbutton (Tactile)</name>
 		<hexID>BT3025</hexID>
-        <oompSort>BUTA302502PI</oompSort>		
-		<oompClass></oompClass>
-		<oompClassCode></oompClassCode>		
-		
-        <oompType>BUTA</oompType>
-        <oompSize>3025</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>02PI</oompDesc>
-        <oompIndex>01</oompIndex>        
-		<oompVersion>98</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins>2</ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
+		<oompSort>BUTA302502PI</oompSort><oompType>BUTA</oompType>
+		<oompSize>3025</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>02PI</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>98</oompVersion><ooNumPins>2</ooNumPins>
 		<sourceList>
 			<manufacturer>
 				<company>omron</company>
@@ -38,13 +16,9 @@
 				<name></name>
 				<partID>B3U-1000P-2P-SMD</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
-				
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
@@ -55,21 +29,7 @@
 				<oplPackage>L3.0*W2.5*H1.2+0.4mm</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    </oompPart>	
-	<oompBbls></oompBbls>	
-	<oompDiag></oompDiag>	
-	<oompIden></oompIden>	
-	<oompSchem></oompSchem>	
-	<oompSimp></oompSimp>			<ooPackageMarking></ooPackageMarking>
+		</oplList>
 		<ooDesignator>S1</ooDesignator>
+	</oompPart>
 </xml>

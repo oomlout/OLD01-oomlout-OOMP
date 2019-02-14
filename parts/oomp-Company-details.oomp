@@ -1,335 +1,325 @@
 <xml>
-    <oompManufacturer>
-            <code>C-4UCN</code>
-            <name>4uCon</name>			
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-KEYS</code>
-            <name>Keystone Electronics</name>			
-    </oompManufacturer>    
-	    <oompManufacturer>
-            <code>C-KING</code>
-            <name>Kingbright</name>			
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-AVAG</code>
-            <name>Avago</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-ARDU</code>
-            <name>Arduino</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-EVER</code>
-            <name>Everlight</name>
-    </oompManufacturer>      
-    <oompManufacturer>
-            <code>C-ESSE</code>
-            <name>Essentra Components</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-GENE</code>
-            <name>Generic</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-DURA</code>
-            <name>Duratool</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-TECO</code>
-            <name>TE Connectivity</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-TYCO</code>
-            <name>TYCO</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-TRUO</code>
-            <name>TruOpto</name>
-			<note>Rapid Electronics Own Brand LEDs</note>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-TRFA</code>
-            <name>TR Fastenerso</name>
-			<note></note>
-    </oompManufacturer> 
-    <oompManufacturer>
-            <code>C-TRUP</code>
-            <name>TruCap</name>
-			<note>Rapid Electronics Own Brand Capacitors</note>
-    </oompManufacturer> 
-    <oompManufacturer>
-            <code>C-TRUH</code>
-            <name>TruOhm</name>
-			<note>Rapid Electronics Own Brand Resistors</note>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>Bourns</code>
-            <name>C-BOUR</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-PANA</code>
-            <name>Panasonic</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-PANJ</code>
-            <name>Panjit Semiconductor</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-MICR</code>
-            <name>Microchip</name>
-    </oompManufacturer>       <oompManufacturer>
-            <code>C-MURA</code>
-            <name>Murata</name>
-    </oompManufacturer>       <oompManufacturer>
-            <code>C-MONO</code>
-            <name>Monolithic Power Systems</name>
-    </oompManufacturer>       <oompManufacturer>
-            <code>C-NSTE</code>
-            <name>NS Tech</name>
-    </oompManufacturer>   
-    <oompManufacturer>
-            <code>C-NXPP</code>
-            <name>NXP</name>
-    </oompManufacturer>   
-	
-    <oompManufacturer>
-            <code>C-FCII</code>
-            <name>FCI</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-TRUC</code>
-            <name>TruConnect</name>
-			<note>Rapid Electronics Own Brand Connectors</note>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-TORE</code>
-            <name>Torex</name>
-			<note></note>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-TITI</code>
-            <name>Texas instruments</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-TITA</code>
-            <name>Titan</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-ATME</code>
-            <name>Atmel</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-FAIR</code>
-            <name>Fairchild Semiconductor</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-YAGE</code>
-            <name>Yageo</name>
-    </oompManufacturer>    
-    
-    <oompManufacturer>
-            <code>C-ROHM</code>
-            <name>ROHM</name>
-    </oompManufacturer>    
-    
-    <oompManufacturer>
-            <code>C-ROYA</code>
-            <name>RoyalOhm</name>
-    </oompManufacturer>    
-    
-    <oompManufacturer>
-            <code>C-RICH</code>
-            <name>RichTek</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-VISH</code>
-            <name>Vishay Dale</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-VSHO</code>
-            <name>VSHO Tech</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-YXCO</code>
-            <name>Yxcon</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-SULL</code>
-            <name>Sullins Connector Solutions</name>
-    </oompManufacturer>        <oompManufacturer>
-            <code>C-SUNT</code>
-            <name>Suntech</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-MULT</code>
-            <name>Multicomp</name>
-			<note>Farnell/Element14 Own Brand Products</note>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-SAMT</code>
-            <name>Samtec</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-SAMS</code>
-            <name>Samsung</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-AVXX</code>
-            <name>AVX</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-KEME</code>
-            <name>Kemet</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-POLY</code>
-            <name>Polyswitch</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-PERK</code>
-            <name>Perkin Elmer</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-TIAN</code>
-            <name>Tianrui</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-LITT</code>
-            <name>Littelfuse</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-LIYU</code>
-            <name>Li Yuan Electronics Co. Ltd.</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-AREV</code>
-            <name>Areva</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-UNIO</code>
-            <name>UniOhm</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-UNKN</code>
-            <name>Unknown</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-JCST</code>
-            <name>Jiangsu Changjiang Electronics</name>
-    </oompManufacturer>    
 	<oompManufacturer>
-            <code>C-JING</code>
-            <name>Jingpengyuan</name>
-    </oompManufacturer>    
-	
-    <oompManufacturer>
-            <code>C-STMI</code>
-            <name>STMicroelectronics</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-OMRO</code>
-            <name>Omron</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-ONSE</code>
-            <name>On Semiconductors</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-BEST</code>
-            <name>Shenzhen Best</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-CHEN</code>
-            <name>Chengguangxing</name>
-    </oompManufacturer>    
-	
-    <oompManufacturer>
-            <code>C-CUII</code>
-            <name>CUI</name>
-    </oompManufacturer>    
-	
-    <oompManufacturer>
-            <code>C-CODA</code>
-            <name>Shenzhen Codaca Electronic Co. Ltd.</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-CONS</code>
-            <name>Consonance</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-DARO</code>
-            <name>Darong</name>
-    </oompManufacturer>    
-	
-    <oompManufacturer>
-            <code>C-DHEI</code>
-            <name>Dongguan Heiling Electronic Co. Ltd.</name>
-    </oompManufacturer>    
-	
-    <oompManufacturer>
-            <code>C-SWIT</code>
-            <name>Switchcraft</name>
-    </oompManufacturer>    
- 
-    <oompManufacturer>
-            <code>C-CTSC</code>
-            <name>CTS Components</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-ADVA</code>
-            <name>Advanced Crystal technology</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-FOXE</code>
-            <name>Fox Electronics</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-GOOS</code>
-            <name>Ningbo Goosvn Electronic Co. Ltd.</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-HELI</code>
-            <name>Helishun</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-HENG</code>
-            <name>HK Heng Hong Electronics Hardware</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-IPAX</code>
-            <name>I-Pax</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-YONG</code>
-            <name>Yongyutai Electronics</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-TAIF</code>
-            <name>Taifeng</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-TAIW</code>
-            <name>Taiwan Semiconductor</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code>C-CKCO</code>
-            <name>C and K Components</name>
-    </oompManufacturer>    
-	    <oompManufacturer>
-            <code>C-XIND</code>
-            <name>Xinde</name>
-    </oompManufacturer> 
-    <oompManufacturer>
-            <code>C-XINH</code>
-            <name>Xinhunjing</name>
-    </oompManufacturer>   	
-    <oompManufacturer>
-            <code>C-XIEJ</code>
-            <name>Xiejia</name>
-    </oompManufacturer>    
-    <oompManufacturer>
-            <code></code>
-            <name></name>
-    </oompManufacturer>    
+		<code>C-4UCN</code>
+		<name>4uCon</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-KEYS</code>
+		<name>Keystone Electronics</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-KING</code>
+		<name>Kingbright</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-AVAG</code>
+		<name>Avago</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-ARDU</code>
+		<name>Arduino</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-EVER</code>
+		<name>Everlight</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-ESSE</code>
+		<name>Essentra Components</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-GENE</code>
+		<name>Generic</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-DURA</code>
+		<name>Duratool</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-TECO</code>
+		<name>TE Connectivity</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-TYCO</code>
+		<name>TYCO</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-TRUO</code>
+		<name>TruOpto</name>
+		<note>Rapid Electronics Own Brand LEDs</note>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-TRFA</code>
+		<name>TR Fastenerso</name>
+		<note></note>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-TRUP</code>
+		<name>TruCap</name>
+		<note>Rapid Electronics Own Brand Capacitors</note>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-TRUH</code>
+		<name>TruOhm</name>
+		<note>Rapid Electronics Own Brand Resistors</note>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>Bourns</code>
+		<name>C-BOUR</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-PANA</code>
+		<name>Panasonic</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-PANJ</code>
+		<name>Panjit Semiconductor</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-MICR</code>
+		<name>Microchip</name>
+		</oompManufacturer>       <oompManufacturer>
+		<code>C-MURA</code>
+		<name>Murata</name>
+		</oompManufacturer>       <oompManufacturer>
+		<code>C-MONO</code>
+		<name>Monolithic Power Systems</name>
+		</oompManufacturer>       <oompManufacturer>
+		<code>C-NSTE</code>
+		<name>NS Tech</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-NXPP</code>
+		<name>NXP</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-FCII</code>
+		<name>FCI</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-TRUC</code>
+		<name>TruConnect</name>
+		<note>Rapid Electronics Own Brand Connectors</note>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-TORE</code>
+		<name>Torex</name>
+		<note></note>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-TITI</code>
+		<name>Texas instruments</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-TITA</code>
+		<name>Titan</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-ATME</code>
+		<name>Atmel</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-FAIR</code>
+		<name>Fairchild Semiconductor</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-YAGE</code>
+		<name>Yageo</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-ROHM</code>
+		<name>ROHM</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-ROYA</code>
+		<name>RoyalOhm</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-RICH</code>
+		<name>RichTek</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-VISH</code>
+		<name>Vishay Dale</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-VSHO</code>
+		<name>VSHO Tech</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-YXCO</code>
+		<name>Yxcon</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-SULL</code>
+		<name>Sullins Connector Solutions</name>
+		</oompManufacturer>        <oompManufacturer>
+		<code>C-SUNT</code>
+		<name>Suntech</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-MULT</code>
+		<name>Multicomp</name>
+		<note>Farnell/Element14 Own Brand Products</note>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-SAMT</code>
+		<name>Samtec</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-SAMS</code>
+		<name>Samsung</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-AVXX</code>
+		<name>AVX</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-KEME</code>
+		<name>Kemet</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-POLY</code>
+		<name>Polyswitch</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-PERK</code>
+		<name>Perkin Elmer</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-TIAN</code>
+		<name>Tianrui</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-LITT</code>
+		<name>Littelfuse</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-LIYU</code>
+		<name>Li Yuan Electronics Co. Ltd.</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-AREV</code>
+		<name>Areva</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-UNIO</code>
+		<name>UniOhm</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-UNKN</code>
+		<name>Unknown</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-JCST</code>
+		<name>Jiangsu Changjiang Electronics</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-JING</code>
+		<name>Jingpengyuan</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-STMI</code>
+		<name>STMicroelectronics</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-OMRO</code>
+		<name>Omron</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-ONSE</code>
+		<name>On Semiconductors</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-BEST</code>
+		<name>Shenzhen Best</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-CHEN</code>
+		<name>Chengguangxing</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-CUII</code>
+		<name>CUI</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-CODA</code>
+		<name>Shenzhen Codaca Electronic Co. Ltd.</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-CONS</code>
+		<name>Consonance</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-DARO</code>
+		<name>Darong</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-DHEI</code>
+		<name>Dongguan Heiling Electronic Co. Ltd.</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-SWIT</code>
+		<name>Switchcraft</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-CTSC</code>
+		<name>CTS Components</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-ADVA</code>
+		<name>Advanced Crystal technology</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-FOXE</code>
+		<name>Fox Electronics</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-GOOS</code>
+		<name>Ningbo Goosvn Electronic Co. Ltd.</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-HELI</code>
+		<name>Helishun</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-HENG</code>
+		<name>HK Heng Hong Electronics Hardware</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-IPAX</code>
+		<name>I-Pax</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-YONG</code>
+		<name>Yongyutai Electronics</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-TAIF</code>
+		<name>Taifeng</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-TAIW</code>
+		<name>Taiwan Semiconductor</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-CKCO</code>
+		<name>C and K Components</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-XIND</code>
+		<name>Xinde</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-XINH</code>
+		<name>Xinhunjing</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code>C-XIEJ</code>
+		<name>Xiejia</name>
+	</oompManufacturer>
+	<oompManufacturer>
+		<code></code>
+		<name></name>
+	</oompManufacturer>
 </xml>

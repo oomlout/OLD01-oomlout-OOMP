@@ -1,95 +1,30 @@
-﻿<xml>    
+﻿<xml>
 	<oompPart>
-        <index>4274</index><!--OOMP Base -->
-        <oompID>REFU-1812-X-A05D-VE</oompID>
-        <name>SMD (1812) 500 mA Resetable Fuse 15v</name>
-        <hexID>RF805</hexID>
-        <oompSort>181200.500</oompSort>
-        <oompType>REFU</oompType>
-        <oompSize>1812</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>A05D</oompDesc>
-        <oompIndex>VE</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion>99</oompVersion>
-<!--Size -->
-        <ooPitch></ooPitch>
-        <ooWidth>4.5 mm</ooWidth>
-        <ooHeight>0.75 mm</ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>3.25 mm</ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize><com>SMD</com>
+		<index>4274</index>
+		<oompID>REFU-1812-X-A05D-VE</oompID>
+		<name>SMD (1812) 500 mA Resetable Fuse 15v</name>
+		<hexID>RF805</hexID>
+		<oompSort>181200.500</oompSort>
+		<oompType>REFU</oompType>
+		<oompSize>1812</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>A05D</oompDesc>
+		<oompIndex>VE</oompIndex>
+		<oompVersion>99</oompVersion>
+		<ooWidth>4.5 mm</ooWidth>
+		<ooHeight>0.75 mm</ooHeight>
+		<ooLength>3.25 mm</ooLength>
+		<com>SMD</com>
 		<ooPackageMarking>50##</ooPackageMarking>>
-<!--Manufacturer -->
-        <ooManufacturer></ooManufacturer>
-        <ooManufacturerPartNumber></ooManufacturerPartNumber>
-<!--Description -->
-        <ooMaterial></ooMaterial>
-        <ooNumPins>2</ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating>
-<!--Hardware -->
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize>
-<!--Maximums -->
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<!--Heat Shrink -->
-        <ooShrinkRatio></ooShrinkRatio>
-<!--LED -->
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY>
-<COM>Common Uses</COM>		
-		<usageList>
-			<useItem>
-				<useID>1</useID>
-				<importance>1</importance>
-				<useTitle></useTitle>
-				<useDescription></useDescription>
-			</useItem>
-		</usageList>
-		<!--Plug -->
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength>
-<!--SEEED OPL (Open Parts Library) -->
-        <ooSEEEDsku></ooSEEEDsku>
-        <ooSEEEDdesc></ooSEEEDdesc>
-<!--Hidden -->
-        <oompVersion></oompVersion>
-        <ooNameLine1of2></ooNameLine1of2>
-        <ooNameLine2of2></ooNameLine2of2>
-        <ooNameLine1of3></ooNameLine1of3>
-        <ooNameLine2of3></ooNameLine2of3>
-        <ooNameLine3of3></ooNameLine3of3>
-        <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-        <ooSEEED3dModel></ooSEEED3dModel>
-<!-- -->    		<sourceList>
+		<ooNumPins>2</ooNumPins>
+		<sourceList>
 			<manufacturer>
 				<company>Bourns</company>
 				<companyCode>C-BOUR</companyCode>
 				<name></name>
 				<partID>MF-MSMF050-2</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<manufacturer>
 				<company>Littelfuse</company>
@@ -97,7 +32,7 @@
 				<name></name>
 				<partID>1812L050PR</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<manufacturer>
 				<company>Polyswitch</company>
@@ -105,9 +40,8 @@
 				<name></name>
 				<partID>KT15-0500SMD</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 			<bigDistributor>
 				<company>DigiKey</company>
 				<companyCode>C-DIGK</companyCode>
@@ -115,14 +49,14 @@
 				<partID>MF-MSMF050-2CT-ND</partID>
 				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/MF-MSMF050-2/MF-MSMF050-2CT-ND/662842]]></link>
 				<note></note>
-			</bigDistributor>			<bigDistributor>
+				</bigDistributor>			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
 				<name>LITTELFUSE  1812L050PR  RESETTABLE FUSE, SERIES 1812L</name>
 				<partID>1653478</partID>
 				<link><![CDATA[http://uk.farnell.com/littelfuse/1812l050pr/resettable-fuse-series-1812l/dp/1653478]]></link>
 				<note></note>
-			</bigDistributor>			
+			</bigDistributor>
 			<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
@@ -138,8 +72,7 @@
 				<partID>647-8156</partID>
 				<link><![CDATA[http://uk.rs-online.com/web/p/resettable-surface-mount-fuses/6478156/?searchTerm=MF-MSMF050-2&relevancy-data=636F3D3226696E3D4931384E4B6E6F776E41734D504E266C753D656E266D6D3D6D61746368616C6C7061727469616C26706D3D5E5B5C707B4C7D5C707B4E647D2D2C2F255C2E5D2B2426706F3D313326736E3D592673743D4D414E5F504152545F4E554D4245522677633D424F5448267573743D4D462D4D534D463035302D3226]]></link>
 				<note></note>
-			</bigDistributor>		
-						
+			</bigDistributor>
 		</sourceList>
 		<oplList>
 			<oplSystem>
@@ -150,7 +83,7 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://circuithub.com/parts/BOURNS/MF-MSMF050-2]]></oplLink>
-			</oplSystem>			
+			</oplSystem>
 			<oplSystem>
 				<oplScheme>Octopart CPL</oplScheme>
 				<oplCode>C-OCTO</oplCode>
@@ -159,7 +92,7 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[]]></oplLink>
-			</oplSystem>	
+			</oplSystem>
 			<oplSystem>
 				<oplScheme>Seeed Studio OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
@@ -169,16 +102,12 @@
 				<oplPackage>1812</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList>	<oompClass>Surface Mount</oompClass>
-	<oompClassCode>SMDS</oompClassCode>
-	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem>
-		<drawItem>template;REFU-XXXX-X-XXXX-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+		</oplList>
+		<oompClass>Surface Mount</oompClass>
+		<oompClassCode>SMDS</oompClassCode>
+		<oompSchem>
+			<drawItem>template;REFU-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
 		<ooDesignator>F1</ooDesignator>
-</oompPart>
+	</oompPart>
 </xml>

@@ -1,36 +1,21 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>BUTA-6035-X-STAN-01</oompID>
-        <name>SMD (6035) Pushbutton (Tactile)</name>        
+	<oompPart>
+		<oompID>BUTA-6035-X-STAN-01</oompID>
+		<name>SMD (6035) Pushbutton (Tactile)</name>
 		<hexID>B6035</hexID>
-        <oompSort></oompSort>		
+		<oompSort></oompSort>
 		<oompClass>Surface Mount</oompClass>
-		<oompClassCode>SDMS</oompClassCode>		
-		
-        <oompType>BUTA</oompType>
-        <oompSize>6035</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>STAN</oompDesc>
-        <oompIndex>01</oompIndex>        
+		<oompClassCode>SDMS</oompClassCode>
+		<oompType>BUTA</oompType>
+		<oompSize>6035</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>STAN</oompDesc>
+		<oompIndex>01</oompIndex>
 		<oompVersion>99</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth>3.5 mm</ooWidth>
-        <ooHeight>2.5 mm</ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>6 mm</ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins>2</ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
+		<ooWidth>3.5 mm</ooWidth>
+		<ooHeight>2.5 mm</ooHeight>
+		<ooLength>6 mm</ooLength>
+		<ooNumPins>2</ooNumPins>
 		<sourceList>
 			<manufacturer>
 				<company>Xiejia</company>
@@ -38,42 +23,14 @@
 				<name></name>
 				<partID>TD-19XA</partID>
 				<link><![CDATA[http://xiejia.net/productsShow.asp?MID=185&SID=945]]></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 		</sourceList>
-		
-<com>OPL</com>		
-		<oplList>
-			<oplSystem>
-				<oplScheme></oplScheme>
-				<oplCode></oplCode>
-				<oplName></oplName>
-				<oplID></oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[]]></oplLink>
-			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem>
+		<oompSchem>
 			<oompIden>
 				<drawItem>template;BUTA-XXXX-X-XXXX-XX-schem</drawItem>
-			</oompIden>	
-	</oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+			</oompIden>
+		</oompSchem>
 		<ooDesignator>S1</ooDesignator>
-</oompPart>	
-	
+	</oompPart>
 </xml>

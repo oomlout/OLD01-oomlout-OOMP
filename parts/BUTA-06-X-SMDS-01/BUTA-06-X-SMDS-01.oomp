@@ -1,53 +1,18 @@
-﻿<xml>    
+﻿<xml>
 	<oompPart>
-        <index>4315</index><!--OOMP Base -->
-        <oompID>BUTA-06-X-SMDS-01</oompID>
-        <name>6 mm SMD Pushbutton (Tactile)</name>
-        <hexID>B06</hexID>
-        <oompSort>0606</oompSort>
-        <oompType>BUTA</oompType>
-        <oompSize>06</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>SMDS</oompDesc>
-        <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion>99</oompVersion>
-<!--Size -->
-        <ooPitch></ooPitch>
-        <ooWidth>6.2 mm</ooWidth>
-        <ooHeight>3.5 mm</ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>6.2 mm</ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize>
-<!--Manufacturer -->
-        <ooManufacturer></ooManufacturer>
-        <ooManufacturerPartNumber></ooManufacturerPartNumber>
-<!--Description -->
-        <ooMaterial></ooMaterial>
-        <ooNumPins>4</ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating>
-<!--Hardware -->
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize>
-<!--Maximums -->
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<!--Heat Shrink -->
-        <ooShrinkRatio></ooShrinkRatio>
-<!--LED -->
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY>
-<COM>Common Uses</COM>		
+		<index>4315</index>
+		<oompID>BUTA-06-X-SMDS-01</oompID>
+		<name>6 mm SMD Pushbutton (Tactile)</name>
+		<hexID>B06</hexID>
+		<oompSort>0606</oompSort>
+		<oompType>BUTA</oompType>
+		<oompSize>06</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>SMDS</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>99</oompVersion><ooWidth>6.2 mm</ooWidth>
+		<ooHeight>3.5 mm</ooHeight>
+		<ooLength>6.2 mm</ooLength><ooNumPins>4</ooNumPins>
 		<usageList>
 			<useItem>
 				<useID>1</useID>
@@ -61,46 +26,40 @@
 				<useTitle>Keypad Button</useTitle>
 				<useDescription>a button on a keypad.</useDescription>
 			</useItem>
-		</usageList>
-		<!--Plug -->
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength>
-<!--SEEED OPL (Open Parts Library) -->
-        <ooSEEEDsku></ooSEEEDsku>
-        <ooSEEEDdesc></ooSEEEDdesc>		<sourceList>
+			</usageList>
+		<sourceList>
 			<manufacturer>
 				<company>Diptronics</company>
 				<companyCode>C-DIPT</companyCode>
 				<name></name>
 				<partID>DTSM-62K-S-V-T/R(SN431)</partID>
 				<link></link>
-				<note></note>			
-			</manufacturer>		
+				<note></note>
+			</manufacturer>
 			<manufacturer>
 				<company>Omron</company>
 				<companyCode>C-OMRO</companyCode>
 				<name></name>
 				<partID>B3S-1000</partID>
 				<link></link>
-				<note></note>			
-			</manufacturer>	
+				<note></note>
+			</manufacturer>
 			<manufacturer>
 				<company>Schurter</company>
 				<companyCode>C-SCHU</companyCode>
 				<name></name>
 				<partID>1301.9315</partID>
 				<link></link>
-				<note></note>			
-			</manufacturer>				
+				<note></note>
+			</manufacturer>
 			<manufacturer>
 				<company>RVFM</company>
 				<companyCode>C-RVFM</companyCode>
 				<name></name>
 				<partID>DTSM-62K</partID>
 				<link></link>
-				<note></note>			
-			</manufacturer>				
+				<note></note>
+			</manufacturer>
 			<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
@@ -108,7 +67,7 @@
 				<partID>693-1301.9315</partID>
 				<link><![CDATA[http://uk.mouser.com/ProductDetail/Schurter/13019315/?qs=sGAEpiMZZMvxtGF7dlGNpine0yr6cgj2blZOKgiiQpQ%3d]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>
 			<bigDistributor>
 				<company>DigiKey</company>
 				<companyCode>C-DIGK</companyCode>
@@ -116,7 +75,7 @@
 				<partID>1301.9315-ND</partID>
 				<link><![CDATA[http://www.digikey.co.uk/product-search/en?x=26&y=16&lang=en&site=uk&KeyWords=1301.9315-ND]]></link>
 				<note></note>
-			</bigDistributor>			
+			</bigDistributor>
 			<bigDistributor>
 				<company>Rapid Electronics</company>
 				<companyCode>C-RAPI</companyCode>
@@ -124,77 +83,47 @@
 				<partID>78-1132</partID>
 				<link><![CDATA[http://www.rapidonline.com/electronic-components/3-5mm-smd-6x6mm-tactile-switch-78-1132]]></link>
 				<note></note>
-			</bigDistributor>
-	
-										</sourceList>
-		<oplList>
-					<oplSystem>
-				<oplScheme>Circuithub.com</oplScheme>
-				<oplCode>C-CIRC</oplCode>
-				<oplName>OMRON/B3S-1000</oplName>
-				<oplID>OMRON/B3S-1000</oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[https://circuithub.com/parts/OMRON/B3S-1000]]></oplLink>
-			</oplSystem>
-			<oplSystem>
-				<oplScheme>SEEED OPL</oplScheme>
-				<oplCode>C-SEEE</oplCode>
-				<oplName>SWITCH TACTILE SPST-NO 0.05A 12V</oplName>
-				<oplID>311020004</oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage>4P-SMD-6.0X6.0X5.0H</oplPackage>				
-				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
-			</oplSystem>
-		</oplList>
-		
-<!--Hidden -->
-        <oompVersion></oompVersion>
-        <ooNameLine1of2></ooNameLine1of2>
-        <ooNameLine2of2></ooNameLine2of2>
-        <ooNameLine1of3></ooNameLine1of3>
-        <ooNameLine2of3></ooNameLine2of3>
-        <ooNameLine3of3></ooNameLine3of3>
-        <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout><![CDATA[A commonly used through surface mount tactile pushbutton. For a through hole version of this part see <a href="http://learn.oomlout.co.uk/OO/Projects/oomp/part/BUTA-06-X-STAN-01">BUTA-06-X-STAN-01</a>.]]></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-        <ooSEEED3dModel></ooSEEED3dModel>
-<!-- -->    
-	<oompClass>Surface Mount</oompClass>
-	<oompClassCode>SMDS</oompClassCode>
-		
-	
-	
-	<oompBbls></oompBbls>
+			</bigDistributor></sourceList>
+			<oplList>
+				<oplSystem>
+					<oplScheme>Circuithub.com</oplScheme>
+					<oplCode>C-CIRC</oplCode>
+					<oplName>OMRON/B3S-1000</oplName>
+					<oplID>OMRON/B3S-1000</oplID>
+					<oplFootprint></oplFootprint>
+					<oplPackage></oplPackage>
+					<oplLink><![CDATA[https://circuithub.com/parts/OMRON/B3S-1000]]></oplLink>
+				</oplSystem>
+				<oplSystem>
+					<oplScheme>SEEED OPL</oplScheme>
+					<oplCode>C-SEEE</oplCode>
+					<oplName>SWITCH TACTILE SPST-NO 0.05A 12V</oplName>
+					<oplID>311020004</oplID>
+					<oplFootprint></oplFootprint>
+					<oplPackage>4P-SMD-6.0X6.0X5.0H</oplPackage>
+					<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
+				</oplSystem>
+			</oplList><oompAbout><![CDATA[A commonly used through surface mount tactile pushbutton. For a through hole version of this part see <a href="http://learn.oomlout.co.uk/OO/Projects/oomp/part/BUTA-06-X-STAN-01">BUTA-06-X-STAN-01</a>.]]></oompAbout>
+			<oompClass>Surface Mount</oompClass>
+			<oompClassCode>SMDS</oompClassCode>
 			<oompDiag>
-		<drawItem>rectangle;0;0;6.2;6.2;Main Square</drawItem>  		
-		<drawItem>circle;0;0;3.5;3.5;Main Button</drawItem>					
-		<drawItem>circle;2.15;2.15;0.75;0.75;Circle Nub 1</drawItem>
-		<drawItem>circle;-2.15;-2.15;0.75;0.75;Circle Nub 2</drawItem>
-		<drawItem>circle;2.15;-2.15;0.75;0.75;Circle Nub 3</drawItem>
-		<drawItem>circle;-2.15;2.15;0.75;0.75;Circle Nub 4</drawItem>
-		<drawItem>rectangle;3.8;2.25;1.4;0.7;pad 1</drawItem>
-		<drawItem>rectangle;-3.8;-2.25;1.4;0.7;pad 2</drawItem>
-		<drawItem>rectangle;-3.8;2.25;1.4;0.7;pad 3</drawItem>
-		<drawItem>rectangle;3.8;-2.25;1.4;0.7;pad 4</drawItem>
-		<drawItem>oompName;0;5;20;5;##name@@</drawItem>
-		<drawItem>oompURL;0;-5;2.835;##hexID@@</drawItem>	
-	</oompDiag>	
-	<oompIden></oompIden>
-	<oompSchem>
-			<oompIden>
-				<drawItem>template;BUTA-XXXX-X-XXXX-XX-schem</drawItem>
-			</oompIden>	
-	</oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
-		<ooDesignator>S1</ooDesignator>
-</oompPart>
+				<drawItem>rectangle;0;0;6.2;6.2;Main Square</drawItem>
+				<drawItem>circle;0;0;3.5;3.5;Main Button</drawItem>
+				<drawItem>circle;2.15;2.15;0.75;0.75;Circle Nub 1</drawItem>
+				<drawItem>circle;-2.15;-2.15;0.75;0.75;Circle Nub 2</drawItem>
+				<drawItem>circle;2.15;-2.15;0.75;0.75;Circle Nub 3</drawItem>
+				<drawItem>circle;-2.15;2.15;0.75;0.75;Circle Nub 4</drawItem>
+				<drawItem>rectangle;3.8;2.25;1.4;0.7;pad 1</drawItem>
+				<drawItem>rectangle;-3.8;-2.25;1.4;0.7;pad 2</drawItem>
+				<drawItem>rectangle;-3.8;2.25;1.4;0.7;pad 3</drawItem>
+				<drawItem>rectangle;3.8;-2.25;1.4;0.7;pad 4</drawItem>
+				<drawItem>oompName;0;5;20;5;##name@@</drawItem>
+				<drawItem>oompURL;0;-5;2.835;##hexID@@</drawItem>
+			</oompDiag>
+			<oompSchem>
+				<oompIden>
+					<drawItem>template;BUTA-XXXX-X-XXXX-XX-schem</drawItem>
+				</oompIden>
+			</oompSchem><ooDesignator>S1</ooDesignator>
+	</oompPart>
 </xml>

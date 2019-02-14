@@ -1,41 +1,23 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>HEAD-I01-W-03PI-01</oompID>
-        <name>2.54 mm 3 Pin White Header</name>        
+	<oompPart>
+		<oompID>HEAD-I01-W-03PI-01</oompID>
+		<name>2.54 mm 3 Pin White Header</name>
 		<hexID>H03W</hexID>
-        <oompSort></oompSort>		
+		<oompSort></oompSort>
 		<oompClass>Through Hole</oompClass>
-		<oompClassCode>THTH</oompClassCode>		
-		
-        <oompType>HEAD</oompType>
-        <oompSize>I01</oompSize>
-        <oompColor>W</oompColor>
-        <oompDesc>03PI</oompDesc>
-        <oompIndex>01</oompIndex>        
+		<oompClassCode>THTH</oompClassCode>
+		<oompType>HEAD</oompType>
+		<oompSize>I01</oompSize>
+		<oompColor>W</oompColor>
+		<oompDesc>03PI</oompDesc>
+		<oompIndex>01</oompIndex>
 		<oompVersion>40</oompVersion>
-		
-		
-<com>Size</com>
-         <ooPitch>2.54</ooPitch>
-        <ooPinHeight>11.60</ooPinHeight>
-        <ooPinWidth>0.64</ooPinWidth>
+		<ooPitch>2.54</ooPitch>
+		<ooPinHeight>11.60</ooPinHeight>
+		<ooPinWidth>0.64</ooPinWidth>
 		<ooPinOffset>1.53</ooPinOffset>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins>3</ooNumPins>
+		<ooNumPins>3</ooNumPins>
 		<ooFootprint>OOMP-HEAD-I01-X-03PI-01</ooFootprint>
-        	
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
 		<sourceList>
 			<manufacturer>
 				<company>Yxcon</company>
@@ -43,12 +25,9 @@
 				<name></name>
 				<partID>P125-1103A0BS116A1</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
@@ -59,42 +38,30 @@
 				<oplPackage>1*3P-2.54-2.54-11.6/3.0mm</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-	<oompBbls>
+		</oplList>
+		<oompBbls>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;3</drawItem>
+			<drawItem>template;XXXX-I01-X-XX-01-bbls</drawItem>
+		</oompBbls>
+		<oompDiag>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;3</drawItem>
+			<drawItem>template;HEAD-I01-X-XX-01-diag</drawItem>
+		</oompDiag>
 		<drawItem>variable;clear</drawItem>
 		<drawItem>variable;pins;3</drawItem>
-		<drawItem>template;XXXX-I01-X-XX-01-bbls</drawItem>
-	</oompBbls>
-	<oompDiag>
-		<drawItem>variable;clear</drawItem>
-		<drawItem>variable;pins;3</drawItem>
-		<drawItem>template;HEAD-I01-X-XX-01-diag</drawItem>
-	</oompDiag>
-	<oompIden></oompIden>
-		<drawItem>variable;clear</drawItem>
-		<drawItem>variable;pins;3</drawItem>
-		<drawItem>template;XXXX-I01-X-XX-01-iden</drawItem>		
-	<oompSchem>
-		<drawItem>variable;clear</drawItem>
-		<drawItem>variable;pins;3</drawItem>
-		<drawItem>template;XXXX-XX-X-XX-01-PINS-ODD-schem</drawItem>	
-	</oompSchem>
-	<oompSimp>
-		<drawItem>variable;clear</drawItem>
-		<drawItem>variable;pins;3</drawItem>
-		<drawItem>template;XXXX-I01-X-XX-01-simp</drawItem>		
-	</oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+		<drawItem>template;XXXX-I01-X-XX-01-iden</drawItem>
+		<oompSchem>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;3</drawItem>
+			<drawItem>template;XXXX-XX-X-XX-01-PINS-ODD-schem</drawItem>
+		</oompSchem>
+		<oompSimp>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;3</drawItem>
+			<drawItem>template;XXXX-I01-X-XX-01-simp</drawItem>
+		</oompSimp>
 		<ooDesignator>J1</ooDesignator>
-</oompPart>	
-	
+	</oompPart>
 </xml>

@@ -1,61 +1,39 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>SENS-25X13-X-PIVB-01</oompID>
-        <name>25 x 13 mm Piezo Vibration Sensor</name>        
+	<oompPart>
+		<oompID>SENS-25X13-X-PIVB-01</oompID>
+		<name>25 x 13 mm Piezo Vibration Sensor</name>
 		<hexID>SEVB</hexID>
-        <oompSort>SENS25X13PIVB</oompSort>		
-		<oompClass></oompClass>
-		<oompClassCode></oompClassCode>		
-		
-        <oompType>SENS</oompType>
-        <oompSize>25X13</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>PIVB</oompDesc>
-        <oompIndex>01</oompIndex>        
+		<oompSort>SENS25X13PIVB</oompSort><oompType>SENS</oompType>
+		<oompSize>25X13</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>PIVB</oompDesc>
+		<oompIndex>01</oompIndex>
 		<oompVersion>98</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth>25 mm</ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>13 mm</ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins></ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
-		<sourceList>
+		<ooWidth>25 mm</ooWidth>
+		<ooLength>13 mm</ooLength>
+<sourceList>
 			<manufacturer>
 				<company>MEAS</company>
 				<companyCode>C-MEAS</companyCode>
 				<name></name>
 				<partID>1002794</partID>
 				<link></link>
-				<note></note>			
-			</manufacturer>
-				
-			<bigDistributor>
+				<note></note>
+				</manufacturer><bigDistributor>
 				<company>Digikey</company>
 				<companyCode>C-DIGK</companyCode>
 				<name></name>
 				<partID>MSP1006-ND</partID>
 				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=MSP1006-ND]]></link>
 				<note></note>
-			</bigDistributor>								<bigDistributor>
+				</bigDistributor>								<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
 				<name></name>
 				<partID>824-1002794</partID>
 				<link><![CDATA[http://www.mouser.co.uk/Search/Refine.aspx?Keyword=824-1002794]]></link>
 				<note></note>
-			</bigDistributor>	
+			</bigDistributor>
 			<bigDistributor>
 				<company>RS Electronics</company>
 				<companyCode>C-RSRS</companyCode>
@@ -63,10 +41,8 @@
 				<partID>893-7086</partID>
 				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=893-7086]]></link>
 				<note></note>
-			</bigDistributor>		
+			</bigDistributor>
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
@@ -77,21 +53,6 @@
 				<oplPackage>L25.0*W15.0*H1.0</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    </oompPart>	
-	<oompBbls></oompBbls>	
-	<oompDiag></oompDiag>	
-	<oompIden></oompIden>	
-	<oompSchem></oompSchem>	
-	<oompSimp></oompSimp>			<ooPackageMarking></ooPackageMarking>
-		<ooDesignator>0</ooDesignator>
+		</oplList>
+	</oompPart>
 </xml>

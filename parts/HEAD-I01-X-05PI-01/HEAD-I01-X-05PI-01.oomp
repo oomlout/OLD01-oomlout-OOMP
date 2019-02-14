@@ -1,97 +1,47 @@
 <xml>
-<oompPart>
-        <index>9876</index><com>OOMP Base</com>
-        <oompID>HEAD-I01-X-05PI-01</oompID>
-        <name>2.54 mm 5 Pin Header</name>
-        <hexID>H05</hexID>
-        <oompSort>010105</oompSort>
-        <oompType>HEAD</oompType>
-        <oompSize>I01</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>05PI</oompDesc>
-        <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion></oompVersion>
-<com>Size</com>
-         <ooPitch>2.54</ooPitch>
-        <ooPinHeight>11.60</ooPinHeight>
-        <ooPinWidth>0.64</ooPinWidth>
+	<oompPart>
+		<index>9876</index>
+		<oompID>HEAD-I01-X-05PI-01</oompID>
+		<name>2.54 mm 5 Pin Header</name>
+		<hexID>H05</hexID>
+		<oompSort>010105</oompSort>
+		<oompType>HEAD</oompType>
+		<oompSize>I01</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>05PI</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>99</oompVersion>
+		<ooPitch>2.54</ooPitch>
+		<ooPinHeight>11.60</ooPinHeight>
+		<ooPinWidth>0.64</ooPinWidth>
 		<ooPinOffset>1.53</ooPinOffset>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize><com>Description</com>
-        <ooMaterial></ooMaterial>
-        <ooNumPins>5</ooNumPins>
+		<ooNumPins>5</ooNumPins>
 		<ooFootprint>OOMP-HEAD-I01-X-05PI-01</ooFootprint>
-        
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating><com>Hardware</com>
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize><com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance><com>Heat Shrink</com>
-        <ooShrinkRatio></ooShrinkRatio><com>LED</com>
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY><com>Plug</com>
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength><com>Source List</com>		
-		<sourceList>
-				
-				
-		</sourceList>
-		
-<com>OPL</com>		
-		<oplList>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-    
-	<oompClass>Through Hole Component</oompClass>
-	<oompClassCode>THTH</oompClassCode>
-	<oompBbls>
+		<oompClass>Through Hole Component</oompClass>
+		<oompClassCode>THTH</oompClassCode>
+		<oompBbls>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;5</drawItem>
+			<drawItem>template;XXXX-I01-X-XX-01-bbls</drawItem>
+		</oompBbls>
+		<oompDiag>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;5</drawItem>
+			<drawItem>template;HEAD-I01-X-XX-01-diag</drawItem>
+		</oompDiag>
 		<drawItem>variable;clear</drawItem>
 		<drawItem>variable;pins;5</drawItem>
-		<drawItem>template;XXXX-I01-X-XX-01-bbls</drawItem>
-	</oompBbls>
-	<oompDiag>
-		<drawItem>variable;clear</drawItem>
-		<drawItem>variable;pins;5</drawItem>
-		<drawItem>template;HEAD-I01-X-XX-01-diag</drawItem>
-	</oompDiag>
-	<oompIden></oompIden>
-		<drawItem>variable;clear</drawItem>
-		<drawItem>variable;pins;5</drawItem>
-		<drawItem>template;XXXX-I01-X-XX-01-iden</drawItem>		
-	<oompSchem>
-		<drawItem>variable;clear</drawItem>
-		<drawItem>variable;pins;5</drawItem>
-		<drawItem>template;XXXX-XX-X-XX-01-PINS-ODD-schem</drawItem>	
-	</oompSchem>
-	<oompSimp>
-		<drawItem>variable;clear</drawItem>
-		<drawItem>variable;pins;5</drawItem>
-		<drawItem>template;XXXX-I01-X-XX-01-simp</drawItem>		
-	</oompSimp>
-		<ooPackageMarking></ooPackageMarking>
-		<ooDesignator>J1</ooDesignator>>
-</oompPart>
-</xml>
+		<drawItem>template;XXXX-I01-X-XX-01-iden</drawItem>
+		<oompSchem>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;5</drawItem>
+			<drawItem>template;XXXX-XX-X-XX-01-PINS-ODD-schem</drawItem>
+		</oompSchem>
+		<oompSimp>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;5</drawItem>
+			<drawItem>template;XXXX-I01-X-XX-01-simp</drawItem>
+		</oompSimp>
+		<ooDesignator>J1</ooDesignator>
+	</oompPart>
+</xml>>

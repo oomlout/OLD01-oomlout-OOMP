@@ -1,49 +1,21 @@
 <xml>
-<oompPart>
-        <index>9876</index><com>OOMP Base</com>
-        <oompID>OPAM-MS08-X-KLMV358-01</oompID>
-        <name>8 Pin SMD (MSOP) LMV358 Op Amp</name>
-        <hexID>OAM358</hexID>
-        <oompSort>MS08LMV358</oompSort>
-        <oompType>OPAM</oompType>
-        <oompSize>MS08</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>KLMV358</oompDesc>
-        <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion></oompVersion>		<oompSkip>true</oompSkip><com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth>3 mm</ooWidth>
-        <ooHeight>1.1 mm</ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>4.9 mm</ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize>
-<com>SMD</com>
+	<oompPart>
+		<index>9876</index>
+		<oompID>OPAM-MS08-X-KLMV358-01</oompID>
+		<name>8 Pin SMD (MSOP) LMV358 Op Amp</name>
+		<hexID>OAM358</hexID>
+		<oompSort>MS08LMV358</oompSort>
+		<oompType>OPAM</oompType>
+		<oompSize>MS08</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>KLMV358</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>99</oompVersion>		<oompSkip>true</oompSkip><ooWidth>3 mm</ooWidth>
+		<ooHeight>1.1 mm</ooHeight>
+		<ooLength>4.9 mm</ooLength>
+		<com>SMD</com>
 		<ooPackageMarking>R5#</ooPackageMarking>
-<com>Description</com>
-        <ooMaterial></ooMaterial>
-        <ooNumPins>8</ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating><com>Hardware</com>
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize><com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance><com>Heat Shrink</com>
-        <ooShrinkRatio></ooShrinkRatio><com>LED</com>
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY><com>Plug</com>
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength><com>Source List</com>		
+		<ooNumPins>8</ooNumPins>
 		<sourceList>
 			<manufacturer>
 				<company>Texas Instruments</company>
@@ -51,7 +23,7 @@
 				<name></name>
 				<partID>LMV358IDGKR</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<manufacturer>
 				<company>Texas Instruments</company>
@@ -59,9 +31,8 @@
 				<name></name>
 				<partID>LMV358ID</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 			<bigDistributor>
 				<company>DigiKey</company>
 				<companyCode>C-DIGK</companyCode>
@@ -69,14 +40,14 @@
 				<partID>296-13455-1-ND</partID>
 				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/LMV358IDGKR/296-13455-1-ND/486370]]></link>
 				<note></note>
-			</bigDistributor>			<bigDistributor>
+				</bigDistributor>			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
 				<name>TEXAS INSTRUMENTS  LMV358IDGKR  OP AMP, LOW VOLTAGE, 1MHZ, 1V/US, MSOP-8</name>
 				<partID>2323295</partID>
 				<link><![CDATA[http://uk.farnell.com/texas-instruments/lmv358idgkr/op-amp-low-voltage-1mhz-1v-us/dp/2323295]]></link>
 				<note></note>
-			</bigDistributor>			
+			</bigDistributor>
 			<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
@@ -92,7 +63,7 @@
 				<partID>660-6727</partID>
 				<link><![CDATA[http://uk.rs-online.com/web/p/operational-amplifiers/6606727/?searchTerm=LMV358IDGKR&relevancy-data=636F3D3226696E3D4931384E4B6E6F776E41734D504E266C753D656E266D6D3D6D61746368616C6C7061727469616C26706D3D5E5B5C707B4C7D5C707B4E647D2D2C2F255C2E5D2B2426706F3D313326736E3D592673743D4D414E5F504152545F4E554D4245522677633D424F5448267573743D4C4D563335384944474B5226]]></link>
 				<note></note>
-			</bigDistributor>	
+			</bigDistributor>
 			<bigDistributor>
 				<company>SEEED</company>
 				<companyCode>C-SEEE</companyCode>
@@ -101,10 +72,7 @@
 				<link><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=169]]></link>
 				<note></note>
 			</bigDistributor>
-			
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>Circuithub.com</oplScheme>
@@ -133,25 +101,9 @@
 				<oplPackage>SOIC-8</oplPackage>
 				<oplLink><![CDATA[http://www.seeedstudio.com/depot/index.php?main_page=opl_info&opl_id=169]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-    
-	<oompClass>Surface Mount</oompClass>
-	<oompClassCode>SMDS</oompClassCode>
-	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem></oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+		</oplList>
+		<oompClass>Surface Mount</oompClass>
+		<oompClassCode>SMDS</oompClassCode>
 		<ooDesignator>U1</ooDesignator>
-</oompPart>
+	</oompPart>
 </xml>

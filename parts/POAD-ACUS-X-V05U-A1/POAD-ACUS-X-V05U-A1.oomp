@@ -1,36 +1,15 @@
 <xml>
-<oompPart>
-	<com>OOMP Base</com>
-        <oompID>POAD-ACUS-X-V05U-A1</oompID>
-        <name>American Style (120v) 5v (USB) Power Adapter 1 A</name>        
+	<oompPart>
+		<oompID>POAD-ACUS-X-V05U-A1</oompID>
+		<name>American Style (120v) 5v (USB) Power Adapter 1 A</name>
 		<hexID>PAU5</hexID>
-        <oompSort>POAD0501</oompSort>		
-		<oompClass></oompClass>
-		<oompClassCode></oompClassCode>		
-		
-        <oompType>POAD</oompType>
-        <oompSize>ACUS</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>V05U</oompDesc>
-        <oompIndex>A1</oompIndex>        
+		<oompSort>POAD0501</oompSort>
+		<oompType>POAD</oompType>
+		<oompSize>ACUS</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>V05U</oompDesc>
+		<oompIndex>A1</oompIndex>
 		<oompVersion>98</oompVersion>
-		
-		
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth><com>Description</com>
-        <ooNumPins></ooNumPins>
-        <ooPowerRating></ooPowerRating>
-<com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<com>Source List</com>		
 		<sourceList>
 			<manufacturer>
 				<company>PENGSHENGYE</company>
@@ -38,12 +17,9 @@
 				<name></name>
 				<partID>SAP050100CN-C</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
@@ -54,22 +30,6 @@
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>	
-    	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem></oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
-</oompPart>	
-	
+		</oplList>
+	</oompPart>
 </xml>

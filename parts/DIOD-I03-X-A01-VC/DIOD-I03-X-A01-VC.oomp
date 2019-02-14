@@ -1,47 +1,16 @@
 <xml>
-<oompPart>
-        <index>9876</index><com>OOMP Base</com>
-        <oompID>DIOD-I03-X-A01-VC</oompID>
-        <name>7.62 mm 1 Amp Diode 50v</name>
-        <hexID>DT01</hexID>
-        <oompSort>THTH01.000</oompSort>
-        <oompType>DIOD</oompType>
-        <oompSize>I03</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>A01</oompDesc>
-        <oompIndex>VC</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion></oompVersion>
-<com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize><com>Description</com>
-        <ooMaterial></ooMaterial>
-        <ooNumPins></ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating><com>Hardware</com>
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize><com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance><com>Heat Shrink</com>
-        <ooShrinkRatio></ooShrinkRatio><com>LED</com>
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY><com>Plug</com>
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength><com>Source List</com>		
+	<oompPart>
+		<index>9876</index>
+		<oompID>DIOD-I03-X-A01-VC</oompID>
+		<name>7.62 mm 1 Amp Diode 50v</name>
+		<hexID>DT01</hexID>
+		<oompSort>THTH01.000</oompSort>
+		<oompType>DIOD</oompType>
+		<oompSize>I03</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>A01</oompDesc>
+		<oompIndex>VC</oompIndex>
+		<oompVersion>99</oompVersion>
 		<sourceList>
 			<manufacturer>
 				<company>DC Components</company>
@@ -49,7 +18,7 @@
 				<name></name>
 				<partID>1N4001</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<manufacturer>
 				<company>Fairchild Semiconductors</company>
@@ -57,7 +26,7 @@
 				<name></name>
 				<partID>1N4001</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<manufacturer>
 				<company>Vishay</company>
@@ -65,7 +34,7 @@
 				<name></name>
 				<partID>1N4001-E3/73</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<manufacturer>
 				<company>Comchip Technology</company>
@@ -73,9 +42,8 @@
 				<name></name>
 				<partID>1N4001-G</partID>
 				<link></link>
-				<note></note>			
-			</manufacturer>			
-			
+				<note></note>
+			</manufacturer>
 			<bigDistributor>
 				<company>DigiKey</company>
 				<companyCode>C-DIGI</companyCode>
@@ -83,7 +51,7 @@
 				<partID>641-1310-3-ND</partID>
 				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/1N4001-G/641-1310-3-ND/1979654]]></link>
 				<note></note>
-			</bigDistributor>				
+			</bigDistributor>
 			<bigDistributor>
 				<company>RS Electronics</company>
 				<companyCode>C-RSRS</companyCode>
@@ -91,7 +59,7 @@
 				<partID>628-8931</partID>
 				<link><![CDATA[http://uk.rs-online.com/web/p/rectifier-schottky-diodes/6288931/?searchTerm=628-8931&relevancy-data=636F3D3126696E3D4931384E525353746F636B4E756D6265724D504E266C753D656E266D6D3D6D61746368616C6C26706D3D5E5C647B337D5B5C732D2F255C2E2C5D5C647B332C347D2426706F3D313426736E3D592673743D52535F53544F434B5F4E554D4245522677633D4E4F4E45267573743D3632382D3839333126]]></link>
 				<note></note>
-			</bigDistributor>				
+			</bigDistributor>
 			<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
@@ -99,7 +67,7 @@
 				<partID>512-1N4001</partID>
 				<link><![CDATA[http://uk.mouser.com/ProductDetail/Fairchild-Semiconductor/1N4001/?qs=%2fha2pyFadug7krNqeDo6XDrkTfSK%2fTaxgQJA3tR2epo%3d]]></link>
 				<note></note>
-			</bigDistributor>				
+			</bigDistributor>
 			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
@@ -107,7 +75,7 @@
 				<partID>2323100</partID>
 				<link><![CDATA[http://uk.farnell.com/fairchild-semiconductor/1n4001/diode-standard-1a-50v-do-204al/dp/2323100?ost=2323100]]></link>
 				<note></note>
-			</bigDistributor>				
+			</bigDistributor>
 			<bigDistributor>
 				<company>Rapid Electronics</company>
 				<companyCode>C-RAPI</companyCode>
@@ -115,32 +83,13 @@
 				<partID>47-3800</partID>
 				<link><![CDATA[http://www.rapidonline.com/electronic-components/1n4001-50v-box-2500-47-3800]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>
 		</sourceList>
-		
-<com>OPL</com>		
-		<oplList>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-    
-	<oompClass>Through Hole Component</oompClass>
-	<oompClassCode>THTH</oompClassCode>
-	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem>
-		<drawItem>template;DIOD-XXXX-X-XXXX-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+		<oompClass>Through Hole Component</oompClass>
+		<oompClassCode>THTH</oompClassCode>
+		<oompSchem>
+			<drawItem>template;DIOD-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
 		<ooDesignator>D1</ooDesignator>
-</oompPart>
+	</oompPart>
 </xml>

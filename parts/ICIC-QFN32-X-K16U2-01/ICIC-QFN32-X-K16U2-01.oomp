@@ -1,46 +1,19 @@
 <xml>
-<oompPart>
-        <index>9876</index><com>OOMP Base</com>
-        <oompID>ICIC-QFN32-X-K16U2-01</oompID>
-        <name>32 Pin SMD (QFN) ATMega16U2</name>
-        <hexID>ICSQ16U2</hexID>
-        <oompSort>ATMEGA 16U2</oompSort>
-        <oompType>ICIC</oompType>
-        <oompSize>QFN32</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>K16U2</oompDesc>
-        <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion></oompVersion>		<oompSkip>true</oompSkip><com>Size</com>
-        <ooPitch></ooPitch>
-        <ooWidth>5 mm</ooWidth>
-        <ooHeight>0.9 mm</ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>5 mm</ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize><com>Description</com>
-        <ooMaterial></ooMaterial>
-        <ooNumPins>32</ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating><com>Hardware</com>
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize><com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance><com>Heat Shrink</com>
-        <ooShrinkRatio></ooShrinkRatio><com>LED</com>
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY><com>Plug</com>
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength><com>Source List</com>		
+	<oompPart>
+		<index>9876</index>
+		<oompID>ICIC-QFN32-X-K16U2-01</oompID>
+		<name>32 Pin SMD (QFN) ATMega16U2</name>
+		<hexID>ICSQ16U2</hexID>
+		<oompSort>ATMEGA 16U2</oompSort>
+		<oompType>ICIC</oompType>
+		<oompSize>QFN32</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>K16U2</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>99</oompVersion>		<oompSkip>true</oompSkip><ooWidth>5 mm</ooWidth>
+		<ooHeight>0.9 mm</ooHeight>
+		<ooLength>5 mm</ooLength>
+		<ooNumPins>32</ooNumPins>
 		<sourceList>
 			<manufacturer>
 				<company>Atmel</company>
@@ -48,9 +21,8 @@
 				<name></name>
 				<partID>ATMEGA16U2-MU</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 			<bigDistributor>
 				<company>DigiKey</company>
 				<companyCode>C-DIGK</companyCode>
@@ -67,10 +39,7 @@
 				<link><![CDATA[http://uk.mouser.com/ProductDetail/Atmel/ATMEGA16U2-MU/?qs=sGAEpiMZZMvqv2n3s2xjsYzXfq0AWv1CPzAhpc7LPFc%3d]]></link>
 				<note></note>
 			</bigDistributor>
-					
 		</sourceList>
-		
-<com>OPL</com>		
 		<oplList>
 			<oplSystem>
 				<oplScheme>Circuithub.com</oplScheme>
@@ -90,25 +59,9 @@
 				<oplPackage>32QFN</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-    
-	<oompClass>Surface Mount</oompClass>
-	<oompClassCode>SMDS</oompClassCode>
-	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem></oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+		</oplList>
+		<oompClass>Surface Mount</oompClass>
+		<oompClassCode>SMDS</oompClassCode>
 		<ooDesignator>U1</ooDesignator>
-</oompPart>
+	</oompPart>
 </xml>

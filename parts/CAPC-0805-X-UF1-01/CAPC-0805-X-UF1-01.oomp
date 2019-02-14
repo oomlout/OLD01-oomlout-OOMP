@@ -1,68 +1,24 @@
-﻿<xml>    
+﻿<xml>
 	<oompPart>
-        <index>4083</index><!--OOMP Base -->
-        <oompID>CAPC-0805-X-UF1-01</oompID>
-        <name>SMD (0805) 1 uF Capacitor (Ceramic)</name>
-        <hexID>C85U001</hexID>
-        <oompSort>08050.0000010000000</oompSort>
-        <oompType>CAPC</oompType>
-        <oompSize>0805</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>UF1</oompDesc>
-        <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion>99</oompVersion>
-<!--Size -->
-        <ooPitch></ooPitch>
-        <ooWidth>1.25 mm</ooWidth>
-        <ooHeight></ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>2.0 mm</ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize>
-<!--Manufacturer -->
-        <ooManufacturer>Yageo</ooManufacturer>
-        <ooManufacturerPartNumber>CC0805KKX7R8BB105</ooManufacturerPartNumber>
-<!--Description -->
-        <ooMaterial></ooMaterial>
-        <ooNumPins></ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating>
-<!--Hardware -->
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize>
-<!--Maximums -->
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage>25 V</ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance>10%</ooTolerance>
-<!--Heat Shrink -->
-        <ooShrinkRatio></ooShrinkRatio>
-<!--LED -->
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY>
-<COM>Common Uses</COM>		
-		<usageList>
-			<useItem>
-				<useID>1</useID>
-				<importance>1</importance>
-				<useTitle></useTitle>
-				<useDescription></useDescription>
-			</useItem>
-		</usageList>
-		<!--Plug -->
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength>
-<!--SEEED OPL (Open Parts Library) -->
-        <ooSEEEDsku>0100440P1</ooSEEEDsku>
-        <ooSEEEDdesc>SMD CAP Ceramic 1uF-25V-10%-X7R</ooSEEEDdesc>
+		<index>4083</index>
+		<oompID>CAPC-0805-X-UF1-01</oompID>
+		<name>SMD (0805) 1 uF Capacitor (Ceramic)</name>
+		<hexID>C85U001</hexID>
+		<oompSort>08050.0000010000000</oompSort>
+		<oompType>CAPC</oompType>
+		<oompSize>0805</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>UF1</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>99</oompVersion>
+		<ooWidth>1.25 mm</ooWidth>
+		<ooLength>2.0 mm</ooLength>
+		<ooManufacturer>Yageo</ooManufacturer>
+		<ooManufacturerPartNumber>CC0805KKX7R8BB105</ooManufacturerPartNumber>
+		<ooMaxVoltage>25 V</ooMaxVoltage>
+		<ooTolerance>10%</ooTolerance>
+		<ooSEEEDsku>0100440P1</ooSEEEDsku>
+		<ooSEEEDdesc>SMD CAP Ceramic 1uF-25V-10%-X7R</ooSEEEDdesc>
 		<sourceList>
 			<manufacturer>
 				<company>Yageo</company>
@@ -70,7 +26,7 @@
 				<name></name>
 				<partID>CC0805KKX7R8BB105</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<manufacturer>
 				<company>Kamet</company>
@@ -78,18 +34,16 @@
 				<name></name>
 				<partID>C0805C105K4RAC7800</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-			
 			<manufacturer>
 				<company>AVX Interconnect</company>
 				<companyCode>C-AVXI</companyCode>
 				<name></name>
 				<partID>08055C104KAT2A</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 			<bigDistributor>
 				<company>DigiKey</company>
 				<companyCode>C-DIGK</companyCode>
@@ -97,7 +51,7 @@
 				<partID>311-1456-1-ND</partID>
 				<link><![CDATA[http://www.digikey.com/product-detail/en/CC0805KKX7R8BB105/311-1456-1-ND/2833762]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>
 			<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
@@ -114,7 +68,6 @@
 				<link><![CDATA[http://www.rapidonline.com/electronic-components/1uf-16v-y5v-0805-ceram-chip-capacitor-71-0509]]></link>
 				<note></note>
 			</bigDistributor>
-				
 		</sourceList>
 		<oplList>
 			<oplSystem>
@@ -135,44 +88,25 @@
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://circuithub.com/parts/AI3/08055C104KAT2A.]]></oplLink>
 			</oplSystem>
-		
-		</oplList><!--Hidden -->
-        <oompVersion></oompVersion>
-        <ooNameLine1of2></ooNameLine1of2>
-        <ooNameLine2of2></ooNameLine2of2>
-        <ooNameLine1of3></ooNameLine1of3>
-        <ooNameLine2of3></ooNameLine2of3>
-        <ooNameLine3of3></ooNameLine3of3>
-        <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-        <ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:Capacitor0805.zip</ooSEEED3dModel>
-<!-- -->    
-	<oompClass>Surface Mount</oompClass>
-	<oompClassCode>SMDS</oompClassCode>
-	<oompBbls>
-		<drawItem>template;XXXX-0805-X-XXXX-XX-bbls</drawItem>
-</oompBbls>
-	<oompDiag>
-				<drawItem>template;XXXX-0805-X-XXXX-XX-diag</drawItem>
-</oompDiag>
-	<oompIden>
-				<drawItem>template;XXXX-0805-X-XXXX-XX-iden</drawItem>
-</oompIden>
+		</oplList>
+		<ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:Capacitor0805.zip</ooSEEED3dModel>
+		<oompClass>Surface Mount</oompClass>
+		<oompClassCode>SMDS</oompClassCode>
+		<oompBbls>
+			<drawItem>template;XXXX-0805-X-XXXX-XX-bbls</drawItem>
+		</oompBbls>
+		<oompDiag>
+			<drawItem>template;XXXX-0805-X-XXXX-XX-diag</drawItem>
+		</oompDiag>
+		<oompIden>
+			<drawItem>template;XXXX-0805-X-XXXX-XX-iden</drawItem>
+		</oompIden>
 		<oompSchem>
-		<drawItem>template;CAPC-XXXX-X-XXXX-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp>
-		<drawItem>template;XXXX-0805-X-XXXX-XX-simp</drawItem>
-</oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+			<drawItem>template;CAPC-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
+		<oompSimp>
+			<drawItem>template;XXXX-0805-X-XXXX-XX-simp</drawItem>
+		</oompSimp>
 		<ooDesignator>C1</ooDesignator>
-</oompPart>
+	</oompPart>
 </xml>

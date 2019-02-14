@@ -1,55 +1,24 @@
-﻿<xml>    
+﻿<xml>
 	<oompPart>
-        <index>4321</index><!--OOMP Base -->
-        <oompID>ICIC-DI28-X-K328-01</oompID>
-        <name>28 Pin DIP AtMega328P</name>
-        <hexID>IC328</hexID>
-        <oompSort>ATMega 328</oompSort>
-        <oompType>ICIC</oompType>
-        <oompSize>DI28</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>K328</oompDesc>
-        <oompIndex>01</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion>99</oompVersion>
-<!--Size -->
-        <ooPitch>2.54 mm</ooPitch>
-        <ooWidth>34.7 mm</ooWidth>
-        <ooHeight>4.5 mm</ooHeight>
-        <ooDiameter></ooDiameter>
-        <ooLength>7.25 mm</ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize>
-<!--Manufacturer -->
-        <ooManufacturer>C-ATME</ooManufacturer>
-        <ooManufacturerPartNumber>ATMEGA328P-PU</ooManufacturerPartNumber>
-<!--Description -->
-        <ooMaterial></ooMaterial>
-        <ooNumPins>28</ooNumPins>
+		<index>4321</index>
+		<oompID>ICIC-DI28-X-K328-01</oompID>
+		<name>28 Pin DIP AtMega328P</name>
+		<hexID>IC328</hexID>
+		<oompSort>ATMega 328</oompSort>
+		<oompType>ICIC</oompType>
+		<oompSize>DI28</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>K328</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>99</oompVersion>
+		<ooPitch>2.54 mm</ooPitch>
+		<ooWidth>34.7 mm</ooWidth>
+		<ooHeight>4.5 mm</ooHeight>
+		<ooLength>7.25 mm</ooLength>
+		<ooManufacturer>C-ATME</ooManufacturer>
+		<ooManufacturerPartNumber>ATMEGA328P-PU</ooManufacturerPartNumber>
+		<ooNumPins>28</ooNumPins>
 		<ooFootprint>OOMP-ICIC-DI28-X-XXXX-01</ooFootprint>
-        
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating>
-<!--Hardware -->
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize>
-<!--Maximums -->
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage></ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance></ooTolerance>
-<!--Heat Shrink -->
-        <ooShrinkRatio></ooShrinkRatio>
-<!--LED -->
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY>
-<COM>Common Uses</COM>		
 		<usageList>
 			<useItem>
 				<useID>1</useID>
@@ -58,41 +27,18 @@
 				<useDescription>Used as the Microcontroller in the Arduino UNO</useDescription>
 			</useItem>
 		</usageList>
-		<!--Plug -->
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength>
-<!--SEEED OPL (Open Parts Library) -->
-        <ooSEEEDsku>1030050P1</ooSEEEDsku>
-        <ooSEEEDdesc>IC MCU 8BIT 32KB FLASH</ooSEEEDdesc>
-<!--Hidden -->
-        <oompVersion></oompVersion>
-        <ooNameLine1of2></ooNameLine1of2>
-        <ooNameLine2of2></ooNameLine2of2>
-        <ooNameLine1of3></ooNameLine1of3>
-        <ooNameLine2of3></ooNameLine2of3>
-        <ooNameLine3of3></ooNameLine3of3>
-        <ooFrontDiagram>OOMP-default.png</ooFrontDiagram>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-        <ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:DIP28.zip</ooSEEED3dModel>
-<!-- -->    		<sourceList>
+		<ooSEEEDsku>1030050P1</ooSEEEDsku>
+		<ooSEEEDdesc>IC MCU 8BIT 32KB FLASH</ooSEEEDdesc>
+		<ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:DIP28.zip</ooSEEED3dModel>
+		<sourceList>
 			<manufacturer>
 				<company>Atmel</company>
 				<companyCode>C-ATME</companyCode>
 				<name></name>
 				<partID>ATMEGA328P-PU</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 			<bigDistributor>
 				<company>DigiKey</company>
 				<companyCode>C-DIGK</companyCode>
@@ -100,14 +46,14 @@
 				<partID>ATMEGA328P-PU-ND</partID>
 				<link><![CDATA[http://www.digikey.co.uk/product-search/en?lang=en&site=UK&WT.z_homepage_link=hp_go_button&x=0&y=0&KeyWords=ATMEGA328P-PU]]></link>
 				<note></note>
-			</bigDistributor>			<bigDistributor>
+				</bigDistributor>			<bigDistributor>
 				<company>Farnell</company>
 				<companyCode>C-FARN</companyCode>
 				<name>ATMEL  ATMEGA328P-PU  MCU, 8BIT, ATMEGA, 20MHZ, DIP-28</name>
 				<partID>1715487</partID>
 				<link><![CDATA[http://uk.farnell.com/atmel/atmega328p-pu/mcu-8bit-atmega-20mhz-dip-28/dp/1715487?ost=ATMEGA328P-PU]]></link>
 				<note></note>
-			</bigDistributor>			
+			</bigDistributor>
 			<bigDistributor>
 				<company>Mouser</company>
 				<companyCode>C-MOUS</companyCode>
@@ -131,7 +77,7 @@
 				<partID>696-2260</partID>
 				<link><![CDATA[http://uk.rs-online.com/web/p/microcontrollers/6962260/?searchTerm=ATMEGA328P-PU&relevancy-data=636F3D3226696E3D4931384E4B6E6F776E41734D504E266C753D656E266D6D3D6D61746368616C6C7061727469616C26706D3D5E5B5C707B4C7D5C707B4E647D2D2C2F255C2E5D2B2426706F3D313326736E3D592673743D4D414E5F504152545F4E554D4245522677633D424F5448267573743D41544D454741333238502D505526]]></link>
 				<note></note>
-			</bigDistributor>				
+			</bigDistributor>
 		</sourceList>
 		<oplList>
 			<oplSystem>
@@ -142,7 +88,7 @@
 				<oplFootprint></oplFootprint>
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://circuithub.com/parts/ATMEL/ATMEGA328P-PU]]></oplLink>
-			</oplSystem>			
+			</oplSystem>
 			<oplSystem>
 				<oplScheme>Octopart CPL</oplScheme>
 				<oplCode>C-OCTO</oplCode>
@@ -152,7 +98,6 @@
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://octopart.com/common-parts-library#Microcontrollers]]></oplLink>
 			</oplSystem>
-			
 			<oplSystem>
 				<oplScheme>Seeed Studio OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
@@ -162,8 +107,9 @@
 				<oplPackage>28-DIP</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-		</oplList>	<oompClass>Through Hole Component</oompClass>
-	<oompClassCode>THTH</oompClassCode>	
+		</oplList>
+		<oompClass>Through Hole Component</oompClass>
+		<oompClassCode>THTH</oompClassCode>
 		<ooPin1>PC6</ooPin1>
 		<ooPin2>PD0</ooPin2>
 		<ooPin3>PD1</ooPin3>
@@ -192,17 +138,11 @@
 		<ooPin26>PC3</ooPin26>
 		<ooPin27>PC4</ooPin27>
 		<ooPin28>PC5</ooPin28>
-		
 		<ooNumPins>28</ooNumPins>
-		
-		<oompBbls></oompBbls>
 		<oompDiag>
-		<drawItem>template;ICIC-DI28-X-XXXX-01-diag</drawItem>
+			<drawItem>template;ICIC-DI28-X-XXXX-01-diag</drawItem>
 		</oompDiag>
-	<oompIden></oompIden>
-	<oompSchem></oompSchem>
-	<oompSimp></oompSimp>
 		<ooPackageMarking>ATMEGA328</ooPackageMarking>
 		<ooDesignator>U1</ooDesignator>
-</oompPart>
+	</oompPart>
 </xml>

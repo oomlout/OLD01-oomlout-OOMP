@@ -1,46 +1,21 @@
 <xml>
-<oompPart>
-        <index>9876</index><com>OOMP Base</com>
-        <oompID>CAPC-55D-X-PF22-VC</oompID>
-        <name>5.5 mm 22 pF Capacitor (Ceramic) 50v</name>
-        <hexID>CCP022</hexID>
-        <oompSort>THTH0.00000000000220</oompSort>
-        <oompType>CAPC</oompType>
-        <oompSize>55D</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>PF22</oompDesc>
-        <oompIndex>VC</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion></oompVersion><com>Size</com>
-        <ooPitch>2.5 mm</ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight>5.5 mm</ooHeight>
-        <ooDiameter>5.5 mm</ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize><com>Description</com>
-        <ooMaterial></ooMaterial>
-        <ooNumPins>2</ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating><com>Hardware</com>
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize><com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage>50 V</ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance>20%</ooTolerance><com>Heat Shrink</com>
-        <ooShrinkRatio></ooShrinkRatio><com>LED</com>
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY><com>Plug</com>
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength><com>Source List</com>		
+	<oompPart>
+		<index>9876</index>
+		<oompID>CAPC-55D-X-PF22-VC</oompID>
+		<name>5.5 mm 22 pF Capacitor (Ceramic) 50v</name>
+		<hexID>CCP022</hexID>
+		<oompSort>THTH0.00000000000220</oompSort>
+		<oompType>CAPC</oompType>
+		<oompSize>55D</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>PF22</oompDesc>
+		<oompIndex>VC</oompIndex>
+		<oompVersion>99</oompVersion><ooPitch>2.5 mm</ooPitch>
+		<ooHeight>5.5 mm</ooHeight>
+		<ooDiameter>5.5 mm</ooDiameter>
+		<ooNumPins>2</ooNumPins>
+		<ooMaxVoltage>50 V</ooMaxVoltage>
+		<ooTolerance>20%</ooTolerance>
 		<sourceList>
 			<manufacturer>
 				<company>Suntan</company>
@@ -48,9 +23,8 @@
 				<name></name>
 				<partID>TS15001H220KSBNA0R</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
-				
 			<bigDistributor>
 				<company>Rapid Electronics</company>
 				<companyCode>C-RAPI</companyCode>
@@ -58,32 +32,13 @@
 				<partID>08-0046</partID>
 				<link><![CDATA[http://www.rapidonline.com/electronic-components/22pf-2-5mm-ceramic-capacitor-08-0046]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>
 		</sourceList>
-		
-<com>OPL</com>		
-		<oplList>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-    
-	<oompClass>Through Hole Component</oompClass>
-	<oompClassCode>THTH</oompClassCode>
-	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
+		<oompClass>Through Hole Component</oompClass>
+		<oompClassCode>THTH</oompClassCode>
 		<oompSchem>
-		<drawItem>template;CAPC-XXXX-X-XXXX-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+			<drawItem>template;CAPC-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
 		<ooDesignator>C1</ooDesignator>
-</oompPart>
+	</oompPart>
 </xml>

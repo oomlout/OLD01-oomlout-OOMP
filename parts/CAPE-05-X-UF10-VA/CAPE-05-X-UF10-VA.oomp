@@ -1,47 +1,22 @@
 <xml>
-<oompPart>
-        <index>9876</index><com>OOMP Base</com>
-        <oompID>CAPE-05-X-UF10-VA</oompID>
-        <name>5 mm 10 uF Capacitor (Electrolytic) 25v</name>
-        <hexID>CEU010</hexID>
-        <oompSort>THTH0.00001000000000</oompSort>
-        <oompType>CAPE</oompType>
-        <oompSize>05</oompSize>
-        <oompColor>X</oompColor>
-        <oompDesc>UF10</oompDesc>
-        <oompIndex>VA</oompIndex>
-        <oompOwner></oompOwner>
-        <oompVersion></oompVersion>
-<com>Size</com>
-        <ooPitch>2 mm</ooPitch>
-        <ooWidth></ooWidth>
-        <ooHeight>11 mm</ooHeight>
-        <ooDiameter>5 mm</ooDiameter>
-        <ooLength></ooLength>
-        <ooDepth></ooDepth>
-        <ooWireSize></ooWireSize><com>Description</com>
-        <ooMaterial></ooMaterial>
-        <ooNumPins>2</ooNumPins>
-        <ooTerminalStyle></ooTerminalStyle>
-        <ooPowerRating></ooPowerRating><com>Hardware</com>
-        <ooHeadStyle></ooHeadStyle>
-        <ooWrenchSize></ooWrenchSize><com>Maximums</com>
-        <ooMaxCurrent></ooMaxCurrent>
-        <ooMaxVoltage>25 V</ooMaxVoltage>
-        <ooLifetime></ooLifetime>
-        <ooTolerance>20%</ooTolerance><com>Heat Shrink</com>
-        <ooShrinkRatio></ooShrinkRatio><com>LED</com>
-        <ooLensColor></ooLensColor>
-        <ooForwardVoltage></ooForwardVoltage>
-        <ooForwardCurrent></ooForwardCurrent>
-        <ooIntensity></ooIntensity>
-        <ooPowerAngle></ooPowerAngle>
-        <ooWavelength></ooWavelength>
-        <ooChromaticityX></ooChromaticityX>
-        <ooChromaticityY></ooChromaticityY><com>Plug</com>
-        <ooPlugID></ooPlugID>
-        <ooPlugOD></ooPlugOD>
-        <ooPlugLength></ooPlugLength><com>Source List</com>		
+	<oompPart>
+		<index>9876</index>
+		<oompID>CAPE-05-X-UF10-VA</oompID>
+		<name>5 mm 10 uF Capacitor (Electrolytic) 25v</name>
+		<hexID>CEU010</hexID>
+		<oompSort>THTH0.00001000000000</oompSort>
+		<oompType>CAPE</oompType>
+		<oompSize>05</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>UF10</oompDesc>
+		<oompIndex>VA</oompIndex>
+		<oompVersion>99</oompVersion>
+		<ooPitch>2 mm</ooPitch>
+		<ooHeight>11 mm</ooHeight>
+		<ooDiameter>5 mm</ooDiameter>
+		<ooNumPins>2</ooNumPins>
+		<ooMaxVoltage>25 V</ooMaxVoltage>
+		<ooTolerance>20%</ooTolerance>
 		<sourceList>
 			<manufacturer>
 				<company>Suntan</company>
@@ -49,14 +24,14 @@
 				<name></name>
 				<partID>TS14011E100MSB030R</partID>
 				<link></link>
-				<note></note>			
-			</manufacturer>			<manufacturer>
+				<note></note>
+				</manufacturer>			<manufacturer>
 				<company>Multicomp</company>
 				<companyCode>C-MULT</companyCode>
 				<name></name>
 				<partID>MCGPR25V106M5X11</partID>
 				<link></link>
-				<note></note>			
+				<note></note>
 			</manufacturer>
 			<bigDistributor>
 				<company>Farnell</company>
@@ -65,7 +40,7 @@
 				<partID>9451153</partID>
 				<link><![CDATA[http://uk.farnell.com/multicomp/mcgpr25v106m5x11/cap-alu-elec-10uf-25v-rad/dp/9451153]]></link>
 				<note></note>
-			</bigDistributor>							
+			</bigDistributor>
 			<bigDistributor>
 				<company>Rapid Electronics</company>
 				<companyCode>C-RAPI</companyCode>
@@ -73,32 +48,13 @@
 				<partID>11-3503</partID>
 				<link><![CDATA[http://www.rapidonline.com/electronic-components/10-f-20-25v-105-c-2000-hours-suntan-radial-aluminium-electrolytic-capacitors-11-3503#techSpecs]]></link>
 				<note></note>
-			</bigDistributor>					
+			</bigDistributor>
 		</sourceList>
-		
-<com>OPL</com>		
-		<oplList>
-		</oplList><com>Hidden</com>
-        <oompAbout></oompAbout>
-        <ooProjectName1></ooProjectName1>
-        <ooProjectDesc1></ooProjectDesc1>
-        <ooProjectLink1></ooProjectLink1>
-        <ooProjectType1></ooProjectType1>
-        <ooBuyName1></ooBuyName1>
-        <ooBuyDesc1></ooBuyDesc1>
-        <ooBuyLink1></ooBuyLink1>
-        <ooBuyType1></ooBuyType1>
-    
-	<oompClass>Through Hole Component</oompClass>
-	<oompClassCode>THTH</oompClassCode>
-	<oompBbls></oompBbls>
-	<oompDiag></oompDiag>
-	<oompIden></oompIden>
-	<oompSchem>
-		<drawItem>template;CAPE-XXXX-X-XXXX-XX-schem</drawItem>
-	</oompSchem>
-	<oompSimp></oompSimp>
-		<ooPackageMarking></ooPackageMarking>
+		<oompClass>Through Hole Component</oompClass>
+		<oompClassCode>THTH</oompClassCode>
+		<oompSchem>
+			<drawItem>template;CAPE-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
 		<ooDesignator>C1</ooDesignator>
-</oompPart>
+	</oompPart>
 </xml>

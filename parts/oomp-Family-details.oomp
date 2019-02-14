@@ -6,18 +6,18 @@
 		<familySize>W04</familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>R4</familyHexNameSpace>
 		<familyHexNameSpaceDisplay>R4###</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-</oompFamily>
-<oompFamily>
+	</oompFamily>
+	<oompFamily>
 		<familyName>SMD (0603) Varistor</familyName>
 		<familyType>VARI</familyType>
 		<familySize>0603</familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>V63</familyHexNameSpace>
 		<familyHexNameSpaceDisplay>V63##</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
@@ -28,91 +28,85 @@
 		<familySize>0402</familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>R42</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>R42###</familyHexNameSpaceDisplay>	
+		<familyHexNameSpaceDisplay>R42###</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
 	</oompFamily>
-	
 	<oompFamily>
 		<familyName>SMD (0603) Resistor</familyName>
 		<familyType>RESE</familyType>
 		<familySize>0603</familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>R6</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>R6###</familyHexNameSpaceDisplay>	
+		<familyHexNameSpaceDisplay>R6###</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
 	</oompFamily>
-	
 	<oompFamily>
 		<familyName>SMD (0805) Resistor</familyName>
 		<familyType>RESE</familyType>
 		<familySize>0805</familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>R85</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>R85###</familyHexNameSpaceDisplay>	
+		<familyHexNameSpaceDisplay>R85###</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>	<oompFamily>
+		</oompFamily>	<oompFamily>
 		<familyName>SMD (1206) Resistor</familyName>
 		<familyType>RESE</familyType>
 		<familySize>1206</familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>R1</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>R1###</familyHexNameSpaceDisplay>	
+		<familyHexNameSpaceDisplay>R1###</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
 	</oompFamily>
-	
 	<oompFamily>
 		<familyName>SMD (0805) Ferrite Bead</familyName>
 		<familyType>FERB</familyType>
 		<familySize>0805</familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>F8</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>F8##</familyHexNameSpaceDisplay>	
+		<familyHexNameSpaceDisplay>F8##</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
 	</oompFamily>
-	
 	<oompFamily>
 		<familyName>SMD (1206-8) (x4) Resistor Array</familyName>
 		<familyType>RESA</familyType>
 		<familySize>1268</familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>RA1</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>RA1###</familyHexNameSpaceDisplay>	
+		<familyHexNameSpaceDisplay>RA1###</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
 	</oompFamily>
-	
-		<oompFamily>
+	<oompFamily>
 		<familyName>Potentiometers</familyName>
 		<familyType>POTE</familyType>
 		<familySize></familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>PT</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>PT####</familyHexNameSpaceDisplay>	
+		<familyHexNameSpaceDisplay>PT####</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>	
-	
+	</oompFamily>
 	<oompFamily>
 		<familyName>Through Hole Capacitor (Ceramic) 50 v</familyName>
 		<familyType>CAPC</familyType>
 		<familySize>TH</familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>VC</familyIndex>	
+		<familyIndex>VC</familyIndex>
 		<familyHexNameSpace>CC</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>CC####</familyHexNameSpaceDisplay>	
+		<familyHexNameSpaceDisplay>CC####</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
 	</oompFamily>
 	<oompFamily>
@@ -121,9 +115,9 @@
 		<familySize></familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>VA</familyIndex>	
+		<familyIndex>VA</familyIndex>
 		<familyHexNameSpace>CES</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>CES####</familyHexNameSpaceDisplay>	
+		<familyHexNameSpaceDisplay>CES####</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
 	</oompFamily>
 	<oompFamily>
@@ -132,68 +126,66 @@
 		<familySize>0603</familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>C6</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>C6####</familyHexNameSpaceDisplay>	
+		<familyHexNameSpaceDisplay>C6####</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>	
-	
+	</oompFamily>
 	<oompFamily>
 		<familyName>SMD (0805) Capacitor (Ceramic)</familyName>
 		<familyType>CAPC</familyType>
 		<familySize>0805</familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>C85</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>C85####</familyHexNameSpaceDisplay>	
+		<familyHexNameSpaceDisplay>C85####</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>	
+	</oompFamily>
 	<oompFamily>
 		<familyName>Through Hole Capacitor (Tantalum)</familyName>
 		<familyType>CAPT</familyType>
 		<familySize></familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex></familyIndex>	
+		<familyIndex></familyIndex>
 		<familyHexNameSpace>CT</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>CT####</familyHexNameSpaceDisplay>	
+		<familyHexNameSpaceDisplay>CT####</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>	
-	
+	</oompFamily>
 	<oompFamily>
 		<familyName>SMD Capacitor (Tantalum)</familyName>
 		<familyType>CAPT</familyType>
 		<familySize></familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>VC</familyIndex>	
+		<familyIndex>VC</familyIndex>
 		<familyHexNameSpace>CT</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>CTS####</familyHexNameSpaceDisplay>	
+		<familyHexNameSpaceDisplay>CTS####</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>	
+	</oompFamily>
 	<oompFamily>
 		<familyName>Through Hole Capacitor (Electrolytic)</familyName>
 		<familyType>CAPE</familyType>
 		<familySize>TH</familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex></familyIndex>	
+		<familyIndex></familyIndex>
 		<familyHexNameSpace>CE</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>CE####</familyHexNameSpaceDisplay>	
+		<familyHexNameSpaceDisplay>CE####</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>		
+	</oompFamily>
 	<oompFamily>
 		<familyName>Resetable Fuse</familyName>
 		<familyType>REFU</familyType>
 		<familySize></familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>RF</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>RF###</familyHexNameSpaceDisplay>	
+		<familyHexNameSpaceDisplay>RF###</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>	
+	</oompFamily>
 	<!-- 2Digit followed by 2 digit spaces -->
 	<oompFamily>
 		<familyName>2.54 mm Black Crimp Housing</familyName>
@@ -201,7 +193,7 @@
 		<familySize>I01</familySize>
 		<familyColor>B</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>CH</familyHexNameSpace>
 		<familyHexNameSpaceDisplay>CH##</familyHexNameSpaceDisplay>
 		<familyAbout>These little plastic bits are everywhere. They're Used for connecting wires to 2.54 mm (HEAD-I01, HEAL-I01) headers that are found on almost every PCB. While very handy, they are not keyed, so it's easy to plug them in backwards. Because of this it's best to avoid them when frequent connecting/un-connecting is required, or the design is to be used by untrained persons. While these connectors are everywhere they are (slowly) falling out of favor, being replaced by finer pitch connectors that allow denser connections.</familyAbout>
@@ -212,301 +204,285 @@
 		<familySize>02</familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex></familyIndex>	
+		<familyIndex></familyIndex>
 		<familyHexNameSpace>J2</familyHexNameSpace>
 		<familyHexNameSpaceDisplay>J2##</familyHexNameSpaceDisplay>
 		<familyAbout>These little plastic bits are everywhere. They're Used for connecting wires to 2.54 mm (HEAD-I01, HEAL-I01) headers that are found on almost every PCB. While very handy, they are not keyed, so it's easy to plug them in backwards. Because of this it's best to avoid them when frequent connecting/un-connecting is required, or the design is to be used by untrained persons. While these connectors are everywhere they are (slowly) falling out of favor, being replaced by finer pitch connectors that allow denser connections.</familyAbout>
-	</oompFamily>	
+	</oompFamily>
 	<oompFamily>
 		<familyName>M3 Nylon Standoff (F-F)</familyName>
 		<familyType>NHFF</familyType>
 		<familySize>M3</familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>NFF</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>NFF##</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>NFF##</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-		</oompFamily>			
-		
-		
+	</oompFamily>
 	<oompFamily>
 		<familyName>M3 Nylon Screw Cross Head</familyName>
 		<familyType>NSCR</familyType>
 		<familySize>M3</familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>70</familyIndex>	
+		<familyIndex>70</familyIndex>
 		<familyHexNameSpace>DD</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>DD##</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>DD##</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>			<oompFamily>
+		</oompFamily>			<oompFamily>
 		<familyName>Nylon Nut</familyName>
 		<familyType>NNUT</familyType>
 		<familySize></familySize>
 		<familyColor>X</familyColor>
 		<familyDesc>STAN</familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>NN</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>NN#</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>NN#</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>			
+	</oompFamily>
 	<oompFamily>
 		<familyName>Metal Nut</familyName>
 		<familyType>NUTT</familyType>
 		<familySize></familySize>
 		<familyColor>X</familyColor>
 		<familyDesc>STAN</familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>NU</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>NU#</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>NU#</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>			
-		<oompFamily>
+	</oompFamily>
+	<oompFamily>
 		<familyName>M3 Screw Cross Head</familyName>
 		<familyType>SCRE</familyType>
 		<familySize>M3</familySize>
 		<familyColor>M</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>70</familyIndex>	
+		<familyIndex>70</familyIndex>
 		<familyHexNameSpace>NS</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>NS##</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>NS##</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>			
+	</oompFamily>
 	<oompFamily>
 		<familyName>2.54 mm Header</familyName>
 		<familyType>HEAD</familyType>
 		<familySize>I01</familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>H</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>H1X##</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>H1X##</familyHexNameSpaceDisplay>
 		<familyAbout>These are absolutely everywhere. They're used for making board to board connections (when paired with HEAD-I01) or board to wire connections (when paired with CRHO-I01). While ubiquitous they are not always the best choice, The lack of a key means plugging them in backwards is always a worry, and when a lot of connections are required the pitch means a lot of real estate gets occupied.</familyAbout>
-	</oompFamily>			
+	</oompFamily>
 	<oompFamily>
 		<familyName>2.54 mm (x2 Row) Header</familyName>
 		<familyType>HEAD</familyType>
 		<familySize>I01</familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>H</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>H2X##</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>H2X##</familyHexNameSpaceDisplay>
 		<familyAbout>These are absolutely everywhere. They're used for making board to board connections (when paired with HEAD-I01) or board to wire connections (when paired with CRHO-I01). While ubiquitous they are not always the best choice, The lack of a key means plugging them in backwards is always a worry, and when a lot of connections are required the pitch means a lot of real estate gets occupied.</familyAbout>
-	</oompFamily>			
+	</oompFamily>
 	<oompFamily>
 		<familyName>2.54 mm Header (Long)</familyName>
 		<familyType>HEAL</familyType>
 		<familySize>I01</familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>HL</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>HL##</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>HL##</familyHexNameSpaceDisplay>
 		<familyAbout>These are rather rare, but can be super useful. One side of a standard 2.54 mm header is the perfect length for soldering, on these headers that side is the right length for plugging into a breadboard. They are also handy when connecting two female connectors (CRHO-I01) together. It means these are great when prototyping, allowing you to connect a wire with the right connector (CRHO-I01) to your breadboard, or butt two wires together even though they may not have been designed to connect to one another.</familyAbout>
-	</oompFamily>			
-	
+	</oompFamily>
 	<oompFamily>
 		<familyName>2.54 mm Female Header (Long)</familyName>
 		<familyType>HELF</familyType>
 		<familySize>I01</familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>HLF</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>HLF##</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>HLF##</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>			
-	
+	</oompFamily>
 	<oompFamily>
 		<familyName>2.54 mm Female Header </familyName>
 		<familyType>HEAF</familyType>
 		<familySize>I01</familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>HF</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>HF##</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>HF##</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>			
-	
-	
-	
+	</oompFamily>
 	<oompFamily>
 		<familyName>Through Hole Crystal</familyName>
 		<familyType>XTAL</familyType>
 		<familySize>TH</familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>XT</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>XT##</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>XT##</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>			
-	
+	</oompFamily>
 	<oompFamily>
 		<familyName>SMD Crystal</familyName>
 		<familyType>XTAL</familyType>
 		<familySize></familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>XS</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>XS###</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>XS###</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>			
+	</oompFamily>
 	<oompFamily>
 		<familyName>SMD (1206-3) Ceramic Resonator</familyName>
 		<familyType>CERE</familyType>
 		<familySize>1263</familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>CR163</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>CR163##</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>CR163##</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>			
+	</oompFamily>
 	<oompFamily>
 		<familyName>DIP IC Socket</familyName>
 		<familyType>ICSO</familyType>
 		<familySize></familySize>
 		<familyColor>X</familyColor>
 		<familyDesc>STAN</familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>IS</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>IS</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>IS</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>			
-			
+	</oompFamily>
 	<oompFamily>
 		<familyName>SMD P-Ch MOSFET</familyName>
 		<familyType>MOSP</familyType>
 		<familySize></familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>MP</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>MP####</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>MP####</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>			
-			
+	</oompFamily>
 	<oompFamily>
 		<familyName>NPN Transistor</familyName>
 		<familyType>TRNN</familyType>
 		<familySize></familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>NT</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>NT####</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>NT####</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>			
-			
+	</oompFamily>
 	<oompFamily>
 		<familyName>PNP Transistor</familyName>
 		<familyType>TRNP</familyType>
 		<familySize></familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>PT</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>PT####</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>PT####</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>			
+	</oompFamily>
 	<oompFamily>
 		<familyName>SMD Voltage Requlator</familyName>
 		<familyType>VREG</familyType>
 		<familySize></familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>VS</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>VS####</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>VS####</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>		
+	</oompFamily>
 	<oompFamily>
 		<familyName>Through Hole Voltage Requlator</familyName>
 		<familyType>VREG</familyType>
 		<familySize></familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>VT</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>VT####</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>VT####</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>		
+	</oompFamily>
 	<oompFamily>
 		<familyName>DC Jacks</familyName>
 		<familyType>DCJP</familyType>
 		<familySize></familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>DJ</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>DJ##</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>DJ##</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>			<oompFamily>
+		</oompFamily>			<oompFamily>
 		<familyName>N-Ch MOSFET</familyName>
 		<familyType>MOSN</familyType>
 		<familySize></familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>MN</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>MN####</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>MN####</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>		
-	
+	</oompFamily>
 	<oompFamily>
 		<familyName>P-Ch MOSFET</familyName>
 		<familyType>MOSP</familyType>
 		<familySize></familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>MP</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>MN####</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>MN####</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>		
+	</oompFamily>
 	<oompFamily>
 		<familyName>Through Hole IC</familyName>
 		<familyType>ICIC</familyType>
 		<familySize>TH</familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>IC</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>IC###</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>IC###</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>		
+	</oompFamily>
 	<oompFamily>
 		<familyName>SMD IC</familyName>
 		<familyType>ICIC</familyType>
 		<familySize>SMD</familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>ICS</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>ICS####</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>ICS####</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>	
+	</oompFamily>
 	<oompFamily>
 		<familyName>SMD Diode</familyName>
 		<familyType>DIOD</familyType>
 		<familySize></familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>DS</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>DS###</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>DS###</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>	
-	
-	
+	</oompFamily>
 	<!-- SKIP EE RESERVED FOR 3 Digit Followed by 1 -->
-	
-	
 	<!-- 3Digit followed by 1 digit spaces -->
 	<oompFamily>
 		<familyName>40 Wire Rainbow Crimped Ribbon Cable</familyName>
@@ -514,62 +490,62 @@
 		<familySize>40W</familySize>
 		<familyColor>Z</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>RBC</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>RBC#</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>RBC#</familyHexNameSpaceDisplay>
 		<familyAbout>These ribbon cables on their own aren't very handy but when paired with the right crimp housing (CRHO-I01) become the answer to all your board connecting woes. The pre-crimped ends slide easily into a crimp housing making constructing custom cables a cinch, and the rainbow nature means it's easy to make your project colorful. While they are great, being un-keyed means plugging the constructed cable in backwards is possible, and with a 2.54 mm spacing quite a bit of real estate is used for multi-wire connections.</familyAbout>
-	</oompFamily>		
+	</oompFamily>
 	<oompFamily>
 		<familyName>28 AWG Stranded Wire</familyName>
 		<familyType>WIRS</familyType>
 		<familySize>G28</familySize>
 		<familyColor></familyColor>
 		<familyDesc>STAN</familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>W2</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>W2#</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>W2#</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>		
+	</oompFamily>
 	<oompFamily>
 		<familyName>Op Amps</familyName>
 		<familyType>OPAM</familyType>
 		<familySize></familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>OA</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>OA###</familyHexNameSpaceDisplay>		
-	</oompFamily>	
-<oompFamily>
+		<familyHexNameSpaceDisplay>OA###</familyHexNameSpaceDisplay>
+	</oompFamily>
+	<oompFamily>
 		<familyName>Through Hole USB Socket</familyName>
 		<familyType>USBS</familyType>
 		<familySize></familySize>
 		<familyColor>X</familyColor>
 		<familyDesc>THTH</familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>UT</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>UT#</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>UT#</familyHexNameSpaceDisplay>
 		<familyAbout>Through hole USB sockets, for oproviding USB connectivity to your circuit.</familyAbout>
-	</oompFamily>	
-<oompFamily>
+	</oompFamily>
+	<oompFamily>
 		<familyName>SMD USB Socket</familyName>
 		<familyType>USBS</familyType>
 		<familySize></familySize>
 		<familyColor>X</familyColor>
 		<familyDesc>SMDS</familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>US</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>US#</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>US#</familyHexNameSpaceDisplay>
 		<familyAbout>Surface mount USB sockets, for oproviding USB connectivity to your circuit.</familyAbout>
-	</oompFamily>		<oompFamily>
+		</oompFamily>		<oompFamily>
 		<familyName>10 mm Frosted LED</familyName>
 		<familyType>LEDS</familyType>
 		<familySize>10</familySize>
 		<familyColor></familyColor>
 		<familyDesc>FROS</familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>L10</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>L10#</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>L10#</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
 	</oompFamily>
 	<oompFamily>
@@ -578,76 +554,75 @@
 		<familySize>05</familySize>
 		<familyColor></familyColor>
 		<familyDesc>TINT</familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>LT5</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>LT5#</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>LT5#</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>	
-		<oompFamily>
+	</oompFamily>
+	<oompFamily>
 		<familyName>5 mm LED</familyName>
 		<familyType>LEDS</familyType>
 		<familySize>05</familySize>
 		<familyColor></familyColor>
 		<familyDesc>STAN</familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>L5</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>L5#</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>L5#</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>	
-		
+	</oompFamily>
 	<oompFamily>
 		<familyName>SMD (0805) LED</familyName>
 		<familyType>LEDS</familyType>
 		<familySize>0805</familySize>
 		<familyColor></familyColor>
 		<familyDesc>STAN</familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>L85</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>L85#</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>L85#</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>	
+	</oompFamily>
 	<oompFamily>
 		<familyName>SMD (0603) LED</familyName>
 		<familyType>LEDS</familyType>
 		<familySize>0603</familySize>
 		<familyColor></familyColor>
 		<familyDesc>STAN</familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>L6</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>L6#</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>L6#</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>	
+	</oompFamily>
 	<oompFamily>
 		<familyName>6 mm Heat Shrink</familyName>
 		<familyType>HESH</familyType>
 		<familySize>06</familySize>
 		<familyColor></familyColor>
 		<familyDesc>STAN</familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>HS6</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>HS6#</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>HS6#</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>	
+	</oompFamily>
 	<oompFamily>
 		<familyName>3 mm Heat Shrink</familyName>
 		<familyType>HESH</familyType>
 		<familySize>03</familySize>
 		<familyColor></familyColor>
 		<familyDesc>STAN</familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>HS3</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>HS3#</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>HS3#</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>	
+	</oompFamily>
 	<oompFamily>
 		<familyName>1.5 mm Heat Shrink</familyName>
 		<familyType>HESH</familyType>
 		<familySize>15D</familySize>
 		<familyColor></familyColor>
 		<familyDesc>STAN</familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>HS1</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>HS1#</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>HS1#</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
 	</oompFamily>
 	<oompFamily>
@@ -656,136 +631,129 @@
 		<familySize>TH</familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>VC</familyIndex>	
+		<familyIndex>VC</familyIndex>
 		<familyHexNameSpace>DT</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>DT##</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>DT##</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>	
-		<oompFamily>
+	</oompFamily>
+	<oompFamily>
 		<familyName>Pushbutton (Tactile)</familyName>
 		<familyType>BUTA</familyType>
 		<familySize></familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>B</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>B##</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>B##</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>		
-		<oompFamily>
+	</oompFamily>
+	<oompFamily>
 		<familyName>2.54 mm Female Header</familyName>
 		<familyType>HEAF</familyType>
 		<familySize>I01</familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>HF</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>HF##</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>HF##</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
 	</oompFamily>
-		<oompFamily>
+	<oompFamily>
 		<familyName>2.54 mm Female Header (Long)</familyName>
 		<familyType>HELF</familyType>
 		<familySize>I01</familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>HLF</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>HLF##</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>HLF##</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
 	</oompFamily>
-		<oompFamily>
+	<oompFamily>
 		<familyName>2.54 mm Header</familyName>
 		<familyType>HEAD</familyType>
 		<familySize>I01</familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>H</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>H##</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>H##</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily><oompFamily>
+		</oompFamily><oompFamily>
 		<familyName>M3 Metal Machine Screw</familyName>
 		<familyType>SCRE</familyType>
 		<familySize>M3</familySize>
 		<familyColor>M</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>M3</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>M3##</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>M3##</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>	
+	</oompFamily>
 	<oompFamily>
 		<familyName>Headphone Socket</familyName>
 		<familyType>HEADS</familyType>
 		<familySize></familySize>
 		<familyColor></familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>HPS</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>HPS0##</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>HPS0##</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>	
-	
+	</oompFamily>
 	<oompFamily>
 		<familyName>SD Card Socket</familyName>
 		<familyType>SDCS</familyType>
 		<familySize></familySize>
 		<familyColor></familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>SD</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>SD###</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>SD###</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>	
-	
+	</oompFamily>
 	<oompFamily>
 		<familyName>Switch (Slide)</familyName>
 		<familyType>SWIS</familyType>
 		<familySize></familySize>
 		<familyColor></familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>SSW</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>SSW##</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>SSW##</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>	
-	
+	</oompFamily>
 	<oompFamily>
 		<familyName>Screw terminal</familyName>
 		<familyType>TERS</familyType>
 		<familySize></familySize>
 		<familyColor></familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>ST</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>ST###</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>ST###</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>	
-	
-	
+	</oompFamily>
 	<oompFamily>
 		<familyName>UFL Socket</familyName>
 		<familyType>UFLS</familyType>
 		<familySize></familySize>
 		<familyColor>X</familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>UFL</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>UFL###</familyHexNameSpaceDisplay>		
+		<familyHexNameSpaceDisplay>UFL###</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>	
+	</oompFamily>
 	<oompFamily>
 		<familyName>Breadboard</familyName>
 		<familyType>BREB</familyType>
 		<familySize></familySize>
 		<familyColor></familyColor>
 		<familyDesc></familyDesc>
-		<familyIndex>01</familyIndex>	
+		<familyIndex>01</familyIndex>
 		<familyHexNameSpace>BB</familyHexNameSpace>
-		<familyHexNameSpaceDisplay>BB#</familyHexNameSpaceDisplay>	
+		<familyHexNameSpaceDisplay>BB#</familyHexNameSpaceDisplay>
 		<familyAbout></familyAbout>
-	</oompFamily>	
-			
-	
+	</oompFamily>
 </xml>
