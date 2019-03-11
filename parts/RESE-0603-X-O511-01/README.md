@@ -3,11 +3,11 @@
 Summary
 =================
   
-Name: __SMD (0603) 510 Ohm Resistor__    
+Name: ____    
 ID: __RESE-0603-X-O511-01__   
-Hex ID: __R6511__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O511-01__   
-Short URL: __http://oom.lt/R6511__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

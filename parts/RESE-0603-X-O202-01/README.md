@@ -3,11 +3,11 @@
 Summary
 =================
   
-Name: __ SMD (0603) 2k Ohm Resistor __    
+Name: ____    
 ID: __RESE-0603-X-O202-01__   
-Hex ID: __R6202__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O202-01__   
-Short URL: __http://oom.lt/R6202__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

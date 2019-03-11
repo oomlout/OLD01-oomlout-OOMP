@@ -3,11 +3,11 @@
 Summary
 =================
   
-Name: __SMD (0805) 1k Ohm Resistor__    
+Name: ____    
 ID: __RESE-0805-X-O102-01__   
-Hex ID: __R85102__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0805-X-O102-01__   
-Short URL: __http://oom.lt/R85102__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

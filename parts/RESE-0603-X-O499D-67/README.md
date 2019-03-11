@@ -3,11 +3,11 @@
 Summary
 =================
   
-Name: __SMD (0603) 49.9 Ohm Resistor 1%__    
+Name: ____    
 ID: __RESE-0603-X-O499D-67__   
-Hex ID: __R6049__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O499D-67__   
-Short URL: __http://oom.lt/R6049__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

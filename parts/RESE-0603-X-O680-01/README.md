@@ -3,11 +3,11 @@
 Summary
 =================
   
-Name: __SMD (0603) 68 Ohm Resistor__    
+Name: ____    
 ID: __RESE-0603-X-O680-01__   
-Hex ID: __R6680__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O680-01__   
-Short URL: __http://oom.lt/R6680__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

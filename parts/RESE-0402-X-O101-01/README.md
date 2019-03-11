@@ -3,11 +3,11 @@
 Summary
 =================
   
-Name: __SMD (0402) 100 Ohm Resistor__    
+Name: ____    
 ID: __RESE-0402-X-O101-01__   
-Hex ID: __R42101__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0402-X-O101-01__   
-Short URL: __http://oom.lt/R42101__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

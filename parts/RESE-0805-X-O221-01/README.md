@@ -3,11 +3,11 @@
 Summary
 =================
   
-Name: __SMD (0805) 220 Ohm Resistor__    
+Name: ____    
 ID: __RESE-0805-X-O221-01__   
-Hex ID: __R85221__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0805-X-O221-01__   
-Short URL: __http://oom.lt/R85221__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

@@ -3,11 +3,11 @@
 Summary
 =================
   
-Name: __SMD (0603) 3.9k Ohm Resistor__    
+Name: ____    
 ID: __RESE-0603-X-O392-01__   
-Hex ID: __R6392__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O392-01__   
-Short URL: __http://oom.lt/R6392__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

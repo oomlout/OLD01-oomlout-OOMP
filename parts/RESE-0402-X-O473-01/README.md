@@ -3,11 +3,11 @@
 Summary
 =================
   
-Name: __SMD (0402) 47k Ohm Resistor__    
+Name: ____    
 ID: __RESE-0402-X-O473-01__   
-Hex ID: __R42473__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0402-X-O473-01__   
-Short URL: __http://oom.lt/R42473__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

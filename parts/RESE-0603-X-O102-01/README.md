@@ -3,11 +3,11 @@
 Summary
 =================
   
-Name: __SMD (0603) 1k Ohm Resistor__    
+Name: ____    
 ID: __RESE-0603-X-O102-01__   
-Hex ID: __R6102__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O102-01__   
-Short URL: __http://oom.lt/R6102__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

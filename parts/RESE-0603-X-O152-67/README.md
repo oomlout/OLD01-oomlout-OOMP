@@ -3,11 +3,11 @@
 Summary
 =================
   
-Name: __SMD (0603) 1.5k Ohm Resistor 1%__    
+Name: ____    
 ID: __RESE-0603-X-O152-67__   
-Hex ID: __R6152A__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O152-67__   
-Short URL: __http://oom.lt/R6152A__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

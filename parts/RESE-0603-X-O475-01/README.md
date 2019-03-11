@@ -3,11 +3,11 @@
 Summary
 =================
   
-Name: __SMD (0603) 4.7M Ohm Resistor__    
+Name: ____    
 ID: __RESE-0603-X-O475-01__   
-Hex ID: __R6475__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O475-01__   
-Short URL: __http://oom.lt/R6475__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

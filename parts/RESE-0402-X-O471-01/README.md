@@ -3,11 +3,11 @@
 Summary
 =================
   
-Name: __SMD (0402) 470 Ohm Resistor__    
+Name: ____    
 ID: __RESE-0402-X-O471-01__   
-Hex ID: __R42471__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0402-X-O471-01__   
-Short URL: __http://oom.lt/R42471__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

@@ -3,11 +3,11 @@
 Summary
 =================
   
-Name: __SMD (0402) 10k Ohm Resistor__    
+Name: ____    
 ID: __RESE-0402-X-O103-01__   
-Hex ID: __R42103__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0402-X-O103-01__   
-Short URL: __http://oom.lt/R42103__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================
