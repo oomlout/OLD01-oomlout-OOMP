@@ -57,17 +57,22 @@
 			<oplLink>https://www.seeedstudio.com/opl.html?</oplLink>
 		</oplSystem>
 	</oplList>
-	<oompDiag>
+	
+		<oompBbls>
+			<drawItem>template;XXXX-0603-X-XXXX-XX-bbls</drawItem>
+		</oompBbls>
+		<oompDiag>
 			<drawItem>template;XXXX-0603-X-XXXX-XX-diag</drawItem>
 		</oompDiag>
-	<oompIden>
+		<oompIden>
 			<drawItem>template;XXXX-0603-X-XXXX-XX-iden</drawItem>
 		</oompIden>
-	<oompSchem>
+		<oompSchem>
 			<drawItem>template;RESE-XXXX-X-XXXX-XX-schem</drawItem>
 		</oompSchem>
-	<oompSimp>
+		<oompSimp>
 			<drawItem>template;XXXX-0603-X-XXXX-XX-simp</drawItem>
 		</oompSimp>
+		<ooDesignator>R1</ooDesignator>
 </oompPart>
 </xml>

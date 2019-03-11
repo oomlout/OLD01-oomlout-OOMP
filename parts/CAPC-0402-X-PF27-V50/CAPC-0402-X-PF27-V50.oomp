@@ -49,5 +49,21 @@
 			<oplLink>https://www.seeedstudio.com/opl.html?</oplLink>
 		</oplSystem>
 	</oplList>
+		<oompBbls>
+			<drawItem>template;XXXX-0402-X-XXXX-XX-bbls</drawItem>
+		</oompBbls>
+		<oompDiag>
+			<drawItem>template;XXXX-0402-X-XXXX-XX-diag</drawItem>
+		</oompDiag>
+		<oompIden>
+			<drawItem>template;XXXX-0402-X-XXXX-XX-iden</drawItem>
+		</oompIden>
+		<oompSchem>
+			<drawItem>template;CAPC-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
+		<oompSimp>
+			<drawItem>template;XXXX-0402-X-XXXX-XX-simp</drawItem>
+		</oompSimp>
+		<ooDesignator>C1</ooDesignator>
 </oompPart>
 </xml>
