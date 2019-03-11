@@ -121,9 +121,8 @@
 				<drawItem>oompURL;0;-5;2.835;##hexID@@</drawItem>
 			</oompDiag>
 			<oompSchem>
-				<oompIden>
-					<drawItem>template;BUTA-XXXX-X-XXXX-XX-schem</drawItem>
-				</oompIden>
-			</oompSchem><ooDesignator>S1</ooDesignator>
+			  		<drawItem>template;BUTA-XXXX-X-XXXX-XX-schem</drawItem>
+			</oompSchem>
+			<ooDesignator>S1</ooDesignator>
 	</oompPart>
 </xml>
