@@ -47,6 +47,15 @@
 		</bigDistributor>
 	</sourceList>
 	<oplList>
+	<oplSystem>
+				<oplScheme>Circuithub.com</oplScheme>
+				<oplCode>C-CIRC</oplCode>
+				<oplName>ATMEL/ATMEGA16U2-MU</oplName>
+				<oplID>ATMEL/ATMEGA16U2-MU</oplID>
+				<oplFootprint></oplFootprint>
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://circuithub.com/parts/ATMEL/ATMEGA16U2-MU]]></oplLink>
+			</oplSystem>
 		<oplSystem>
 			<oplScheme>SEEED OPL</oplScheme>
 			<oplCode>C-SEEE</oplCode>
