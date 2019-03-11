@@ -1,0 +1,60 @@
+<xml>
+<oompPart>
+	<oompID>RESE-0603-X-O221-67</oompID>
+	<oompName>SMD (0603) 220 Ohm Resistor 1%</oompName>
+	<oompType>RESE</oompType>
+	<oompSize>0603</oompSize>
+	<oompColor>X</oompColor>
+	<oompIndex>67</oompIndex>
+	<oompVersion>999</oompVersion>
+	<ooWidth>0.8mm</ooWidth>
+	<ooHeight>0.45mm</ooHeight>
+	<ooLength>1.6mm</ooLength>
+	<sourceList>
+		<manufacturer>
+			<company>YAGEO</company>
+			<companyCode>C-YAGE</companyCode>
+			<name></name>
+			<partId>RC0603FR-07220RL</partId>
+		</manufacturer>
+		<bigDistributor>
+			<company>LCSC</company>
+			<companyCode>C-LCSC</companyCode>
+			<name>Chip Resistor - Surface Mount 220Ohms ±1% 1/10W 0603 RoHS</name>
+			<partId>C107696</partId>
+			<link><![CDATA[https://lcsc.com/search?q=C107696]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Digikey</company>
+			<companyCode>C-DIGK</companyCode>
+			<name>RES SMD 220 OHM 1% 1/10W 0603</name>
+			<partId>311-220HRTR-ND</partId>
+			<link><![CDATA[https://www.digikey.co.uk/products/en?keywords=311-220HRTR-ND]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Mouser</company>
+			<companyCode>C-MOUS</companyCode>
+			<name>Thick Film Resistors - SMD 220 OHM 1%</name>
+			<partId>603-RC0603FR-07220RL</partId>
+			<link><![CDATA[https://www.mouser.co.uk/Search/Refine?Keyword=603-RC0603FR-07220RL]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Farnell</company>
+			<companyCode>C-FARN</companyCode>
+			<name></name>
+			<partId>9238409</partId>
+			<link><![CDATA[https://uk.farnell.com/search?st=9238409]]></link>
+		</bigDistributor>
+	</sourceList>
+	<oplList>
+		<oplSystem>
+			<oplScheme>SEEED OPL</oplScheme>
+			<oplCode>C-SEEE</oplCode>
+			<oplName>SMD RES 220R-1%-1/10W;0603</oplName>
+			<oplID>301010207</oplID>
+			<oplFootprint></oplFootprint>
+			<oplLink>https://www.seeedstudio.com/opl.html?</oplLink>
+		</oplSystem>
+	</oplList>
+</oompPart>
+</xml>

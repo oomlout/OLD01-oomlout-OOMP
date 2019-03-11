@@ -1,0 +1,53 @@
+<xml>
+<oompPart>
+	<oompID>BUTA-52D-X-SMDS-01</oompID>
+	<oompName>5.2 mm SMD Pushbutton (Tactile)</oompName>
+	<oompType>BUTA</oompType>
+	<oompSize>52D</oompSize>
+	<oompColor>X</oompColor>
+	<oompIndex>01</oompIndex>
+	<oompVersion>999</oompVersion>
+	<ooWidth>4.8mm</ooWidth>
+	<ooHeight>1.5mm</ooHeight>
+	<ooLength>4.8mm</ooLength>
+	<sourceList>
+		<manufacturer>
+			<company>ALPS</company>
+			<companyCode>C-ALPS</companyCode>
+			<name></name>
+			<partId>SKQGADE010</partId>
+		</manufacturer>
+		<bigDistributor>
+			<company>LCSC</company>
+			<companyCode>C-LCSC</companyCode>
+			<name>Tactile Switches SPST-NO 5.20mm x 5.20mm 1.50mm 50mA @ 12VDC SMD RoHS</name>
+			<partId>C116647</partId>
+			<link><![CDATA[https://lcsc.com/search?q=C116647]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Mouser</company>
+			<companyCode>C-MOUS</companyCode>
+			<name>Tactile Switches 5.2x5.2x1.5mm 260gf</name>
+			<partId>688-SKQGAD</partId>
+			<link><![CDATA[https://www.mouser.co.uk/Search/Refine?Keyword=688-SKQGAD]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Farnell</company>
+			<companyCode>C-FARN</companyCode>
+			<name></name>
+			<partId>1656434</partId>
+			<link><![CDATA[https://uk.farnell.com/search?st=1656434]]></link>
+		</bigDistributor>
+	</sourceList>
+	<oplList>
+		<oplSystem>
+			<oplScheme>SEEED OPL</oplScheme>
+			<oplCode>C-SEEE</oplCode>
+			<oplName>SMD Button;260gf</oplName>
+			<oplID>311020017</oplID>
+			<oplFootprint></oplFootprint>
+			<oplLink>https://www.seeedstudio.com/opl.html?</oplLink>
+		</oplSystem>
+	</oplList>
+</oompPart>
+</xml>

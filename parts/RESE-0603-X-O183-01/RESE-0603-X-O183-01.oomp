@@ -1,87 +1,62 @@
 <xml>
-	<oompPart>
-		<oompID>RESE-0603-X-O183-01</oompID>
-		<name>SMD (0603) 18k Ohm Resistor</name>
-		<hexID>R6183</hexID>
-		<oompSort>RESE0603O183</oompSort>
-		<oompType>RESE</oompType>
-		<oompSize>0603</oompSize>
-		<oompColor>X</oompColor>
-		<oompDesc>O183</oompDesc>
-		<oompIndex>01</oompIndex>
-		<oompVersion>98</oompVersion>
-		<ooWidth>0.8 mm</ooWidth>
-		<ooLength>1.6 mm</ooLength>
-		<ooNumPins>2</ooNumPins>
-		<sourceList>
-			<manufacturer>
-				<company>YAGEO</company>
-				<companyCode>C-YAGE</companyCode>
-				<name></name>
-				<partID>RC0603JR-0718KL</partID>
-				<link></link>
-				<note></note>
-			</manufacturer>
-			<manufacturer>
-				<company>Multicomp</company>
-				<companyCode>C-MULT</companyCode>
-				<name></name>
-				<partID>MC0063W0603518K</partID>
-				<link></link>
-				<note></note>
-			</manufacturer>
-			<bigDistributor>
-				<company>Digikey</company>
-				<companyCode>C-DIGK</companyCode>
-				<name></name>
-				<partID>311-18KGRCT-ND</partID>
-				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=311-18KGRCT-ND]]></link>
-				<note></note>
-				</bigDistributor>								<bigDistributor>
-				<company>Mouser</company>
-				<companyCode>C-MOUS</companyCode>
-				<name></name>
-				<partID>603-RC0603JR-0718KL</partID>
-				<link><![CDATA[http://www.mouser.co.uk/Search/Refine.aspx?Keyword=603-RC0603JR-0718KL]]></link>
-				<note></note>
-			</bigDistributor>
-			<bigDistributor>
-				<company>Farnell</company>
-				<companyCode>C-FARN</companyCode>
-				<name></name>
-				<partID>1799395</partID>
-				<link><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=1799395]]></link>
-				<note></note>
-			</bigDistributor>
-			<bigDistributor>
-				<company>RS Electronics</company>
-				<companyCode>C-RSRS</companyCode>
-				<name></name>
-				<partID>678-9857</partID>
-				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=678-9857]]></link>
-				<note></note>
-			</bigDistributor>
-		</sourceList>
-		<oplList>
-			<oplSystem>
-				<oplScheme>SEEED OPL</oplScheme>
-				<oplCode>C-SEEE</oplCode>
-				<oplName>SMD RES 18K-5%-1/10W;</oplName>
-				<oplID>301010104</oplID>
-				<oplFootprint>603</oplFootprint>
-				<oplPackage>603</oplPackage>
-				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
-			</oplSystem>
-			<oplSystem>
-				<oplScheme>Circuithub.com</oplScheme>
-				<oplCode>C-CIRC</oplCode>
-				<oplName>YAGEO/RC0603JR-0718KL</oplName>
-				<oplID>YAGEO/RC0603JR-0718KL</oplID>
-				<oplFootprint>0603</oplFootprint>
-				<oplPackage>0603</oplPackage>
-				<oplLink><![CDATA[https://circuithub.com/parts/YAGEO/RC0603JR-0718KL]]></oplLink>
-			</oplSystem>
-		</oplList>
-		<ooDesignator>R1</ooDesignator>
-	</oompPart>
+<oompPart>
+	<oompID>RESE-0603-X-O183-01</oompID>
+	<hexId>R6183</hexId>
+	<oompName>SMD (0603) 19k Ohm Resistor</oompName>
+	<oompSort>RESE0603O183</oompSort>
+	<oompType>RESE</oompType>
+	<oompSize>0603</oompSize>
+	<oompColor>X</oompColor>
+	<oompIndex>01</oompIndex>
+	<oompVersion>999</oompVersion>
+	<ooWidth>0.8mm</ooWidth>
+	<ooHeight>0.45mm</ooHeight>
+	<ooLength>1.6mm</ooLength>
+	<sourceList>
+		<manufacturer>
+			<company>YAGEO</company>
+			<companyCode>C-YAGE</companyCode>
+			<name></name>
+			<partId>RC0603JR-0718KL</partId>
+		</manufacturer>
+		<bigDistributor>
+			<company>LCSC</company>
+			<companyCode>C-LCSC</companyCode>
+			<name>Chip Resistor - Surface Mount 18KOhms ±5% 1/10W 0603 RoHS</name>
+			<partId>C137655</partId>
+			<link><![CDATA[https://lcsc.com/search?q=C137655]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Digikey</company>
+			<companyCode>C-DIGK</companyCode>
+			<name>RES SMD 18K OHM 5% 1/10W 0603</name>
+			<partId>311-18KGRTR-ND</partId>
+			<link><![CDATA[https://www.digikey.co.uk/products/en?keywords=311-18KGRTR-ND]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Mouser</company>
+			<companyCode>C-MOUS</companyCode>
+			<name>Thick Film Resistors - SMD 18K OHM 5%</name>
+			<partId>603-RC0603JR-0718KL</partId>
+			<link><![CDATA[https://www.mouser.co.uk/Search/Refine?Keyword=603-RC0603JR-0718KL]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Farnell</company>
+			<companyCode>C-FARN</companyCode>
+			<name></name>
+			<partId>1799395</partId>
+			<link><![CDATA[https://uk.farnell.com/search?st=1799395]]></link>
+		</bigDistributor>
+	</sourceList>
+	<oplList>
+		<oplSystem>
+			<oplScheme>SEEED OPL</oplScheme>
+			<oplCode>C-SEEE</oplCode>
+			<oplName>SMD RES 18K-5%-1/10W;</oplName>
+			<oplID>301010104</oplID>
+			<oplFootprint></oplFootprint>
+			<oplLink>https://www.seeedstudio.com/opl.html?</oplLink>
+		</oplSystem>
+	</oplList>
+</oompPart>
 </xml>

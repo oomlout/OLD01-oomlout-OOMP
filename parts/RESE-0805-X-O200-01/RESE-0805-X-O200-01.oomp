@@ -1,0 +1,53 @@
+<xml>
+<oompPart>
+	<oompID>RESE-0805-X-O200-01</oompID>
+	<oompName>SMD (0805) 20 Ohm Resistor</oompName>
+	<oompType>RESE</oompType>
+	<oompSize>0805</oompSize>
+	<oompColor>X</oompColor>
+	<oompIndex>01</oompIndex>
+	<oompVersion>999</oompVersion>
+	<ooWidth>1.25mm</ooWidth>
+	<ooHeight>0.5mm</ooHeight>
+	<ooLength>2mm</ooLength>
+	<sourceList>
+		<manufacturer>
+			<company>YAGEO</company>
+			<companyCode>C-YAGE</companyCode>
+			<name></name>
+			<partId>RC0805JR-0720RL</partId>
+		</manufacturer>
+		<bigDistributor>
+			<company>LCSC</company>
+			<companyCode>C-LCSC</companyCode>
+			<name>Chip Resistor - Surface Mount 20Ohms ±5% 1/8W 0805 RoHS</name>
+			<partId>C137459</partId>
+			<link><![CDATA[https://lcsc.com/search?q=C137459]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Digikey</company>
+			<companyCode>C-DIGK</companyCode>
+			<name>RES SMD 20 OHM 5% 1/8W 0805</name>
+			<partId>311-20ARTR-ND</partId>
+			<link><![CDATA[https://www.digikey.co.uk/products/en?keywords=311-20ARTR-ND]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Mouser</company>
+			<companyCode>C-MOUS</companyCode>
+			<name>Thick Film Resistors - SMD 20 OHM 5%</name>
+			<partId>603-RC0805JR-0720RL</partId>
+			<link><![CDATA[https://www.mouser.co.uk/Search/Refine?Keyword=603-RC0805JR-0720RL]]></link>
+		</bigDistributor>
+	</sourceList>
+	<oplList>
+		<oplSystem>
+			<oplScheme>SEEED OPL</oplScheme>
+			<oplCode>C-SEEE</oplCode>
+			<oplName>SMD RES 20R-5%-1/8W;0805</oplName>
+			<oplID>301010305</oplID>
+			<oplFootprint></oplFootprint>
+			<oplLink>https://www.seeedstudio.com/opl.html?</oplLink>
+		</oplSystem>
+	</oplList>
+</oompPart>
+</xml>

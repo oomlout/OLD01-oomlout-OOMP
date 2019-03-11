@@ -1,0 +1,60 @@
+<xml>
+<oompPart>
+	<oompID>CAPC-0805-X-UF1-V25</oompID>
+	<oompName>SMD (0805) 2 uF Capacitor (Ceramic) 25v</oompName>
+	<oompType>CAPC</oompType>
+	<oompSize>0805</oompSize>
+	<oompColor>X</oompColor>
+	<oompIndex>V25</oompIndex>
+	<oompVersion>999</oompVersion>
+	<ooWidth>1.25mm</ooWidth>
+	<ooHeight>1.25mm</ooHeight>
+	<ooLength>2mm</ooLength>
+	<sourceList>
+		<manufacturer>
+			<company>YAGEO</company>
+			<companyCode>C-YAGE</companyCode>
+			<name></name>
+			<partId>CC0805KKX7R8BB105</partId>
+		</manufacturer>
+		<bigDistributor>
+			<company>LCSC</company>
+			<companyCode>C-LCSC</companyCode>
+			<name>Multilayer Ceramic Capacitors MLCC - SMD/SMT 1uF 25V 0805 RoHS</name>
+			<partId>C91186</partId>
+			<link><![CDATA[https://lcsc.com/search?q=C91186]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Digikey</company>
+			<companyCode>C-DIGK</companyCode>
+			<name>CAP CER 1UF 25V X7R 0805</name>
+			<partId>311-1456-2-ND</partId>
+			<link><![CDATA[https://www.digikey.co.uk/products/en?keywords=311-1456-2-ND]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Mouser</company>
+			<companyCode>C-MOUS</companyCode>
+			<name>Multilayer Ceramic Capacitors MLCC - SMD/SMT 1.0uF 25V X7R 10%</name>
+			<partId>603-CC805KKX7R8BB105</partId>
+			<link><![CDATA[https://www.mouser.co.uk/Search/Refine?Keyword=603-CC805KKX7R8BB105]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Farnell</company>
+			<companyCode>C-FARN</companyCode>
+			<name></name>
+			<partId>1458903</partId>
+			<link><![CDATA[https://uk.farnell.com/search?st=1458903]]></link>
+		</bigDistributor>
+	</sourceList>
+	<oplList>
+		<oplSystem>
+			<oplScheme>SEEED OPL</oplScheme>
+			<oplCode>C-SEEE</oplCode>
+			<oplName>SMD CAP Ceramic 1uF-25V-10%-X7R</oplName>
+			<oplID>302010179</oplID>
+			<oplFootprint></oplFootprint>
+			<oplLink>https://www.seeedstudio.com/opl.html?</oplLink>
+		</oplSystem>
+	</oplList>
+</oompPart>
+</xml>

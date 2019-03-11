@@ -1,0 +1,53 @@
+<xml>
+<oompPart>
+	<oompID>RESE-0805-X-O332-67</oompID>
+	<oompName>SMD (0805) 3.3k Ohm Resistor 1%</oompName>
+	<oompType>RESE</oompType>
+	<oompSize>0805</oompSize>
+	<oompColor>X</oompColor>
+	<oompIndex>67</oompIndex>
+	<oompVersion>999</oompVersion>
+	<ooWidth>1.25mm</ooWidth>
+	<ooHeight>0.5mm</ooHeight>
+	<ooLength>2mm</ooLength>
+	<sourceList>
+		<manufacturer>
+			<company>YAGEO</company>
+			<companyCode>C-YAGE</companyCode>
+			<name></name>
+			<partId>RC0805FR-073K3L</partId>
+		</manufacturer>
+		<bigDistributor>
+			<company>LCSC</company>
+			<companyCode>C-LCSC</companyCode>
+			<name>Chip Resistor - Surface Mount 3.3KOhms ±1% 1/8W 0805 RoHS</name>
+			<partId>C114531</partId>
+			<link><![CDATA[https://lcsc.com/search?q=C114531]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Digikey</company>
+			<companyCode>C-DIGK</companyCode>
+			<name>RES SMD 3.3K OHM 1% 1/8W 0805</name>
+			<partId>311-3.30KCRTR-ND</partId>
+			<link><![CDATA[https://www.digikey.co.uk/products/en?keywords=311-3.30KCRTR-ND]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Mouser</company>
+			<companyCode>C-MOUS</companyCode>
+			<name>Thick Film Resistors - SMD 3.3K OHM 1%</name>
+			<partId>603-RC0805FR-073K3L</partId>
+			<link><![CDATA[https://www.mouser.co.uk/Search/Refine?Keyword=603-RC0805FR-073K3L]]></link>
+		</bigDistributor>
+	</sourceList>
+	<oplList>
+		<oplSystem>
+			<oplScheme>SEEED OPL</oplScheme>
+			<oplCode>C-SEEE</oplCode>
+			<oplName>SMD RES 3.3K-1%-1/8W;0805</oplName>
+			<oplID>301012170</oplID>
+			<oplFootprint></oplFootprint>
+			<oplLink>https://www.seeedstudio.com/opl.html?</oplLink>
+		</oplSystem>
+	</oplList>
+</oompPart>
+</xml>

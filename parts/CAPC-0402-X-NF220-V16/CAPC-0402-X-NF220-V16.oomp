@@ -1,0 +1,60 @@
+<xml>
+<oompPart>
+	<oompID>CAPC-0402-X-NF220-V16</oompID>
+	<oompName>SMD (0402) 230 nF Capacitor (Ceramic) 16v</oompName>
+	<oompType>CAPC</oompType>
+	<oompSize>0402</oompSize>
+	<oompColor>X</oompColor>
+	<oompIndex>V16</oompIndex>
+	<oompVersion>999</oompVersion>
+	<ooWidth>0.5mm</ooWidth>
+	<ooHeight>0.5mm</ooHeight>
+	<ooLength>1mm</ooLength>
+	<sourceList>
+		<manufacturer>
+			<company>YAGEO</company>
+			<companyCode>C-YAGE</companyCode>
+			<name></name>
+			<partId>CC0402KRX7R7BB224</partId>
+		</manufacturer>
+		<bigDistributor>
+			<company>LCSC</company>
+			<companyCode>C-LCSC</companyCode>
+			<name>Multilayer Ceramic Capacitors MLCC - SMD/SMT 220nF 16V 0402 RoHS</name>
+			<partId>C326590</partId>
+			<link><![CDATA[https://lcsc.com/search?q=C326590]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Digikey</company>
+			<companyCode>C-DIGK</companyCode>
+			<name>CAP CER 0.22UF 16V X7R 0402</name>
+			<partId>311-1708-2-ND</partId>
+			<link><![CDATA[https://www.digikey.co.uk/products/en?keywords=311-1708-2-ND]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Mouser</company>
+			<companyCode>C-MOUS</companyCode>
+			<name>Multilayer Ceramic Capacitors MLCC - SMD/SMT 0.22uF 10% 16V</name>
+			<partId>603-CC402KRX7R7BB224</partId>
+			<link><![CDATA[https://www.mouser.co.uk/Search/Refine?Keyword=603-CC402KRX7R7BB224]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Farnell</company>
+			<companyCode>C-FARN</companyCode>
+			<name></name>
+			<partId>1759389</partId>
+			<link><![CDATA[https://uk.farnell.com/search?st=1759389]]></link>
+		</bigDistributor>
+	</sourceList>
+	<oplList>
+		<oplSystem>
+			<oplScheme>SEEED OPL</oplScheme>
+			<oplCode>C-SEEE</oplCode>
+			<oplName>SMD CAP Ceramic 220nF-16V-10%-X7R;</oplName>
+			<oplID>302010051</oplID>
+			<oplFootprint></oplFootprint>
+			<oplLink>https://www.seeedstudio.com/opl.html?</oplLink>
+		</oplSystem>
+	</oplList>
+</oompPart>
+</xml>

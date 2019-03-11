@@ -1,79 +1,55 @@
 <xml>
-	<oompPart>
-		<oompID>RESE-0402-X-O471-01</oompID>
-		<name>SMD (0402) 470 Ohm Resistor</name>
-		<hexID>R42471</hexID>
-		<oompSort>RESE0402O471</oompSort>
-		<oompType>RESE</oompType>
-		<oompSize>0402</oompSize>
-		<oompColor>X</oompColor>
-		<oompDesc>O471</oompDesc>
-		<oompIndex>01</oompIndex>
-		<oompVersion>98</oompVersion>
-		<ooWidth>0.5 mm</ooWidth>
-		<ooLength>1.0 mm</ooLength>
-		<ooNumPins>2</ooNumPins>
-		<sourceList>
-			<manufacturer>
-				<company>YAGEO</company>
-				<companyCode>C-YAGE</companyCode>
-				<name></name>
-				<partID>RC0402JR-07470RL</partID>
-				<link></link>
-				<note></note>
-			</manufacturer>
-			<bigDistributor>
-				<company>Digikey</company>
-				<companyCode>C-DIGK</companyCode>
-				<name></name>
-				<partID>311-470JRCT-ND</partID>
-				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=311-470JRCT-ND]]></link>
-				<note></note>
-				</bigDistributor>								<bigDistributor>
-				<company>Mouser</company>
-				<companyCode>C-MOUS</companyCode>
-				<name></name>
-				<partID>603-RC0402JR-07470RL</partID>
-				<link><![CDATA[http://www.mouser.co.uk/Search/Refine.aspx?Keyword=603-RC0402JR-07470RL]]></link>
-				<note></note>
-			</bigDistributor>
-			<bigDistributor>
-				<company>Farnell</company>
-				<companyCode>C-FARN</companyCode>
-				<name></name>
-				<partID>9232729</partID>
-				<link><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=9232729]]></link>
-				<note></note>
-			</bigDistributor>
-			<bigDistributor>
-				<company>RS Electronics</company>
-				<companyCode>C-RSRS</companyCode>
-				<name></name>
-				<partID>804-7123</partID>
-				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=804-7123]]></link>
-				<note></note>
-			</bigDistributor>
-		</sourceList>
-		<oplList>
-			<oplSystem>
-				<oplScheme>SEEED OPL</oplScheme>
-				<oplCode>C-SEEE</oplCode>
-				<oplName>SMD RES 470R-5%-1/16W</oplName>
-				<oplID>301010013</oplID>
-				<oplFootprint>402</oplFootprint>
-				<oplPackage>402</oplPackage>
-				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
-			</oplSystem>
-			<oplSystem>
-				<oplScheme>Circuithub.com</oplScheme>
-				<oplCode>C-CIRC</oplCode>
-				<oplName>YAGEO/RC0402JR-07470RL</oplName>
-				<oplID>YAGEO/RC0402JR-07470RL</oplID>
-				<oplFootprint>0402</oplFootprint>
-				<oplPackage>0402</oplPackage>
-				<oplLink><![CDATA[https://circuithub.com/parts/YAGEO/RC0402JR-07470RL]]></oplLink>
-			</oplSystem>
-		</oplList>
-		<ooDesignator>R1</ooDesignator>
-	</oompPart>
+<oompPart>
+	<oompID>RESE-0402-X-O471-01</oompID>
+	<hexId>R42471</hexId>
+	<oompName>SMD (0402) 470 Ohm Resistor</oompName>
+	<oompSort>RESE0402O471</oompSort>
+	<oompType>RESE</oompType>
+	<oompSize>0402</oompSize>
+	<oompColor>X</oompColor>
+	<oompIndex>01</oompIndex>
+	<oompVersion>999</oompVersion>
+	<ooWidth>0.5mm</ooWidth>
+	<ooHeight>0.35mm</ooHeight>
+	<ooLength>1mm</ooLength>
+	<sourceList>
+		<manufacturer>
+			<company>YAGEO</company>
+			<companyCode>C-YAGE</companyCode>
+			<name></name>
+			<partId>RC0402JR-0747RL</partId>
+		</manufacturer>
+		<bigDistributor>
+			<company>LCSC</company>
+			<companyCode>C-LCSC</companyCode>
+			<name>Chip Resistor - Surface Mount 47Ohms ±5% 1/16W 0402 RoHS</name>
+			<partId>C137864</partId>
+			<link><![CDATA[https://lcsc.com/search?q=C137864]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Digikey</company>
+			<companyCode>C-DIGK</companyCode>
+			<name>RES SMD 47 OHM 5% 1/16W 0402</name>
+			<partId>311-47JRTR-ND</partId>
+			<link><![CDATA[https://www.digikey.co.uk/products/en?keywords=311-47JRTR-ND]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Mouser</company>
+			<companyCode>C-MOUS</companyCode>
+			<name>Thick Film Resistors - SMD 47 OHM 5%</name>
+			<partId>603-RC0402JR-0747RL</partId>
+			<link><![CDATA[https://www.mouser.co.uk/Search/Refine?Keyword=603-RC0402JR-0747RL]]></link>
+		</bigDistributor>
+	</sourceList>
+	<oplList>
+		<oplSystem>
+			<oplScheme>SEEED OPL</oplScheme>
+			<oplCode>C-SEEE</oplCode>
+			<oplName>SMD RES 47R-5%-1/16W;0402</oplName>
+			<oplID>301012025</oplID>
+			<oplFootprint></oplFootprint>
+			<oplLink>https://www.seeedstudio.com/opl.html?</oplLink>
+		</oplSystem>
+	</oplList>
+</oompPart>
 </xml>

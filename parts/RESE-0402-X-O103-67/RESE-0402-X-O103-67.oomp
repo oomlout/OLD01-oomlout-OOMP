@@ -1,87 +1,62 @@
 <xml>
-	<oompPart>
-		<oompID>RESE-0402-X-O103-67</oompID>
-		<name>SMD (0402) 10k Ohm Resistor 1%</name>
-		<hexID>R42103A</hexID>
-		<oompSort>RESE0402O103</oompSort>
-		<oompType>RESE</oompType>
-		<oompSize>0402</oompSize>
-		<oompColor>X</oompColor>
-		<oompDesc>O103</oompDesc>
-		<oompIndex>67</oompIndex>
-		<oompVersion>98</oompVersion>
-		<ooWidth>0.5 mm</ooWidth>
-		<ooLength>1.0 mm</ooLength>
-		<ooNumPins>2</ooNumPins>
-		<sourceList>
-			<manufacturer>
-				<company>YAGEO</company>
-				<companyCode>C-YAGE</companyCode>
-				<name></name>
-				<partID>RC0402FR-0710KL</partID>
-				<link></link>
-				<note></note>
-			</manufacturer>
-			<manufacturer>
-				<company>Multicomp</company>
-				<companyCode>C-MULT</companyCode>
-				<name></name>
-				<partID>MC00625W0402110K</partID>
-				<link></link>
-				<note></note>
-			</manufacturer>
-			<bigDistributor>
-				<company>Digikey</company>
-				<companyCode>C-DIGK</companyCode>
-				<name></name>
-				<partID>311-10.0KLRCT-ND</partID>
-				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=311-10.0KLRCT-ND]]></link>
-				<note></note>
-				</bigDistributor>								<bigDistributor>
-				<company>Mouser</company>
-				<companyCode>C-MOUS</companyCode>
-				<name></name>
-				<partID>603-RC0402FR-0710KL</partID>
-				<link><![CDATA[http://www.mouser.co.uk/Search/Refine.aspx?Keyword=603-RC0402FR-0710KL]]></link>
-				<note></note>
-			</bigDistributor>
-			<bigDistributor>
-				<company>Farnell</company>
-				<companyCode>C-FARN</companyCode>
-				<name></name>
-				<partID>9239359</partID>
-				<link><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=9239359]]></link>
-				<note></note>
-			</bigDistributor>
-			<bigDistributor>
-				<company>RS Electronics</company>
-				<companyCode>C-RSRS</companyCode>
-				<name></name>
-				<partID>737-9120</partID>
-				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=737-9120]]></link>
-				<note></note>
-			</bigDistributor>
-		</sourceList>
-		<oplList>
-			<oplSystem>
-				<oplScheme>SEEED OPL</oplScheme>
-				<oplCode>C-SEEE</oplCode>
-				<oplName>SMD RES 10K-1%-1/16W;</oplName>
-				<oplID>301010047</oplID>
-				<oplFootprint>402</oplFootprint>
-				<oplPackage>402</oplPackage>
-				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
-			</oplSystem>
-			<oplSystem>
-				<oplScheme>Circuithub.com</oplScheme>
-				<oplCode>C-CIRC</oplCode>
-				<oplName>YAGEO/RC0402FR-0710KL</oplName>
-				<oplID>YAGEO/RC0402FR-0710KL</oplID>
-				<oplFootprint>0402</oplFootprint>
-				<oplPackage>0402</oplPackage>
-				<oplLink><![CDATA[https://circuithub.com/parts/YAGEO/RC0402FR-0710KL]]></oplLink>
-			</oplSystem>
-		</oplList>
-		<ooDesignator>R1</ooDesignator>
-	</oompPart>
+<oompPart>
+	<oompID>RESE-0402-X-O103-67</oompID>
+	<hexId>R42103A</hexId>
+	<oompName>SMD (0402) 10k Ohm Resistor 1%</oompName>
+	<oompSort>RESE0402O103</oompSort>
+	<oompType>RESE</oompType>
+	<oompSize>0402</oompSize>
+	<oompColor>X</oompColor>
+	<oompIndex>67</oompIndex>
+	<oompVersion>999</oompVersion>
+	<ooWidth>0.5mm</ooWidth>
+	<ooHeight>0.35mm</ooHeight>
+	<ooLength>1mm</ooLength>
+	<sourceList>
+		<manufacturer>
+			<company>YAGEO</company>
+			<companyCode>C-YAGE</companyCode>
+			<name></name>
+			<partId>RC0402FR-0710KL</partId>
+		</manufacturer>
+		<bigDistributor>
+			<company>LCSC</company>
+			<companyCode>C-LCSC</companyCode>
+			<name>Chip Resistor - Surface Mount 10KOhms ±1% 1/16W 0402 RoHS</name>
+			<partId>C60490</partId>
+			<link><![CDATA[https://lcsc.com/search?q=C60490]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Digikey</company>
+			<companyCode>C-DIGK</companyCode>
+			<name>RES SMD 10K OHM 1% 1/16W 0402</name>
+			<partId>311-10.0KLRTR-ND</partId>
+			<link><![CDATA[https://www.digikey.co.uk/products/en?keywords=311-10.0KLRTR-ND]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Mouser</company>
+			<companyCode>C-MOUS</companyCode>
+			<name>Thick Film Resistors - SMD 10K OHM 1%</name>
+			<partId>603-RC0402FR-0710KL</partId>
+			<link><![CDATA[https://www.mouser.co.uk/Search/Refine?Keyword=603-RC0402FR-0710KL]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Farnell</company>
+			<companyCode>C-FARN</companyCode>
+			<name></name>
+			<partId>2421890</partId>
+			<link><![CDATA[https://uk.farnell.com/search?st=2421890]]></link>
+		</bigDistributor>
+	</sourceList>
+	<oplList>
+		<oplSystem>
+			<oplScheme>SEEED OPL</oplScheme>
+			<oplCode>C-SEEE</oplCode>
+			<oplName>SMD RES 10K-1%-1/16W;</oplName>
+			<oplID>301010047</oplID>
+			<oplFootprint></oplFootprint>
+			<oplLink>https://www.seeedstudio.com/opl.html?</oplLink>
+		</oplSystem>
+	</oplList>
+</oompPart>
 </xml>

@@ -1,53 +1,66 @@
 <xml>
-	<oompPart>
-		<oompID>RESE-0603-X-O332-67</oompID>
-		<name>SMD (0603) 3.3k Ohm Resistor 1%</name>
-		<hexID>R6332A</hexID>
-		<oompSort></oompSort>
-		<oompClass>Surface Mount</oompClass>
-		<oompClassCode>SMDS</oompClassCode>
-		<oompType>RESE</oompType>
-		<oompSize>0603</oompSize>
-		<oompColor>X</oompColor>
-		<oompDesc>O332</oompDesc>
-		<oompIndex>67</oompIndex>
-		<oompVersion>40</oompVersion>
-		<sourceList>
-			<manufacturer>
-				<company>Yageo</company>
-				<companyCode>C-YAGE</companyCode>
-				<name></name>
-				<partID>RC0603FR-073K3L</partID>
-				<link></link>
-				<note></note>
-			</manufacturer>
-		</sourceList>
-		<oplList>
-			<oplSystem>
-				<oplScheme>Seeed OPL</oplScheme>
-				<oplCode>C-SEEE</oplCode>
-				<oplName>SMD RES 3.3K-1%-1/10W</oplName>
-				<oplID>301010251</oplID>
-				<oplFootprint>0603</oplFootprint>
-				<oplPackage>0603</oplPackage>
-				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
-			</oplSystem>
-		</oplList>
-		<oompBbls>
-			<drawItem>template;XXXX-0603-X-XXXX-XX-bbls</drawItem>
-		</oompBbls>
-		<oompDiag>
+<oompPart>
+	<oompID>RESE-0603-X-O332-67</oompID>
+	<hexId>R6332A</hexId>
+	<oompName>SMD (0603) 3.3k Ohm Resistor 1%</oompName>
+	<oompType>RESE</oompType>
+	<oompSize>0603</oompSize>
+	<oompColor>X</oompColor>
+	<oompIndex>67</oompIndex>
+	<oompVersion>999</oompVersion>
+	<ooWidth>0.8mm</ooWidth>
+	<ooHeight>0.45mm</ooHeight>
+	<ooLength>1.6mm</ooLength>
+	<sourceList>
+		<manufacturer>
+			<company>YAGEO</company>
+			<companyCode>C-YAGE</companyCode>
+			<name></name>
+			<partId>RC0603FR-073K3L</partId>
+		</manufacturer>
+		<bigDistributor>
+			<company>LCSC</company>
+			<companyCode>C-LCSC</companyCode>
+			<name>Chip Resistor - Surface Mount 3.3KOhms ±1% 1/10W 0603 RoHS</name>
+			<partId>C108078</partId>
+			<link><![CDATA[https://lcsc.com/search?q=C108078]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Digikey</company>
+			<companyCode>C-DIGK</companyCode>
+			<name>RES SMD 3.3K OHM 1% 1/10W 0603</name>
+			<partId>311-3.30KHRTR-ND</partId>
+			<link><![CDATA[https://www.digikey.co.uk/products/en?keywords=311-3.30KHRTR-ND]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Mouser</company>
+			<companyCode>C-MOUS</companyCode>
+			<name>Thick Film Resistors - SMD 3.3K OHM 1%</name>
+			<partId>603-RC0603FR-073K3L</partId>
+			<link><![CDATA[https://www.mouser.co.uk/Search/Refine?Keyword=603-RC0603FR-073K3L]]></link>
+		</bigDistributor>
+	</sourceList>
+	<oplList>
+		<oplSystem>
+			<oplScheme>SEEED OPL</oplScheme>
+			<oplCode>C-SEEE</oplCode>
+			<oplName>SMD RES 3.3K-1%-1/10W;0603</oplName>
+			<oplID>301010251</oplID>
+			<oplFootprint></oplFootprint>
+			<oplLink>https://www.seeedstudio.com/opl.html?</oplLink>
+		</oplSystem>
+	</oplList>
+	<oompDiag>
 			<drawItem>template;XXXX-0603-X-XXXX-XX-diag</drawItem>
 		</oompDiag>
-		<oompIden>
+	<oompIden>
 			<drawItem>template;XXXX-0603-X-XXXX-XX-iden</drawItem>
 		</oompIden>
-		<oompSchem>
+	<oompSchem>
 			<drawItem>template;RESE-XXXX-X-XXXX-XX-schem</drawItem>
 		</oompSchem>
-		<oompSimp>
+	<oompSimp>
 			<drawItem>template;XXXX-0603-X-XXXX-XX-simp</drawItem>
 		</oompSimp>
-		<ooDesignator>R1</ooDesignator>
-	</oompPart>
+</oompPart>
 </xml>

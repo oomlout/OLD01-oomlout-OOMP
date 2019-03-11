@@ -1,0 +1,60 @@
+<xml>
+<oompPart>
+	<oompID>RESE-0402-X-O514-67</oompID>
+	<oompName>SMD (0402) 520k Ohm Resistor 1%</oompName>
+	<oompType>RESE</oompType>
+	<oompSize>0402</oompSize>
+	<oompColor>X</oompColor>
+	<oompIndex>67</oompIndex>
+	<oompVersion>999</oompVersion>
+	<ooWidth>0.5mm</ooWidth>
+	<ooHeight>0.35mm</ooHeight>
+	<ooLength>1mm</ooLength>
+	<sourceList>
+		<manufacturer>
+			<company>YAGEO</company>
+			<companyCode>C-YAGE</companyCode>
+			<name></name>
+			<partId>RC0402FR-07510KL</partId>
+		</manufacturer>
+		<bigDistributor>
+			<company>LCSC</company>
+			<companyCode>C-LCSC</companyCode>
+			<name>Chip Resistor - Surface Mount 510KOhms ±1% 1/16W 0402 RoHS</name>
+			<partId>C137961</partId>
+			<link><![CDATA[https://lcsc.com/search?q=C137961]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Digikey</company>
+			<companyCode>C-DIGK</companyCode>
+			<name>RES SMD 510K OHM 1% 1/16W 0402</name>
+			<partId>311-510KLRTR-ND</partId>
+			<link><![CDATA[https://www.digikey.co.uk/products/en?keywords=311-510KLRTR-ND]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Mouser</company>
+			<companyCode>C-MOUS</companyCode>
+			<name>Thick Film Resistors - SMD 510K OHM 1%</name>
+			<partId>603-RC0402FR-07510KL</partId>
+			<link><![CDATA[https://www.mouser.co.uk/Search/Refine?Keyword=603-RC0402FR-07510KL]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Farnell</company>
+			<companyCode>C-FARN</companyCode>
+			<name></name>
+			<partId>1458807</partId>
+			<link><![CDATA[https://uk.farnell.com/search?st=1458807]]></link>
+		</bigDistributor>
+	</sourceList>
+	<oplList>
+		<oplSystem>
+			<oplScheme>SEEED OPL</oplScheme>
+			<oplCode>C-SEEE</oplCode>
+			<oplName>SMD RES 510K-1%-1/16W;0402</oplName>
+			<oplID>301012003</oplID>
+			<oplFootprint></oplFootprint>
+			<oplLink>https://www.seeedstudio.com/opl.html?</oplLink>
+		</oplSystem>
+	</oplList>
+</oompPart>
+</xml>

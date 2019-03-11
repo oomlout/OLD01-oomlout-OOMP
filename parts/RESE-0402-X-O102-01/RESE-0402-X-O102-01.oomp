@@ -1,53 +1,73 @@
 <xml>
-	<oompPart>
-		<oompID>RESE-0402-X-O102-01</oompID>
-		<name>SMD (0402) 1k Ohm Resistor</name>
-		<hexID>R42102</hexID>
-		<oompSort></oompSort>
-		<oompClass>Surface Mount</oompClass>
-		<oompClassCode>SMDS</oompClassCode>
-		<oompType>RESE</oompType>
-		<oompSize>0402</oompSize>
-		<oompColor>X</oompColor>
-		<oompDesc>O102</oompDesc>
-		<oompIndex>01</oompIndex>
-		<oompVersion>40</oompVersion>
-		<sourceList>
-			<manufacturer>
-				<company>Yageo</company>
-				<companyCode>C-YAGE</companyCode>
-				<name></name>
-				<partID>RC0402JR-071KL</partID>
-				<link></link>
-				<note></note>
-			</manufacturer>
-		</sourceList>
-		<oplList>
-			<oplSystem>
-				<oplScheme>Seeed OPL</oplScheme>
-				<oplCode>C-SEEE</oplCode>
-				<oplName>SMD RES 1K-5%-1/16W</oplName>
-				<oplID>301010006</oplID>
-				<oplFootprint>0402</oplFootprint>
-				<oplPackage>0402</oplPackage>
-				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
-			</oplSystem>
-		</oplList>
-		<oompBbls>
-			<drawItem>template;XXXX-0402-X-XXXX-XX-bbls</drawItem>
-		</oompBbls>
-		<oompDiag>
+<oompPart>
+	<oompID>RESE-0402-X-O102-01</oompID>
+	<hexId>R42102</hexId>
+	<oompName>SMD (0402) 1k Ohm Resistor</oompName>
+	<oompType>RESE</oompType>
+	<oompSize>0402</oompSize>
+	<oompColor>X</oompColor>
+	<oompIndex>01</oompIndex>
+	<oompVersion>999</oompVersion>
+	<ooWidth>0.5mm</ooWidth>
+	<ooHeight>0.35mm</ooHeight>
+	<ooLength>1mm</ooLength>
+	<sourceList>
+		<manufacturer>
+			<company>YAGEO</company>
+			<companyCode>C-YAGE</companyCode>
+			<name></name>
+			<partId>RC0402JR-071KL</partId>
+		</manufacturer>
+		<bigDistributor>
+			<company>LCSC</company>
+			<companyCode>C-LCSC</companyCode>
+			<name>Chip Resistor - Surface Mount 1KOhms ±5% 1/16W 0402 RoHS</name>
+			<partId>C105637</partId>
+			<link><![CDATA[https://lcsc.com/search?q=C105637]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Digikey</company>
+			<companyCode>C-DIGK</companyCode>
+			<name>RES SMD 1K OHM 5% 1/16W 0402</name>
+			<partId>311-1.0KJRTR-ND</partId>
+			<link><![CDATA[https://www.digikey.co.uk/products/en?keywords=311-1.0KJRTR-ND]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Mouser</company>
+			<companyCode>C-MOUS</companyCode>
+			<name>Thick Film Resistors - SMD 1K OHM 5%</name>
+			<partId>603-RC0402JR-071KL</partId>
+			<link><![CDATA[https://www.mouser.co.uk/Search/Refine?Keyword=603-RC0402JR-071KL]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Farnell</company>
+			<companyCode>C-FARN</companyCode>
+			<name></name>
+			<partId>9232761</partId>
+			<link><![CDATA[https://uk.farnell.com/search?st=9232761]]></link>
+		</bigDistributor>
+	</sourceList>
+	<oplList>
+		<oplSystem>
+			<oplScheme>SEEED OPL</oplScheme>
+			<oplCode>C-SEEE</oplCode>
+			<oplName>SMD RES 1K-5%-1/16W</oplName>
+			<oplID>301010006</oplID>
+			<oplFootprint></oplFootprint>
+			<oplLink>https://www.seeedstudio.com/opl.html?</oplLink>
+		</oplSystem>
+	</oplList>
+	<oompDiag>
 			<drawItem>template;XXXX-0402-X-XXXX-XX-diag</drawItem>
 		</oompDiag>
-		<oompIden>
+	<oompIden>
 			<drawItem>template;XXXX-0402-X-XXXX-XX-iden</drawItem>
 		</oompIden>
-		<oompSchem>
+	<oompSchem>
 			<drawItem>template;RESE-XXXX-X-XXXX-XX-schem</drawItem>
 		</oompSchem>
-		<oompSimp>
+	<oompSimp>
 			<drawItem>template;XXXX-0402-X-XXXX-XX-simp</drawItem>
 		</oompSimp>
-		<ooDesignator>R1</ooDesignator>
-	</oompPart>
+</oompPart>
 </xml>

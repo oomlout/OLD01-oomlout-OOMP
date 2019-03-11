@@ -1,53 +1,73 @@
 <xml>
-	<oompPart>
-		<oompID>RESE-0805-X-O153-01</oompID>
-		<name>SMD (0805) 15k Ohm Resistor</name>
-		<hexID>R85153</hexID>
-		<oompSort></oompSort>
-		<oompClass>Surface Mount</oompClass>
-		<oompClassCode>SMDS</oompClassCode>
-		<oompType>RESE</oompType>
-		<oompSize>0805</oompSize>
-		<oompColor>X</oompColor>
-		<oompDesc>O153</oompDesc>
-		<oompIndex>01</oompIndex>
-		<oompVersion>40</oompVersion>
-		<sourceList>
-			<manufacturer>
-				<company>Yageo</company>
-				<companyCode>C-YAGE</companyCode>
-				<name></name>
-				<partID>RC0805JR-0715KL</partID>
-				<link></link>
-				<note></note>
-			</manufacturer>
-		</sourceList>
-		<oplList>
-			<oplSystem>
-				<oplScheme>Seeed OPL</oplScheme>
-				<oplCode>C-SEEE</oplCode>
-				<oplName>SMD RES 15K-5%-1/8W</oplName>
-				<oplID>301010328</oplID>
-				<oplFootprint>0805</oplFootprint>
-				<oplPackage>0805</oplPackage>
-				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
-			</oplSystem>
-		</oplList>
-		<oompBbls>
-			<drawItem>template;XXXX-0805-X-XXXX-XX-bbls</drawItem>
-		</oompBbls>
-		<oompDiag>
+<oompPart>
+	<oompID>RESE-0805-X-O153-01</oompID>
+	<hexId>R85153</hexId>
+	<oompName>SMD (0805) 16k Ohm Resistor</oompName>
+	<oompType>RESE</oompType>
+	<oompSize>0805</oompSize>
+	<oompColor>X</oompColor>
+	<oompIndex>01</oompIndex>
+	<oompVersion>999</oompVersion>
+	<ooWidth>1.25mm</ooWidth>
+	<ooHeight>0.5mm</ooHeight>
+	<ooLength>2mm</ooLength>
+	<sourceList>
+		<manufacturer>
+			<company>YAGEO</company>
+			<companyCode>C-YAGE</companyCode>
+			<name></name>
+			<partId>RC0805JR-0715KL</partId>
+		</manufacturer>
+		<bigDistributor>
+			<company>LCSC</company>
+			<companyCode>C-LCSC</companyCode>
+			<name>Chip Resistor - Surface Mount 15KOhms ±5% 1/8W 0805 RoHS</name>
+			<partId>C114740</partId>
+			<link><![CDATA[https://lcsc.com/search?q=C114740]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Digikey</company>
+			<companyCode>C-DIGK</companyCode>
+			<name>RES SMD 15K OHM 5% 1/8W 0805</name>
+			<partId>311-15KARTR-ND</partId>
+			<link><![CDATA[https://www.digikey.co.uk/products/en?keywords=311-15KARTR-ND]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Mouser</company>
+			<companyCode>C-MOUS</companyCode>
+			<name>Thick Film Resistors - SMD 15K OHM 5%</name>
+			<partId>603-RC0805JR-0715KL</partId>
+			<link><![CDATA[https://www.mouser.co.uk/Search/Refine?Keyword=603-RC0805JR-0715KL]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Farnell</company>
+			<companyCode>C-FARN</companyCode>
+			<name></name>
+			<partId>9234152</partId>
+			<link><![CDATA[https://uk.farnell.com/search?st=9234152]]></link>
+		</bigDistributor>
+	</sourceList>
+	<oplList>
+		<oplSystem>
+			<oplScheme>SEEED OPL</oplScheme>
+			<oplCode>C-SEEE</oplCode>
+			<oplName>SMD RES 15K-5%-1/8W</oplName>
+			<oplID>301010328</oplID>
+			<oplFootprint></oplFootprint>
+			<oplLink>https://www.seeedstudio.com/opl.html?</oplLink>
+		</oplSystem>
+	</oplList>
+	<oompDiag>
 			<drawItem>template;XXXX-0805-X-XXXX-XX-diag</drawItem>
 		</oompDiag>
-		<oompIden>
+	<oompIden>
 			<drawItem>template;XXXX-0805-X-XXXX-XX-iden</drawItem>
 		</oompIden>
-		<oompSchem>
+	<oompSchem>
 			<drawItem>template;RESE-XXXX-X-XXXX-XX-schem</drawItem>
 		</oompSchem>
-		<oompSimp>
+	<oompSimp>
 			<drawItem>template;XXXX-0805-X-XXXX-XX-simp</drawItem>
 		</oompSimp>
-		<ooDesignator>R1</ooDesignator>
-	</oompPart>
+</oompPart>
 </xml>

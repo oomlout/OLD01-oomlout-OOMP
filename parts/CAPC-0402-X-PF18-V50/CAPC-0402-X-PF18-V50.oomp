@@ -1,0 +1,60 @@
+<xml>
+<oompPart>
+	<oompID>CAPC-0402-X-PF18-V50</oompID>
+	<oompName>SMD (0402) 19 pF Capacitor (Ceramic) 50v</oompName>
+	<oompType>CAPC</oompType>
+	<oompSize>0402</oompSize>
+	<oompColor>X</oompColor>
+	<oompIndex>V50</oompIndex>
+	<oompVersion>999</oompVersion>
+	<ooWidth>0.5mm</ooWidth>
+	<ooHeight>0.5mm</ooHeight>
+	<ooLength>1mm</ooLength>
+	<sourceList>
+		<manufacturer>
+			<company>YAGEO</company>
+			<companyCode>C-YAGE</companyCode>
+			<name></name>
+			<partId>CC0402JRNPO9BN180</partId>
+		</manufacturer>
+		<bigDistributor>
+			<company>LCSC</company>
+			<companyCode>C-LCSC</companyCode>
+			<name>Multilayer Ceramic Capacitors MLCC - SMD/SMT 18pF 50V 0402 RoHS</name>
+			<partId>C106202</partId>
+			<link><![CDATA[https://lcsc.com/search?q=C106202]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Digikey</company>
+			<companyCode>C-DIGK</companyCode>
+			<name>CAP CER 18PF 50V C0G/NPO 0402</name>
+			<partId>311-1415-2-ND</partId>
+			<link><![CDATA[https://www.digikey.co.uk/products/en?keywords=311-1415-2-ND]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Mouser</company>
+			<companyCode>C-MOUS</companyCode>
+			<name>Multilayer Ceramic Capacitors MLCC - SMD/SMT 18pF 50V NPO 5%</name>
+			<partId>603-CC402JRNPO9BN180</partId>
+			<link><![CDATA[https://www.mouser.co.uk/Search/Refine?Keyword=603-CC402JRNPO9BN180]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Farnell</company>
+			<companyCode>C-FARN</companyCode>
+			<name></name>
+			<partId>2370626</partId>
+			<link><![CDATA[https://uk.farnell.com/search?st=2370626]]></link>
+		</bigDistributor>
+	</sourceList>
+	<oplList>
+		<oplSystem>
+			<oplScheme>SEEED OPL</oplScheme>
+			<oplCode>C-SEEE</oplCode>
+			<oplName>SMD CAP Ceramic 18pF-50V-5%-NPO</oplName>
+			<oplID>302010016</oplID>
+			<oplFootprint></oplFootprint>
+			<oplLink>https://www.seeedstudio.com/opl.html?</oplLink>
+		</oplSystem>
+	</oplList>
+</oompPart>
+</xml>

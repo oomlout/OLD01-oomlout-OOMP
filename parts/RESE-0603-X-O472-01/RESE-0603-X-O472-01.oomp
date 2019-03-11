@@ -1,55 +1,77 @@
-ï»¿<xml>
-	<oompPart>
-		<index>4103</index>
-		<oompID>RESE-0603-X-O472-01</oompID>
-		<name>SMD (0603) 4.7k Ohm Resistor</name>
-		<hexID>R6472</hexID>
-		<oompSort>06030004700</oompSort>
-		<oompType>RESE</oompType>
-		<oompSize>0603</oompSize>
-		<oompColor>X</oompColor>
-		<oompDesc>O472</oompDesc>
-		<oompIndex>01</oompIndex>
-		<oompVersion>99</oompVersion>
-		<ooWidth>1.6 mm</ooWidth>
-		<ooLength>3.2 mm</ooLength>
-		<ooManufacturer>Yageo</ooManufacturer>
-		<ooManufacturerPartNumber>RC0603JR-074K7L</ooManufacturerPartNumber>
-		<ooMaterial>Carbon Film</ooMaterial>
-		<ooPowerRating>1/10 W</ooPowerRating>
-		<ooMaxVoltage>50 V</ooMaxVoltage>
-		<ooTolerance>5%</ooTolerance>
-		<ooSEEEDsku>0010030P1</ooSEEEDsku>
-		<ooSEEEDdesc></ooSEEEDdesc>
-		<ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:Resistor0603.zip</ooSEEED3dModel>
-		<oplList>
-			<oplSystem>
-				<oplScheme>SEEED OPL</oplScheme>
-				<oplCode>C-SEEE</oplCode>
-				<oplName>SMD RES 4.7K-5%-1/10W</oplName>
-				<oplID>301010290</oplID>
-				<oplFootprint>0603</oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
-			</oplSystem>
-		</oplList>
-		<oompClass>Surface Mount</oompClass>
-		<oompClassCode>SMDS</oompClassCode>
-		<oompBbls>
-			<drawItem>template;XXXX-0603-X-XXXX-XX-bbls</drawItem>
-		</oompBbls>
-		<oompDiag>
+<xml>
+<oompPart>
+	<oompID>RESE-0603-X-O472-01</oompID>
+	<hexId>R6472</hexId>
+	<oompName>SMD (0603) 4.7k Ohm Resistor</oompName>
+	<oompSort>06030004700</oompSort>
+	<oompType>RESE</oompType>
+	<oompSize>0603</oompSize>
+	<oompColor>X</oompColor>
+	<oompIndex>01</oompIndex>
+	<oompVersion>999</oompVersion>
+	<ooWidth>0.8mm</ooWidth>
+	<ooHeight>0.45mm</ooHeight>
+	<ooLength>1.6mm</ooLength>
+	<ooTolerance>5%</ooTolerance>
+	<ooMaterial>Carbon Film</ooMaterial>
+	<ooMaxVoltage>50 V</ooMaxVoltage>
+	<sourceList>
+		<manufacturer>
+			<company>YAGEO</company>
+			<companyCode>C-YAGE</companyCode>
+			<name></name>
+			<partId>RC0603JR-074K7L</partId>
+		</manufacturer>
+		<bigDistributor>
+			<company>LCSC</company>
+			<companyCode>C-LCSC</companyCode>
+			<name>Chip Resistor - Surface Mount 4.7KOhms ±5% 1/10W 0603 RoHS</name>
+			<partId>C105428</partId>
+			<link><![CDATA[https://lcsc.com/search?q=C105428]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Digikey</company>
+			<companyCode>C-DIGK</companyCode>
+			<name>RES SMD 4.7K OHM 5% 1/10W 0603</name>
+			<partId>311-4.7KGRTR-ND</partId>
+			<link><![CDATA[https://www.digikey.co.uk/products/en?keywords=311-4.7KGRTR-ND]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Mouser</company>
+			<companyCode>C-MOUS</companyCode>
+			<name>Thick Film Resistors - SMD 4.7K OHM 5%</name>
+			<partId>603-RC0603JR-074K7L</partId>
+			<link><![CDATA[https://www.mouser.co.uk/Search/Refine?Keyword=603-RC0603JR-074K7L]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Farnell</company>
+			<companyCode>C-FARN</companyCode>
+			<name></name>
+			<partId>9233466</partId>
+			<link><![CDATA[https://uk.farnell.com/search?st=9233466]]></link>
+		</bigDistributor>
+	</sourceList>
+	<oplList>
+		<oplSystem>
+			<oplScheme>SEEED OPL</oplScheme>
+			<oplCode>C-SEEE</oplCode>
+			<oplName>SMD RES 4.7K-5%-1/10W</oplName>
+			<oplID>301010290</oplID>
+			<oplFootprint></oplFootprint>
+			<oplLink>https://www.seeedstudio.com/opl.html?</oplLink>
+		</oplSystem>
+	</oplList>
+	<oompDiag>
 			<drawItem>template;XXXX-0603-X-XXXX-XX-diag</drawItem>
 		</oompDiag>
-		<oompIden>
+	<oompIden>
 			<drawItem>template;XXXX-0603-X-XXXX-XX-iden</drawItem>
 		</oompIden>
-		<oompSchem>
+	<oompSchem>
 			<drawItem>template;RESE-XXXX-X-XXXX-XX-schem</drawItem>
 		</oompSchem>
-		<oompSimp>
+	<oompSimp>
 			<drawItem>template;XXXX-0603-X-XXXX-XX-simp</drawItem>
 		</oompSimp>
-		<ooDesignator>R1</ooDesignator>
-	</oompPart>
+</oompPart>
 </xml>

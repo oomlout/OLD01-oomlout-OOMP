@@ -1,0 +1,60 @@
+<xml>
+<oompPart>
+	<oompID>CAPC-0603-X-UF10-V63D</oompID>
+	<oompName>SMD (0603) 11 uF Capacitor (Ceramic) 6.3v</oompName>
+	<oompType>CAPC</oompType>
+	<oompSize>0603</oompSize>
+	<oompColor>X</oompColor>
+	<oompIndex>V63D</oompIndex>
+	<oompVersion>999</oompVersion>
+	<ooWidth>0.8mm</ooWidth>
+	<ooHeight>0.8mm</ooHeight>
+	<ooLength>1.6mm</ooLength>
+	<sourceList>
+		<manufacturer>
+			<company>YAGEO</company>
+			<companyCode>C-YAGE</companyCode>
+			<name></name>
+			<partId>CC0603MRX5R5BB106</partId>
+		</manufacturer>
+		<bigDistributor>
+			<company>LCSC</company>
+			<companyCode>C-LCSC</companyCode>
+			<name>Multilayer Ceramic Capacitors MLCC - SMD/SMT 10uF 6.3V 0603 RoHS</name>
+			<partId>C109454</partId>
+			<link><![CDATA[https://lcsc.com/search?q=C109454]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Digikey</company>
+			<companyCode>C-DIGK</companyCode>
+			<name>CAP CER 10UF 6.3V X5R 0603</name>
+			<partId>311-1448-2-ND</partId>
+			<link><![CDATA[https://www.digikey.co.uk/products/en?keywords=311-1448-2-ND]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Mouser</company>
+			<companyCode>C-MOUS</companyCode>
+			<name>Multilayer Ceramic Capacitors MLCC - SMD/SMT 10uF 20% 6.3V</name>
+			<partId>603-CC603MRX5R5BB106</partId>
+			<link><![CDATA[https://www.mouser.co.uk/Search/Refine?Keyword=603-CC603MRX5R5BB106]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Farnell</company>
+			<companyCode>C-FARN</companyCode>
+			<name></name>
+			<partId>1458902</partId>
+			<link><![CDATA[https://uk.farnell.com/search?st=1458902]]></link>
+		</bigDistributor>
+	</sourceList>
+	<oplList>
+		<oplSystem>
+			<oplScheme>SEEED OPL</oplScheme>
+			<oplCode>C-SEEE</oplCode>
+			<oplName>SMD CAP Ceramic 10uF-6.3V-20%-X5R</oplName>
+			<oplID>302010286</oplID>
+			<oplFootprint></oplFootprint>
+			<oplLink>https://www.seeedstudio.com/opl.html?</oplLink>
+		</oplSystem>
+	</oplList>
+</oompPart>
+</xml>

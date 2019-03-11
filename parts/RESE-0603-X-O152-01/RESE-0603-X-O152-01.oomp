@@ -1,96 +1,62 @@
 <xml>
-	<oompPart>
-		<oompID>RESE-0603-X-O152-01</oompID>
-		<name>SMD (0603) 1.5k Ohm Resistor</name>
-		<hexID>R6152</hexID>
-		<oompSort>RESE0603O152</oompSort>
-		<oompType>RESE</oompType>
-		<oompSize>0603</oompSize>
-		<oompColor>X</oompColor>
-		<oompDesc>O152</oompDesc>
-		<oompIndex>01</oompIndex>
-		<oompVersion>98</oompVersion>
-		<ooWidth>0.8 mm</ooWidth>
-		<ooLength>1.6 mm</ooLength>
-		<ooNumPins>2</ooNumPins>
-		<sourceList>
-			<manufacturer>
-				<company>YAGEO</company>
-				<companyCode>C-YAGE</companyCode>
-				<name></name>
-				<partID>RC0603JR-071K5L</partID>
-				<link></link>
-				<note></note>
-			</manufacturer>
-			<manufacturer>
-				<company>Multicomp</company>
-				<companyCode>C-MULT</companyCode>
-				<name></name>
-				<partID>MC0063W060351K5</partID>
-				<link></link>
-				<note></note>
-			</manufacturer>
-			<bigDistributor>
-				<company>Digikey</company>
-				<companyCode>C-DIGK</companyCode>
-				<name></name>
-				<partID>311-1.5KGRCT-ND</partID>
-				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=311-1.5KGRCT-ND]]></link>
-				<note></note>
-				</bigDistributor>								<bigDistributor>
-				<company>Mouser</company>
-				<companyCode>C-MOUS</companyCode>
-				<name></name>
-				<partID>603-RC0603JR-071K5L</partID>
-				<link><![CDATA[http://www.mouser.co.uk/Search/Refine.aspx?Keyword=603-RC0603JR-071K5L]]></link>
-				<note></note>
-			</bigDistributor>
-			<bigDistributor>
-				<company>Farnell</company>
-				<companyCode>C-FARN</companyCode>
-				<name></name>
-				<partID>9233407</partID>
-				<link><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=9233407]]></link>
-				<note></note>
-			</bigDistributor>
-			<bigDistributor>
-				<company>RS Electronics</company>
-				<companyCode>C-RSRS</companyCode>
-				<name></name>
-				<partID>678-9908</partID>
-				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=678-9908]]></link>
-				<note></note>
-			</bigDistributor>
-		</sourceList>
-		<oplList>
-			<oplSystem>
-				<oplScheme>SEEED OPL</oplScheme>
-				<oplCode>C-SEEE</oplCode>
-				<oplName>SMD RES 1.5K-5%-1/10W</oplName>
-				<oplID>301010114</oplID>
-				<oplFootprint>603</oplFootprint>
-				<oplPackage>603</oplPackage>
-				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
-			</oplSystem>
-			<oplSystem>
-				<oplScheme>Octopart CPL</oplScheme>
-				<oplCode>C-OCTO</oplCode>
-				<oplName>Resistor 1.5 kO 1% 0603 100 mW</oplName>
-				<oplID>CPL-RES-0603-1.5K-0.1W</oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[https://octopart.com/common-parts-library]]></oplLink>
-			</oplSystem>
-			<oplSystem>
-				<oplScheme>Circuithub.com</oplScheme>
-				<oplCode>C-CIRC</oplCode>
-				<oplName>YAGEO/RC0603JR-071K5L</oplName>
-				<oplID>YAGEO/RC0603JR-071K5L</oplID>
-				<oplFootprint>0603</oplFootprint>
-				<oplPackage>0603</oplPackage>
-				<oplLink><![CDATA[https://circuithub.com/parts/YAGEO/RC0603JR-071K5L]]></oplLink>
-			</oplSystem>
-		</oplList>
-		<ooDesignator>R1</ooDesignator>
-	</oompPart>
+<oompPart>
+	<oompID>RESE-0603-X-O152-01</oompID>
+	<hexId>R6152</hexId>
+	<oompName>SMD (0603) 1.5k Ohm Resistor</oompName>
+	<oompSort>RESE0603O152</oompSort>
+	<oompType>RESE</oompType>
+	<oompSize>0603</oompSize>
+	<oompColor>X</oompColor>
+	<oompIndex>01</oompIndex>
+	<oompVersion>999</oompVersion>
+	<ooWidth>0.8mm</ooWidth>
+	<ooHeight>0.45mm</ooHeight>
+	<ooLength>1.6mm</ooLength>
+	<sourceList>
+		<manufacturer>
+			<company>YAGEO</company>
+			<companyCode>C-YAGE</companyCode>
+			<name></name>
+			<partId>RC0603JR-071K5L</partId>
+		</manufacturer>
+		<bigDistributor>
+			<company>LCSC</company>
+			<companyCode>C-LCSC</companyCode>
+			<name>Chip Resistor - Surface Mount 1.5KOhms ±5% 1/10W 0603 RoHS</name>
+			<partId>C114680</partId>
+			<link><![CDATA[https://lcsc.com/search?q=C114680]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Digikey</company>
+			<companyCode>C-DIGK</companyCode>
+			<name>RES SMD 1.5K OHM 5% 1/10W 0603</name>
+			<partId>311-1.5KGRTR-ND</partId>
+			<link><![CDATA[https://www.digikey.co.uk/products/en?keywords=311-1.5KGRTR-ND]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Mouser</company>
+			<companyCode>C-MOUS</companyCode>
+			<name>Thick Film Resistors - SMD 1.5K OHM 5%</name>
+			<partId>603-RC0603JR-071K5L</partId>
+			<link><![CDATA[https://www.mouser.co.uk/Search/Refine?Keyword=603-RC0603JR-071K5L]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Farnell</company>
+			<companyCode>C-FARN</companyCode>
+			<name></name>
+			<partId>9233407</partId>
+			<link><![CDATA[https://uk.farnell.com/search?st=9233407]]></link>
+		</bigDistributor>
+	</sourceList>
+	<oplList>
+		<oplSystem>
+			<oplScheme>SEEED OPL</oplScheme>
+			<oplCode>C-SEEE</oplCode>
+			<oplName>SMD RES 1.5K-5%-1/10W</oplName>
+			<oplID>301010114</oplID>
+			<oplFootprint></oplFootprint>
+			<oplLink>https://www.seeedstudio.com/opl.html?</oplLink>
+		</oplSystem>
+	</oplList>
+</oompPart>
 </xml>

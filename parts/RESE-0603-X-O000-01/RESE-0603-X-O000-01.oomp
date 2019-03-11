@@ -1,54 +1,77 @@
-ï»¿<xml>
-	<oompPart>
-		<index>4109</index>
-		<oompID>RESE-0603-X-O000-01</oompID>
-		<name>SMD (0603) 0 Ohm Resistor</name>
-		<hexID>R6000</hexID>
-		<oompSort>06030000000</oompSort>
-		<oompType>RESE</oompType>
-		<oompSize>0603</oompSize>
-		<oompColor>X</oompColor>
-		<oompDesc>O000</oompDesc>
-		<oompIndex>01</oompIndex>
-		<oompVersion>99</oompVersion>
-		<ooWidth>1.6 mm</ooWidth>
-		<ooLength>3.2 mm</ooLength>
-		<ooManufacturer>Yageo</ooManufacturer>
-		<ooManufacturerPartNumber>RC0603JR-070RL</ooManufacturerPartNumber>
-		<ooMaterial>Carbon Film</ooMaterial>
-		<ooPowerRating>1/10 W</ooPowerRating>
-		<ooMaxVoltage>50 V</ooMaxVoltage>
-		<ooTolerance>5%</ooTolerance>
-		<ooSEEEDsku>0010070P1</ooSEEEDsku>
-		<ooSEEEDdesc>SMD RES 0R-5%-1/10W</ooSEEEDdesc>
-		<ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:Resistor0603.zip</ooSEEED3dModel>
-		<oplList>
-			<oplSystem>
-				<oplScheme>SEEED OPL</oplScheme>
-				<oplCode>C-SEEE</oplCode>
-				<oplName>SMD RES 0R-5%-1/10W</oplName>
-				<oplID>301010292</oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
-			</oplSystem>			</oplList>
-			<oompClass>Surface Mount</oompClass>
-			<oompClassCode>SMDS</oompClassCode>
-			<oompBbls>
-				<drawItem>template;XXXX-0603-X-XXXX-XX-bbls</drawItem>
-			</oompBbls>
-			<oompDiag>
+<xml>
+<oompPart>
+	<oompID>RESE-0603-X-O000-01</oompID>
+	<hexId>R6000</hexId>
+	<oompName>SMD (0603) 0 Ohm Resistor</oompName>
+	<oompSort>06030000000</oompSort>
+	<oompType>RESE</oompType>
+	<oompSize>0603</oompSize>
+	<oompColor>X</oompColor>
+	<oompIndex>01</oompIndex>
+	<oompVersion>999</oompVersion>
+	<ooWidth>0.8mm</ooWidth>
+	<ooHeight>0.45mm</ooHeight>
+	<ooLength>1.6mm</ooLength>
+	<ooTolerance>5%</ooTolerance>
+	<ooMaterial>Carbon Film</ooMaterial>
+	<ooMaxVoltage>50 V</ooMaxVoltage>
+	<sourceList>
+		<manufacturer>
+			<company>YAGEO</company>
+			<companyCode>C-YAGE</companyCode>
+			<name></name>
+			<partId>RC0603JR-070RL</partId>
+		</manufacturer>
+		<bigDistributor>
+			<company>LCSC</company>
+			<companyCode>C-LCSC</companyCode>
+			<name>Chip Resistor - Surface Mount 0Ohms ±5% 1/10W 0603 RoHS</name>
+			<partId>C95177</partId>
+			<link><![CDATA[https://lcsc.com/search?q=C95177]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Digikey</company>
+			<companyCode>C-DIGK</companyCode>
+			<name>RES SMD 0 OHM JUMPER 1/10W 0603</name>
+			<partId>311-0.0GRTR-ND</partId>
+			<link><![CDATA[https://www.digikey.co.uk/products/en?keywords=311-0.0GRTR-ND]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Mouser</company>
+			<companyCode>C-MOUS</companyCode>
+			<name>Thick Film Resistors - SMD ZERO OHM JUMPER</name>
+			<partId>603-RC0603JR-070RL</partId>
+			<link><![CDATA[https://www.mouser.co.uk/Search/Refine?Keyword=603-RC0603JR-070RL]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Farnell</company>
+			<companyCode>C-FARN</companyCode>
+			<name></name>
+			<partId>9233130RL</partId>
+			<link><![CDATA[https://uk.farnell.com/search?st=9233130RL]]></link>
+		</bigDistributor>
+	</sourceList>
+	<oplList>
+		<oplSystem>
+			<oplScheme>SEEED OPL</oplScheme>
+			<oplCode>C-SEEE</oplCode>
+			<oplName>SMD RES 0R-5%-1/10W</oplName>
+			<oplID>301010292</oplID>
+			<oplFootprint></oplFootprint>
+			<oplLink>https://www.seeedstudio.com/opl.html?</oplLink>
+		</oplSystem>
+	</oplList>
+	<oompDiag>
 				<drawItem>template;XXXX-0603-X-XXXX-XX-diag</drawItem>
 			</oompDiag>
-			<oompIden>
+	<oompIden>
 				<drawItem>template;XXXX-0603-X-XXXX-XX-iden</drawItem>
 			</oompIden>
-			<oompSchem>
+	<oompSchem>
 				<drawItem>template;RESE-XXXX-X-XXXX-XX-schem</drawItem>
 			</oompSchem>
-			<oompSimp>
+	<oompSimp>
 				<drawItem>template;XXXX-0603-X-XXXX-XX-simp</drawItem>
 			</oompSimp>
-			<ooDesignator>R1</ooDesignator>
-	</oompPart>
+</oompPart>
 </xml>

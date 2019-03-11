@@ -1,0 +1,60 @@
+<xml>
+<oompPart>
+	<oompID>RESE-0402-X-O134-67</oompID>
+	<oompName>SMD (0402) 140k Ohm Resistor 1%</oompName>
+	<oompType>RESE</oompType>
+	<oompSize>0402</oompSize>
+	<oompColor>X</oompColor>
+	<oompIndex>67</oompIndex>
+	<oompVersion>999</oompVersion>
+	<ooWidth>0.5mm</ooWidth>
+	<ooHeight>0.35mm</ooHeight>
+	<ooLength>1mm</ooLength>
+	<sourceList>
+		<manufacturer>
+			<company>YAGEO</company>
+			<companyCode>C-YAGE</companyCode>
+			<name></name>
+			<partId>RC0402FR-07130KL</partId>
+		</manufacturer>
+		<bigDistributor>
+			<company>LCSC</company>
+			<companyCode>C-LCSC</companyCode>
+			<name>Chip Resistor - Surface Mount 130KOhms ±1% 1/16W 0402 RoHS</name>
+			<partId>C93946</partId>
+			<link><![CDATA[https://lcsc.com/search?q=C93946]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Digikey</company>
+			<companyCode>C-DIGK</companyCode>
+			<name>RES SMD 130K OHM 1% 1/16W 0402</name>
+			<partId>YAG2969TR-ND</partId>
+			<link><![CDATA[https://www.digikey.co.uk/products/en?keywords=YAG2969TR-ND]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Mouser</company>
+			<companyCode>C-MOUS</companyCode>
+			<name>Thick Film Resistors - SMD 130K OHM 1%</name>
+			<partId>603-RC0402FR-07130KL</partId>
+			<link><![CDATA[https://www.mouser.co.uk/Search/Refine?Keyword=603-RC0402FR-07130KL]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Farnell</company>
+			<companyCode>C-FARN</companyCode>
+			<name></name>
+			<partId>1469679</partId>
+			<link><![CDATA[https://uk.farnell.com/search?st=1469679]]></link>
+		</bigDistributor>
+	</sourceList>
+	<oplList>
+		<oplSystem>
+			<oplScheme>SEEED OPL</oplScheme>
+			<oplCode>C-SEEE</oplCode>
+			<oplName>SMD RES 130K-1%-1/16W;0402</oplName>
+			<oplID>301011983</oplID>
+			<oplFootprint></oplFootprint>
+			<oplLink>https://www.seeedstudio.com/opl.html?</oplLink>
+		</oplSystem>
+	</oplList>
+</oompPart>
+</xml>

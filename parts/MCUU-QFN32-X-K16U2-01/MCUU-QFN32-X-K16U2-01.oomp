@@ -1,0 +1,60 @@
+<xml>
+<oompPart>
+	<oompID>MCUU-QFN32-X-K16U2-01</oompID>
+	<oompName>32 Pin SMD (QFN) AtMega32U4 MCU</oompName>
+	<oompType>MCUU</oompType>
+	<oompSize>QFN32</oompSize>
+	<oompColor>X</oompColor>
+	<oompIndex>01</oompIndex>
+	<oompVersion>999</oompVersion>
+	<ooWidth>5mm</ooWidth>
+	<ooHeight>0.95mm</ooHeight>
+	<ooLength>5mm</ooLength>
+	<sourceList>
+		<manufacturer>
+			<company>Atmel</company>
+			<companyCode>C-ATME</companyCode>
+			<name></name>
+			<partId>ATMEGA16U2-MU</partId>
+		</manufacturer>
+		<bigDistributor>
+			<company>LCSC</company>
+			<companyCode>C-LCSC</companyCode>
+			<name>ATMEL &amp; AVR QFN-32_5x5x05P RoHS</name>
+			<partId>C17317</partId>
+			<link><![CDATA[https://lcsc.com/search?q=C17317]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Digikey</company>
+			<companyCode>C-DIGK</companyCode>
+			<name>IC MCU 8BIT 16KB FLASH 32VQFN</name>
+			<partId>ATMEGA16U2-MU-ND</partId>
+			<link><![CDATA[https://www.digikey.co.uk/products/en?keywords=ATMEGA16U2-MU-ND]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Mouser</company>
+			<companyCode>C-MOUS</companyCode>
+			<name>8-bit Microcontrollers - MCU AVR USB 8K FLASH AVR USB 16K FLASH</name>
+			<partId>556-ATMEGA16U2-MU</partId>
+			<link><![CDATA[https://www.mouser.co.uk/Search/Refine?Keyword=556-ATMEGA16U2-MU]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Farnell</company>
+			<companyCode>C-FARN</companyCode>
+			<name></name>
+			<partId>2810000</partId>
+			<link><![CDATA[https://uk.farnell.com/search?st=2810000]]></link>
+		</bigDistributor>
+	</sourceList>
+	<oplList>
+		<oplSystem>
+			<oplScheme>SEEED OPL</oplScheme>
+			<oplCode>C-SEEE</oplCode>
+			<oplName>SMD IC MCU;AVR;8-bit;16KB;16MHz;2.7-5.5V</oplName>
+			<oplID>310010018</oplID>
+			<oplFootprint></oplFootprint>
+			<oplLink>https://www.seeedstudio.com/opl.html?</oplLink>
+		</oplSystem>
+	</oplList>
+</oompPart>
+</xml>

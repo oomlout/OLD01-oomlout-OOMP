@@ -1,0 +1,50 @@
+<xml>
+<oompPart>
+	<oompID>SENS-SO235-X-K36-01</oompID>
+	<oompName>SMD (SOT-23-5) 3-Axis Accelerometer (MMA7660FCR1) Sensor</oompName>
+	<oompType>SENS</oompType>
+	<oompSize>SO235</oompSize>
+	<oompColor>X</oompColor>
+	<oompIndex>01</oompIndex>
+	<oompVersion>999</oompVersion>
+	<sourceList>
+		<manufacturer>
+			<company>Analog Devices Inc</company>
+			<companyCode>C-ANAL</companyCode>
+			<name></name>
+			<partId>TMP36</partId>
+		</manufacturer>
+		<bigDistributor>
+			<company>LCSC</company>
+			<companyCode>C-LCSC</companyCode>
+			<name>Temperature Sensors SOT-23-5 RoHS</name>
+			<partId>C48041</partId>
+			<link><![CDATA[https://lcsc.com/search?q=C48041]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Digikey</company>
+			<companyCode>C-DIGK</companyCode>
+			<name>SENSOR ANALOG -40C-125C SOT23-5</name>
+			<partId>TMP36GRTZ-REEL7TR-ND</partId>
+			<link><![CDATA[https://www.digikey.co.uk/products/en?keywords=TMP36GRTZ-REEL7TR-ND]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Farnell</company>
+			<companyCode>C-FARN</companyCode>
+			<name></name>
+			<partId>152239</partId>
+			<link><![CDATA[https://uk.farnell.com/search?st=152239]]></link>
+		</bigDistributor>
+	</sourceList>
+	<oplList>
+		<oplSystem>
+			<oplScheme>SEEED OPL</oplScheme>
+			<oplCode>C-SEEE</oplCode>
+			<oplName>DIP Low Voltage Temperature Sensor</oplName>
+			<oplID>314010011</oplID>
+			<oplFootprint></oplFootprint>
+			<oplLink>https://www.seeedstudio.com/opl.html?</oplLink>
+		</oplSystem>
+	</oplList>
+</oompPart>
+</xml>

@@ -1,96 +1,62 @@
 <xml>
-	<oompPart>
-		<oompID>RESE-0603-X-O331-67</oompID>
-		<name>SMD (0603) 330 Ohm Resistor 1%</name>
-		<hexID>R6331A</hexID>
-		<oompSort>RESE0603O331</oompSort>
-		<oompType>RESE</oompType>
-		<oompSize>0603</oompSize>
-		<oompColor>X</oompColor>
-		<oompDesc>O331</oompDesc>
-		<oompIndex>67</oompIndex>
-		<oompVersion>98</oompVersion>
-		<ooWidth>0.8</ooWidth>
-		<ooLength>1.6</ooLength>
-		<ooNumPins>2</ooNumPins>
-		<sourceList>
-			<manufacturer>
-				<company>YAGEO</company>
-				<companyCode>C-YAGE</companyCode>
-				<name></name>
-				<partID>RC0603FR-07330RL</partID>
-				<link></link>
-				<note></note>
-			</manufacturer>
-			<manufacturer>
-				<company>Multicomp</company>
-				<companyCode>C-MULT</companyCode>
-				<name></name>
-				<partID>MC0063W06031330R</partID>
-				<link></link>
-				<note></note>
-			</manufacturer>
-			<bigDistributor>
-				<company>Digikey</company>
-				<companyCode>C-DIGK</companyCode>
-				<name></name>
-				<partID>311-330HRCT-ND</partID>
-				<link><![CDATA[http://www.digikey.com/product-search/en?keywords=311-330HRCT-ND]]></link>
-				<note></note>
-				</bigDistributor>								<bigDistributor>
-				<company>Mouser</company>
-				<companyCode>C-MOUS</companyCode>
-				<name></name>
-				<partID>603-RC0603FR-07330RL</partID>
-				<link><![CDATA[http://www.mouser.co.uk/Search/Refine.aspx?Keyword=603-RC0603FR-07330RL]]></link>
-				<note></note>
-			</bigDistributor>
-			<bigDistributor>
-				<company>Farnell</company>
-				<companyCode>C-FARN</companyCode>
-				<name></name>
-				<partID>9238425</partID>
-				<link><![CDATA[http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=15001&langId=44&storeId=10151&categoryName=All%20Categories&selectedCategoryId=&gs=true&st=9238425]]></link>
-				<note></note>
-			</bigDistributor>
-			<bigDistributor>
-				<company>RS Electronics</company>
-				<companyCode>C-RSRS</companyCode>
-				<name></name>
-				<partID>504-6499</partID>
-				<link><![CDATA[http://uk.rs-online.com/web/c/?sra=oss&r=t&searchTerm=504-6499]]></link>
-				<note></note>
-			</bigDistributor>
-		</sourceList>
-		<oplList>
-			<oplSystem>
-				<oplScheme>SEEED OPL</oplScheme>
-				<oplCode>C-SEEE</oplCode>
-				<oplName>SMD RES 330R-1%-1/10W</oplName>
-				<oplID>301010300</oplID>
-				<oplFootprint>603</oplFootprint>
-				<oplPackage>603</oplPackage>
-				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
-			</oplSystem>
-			<oplSystem>
-				<oplScheme>Octopart CPL</oplScheme>
-				<oplCode>C-OCTO</oplCode>
-				<oplName>Resistor 330 O 1% 0603 100 mW</oplName>
-				<oplID>CPL-RES-0603-330-0.1W</oplID>
-				<oplFootprint></oplFootprint>
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[https://octopart.com/common-parts-library]]></oplLink>
-			</oplSystem>
-			<oplSystem>
-				<oplScheme>Circuithub.com</oplScheme>
-				<oplCode>C-CIRC</oplCode>
-				<oplName>YAGEO/RC0603FR-07330RL</oplName>
-				<oplID>YAGEO/RC0603FR-07330RL</oplID>
-				<oplFootprint>0603</oplFootprint>
-				<oplPackage>0603</oplPackage>
-				<oplLink><![CDATA[https://circuithub.com/parts/YAGEO/RC0603FR-07330RL]]></oplLink>
-			</oplSystem>
-		</oplList>
-		<ooDesignator>R1</ooDesignator>
-	</oompPart>
+<oompPart>
+	<oompID>RESE-0603-X-O331-67</oompID>
+	<hexId>R6331A</hexId>
+	<oompName>SMD (0603) 330 Ohm Resistor 1%</oompName>
+	<oompSort>RESE0603O331</oompSort>
+	<oompType>RESE</oompType>
+	<oompSize>0603</oompSize>
+	<oompColor>X</oompColor>
+	<oompIndex>67</oompIndex>
+	<oompVersion>999</oompVersion>
+	<ooWidth>0.8mm</ooWidth>
+	<ooHeight>0.45mm</ooHeight>
+	<ooLength>1.6mm</ooLength>
+	<sourceList>
+		<manufacturer>
+			<company>YAGEO</company>
+			<companyCode>C-YAGE</companyCode>
+			<name></name>
+			<partId>RC0603FR-07330RL</partId>
+		</manufacturer>
+		<bigDistributor>
+			<company>LCSC</company>
+			<companyCode>C-LCSC</companyCode>
+			<name>Chip Resistor - Surface Mount 330Ohms ±1% 1/10W 0603 RoHS</name>
+			<partId>C105881</partId>
+			<link><![CDATA[https://lcsc.com/search?q=C105881]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Digikey</company>
+			<companyCode>C-DIGK</companyCode>
+			<name>RES SMD 330 OHM 1% 1/10W 0603</name>
+			<partId>311-330HRTR-ND</partId>
+			<link><![CDATA[https://www.digikey.co.uk/products/en?keywords=311-330HRTR-ND]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Mouser</company>
+			<companyCode>C-MOUS</companyCode>
+			<name>Thick Film Resistors - SMD 330 OHM 1%</name>
+			<partId>603-RC0603FR-07330RL</partId>
+			<link><![CDATA[https://www.mouser.co.uk/Search/Refine?Keyword=603-RC0603FR-07330RL]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Farnell</company>
+			<companyCode>C-FARN</companyCode>
+			<name></name>
+			<partId>9238425</partId>
+			<link><![CDATA[https://uk.farnell.com/search?st=9238425]]></link>
+		</bigDistributor>
+	</sourceList>
+	<oplList>
+		<oplSystem>
+			<oplScheme>SEEED OPL</oplScheme>
+			<oplCode>C-SEEE</oplCode>
+			<oplName>SMD RES 330R-1%-1/10W</oplName>
+			<oplID>301010300</oplID>
+			<oplFootprint></oplFootprint>
+			<oplLink>https://www.seeedstudio.com/opl.html?</oplLink>
+		</oplSystem>
+	</oplList>
+</oompPart>
 </xml>

@@ -1,53 +1,73 @@
 <xml>
-	<oompPart>
-		<oompID>RESE-0805-X-O101-01</oompID>
-		<name>SMD (0805) 100 Ohm Resistor</name>
-		<hexID>R85101</hexID>
-		<oompSort></oompSort>
-		<oompClass>Surface Mount</oompClass>
-		<oompClassCode>SMDS</oompClassCode>
-		<oompType>RESE</oompType>
-		<oompSize>0805</oompSize>
-		<oompColor>X</oompColor>
-		<oompDesc>O101</oompDesc>
-		<oompIndex>01</oompIndex>
-		<oompVersion>40</oompVersion>
-		<sourceList>
-			<manufacturer>
-				<company>Yageo</company>
-				<companyCode>C-YAGE</companyCode>
-				<name></name>
-				<partID>RC0805JR-07100RL</partID>
-				<link></link>
-				<note></note>
-			</manufacturer>
-		</sourceList>
-		<oplList>
-			<oplSystem>
-				<oplScheme>Seeed OPL</oplScheme>
-				<oplCode>C-SEEE</oplCode>
-				<oplName>SMD RES 100R-5%-1/8W</oplName>
-				<oplID>301010319</oplID>
-				<oplFootprint>0805</oplFootprint>
-				<oplPackage>0805</oplPackage>
-				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
-			</oplSystem>
-		</oplList>
-		<oompBbls>
-			<drawItem>template;XXXX-0805-X-XXXX-XX-bbls</drawItem>
-		</oompBbls>
-		<oompDiag>
+<oompPart>
+	<oompID>RESE-0805-X-O101-01</oompID>
+	<hexId>R85101</hexId>
+	<oompName>SMD (0805) 100 Ohm Resistor</oompName>
+	<oompType>RESE</oompType>
+	<oompSize>0805</oompSize>
+	<oompColor>X</oompColor>
+	<oompIndex>01</oompIndex>
+	<oompVersion>999</oompVersion>
+	<ooWidth>1.25mm</ooWidth>
+	<ooHeight>0.5mm</ooHeight>
+	<ooLength>2mm</ooLength>
+	<sourceList>
+		<manufacturer>
+			<company>YAGEO</company>
+			<companyCode>C-YAGE</companyCode>
+			<name></name>
+			<partId>RC0805JR-07100RL</partId>
+		</manufacturer>
+		<bigDistributor>
+			<company>LCSC</company>
+			<companyCode>C-LCSC</companyCode>
+			<name>Chip Resistor - Surface Mount 100Ohms ±5% 1/8W 0805 RoHS</name>
+			<partId>C106949</partId>
+			<link><![CDATA[https://lcsc.com/search?q=C106949]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Digikey</company>
+			<companyCode>C-DIGK</companyCode>
+			<name>RES SMD 100 OHM 5% 1/8W 0805</name>
+			<partId>311-100ARTR-ND</partId>
+			<link><![CDATA[https://www.digikey.co.uk/products/en?keywords=311-100ARTR-ND]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Mouser</company>
+			<companyCode>C-MOUS</companyCode>
+			<name>Thick Film Resistors - SMD 100 OHM 5%</name>
+			<partId>603-RC0805JR-07100RL</partId>
+			<link><![CDATA[https://www.mouser.co.uk/Search/Refine?Keyword=603-RC0805JR-07100RL]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Farnell</company>
+			<companyCode>C-FARN</companyCode>
+			<name></name>
+			<partId>9233881</partId>
+			<link><![CDATA[https://uk.farnell.com/search?st=9233881]]></link>
+		</bigDistributor>
+	</sourceList>
+	<oplList>
+		<oplSystem>
+			<oplScheme>SEEED OPL</oplScheme>
+			<oplCode>C-SEEE</oplCode>
+			<oplName>SMD RES 100R-5%-1/8W</oplName>
+			<oplID>301010319</oplID>
+			<oplFootprint></oplFootprint>
+			<oplLink>https://www.seeedstudio.com/opl.html?</oplLink>
+		</oplSystem>
+	</oplList>
+	<oompDiag>
 			<drawItem>template;XXXX-0805-X-XXXX-XX-diag</drawItem>
 		</oompDiag>
-		<oompIden>
+	<oompIden>
 			<drawItem>template;XXXX-0805-X-XXXX-XX-iden</drawItem>
 		</oompIden>
-		<oompSchem>
+	<oompSchem>
 			<drawItem>template;RESE-XXXX-X-XXXX-XX-schem</drawItem>
 		</oompSchem>
-		<oompSimp>
+	<oompSimp>
 			<drawItem>template;XXXX-0805-X-XXXX-XX-simp</drawItem>
 		</oompSimp>
-		<ooDesignator>R1</ooDesignator>
-	</oompPart>
+</oompPart>
 </xml>

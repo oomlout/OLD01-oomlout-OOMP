@@ -1,0 +1,60 @@
+<xml>
+<oompPart>
+	<oompID>CAPC-0603-X-NF47D-V50</oompID>
+	<oompName>SMD (0603) 1 nF Capacitor (Ceramic) 50v</oompName>
+	<oompType>CAPC</oompType>
+	<oompSize>0603</oompSize>
+	<oompColor>X</oompColor>
+	<oompIndex>V50</oompIndex>
+	<oompVersion>999</oompVersion>
+	<ooWidth>0.8mm</ooWidth>
+	<ooHeight>0.8mm</ooHeight>
+	<ooLength>1.6mm</ooLength>
+	<sourceList>
+		<manufacturer>
+			<company>YAGEO</company>
+			<companyCode>C-YAGE</companyCode>
+			<name></name>
+			<partId>CC0603KRX7R9BB472</partId>
+		</manufacturer>
+		<bigDistributor>
+			<company>LCSC</company>
+			<companyCode>C-LCSC</companyCode>
+			<name>Multilayer Ceramic Capacitors MLCC - SMD/SMT 4.7nF 50V 0603 RoHS</name>
+			<partId>C106218</partId>
+			<link><![CDATA[https://lcsc.com/search?q=C106218]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Digikey</company>
+			<companyCode>C-DIGK</companyCode>
+			<name>CAP CER 4700PF 50V X7R 0603</name>
+			<partId>311-1083-2-ND</partId>
+			<link><![CDATA[https://www.digikey.co.uk/products/en?keywords=311-1083-2-ND]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Mouser</company>
+			<companyCode>C-MOUS</companyCode>
+			<name>Multilayer Ceramic Capacitors MLCC - SMD/SMT 4700PF 50V 10% 0603</name>
+			<partId>603-C0603KRX7R9BB472</partId>
+			<link><![CDATA[https://www.mouser.co.uk/Search/Refine?Keyword=603-C0603KRX7R9BB472]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Farnell</company>
+			<companyCode>C-FARN</companyCode>
+			<name></name>
+			<partId>722212</partId>
+			<link><![CDATA[https://uk.farnell.com/search?st=722212]]></link>
+		</bigDistributor>
+	</sourceList>
+	<oplList>
+		<oplSystem>
+			<oplScheme>SEEED OPL</oplScheme>
+			<oplCode>C-SEEE</oplCode>
+			<oplName>SMD CAP Ceramic 4.7nF-50V-10%-X7R</oplName>
+			<oplID>302010144</oplID>
+			<oplFootprint></oplFootprint>
+			<oplLink>https://www.seeedstudio.com/opl.html?</oplLink>
+		</oplSystem>
+	</oplList>
+</oompPart>
+</xml>

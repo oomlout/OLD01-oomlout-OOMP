@@ -1,0 +1,60 @@
+<xml>
+<oompPart>
+	<oompID>RESE-0805-X-O123-01</oompID>
+	<oompName>SMD (0805) 12k Ohm Resistor</oompName>
+	<oompType>RESE</oompType>
+	<oompSize>0805</oompSize>
+	<oompColor>X</oompColor>
+	<oompIndex>01</oompIndex>
+	<oompVersion>999</oompVersion>
+	<ooWidth>1.25mm</ooWidth>
+	<ooHeight>0.5mm</ooHeight>
+	<ooLength>2mm</ooLength>
+	<sourceList>
+		<manufacturer>
+			<company>YAGEO</company>
+			<companyCode>C-YAGE</companyCode>
+			<name></name>
+			<partId>RC0805JR-0712KL</partId>
+		</manufacturer>
+		<bigDistributor>
+			<company>LCSC</company>
+			<companyCode>C-LCSC</companyCode>
+			<name>Chip Resistor - Surface Mount 12KOhms ±5% 1/8W 0805 RoHS</name>
+			<partId>C114241</partId>
+			<link><![CDATA[https://lcsc.com/search?q=C114241]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Digikey</company>
+			<companyCode>C-DIGK</companyCode>
+			<name>RES SMD 12K OHM 5% 1/8W 0805</name>
+			<partId>311-12KARTR-ND</partId>
+			<link><![CDATA[https://www.digikey.co.uk/products/en?keywords=311-12KARTR-ND]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Mouser</company>
+			<companyCode>C-MOUS</companyCode>
+			<name>Thick Film Resistors - SMD 12K OHM 5%</name>
+			<partId>603-RC0805JR-0712KL</partId>
+			<link><![CDATA[https://www.mouser.co.uk/Search/Refine?Keyword=603-RC0805JR-0712KL]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Farnell</company>
+			<companyCode>C-FARN</companyCode>
+			<name></name>
+			<partId>9234144</partId>
+			<link><![CDATA[https://uk.farnell.com/search?st=9234144]]></link>
+		</bigDistributor>
+	</sourceList>
+	<oplList>
+		<oplSystem>
+			<oplScheme>SEEED OPL</oplScheme>
+			<oplCode>C-SEEE</oplCode>
+			<oplName>SMD RES 12K-5%-1/8W;0805</oplName>
+			<oplID>301010332</oplID>
+			<oplFootprint></oplFootprint>
+			<oplLink>https://www.seeedstudio.com/opl.html?</oplLink>
+		</oplSystem>
+	</oplList>
+</oompPart>
+</xml>

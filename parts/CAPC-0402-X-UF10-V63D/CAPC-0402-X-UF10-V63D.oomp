@@ -1,0 +1,53 @@
+<xml>
+<oompPart>
+	<oompID>CAPC-0402-X-UF10-V63D</oompID>
+	<oompName>SMD (0402) 11 uF Capacitor (Ceramic) 6.3v</oompName>
+	<oompType>CAPC</oompType>
+	<oompSize>0402</oompSize>
+	<oompColor>X</oompColor>
+	<oompIndex>V63D</oompIndex>
+	<oompVersion>999</oompVersion>
+	<ooWidth>0.5mm</ooWidth>
+	<ooHeight>0.5mm</ooHeight>
+	<ooLength>1mm</ooLength>
+	<sourceList>
+		<manufacturer>
+			<company>YAGEO</company>
+			<companyCode>C-YAGE</companyCode>
+			<name></name>
+			<partId>CC0402MRX5R5BB106</partId>
+		</manufacturer>
+		<bigDistributor>
+			<company>LCSC</company>
+			<companyCode>C-LCSC</companyCode>
+			<name>Multilayer Ceramic Capacitors MLCC - SMD/SMT 10uF 6.3V 0402 RoHS</name>
+			<partId>C105884</partId>
+			<link><![CDATA[https://lcsc.com/search?q=C105884]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Digikey</company>
+			<companyCode>C-DIGK</companyCode>
+			<name>CAP CER 10UF 6.3V X5R 0402</name>
+			<partId>311-1729-2-ND</partId>
+			<link><![CDATA[https://www.digikey.co.uk/products/en?keywords=311-1729-2-ND]]></link>
+		</bigDistributor>
+		<bigDistributor>
+			<company>Mouser</company>
+			<companyCode>C-MOUS</companyCode>
+			<name>Multilayer Ceramic Capacitors MLCC - SMD/SMT 10uF 20% 6.3V</name>
+			<partId>603-CC402MRX5R5BB106</partId>
+			<link><![CDATA[https://www.mouser.co.uk/Search/Refine?Keyword=603-CC402MRX5R5BB106]]></link>
+		</bigDistributor>
+	</sourceList>
+	<oplList>
+		<oplSystem>
+			<oplScheme>SEEED OPL</oplScheme>
+			<oplCode>C-SEEE</oplCode>
+			<oplName>SMD CAP Ceramic 10uF-6.3V-20%-X5R;</oplName>
+			<oplID>302010053</oplID>
+			<oplFootprint></oplFootprint>
+			<oplLink>https://www.seeedstudio.com/opl.html?</oplLink>
+		</oplSystem>
+	</oplList>
+</oompPart>
+</xml>
