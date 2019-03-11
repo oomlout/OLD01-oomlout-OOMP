@@ -52,10 +52,9 @@
 			</oplList><oompAbout>A commonly used surface mount pushbutton. With the button on the side rather than the top.</oompAbout>
 			<ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:4P-SMD-7.0X3.5X3.5H-90D.zip</ooSEEED3dModel><oompClass>Surface Mount</oompClass>
 			<oompClassCode>SMDS</oompClassCode>
-<oompSchem>
-				<oompIden>
+			<oompSchem>
 					<drawItem>template;BUTA-XXXX-X-02PI-XX-schem</drawItem>
-				</oompIden>
-			</oompSchem><ooDesignator>S1</ooDesignator>
+			</oompSchem>
+			<ooDesignator>S1</ooDesignator>
 	</oompPart>
 </xml>
