@@ -37,6 +37,34 @@
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList>
+		<oompBbls>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;6</drawItem>
+			<drawItem>template;XXXX-I01-X-XX-RA-bbls</drawItem>
+		</oompBbls>
+		<oompDiag>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;6</drawItem>
+			<drawItem>template;HEAD-I01-X-XX-RA-diag</drawItem>
+		</oompDiag>
+		<oompIden>
+		<drawItem>variable;clear</drawItem>
+		<drawItem>variable;pins;6</drawItem>
+		<drawItem>template;XXXX-I01-X-XX-RA-iden</drawItem>
+		</oompIden>
+		<oompSchem>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;6</drawItem>
+			<drawItem>template;XXXX-XX-X-XX-RA-PINS-EVEN-schem</drawItem>
+		</oompSchem>
+		<oompSimp>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;6</drawItem>
+			<drawItem>template;XXXX-I01-X-XX-RA-simp</drawItem>
+		</oompSimp>
+
+		
+		
 		<ooDesignator>J1</ooDesignator>
 	</oompPart>
 </xml>

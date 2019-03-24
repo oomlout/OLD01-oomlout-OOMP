@@ -1,0 +1,9 @@
+	<oompTemplate>
+		<drawItem>linewidth;0.2</drawItem>
+		<drawItem>rectangle;0;1.5;2.54*%%pins%%;2.54;Main Square</drawItem>
+		<drawItem>repeat;%%pins%%;rectangle;(2.54*%%pins%%/2-2.54/2)-2.54*(%%i%%-1);1.5;0.64;0.64;pin %%i%%</drawItem>		
+		<drawItem>repeat;%%pins%%;rectangle;(2.54*%%pins%%/2-2.54/2)-2.54*(%%i%%-1);-1.27;0.64;3;pin %%i%%</drawItem>		
+		<drawItem>linewidth;1</drawItem>		
+		<drawItem>oompName;0;6;20;5;##name@@</drawItem>
+		<drawItem>oompURL;0;-3.5;2.835;##hexID@@</drawItem>	
+	</oompTemplate>
