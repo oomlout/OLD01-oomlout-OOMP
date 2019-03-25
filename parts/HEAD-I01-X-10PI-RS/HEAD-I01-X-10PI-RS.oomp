@@ -1,0 +1,50 @@
+<xml>
+<oompPart>
+	<oompID>HEAD-I01-X-10PI-RS</oompID>
+	<name>2.54 mm 10 Pin Header Right Angle (SMD)</name>
+	<oompType>HEAD</oompType>
+	<oompSize>I01</oompSize>
+	<oompColor>X</oompColor>
+	<oompDesc>10PI</oompDesc>
+	<oompIndex>RS</oompIndex>
+	<oompVersion>999</oompVersion>
+	<ooPins>2</ooPins>
+	<sourceList>
+		<manufacturer>
+			<company>Samtec</company>
+			<companyCode>C-SAMT</companyCode>
+			<name></name>
+			<partId>TSM-110-01-L-SH</partId>
+		</manufacturer>
+	</sourceList>
+		<oompBbls>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;10</drawItem>
+			<drawItem>template;HEAD-I01-X-XX-RS-bbls</drawItem>
+		</oompBbls>
+		<oompDiag>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;10</drawItem>
+			<drawItem>template;HEAD-I01-X-XX-RS-diag</drawItem>
+		</oompDiag>
+		<oompIden>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;10</drawItem>
+			<drawItem>template;HEAD-I01-X-XX-RS-iden</drawItem>
+		</oompIden>
+		<oompSimp>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;10</drawItem>
+			<drawItem>template;HEAD-I01-X-XX-RS-diag</drawItem>
+		</oompSimp>		
+		<oompSchem>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;10</drawItem>
+			<drawItem>template;XXXX-XX-X-XX-01-PINS-EVEN-schem</drawItem>
+		</oompSchem>
+		<ooDesignator>J1</ooDesignator>
+		<schematicSymbol>HEAD-XX-X-10PI-XX</schematicSymbol>
+		<pcbFootprint>HEAD-I01-X-10PI-RS</pcbFootprint>
+
+</oompPart>
+</xml>

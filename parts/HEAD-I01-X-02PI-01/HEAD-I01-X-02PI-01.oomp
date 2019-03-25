@@ -49,9 +49,11 @@
 			<drawItem>variable;pins;2</drawItem>
 			<drawItem>template;HEAD-I01-X-XX-01-diag</drawItem>
 		</oompDiag>
-		<drawItem>variable;clear</drawItem>
-		<drawItem>variable;pins;3</drawItem>
-		<drawItem>template;XXXX-I01-X-XX-01-iden</drawItem>
+		<oompIden>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;2</drawItem>
+			<drawItem>template;XXXX-I01-X-XX-01-iden</drawItem>
+		</oompIden>
 		<oompSchem>
 			<drawItem>variable;clear</drawItem>
 			<drawItem>variable;pins;2</drawItem>

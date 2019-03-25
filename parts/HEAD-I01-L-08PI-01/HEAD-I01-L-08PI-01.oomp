@@ -49,9 +49,11 @@
 			<drawItem>variable;pins;8</drawItem>
 			<drawItem>template;HEAD-I01-X-XX-01-diag</drawItem>
 		</oompDiag>
-		<drawItem>variable;clear</drawItem>
-		<drawItem>variable;pins;8</drawItem>
-		<drawItem>template;XXXX-I01-X-XX-01-iden</drawItem>
+		<oompIden>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;8</drawItem>
+			<drawItem>template;XXXX-I01-X-XX-01-iden</drawItem>
+		</oompIden>
 		<oompSchem>
 			<drawItem>variable;clear</drawItem>
 			<drawItem>variable;pins;8</drawItem>
@@ -63,5 +65,8 @@
 			<drawItem>template;XXXX-I01-X-XX-01-simp</drawItem>
 		</oompSimp>
 		<ooDesignator>J1</ooDesignator>
+		<schematicSymbol>HEAD-XX-X-08PI-XX</schematicSymbol>
+		<pcbFootprint>HEAD-I01-X-08PI-01</pcbFootprint>
+
 	</oompPart>
 </xml>
