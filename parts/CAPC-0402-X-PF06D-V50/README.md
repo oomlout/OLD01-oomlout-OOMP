@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: ____    
+Name: __SMD (0402) 1 pF Capacitor (Ceramic) 50v__    
 ID: __CAPC-0402-X-PF06D-V50__   
 Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0402-X-PF06D-V50__   

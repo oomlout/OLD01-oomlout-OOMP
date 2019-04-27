@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: ____    
+Name: __SMD (0805) 2 uF Capacitor (Ceramic) 25v__    
 ID: __CAPC-0805-X-UF1-V25__   
 Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0805-X-UF1-V25__   

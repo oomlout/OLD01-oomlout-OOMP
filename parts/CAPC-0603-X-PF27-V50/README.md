@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: ____    
+Name: __SMD (0603) 28 pF Capacitor (Ceramic) 50v__    
 ID: __CAPC-0603-X-PF27-V50__   
 Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0603-X-PF27-V50__   

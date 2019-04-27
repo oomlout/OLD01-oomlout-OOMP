@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: ____    
+Name: __SMD (1206) 2 nF Capacitor (Ceramic) 1000v__    
 ID: __CAPC-1206-X-NF1-V1000__   
 Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-1206-X-NF1-V1000__   

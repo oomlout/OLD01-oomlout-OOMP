@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: ____    
+Name: __SMD (0603) 680 Ohm Resistor 1%__    
 ID: __RESE-0603-X-O681-67__   
 Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O681-67__   

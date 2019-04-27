@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: ____    
+Name: __SMD (0603) 470 Ohm Resistor__    
 ID: __RESE-0603-X-O471-01__   
 Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O471-01__   

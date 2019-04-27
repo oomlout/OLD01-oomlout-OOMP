@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: ____    
+Name: __SMD (0603) 5 pF Capacitor (Ceramic) 50v__    
 ID: __CAPC-0603-X-PF47D-V50__   
 Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0603-X-PF47D-V50__   

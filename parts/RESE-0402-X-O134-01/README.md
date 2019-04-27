@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: ____    
+Name: __SMD (0402) 140k Ohm Resistor__    
 ID: __RESE-0402-X-O134-01__   
 Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0402-X-O134-01__   

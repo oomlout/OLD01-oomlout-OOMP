@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: ____    
+Name: __5.2 mm SMD Pushbutton (Tactile)__    
 ID: __BUTA-52D-X-SMDS-01__   
 Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/BUTA-52D-X-SMDS-01__   

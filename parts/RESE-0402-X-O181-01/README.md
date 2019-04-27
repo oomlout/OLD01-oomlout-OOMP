@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: ____    
+Name: __SMD (0402) 180 Ohm Resistor__    
 ID: __RESE-0402-X-O181-01__   
 Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0402-X-O181-01__   

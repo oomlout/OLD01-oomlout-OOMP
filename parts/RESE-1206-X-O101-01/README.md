@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: ____    
+Name: __SMD (1206) 100 Ohm Resistor__    
 ID: __RESE-1206-X-O101-01__   
 Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-1206-X-O101-01__   

@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: ____    
+Name: __SMD (0402) 13 pF Capacitor (Ceramic) 50v__    
 ID: __CAPC-0402-X-PF12-V50__   
 Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0402-X-PF12-V50__   

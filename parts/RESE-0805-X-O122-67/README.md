@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: ____    
+Name: __SMD (0805) 1.2k Ohm Resistor 1%__    
 ID: __RESE-0805-X-O122-67__   
 Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0805-X-O122-67__   

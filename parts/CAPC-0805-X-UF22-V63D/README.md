@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: ____    
+Name: __SMD (0805) 23 uF Capacitor (Ceramic) 6.3v__    
 ID: __CAPC-0805-X-UF22-V63D__   
 Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0805-X-UF22-V63D__   

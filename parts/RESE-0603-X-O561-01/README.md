@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: ____    
+Name: __SMD (0603) 560 Ohm Resistor__    
 ID: __RESE-0603-X-O561-01__   
 Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O561-01__   

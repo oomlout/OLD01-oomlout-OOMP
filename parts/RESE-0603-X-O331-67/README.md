@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: ____    
+Name: __SMD (0603) 330 Ohm Resistor 1%__    
 ID: __RESE-0603-X-O331-67__   
 Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O331-67__   
