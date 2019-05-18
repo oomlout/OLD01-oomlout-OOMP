@@ -18,6 +18,7 @@
 		<companyCode>C-POLO</companyCode>
 			
 <!--Size -->
+	<ooNumPins>16</ooNumPins>
         <ooWidth>15.24 mm</ooWidth>
         <ooHeight>20.32 mm</ooHeight>
         <ooDiameter></ooDiameter>
@@ -154,6 +155,7 @@
 		<ooPin15>GND</ooPin15>
 		<ooPin16>VMOT</ooPin16>
 		
+		<oompSymbol>twoSidedPackage;##ooNumPins@@</oompSymbol>
 		
 		
 </oompProject>

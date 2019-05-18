@@ -186,6 +186,9 @@
 		<ooPin29>GND</ooPin29>
 		<ooPin30>VIN</ooPin30>
 		<ooNumPins>30</ooNumPins>
+		
+		<oompSymbol>twoSidedPackage;##ooNumPins@@</oompSymbol>
+		
 		<ooDesignator>U1</ooDesignator>
 		<ooDesignator1>U</ooDesignator1>
 </oompProject>
