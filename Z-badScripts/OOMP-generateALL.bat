@@ -39,6 +39,7 @@ REM		Generating Info Files
 REM
 
 
+start OOMP-generate-InfoFiles.bat
 
 
 REM
