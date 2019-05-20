@@ -1,0 +1,11 @@
+	<oompTemplate>
+		<drawItem>linewidth;0.5</drawItem>
+				<drawItem>rectangle;0;0;6.2;6.2;main bounding box</drawItem>
+		<drawItem>circle;0;0;3;3;button circle</drawItem>
+		
+		<drawItem>rectangle;-3.25;2.25;1;1;pins</drawItem>
+		<drawItem>rectangle;3.25;2.25;1;1;pins</drawItem>
+		<drawItem>rectangle;3.25;-2.25;1;1;pins</drawItem>
+		<drawItem>rectangle;-3.25;-2.25;1;1;pins</drawItem>
+		
+	</oompTemplate>
