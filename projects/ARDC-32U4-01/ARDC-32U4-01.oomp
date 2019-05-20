@@ -1,0 +1,208 @@
+<xml>
+	    <oompProject>
+        <index>0070</index>
+		
+<!--OOMP Base -->		
+		<oompID>ARDC-32U4-01</oompID>
+        <name>Arduino Compatible 32u4</name>
+        <hexID>ARDC32U401</hexID>
+        <oompSort></oompSort>
+        <oompVersion>01</oompVersion>
+		<oompAbout>An Arduino Leonardo compatible breakout board for the Atmel 32u4 chip.</oompAbout>
+		<oompOfficialLink></oompOfficialLink>
+<!--About -->
+		<company>Generic</company>
+		<companyCode>C-GENE</companyCode>		
+		
+		
+		
+		
+		<ooNumPins>24</ooNumPins>
+		
+		<ooPin1>TX0</ooPin1>
+		<ooPin1x>0</ooPin1x>
+		<ooPin1y>0.1"</ooPin1y>
+		
+		<ooPin2>RX1</ooPin2>
+		<ooPin2x>0</ooPin2x>
+		<ooPin2y>-0.2"</ooPin2y>
+		
+		<ooPin3>GND</ooPin3>
+		<ooPin3x>0</ooPin3x>
+		<ooPin3y>-0.3"</ooPin3y>
+		
+		<ooPin4>GND</ooPin4>
+		<ooPin4x>0</ooPin4x>
+		<ooPin4y>-0.4"</ooPin4y>
+		
+		<ooPin5>D2</ooPin5>
+		<ooPin5x>0</ooPin5x>
+		<ooPin5y>-0.5"</ooPin5y>
+		
+		<ooPin6>D3</ooPin6>
+		<ooPin6x>0</ooPin6x>
+		<ooPin6y>-0.6"</ooPin6y>
+		
+		<ooPin7>D4</ooPin7>
+		<ooPin7x>0</ooPin7x>
+		<ooPin7y>-0.7"</ooPin7y>
+		
+		<ooPin8>D5</ooPin8>
+		<ooPin8x>0</ooPin8x>
+		<ooPin8y>-0.8"</ooPin8y>
+		
+		<ooPin9>D6</ooPin9>
+		<ooPin9x>0</ooPin9x>
+		<ooPin9y>-0.9"</ooPin9y>
+		
+		<ooPin10>D7</ooPin10>
+		<ooPin10x>0</ooPin10x>
+		<ooPin10y>-1.0"</ooPin10y>
+		
+		<ooPin11>D8</ooPin11>
+		<ooPin11x>0</ooPin11x>
+		<ooPin11y>-1.1"</ooPin11y>
+		
+		<ooPin12>D9</ooPin12>
+		<ooPin12x>0</ooPin12x>
+		<ooPin12y>-1.2"</ooPin12y>
+		
+		<ooPin13>D10</ooPin13>
+		<ooPin13x>0.7"</ooPin13x>
+		<ooPin13y>-1.2"</ooPin13y>
+		
+		<ooPin14>D16</ooPin14>
+		<ooPin14x>0.7"</ooPin14x>
+		<ooPin14y>-1.1"</ooPin14y>
+		
+		<ooPin15>D14</ooPin15>
+		<ooPin15x>0.7"</ooPin15x>
+		<ooPin15y>-1.0"</ooPin15y>
+		
+		<ooPin16>D15</ooPin16>
+		<ooPin16x>0.7"</ooPin16x>
+		<ooPin16y>-0.9"</ooPin16y>
+		
+		<ooPin17>A0</ooPin17>
+		<ooPin17x>0.7"</ooPin17x>
+		<ooPin17y>-0.8"</ooPin17y>
+		
+		<ooPin18>A1</ooPin18>
+		<ooPin18x>0.7"</ooPin18x>
+		<ooPin18y>-0.7"</ooPin18y>
+		
+		<ooPin19>A2</ooPin19>
+		<ooPin19x>0.7"</ooPin19x>
+		<ooPin19y>0.6"</ooPin19y>
+		
+		<ooPin20>A3</ooPin20>
+		<ooPin20x>0.7"</ooPin20x>
+		<ooPin20y>-0.5"</ooPin20y>
+		
+		<ooPin21>VCC</ooPin21>
+		<ooPin21x>0.7"</ooPin21x>
+		<ooPin21y>-0.4"</ooPin21y>
+		
+		<ooPin22>RST</ooPin22>
+		<ooPin22x>0.7"</ooPin22x>
+		<ooPin22y>-0.3"</ooPin22y>
+		
+		<ooPin23>GND</ooPin23>
+		<ooPin23x>0.9"</ooPin23x>
+		<ooPin23y>-0.2"</ooPin23y>
+		
+		<ooPin24>RAW</ooPin24>
+		<ooPin24x>0.9"</ooPin24x>
+		<ooPin24y>-0.1"</ooPin24y>
+		
+		
+		<ooDesignator>U</ooDesignator>
+		
+		<oompSymbol>twoSidedPackage;##ooNumPins@@</oompSymbol>
+		<oompFootprint>twoSidedPackage;##ooNumPins@@;0.7";0.1";0.1"</oompFootprint>
+		
+		
+		<oompDiag>
+			<drawItem>rectangle;8.89;-15.24;7*2.54;13*2.54;Main Square</drawItem>
+			
+			<drawItem>rectangle;##ooPin1x@@;##ooPin1y@@;1;1;Pin1</drawItem>
+			<drawItem>textB;##ooPin1x@@+3;##ooPin1y@@;2.5;##ooPin1@@;Pin1</drawItem>
+			
+			
+			<drawItem>rectangle;##ooPin2x@@;##ooPin2y@@;1;1;Pin2</drawItem>
+			<drawItem>textB;##ooPin2x@@+3;##ooPin2y@@;2.5;##ooPin2@@;Pin2</drawItem>
+			
+			
+			<drawItem>rectangle;##ooPin3x@@;##ooPin3y@@;1;1;Pin3</drawItem>
+			<drawItem>textB;##ooPin3x@@+3;##ooPin3y@@;2.5;##ooPin3@@;Pin3</drawItem>
+			
+			
+			<drawItem>rectangle;##ooPin4x@@;##ooPin4y@@;1;1;Pin4</drawItem>
+			<drawItem>textB;##ooPin4x@@+3;##ooPin4y@@;2.5;##ooPin4@@;Pin4</drawItem>
+			
+			
+			<drawItem>rectangle;##ooPin5x@@;##ooPin5y@@;1;1;Pin5</drawItem>
+			<drawItem>textB;##ooPin5x@@+3;##ooPin5y@@;2.5;##ooPin5@@;Pin5</drawItem>
+			
+			<drawItem>rectangle;##ooPin6x@@;##ooPin6y@@;1;1;Pin6</drawItem>
+			<drawItem>textB;##ooPin6x@@+3;##ooPin6y@@;2.5;##ooPin6@@;Pin6</drawItem>
+			
+			
+			<drawItem>rectangle;##ooPin7x@@;##ooPin7y@@;1;1;Pin7</drawItem>
+			<drawItem>textB;##ooPin7x@@+3;##ooPin7y@@;2.5;##ooPin7@@;Pin7</drawItem>
+			
+			<drawItem>rectangle;##ooPin8x@@;##ooPin8y@@;1;1;Pin8</drawItem>
+			<drawItem>textB;##ooPin8x@@+3;##ooPin8y@@;2.5;##ooPin8@@;Pin8</drawItem>
+			
+			<drawItem>rectangle;##ooPin9x@@;##ooPin9y@@;1;1;Pin9</drawItem>
+			<drawItem>textB;##ooPin9x@@+3;##ooPin9y@@;2.5;##ooPin9@@;Pin9</drawItem>
+			
+			<drawItem>rectangle;##ooPin10x@@;##ooPin10y@@;1;1;Pin10</drawItem>
+			<drawItem>textB;##ooPin10x@@+3;##ooPin10y@@;2.5;##ooPin10@@;Pin10</drawItem>
+			
+			<drawItem>rectangle;##ooPin11x@@;##ooPin11y@@;1;1;Pin11</drawItem>
+			<drawItem>textB;##ooPin11x@@+3;##ooPin11y@@;2.5;##ooPin11@@;Pin11</drawItem>
+			
+			<drawItem>rectangle;##ooPin12x@@;##ooPin12y@@;1;1;Pin12</drawItem>
+			<drawItem>textB;##ooPin12x@@+3;##ooPin12y@@;2.5;##ooPin12@@;Pin12</drawItem>
+			
+			<drawItem>rectangle;##ooPin13x@@;##ooPin13y@@;1;1;Pin13</drawItem>
+			<drawItem>textB;##ooPin13x@@+3;##ooPin13y@@;2.5;##ooPin13@@;Pin13</drawItem>
+			
+			<drawItem>rectangle;##ooPin14x@@;##ooPin14y@@;1;1;Pin14</drawItem>
+			<drawItem>textB;##ooPin14x@@+3;##ooPin14y@@;2.5;##ooPin14@@;Pin14</drawItem>
+			
+			<drawItem>rectangle;##ooPin15x@@;##ooPin15y@@;1;1;Pin15</drawItem>
+			<drawItem>textB;##ooPin15x@@+3;##ooPin15y@@;2.5;##ooPin15@@;Pin15</drawItem>
+			
+			<drawItem>rectangle;##ooPin16x@@;##ooPin16y@@;1;1;Pin16</drawItem>
+			<drawItem>textB;##ooPin16x@@+3;##ooPin16y@@;2.5;##ooPin16@@;Pin16</drawItem>
+			
+			<drawItem>rectangle;##ooPin17x@@;##ooPin17y@@;1;1;Pin17</drawItem>
+			<drawItem>textB;##ooPin17x@@+3;##ooPin17y@@;2.5;##ooPin17@@;Pin17</drawItem>
+			
+			<drawItem>rectangle;##ooPin18x@@;##ooPin18y@@;1;1;Pin18</drawItem>
+			<drawItem>textB;##ooPin18x@@+3;##ooPin18y@@;2.5;##ooPin18@@;Pin18</drawItem>
+			
+			<drawItem>rectangle;##ooPin19x@@;##ooPin19y@@;1;1;Pin19</drawItem>
+			<drawItem>textB;##ooPin19x@@+3;##ooPin19y@@;2.5;##ooPin19@@;Pin19</drawItem>
+						
+			<drawItem>rectangle;##ooPin20x@@;##ooPin20y@@;1;1;Pin20</drawItem>
+			<drawItem>textB;##ooPin20x@@-3;##ooPin20y@@;2.5;##ooPin20@@;Pin20</drawItem>
+			
+			<drawItem>rectangle;##ooPin21x@@;##ooPin21y@@;1;1;Pin21</drawItem>
+			<drawItem>textB;##ooPin21x@@-3;##ooPin21y@@;2.5;##ooPin21@@;Pin21</drawItem>
+			
+			<drawItem>rectangle;##ooPin22x@@;##ooPin22y@@;1;1;Pin22</drawItem>
+			<drawItem>textB;##ooPin22x@@-3;##ooPin22y@@;2.5;##ooPin22@@;Pin22</drawItem>
+			
+			<drawItem>rectangle;##ooPin23x@@;##ooPin23y@@;1;1;Pin23</drawItem>
+			<drawItem>textB;##ooPin23x@@-3;##ooPin23y@@;2.5;##ooPin23@@;Pin23</drawItem>
+			
+			<drawItem>rectangle;##ooPin24x@@;##ooPin24y@@;1;1;Pin24</drawItem>
+			<drawItem>textB;##ooPin24x@@-3;##ooPin24y@@;2.5;##ooPin24@@;Pin24</drawItem>			
+		</oompDiag>	
+		
+		
+		</oompProject>
+</xml>
