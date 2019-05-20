@@ -10,11 +10,13 @@
 		<oompColor>X</oompColor>
 		<oompDesc>STAN</oompDesc>
 		<oompIndex>01</oompIndex>
-		<oompVersion>99</oompVersion>        <ooWidth>6.2 mm</ooWidth>
+		<oompVersion>99</oompVersion>        
+		<ooWidth>6.2 mm</ooWidth>
 		<ooHeight>3.5 mm</ooHeight>
 		<ooLength>6.2 mm</ooLength>
 		<ooManufacturer>C-BEST</ooManufacturer>
-		<ooManufacturerPartNumber>TS-1109</ooManufacturerPartNumber>        <ooNumPins>4</ooNumPins>
+		<ooManufacturerPartNumber>TS-1109</ooManufacturerPartNumber>        
+		<ooNumPins>4</ooNumPins>
 		<usageList>
 			<useItem>
 				<useID>1</useID>
@@ -154,6 +156,13 @@
 			<oompSchem>
 					<drawItem>template;BUTA-XXXX-X-XXXX-XX-schem</drawItem>
 			</oompSchem>
-			<ooDesignator>S1</ooDesignator>
+			
+			<ooDesignator>S</ooDesignator>			
+			<oompSymbol>twoSidedPackage;##ooNumPins@@/2</oompSymbol>
+			
+			<ooPin1>.</ooPin1>
+			<ooPin2>.</ooPin2>
+			
+			
 	</oompPart>
 </xml>
