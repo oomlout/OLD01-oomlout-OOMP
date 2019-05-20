@@ -14,36 +14,35 @@ REM
 REM 	Redirect Pages
 REM 
 
-OOMP-generate-Redirects.bat
+start OOMP-generate-Redirects.bat
 
 REM 
 REM 	Individual Part Pages
 REM
 
-OOMP-generate-PartsPages.bat
+start OOMP-generate-PartsPages.bat
 
 REM
 REM     Generating all project pages
 REM
 
-OOMP-generate-ProjectPages.bat
+start OOMP-generate-ProjectPages.bat
 
 REM
 REM      Generating Index Files
 REM 
 
-OOMP-generate-IndexPages.bat
+start OOMP-generate-IndexPages.bat
 
 REM
 REM		Generating Info Files
 REM
 
 
-OOMP-generateiInfoFiles.bat
 
 
 REM
 REM     Generating all SPEC LABels
 REM
 
-OOMP-generate-Labels.bat
+start OOMP-generate-Labels.bat
