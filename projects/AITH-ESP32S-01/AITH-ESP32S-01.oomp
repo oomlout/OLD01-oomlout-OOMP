@@ -29,6 +29,8 @@
 			
 		</sourceList>
 		
+		<ooNumPins>38</ooNumPins>
+		
 		<ooPin1>3.3V</ooPin1>
 		<ooPin1x>0</ooPin1x>
 		<ooPin1y>0</ooPin1y>
@@ -181,6 +183,10 @@
 		<ooPin38>GND</ooPin38>
 		<ooPin38x>0.9"</ooPin38x>
 		<ooPin38y>0</ooPin38y>
+		<ooDesignator>U</ooDesignator>
+		
+		<oompSymbol>twoSidedPackage;##ooNumPins@@</oompSymbol>
+		<oompFootprint>twoSidedPackage;##ooNumPins@@;0.9";0.1"</oompFootprint>
 		
 		
 		<oompDiag>
