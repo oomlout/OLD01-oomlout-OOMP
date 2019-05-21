@@ -93,7 +93,7 @@
 		
 		<ooPin19>A2</ooPin19>
 		<ooPin19x>0.6"</ooPin19x>
-		<ooPin19y>0.6"</ooPin19y>
+		<ooPin19y>-0.6"</ooPin19y>
 		
 		<ooPin20>A3</ooPin20>
 		<ooPin20x>0.6"</ooPin20x>
@@ -123,7 +123,7 @@
 		
 		
 		<oompDiag>
-			<drawItem>rectangle;8.89;-15.24;7*2.54;13*2.54;Main Square</drawItem>
+			<drawItem>rectangle;7.62;-15.24;7*2.54;13*2.54;Main Square</drawItem>
 			
 			<drawItem>rectangle;##ooPin1x@@;##ooPin1y@@;1;1;Pin1</drawItem>
 			<drawItem>textB;##ooPin1x@@+3;##ooPin1y@@;2.5;##ooPin1@@;Pin1</drawItem>
@@ -167,25 +167,25 @@
 			<drawItem>textB;##ooPin12x@@+3;##ooPin12y@@;2.5;##ooPin12@@;Pin12</drawItem>
 			
 			<drawItem>rectangle;##ooPin13x@@;##ooPin13y@@;1;1;Pin13</drawItem>
-			<drawItem>textB;##ooPin13x@@+3;##ooPin13y@@;2.5;##ooPin13@@;Pin13</drawItem>
+			<drawItem>textB;##ooPin13x@@-3;##ooPin13y@@;2.5;##ooPin13@@;Pin13</drawItem>
 			
 			<drawItem>rectangle;##ooPin14x@@;##ooPin14y@@;1;1;Pin14</drawItem>
-			<drawItem>textB;##ooPin14x@@+3;##ooPin14y@@;2.5;##ooPin14@@;Pin14</drawItem>
+			<drawItem>textB;##ooPin14x@@-3;##ooPin14y@@;2.5;##ooPin14@@;Pin14</drawItem>
 			
 			<drawItem>rectangle;##ooPin15x@@;##ooPin15y@@;1;1;Pin15</drawItem>
-			<drawItem>textB;##ooPin15x@@+3;##ooPin15y@@;2.5;##ooPin15@@;Pin15</drawItem>
+			<drawItem>textB;##ooPin15x@@-3;##ooPin15y@@;2.5;##ooPin15@@;Pin15</drawItem>
 			
 			<drawItem>rectangle;##ooPin16x@@;##ooPin16y@@;1;1;Pin16</drawItem>
-			<drawItem>textB;##ooPin16x@@+3;##ooPin16y@@;2.5;##ooPin16@@;Pin16</drawItem>
+			<drawItem>textB;##ooPin16x@@-3;##ooPin16y@@;2.5;##ooPin16@@;Pin16</drawItem>
 			
 			<drawItem>rectangle;##ooPin17x@@;##ooPin17y@@;1;1;Pin17</drawItem>
-			<drawItem>textB;##ooPin17x@@+3;##ooPin17y@@;2.5;##ooPin17@@;Pin17</drawItem>
+			<drawItem>textB;##ooPin17x@@-3;##ooPin17y@@;2.5;##ooPin17@@;Pin17</drawItem>
 			
 			<drawItem>rectangle;##ooPin18x@@;##ooPin18y@@;1;1;Pin18</drawItem>
-			<drawItem>textB;##ooPin18x@@+3;##ooPin18y@@;2.5;##ooPin18@@;Pin18</drawItem>
+			<drawItem>textB;##ooPin18x@@-3;##ooPin18y@@;2.5;##ooPin18@@;Pin18</drawItem>
 			
 			<drawItem>rectangle;##ooPin19x@@;##ooPin19y@@;1;1;Pin19</drawItem>
-			<drawItem>textB;##ooPin19x@@+3;##ooPin19y@@;2.5;##ooPin19@@;Pin19</drawItem>
+			<drawItem>textB;##ooPin19x@@-3;##ooPin19y@@;2.5;##ooPin19@@;Pin19</drawItem>
 						
 			<drawItem>rectangle;##ooPin20x@@;##ooPin20y@@;1;1;Pin20</drawItem>
 			<drawItem>textB;##ooPin20x@@-3;##ooPin20y@@;2.5;##ooPin20@@;Pin20</drawItem>
