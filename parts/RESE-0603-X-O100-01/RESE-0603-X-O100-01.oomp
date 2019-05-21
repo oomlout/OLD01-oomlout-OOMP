@@ -1,8 +1,10 @@
 <xml>
 <oompPart>
 	<oompID>RESE-0603-X-O100-01</oompID>
-	<hexId>R6100</hexId>
 	<name>SMD (0603) 10 Ohm Resistor</name>
+	<hexId>R6100</hexId>
+	<ooPackageMarking>100</ooPackageMarking>
+	<oompDesc>O100</oompDesc>
 	<oompType>RESE</oompType>
 	<oompSize>0603</oompSize>
 	<oompColor>X</oompColor>

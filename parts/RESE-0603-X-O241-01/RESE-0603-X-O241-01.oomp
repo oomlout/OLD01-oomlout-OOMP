@@ -2,6 +2,8 @@
 <oompPart>
 	<oompID>RESE-0603-X-O241-01</oompID>
 	<name>SMD (0603) 240 Ohm Resistor</name>
+	<hexId>R6241</hexId>
+	<ooPackageMarking>241</ooPackageMarking>
 	<oompType>RESE</oompType>
 	<oompSize>0603</oompSize>
 	<oompColor>X</oompColor>
@@ -10,6 +12,7 @@
 	<ooWidth>0.8mm</ooWidth>
 	<ooHeight>0.45mm</ooHeight>
 	<ooLength>1.6mm</ooLength>
+
 	<sourceList>
 		<manufacturer>
 			<company>YAGEO</company>

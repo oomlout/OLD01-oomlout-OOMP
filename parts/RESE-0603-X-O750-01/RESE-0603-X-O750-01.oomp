@@ -1,8 +1,10 @@
 <xml>
 <oompPart>
 	<oompID>RESE-0603-X-O750-01</oompID>
-	<hexId>R6750</hexId>
 	<name>SMD (0603) 75 Ohm Resistor</name>
+	<hexId>R6750</hexId>
+	<ooPackageMarking>750</ooPackageMarking>
+	<oompDesc>O750</oompDesc>
 	<oompSort>06030000075</oompSort>
 	<oompType>RESE</oompType>
 	<oompSize>0603</oompSize>

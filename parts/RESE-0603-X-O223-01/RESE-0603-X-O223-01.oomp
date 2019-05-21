@@ -1,8 +1,10 @@
 <xml>
 <oompPart>
-	<oompID>RESE-0603-X-O223-01</oompID>
+	<oompID>RESE-0603-X-O223-01</oompID>>
+	<name>SMD (0603) 22k Ohm Resistor</name>
 	<hexId>R6223</hexId>
-	<name>SMD (0603) 23k Ohm Resistor</name>
+	<ooPackageMarking>223</ooPackageMarking>
+	<oompDesc>O223</oompDesc>
 	<oompType>RESE</oompType>
 	<oompSize>0603</oompSize>
 	<oompColor>X</oompColor>

@@ -1,8 +1,10 @@
 <xml>
 <oompPart>
 	<oompID>RESE-0603-X-O562-01</oompID>
-	<hexId>R6562</hexId>
 	<name>SMD (0603) 5.6k Ohm Resistor</name>
+	<hexId>R6562</hexId>
+	<ooPackageMarking>562</ooPackageMarking>
+	<oompDesc>O562</oompDesc>
 	<oompType>RESE</oompType>
 	<oompSize>0603</oompSize>
 	<oompColor>X</oompColor>
