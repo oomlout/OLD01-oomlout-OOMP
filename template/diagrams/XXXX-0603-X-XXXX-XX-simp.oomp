@@ -1,5 +1,5 @@
 	<oompTemplate>
 		<drawItem>template;XXXX-0603-X-XXXX-XX-generic</drawItem>
-		<drawItem>text;0,0.133;0.5;oom.lt/</drawItem>
-		<drawItem>text;0,-0.133;0.5;##hexID@@</drawItem>
+		<drawItem>text;0;.133;0.5;oom.lt/</drawItem>
+		<drawItem>textb;0;-0.133;0.5;##hexID@@</drawItem>
 	</oompTemplate>

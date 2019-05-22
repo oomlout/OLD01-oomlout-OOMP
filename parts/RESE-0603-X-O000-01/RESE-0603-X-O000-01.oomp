@@ -10,6 +10,7 @@
 	<oompSize>0603</oompSize>
 	<oompColor>X</oompColor>
 	<oompIndex>01</oompIndex>
+	<ooDesignator>R1</ooDesignator>
 	<oompVersion>999</oompVersion>
 	<ooWidth>0.8mm</ooWidth>
 	<ooHeight>0.45mm</ooHeight>
@@ -63,9 +64,12 @@
 			<oplLink>https://www.seeedstudio.com/opl.html?</oplLink>
 		</oplSystem>
 	</oplList>
+	<oompBbls>
+				<drawItem>template;XXXX-0603-X-XXXX-XX-bbls</drawItem>
+	</oompBbls>
 	<oompDiag>
 				<drawItem>template;XXXX-0603-X-XXXX-XX-diag</drawItem>
-			</oompDiag>
+	</oompDiag>
 	<oompIden>
 				<drawItem>template;XXXX-0603-X-XXXX-XX-iden</drawItem>
 			</oompIden>
