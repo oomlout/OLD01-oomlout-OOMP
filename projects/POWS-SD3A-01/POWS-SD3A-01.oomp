@@ -1,0 +1,64 @@
+<xml>
+	    <oompProject>
+        <index>0090</index>
+		
+<!--OOMP Base -->		
+		<oompID>POWS-SD3A-01</oompID>
+        <name>Power Supply Step Down 3A</name>
+        <hexID>POWSSD3A01</hexID>
+        <oompSort></oompSort>
+        <oompVersion>01</oompVersion>
+		<oompAbout>A step down DC-DC converter easily sourced on aliexpress.</oompAbout>
+		<oompOfficialLink></oompOfficialLink>
+<!--About -->
+		<company>Generic</company>
+		<companyCode>C-GENE</companyCode>		
+		
+		
+		<ooWidth>0.87"</ooWidth>
+		<ooHeight>0.66"</ooHeight>
+		
+		
+		<ooNumPins>8</ooNumPins>
+		
+		<ooPin1>OUT+</ooPin1>
+		<ooPin1x>0</ooPin1x>
+		<ooPin1y>0</ooPin1y>
+		
+		<ooPin2>OUT+</ooPin2>
+		<ooPin2x>0</ooPin2x>
+		<ooPin2y>-0.1"</ooPin2y>
+		
+		<ooPin3>OUT-</ooPin3>
+		<ooPin3x>0</ooPin3x>
+		<ooPin3y>-0.42"</ooPin3y>
+		
+		<ooPin4>OUT-</ooPin4>
+		<ooPin4x>0</ooPin4x>
+		<ooPin4y>-0.52"</ooPin4y>
+		
+		<ooPin5>IN-</ooPin5>
+		<ooPin5x>0.73"</ooPin5x>
+		<ooPin5y>-0.52"</ooPin5y>
+		
+		<ooPin6>IN-</ooPin6>
+		<ooPin6x>0.73"</ooPin6x>
+		<ooPin6y>-0.42"</ooPin6y>
+		
+		<ooPin7>IN+</ooPin7>
+		<ooPin7x>0.73"</ooPin7x>
+		<ooPin7y>-0.1"</ooPin7y>
+		
+		<ooPin8>IN+</ooPin8>
+		<ooPin8x>0.73"</ooPin8x>
+		<ooPin8y>0</ooPin8y>
+				
+		<oompSymbol>twoSidedPackage;##ooNumPins@@</oompSymbol>
+		<oompFootprint>uniquePackage;##ooNumPins@@;##ooWidth@@;##ooHeight@@;0.07";0.07";##ooPin1x@@;##ooPin1y@@;##ooPin1@@;##ooPin2x@@;##ooPin2y@@;##ooPin2@@;##ooPin3x@@;##ooPin3y@@;##ooPin3@@;##ooPin4x@@;##ooPin4y@@;##ooPin4@@;##ooPin5x@@;##ooPin5y@@;##ooPin5@@;##ooPin6x@@;##ooPin6y@@;##ooPin6@@;##ooPin7x@@;##ooPin7y@@;##ooPin7@@;##ooPin8x@@;##ooPin8y@@;##ooPin8@@</oompFootprint>
+		
+		
+		<oompDiag>uniquePackage;##ooNumPins@@;##ooWidth@@;##ooHeight@@;0.07";0.07";##ooPin1x@@;##ooPin1y@@;##ooPin1@@;##ooPin2x@@;##ooPin2y@@;##ooPin2@@;##ooPin3x@@;##ooPin3y@@;##ooPin3@@;##ooPin4x@@;##ooPin4y@@;##ooPin4@@;##ooPin5x@@;##ooPin5y@@;##ooPin5@@;##ooPin6x@@;##ooPin6y@@;##ooPin6@@;##ooPin7x@@;##ooPin7y@@;##ooPin7@@;##ooPin8x@@;##ooPin8y@@;##ooPin8@@</oompDiag>	
+		
+		
+		</oompProject>
+</xml>
