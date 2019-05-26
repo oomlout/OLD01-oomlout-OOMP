@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __SMD (0603) 210k Ohm Resistor 1%__    
+Name: __SMD (0603) 200k Ohm Resistor 1%__    
 ID: __RESE-0603-X-O204-67__   
 Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O204-67__   

@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __SMD (0402) 110k Ohm Resistor 1%__    
+Name: __SMD (0402) 100k Ohm Resistor 1%__    
 ID: __RESE-0402-X-O104-67__   
 Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0402-X-O104-67__   

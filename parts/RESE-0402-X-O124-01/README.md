@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __SMD (0402) 130k Ohm Resistor__    
+Name: __SMD (0402) 120k Ohm Resistor__    
 ID: __RESE-0402-X-O124-01__   
 Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0402-X-O124-01__   

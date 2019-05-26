@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __SMD (0603) 1.1M Ohm Resistor__    
+Name: __SMD (0603) 10M Ohm Resistor__    
 ID: __RESE-0603-X-O106-01__   
 Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O106-01__   

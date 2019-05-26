@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __SMD (0805) 23k Ohm Resistor 1%__    
+Name: __SMD (0805) 22k Ohm Resistor 1%__    
 ID: __RESE-0805-X-O223-67__   
 Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0805-X-O223-67__   

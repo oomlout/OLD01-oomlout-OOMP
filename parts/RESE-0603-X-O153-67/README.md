@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __SMD (0603) 16k Ohm Resistor 1%__    
+Name: __SMD (0603) 15k Ohm Resistor 1%__    
 ID: __RESE-0603-X-O153-67__   
 Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O153-67__   

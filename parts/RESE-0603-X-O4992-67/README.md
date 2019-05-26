@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __SMD (0603) 50k Ohm Resistor 1%__    
+Name: __SMD (0603) 49.9k Ohm Resistor 1%__    
 ID: __RESE-0603-X-O4992-67__   
 Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O4992-67__   

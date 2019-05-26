@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __SMD (0805) 520k Ohm Resistor__    
+Name: __SMD (0805) 510k Ohm Resistor__    
 ID: __RESE-0805-X-O514-01__   
 Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0805-X-O514-01__   

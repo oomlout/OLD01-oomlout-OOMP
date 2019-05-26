@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __SMD (0603) 40k Ohm Resistor__    
+Name: __SMD (0603) 39k Ohm Resistor__    
 ID: __RESE-0603-X-O393-01__   
 Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O393-01__   

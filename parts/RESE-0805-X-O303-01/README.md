@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __SMD (0805) 31k Ohm Resistor__    
+Name: __SMD (0805) 30k Ohm Resistor__    
 ID: __RESE-0805-X-O303-01__   
 Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0805-X-O303-01__   

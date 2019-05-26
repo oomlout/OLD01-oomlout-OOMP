@@ -2,7 +2,7 @@
 Summary
 =================
   
-Name: __SMD (0402) 520k Ohm Resistor 1%__    
+Name: __SMD (0402) 510k Ohm Resistor 1%__    
 ID: __RESE-0402-X-O514-67__   
 Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0402-X-O514-67__   
