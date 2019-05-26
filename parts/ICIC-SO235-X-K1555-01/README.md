@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (SOT-23-5) Lithium Ion Battery Charger (1 Cell) (MAX1555)__    
 ID: __ICIC-SO235-X-K1555-01__   
-Hex ID: __ICS1555__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ICIC-SO235-X-K1555-01__   
-Short URL: __http://oom.lt/ICS1555__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

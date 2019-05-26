@@ -4,9 +4,9 @@ Summary
   
 Name: __SMD (1206) 22 uF Capacitor (Tantalum) 10v__    
 ID: __CAPT-1206-X-UF22-VB__   
-Hex ID: __C1U022__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPT-1206-X-UF22-VB__   
-Short URL: __http://oom.lt/C1U022__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

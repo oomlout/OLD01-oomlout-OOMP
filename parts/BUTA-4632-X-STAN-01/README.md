@@ -4,9 +4,9 @@ Summary
   
 Name: __SMD (4632) Pushbutton (Tactile)__    
 ID: __BUTA-4632-X-STAN-01__   
-Hex ID: __BT4632__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/BUTA-4632-X-STAN-01__   
-Short URL: __http://oom.lt/BT4632__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

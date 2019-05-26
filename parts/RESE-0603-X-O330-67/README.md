@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0603) 33 Ohm Resistor 1%__    
 ID: __RESE-0603-X-O330-67__   
-Hex ID: __R6330A__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O330-67__   
-Short URL: __http://oom.lt/R6330A__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

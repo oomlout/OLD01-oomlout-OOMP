@@ -5,9 +5,9 @@ Summary
   
 Name: __32 Pin SMD (TQFP) AtMega328P__    
 ID: __ICIC-TQ32-X-K328-01__   
-Hex ID: __ICS328__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ICIC-TQ32-X-K328-01__   
-Short URL: __http://oom.lt/ICS328__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

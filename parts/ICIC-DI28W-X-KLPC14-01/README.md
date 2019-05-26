@@ -5,9 +5,9 @@ Summary
   
 Name: __28 Pin DIP (0.6") DIP LPC1114 (Cortex M0)__    
 ID: __ICIC-DI28W-X-KLPC14-01__   
-Hex ID: __ICLPC14__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ICIC-DI28W-X-KLPC14-01__   
-Short URL: __http://oom.lt/ICLPC14__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

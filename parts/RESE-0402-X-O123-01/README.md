@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0402) 12k Ohm Resistor__    
 ID: __RESE-0402-X-O123-01__   
-Hex ID: __R42123__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0402-X-O123-01__   
-Short URL: __http://oom.lt/R42123__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

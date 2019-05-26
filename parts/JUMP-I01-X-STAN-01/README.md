@@ -5,9 +5,9 @@ Summary
   
 Name: __2.54 mm Jumper__    
 ID: __JUMP-I01-X-STAN-01__   
-Hex ID: __JU01__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/JUMP-I01-X-STAN-01__   
-Short URL: __http://oom.lt/JU01__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

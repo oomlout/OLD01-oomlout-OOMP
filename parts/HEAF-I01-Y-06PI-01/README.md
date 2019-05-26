@@ -5,9 +5,9 @@ Summary
   
 Name: __2.54 mm 6 Pin Yellow Female Header__    
 ID: __HEAF-I01-Y-06PI-01__   
-Hex ID: __HF06Y__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HEAF-I01-Y-06PI-01__   
-Short URL: __http://oom.lt/HF06Y__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

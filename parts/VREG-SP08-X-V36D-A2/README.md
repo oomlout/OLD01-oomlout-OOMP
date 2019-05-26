@@ -4,9 +4,9 @@ Summary
   
 Name: __8 Pin SMD (SOP) 3.6v Voltage Regulator 2 A__    
 ID: __VREG-SP08-X-V36D-A2__   
-Hex ID: __VS836__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/VREG-SP08-X-V36D-A2__   
-Short URL: __http://oom.lt/VS836__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

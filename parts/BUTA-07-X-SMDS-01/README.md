@@ -5,9 +5,9 @@ Summary
   
 Name: __7 mm SMD Pushbutton (Tactile)__    
 ID: __BUTA-07-X-SMDS-01__   
-Hex ID: __B7S__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/BUTA-07-X-SMDS-01__   
-Short URL: __http://oom.lt/B7S__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

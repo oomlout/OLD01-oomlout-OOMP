@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0603) 100 pF Capacitor (Ceramic)__    
 ID: __CAPC-0603-X-PF100-01__   
-Hex ID: __C6P100__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0603-X-PF100-01__   
-Short URL: __http://oom.lt/C6P100__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

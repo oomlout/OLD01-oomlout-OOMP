@@ -5,9 +5,9 @@ Summary
   
 Name: __28 Pin DIP AtMega328P__    
 ID: __ICIC-DI28-X-K328-01__   
-Hex ID: __IC328__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ICIC-DI28-X-K328-01__   
-Short URL: __http://oom.lt/IC328__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

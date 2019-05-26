@@ -4,9 +4,9 @@ Summary
   
 Name: __SMD (0805) 470 Ohm Ferrite Bead__    
 ID: __FERB-0805-X-O471-01__   
-Hex ID: __F85471__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/FERB-0805-X-O471-01__   
-Short URL: __http://oom.lt/F85471__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

@@ -5,9 +5,9 @@ Summary
   
 Name: __2.54 mm 5 Pin Black Crimp Housing__    
 ID: __CRHO-I01-B-05PI-01__   
-Hex ID: __CH05__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CRHO-I01-B-05PI-01__   
-Short URL: __http://oom.lt/CH05__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

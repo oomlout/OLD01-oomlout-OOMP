@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0402) 910k Ohm Resistor__    
 ID: __RESE-0402-X-O914-01__   
-Hex ID: __R42914__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0402-X-O914-01__   
-Short URL: __http://oom.lt/R42914__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

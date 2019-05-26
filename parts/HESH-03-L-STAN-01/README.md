@@ -5,9 +5,9 @@ Summary
   
 Name: __3 mm Blue Heat Shrink__    
 ID: __HESH-03-L-STAN-01__   
-Hex ID: __HS3L__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HESH-03-L-STAN-01__   
-Short URL: __http://oom.lt/HS3L__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (DO-214) 1 Amp Diode (Schottky)__    
 ID: __DIOS-D214-X-A01-01__   
-Hex ID: __DS201__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/DIOS-D214-X-A01-01__   
-Short URL: __http://oom.lt/DS201__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

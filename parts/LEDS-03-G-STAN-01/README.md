@@ -5,9 +5,9 @@ Summary
   
 Name: __3 mm Green LED__    
 ID: __LEDS-03-G-STAN-01__   
-Hex ID: __L3G__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/LEDS-03-G-STAN-01__   
-Short URL: __http://oom.lt/L3G__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

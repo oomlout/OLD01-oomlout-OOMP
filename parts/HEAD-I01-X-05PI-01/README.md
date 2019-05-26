@@ -5,9 +5,9 @@ Summary
   
 Name: __2.54 mm 5 Pin Header__    
 ID: __HEAD-I01-X-05PI-01__   
-Hex ID: __H05__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HEAD-I01-X-05PI-01__   
-Short URL: __http://oom.lt/H05__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

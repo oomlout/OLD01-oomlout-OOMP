@@ -5,9 +5,9 @@ Summary
   
 Name: __Mini SMD USB Socket__    
 ID: __USBS-MN-M-SMDS-02__   
-Hex ID: __USN2__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/USBS-MN-M-SMDS-02__   
-Short URL: __http://oom.lt/USN2__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

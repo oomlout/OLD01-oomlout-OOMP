@@ -5,9 +5,9 @@ Summary
   
 Name: __6.3 mm 100 uF Capacitor (Electrolytic) 25v__    
 ID: __CAPE-63D-X-UF100-VA__   
-Hex ID: __CEU100__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPE-63D-X-UF100-VA__   
-Short URL: __http://oom.lt/CEU100__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

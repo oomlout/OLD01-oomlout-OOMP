@@ -5,9 +5,9 @@ Summary
   
 Name: __11 mm 16 MHz Crystal__    
 ID: __XTAL-11-X-MZ16-01__   
-Hex ID: __XT16__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/XTAL-11-X-MZ16-01__   
-Short URL: __http://oom.lt/XT16__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

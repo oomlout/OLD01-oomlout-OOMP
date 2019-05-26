@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (DO-214) 5 Amp Diode (Schottky)__    
 ID: __DIOS-D214-X-A05-01__   
-Hex ID: __DS205__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/DIOS-D214-X-A05-01__   
-Short URL: __http://oom.lt/DS205__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

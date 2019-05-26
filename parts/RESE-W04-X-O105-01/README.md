@@ -5,9 +5,9 @@ Summary
   
 Name: __1/4 Watt 1M Ohm Resistor__    
 ID: __RESE-W04-X-O105-01__   
-Hex ID: __R4105__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-W04-X-O105-01__   
-Short URL: __http://oom.lt/R4105__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

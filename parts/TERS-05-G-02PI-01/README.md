@@ -5,9 +5,9 @@ Summary
   
 Name: __5 mm 2 Pin Green Screw Terminal__    
 ID: __TERS-05-G-02PI-01__   
-Hex ID: __ST502G__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/TERS-05-G-02PI-01__   
-Short URL: __http://oom.lt/ST502G__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

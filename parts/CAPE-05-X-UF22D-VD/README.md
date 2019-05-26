@@ -5,9 +5,9 @@ Summary
   
 Name: __5 mm 2.2 uF Capacitor (Electrolytic) 63v__    
 ID: __CAPE-05-X-UF22D-VD__   
-Hex ID: __CEU002__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPE-05-X-UF22D-VD__   
-Short URL: __http://oom.lt/CEU002__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

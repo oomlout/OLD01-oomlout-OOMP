@@ -5,9 +5,9 @@ Summary
   
 Name: __14 Pin SMD (LGA) Digital Accelerometer (ADXL345)__    
 ID: __ICIC-LG14-X-K345-01__   
-Hex ID: __ICS345__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ICIC-LG14-X-K345-01__   
-Short URL: __http://oom.lt/ICS345__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

@@ -4,9 +4,9 @@ Summary
   
 Name: __32 Pin SMD (QFN) AtMega168P__    
 ID: __ICIC-QFN32-X-K168-01__   
-Hex ID: __ICSQ168__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ICIC-QFN32-X-K168-01__   
-Short URL: __http://oom.lt/ICSQ168__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

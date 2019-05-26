@@ -5,9 +5,9 @@ Summary
   
 Name: __1/4 Watt 3.3k Ohm Resistor__    
 ID: __RESE-W04-X-O332-01__   
-Hex ID: __R4332__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-W04-X-O332-01__   
-Short URL: __http://oom.lt/R4332__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

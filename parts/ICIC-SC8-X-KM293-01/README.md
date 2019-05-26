@@ -5,9 +5,9 @@ Summary
   
 Name: __8 Pin SMD (SOIC) Dual Differential Comparator (LM293)__    
 ID: __ICIC-SC8-X-KM293-01__   
-Hex ID: __ICSM293__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ICIC-SC8-X-KM293-01__   
-Short URL: __http://oom.lt/ICSM293__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

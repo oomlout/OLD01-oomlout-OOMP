@@ -5,9 +5,9 @@ Summary
   
 Name: __12 mm Pushbutton (Tactile)__    
 ID: __BUTA-12-X-STAN-01__   
-Hex ID: __BT12__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/BUTA-12-X-STAN-01__   
-Short URL: __http://oom.lt/BT12__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

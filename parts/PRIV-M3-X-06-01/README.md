@@ -5,9 +5,9 @@ Summary
   
 Name: __M3 x 6 mm Plastic Rivet__    
 ID: __PRIV-M3-X-06-01__   
-Hex ID: __PR36__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/PRIV-M3-X-06-01__   
-Short URL: __http://oom.lt/PR36__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

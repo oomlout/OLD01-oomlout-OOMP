@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0805) 2.2 uF Capacitor (Ceramic)__    
 ID: __CAPC-0805-X-UF22D-01__   
-Hex ID: __C85U002__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0805-X-UF22D-01__   
-Short URL: __http://oom.lt/C85U002__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

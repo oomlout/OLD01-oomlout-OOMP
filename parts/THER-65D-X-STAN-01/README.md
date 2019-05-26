@@ -5,9 +5,9 @@ Summary
   
 Name: __6.5 mm Thermistor__    
 ID: __THER-65D-X-STAN-01__   
-Hex ID: __TH65D__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/THER-65D-X-STAN-01__   
-Short URL: __http://oom.lt/TH65D__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

@@ -5,9 +5,9 @@ Summary
   
 Name: __5 mm 1 uF Capacitor (Electrolytic) 63v__    
 ID: __CAPE-05-X-UF1-VD__   
-Hex ID: __CEU001__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPE-05-X-UF1-VD__   
-Short URL: __http://oom.lt/CEU001__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

@@ -5,9 +5,9 @@ Summary
   
 Name: __5.5 mm 22 pF Capacitor (Ceramic) 50v__    
 ID: __CAPC-55D-X-PF22-VC__   
-Hex ID: __CCP022__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-55D-X-PF22-VC__   
-Short URL: __http://oom.lt/CCP022__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

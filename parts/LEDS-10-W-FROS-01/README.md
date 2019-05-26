@@ -5,9 +5,9 @@ Summary
   
 Name: __10 mm Frosted White LED__    
 ID: __LEDS-10-W-FROS-01__   
-Hex ID: __L10W__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/LEDS-10-W-FROS-01__   
-Short URL: __http://oom.lt/L10W__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

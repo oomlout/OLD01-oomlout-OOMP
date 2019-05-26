@@ -4,9 +4,9 @@ Summary
   
 Name: __SMD (SOT-23F) 6 Amp P-Ch. MOSFET__    
 ID: __MOSP-SO23F-X-A06-01__   
-Hex ID: __MP2F6__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/MOSP-SO23F-X-A06-01__   
-Short URL: __http://oom.lt/MP2F6__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

@@ -5,9 +5,9 @@ Summary
   
 Name: __10 mm 470 uF Capacitor (Electrolytic) 25v__    
 ID: __CAPE-10-X-UF470-VA__   
-Hex ID: __CEU470__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPE-10-X-UF470-VA__   
-Short URL: __http://oom.lt/CEU470__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

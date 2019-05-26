@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (SOT-23) 4.1 Amp P-Ch. MOSFET__    
 ID: __MOSP-SO23-X-A41D-01__   
-Hex ID: __MPS241D__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/MOSP-SO23-X-A41D-01__   
-Short URL: __http://oom.lt/MPS241D__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (Power SO-20) Dual H-Bridge (L298) 4 A__    
 ID: __ICIC-PS20-X-KL298-A4__   
-Hex ID: __ICS298__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ICIC-PS20-X-KL298-A4__   
-Short URL: __http://oom.lt/ICS298__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

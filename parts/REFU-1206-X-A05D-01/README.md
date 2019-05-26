@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (1206) 500 mA Resetable Fuse__    
 ID: __REFU-1206-X-A05D-01__   
-Hex ID: __RF1205__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/REFU-1206-X-A05D-01__   
-Short URL: __http://oom.lt/RF1205__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

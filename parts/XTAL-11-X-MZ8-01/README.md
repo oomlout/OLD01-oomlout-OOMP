@@ -5,9 +5,9 @@ Summary
   
 Name: __11 mm 8 MHz Crystal__    
 ID: __XTAL-11-X-MZ8-01__   
-Hex ID: __XT8__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/XTAL-11-X-MZ8-01__   
-Short URL: __http://oom.lt/XT8__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

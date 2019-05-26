@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (SOT-23) Adjustable Voltage Regulator 200 mA__    
 ID: __VREG-SO23-X-ADJU-AE__   
-Hex ID: __VS3A2D__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/VREG-SO23-X-ADJU-AE__   
-Short URL: __http://oom.lt/VS3A2D__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

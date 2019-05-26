@@ -5,9 +5,9 @@ Summary
   
 Name: __M3 x 15 mm Nylon Standoff (F-F)__    
 ID: __NHFF-M3-X-15-01__   
-Hex ID: __NFF15__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/NHFF-M3-X-15-01__   
-Short URL: __http://oom.lt/NFF15__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

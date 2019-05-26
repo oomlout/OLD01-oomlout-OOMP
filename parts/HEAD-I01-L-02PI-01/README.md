@@ -5,9 +5,9 @@ Summary
   
 Name: __2.54 mm 2 Pin Blue Header__    
 ID: __HEAD-I01-L-02PI-01__   
-Hex ID: __H02L__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HEAD-I01-L-02PI-01__   
-Short URL: __http://oom.lt/H02L__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

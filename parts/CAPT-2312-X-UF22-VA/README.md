@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (2312) 22 uF Capacitor (Tantalum) 25v__    
 ID: __CAPT-2312-X-UF22-VA__   
-Hex ID: __CTS3U022__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPT-2312-X-UF22-VA__   
-Short URL: __http://oom.lt/CTS3U022__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

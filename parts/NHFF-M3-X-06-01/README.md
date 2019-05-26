@@ -5,9 +5,9 @@ Summary
   
 Name: __M3 x 6 mm Nylon Standoff (F-F)__    
 ID: __NHFF-M3-X-06-01__   
-Hex ID: __NFF06__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/NHFF-M3-X-06-01__   
-Short URL: __http://oom.lt/NFF06__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

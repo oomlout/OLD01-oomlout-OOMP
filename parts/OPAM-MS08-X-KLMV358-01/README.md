@@ -5,9 +5,9 @@ Summary
   
 Name: __8 Pin SMD (MSOP) LMV358 Op Amp__    
 ID: __OPAM-MS08-X-KLMV358-01__   
-Hex ID: __OAM358__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/OPAM-MS08-X-KLMV358-01__   
-Short URL: __http://oom.lt/OAM358__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

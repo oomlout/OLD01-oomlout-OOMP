@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0603) 8.2 pF Capacitor (Ceramic)__    
 ID: __CAPC-0603-X-PF82D-01__   
-Hex ID: __C6P008__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0603-X-PF82D-01__   
-Short URL: __http://oom.lt/C6P008__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

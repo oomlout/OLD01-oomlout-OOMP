@@ -5,9 +5,9 @@ Summary
   
 Name: __16 Pin SMD (SOIC Wide) CAN Controller SPI (MCP2515)__    
 ID: __ICIC-SC16W-X-K2515-01__   
-Hex ID: __ICS2515__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ICIC-SC16W-X-K2515-01__   
-Short URL: __http://oom.lt/ICS2515__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

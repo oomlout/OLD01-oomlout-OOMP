@@ -5,9 +5,9 @@ Summary
   
 Name: __28 AWG Green Stranded Wire__    
 ID: __WIRS-G28-G-STAN-01__   
-Hex ID: __W2G__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/WIRS-G28-G-STAN-01__   
-Short URL: __http://oom.lt/W2G__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

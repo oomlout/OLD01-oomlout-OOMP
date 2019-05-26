@@ -4,9 +4,9 @@ Summary
   
 Name: __9.2 mm PIRS Sensor__    
 ID: __SENS-92D-X-PIRS-01__   
-Hex ID: __SEPI__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/SENS-92D-X-PIRS-01__   
-Short URL: __http://oom.lt/SEPI__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

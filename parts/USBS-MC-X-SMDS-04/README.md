@@ -4,9 +4,9 @@ Summary
   
 Name: __Micro SMD USB Socket__    
 ID: __USBS-MC-X-SMDS-04__   
-Hex ID: __USM4__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/USBS-MC-X-SMDS-04__   
-Short URL: __http://oom.lt/USM4__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

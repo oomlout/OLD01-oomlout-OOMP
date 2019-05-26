@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0402) 100 nF Capacitor (Ceramic)__    
 ID: __CAPC-0402-X-NF100-01__   
-Hex ID: __R42N100__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0402-X-NF100-01__   
-Short URL: __http://oom.lt/R42N100__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

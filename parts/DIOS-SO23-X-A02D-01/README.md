@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (SOT-23) 200 mA Diode (Schottky)__    
 ID: __DIOS-SO23-X-A02D-01__   
-Hex ID: __DS22D__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/DIOS-SO23-X-A02D-01__   
-Short URL: __http://oom.lt/DS22D__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

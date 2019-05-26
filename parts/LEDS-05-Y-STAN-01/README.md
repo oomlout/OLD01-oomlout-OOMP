@@ -5,9 +5,9 @@ Summary
   
 Name: __5 mm Yellow LED__    
 ID: __LEDS-05-Y-STAN-01__   
-Hex ID: __L5Y__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/LEDS-05-Y-STAN-01__   
-Short URL: __http://oom.lt/L5Y__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

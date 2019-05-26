@@ -4,9 +4,9 @@ Summary
   
 Name: __48 Pin SMD (QFN) nRF51822 (Bluetooth MCU)__    
 ID: __ICIC-QFN48-X-KRF822-01__   
-Hex ID: __IC822__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ICIC-QFN48-X-KRF822-01__   
-Short URL: __http://oom.lt/IC822__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

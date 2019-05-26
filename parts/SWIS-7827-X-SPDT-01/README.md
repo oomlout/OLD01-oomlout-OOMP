@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (7827) SPDT Switch (Slide)__    
 ID: __SWIS-7827-X-SPDT-01__   
-Hex ID: __SS7827__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/SWIS-7827-X-SPDT-01__   
-Short URL: __http://oom.lt/SS7827__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

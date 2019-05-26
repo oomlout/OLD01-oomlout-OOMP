@@ -5,9 +5,9 @@ Summary
   
 Name: __2 mm 4 Pin JST Socket SMD__    
 ID: __JSTS-02-X-04PI-SM__   
-Hex ID: __J204S__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/JSTS-02-X-04PI-SM__   
-Short URL: __http://oom.lt/J204S__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

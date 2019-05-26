@@ -5,9 +5,9 @@ Summary
   
 Name: __CR1220 SMD Metal Battery Holder__    
 ID: __BAHO-CR1220-M-SMDS-01__   
-Hex ID: __BHS1220M__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/BAHO-CR1220-M-SMDS-01__   
-Short URL: __http://oom.lt/BHS1220M__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

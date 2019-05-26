@@ -5,9 +5,9 @@ Summary
   
 Name: __2 mm 4 Pin JST Socket Right Angle__    
 ID: __JSTS-02-X-04PI-RA__   
-Hex ID: __J204R__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/JSTS-02-X-04PI-RA__   
-Short URL: __http://oom.lt/J204R__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

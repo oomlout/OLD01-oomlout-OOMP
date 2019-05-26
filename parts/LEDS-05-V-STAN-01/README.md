@@ -4,9 +4,9 @@ Summary
   
 Name: __5 mm Purple LED__    
 ID: __LEDS-05-V-STAN-01__   
-Hex ID: __L5V__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/LEDS-05-V-STAN-01__   
-Short URL: __http://oom.lt/L5V__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

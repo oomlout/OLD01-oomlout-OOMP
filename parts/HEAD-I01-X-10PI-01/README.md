@@ -5,9 +5,9 @@ Summary
   
 Name: __2.54 mm 10 Pin Header__    
 ID: __HEAD-I01-X-10PI-01__   
-Hex ID: __H10__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HEAD-I01-X-10PI-01__   
-Short URL: __http://oom.lt/H10__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

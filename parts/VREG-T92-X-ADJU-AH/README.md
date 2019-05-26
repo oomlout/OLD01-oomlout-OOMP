@@ -5,9 +5,9 @@ Summary
   
 Name: __TO-92 Adjustable Voltage Regulator 100 mA__    
 ID: __VREG-T92-X-ADJU-AH__   
-Hex ID: __V92A__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/VREG-T92-X-ADJU-AH__   
-Short URL: __http://oom.lt/V92A__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

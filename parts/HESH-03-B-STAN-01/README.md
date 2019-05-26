@@ -5,9 +5,9 @@ Summary
   
 Name: __3 mm Black Heat Shrink__    
 ID: __HESH-03-B-STAN-01__   
-Hex ID: __HS3B__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HESH-03-B-STAN-01__   
-Short URL: __http://oom.lt/HS3B__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

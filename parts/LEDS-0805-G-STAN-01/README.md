@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0805) Green LED__    
 ID: __LEDS-0805-G-STAN-01__   
-Hex ID: __L85G__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/LEDS-0805-G-STAN-01__   
-Short URL: __http://oom.lt/L85G__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

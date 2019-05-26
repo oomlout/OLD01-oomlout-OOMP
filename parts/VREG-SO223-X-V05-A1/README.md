@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (SOT-223) 5v Voltage Regulator 1 A__    
 ID: __VREG-SO223-X-V05-A1__   
-Hex ID: __VS251__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/VREG-SO223-X-V05-A1__   
-Short URL: __http://oom.lt/VS251__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

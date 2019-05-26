@@ -4,9 +4,9 @@ Summary
   
 Name: __7 mm 1k Ohm Potentiometer__    
 ID: __POTE-07-X-O102-01__   
-Hex ID: __PT7102__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/POTE-07-X-O102-01__   
-Short URL: __http://oom.lt/PT7102__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

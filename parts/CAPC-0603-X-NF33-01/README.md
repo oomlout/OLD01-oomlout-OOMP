@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0603) 33 nF Capacitor (Ceramic)__    
 ID: __CAPC-0603-X-NF33-01__   
-Hex ID: __C6N033__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0603-X-NF33-01__   
-Short URL: __http://oom.lt/C6N033__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

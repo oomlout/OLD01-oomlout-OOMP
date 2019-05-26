@@ -5,9 +5,9 @@ Summary
   
 Name: __6 mm Badge Pin__    
 ID: __BAPI-06-X-STAN-01__   
-Hex ID: __BAPI__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/BAPI-06-X-STAN-01__   
-Short URL: __http://oom.lt/BAPI__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

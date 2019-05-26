@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0603) 3.6 Ohm Resistor__    
 ID: __RESE-0603-X-O036D-01__   
-Hex ID: __R6036D__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O036D-01__   
-Short URL: __http://oom.lt/R6036D__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

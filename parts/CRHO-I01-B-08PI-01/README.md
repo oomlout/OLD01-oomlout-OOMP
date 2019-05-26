@@ -5,9 +5,9 @@ Summary
   
 Name: __2.54 mm 8 Pin Black Crimp Housing__    
 ID: __CRHO-I01-B-08PI-01__   
-Hex ID: __CH08__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CRHO-I01-B-08PI-01__   
-Short URL: __http://oom.lt/CH08__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

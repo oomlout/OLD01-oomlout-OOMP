@@ -5,9 +5,9 @@ Summary
   
 Name: __M3 x 20 mm Nylon Standoff (F-F)__    
 ID: __NHFF-M3-X-20-01__   
-Hex ID: __NFF20__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/NHFF-M3-X-20-01__   
-Short URL: __http://oom.lt/NFF20__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

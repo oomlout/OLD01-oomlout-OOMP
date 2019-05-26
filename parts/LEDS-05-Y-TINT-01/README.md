@@ -5,9 +5,9 @@ Summary
   
 Name: __5 mm Tinted Yellow LED__    
 ID: __LEDS-05-Y-TINT-01__   
-Hex ID: __LT5Y__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/LEDS-05-Y-TINT-01__   
-Short URL: __http://oom.lt/LT5Y__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (SOD-123) ESD Protection Diode__    
 ID: __DIOD-S123-X-ESDP-01__   
-Hex ID: __DS3EP__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/DIOD-S123-X-ESDP-01__   
-Short URL: __http://oom.lt/DS3EP__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

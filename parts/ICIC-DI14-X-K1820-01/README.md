@@ -4,9 +4,9 @@ Summary
   
 Name: __14 Pin DIP Voice Recorder (ISD1820P)__    
 ID: __ICIC-DI14-X-K1820-01__   
-Hex ID: __IC1820P__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ICIC-DI14-X-K1820-01__   
-Short URL: __http://oom.lt/IC1820P__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

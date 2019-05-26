@@ -5,9 +5,9 @@ Summary
   
 Name: __17 mm 100k Ohm Potentiometer Panel Mount__    
 ID: __POTE-17-X-O104-69__   
-Hex ID: __PT7104__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/POTE-17-X-O104-69__   
-Short URL: __http://oom.lt/PT7104__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

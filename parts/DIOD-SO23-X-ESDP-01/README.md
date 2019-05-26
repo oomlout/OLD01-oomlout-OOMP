@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (SOT-23) ESD Protection Diode__    
 ID: __DIOD-SO23-X-ESDP-01__   
-Hex ID: __DS2EP__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/DIOD-SO23-X-ESDP-01__   
-Short URL: __http://oom.lt/DS2EP__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

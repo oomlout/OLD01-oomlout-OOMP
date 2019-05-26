@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (SOIC-8) LM358 Op Amp__    
 ID: __OPAM-SC8-X-KLM358-01__   
-Hex ID: __OAS358__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/OPAM-SC8-X-KLM358-01__   
-Short URL: __http://oom.lt/OAS358__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

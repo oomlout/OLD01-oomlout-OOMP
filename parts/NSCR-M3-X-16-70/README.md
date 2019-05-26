@@ -5,9 +5,9 @@ Summary
   
 Name: __M3 x 16 mm Nylon Screw Cross Head__    
 ID: __NSCR-M3-X-16-70__   
-Hex ID: __NS16__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/NSCR-M3-X-16-70__   
-Short URL: __http://oom.lt/NS16__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

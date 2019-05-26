@@ -4,9 +4,9 @@ Summary
   
 Name: __5 mm 100 nF Capacitor (Ceramic)__    
 ID: __CAPC-05-X-NF100-01__   
-Hex ID: __CCN100__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-05-X-NF100-01__   
-Short URL: __http://oom.lt/CCN100__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (1210) 750 mA Resetable Fuse 6v__    
 ID: __REFU-1210-X-A075D-V6__   
-Hex ID: __RF1175D__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/REFU-1210-X-A075D-V6__   
-Short URL: __http://oom.lt/RF1175D__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

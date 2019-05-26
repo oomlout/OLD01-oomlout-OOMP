@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0603) 22 nF Capacitor (Ceramic)__    
 ID: __CAPC-0603-X-NF22-01__   
-Hex ID: __C6N022__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0603-X-NF22-01__   
-Short URL: __http://oom.lt/C6N022__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

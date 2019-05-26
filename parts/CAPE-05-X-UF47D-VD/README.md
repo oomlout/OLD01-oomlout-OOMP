@@ -5,9 +5,9 @@ Summary
   
 Name: __5 mm 4.7 uF Capacitor (Electrolytic) 63v__    
 ID: __CAPE-05-X-UF47D-VD__   
-Hex ID: __CEU004__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPE-05-X-UF47D-VD__   
-Short URL: __http://oom.lt/CEU004__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0603) 12 pF Capacitor (Ceramic)__    
 ID: __CAPC-0603-X-PF12-01__   
-Hex ID: __C6P012__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0603-X-PF12-01__   
-Short URL: __http://oom.lt/C6P012__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

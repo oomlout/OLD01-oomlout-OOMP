@@ -5,9 +5,9 @@ Summary
   
 Name: __2.54 mm 6 Pin (2x3) Blue Header__    
 ID: __HEAD-I01-L-2X03PI-01__   
-Hex ID: __H2X03L__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HEAD-I01-L-2X03PI-01__   
-Short URL: __http://oom.lt/H2X03L__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

@@ -5,9 +5,9 @@ Summary
   
 Name: __44 Pin SMD (TQFP) AtMega32U4__    
 ID: __ICIC-QFP44-X-K32U4-01__   
-Hex ID: __ICSQ32U4__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ICIC-QFP44-X-K32U4-01__   
-Short URL: __http://oom.lt/ICSQ32U4__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

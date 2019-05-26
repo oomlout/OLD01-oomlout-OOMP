@@ -5,9 +5,9 @@ Summary
   
 Name: __1.5 mm Brown Heat Shrink__    
 ID: __HESH-15D-N-STAN-01__   
-Hex ID: __HS1N__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HESH-15D-N-STAN-01__   
-Short URL: __http://oom.lt/HS1N__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

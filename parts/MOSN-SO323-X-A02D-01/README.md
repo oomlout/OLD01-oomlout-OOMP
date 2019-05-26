@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (SOT-323) 200 mA N-Ch. MOSFET__    
 ID: __MOSN-SO323-X-A02D-01__   
-Hex ID: __MNS22D__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/MOSN-SO323-X-A02D-01__   
-Short URL: __http://oom.lt/MNS22D__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

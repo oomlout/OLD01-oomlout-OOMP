@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0402) 10 nF Capacitor (Ceramic)__    
 ID: __CAPC-0402-X-NF10-01__   
-Hex ID: __C42N010__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0402-X-NF10-01__   
-Short URL: __http://oom.lt/C42N010__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

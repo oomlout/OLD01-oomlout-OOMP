@@ -5,9 +5,9 @@ Summary
   
 Name: __M3 Nut__    
 ID: __NUTT-M3-M-STAN-01__   
-Hex ID: __NU3__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/NUTT-M3-M-STAN-01__   
-Short URL: __http://oom.lt/NU3__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

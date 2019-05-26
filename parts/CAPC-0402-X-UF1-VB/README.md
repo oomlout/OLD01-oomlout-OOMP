@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0402) 1 uF Capacitor (Ceramic) 10v__    
 ID: __CAPC-0402-X-UF1-VB__   
-Hex ID: __C42U001__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0402-X-UF1-VB__   
-Short URL: __http://oom.lt/C42U001__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

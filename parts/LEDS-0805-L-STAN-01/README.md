@@ -4,9 +4,9 @@ Summary
   
 Name: __SMD (0805) Blue LED__    
 ID: __LEDS-0805-L-STAN-01__   
-Hex ID: __L85L__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/LEDS-0805-L-STAN-01__   
-Short URL: __http://oom.lt/L85L__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

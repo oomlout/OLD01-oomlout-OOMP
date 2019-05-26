@@ -4,9 +4,9 @@ Summary
   
 Name: __ 7 mm Pushbutton Panel Mount __    
 ID: __BUTP-07-X-STAN-69__   
-Hex ID: __BP07__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/BUTP-07-X-STAN-69__   
-Short URL: __http://oom.lt/BP07__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================

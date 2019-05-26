@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0402) 10 pF Capacitor (Ceramic)__    
 ID: __CAPC-0402-X-PF10-01__   
-Hex ID: __C42P010__   
+Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0402-X-PF10-01__   
-Short URL: __http://oom.lt/C42P010__   
+Short URL: __http://oom.lt/__   
 
 Full Details
 ==========================
