@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0402) 110k Ohm Resistor__    
 ID: __RESE-0402-X-O104-01__   
-Hex ID: ____   
+Hex ID: __R42104__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0402-X-O104-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/R42104__   
 
 Full Details
 ==========================

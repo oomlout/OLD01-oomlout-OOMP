@@ -4,9 +4,9 @@ Summary
   
 Name: __SMD (0603) 100k Ohm Thermistor__    
 ID: __THER-0603-X-O104-01__   
-Hex ID: ____   
+Hex ID: __TH6__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/THER-0603-X-O104-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/TH6__   
 
 Full Details
 ==========================

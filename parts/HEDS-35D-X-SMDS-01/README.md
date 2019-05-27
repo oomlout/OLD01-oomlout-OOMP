@@ -5,9 +5,9 @@ Summary
   
 Name: __3.5 mm SMD Headphone Socket__    
 ID: __HEDS-35D-X-SMDS-01__   
-Hex ID: ____   
+Hex ID: __10C1__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HEDS-35D-X-SMDS-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/10C1__   
 
 Full Details
 ==========================

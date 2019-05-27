@@ -5,9 +5,9 @@ Summary
   
 Name: __6 mm 10 uH Inductor__    
 ID: __INDU-06-X-UH10-01__   
-Hex ID: ____   
+Hex ID: __IN06U10__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/INDU-06-X-UH10-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/IN06U10__   
 
 Full Details
 ==========================

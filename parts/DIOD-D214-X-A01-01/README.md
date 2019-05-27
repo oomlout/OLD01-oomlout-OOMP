@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (DO-214) 1 Amp Diode__    
 ID: __DIOD-D214-X-A01-01__   
-Hex ID: ____   
+Hex ID: __DS201__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/DIOD-D214-X-A01-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/DS201__   
 
 Full Details
 ==========================

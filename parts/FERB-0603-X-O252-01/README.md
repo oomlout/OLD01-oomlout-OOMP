@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0603) 2.5k Ohm Ferrite Bead__    
 ID: __FERB-0603-X-O252-01__   
-Hex ID: ____   
+Hex ID: __F6252__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/FERB-0603-X-O252-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/F6252__   
 
 Full Details
 ==========================

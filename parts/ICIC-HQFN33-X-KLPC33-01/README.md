@@ -4,9 +4,9 @@ Summary
   
 Name: __33 Pin SMD (Heatsink QFN) LPC11U35FHI33 (Cortex M0)__    
 ID: __ICIC-HQFN33-X-KLPC33-01__   
-Hex ID: ____   
+Hex ID: __ICSLPC33__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ICIC-HQFN33-X-KLPC33-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/ICSLPC33__   
 
 Full Details
 ==========================

@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0603) 200 Ohm Resistor__    
 ID: __RESE-0603-X-O201-01__   
-Hex ID: ____   
+Hex ID: __R6201__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O201-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/R6201__   
 
 Full Details
 ==========================

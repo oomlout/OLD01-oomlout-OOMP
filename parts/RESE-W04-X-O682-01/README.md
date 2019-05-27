@@ -5,9 +5,9 @@ Summary
   
 Name: __1/4 Watt 6.8k Ohm Resistor__    
 ID: __RESE-W04-X-O682-01__   
-Hex ID: ____   
+Hex ID: __R4682__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-W04-X-O682-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/R4682__   
 
 Full Details
 ==========================

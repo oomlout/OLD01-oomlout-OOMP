@@ -4,9 +4,9 @@ Summary
   
 Name: __SMD (0805) 6.8k Ohm Resistor__    
 ID: __RESE-0805-X-O682-01__   
-Hex ID: ____   
+Hex ID: __R85682__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0805-X-O682-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/R85682__   
 
 Full Details
 ==========================

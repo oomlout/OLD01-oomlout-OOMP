@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0603) 220 nF Capacitor (Ceramic)__    
 ID: __CAPC-0603-X-NF220-01__   
-Hex ID: ____   
+Hex ID: __C6N220__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0603-X-NF220-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/C6N220__   
 
 Full Details
 ==========================

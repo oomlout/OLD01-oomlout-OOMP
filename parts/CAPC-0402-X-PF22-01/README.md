@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0402) 22 pF Capacitor (Ceramic)__    
 ID: __CAPC-0402-X-PF22-01__   
-Hex ID: ____   
+Hex ID: __R42P022__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0402-X-PF22-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/R42P022__   
 
 Full Details
 ==========================

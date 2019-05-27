@@ -5,9 +5,9 @@ Summary
   
 Name: __7.62 mm 1 Amp Diode 50v__    
 ID: __DIOD-I03-X-A01-VC__   
-Hex ID: ____   
+Hex ID: __DT01__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/DIOD-I03-X-A01-VC__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/DT01__   
 
 Full Details
 ==========================

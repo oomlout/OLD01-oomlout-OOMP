@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (1206) 10 uF Capacitor (Tantalum) 16v__    
 ID: __CAPT-1206-X-UF10-VF__   
-Hex ID: ____   
+Hex ID: __CTS1U010F__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPT-1206-X-UF10-VF__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/CTS1U010F__   
 
 Full Details
 ==========================

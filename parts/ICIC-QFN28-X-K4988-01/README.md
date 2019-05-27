@@ -4,9 +4,9 @@ Summary
   
 Name: __28 Pin SMD (QFN) Stepper Motor Driver (A4988)__    
 ID: __ICIC-QFN28-X-K4988-01__   
-Hex ID: ____   
+Hex ID: __IC4988__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ICIC-QFN28-X-K4988-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/IC4988__   
 
 Full Details
 ==========================

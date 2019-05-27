@@ -5,9 +5,9 @@ Summary
   
 Name: __1/4 Watt 470 Ohm Resistor__    
 ID: __RESE-W04-X-O471-01__   
-Hex ID: ____   
+Hex ID: __R4471__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-W04-X-O471-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/R4471__   
 
 Full Details
 ==========================

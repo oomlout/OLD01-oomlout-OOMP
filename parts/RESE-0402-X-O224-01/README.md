@@ -4,9 +4,9 @@ Summary
   
 Name: __SMD (0402) 220k Ohm Resistor__    
 ID: __RESE-0402-X-O224-01__   
-Hex ID: ____   
+Hex ID: __R42224__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0402-X-O224-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/R42224__   
 
 Full Details
 ==========================

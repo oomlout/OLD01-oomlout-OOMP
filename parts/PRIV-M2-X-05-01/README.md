@@ -4,9 +4,9 @@ Summary
   
 Name: __M2 x 5 mm Plastic Rivet__    
 ID: __PRIV-M2-X-05-01__   
-Hex ID: ____   
+Hex ID: __PR25__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/PRIV-M2-X-05-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/PR25__   
 
 Full Details
 ==========================

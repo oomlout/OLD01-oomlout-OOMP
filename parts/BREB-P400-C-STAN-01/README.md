@@ -5,9 +5,9 @@ Summary
   
 Name: __400 Point Clear Breadboard__    
 ID: __BREB-P400-C-STAN-01__   
-Hex ID: ____   
+Hex ID: __BB4C__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/BREB-P400-C-STAN-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/BB4C__   
 
 Full Details
 ==========================

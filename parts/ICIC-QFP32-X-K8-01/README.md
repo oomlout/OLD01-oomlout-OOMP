@@ -5,9 +5,9 @@ Summary
   
 Name: __32 Pin SMD (TQFP) AtMega8A__    
 ID: __ICIC-QFP32-X-K8-01__   
-Hex ID: ____   
+Hex ID: __ICS008__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ICIC-QFP32-X-K8-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/ICS008__   
 
 Full Details
 ==========================

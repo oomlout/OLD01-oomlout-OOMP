@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0402) Blue LED__    
 ID: __LEDS-0402-L-STAN-01__   
-Hex ID: ____   
+Hex ID: __L42L__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/LEDS-0402-L-STAN-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/L42L__   
 
 Full Details
 ==========================

@@ -5,9 +5,9 @@ Summary
   
 Name: __28 AWG Yellow Stranded Wire__    
 ID: __WIRS-G28-Y-STAN-01__   
-Hex ID: ____   
+Hex ID: __W2Y__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/WIRS-G28-Y-STAN-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/W2Y__   
 
 Full Details
 ==========================

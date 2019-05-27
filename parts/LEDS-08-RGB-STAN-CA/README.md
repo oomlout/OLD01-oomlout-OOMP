@@ -5,9 +5,9 @@ Summary
   
 Name: __8 mm RGB LED Common Anode__    
 ID: __LEDS-08-RGB-STAN-CA__   
-Hex ID: ____   
+Hex ID: __L8RGB__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/LEDS-08-RGB-STAN-CA__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/L8RGB__   
 
 Full Details
 ==========================

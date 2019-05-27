@@ -4,9 +4,9 @@ Summary
   
 Name: __2.54 mm 8 Pin White Header__    
 ID: __HEAD-I01-W-08PI-01__   
-Hex ID: ____   
+Hex ID: __H08W__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HEAD-I01-W-08PI-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/H08W__   
 
 Full Details
 ==========================

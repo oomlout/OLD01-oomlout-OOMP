@@ -5,9 +5,9 @@ Summary
   
 Name: __3.6 mm 100 nF Capacitor (Tantalum) 50v__    
 ID: __CAPT-36D-X-NF100-VC__   
-Hex ID: ____   
+Hex ID: __CTN100__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPT-36D-X-NF100-VC__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/CTN100__   
 
 Full Details
 ==========================

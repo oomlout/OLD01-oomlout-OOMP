@@ -5,9 +5,9 @@ Summary
   
 Name: __2 mm SMD Metal UFL Socket__    
 ID: __UFLS-02-M-SMDS-01__   
-Hex ID: ____   
+Hex ID: __UFL02S__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/UFLS-02-M-SMDS-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/UFL02S__   
 
 Full Details
 ==========================

@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (SOT-23-6) Adjustable Voltage Regulator 200 mA__    
 ID: __VREG-SO236-X-ADJU-AE__   
-Hex ID: ____   
+Hex ID: __VS36A__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/VREG-SO236-X-ADJU-AE__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/VS36A__   
 
 Full Details
 ==========================

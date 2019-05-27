@@ -4,9 +4,9 @@ Summary
   
 Name: __TO-220 5 Amp NPN Transistor__    
 ID: __TRNN-T220-X-A05-01__   
-Hex ID: ____   
+Hex ID: __TN120__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/TRNN-T220-X-A05-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/TN120__   
 
 Full Details
 ==========================

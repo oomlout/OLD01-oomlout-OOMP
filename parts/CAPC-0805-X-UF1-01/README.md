@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0805) 1 uF Capacitor (Ceramic)__    
 ID: __CAPC-0805-X-UF1-01__   
-Hex ID: ____   
+Hex ID: __C85U001__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0805-X-UF1-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/C85U001__   
 
 Full Details
 ==========================

@@ -4,9 +4,9 @@ Summary
   
 Name: __5 mm RGB LED__    
 ID: __LEDS-05-RGB-STAN-01__   
-Hex ID: ____   
+Hex ID: __L5RGB__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/LEDS-05-RGB-STAN-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/L5RGB__   
 
 Full Details
 ==========================

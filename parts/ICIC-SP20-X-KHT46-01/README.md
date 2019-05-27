@@ -4,9 +4,9 @@ Summary
   
 Name: __ 20 Pin SMD (SOP) Holtek HT46R066 __    
 ID: __ICIC-SP20-X-KHT46-01__   
-Hex ID: ____   
+Hex ID: __ICSKHT46__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ICIC-SP20-X-KHT46-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/ICSKHT46__   
 
 Full Details
 ==========================

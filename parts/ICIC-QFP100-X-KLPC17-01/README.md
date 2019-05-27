@@ -4,9 +4,9 @@ Summary
   
 Name: __100 Pin SMD (TQFP) LPC1768 (Cortex M3)__    
 ID: __ICIC-QFP100-X-KLPC17-01__   
-Hex ID: ____   
+Hex ID: __ICSLPC17__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ICIC-QFP100-X-KLPC17-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/ICSLPC17__   
 
 Full Details
 ==========================

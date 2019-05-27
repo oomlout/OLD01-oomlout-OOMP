@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0603) 75 Ohm Resistor__    
 ID: __RESE-0603-X-O750-01__   
-Hex ID: ____   
+Hex ID: __R6750__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O750-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/R6750__   
 
 Full Details
 ==========================

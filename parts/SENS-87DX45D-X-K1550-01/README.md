@@ -4,9 +4,9 @@ Summary
   
 Name: __8.7 mm x 4.5 mm Photo Reflective (LTH1550) Sensor__    
 ID: __SENS-87DX45D-X-K1550-01__   
-Hex ID: ____   
+Hex ID: __SEPR__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/SENS-87DX45D-X-K1550-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/SEPR__   
 
 Full Details
 ==========================

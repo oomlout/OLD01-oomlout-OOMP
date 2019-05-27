@@ -5,9 +5,9 @@ Summary
   
 Name: __5 mm 3 Pin Green Screw Terminal__    
 ID: __TERS-05-G-03PI-01__   
-Hex ID: ____   
+Hex ID: __ST502G__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/TERS-05-G-03PI-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/ST502G__   
 
 Full Details
 ==========================

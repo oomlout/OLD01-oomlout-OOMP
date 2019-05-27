@@ -4,9 +4,9 @@ Summary
   
 Name: __SMD (0603) 40k Ohm Resistor 1%__    
 ID: __RESE-0603-X-O4022-67__   
-Hex ID: ____   
+Hex ID: __R6402__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O4022-67__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/R6402__   
 
 Full Details
 ==========================

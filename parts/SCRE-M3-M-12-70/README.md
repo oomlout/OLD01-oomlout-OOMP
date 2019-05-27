@@ -5,9 +5,9 @@ Summary
   
 Name: __M3 x 12 mm Machine Screw Cross Head__    
 ID: __SCRE-M3-M-12-70__   
-Hex ID: ____   
+Hex ID: __M312__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/SCRE-M3-M-12-70__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/M312__   
 
 Full Details
 ==========================

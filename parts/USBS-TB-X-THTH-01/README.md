@@ -4,9 +4,9 @@ Summary
   
 Name: __Type B Through Hole USB Socket__    
 ID: __USBS-TB-X-THTH-01__   
-Hex ID: ____   
+Hex ID: __UTB__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/USBS-TB-X-THTH-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/UTB__   
 
 Full Details
 ==========================

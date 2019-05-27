@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0603) 2.0M Ohm Resistor 1%__    
 ID: __RESE-0603-X-O205-67__   
-Hex ID: ____   
+Hex ID: __R6205A__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O205-67__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/R6205A__   
 
 Full Details
 ==========================

@@ -5,9 +5,9 @@ Summary
   
 Name: __5 Pin SMD (SC70) Single Buffer (74LVC1G125)__    
 ID: __ICIC-SC75-X-K125LS-01__   
-Hex ID: ____   
+Hex ID: __ICS125LS__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ICIC-SC75-X-K125LS-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/ICS125LS__   
 
 Full Details
 ==========================

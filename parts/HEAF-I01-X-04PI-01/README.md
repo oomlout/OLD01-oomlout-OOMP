@@ -5,9 +5,9 @@ Summary
   
 Name: __2.54 mm 4 Pin Female Header__    
 ID: __HEAF-I01-X-04PI-01__   
-Hex ID: ____   
+Hex ID: __HF04__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HEAF-I01-X-04PI-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/HF04__   
 
 Full Details
 ==========================

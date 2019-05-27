@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (SOT-23) 100 mA NPN Transistor__    
 ID: __TRNN-SO23-X-A01D-01__   
-Hex ID: ____   
+Hex ID: __TNS21D__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/TRNN-SO23-X-A01D-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/TNS21D__   
 
 Full Details
 ==========================

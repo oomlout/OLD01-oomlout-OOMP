@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0603) 150k Ohm Resistor__    
 ID: __RESE-0603-X-O154-01__   
-Hex ID: ____   
+Hex ID: __R6154__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O154-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/R6154__   
 
 Full Details
 ==========================

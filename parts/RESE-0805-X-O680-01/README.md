@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0805) 68 Ohm Resistor__    
 ID: __RESE-0805-X-O680-01__   
-Hex ID: ____   
+Hex ID: __R85680__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0805-X-O680-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/R85680__   
 
 Full Details
 ==========================

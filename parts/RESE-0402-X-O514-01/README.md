@@ -4,9 +4,9 @@ Summary
   
 Name: __SMD (0402) 510k Ohm Resistor__    
 ID: __RESE-0402-X-O514-01__   
-Hex ID: ____   
+Hex ID: __R42514__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0402-X-O514-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/R42514__   
 
 Full Details
 ==========================

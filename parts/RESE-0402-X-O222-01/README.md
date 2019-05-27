@@ -4,9 +4,9 @@ Summary
   
 Name: __SMD (0402) 2.2k Ohm Resistor__    
 ID: __RESE-0402-X-O222-01__   
-Hex ID: ____   
+Hex ID: __R42222__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0402-X-O222-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/R42222__   
 
 Full Details
 ==========================

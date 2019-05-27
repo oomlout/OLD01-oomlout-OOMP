@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (5032) 16 MHz Crystal__    
 ID: __XTAL-5032-X-MZ16-01__   
-Hex ID: ____   
+Hex ID: __XS516__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/XTAL-5032-X-MZ16-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/XS516__   
 
 Full Details
 ==========================

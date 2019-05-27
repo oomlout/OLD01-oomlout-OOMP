@@ -5,9 +5,9 @@ Summary
   
 Name: __6 mm Brown Heat Shrink__    
 ID: __HESH-06-N-STAN-01__   
-Hex ID: ____   
+Hex ID: __HS6N__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HESH-06-N-STAN-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/HS6N__   
 
 Full Details
 ==========================

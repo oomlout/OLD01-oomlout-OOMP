@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0603) 1.5k Ohm Resistor__    
 ID: __RESE-0603-X-O152-01__   
-Hex ID: ____   
+Hex ID: __R6152__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O152-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/R6152__   
 
 Full Details
 ==========================

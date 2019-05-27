@@ -5,9 +5,9 @@ Summary
   
 Name: __8 Pin SMD (MSOP) Adjustable Voltage Regulator 1 A__    
 ID: __VREG-MS08-X-ADJU-A1__   
-Hex ID: ____   
+Hex ID: __VS8A1__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/VREG-MS08-X-ADJU-A1__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/VS8A1__   
 
 Full Details
 ==========================

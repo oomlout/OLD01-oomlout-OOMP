@@ -5,9 +5,9 @@ Summary
   
 Name: __5 mm 10 uF Capacitor (Electrolytic) 25v__    
 ID: __CAPE-05-X-UF10-VA__   
-Hex ID: ____   
+Hex ID: __CEU010__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPE-05-X-UF10-VA__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/CEU010__   
 
 Full Details
 ==========================

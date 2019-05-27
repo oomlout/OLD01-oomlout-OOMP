@@ -5,9 +5,9 @@ Summary
   
 Name: __28 Pin DIP IC Socket__    
 ID: __ICSO-DI28-X-STAN-01__   
-Hex ID: ____   
+Hex ID: __IS28__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ICSO-DI28-X-STAN-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/IS28__   
 
 Full Details
 ==========================

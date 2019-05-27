@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0603) 39 pF Capacitor (Ceramic)__    
 ID: __CAPC-0603-X-PF39-01__   
-Hex ID: ____   
+Hex ID: __C6P039__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0603-X-PF39-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/C6P039__   
 
 Full Details
 ==========================

@@ -5,9 +5,9 @@ Summary
   
 Name: __M3 Nylon Nut__    
 ID: __NNUT-M3-X-STAN-01__   
-Hex ID: ____   
+Hex ID: __NN3__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/NNUT-M3-X-STAN-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/NN3__   
 
 Full Details
 ==========================

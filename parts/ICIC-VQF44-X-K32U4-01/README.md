@@ -4,9 +4,9 @@ Summary
   
 Name: __44 Pin SMD (VQFN) AtMega32U4__    
 ID: __ICIC-VQF44-X-K32U4-01__   
-Hex ID: ____   
+Hex ID: __ICSV32U4__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ICIC-VQF44-X-K32U4-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/ICSV32U4__   
 
 Full Details
 ==========================

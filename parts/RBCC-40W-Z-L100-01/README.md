@@ -5,9 +5,9 @@ Summary
   
 Name: __40 Wire 100 mm Rainbow Crimped Ribbon Cable__    
 ID: __RBCC-40W-Z-L100-01__   
-Hex ID: ____   
+Hex ID: __RBC1__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RBCC-40W-Z-L100-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/RBC1__   
 
 Full Details
 ==========================

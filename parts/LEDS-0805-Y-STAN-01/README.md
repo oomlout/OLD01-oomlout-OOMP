@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0805) Yellow LED__    
 ID: __LEDS-0805-Y-STAN-01__   
-Hex ID: ____   
+Hex ID: __L85Y__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/LEDS-0805-Y-STAN-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/L85Y__   
 
 Full Details
 ==========================

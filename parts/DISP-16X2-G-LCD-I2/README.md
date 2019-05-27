@@ -5,9 +5,9 @@ Summary
   
 Name: __ 16 x 2 Character LCD Green Display (I2C) __    
 ID: __DISP-16X2-G-LCD-I2__   
-Hex ID: ____   
+Hex ID: __DS16__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/DISP-16X2-G-LCD-I2__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/DS16__   
 
 Full Details
 ==========================

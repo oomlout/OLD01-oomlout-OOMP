@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0402) 1k Ohm Resistor__    
 ID: __RESE-0402-X-O102-01__   
-Hex ID: ____   
+Hex ID: __R42102__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0402-X-O102-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/R42102__   
 
 Full Details
 ==========================

@@ -5,9 +5,9 @@ Summary
   
 Name: __Micro SMD Metal SD Card Socket__    
 ID: __SDCS-MC-M-SMDS-02__   
-Hex ID: ____   
+Hex ID: __SDMS2__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/SDCS-MC-M-SMDS-02__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/SDMS2__   
 
 Full Details
 ==========================

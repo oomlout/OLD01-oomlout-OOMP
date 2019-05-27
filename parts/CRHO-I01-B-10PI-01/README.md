@@ -5,9 +5,9 @@ Summary
   
 Name: __2.54 mm 10 Pin Black Crimp Housing__    
 ID: __CRHO-I01-B-10PI-01__   
-Hex ID: ____   
+Hex ID: __CH10__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CRHO-I01-B-10PI-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/CH10__   
 
 Full Details
 ==========================

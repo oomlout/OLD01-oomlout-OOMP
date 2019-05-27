@@ -5,9 +5,9 @@ Summary
   
 Name: __5 mm Tinted Red LED__    
 ID: __LEDS-05-R-TINT-01__   
-Hex ID: ____   
+Hex ID: __LT5R__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/LEDS-05-R-TINT-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/LT5R__   
 
 Full Details
 ==========================

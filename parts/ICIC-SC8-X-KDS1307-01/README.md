@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (SOIC-8) Real Time Clock (DS1307)__    
 ID: __ICIC-SC8-X-KDS1307-01__   
-Hex ID: ____   
+Hex ID: __ICS1307__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ICIC-SC8-X-KDS1307-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/ICS1307__   
 
 Full Details
 ==========================

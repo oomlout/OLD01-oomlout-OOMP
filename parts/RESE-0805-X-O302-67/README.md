@@ -4,9 +4,9 @@ Summary
   
 Name: __SMD (0805) 3k Ohm Resistor 1%__    
 ID: __RESE-0805-X-O302-67__   
-Hex ID: ____   
+Hex ID: __R85302A__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0805-X-O302-67__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/R85302A__   
 
 Full Details
 ==========================

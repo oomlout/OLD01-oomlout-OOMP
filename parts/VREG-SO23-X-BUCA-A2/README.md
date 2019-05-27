@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (SOT-23) Adjustable Buck Voltage Regulator 2 A__    
 ID: __VREG-SO23-X-BUCA-A2__   
-Hex ID: ____   
+Hex ID: __VS3BA__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/VREG-SO23-X-BUCA-A2__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/VS3BA__   
 
 Full Details
 ==========================

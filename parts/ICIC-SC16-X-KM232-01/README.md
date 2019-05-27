@@ -5,9 +5,9 @@ Summary
   
 Name: __16 Pin SMD (SOIC) RS232 to TTL Converter (MAX232)__    
 ID: __ICIC-SC16-X-KM232-01__   
-Hex ID: ____   
+Hex ID: __ICSM232__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/ICIC-SC16-X-KM232-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/ICSM232__   
 
 Full Details
 ==========================

@@ -4,9 +4,9 @@ Summary
   
 Name: __SMD (0603) 300 Ohm Resistor__    
 ID: __RESE-0603-X-O301-01__   
-Hex ID: ____   
+Hex ID: __R6301__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O301-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/R6301__   
 
 Full Details
 ==========================

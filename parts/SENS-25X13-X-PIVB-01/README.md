@@ -4,9 +4,9 @@ Summary
   
 Name: __25 x 13 mm Piezo Vibration Sensor__    
 ID: __SENS-25X13-X-PIVB-01__   
-Hex ID: ____   
+Hex ID: __SEVB__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/SENS-25X13-X-PIVB-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/SEVB__   
 
 Full Details
 ==========================

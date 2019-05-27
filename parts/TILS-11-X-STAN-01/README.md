@@ -5,9 +5,9 @@ Summary
   
 Name: __11 mm Tilt Switch__    
 ID: __TILS-11-X-STAN-01__   
-Hex ID: ____   
+Hex ID: __TS11__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/TILS-11-X-STAN-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/TS11__   
 
 Full Details
 ==========================

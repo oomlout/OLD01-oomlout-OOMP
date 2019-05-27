@@ -4,9 +4,9 @@ Summary
   
 Name: __SMD (0603) 390 Ohm Resistor 1%__    
 ID: __RESE-0603-X-O391-67__   
-Hex ID: ____   
+Hex ID: __R6391A__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O391-67__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/R6391A__   
 
 Full Details
 ==========================

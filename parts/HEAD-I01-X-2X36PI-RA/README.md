@@ -4,9 +4,9 @@ Summary
   
 Name: __ 2.54 mm 72 Pin (2x36) Header Right Angle __    
 ID: __HEAD-I01-X-2X36PI-RA__   
-Hex ID: ____   
+Hex ID: __HR2X03__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HEAD-I01-X-2X36PI-RA__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/HR2X03__   
 
 Full Details
 ==========================

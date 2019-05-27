@@ -5,9 +5,9 @@ Summary
   
 Name: __1/4 Watt 10k Ohm Resistor__    
 ID: __RESE-W04-X-O103-01__   
-Hex ID: ____   
+Hex ID: __R4103__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-W04-X-O103-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/R4103__   
 
 Full Details
 ==========================

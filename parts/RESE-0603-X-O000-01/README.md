@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0603) 0 Ohm Resistor__    
 ID: __RESE-0603-X-O000-01__   
-Hex ID: ____   
+Hex ID: __R6000__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O000-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/R6000__   
 
 Full Details
 ==========================

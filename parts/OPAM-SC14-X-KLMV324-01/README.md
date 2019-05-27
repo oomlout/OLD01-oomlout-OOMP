@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (SOIC-14) LMV324 Op Amp__    
 ID: __OPAM-SC14-X-KLMV324-01__   
-Hex ID: ____   
+Hex ID: __OAS324__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/OPAM-SC14-X-KLMV324-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/OAS324__   
 
 Full Details
 ==========================

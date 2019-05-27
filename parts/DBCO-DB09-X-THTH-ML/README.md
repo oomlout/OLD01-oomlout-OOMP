@@ -5,9 +5,9 @@ Summary
   
 Name: __DB9 Connector Male__    
 ID: __DBCO-DB09-X-THTH-ML__   
-Hex ID: ____   
+Hex ID: __DB09M__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/DBCO-DB09-X-THTH-ML__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/DB09M__   
 
 Full Details
 ==========================

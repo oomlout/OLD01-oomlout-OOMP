@@ -4,9 +4,9 @@ Summary
   
 Name: __SMD (SOT-23) 2 Amp P-Ch. MOSFET__    
 ID: __MOSP-SO23-X-A02-01__   
-Hex ID: ____   
+Hex ID: __MPSS202__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/MOSP-SO23-X-A02-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/MPSS202__   
 
 Full Details
 ==========================

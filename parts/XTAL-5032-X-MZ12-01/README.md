@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (5032) 12 MHz Crystal__    
 ID: __XTAL-5032-X-MZ12-01__   
-Hex ID: ____   
+Hex ID: __XS512__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/XTAL-5032-X-MZ12-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/XS512__   
 
 Full Details
 ==========================

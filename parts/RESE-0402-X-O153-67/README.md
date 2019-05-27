@@ -4,9 +4,9 @@ Summary
   
 Name: __SMD (0402) 15k Ohm Resistor 1%__    
 ID: __RESE-0402-X-O153-67__   
-Hex ID: ____   
+Hex ID: __R42153A__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0402-X-O153-67__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/R42153A__   
 
 Full Details
 ==========================

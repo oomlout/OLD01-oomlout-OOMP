@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (SOT-23) 500 mA PNP Transistor__    
 ID: __TRNP-SO23-X-A05D-01__   
-Hex ID: ____   
+Hex ID: __TPS25D__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/TRNP-SO23-X-A05D-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/TPS25D__   
 
 Full Details
 ==========================

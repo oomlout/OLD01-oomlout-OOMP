@@ -5,9 +5,9 @@ Summary
   
 Name: __2.54 mm 3 Pin Black Crimp Housing__    
 ID: __CRHO-I01-B-03PI-01__   
-Hex ID: ____   
+Hex ID: __CH03__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CRHO-I01-B-03PI-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/CH03__   
 
 Full Details
 ==========================

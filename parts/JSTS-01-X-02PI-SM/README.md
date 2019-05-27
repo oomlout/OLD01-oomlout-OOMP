@@ -5,9 +5,9 @@ Summary
   
 Name: __1 mm 2 Pin JST Socket (SMD)__    
 ID: __JSTS-01-X-02PI-SM__   
-Hex ID: ____   
+Hex ID: __J102__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/JSTS-01-X-02PI-SM__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/J102__   
 
 Full Details
 ==========================

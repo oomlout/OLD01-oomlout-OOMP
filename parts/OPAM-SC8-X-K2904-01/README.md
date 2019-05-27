@@ -5,9 +5,9 @@ Summary
   
 Name: __8 Pin SMD (SOIC) LM2904 Dual Op Amp__    
 ID: __OPAM-SC8-X-K2904-01__   
-Hex ID: ____   
+Hex ID: __OAS2904__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/OPAM-SC8-X-K2904-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/OAS2904__   
 
 Full Details
 ==========================

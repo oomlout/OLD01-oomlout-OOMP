@@ -5,9 +5,9 @@ Summary
   
 Name: __6 mm SMD Pushbutton (Tactile)__    
 ID: __BUTA-06-X-SMDS-01__   
-Hex ID: ____   
+Hex ID: __B06__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/BUTA-06-X-SMDS-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/B06__   
 
 Full Details
 ==========================

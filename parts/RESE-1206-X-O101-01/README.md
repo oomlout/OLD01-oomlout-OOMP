@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (1206) 100 Ohm Resistor__    
 ID: __RESE-1206-X-O101-01__   
-Hex ID: ____   
+Hex ID: __R1101__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/RESE-1206-X-O101-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/R1101__   
 
 Full Details
 ==========================

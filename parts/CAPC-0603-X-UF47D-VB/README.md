@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0603) 4.7 uF Capacitor (Ceramic) 10v__    
 ID: __CAPC-0603-X-UF47D-VB__   
-Hex ID: ____   
+Hex ID: __C6U004__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0603-X-UF47D-VB__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/C6U004__   
 
 Full Details
 ==========================

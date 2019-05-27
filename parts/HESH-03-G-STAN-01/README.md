@@ -5,9 +5,9 @@ Summary
   
 Name: __3 mm Green Heat Shrink__    
 ID: __HESH-03-G-STAN-01__   
-Hex ID: ____   
+Hex ID: __HS3G__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HESH-03-G-STAN-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/HS3G__   
 
 Full Details
 ==========================

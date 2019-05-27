@@ -5,9 +5,9 @@ Summary
   
 Name: __M3 x 25 mm Nylon Standoff (F-F)__    
 ID: __NHFF-M3-X-25-01__   
-Hex ID: ____   
+Hex ID: __NFF25__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/NHFF-M3-X-25-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/NFF25__   
 
 Full Details
 ==========================

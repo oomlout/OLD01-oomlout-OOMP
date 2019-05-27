@@ -5,9 +5,9 @@ Summary
   
 Name: __12 mm 3v Buzzer__    
 ID: __BUZZ-12-X-V3-01__   
-Hex ID: ____   
+Hex ID: __BZ12__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/BUZZ-12-X-V3-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/BZ12__   
 
 Full Details
 ==========================

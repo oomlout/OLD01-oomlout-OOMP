@@ -4,9 +4,9 @@ Summary
   
 Name: __SMD (DFN-8) Adjustable Buck Voltage Regulator 2 A__    
 ID: __VREG-DFN8-X-BUCA-A2__   
-Hex ID: ____   
+Hex ID: __VSD8A__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/VREG-DFN8-X-BUCA-A2__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/VSD8A__   
 
 Full Details
 ==========================

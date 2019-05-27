@@ -5,9 +5,9 @@ Summary
   
 Name: __6 mm Blue Heat Shrink__    
 ID: __HESH-06-L-STAN-01__   
-Hex ID: ____   
+Hex ID: __HS6L__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HESH-06-L-STAN-01__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/HS6L__   
 
 Full Details
 ==========================

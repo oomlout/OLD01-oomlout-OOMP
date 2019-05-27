@@ -5,9 +5,9 @@ Summary
   
 Name: __2.54 mm 2 Pin Female Header (Round)__    
 ID: __HEAF-I01-X-02PI-RO__   
-Hex ID: ____   
+Hex ID: __HF2R__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/HEAF-I01-X-02PI-RO__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/HF2R__   
 
 Full Details
 ==========================
