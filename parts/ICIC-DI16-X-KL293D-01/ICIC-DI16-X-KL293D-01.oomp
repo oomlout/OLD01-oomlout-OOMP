@@ -1,0 +1,93 @@
+<xml>
+<oompPart>
+	<oompId>ICIC-DI16-X-KL293D-01</oompId>
+	<oompName>16 Pin DIP Dual H-Bridge (L293D)</oompName>
+	<oompSort></oompSort>
+	<oompType>ICIC</oompType>
+	<oompSize>DI16</oompSize>
+	<oompColor>X</oompColor>
+	<oompDesc>KL293D</oompDesc>
+	<oompIndex>01</oompIndex>
+	<oompVersion>999</oompVersion>
+
+	<hexID>ICL293D</hexID>
+	<ooPitch>2.54 mm</ooPitch>
+	<ooPitchWidth>0.3"</ooPitchWidth>
+	<numRows>2</numRows>
+	<ooNumPins>16</ooNumPins>
+	
+	<ooPin1>EN1,2</ooPin1>
+	<ooPin1x>0</ooPin1x>
+	<ooPin1y>0</ooPin1y>
+	
+	<ooPin2>1IN</ooPin2>
+	<ooPin2x>0</ooPin2x>
+	<ooPin2y>0.1</ooPin2y>
+	
+	<ooPin3>1OUT</ooPin3>
+	<ooPin3x>0</ooPin3x>
+	<ooPin3y>0.2</ooPin3y>
+	
+	<ooPin4>GND</ooPin4>
+	<ooPin4x>0</ooPin4x>
+	<ooPin4y>0.3</ooPin4y>
+	
+	<ooPin5>GND</ooPin5>
+	<ooPin5x>0</ooPin5x>
+	<ooPin5y>0.4</ooPin5y>
+	
+	<ooPin6>2OUT</ooPin6>
+	<ooPin6x>0</ooPin6x>
+	<ooPin6y>0.5</ooPin6y>
+	
+	<ooPin7>2IN</ooPin7>
+	<ooPin7x>0</ooPin7x>
+	<ooPin7y>0.6</ooPin7y>
+	
+	<ooPin8>VCC</ooPin8>
+	<ooPin8x>0</ooPin8x>
+	<ooPin8y>0.7</ooPin8y>
+	
+	<ooPin9>EN3,4</ooPin9>
+	<ooPin9x>0.3"</ooPin9x>
+	<ooPin9y>0.7"</ooPin9y>
+	
+	<ooPin10>3IN</ooPin10>
+	<ooPin10x>0.3"</ooPin10x>
+	<ooPin10y>0.6"</ooPin10y>
+	
+	<ooPin11>3OUT</ooPin11>
+	<ooPin11x>0.3"</ooPin11x>
+	<ooPin11y>0.5"</ooPin11y>
+	
+	<ooPin12>GND</ooPin12>
+	<ooPin12x>0.3"</ooPin12x>
+	<ooPin12y>0.4"</ooPin12y>
+	
+	<ooPin13>GND</ooPin13>
+	<ooPin13x>0.3"</ooPin13x>
+	<ooPin13y>0.3"</ooPin13y>
+	
+	<ooPin14>4OUT</ooPin14>
+	<ooPin14x>0.3"</ooPin14x>
+	<ooPin14y>0.2"</ooPin14y>
+	
+	<ooPin15>4IN</ooPin15>
+	<ooPin15x>0.3"</ooPin15x>
+	<ooPin15y>0.1"</ooPin15y>
+	
+	<ooPin16>VMOT</ooPin16>
+	<ooPin16x>0.3"</ooPin16x>
+	<ooPin16y>0</ooPin16y>
+	
+	
+	
+	<oompDiag>
+		<drawItem>template;ICIC-DI16-X-XXXX-01-diag</drawItem>
+	</oompDiag>
+	
+	<oompSymbol>twoSidedPackage;##ooNumPins@@</oompSymbol>
+	<oompFootprint>twoSidedPackage;##ooNumPins@@;##ooPitchWidth@@;##ooPitch@@</oompFootprint>
+	
+</oompPart>
+</xml>
