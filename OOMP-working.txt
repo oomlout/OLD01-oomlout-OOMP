@@ -38,3 +38,44 @@
 	C:\Program Files\KiCad\share\kicad\modules
 	
 	footprints in C:\GH\oomlout-OOMP\OOMP-footprint\OOMP-kicad\OOMP-kicad.pretty
+	
+	
+;######  OOMP Items
+
+	1.OOMP file
+		MACR-OOMPSC-Base.au3
+		OOMPcreateNewPart()
+			* if adding a new type you need to add it to the type xml and the au3 MACR-OOMPSC-XML-*
+		
+	
+	2.Labels
+		mostly in the default
+	
+	
+	3.Diagrams
+		Grab from similar component
+		
+		<oompDiag>
+		<oompBBLS>
+		<oompSimp>
+		<oompIden>
+		
+	
+	
+	4.Schematic Symbol
+		oopin
+		oopinX
+		ooPinY
+		ooNumPins
+		
+		oompSymbol
+			<oompSymbol>twoSidedPackage;##ooNumPins@@</oompSymbol>
+	
+	5.Footprint
+		oompFootprint
+			<oompFootprint>twoSidedPackage;##ooNumPins@@;##ooPitchWidth@@;##ooPitch@@</oompFootprint>
+			
+	OOMP-test.au3
+	OOMPbuildKicad()
+	
+	
