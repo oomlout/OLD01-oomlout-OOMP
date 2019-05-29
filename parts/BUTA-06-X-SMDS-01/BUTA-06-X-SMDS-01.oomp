@@ -117,7 +117,7 @@
 				<drawItem>rectangle;-3.8;-2.25;1.4;0.7;pad 2</drawItem>
 				<drawItem>rectangle;-3.8;2.25;1.4;0.7;pad 3</drawItem>
 				<drawItem>rectangle;3.8;-2.25;1.4;0.7;pad 4</drawItem>
-				<drawItem>oompName;0;5;20;5;##name@@</drawItem>
+				<drawItem>name;0;5;20;5;##name@@</drawItem>
 				<drawItem>oompURL;0;-5;2.835;##hexID@@</drawItem>
 			</oompDiag>
 			<oompSchem>
