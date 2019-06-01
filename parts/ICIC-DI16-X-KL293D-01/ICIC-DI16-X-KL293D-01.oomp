@@ -1,7 +1,7 @@
 <xml>
 <oompPart>
 	<oompId>ICIC-DI16-X-KL293D-01</oompId>
-	<oompName>16 Pin DIP Dual H-Bridge (L293D)</oompName>
+	<name>16 Pin DIP Dual H-Bridge (L293D)</name>
 	<oompSort></oompSort>
 	<oompType>ICIC</oompType>
 	<oompSize>DI16</oompSize>
@@ -83,7 +83,7 @@
 	
 	
 	<oompDiag>
-		<drawItem>template;ICIC-DI16-X-XXXX-01-diag</drawItem>
+		<drawItem>template;ICIC-DI16-X-XXXX-01</drawItem>
 	</oompDiag>
 	
 	<oompSymbol>twoSidedPackage;##ooNumPins@@</oompSymbol>
