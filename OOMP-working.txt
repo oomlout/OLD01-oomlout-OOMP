@@ -51,6 +51,17 @@
 	2.Labels
 		mostly in the default
 	
+	2A. Manufacturer details
+	<sourceList>
+			<manufacturer>
+				<company>International Rectifier</company>
+				<companyCode>C-INRE</companyCode>
+				<name></name>
+				<partID>IRF540N</partID>
+				<link></link>
+				<note></note>
+			</manufacturer>
+	</sourceList>	
 	
 	3.Diagrams
 		Grab from similar component
@@ -63,13 +74,15 @@
 	
 	
 	4.Schematic Symbol
-		oopin
-		oopinX
-		ooPinY
+		<oopin1></oopin1>
+		<oopin1X></oopin1X>
+		<ooPin1Y></ooPin1Y>
+		
 		ooNumPins
 		
 		oompSymbol
 			<oompSymbol>twoSidedPackage;##ooNumPins@@</oompSymbol>
+			<oompSymbol>oneSidedPackage;##ooNumPins@@</oompSymbol>
 	
 	5.Footprint
 		oompFootprint
