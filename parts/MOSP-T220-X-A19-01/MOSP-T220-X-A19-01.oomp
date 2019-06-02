@@ -1,0 +1,63 @@
+<xml>
+<oompPart>
+	<oompId>MOSP-T220-X-A19-01</oompId>
+	<oompName>TO-220 19 Amp P-Ch. MOSFET</oompName>
+	<oompSort></oompSort>
+	<oompType>MOSP</oompType>
+	<oompSize>T220</oompSize>
+	<oompColor>X</oompColor>
+	<oompDesc>A19</oompDesc>
+	<oompIndex>01</oompIndex>
+	<oompVersion>999</oompVersion>
+
+
+
+	<hexID>MP220A19</hexID>
+	<ooPitch>2.54 mm</ooPitch>
+	<oonumPins>3</oonumPins>
+	<oonumRows>1</oonumRows>
+	<sourceList>
+			<manufacturer>
+				<company>Vishay</company>
+				<companyCode>C-VISH</companyCode>
+				<name></name>
+				<partID>IRF9540</partID>
+				<link></link>
+				<note></note>
+		</manufacturer>
+	</sourceList>
+
+
+
+	<oopin1>G</oopin1>
+	<oopin1X>0</oopin1X>
+	<ooPin1Y>0</ooPin1Y>
+	<oopin2>D</oopin2>
+	<oopin2X>0</oopin2X>
+	<ooPin2Y>0.1"</ooPin2Y>
+	<oopin3>S</oopin3>
+	<oopin3X>0</oopin3X>
+	<ooPin3Y>0.2"</ooPin3Y>
+	
+	<oompSymbol>oneSidedPackage;##ooNumPins@@</oompSymbol>
+	<oompFootprint>oneSidedPackage;##ooNumPins@@;##ooPitch@@</oompFootprint>
+	
+	<oompBbls>
+			<drawItem>template;XXXX-T220-X-XXXX-01-bbls</drawItem>
+		</oompBbls>
+		<oompDiag>
+			<drawItem>template;XXXX-T220-X-XXXX-01-diag</drawItem>
+		</oompDiag>
+		<oompIden>
+			<drawItem>template;XXXX-T220-X-XXXX-01-iden</drawItem>
+		</oompIden>
+		<oompSchem>
+			
+		</oompSchem>
+		<oompSimp>
+			<drawItem>template;XXXX-T220-X-XXXX-01-simp</drawItem>
+		</oompSimp>
+
+	<ooDesignator>Q1</ooDesignator>
+</oompPart>
+</xml>

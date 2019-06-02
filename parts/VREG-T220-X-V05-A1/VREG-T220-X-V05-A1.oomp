@@ -32,6 +32,25 @@
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList><oompClass>Through Hole Component</oompClass>
+		
+		<oompBbls>
+			<drawItem>template;XXXX-T220-X-XXXX-01-bbls</drawItem>
+			</oompBbls>
+		<oompDiag>
+			<drawItem>template;XXXX-T220-X-XXXX-01-diag</drawItem>
+		</oompDiag>
+		<oompIden>
+			<drawItem>template;XXXX-T220-X-XXXX-01-iden</drawItem>
+		</oompIden>
+		<oompSchem>
+			
+		</oompSchem>
+		<oompSimp>
+			<drawItem>template;XXXX-T220-X-XXXX-01-simp</drawItem>
+		</oompSimp>
+	
+		
+		
 		<oompClassCode>THTH</oompClassCode>
 		<ooDesignator>U1</ooDesignator>
 	</oompPart>

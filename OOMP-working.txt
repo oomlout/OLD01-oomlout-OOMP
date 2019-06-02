@@ -54,10 +54,10 @@
 	2A. Manufacturer details
 	<sourceList>
 			<manufacturer>
-				<company>International Rectifier</company>
-				<companyCode>C-INRE</companyCode>
+				<company></company>
+				<companyCode></companyCode>
 				<name></name>
-				<partID>IRF540N</partID>
+				<partID></partID>
 				<link></link>
 				<note></note>
 			</manufacturer>
@@ -87,7 +87,7 @@
 	5.Footprint
 		oompFootprint
 			<oompFootprint>twoSidedPackage;##ooNumPins@@;##ooPitchWidth@@;##ooPitch@@</oompFootprint>
-			
+			<oompFootprint>oneSidedPackage;##ooNumPins@@;##ooPitch@@</oompFootprint>
 	OOMP-test.au3
 	OOMPbuildKicad()
 	
