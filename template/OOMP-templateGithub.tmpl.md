@@ -85,13 +85,13 @@ Manufacturers
 ::::
 ^^0,12,%%T%%^^**%%ID%%,oompPart.oompID,sourceList.manufacturer.company&&%%T%%&&**
 | @@%%ID%%,oompPart.oompID,sourceList.manufacturer.company&&%%T%%&&@@ |  __@3%%ID%%,oompPart.oompID,sourceList.manufacturer.partID&&%%T%%&&@3__ | @@%%ID%%,oompPart.oompID,sourceList.manufacturer.name&&%%T%%&&@@ |  
-``__[(O)](https://octopart.com/search?q=@3%%ID%%,oompPart.oompID,sourceList.manufacturer.partID&&%%T%%&&@3%22)__&nbsp; 
+__[(O)](https://octopart.com/search?q=@3%%ID%%,oompPart.oompID,sourceList.manufacturer.partID&&%%T%%&&@3%22)__&nbsp; 
 __[(P)](http://parts.io/search/term-@@%%ID%%,oompPart.oompID,sourceList.manufacturer.company&&%%T%%&&@@%20@3%%ID%%,oompPart.oompID,sourceList.manufacturer.partID&&%%T%%&&@3)__&nbsp; 
 __[(U)](http://upverter.com/search/?q=@3%%ID%%,oompPart.oompID,sourceList.manufacturer.partID&&%%T%%&&@3)__&nbsp;
 __[(A)](http://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20160601045416&SearchText=@3%%ID%%,oompPart.oompID,sourceList.manufacturer.partID&&%%T%%&&@3)__&nbsp;
 <br />
 __[(T)](https://s.taobao.com/search?q=@3%%ID%%,oompPart.oompID,sourceList.manufacturer.partID&&%%T%%&&@3)__&nbsp;
-__[(G)](https://www.google.com/search?as_q=@3%%ID%%,oompPart.oompID,sourceList.manufacturer.partID&&%%T%%&&@3)__&nbsp;`` 
+__[(G)](https://www.google.com/search?as_q=@3%%ID%%,oompPart.oompID,sourceList.manufacturer.partID&&%%T%%&&@3)__&nbsp; 
 | 
 __[(D)](http://www.digikey.com/product-search/en?x=0&y=0&lang=en&site=us&keywords=@@%%ID%%,oompPart.oompID,sourceList.manufacturer.company&&%%T%%&&@@%20@3%%ID%%,oompPart.oompID,sourceList.manufacturer.partID&&%%T%%&&@3)__&nbsp;
 __[(M)](http://www.mouser.com/Search/Refine.aspx?Keyword=@@%%ID%%,oompPart.oompID,sourceList.manufacturer.company&&%%T%%&&@@%20@3%%ID%%,oompPart.oompID,sourceList.manufacturer.partID&&%%T%%&&@3)__&nbsp;
