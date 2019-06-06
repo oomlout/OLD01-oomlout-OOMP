@@ -34,8 +34,8 @@ Diagram
 
 | Resource | Filename | Description |
 | -------- | -------- | ----------- | 
-|  3D Model | %%ID%%.skp | 3D model of the part in Sketchup Foramt |
-|  3D Render | %%ID%%-3d.png | Rendering of the 3d model. |
+|  3D Model | %%ID%%.FCStd | 3D model of the part in FreeCAD Format |
+|  3D Render | %%ID%%-3d. (png, pdf) | Rendering of the 3d model. |
 |  3D Perspective (ISO) | %%ID%%_ISO.(pdf,png,svg) | Rendering of the 3d model (drafting style). |
 |  3D Perspective (Top) | %%ID%%_TOP.(pdf,png,svg) | Rendering of the 3d model from the top (drafting style). |
 |  3D Perspective (Front) | %%ID%%_FRONT.(pdf,png,svg) | Rendering of the 3d model from the front (drafting style). | 

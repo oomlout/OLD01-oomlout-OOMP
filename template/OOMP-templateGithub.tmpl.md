@@ -98,7 +98,7 @@ __[(M)](http://www.mouser.com/Search/Refine.aspx?Keyword=@@%%ID%%,oompPart.oompI
 __[(F)](http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=&langId=44&storeId=10151&gs=true&st=@@%%ID%%,oompPart.oompID,sourceList.manufacturer.company&&%%T%%&&@@%20@3%%ID%%,oompPart.oompID,sourceList.manufacturer.partID&&%%T%%&&@3)__&nbsp;
 __[(R)](http://uk.rs-online.com/web/c/?searchTerm=@3%%ID%%,oompPart.oompID,sourceList.manufacturer.partID&&%%T%%&&@3&h=s&sra=oss)__ | ''%%ID%%-datasheet-@@%%ID%%,oompPart.oompID,sourceList.manufacturer.companyCode&&%%T%%&&@@.pdf,__[(datasheet)](https://github.com/oomlout/oomlout-OOMP/raw/master/parts/%%ID%%/%%ID%%-datasheet-@@%%ID%%,oompPart.oompID,sourceList.manufacturer.companyCode&&%%T%%&&@@.pdf)__,''~~
 ;;;;
-**%%ID%%,oompPart.oompID,sourceList.manufacturer.company&&0&&**Distributor Search | <b>(D)</b>Digikey,&nbsp;<b>(M)</b>Mouser,&nbsp;<b>(F)</b>Farnell(UK),&nbsp;<b>(R)</b>RS(UK) | Search Engines | <b>(O)</b>Octopart,&nbsp;<b>(P)</b>Parts.io,&nbsp;<b>(U)</b>Upverter,&nbsp;<b>(A)</b>AliExpress,&nbsp;<b>(T)</b>Taobao,&nbsp;<b>(G)</b>Google | 
+**%%ID%%,oompPart.oompID,sourceList.manufacturer.company&&0&&**Distributor Search | <b>(D)</b>Digikey,&nbsp;<b>(M)</b>Mouser,<br /><b>(F)</b>Farnell(UK),&nbsp;<b>(R)</b>RS(UK) | Search Engines | <b>(O)</b>Octopart,&nbsp;<b>(P)</b>Parts.io,&nbsp;<b>(U)</b>Upverter,<br /><b>(A)</b>AliExpress,&nbsp;<b>(T)</b>Taobao,&nbsp;<b>(G)</b>Google | 
 <<,@@%%ID%%,oompPart.oompID,sourceList.manufacturer.company&&0&&@@,No manufacturers yet.<<
 
 OPL Libraries
