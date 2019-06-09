@@ -2,6 +2,7 @@
 ===================================================== 
 
 [[https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%_420.jpg|alt=%%ID%%]]  
+
 Summary   
 ------------------------------------ 
 Name: __@@%%ID%%,oompProject.oompID,name@@__<br>
@@ -11,6 +12,8 @@ Official WebPage: __@@%%ID%%,oompProject.oompID,oompOfficialLink@@__<br>
 OOMP WebPage: __[Github Wiki](https://github.com/oomlout/oomlout-OOMP/wiki//%%ID%%)__<br>
 Short URL: __http://oom.lt/@@%%ID%%,oompProject.oompID,hexID@@__<br>
 Revision History: __[Github](https://github.com/oomlout/oomlout-OOMP/master/projects/%%ID%%)__<br>
+
+
 Images
 -------------------------
 $$%%ID%%.jpg$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%_140.jpg]] [__MAIN__](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%.jpg)
@@ -21,7 +24,7 @@ $$%%ID%%_01.jpg$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/projects/
 $$%%ID%%_02.jpg$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%_02_140.jpg]][__EXTRA 2__](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%_02.jpg)
 $$%%ID%%_ISO.png$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%_ISO_140.png]][__3D__](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%_ISO.png)        
 <br>
-[High Resolution(Flickr)](https://www.flickr.com/search/?w=33504192@N00&q=%%ID%%)
+
 
 About    
 ---------------------
@@ -46,7 +49,7 @@ $$%%ID%%-diag.cdr$$__[(svg)](https://github.com/oomlout/oomlout-OOMP/blob/master
 
 Parts   
 --------------------------------
-$$%%ID%%-iden.cdr$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-iden_420.png]]  
+$$%%ID%%-iden.cdr$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-iden_600.png]]  
 $$%%ID%%-iden.cdr$$__[(svg)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-iden.svg)__ &nbsp; __[(cdr)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-iden.cdr)__ &nbsp; $$%%ID%%-iden.cdr$$__[(png)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-iden.png)__ &nbsp; __[(pdf)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-iden_S.pdf)__       
 
 | __Image__ | __Iden-<br>tifier__ | __OOMP ID__ | __Name__ | __Purpose__ |
@@ -89,8 +92,7 @@ Manufacturers
 | @@%%ID%%,oompProject.oompID,sourceList.manufacturer.company&&%%T%%&&@@ | __@3%%ID%%,oompProject.oompID,sourceList.manufacturer.partID&&%%T%%&&@3__
  | @@%%ID%%,oompProject.oompID,sourceList.manufacturer.name&&%%T%%&&@@ | __[(O)](http://octopart.com/partsearch#!?q=%22@3%%ID%%,oompProject.oompID,sourceList.manufacturer.partID&&%%T%%&&@3%22) &nbsp;[(P)](http://parts.io/search/term-@@%%ID%%,oompProject.oompID,sourceList.manufacturer.company&&%%T%%&&@@%20@3%%ID%%,oompProject.oompID,sourceList.manufacturer.partID&&%%T%%&&@3/)&nbsp;[(U)](http://upverter.com/search/?q=%22@3%%ID%%,oompProject.oompID,sourceList.manufacturer.partID&&%%T%%&&@3%22)__ | __[(D)](http://www.digikey.com/product-search/en?x=0&y=0&lang=en&site=us&keywords=@@%%ID%%,oompProject.oompID,sourceList.manufacturer.company&&%%T%%&&@@%20@3%%ID%%,oompProject.oompID,sourceList.manufacturer.partID&&%%T%%&&@3)__&nbsp;__[(M)](http://www.mouser.com/Search/Refine.aspx?Keyword=@@%%ID%%,oompProject.oompID,sourceList.manufacturer.company&&%%T%%&&@@%20@3%%ID%%,oompProject.oompID,sourceList.manufacturer.partID&&%%T%%&&@3)__&nbsp;__[(F)](http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=&langId=44&storeId=10151&gs=true&st=@@%%ID%%,oompProject.oompID,sourceList.manufacturer.company&&%%T%%&&@@%20@3%%ID%%,oompProject.oompID,sourceList.manufacturer.partID&&%%T%%&&@3)__&nbsp;__[(R)](http://uk.rs-online.com/web/c/?searchTerm=@3%%ID%%,oompProject.oompID,sourceList.manufacturer.partID&&%%T%%&&@3&h=s&sra=oss)__|~~
 ;;;;
-**%%ID%%,oompProject.oompID,sourceList.manufacturer.company&&0&&**Distributor Search - __(D)__ Digikey,&nbsp;__(M)__ Mouser,&nbsp;__(F)__ Farnell UK,&nbsp;__(R)__ RS UK
-**%%ID%%,oompProject.oompID,sourceList.manufacturer.company&&0&&**Part Search Engines - __(O)__ Octopart,&nbsp;__(P)__ Parts.io,&nbsp;__(U)__ Upverter
+**%%ID%%,oompProject.oompID,sourceList.manufacturer.company&&0&&**Part Search Engines | __(O)__ Octopart,&nbsp;__(P)__ Parts.io,&nbsp<br />;__(U)__ Upverter | Distributor Search | __(D)__ Digikey,&nbsp;__(M)__ Mouser,&nbsp<br />;__(F)__ Farnell UK,&nbsp;__(R)__ RS UK
 <<,@@%%ID%%,oompProject.oompID,sourceList.manufacturer.company&&0&&@@,No manufacturers yet.<<
 
 OPL Libraries   
