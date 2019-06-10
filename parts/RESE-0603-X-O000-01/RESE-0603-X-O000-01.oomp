@@ -54,15 +54,27 @@
 			<link><![CDATA[https://uk.farnell.com/search?st=9233130RL]]></link>
 		</bigDistributor>
 	</sourceList>
-	<oplList>
+	
+
+<oplList>	<oplSystem>
+		<oplScheme>OOMP</oplScheme>
+		<oplCode>C-OOMP</oplCode>
+		<oplName>SMD (0603) 0 Ohm Resistor</oplName>
+		<oplID>RESE-0603-X-O000-01</oplID>
+		<oplLink><![CDATA[<![CDATA[https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O000-01]]>]]></oplLink>
+		<oplFootprint1>OOMP-RESE-0603-X-XXXX-XX</oplFootprint1>
+		<oplFootprint2>OOMP-RESE-0603-X-XXXX-XX-ES</oplFootprint2>
+
+	</oplSystem>	
 		<oplSystem>
 			<oplScheme>SEEED OPL</oplScheme>
 			<oplCode>C-SEEE</oplCode>
 			<oplName>SMD RES 0R-5%-1/10W</oplName>
 			<oplID>301010292</oplID>
-			<oplFootprint></oplFootprint>
+			
 			<oplLink>https://www.seeedstudio.com/opl.html?</oplLink>
-		</oplSystem>
+				<oplFootprint1>R0603</oplFootprint1>
+</oplSystem>
 	</oplList>
 	<oompBbls>
 				<drawItem>template;XXXX-0603-X-XXXX-XX-bbls</drawItem>
