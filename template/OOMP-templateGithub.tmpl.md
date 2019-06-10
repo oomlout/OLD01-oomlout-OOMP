@@ -105,14 +105,12 @@ OPL Libraries
 --------------------------------------- 
 
 
-| OPL Scheme | Part Number | Description |   
-| ----- | ----- | ----- |    
-**%%ID%%,oompPart.oompID,hexID**| OOMP Short | __[@@%%ID%%,oompPart.oompID,hexID@@](https://oom.lt/@@%%ID%%,oompPart.oompID,hexID@@)__ | @@%%ID%%,oompPart.oompID,name@@ |    
-| OOMP | __[%%ID%%](https://github.com/oomlout/oomlout-OOMP/wiki/%%ID%%)__ | @@%%ID%%,oompPart.oompID,name@@ |    
+| OPL Scheme | Part Number | Description | Footprint<br />Name | Footprint<br />Image |  
+| ----- | ----- | ----- | ----- | ----- |    
 ::::
 ^^0,12,%%T%%^^
 **%%ID%%,oompPart.oompID,oplList.oplSystem.oplCode&&%%T%%&&**
-| @@%%ID%%,oompPart.oompID,oplList.oplSystem.oplScheme&&%%T%%&&@@ | __[@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplID&&%%T%%&&@@](@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplLink&&%%T%%&&@@)__ | @@%%ID%%,oompPart.oompID,oplList.oplSystem.oplName&&%%T%%&&@@ |~~
+| @@%%ID%%,oompPart.oompID,oplList.oplSystem.oplScheme&&%%T%%&&@@ | __[@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplID&&%%T%%&&@@](@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplLink&&%%T%%&&@@)__ | @@%%ID%%,oompPart.oompID,oplList.oplSystem.oplName&&%%T%%&&@@ | @@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@ <br /> @@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint2&&%%T%%&&@@ |  Awaiting Image| ~~
 ;;;;
 
 @@bottomText,oompBasic.type,value@@   

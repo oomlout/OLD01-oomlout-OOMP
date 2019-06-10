@@ -1,5 +1,5 @@
 <xml>
-<oompPart>
+	<oompPart>
 	<oompID>RESE-0603-X-O154-67</oompID>
 	<name>SMD (0603) 150k Ohm Resistor 1%</name>
 	<hexID>R6154A</hexID>
@@ -65,5 +65,17 @@
 			<drawItem>template;XXXX-0603-X-XXXX-XX-simp</drawItem>
 		</oompSimp>
 		<ooDesignator>R1</ooDesignator>
-</oompPart>
+		<oplList>
+	<oplSystem>
+		<oplScheme>OOMP</oplScheme>
+		<oplCode>C-OOMP</oplCode>
+		<oplName>SMD (0603) 150k Ohm Resistor 1%</oplName>
+		<oplID>RESE-0603-X-O154-67</oplID>
+		<oplLink><![CDATA[https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O154-67]]></oplLink>
+		<oplFootprint1>OOMP-RESE-0603-X-XXXX-XX</oplFootprint1>
+		<oplFootprint2>OOMP-RESE-0603-X-XXXX-XX-ES</oplFootprint2>
+
+	</oplSystem>
+	</oplList>
+	</oompPart>
 </xml>

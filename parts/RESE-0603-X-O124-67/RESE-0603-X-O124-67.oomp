@@ -41,7 +41,17 @@
 			<link><![CDATA[https://www.mouser.co.uk/Search/Refine?Keyword=603-RC0603FR-07120KL]]></link>
 		</bigDistributor>
 	</sourceList>
-	<oplList>
+	
+<oplList>	<oplSystem>
+		<oplScheme>OOMP</oplScheme>
+		<oplCode>C-OOMP</oplCode>
+		<oplName>SMD (0603) 120k Ohm Resistor 1%</oplName>
+		<oplID>RESE-0603-X-O124-67</oplID>
+		<oplLink><![CDATA[https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0603-X-O124-67]]></oplLink>
+		<oplFootprint1>OOMP-RESE-0603-X-XXXX-XX</oplFootprint1>
+		<oplFootprint2>OOMP-RESE-0603-X-XXXX-XX-ES</oplFootprint2>
+
+	</oplSystem>
 		<oplSystem>
 			<oplScheme>SEEED OPL</oplScheme>
 			<oplCode>C-SEEE</oplCode>
@@ -49,7 +59,8 @@
 			<oplID>301010217</oplID>
 			
 			<oplLink>https://www.seeedstudio.com/opl.html?</oplLink>
-		</oplSystem>
+				<oplFootprint1>R0603</oplFootprint1>
+</oplSystem>
 	</oplList>
 		<oompBbls>
 			<drawItem>template;XXXX-0603-X-XXXX-XX-bbls</drawItem>
