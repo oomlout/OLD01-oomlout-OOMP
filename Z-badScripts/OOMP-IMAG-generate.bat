@@ -12,4 +12,4 @@ REM Generate Image Resolution Single
 REM
 
 	REM      Generate Directory Of Images
-python %IMAGdirectory%IMAGmain.py -di %OOMPDirectory% -re 87,140,420,600,1500 
+python %IMAGdirectory%IMAGmain.py -di %OOMPDirectory% -re 87,90,140,420,600,1500 
