@@ -5,6 +5,12 @@
 ##*.jpg
 ##*.zip
 ##*.psd
+######  Ignore extra captures of footprint
+*KC-01*
+*KC-02*
+*KC-03*
+*KC-04*
+
 /tmp
 /redirects
 Backup_*.*
