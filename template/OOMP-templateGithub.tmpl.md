@@ -110,7 +110,7 @@ OPL Libraries
 ::::
 ^^0,12,%%T%%^^
 **%%ID%%,oompPart.oompID,oplList.oplSystem.oplCode&&%%T%%&&**
-| @@%%ID%%,oompPart.oompID,oplList.oplSystem.oplScheme&&%%T%%&&@@ | __[@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplID&&%%T%%&&@@](@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplLink&&%%T%%&&@@)__ | @@%%ID%%,oompPart.oompID,oplList.oplSystem.oplName&&%%T%%&&@@ | @@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@ <br /> @@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint2&&%%T%%&&@@ | [[https://github.com/oomlout/oomlout-OOMP/blob/master/OOMP-footprint/OOMP-image/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplCode&&%%T%%&&@@/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@-KC_90.png|alt=@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@]]   | ~~
+| @@%%ID%%,oompPart.oompID,oplList.oplSystem.oplScheme&&%%T%%&&@@ | __[@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplID&&%%T%%&&@@](@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplLink&&%%T%%&&@@)__ | @@%%ID%%,oompPart.oompID,oplList.oplSystem.oplName&&%%T%%&&@@ | @@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@ <br /> @@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint2&&%%T%%&&@@ | ![@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@](https://github.com/oomlout/oomlout-OOMP/blob/master/OOMP-footprint/OOMP-image/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplCode&&%%T%%&&@@/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@-KC_140.png)   | ~~
 ;;;;
 
 @@bottomText,oompBasic.type,value@@   
