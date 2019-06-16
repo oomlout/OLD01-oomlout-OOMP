@@ -106,7 +106,7 @@ OPL Libraries
 
 
 | OPL Scheme | Part Number | Description | Footprint | 
-| ----- | ----- | ----- | ----- |
+| ----- | ----- | ----- | ----- | 
 ::::
 ^^0,12,%%T%%^^
 **%%ID%%,oompPart.oompID,oplList.oplSystem.oplCode&&%%T%%&&**
@@ -115,7 +115,7 @@ OPL Libraries
 __[@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplID&&%%T%%&&@@](@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplLink&&%%T%%&&@@)__ | 
 @@%%ID%%,oompPart.oompID,oplList.oplSystem.oplName&&%%T%%&&@@ | 
 >>@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@,,@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@ <br /> 
-![@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@](https://github.com/oomlout/oomlout-OOMP/blob/master/OOMP-footprint/OOMP-image/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplCode&&%%T%%&&@@/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@-KC_140.png)>>
+![@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@](https://github.com/oomlout/oomlout-OOMP/blob/master/OOMP-footprint/OOMP-image/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplCode&&%%T%%&&@@/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@-KC_140.png)<br /> >>
 >>@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@,,@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@ <br /> 
 ![@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint2&&%%T%%&&@@](https://github.com/oomlout/oomlout-OOMP/blob/master/OOMP-footprint/OOMP-image/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplCode&&%%T%%&&@@/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint2&&%%T%%&&@@-KC_140.png)<br /> >>   | ~~
 ;;;;
