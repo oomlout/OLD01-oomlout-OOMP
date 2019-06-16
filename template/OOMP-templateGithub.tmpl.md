@@ -84,13 +84,12 @@ Manufacturers
 **%%ID%%,oompPart.oompID,sourceList.manufacturer.company&&0&&**| ----- | ----- | ----- | ----- | 
 ::::
 ^^0,12,%%T%%^^**%%ID%%,oompPart.oompID,sourceList.manufacturer.company&&%%T%%&&**
-| @@%%ID%%,oompPart.oompID,sourceList.manufacturer.company&&%%T%%&&@@ |  __@3%%ID%%,oompPart.oompID,sourceList.manufacturer.partID&&%%T%%&&@3__ | __[(O)](https://octopart.com/search?q=@3%%ID%%,oompPart.oompID,sourceList.manufacturer.partID&&%%T%%&&@3%22)__&nbsp; 
-__[(P)](http://parts.io/search/term-@@%%ID%%,oompPart.oompID,sourceList.manufacturer.company&&%%T%%&&@@%20@3%%ID%%,oompPart.oompID,sourceList.manufacturer.partID&&%%T%%&&@3)__&nbsp; 
+| @@%%ID%%,oompPart.oompID,sourceList.manufacturer.company&&%%T%%&&@@ |  __@3%%ID%%,oompPart.oompID,sourceList.manufacturer.partID&&%%T%%&&@3__ | __[(O)](https://octopart.com/search?q=@3%%ID%%,oompPart.oompID,sourceList.manufacturer.partID&&%%T%%&&@3%22)__&nbsp;
 __[(U)](http://upverter.com/search/?q=@3%%ID%%,oompPart.oompID,sourceList.manufacturer.partID&&%%T%%&&@3)__&nbsp;
 __[(A)](http://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20160601045416&SearchText=@3%%ID%%,oompPart.oompID,sourceList.manufacturer.partID&&%%T%%&&@3)__&nbsp;
 <br />
 __[(T)](https://s.taobao.com/search?q=@3%%ID%%,oompPart.oompID,sourceList.manufacturer.partID&&%%T%%&&@3)__&nbsp;
-__[(G)](https://www.google.com/search?as_q=@3%%ID%%,oompPart.oompID,sourceList.manufacturer.partID&&%%T%%&&@3)__&nbsp; 
+__[(G)](https://www.google.com/search?as_q=@3%%ID%%,oompPart.oompID,sourceList.manufacturer.partID&&%%T%%&&@3)__&nbsp;
 __[(S)](https://www.snapeda.com/search/?q=@3%%ID%%,oompPart.oompID,sourceList.manufacturer.partID&&%%T%%&&@3&search-type=parts&resistance=&tolerance=&manufacturer=&package=&search-type=parts)__&nbsp; 
 | 
 __[(D)](http://www.digikey.com/product-search/en?x=0&y=0&lang=en&site=us&keywords=@@%%ID%%,oompPart.oompID,sourceList.manufacturer.company&&%%T%%&&@@%20@3%%ID%%,oompPart.oompID,sourceList.manufacturer.partID&&%%T%%&&@3)__&nbsp;
@@ -98,14 +97,14 @@ __[(M)](http://www.mouser.com/Search/Refine.aspx?Keyword=@@%%ID%%,oompPart.oompI
 __[(F)](http://uk.farnell.com/webapp/wcs/stores/servlet/Search?catalogId=&langId=44&storeId=10151&gs=true&st=@@%%ID%%,oompPart.oompID,sourceList.manufacturer.company&&%%T%%&&@@%20@3%%ID%%,oompPart.oompID,sourceList.manufacturer.partID&&%%T%%&&@3)__&nbsp;
 __[(R)](http://uk.rs-online.com/web/c/?searchTerm=@3%%ID%%,oompPart.oompID,sourceList.manufacturer.partID&&%%T%%&&@3&h=s&sra=oss)__ | ''%%ID%%-datasheet-@@%%ID%%,oompPart.oompID,sourceList.manufacturer.companyCode&&%%T%%&&@@.pdf,__[(datasheet)](https://github.com/oomlout/oomlout-OOMP/raw/master/parts/%%ID%%/%%ID%%-datasheet-@@%%ID%%,oompPart.oompID,sourceList.manufacturer.companyCode&&%%T%%&&@@.pdf)__,''~~
 ;;;;
-**%%ID%%,oompPart.oompID,sourceList.manufacturer.company&&0&&** Search Engines | <b>(O)</b>Octopart,&nbsp;<b>(P)</b>Parts.io,&nbsp;<br /><b>(U)</b>Upverter,<b>(A)</b>AliExpress,&nbsp;<br /><b>(T)</b>Taobao,&nbsp;<b>(G)</b>Google<br /><b>(S)</b>SnapEDA | Distributor Search | <b>(D)</b>Digikey,&nbsp;<b>(M)</b>Mouser,<br /><b>(F)</b>Farnell(UK),&nbsp;<b>(R)</b>RS(UK) |
+**%%ID%%,oompPart.oompID,sourceList.manufacturer.company&&0&&** Search Engines | <b>(O)</b>Octopart,&nbsp;<b>(U)</b>Upverter,&nbsp;<br /><b>(A)</b>AliExpress,&nbsp;<b>(T)</b>Taobao,&nbsp;<br /><b>(G)</b>Google<br /><b>(S)</b>SnapEDA | Distributor Search | <b>(D)</b>Digikey,&nbsp;<b>(M)</b>Mouser,<br /><b>(F)</b>Farnell(UK),&nbsp;<b>(R)</b>RS(UK) |
 <<,@@%%ID%%,oompPart.oompID,sourceList.manufacturer.company&&0&&@@,No manufacturers yet.<<
 
 OPL Libraries
 --------------------------------------- 
 
 
-| OPL Scheme | Part Number | Description | Footprint | 
+| OPL Scheme | Part<br /> Number | Description | Footprint | 
 | ----- | ----- | ----- | ----- | 
 ::::
 ^^0,12,%%T%%^^
@@ -115,9 +114,9 @@ OPL Libraries
 __[@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplID&&%%T%%&&@@](@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplLink&&%%T%%&&@@)__ | 
 @@%%ID%%,oompPart.oompID,oplList.oplSystem.oplName&&%%T%%&&@@ | 
 >>@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@,,@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@ <br /> 
-![@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@](https://github.com/oomlout/oomlout-OOMP/blob/master/OOMP-footprint/OOMP-image/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplCode&&%%T%%&&@@/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@-KC_140.png)<br /> >>
->>@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@,,@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@ <br /> 
-![@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint2&&%%T%%&&@@](https://github.com/oomlout/oomlout-OOMP/blob/master/OOMP-footprint/OOMP-image/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplCode&&%%T%%&&@@/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint2&&%%T%%&&@@-KC_140.png)<br /> >>   | ~~
+![@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@](https://github.com/oomlout/oomlout-OOMP/blob/master/OOMP-footprint/OOMP-image/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplCode&&%%T%%&&@@/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@-KC_140.png) [BIG](https://github.com/oomlout/oomlout-OOMP/blob/master/OOMP-footprint/OOMP-image/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplCode&&%%T%%&&@@/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@-KC_1500.png)<br /> >>
+>>@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint2&&%%T%%&&@@,,@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint2&&%%T%%&&@@ <br /> 
+![@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint2&&%%T%%&&@@](https://github.com/oomlout/oomlout-OOMP/blob/master/OOMP-footprint/OOMP-image/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplCode&&%%T%%&&@@/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint2&&%%T%%&&@@-KC_140.png) [BIG](https://github.com/oomlout/oomlout-OOMP/blob/master/OOMP-footprint/OOMP-image/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplCode&&%%T%%&&@@/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@-KC_1500.png)<br /> >>   | ~~
 ;;;;
 
 @@bottomText,oompBasic.type,value@@   
