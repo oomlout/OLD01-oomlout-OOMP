@@ -2,9 +2,9 @@
 set TPGEdirectory=C:\GH\oomlout-TPGE\
 set REDIdirectory=C:\GH\oomlout-OOMP\redirects\
 
-REM set OOBBpartsDirectory=C:\GH\oomlout-OOMP\parts\
+set OOBBpartsDirectory=C:\GH\oomlout-OOMP\parts\
 REM Test Directory
-set OOBBpartsDirectory=C:\GH\oomlout-OOMPTEST\parts\
+REM set OOBBpartsDirectory=C:\GH\oomlout-OOMPTEST\parts\
 
 set OOMPwikiDirectory=C:\GH\oomlout-OOMP.wiki\
 set OOMPwikiDirectoryParts=C:\GH\oomlout-OOMP.wiki\parts\
