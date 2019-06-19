@@ -14,6 +14,6 @@ __Part Types__
 ::::
 ^^0,100,%%U%%^^
 ==%%U%%,oompType.code,code==
-| <p align="center">[__!!%%U%%,oompType.code,code!!__<br> !!%%U%%,oompType.code,name!!<br>](https://github.com/oomlout/oomlout-OOMP/wiki/typePictureIndex!!%%U%%,oompType.code,code!!)</p> |~~
+| <p align="center">[__!!%%U%%,oompType.code,code!!__<br> !!%%U%%,oompType.code,name!!<br>](https://github.com/oomlout/oomlout-OOMP/wiki/typeQuickIndex!!%%U%%,oompType.code,code!!)</p> |~~
 ""
 ;;;;

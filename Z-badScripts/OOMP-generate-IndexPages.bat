@@ -22,6 +22,10 @@ REM PictureIndex Type Github wiki
 
 python %TPGEdirectory%TPGEmain.py -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp,%OOMPprojectsDirectory% -tm %OOMPdirectory%template/OOMP-pictureIndexType.tmpl.md -of %OOMPWikiDirectory%typePictureIndex%%%%ID%%%%.md -ui oompType.code
 
+REM SimpleIndex Type Github wiki (to deal with long load time)
+
+python %TPGEdirectory%TPGEmain.py -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp,%OOMPprojectsDirectory% -tm %OOMPdirectory%template/OOMP-quickIndexType.tmpl.md -of %OOMPWikiDirectory%typeQuickIndex%%%%ID%%%%.md -ui oompType.code
+
 
 REM SEEEDIndex Github wiki
 
