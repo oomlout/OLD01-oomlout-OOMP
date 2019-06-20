@@ -1,4 +1,4 @@
-﻿<xml>
+<xml>
 	<oompPart>
 		<index>4091</index>
 		<oompID>CAPC-0603-X-NF1-01</oompID>
@@ -104,7 +104,24 @@
 				<oplPackage>0603</oplPackage>
 				<oplLink><![CDATA[https://circuithub.com/parts/MURATA/GRM188R71H102KA01D]]></oplLink>
 			</oplSystem>
-		</oplList>
+			<oplSystem>
+		<oplScheme>KiCad Default Library</oplScheme>
+		<oplCode>C-KICD</oplCode>
+		<oplFootprint1>(Capacitors_SMD)C_0603_1608Metric</oplFootprint1>
+		<oplFootprint2>(Capacitors_SMD)C_0603_1608Metric_Pad1.05x0.95mm_HandSolder</oplFootprint2>
+	</oplSystem>
+	<oplSystem>
+		<oplScheme>MacroFab EDALibrary</oplScheme>
+		<oplCode>C-MACR</oplCode>
+		<oplFootprint1>(MF_Passives)MF_Passives-C0603</oplFootprint1>
+	</oplSystem>
+	<oplSystem>
+		<oplScheme>Sparkfun KiCad Library</oplScheme>
+		<oplCode>C-SPAR</oplCode>
+		<oplFootprint1>(Capacitors)0603</oplFootprint1>
+		<oplFootprint2>(Capacitors)0603-POLAR</oplFootprint2>
+	</oplSystem>
+</oplList>
 		<ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:Capacitor0603.zip</ooSEEED3dModel>
 		<oompClass>Surface Mount</oompClass>
 		<oompClassCode>SMDS</oompClassCode>

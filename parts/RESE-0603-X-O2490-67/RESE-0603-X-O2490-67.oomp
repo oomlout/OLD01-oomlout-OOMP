@@ -70,18 +70,18 @@
 		<oplSystem>
 		<oplScheme>KiCad Default Library</oplScheme>
 		<oplCode>C-KICD</oplCode>
-		<oplFootprint1>(Capacitors_SMD)C_0603_1608Metric</oplFootprint1>
-			<oplFootprint2>(Capacitors_SMD)C_0603_1608Metric_Pad1.05x0.95mm_HandSolder</oplFootprint2>
+		<oplFootprint1>(Resistors_SMD)R_0603_1608Metric</oplFootprint1>
+			<oplFootprint2></oplFootprint2>
 </oplSystem>
 	<oplSystem>
 		<oplScheme>MacroFab EDALibrary</oplScheme>
 		<oplCode>C-MACR</oplCode>
-		<oplFootprint1>(MF_Passives)MF_Passives-C0603</oplFootprint1>
+		<oplFootprint1>(MF_Passives)MF_Passives-R0603</oplFootprint1>
 	</oplSystem>
 	<oplSystem>
 		<oplScheme>Sparkfun KiCad Library</oplScheme>
 		<oplCode>C-SPAR</oplCode>
-		<oplFootprint1>(Capacitors)0603</oplFootprint1>
+		<oplFootprint1>(Resistors)0603</oplFootprint1>
 			<oplFootprint2>(Capacitors)0603-POLAR</oplFootprint2>
 </oplSystem>
 </oplList>
