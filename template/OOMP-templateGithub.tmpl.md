@@ -114,12 +114,12 @@ OPL Libraries
 __[@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplID&&%%T%%&&@@](@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplLink&&%%T%%&&@@)__ | 
 @@%%ID%%,oompPart.oompID,oplList.oplSystem.oplName&&%%T%%&&@@ | 
 >>@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@,,@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@ <br /> 
-![@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@](https://github.com/oomlout/oomlout-OOMP/blob/master/OOMP-footprint/OOMP-image/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplCode&&%%T%%&&@@/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@-KC_140.png) [BIG](https://github.com/oomlout/oomlout-OOMP/blob/master/OOMP-footprint/OOMP-image/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplCode&&%%T%%&&@@/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@-KC_1500.png)<br /> >>
+![@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@](https://raw.githubusercontent.com/oomlout/oomlout-OOMP/master/OOMP-footprint/OOMP-image/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplCode&&%%T%%&&@@/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@-KC_140.png) [BIG](https://raw.githubusercontent.com/oomlout/oomlout-OOMP/master/OOMP-footprint/OOMP-image/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplCode&&%%T%%&&@@/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@-KC_1500.png)<br /> >>
 >>@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint2&&%%T%%&&@@,,@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint2&&%%T%%&&@@ <br /> 
-![@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint2&&%%T%%&&@@](https://github.com/oomlout/oomlout-OOMP/blob/master/OOMP-footprint/OOMP-image/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplCode&&%%T%%&&@@/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint2&&%%T%%&&@@-KC_140.png) [BIG](https://github.com/oomlout/oomlout-OOMP/blob/master/OOMP-footprint/OOMP-image/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplCode&&%%T%%&&@@/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@-KC_1500.png)<br /> >>   | ~~
+![@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint2&&%%T%%&&@@](https://raw.githubusercontent.com/oomlout/oomlout-OOMP/master/OOMP-footprint/OOMP-image/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplCode&&%%T%%&&@@/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint2&&%%T%%&&@@-KC_140.png) [BIG](https://raw.githubusercontent.com/oomlout/oomlout-OOMP/master/OOMP-footprint/OOMP-image/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplCode&&%%T%%&&@@/@@%%ID%%,oompPart.oompID,oplList.oplSystem.oplFootprint1&&%%T%%&&@@-KC_1500.png)<br /> >>   | ~~
 ;;;;
 
 @@bottomText,oompBasic.type,value@@   
 
-
+https://raw.githubusercontent.com/oomlout/oomlout-OOMP/master/parts/RESE-0402-X-O000-67/RESE-0402-X-O000-67-bbls_1500.png
 
