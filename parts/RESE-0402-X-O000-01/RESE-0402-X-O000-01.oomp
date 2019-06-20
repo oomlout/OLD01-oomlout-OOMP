@@ -23,7 +23,8 @@
 			</manufacturer>
 		</sourceList>
 		
-<oplList>	<oplSystem>
+<oplList>	
+	<oplSystem>
 		<oplScheme>OOMP</oplScheme>
 		<oplCode>C-OOMP</oplCode>
 		<oplName>SMD (0402) 0 Ohm Resistor</oplName>
@@ -31,19 +32,18 @@
 		<oplLink><![CDATA[https://github.com/oomlout/oomlout-OOMP/wiki/RESE-0402-X-O000-01]]></oplLink>
 		<oplFootprint1>(OOMP-kicad)OOMP-RESE-0402-X-XXXX-XX</oplFootprint1>
 		<oplFootprint2>(OOMP-kicad)OOMP-RESE-0402-X-XXXX-XX-ES</oplFootprint2>
-
 	</oplSystem>
-			<oplSystem>
-				<oplScheme>Seeed OPL</oplScheme>
-				<oplCode>C-SEEE</oplCode>
-				<oplName>SMD RES 0R-5%-1/16W</oplName>
-				<oplID>301010000</oplID>
-				<oplFootprint>0402</oplFootprint>
-				<oplPackage>0402</oplPackage>
-				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
-					<oplFootprint1>(OPL_Resistor)R0402</oplFootprint1>
-</oplSystem>
-		</oplList>
+	<oplSystem>
+		<oplScheme>Seeed OPL</oplScheme>
+		<oplCode>C-SEEE</oplCode>
+		<oplName>SMD RES 0R-5%-1/16W</oplName>
+		<oplID>301010000</oplID>
+		<oplFootprint>0402</oplFootprint>
+		<oplPackage>0402</oplPackage>
+		<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
+		<oplFootprint1>(OPL_Resistor)R0402</oplFootprint1>
+	</oplSystem>
+</oplList>
 		
 			<oompBbls>
 			<drawItem>template;XXXX-0402-X-XXXX-XX-bbls</drawItem>
