@@ -1,18 +1,26 @@
 <xml>
 	<oompOPL>
-		<code>C-SEEE</code>
-		<name>SEEED Studios OPL</name>
+		<code>C-KICD</code>
+		<name>KiCad Default Library</name>
+	</oompOPL>
+	<oompOPL>
+		<code>C-MACR</code>
+		<name>MacroFab EDALibrary</name>
 	</oompOPL>
 	<oompOPL>
 		<code>C-OCTO</code>
 		<name>Octopart CPL</name>
 	</oompOPL>
 	<oompOPL>
-		<code>C-CIRC</code>
-		<name>Circuithub.com</name>
-	</oompOPL>
-	<oompOPL>
 		<code>C-OOMP</code>
 		<name>Oopen Organization Method for Parts</name>
+	</oompOPL>
+	<oompOPL>
+		<code>C-SEEE</code>
+		<name>SEEED Studios OPL</name>
+	</oompOPL>
+	<oompOPL>
+		<code>C-SPAR</code>
+		<name>Sparkfun KiCad Library</name>
 	</oompOPL>
 </xml>
