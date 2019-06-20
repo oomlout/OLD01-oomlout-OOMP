@@ -43,6 +43,21 @@
 		<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 		<oplFootprint1>(OPL_Resistor)R0402</oplFootprint1>
 	</oplSystem>
+	<oplSystem>
+		<oplScheme>KiCad Default Library</oplScheme>
+		<oplCode>C-KICD</oplCode>
+		<oplFootprint1>(Resistor_SMD)R_0402_1005Metric</oplFootprint1>
+	</oplSystem>
+	<oplSystem>
+		<oplScheme>MacroFab EDALibrary</oplScheme>
+		<oplCode>C-MACR</oplCode>
+		<oplFootprint1>(MF_Passices)MF_Passives-R0402</oplFootprint1>
+	</oplSystem>
+	<oplSystem>
+		<oplScheme>Sparkfun KiCad Library</oplScheme>
+		<oplCode>C-SPAR</oplCode>
+		<oplFootprint1>(Resistors)0402</oplFootprint1>
+	</oplSystem>
 </oplList>
 		
 			<oompBbls>
