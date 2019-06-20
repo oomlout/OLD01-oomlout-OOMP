@@ -4,7 +4,7 @@ Below is a list of OOMP Parts of type @@%%ID%%,oompType.code,name@@
 
 Back to main index [(here)](https://github.com/oomlout/oomlout-OOMP/wiki/pictureIndex)
 
-You can find a version with images [(here)](https://github.com/oomlout/oomlout-OOMP/wiki/pictureIndex@@oompIndexNavigation1,oompBasic.type,value@@)   
+You can find a version with images [(here)](https://github.com/oomlout/oomlout-OOMP/wiki/pictureIndex%%ID%%)   
 
 @@oompIndexNavigation1,oompBasic.type,value@@   
 
