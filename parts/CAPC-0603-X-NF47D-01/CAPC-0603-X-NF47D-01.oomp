@@ -79,7 +79,8 @@
 				
 				<oplPackage>0603</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
-			</oplSystem>
+					<oplFootprint1>(OPL_Capacitor)C0603</oplFootprint1>
+</oplSystem>
 			<oplSystem>
 				<oplScheme>OctoPart CPL</oplScheme>
 				<oplCode>C-OCTO</oplCode>

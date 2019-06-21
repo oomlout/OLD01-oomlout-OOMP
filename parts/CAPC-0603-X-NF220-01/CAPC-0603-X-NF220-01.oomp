@@ -28,14 +28,15 @@
 		</sourceList>
 		<oplList>
 			<oplSystem>
-				<oplScheme>SEEED Studio</oplScheme>
+				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
 				<oplName>SMD CAP Ceramic 220nF-25V-10%-X7R</oplName>
 				<oplID>302010073</oplID>
 				<oplFootprint>0603</oplFootprint>
 				<oplPackage>0603</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
-			</oplSystem>
+					<oplFootprint1>(OPL_Capacitor)C0603</oplFootprint1>
+</oplSystem>
 			<oplSystem>
 		<oplScheme>KiCad Default Library</oplScheme>
 		<oplCode>C-KICD</oplCode>

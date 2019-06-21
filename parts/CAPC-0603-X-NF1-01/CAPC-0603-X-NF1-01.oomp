@@ -78,14 +78,15 @@
 		</sourceList>
 		<oplList>
 			<oplSystem>
-				<oplScheme>SEED OPL</oplScheme>
+				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
 				<oplName>SMD CAP Ceramic 1nF-50V-10%-X7R</oplName>
 				<oplID>302010141</oplID>
 				
 				<oplPackage>0603</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
-			</oplSystem>
+					<oplFootprint1>(OPL_Capacitor)C0603</oplFootprint1>
+</oplSystem>
 			<oplSystem>
 				<oplScheme>OctoPart CPL</oplScheme>
 				<oplCode>C-OCTO</oplCode>

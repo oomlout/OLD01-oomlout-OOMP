@@ -34,19 +34,20 @@
 
 	</oplSystem>
 			<oplSystem>
-				<oplScheme>Seeed OPL</oplScheme>
+				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
 				<oplName>SMD RES 82K-1%-1/10W</oplName>
 				<oplID>301010222</oplID>
 				<oplFootprint>0603</oplFootprint>
 				<oplPackage>0603</oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
-			</oplSystem>
+					<oplFootprint1>(OPL_Resistor)R0603</oplFootprint1>
+</oplSystem>
 			<oplSystem>
 		<oplScheme>KiCad Default Library</oplScheme>
 		<oplCode>C-KICD</oplCode>
 		<oplFootprint1>(Resistors_SMD)R_0603_1608Metric</oplFootprint1>
-			<oplFootprint2></oplFootprint2>
+			<oplFootprint2>(Resistors_SMD)R_0603_1608Metric_Pad1.05x0.95mm_HandSolder</oplFootprint2>
 </oplSystem>
 	<oplSystem>
 		<oplScheme>MacroFab EDALibrary</oplScheme>

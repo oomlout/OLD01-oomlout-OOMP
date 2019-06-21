@@ -29,7 +29,8 @@
 				
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
-			</oplSystem>
+					<oplFootprint1>(OPL_Capacitor)C0402</oplFootprint1>
+</oplSystem>
 			<oplSystem>
 		<oplScheme>KiCad Default Library</oplScheme>
 		<oplCode>C-KICD</oplCode>

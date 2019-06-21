@@ -54,7 +54,8 @@
 			<oplID>302010091</oplID>
 			
 			<oplLink>https://www.seeedstudio.com/opl.html?</oplLink>
-		</oplSystem>
+				<oplFootprint1>(OPL_Capacitor)C0603</oplFootprint1>
+</oplSystem>
 		<oplSystem>
 		<oplScheme>KiCad Default Library</oplScheme>
 		<oplCode>C-KICD</oplCode>
