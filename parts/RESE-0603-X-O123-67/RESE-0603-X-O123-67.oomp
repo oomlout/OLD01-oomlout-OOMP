@@ -46,8 +46,8 @@
 			<oplSystem>
 		<oplScheme>KiCad Default Library</oplScheme>
 		<oplCode>C-KICD</oplCode>
-		<oplFootprint1>(Resistors_SMD)R_0603_1608Metric</oplFootprint1>
-			<oplFootprint2>(Resistors_SMD)R_0603_1608Metric_Pad1.05x0.95mm_HandSolder</oplFootprint2>
+		<oplFootprint1>(Resistor_SMD)R_0603_1608Metric</oplFootprint1>
+			<oplFootprint2>(Resistor_SMD)R_0603_1608Metric_Pad1.05x0.95mm_HandSolder</oplFootprint2>
 </oplSystem>
 	<oplSystem>
 		<oplScheme>MacroFab EDALibrary</oplScheme>
