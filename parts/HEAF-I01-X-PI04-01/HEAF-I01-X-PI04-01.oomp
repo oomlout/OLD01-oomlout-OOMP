@@ -1,0 +1,61 @@
+<xml>
+	<oompPart>
+		<oompID>HEAF-I01-X-PI04-01</oompID>
+		<name>2.54 mm 4 Pin Female Header</name>
+		<hexID>HF04</hexID>
+		<oompSort>HEAFI0104PI</oompSort>
+		<oompType>HEAF</oompType>
+		<oompSize>I01</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>PI04</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>98</oompVersion>
+		<ooNumPins>4</ooNumPins>
+		<ooFootprint>OOMP-HEAD-I01-X-PI04-01</ooFootprint>
+		<sourceList>
+			<manufacturer>
+				<company>YXCON</company>
+				<companyCode>C-YXCO</companyCode>
+				<name></name>
+				<partID>F185-1104A1BSYA1</partID>
+				<link></link>
+				<note></note>
+			</manufacturer>
+		</sourceList>
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>DIP Black Female Header VERT</oplName>
+				<oplID>320030017</oplID>
+				
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
+			</oplSystem>
+		</oplList>
+		<oompBbls>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;4</drawItem>
+			<drawItem>template;XXXX-I01-X-XX-01-bbls</drawItem>
+		</oompBbls>
+		<oompDiag>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;4</drawItem>
+			<drawItem>template;HEAF-I01-X-XX-01-diag</drawItem>
+		</oompDiag>
+		<drawItem>variable;clear</drawItem>
+		<drawItem>variable;pins;4</drawItem>
+		<drawItem>template;XXXX-I01-X-XX-01-iden</drawItem>
+		<oompSchem>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;4</drawItem>
+			<drawItem>template;XXXX-XX-X-XX-01-PINS-EVEN-schem</drawItem>
+		</oompSchem>
+		<oompSimp>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;4</drawItem>
+			<drawItem>template;XXXX-I01-X-XX-01-simp</drawItem>
+		</oompSimp>
+		<ooDesignator>J1</ooDesignator>
+	</oompPart>
+</xml>

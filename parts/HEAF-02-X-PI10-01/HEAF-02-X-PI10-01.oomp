@@ -1,0 +1,38 @@
+<xml>
+	<oompPart>
+		<oompID>HEAF-02-X-PI10-01</oompID>
+		<name>2 mm 10 Pin Female Header</name>
+		<hexID>HF210</hexID>
+		<oompSort>HEAF0210PI</oompSort>
+		<oompType>HEAF</oompType>
+		<oompSize>02</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>PI10</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>98</oompVersion>
+		<ooNumPins>10</ooNumPins>
+		<ooFootprint>OOMP-HEAD-I01-X-PI10-01</ooFootprint>
+		<sourceList>
+			<manufacturer>
+				<company>YXCON</company>
+				<companyCode>C-YXCO</companyCode>
+				<name></name>
+				<partID>F243-1110A1BSUA1</partID>
+				<link></link>
+				<note></note>
+			</manufacturer>
+		</sourceList>
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>DIP Black Female Header VERT;</oplName>
+				<oplID>320030009</oplID>
+				
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
+			</oplSystem>
+		</oplList>
+		<ooDesignator>J1</ooDesignator>
+	</oompPart>
+</xml>

@@ -1,0 +1,72 @@
+<xml>
+	<oompPart>
+		<oompID>HEAD-I01-X-PI06-01</oompID>
+		<name>2.54 mm 6 Pin Header</name>
+		<hexID>H06</hexID>
+		<oompSort></oompSort>
+		<oompClass>Through Hole</oompClass>
+		<oompClassCode>THTH</oompClassCode>
+		<oompType>HEAD</oompType>
+		<oompSize>I01</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>PI06</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>40</oompVersion>
+		<ooPitch>2.54</ooPitch>
+		<ooPinHeight>11.60</ooPinHeight>
+		<ooPinWidth>0.64</ooPinWidth>
+		<ooPinOffset>1.53</ooPinOffset>
+		<ooNumPins>6</ooNumPins>
+		<ooFootprint>OOMP-HEAD-I01-X-PI06-01</ooFootprint>
+		<sourceList>
+			<manufacturer>
+				<company>Yxcon</company>
+				<companyCode>C-YXCO</companyCode>
+				<name></name>
+				<partID>P125-1106A1BS116A1</partID>
+				<link></link>
+				<note></note>
+			</manufacturer>
+		</sourceList>
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>DIP Black Male Header VERT</oplName>
+				<oplID>320020078</oplID>
+				<oplFootprint>1*6P-2.54-2.54-19.5/3.0mm</oplFootprint>
+				<oplPackage>1*6P-2.54-2.54-19.5/3.0mm</oplPackage>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
+			</oplSystem>
+		</oplList>
+		<oompBbls>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;6</drawItem>
+			<drawItem>template;XXXX-I01-X-XX-01-bbls</drawItem>
+		</oompBbls>
+		<oompDiag>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;6</drawItem>
+			<drawItem>template;HEAD-I01-X-XX-01-diag</drawItem>
+		</oompDiag>
+		<oompIden>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;6</drawItem>
+			<drawItem>template;XXXX-I01-X-XX-01-iden</drawItem>
+		</oompIden>
+		<oompSchem>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;6</drawItem>
+			<drawItem>template;XXXX-XX-X-XX-01-PINS-EVEN-schem</drawItem>
+		</oompSchem>
+		<oompSimp>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;6</drawItem>
+			<drawItem>template;XXXX-I01-X-XX-01-simp</drawItem>
+		</oompSimp>
+		<ooDesignator>J1</ooDesignator>
+		<schematicSymbol>HEAD-XX-X-PI06-XX</schematicSymbol>
+		<pcbFootprint>HEAD-I01-X-PI06-01</pcbFootprint>
+
+	</oompPart>
+</xml>

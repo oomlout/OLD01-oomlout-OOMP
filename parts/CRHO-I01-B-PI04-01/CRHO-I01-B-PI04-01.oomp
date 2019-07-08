@@ -1,0 +1,60 @@
+﻿<xml>
+	<oompPart>
+		<index>3948</index>
+		<oompID>CRHO-I01-B-PI04-01</oompID>
+		<name>2.54 mm 4 Pin Black Crimp Housing</name>
+		<hexID>CH04</hexID>
+		<oompSort>010104</oompSort>
+		<oompType>CRHO</oompType>
+		<oompSize>I01</oompSize>
+		<oompColor>B</oompColor>
+		<oompDesc>PI04</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>10</oompVersion>
+		<ooPitch>2.54 mm</ooPitch>
+		<ooWidth>10.36 mm</ooWidth>
+		<ooHeight>14 mm</ooHeight>
+		<ooDepth>2.5 mm</ooDepth>
+		<ooMaterial>Plastic</ooMaterial>
+		<ooTerminalStyle>DuPont</ooTerminalStyle>
+		<ooMaxCurrent>3 A</ooMaxCurrent>
+		<ooMaxVoltage>250 V</ooMaxVoltage>
+		<oompAbout>These four pin connectors are often used simply when you find you have four wires that need connecting. That said a common usage is with data buses, most notably I2C (power (+/gnd) SDA, SCL), or they can also be found on stepper motors when they are being driven in bipolar mode (A+, A-, B+, B-).</oompAbout>
+		<sourceList>
+			<manufacturer>
+				<company>4uCon</company>
+				<companyCode>C-4UCN</companyCode>
+				<name></name>
+				<partID>02044</partID>
+				<link></link>
+				<note></note>
+			</manufacturer>
+		</sourceList>
+		<oompClass>Through Hole Component</oompClass>
+		<oompClassCode>THTH</oompClassCode>
+		<oompBbls>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;4</drawItem>
+			<drawItem>template;XXXX-I01-X-XX-01-bbls</drawItem>
+		</oompBbls>
+		<oompDiag>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;4</drawItem>
+			<drawItem>template;CRHO-I01-X-XX-01-diag</drawItem>
+		</oompDiag>
+		<drawItem>variable;clear</drawItem>
+		<drawItem>variable;pins;4</drawItem>
+		<drawItem>template;XXXX-I01-X-XX-01-iden</drawItem>
+		<oompSchem>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;4</drawItem>
+			<drawItem>template;XXXX-XX-X-XX-01-PINS-EVEN-schem</drawItem>
+		</oompSchem>
+		<oompSimp>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;4</drawItem>
+			<drawItem>template;XXXX-I01-X-XX-01-simp</drawItem>
+		</oompSimp>
+		<ooDesignator>J1</ooDesignator>
+	</oompPart>
+</xml>

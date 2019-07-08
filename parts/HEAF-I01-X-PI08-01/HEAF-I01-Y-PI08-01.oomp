@@ -1,0 +1,67 @@
+﻿<xml>
+	<oompPart>
+		<index>4290</index>
+		<oompID>HEAF-I01-Y-PI08-01</oompID>
+		<name>2.54 mm 8 Pin Yellow Female Header</name>
+		<hexID>10C2</hexID>
+		<oompSort>010803</oompSort>
+		<oompType>HEAF</oompType>
+		<oompSize>I01</oompSize>
+		<oompColor>Y</oompColor>
+		<oompDesc>PI08</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>99</oompVersion>
+		<ooManufacturer>C-YXCO</ooManufacturer>
+		<ooManufacturerPartNumber>F185-1108A1BSYC1</ooManufacturerPartNumber>
+		<ooNumPins>8</ooNumPins>
+		<ooFootprint>OOMP-HEAD-I01-X-PI08-01</ooFootprint>
+		<ooSEEEDsku>3460590P1</ooSEEEDsku>
+		<ooSEEEDdesc>DIP Yellow Female Header</ooSEEEDdesc>
+		<ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:1X8P-2.54-8.5-YELLOW-FEMALE.zip</ooSEEED3dModel>
+		<sourceList>
+			<manufacturer>
+				<company>Yuxi</company>
+				<companyCode>C-YUXI</companyCode>
+				<name></name>
+				<partID>F185-1108A1BSYC1</partID>
+				<link></link>
+				<note></note>
+			</manufacturer>
+		</sourceList>
+		<oplList>
+			<oplSystem>
+				<oplScheme>Seeed OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>DIP Yellow Female Header</oplName>
+				<oplID>320030065</oplID>
+				<oplFootprint>1*6P-2.54-8.5mm</oplFootprint>
+				<oplPackage>1*6P-2.54-8.5mm</oplPackage>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
+			</oplSystem>
+		</oplList>
+		<oompBbls>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;8</drawItem>
+			<drawItem>template;XXXX-I01-X-XX-01-bbls</drawItem>
+		</oompBbls>
+		<oompDiag>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;8</drawItem>
+			<drawItem>template;HEAF-I01-X-XX-01-diag</drawItem>
+		</oompDiag>
+		<drawItem>variable;clear</drawItem>
+		<drawItem>variable;pins;8</drawItem>
+		<drawItem>template;XXXX-I01-X-XX-01-iden</drawItem>
+		<oompSchem>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;8</drawItem>
+			<drawItem>template;XXXX-XX-X-XX-01-PINS-EVEN-schem</drawItem>
+		</oompSchem>
+		<oompSimp>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;8</drawItem>
+			<drawItem>template;XXXX-I01-X-XX-01-simp</drawItem>
+		</oompSimp>
+		<ooDesignator>J1</ooDesignator>
+	</oompPart>
+</xml>

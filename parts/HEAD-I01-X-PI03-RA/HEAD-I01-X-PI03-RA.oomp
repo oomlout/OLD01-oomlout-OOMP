@@ -1,0 +1,42 @@
+<xml>
+	<oompPart>
+		<oompID>HEAD-I01-X-PI03-RA</oompID>
+		<name>2.54 mm 3 Pin Header Right Angle</name>
+		<hexID>HR03</hexID>
+		<oompSort>HEADI0103PI</oompSort>
+		<oompType>HEAD</oompType>
+		<oompSize>I01</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>PI03</oompDesc>
+		<oompIndex>RA</oompIndex>
+		<oompVersion>98</oompVersion>
+		<ooPitch>2.54</ooPitch>
+		<ooPinHeight>11.60</ooPinHeight>
+		<ooPinWidth>0.64</ooPinWidth>
+		<ooPinOffset>1.53</ooPinOffset>
+		<ooNumPins>3</ooNumPins>
+		<ooFootprint>OOMP-HEAD-I01-X-PI03-RA</ooFootprint>
+		<sourceList>
+			<manufacturer>
+				<company>YXCON</company>
+				<companyCode>C-YXCO</companyCode>
+				<name></name>
+				<partID>P125-1103A0BR138A1</partID>
+				<link></link>
+				<note></note>
+			</manufacturer>
+		</sourceList>
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>DIP Black Male Header R/A</oplName>
+				<oplID>320020061</oplID>
+				
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
+			</oplSystem>
+		</oplList>
+		<ooDesignator>J1</ooDesignator>
+	</oompPart>
+</xml>

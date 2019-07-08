@@ -1,0 +1,45 @@
+<xml>
+	<oompPart>
+		<oompID>BUTA-06-X-PI02-01</oompID>
+		<name>6 mm 2 Pin Pushbutton (Tactile)</name>
+		<hexID>BT62</hexID>
+		<oompSort></oompSort>
+		<oompClass>Through Hole</oompClass>
+		<oompClassCode>THTH</oompClassCode><oompType>BUTA</oompType>
+		<oompSize>06</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>PI02</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>40</oompVersion>
+		<ooWidth>6 mm</ooWidth>
+		<ooHeight>3.5 mm</ooHeight>
+		<ooDepth>3.5 mm</ooDepth>
+		<ooNumPins>2</ooNumPins>
+		<ooLifetime>50 000 cycles</ooLifetime>
+		<sourceList>
+			<manufacturer>
+				<company>Shenzhen Best</company>
+				<companyCode>C-BEST</companyCode>
+				<name></name>
+				<partID>TS-1101F</partID>
+				<link></link>
+				<note></note>
+			</manufacturer>
+		</sourceList>
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>DIP Button Front -white;</oplName>
+				<oplID>311020025</oplID>
+				<oplFootprint>2P-L6.0*W3.0*H4.3mm-90D</oplFootprint>
+				<oplPackage>2P-L6.0*W3.0*H4.3mm-90D</oplPackage>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
+			</oplSystem>
+		</oplList>
+		<oompAbout>A simple tactile pushbutton with two pins. This button is not commonly used. However it is imcluded in OOMP due to it being a part in the SEEED OPL. For a more commonly used through hole button we recommend (BUTA-06-X-STAN-01)</oompAbout>
+		<oompSchem>
+			<drawItem>template;BUTA-XXXX-X-PI02-XX-schem</drawItem>
+		</oompSchem><ooDesignator>S1</ooDesignator>
+	</oompPart>
+</xml>

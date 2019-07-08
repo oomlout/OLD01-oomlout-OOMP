@@ -1,0 +1,38 @@
+<xml>
+	<oompPart>
+		<oompID>HELF-I01-L-PI10-01</oompID>
+		<name>2.54 mm 10 Pin Blue Female Header (Long)</name>
+		<hexID>HFL10L</hexID>
+		<oompSort></oompSort>
+		<oompClass>Through Hole</oompClass>
+		<oompClassCode>THTH</oompClassCode>
+		<oompType>HELF</oompType>
+		<oompSize>I01</oompSize>
+		<oompColor>L</oompColor>
+		<oompDesc>PI10</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>40</oompVersion>
+		<sourceList>
+			<manufacturer>
+				<company>YXCon</company>
+				<companyCode>C-YXCO</companyCode>
+				<name></name>
+				<partID>F185-2110A0ASYA1</partID>
+				<link></link>
+				<note></note>
+			</manufacturer>
+		</sourceList>
+		<oplList>
+			<oplSystem>
+				<oplScheme>Seeed OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>DIP Long Blue Female Header</oplName>
+				<oplID>320030001</oplID>
+				<oplFootprint>1*10P-2.54-8.5+2.5-12.3mm</oplFootprint>
+				<oplPackage>1*10P-2.54-8.5+2.5-12.3mm</oplPackage>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
+			</oplSystem>
+		</oplList>
+		<ooDesignator>J1</ooDesignator>
+	</oompPart>
+</xml>

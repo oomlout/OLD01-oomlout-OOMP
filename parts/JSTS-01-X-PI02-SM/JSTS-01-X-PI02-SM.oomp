@@ -1,0 +1,36 @@
+<xml>
+	<oompPart>
+		<oompID>JSTS-01-X-PI02-SM</oompID>
+		<name>1 mm 2 Pin JST Socket (SMD)</name>
+		<hexID>J102</hexID>
+		<oompSort>JSTS0102PI</oompSort>
+		<oompType>JSTS</oompType>
+		<oompSize>01</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>PI02</oompDesc>
+		<oompIndex>SM</oompIndex>
+		<oompVersion>98</oompVersion>
+		<sourceList>
+			<manufacturer>
+				<company>ZUANBAO</company>
+				<companyCode>C-ZUAN</companyCode>
+				<name></name>
+				<partID>JST 2P-1.0</partID>
+				<link></link>
+				<note></note>
+			</manufacturer>
+		</sourceList>
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD White JST;2Pin-1.0 pitch</oplName>
+				<oplID>320110054</oplID>
+				
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
+			</oplSystem>
+		</oplList>
+		<ooDesignator>J1</ooDesignator>
+	</oompPart>
+</xml>

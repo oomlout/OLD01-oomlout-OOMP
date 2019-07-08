@@ -1,0 +1,35 @@
+<xml>
+	<oompPart>
+		<oompID>BUTA-3025-X-PI02-01</oompID>
+		<name>SMD (3025) 2 Pin Pushbutton (Tactile)</name>
+		<hexID>BT3025</hexID>
+		<oompSort>BUTA302502PI</oompSort><oompType>BUTA</oompType>
+		<oompSize>3025</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>PI02</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>98</oompVersion><ooNumPins>2</ooNumPins>
+		<sourceList>
+			<manufacturer>
+				<company>omron</company>
+				<companyCode>C-OMRO</companyCode>
+				<name></name>
+				<partID>B3U-1000P-2P-SMD</partID>
+				<link></link>
+				<note></note>
+			</manufacturer>
+		</sourceList>
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD Button;153gf</oplName>
+				<oplID>311020047</oplID>
+				<oplFootprint>L3.0*W2.5*H1.2+0.4mm</oplFootprint>
+				<oplPackage>L3.0*W2.5*H1.2+0.4mm</oplPackage>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
+			</oplSystem>
+		</oplList>
+		<ooDesignator>S1</ooDesignator>
+	</oompPart>
+</xml>

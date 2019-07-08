@@ -1,0 +1,40 @@
+<xml>
+	<oompPart>
+		<oompID>TERS-05-G-PI02-01</oompID>
+		<name>5 mm 2 Pin Green Screw Terminal</name>
+		<hexID>ST502G</hexID>
+		<oompSort></oompSort>
+		<oompClass>Through Hole</oompClass>
+		<oompClassCode>THTH</oompClassCode>
+		<oompType>TERS</oompType>
+		<oompSize>05</oompSize>
+		<oompColor>G</oompColor>
+		<oompDesc>PI02</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>40</oompVersion>
+		<ooNumPins>2</ooNumPins>
+		<ooFootprint>OOMP-TERS-05-X-PI02-01</ooFootprint>
+		<sourceList>
+			<manufacturer>
+				<company>Ningbo Goosvn Electronic Co. Ltd.</company>
+				<companyCode>C-GOOS</companyCode>
+				<name></name>
+				<partID>GS009S-5.0-02P-X-XXX</partID>
+				<link></link>
+				<note></note>
+			</manufacturer>
+		</sourceList>
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>DIP Green Screw Terminal;2P-5.0</oplName>
+				<oplID>320110031</oplID>
+				<oplFootprint>2P-5.0</oplFootprint>
+				<oplPackage>2P-5.0</oplPackage>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
+			</oplSystem>
+		</oplList>
+		<ooDesignator>J1</ooDesignator>
+	</oompPart>
+</xml>

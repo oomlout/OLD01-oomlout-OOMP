@@ -1,0 +1,50 @@
+<xml>
+<oompPart>
+	<oompID>HEAD-I01-X-PI08-RS</oompID>
+	<name>2.54 mm 8 Pin Header Right Angle (SMD)</name>
+	<oompType>HEAD</oompType>
+	<oompSize>I01</oompSize>
+	<oompColor>X</oompColor>
+	<oompDesc>PI08</oompDesc>
+	<oompIndex>RS</oompIndex>
+	<oompVersion>999</oompVersion>
+	<ooNumPins>8</ooNumPins>
+	<sourceList>
+		<manufacturer>
+			<company>Samtec</company>
+			<companyCode>C-SAMT</companyCode>
+			<name></name>
+			<partID>TSM-108-01-L-SH</partID>
+		</manufacturer>
+	</sourceList>
+		<oompBbls>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;8</drawItem>
+			<drawItem>template;HEAD-I01-X-XX-RS-bbls</drawItem>
+		</oompBbls>
+		<oompDiag>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;8</drawItem>
+			<drawItem>template;HEAD-I01-X-XX-RS-diag</drawItem>
+		</oompDiag>
+		<oompIden>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;8</drawItem>
+			<drawItem>template;HEAD-I01-X-XX-RS-iden</drawItem>
+		</oompIden>
+		<oompSimp>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;8</drawItem>
+			<drawItem>template;HEAD-I01-X-XX-RS-simp</drawItem>
+		</oompSimp>		
+		<oompSchem>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;8</drawItem>
+			<drawItem>template;XXXX-XX-X-XX-01-PINS-EVEN-schem</drawItem>
+		</oompSchem>
+		<ooDesignator>J1</ooDesignator>
+		<schematicSymbol>HEAD-XX-X-PI08-XX</schematicSymbol>
+		<pcbFootprint>HEAD-I01-X-PI08-RS</pcbFootprint>
+
+</oompPart>
+</xml>

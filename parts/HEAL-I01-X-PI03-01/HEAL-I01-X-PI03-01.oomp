@@ -1,0 +1,43 @@
+<xml>
+	<oompPart>
+		<index>9876</index>
+		<oompID>HEAL-I01-X-PI03-01</oompID>
+		<name>2.54 mm 3 Pin Header (Long)</name>
+		<hexID>HL03</hexID>
+		<oompSort>010103</oompSort>
+		<oompType>HEAL</oompType>
+		<oompSize>I01</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>PI03</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>99</oompVersion>
+		<ooNumPins>3</ooNumPins>
+		<ooFootprint>OOMP-HEAD-I01-X-PI03-01</ooFootprint>
+		<oompClass>Through Hole Component</oompClass>
+		<oompClassCode>THTH</oompClassCode>
+		<oompBbls>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;3</drawItem>
+			<drawItem>template;XXXX-I01-X-XX-01-bbls</drawItem>
+		</oompBbls>
+		<oompDiag>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;3</drawItem>
+			<drawItem>template;HEAL-I01-X-XX-01-diag</drawItem>
+		</oompDiag>
+		<drawItem>variable;clear</drawItem>
+		<drawItem>variable;pins;3</drawItem>
+		<drawItem>template;XXXX-I01-X-XX-01-iden</drawItem>
+		<oompSchem>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;3</drawItem>
+			<drawItem>template;XXXX-XX-X-XX-01-PINS-EVEN-schem</drawItem>
+		</oompSchem>
+		<oompSimp>
+			<drawItem>variable;clear</drawItem>
+			<drawItem>variable;pins;3</drawItem>
+			<drawItem>template;XXXX-I01-X-XX-01-simp</drawItem>
+		</oompSimp>
+		<ooDesignator>J1</ooDesignator>
+	</oompPart>
+</xml>

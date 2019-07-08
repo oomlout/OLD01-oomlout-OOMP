@@ -1,0 +1,38 @@
+<xml>
+	<oompPart>
+		<oompID>JSTS-02-X-PI04-SM</oompID>
+		<name>2 mm 4 Pin JST Socket SMD</name>
+		<hexID>J204S</hexID>
+		<oompSort></oompSort>
+		<oompClass>Surface Mount</oompClass>
+		<oompClassCode>SMDS</oompClassCode>
+		<oompType>JSTS</oompType>
+		<oompSize>02</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>PI04</oompDesc>
+		<oompIndex>SM</oompIndex>
+		<oompVersion>40</oompVersion>
+		<sourceList>
+			<manufacturer>
+				<company>Taifeng</company>
+				<companyCode>C-TAIF</companyCode>
+				<name></name>
+				<partID>1125S-SMT-4P</partID>
+				<link></link>
+				<note></note>
+			</manufacturer>
+		</sourceList>
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD White Male Header VERT;4Pin-2.0</oplName>
+				<oplID>320110030</oplID>
+				<oplFootprint>4P-SMD-2.0</oplFootprint>
+				<oplPackage>4P-SMD-2.0</oplPackage>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
+			</oplSystem>
+		</oplList>
+		<ooDesignator>J1</ooDesignator>
+	</oompPart>
+</xml>

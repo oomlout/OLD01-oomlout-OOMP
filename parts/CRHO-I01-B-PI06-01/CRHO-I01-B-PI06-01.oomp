@@ -1,0 +1,36 @@
+﻿<xml>
+	<oompPart>
+		<index>3950</index>
+		<oompID>CRHO-I01-B-PI06-01</oompID>
+		<name>2.54 mm 6 Pin Black Crimp Housing</name>
+		<hexID>CH06</hexID>
+		<oompSort>010106</oompSort>
+		<oompType>CRHO</oompType>
+		<oompSize>I01</oompSize>
+		<oompColor>B</oompColor>
+		<oompDesc>PI06</oompDesc>
+		<oompIndex>01</oompIndex>
+		<oompVersion>10</oompVersion>
+		<ooPitch>2.54 mm</ooPitch>
+		<ooWidth>15.44 mm</ooWidth>
+		<ooHeight>14 mm</ooHeight>
+		<ooDepth>2.5 mm</ooDepth>
+		<ooMaterial>Plastic</ooMaterial>
+		<ooTerminalStyle>DuPont</ooTerminalStyle>
+		<ooMaxCurrent>3 A</ooMaxCurrent>
+		<ooMaxVoltage>250 V</ooMaxVoltage>
+		<oompAbout>These six pin connectors are often used simply when you find you have six wires that need connecting. However they can occasionally be found on a stepper motor being driven in uni-polar mode (A,B,ABCom,C,D,CDCom), or are also handy when paired with a ten pin connector to attach a parallel LCD screen to a project.</oompAbout>
+		<sourceList>
+			<manufacturer>
+				<company>4uCon</company>
+				<companyCode>C-4UCN</companyCode>
+				<name></name>
+				<partID>02046</partID>
+				<link></link>
+				<note></note>
+			</manufacturer>
+		</sourceList>
+		<oompClass>Through Hole Component</oompClass>
+		<oompClassCode>THTH</oompClassCode>
+	</oompPart>
+</xml>
