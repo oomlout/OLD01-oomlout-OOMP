@@ -1,0 +1,51 @@
+<xml>
+	<oompPart>
+		<oompID>CAPC-0805-X-UF10-V10</oompID>
+		<name>SMD (0805) 10 uF Capacitor (Ceramic) 10v</name>
+		<hexID>C85U010</hexID>
+		<oompSort>CAPC0805UF10</oompSort>
+		<oompType>CAPC</oompType>
+		<oompSize>0805</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>UF10</oompDesc>
+		<oompIndex>V10</oompIndex>
+		<oompVersion>98</oompVersion>
+		<sourceList>
+			<manufacturer>
+				<company>YAGEO;</company>
+				<companyCode>C-YAGE</companyCode>
+				<name></name>
+				<partID>CC0805ZKY5V6BB106</partID>
+				<link></link>
+				<note></note>
+			</manufacturer>
+		</sourceList>
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD CAP Ceramic 10uF-10V-(-20%</oplName>
+				<oplID>302010158</oplID>
+				
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
+			</oplSystem>
+		</oplList>
+		<oompBbls>
+			<drawItem>template;XXXX-0805-X-XXXX-XX-bbls</drawItem>
+		</oompBbls>
+		<oompDiag>
+			<drawItem>template;XXXX-0805-X-XXXX-XX-diag</drawItem>
+		</oompDiag>
+		<oompIden>
+			<drawItem>template;XXXX-0805-X-XXXX-XX-iden</drawItem>
+		</oompIden>
+		<oompSchem>
+			<drawItem>template;CAPC-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
+		<oompSimp>
+			<drawItem>template;XXXX-0805-X-XXXX-XX-simp</drawItem>
+		</oompSimp>
+		<ooDesignator>C1</ooDesignator>
+	</oompPart>
+</xml>

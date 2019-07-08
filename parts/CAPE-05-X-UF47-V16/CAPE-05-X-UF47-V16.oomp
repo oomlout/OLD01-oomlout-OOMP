@@ -1,0 +1,39 @@
+<xml>
+	<oompPart>
+		<oompID>CAPE-05-X-UF47-V16</oompID>
+		<name>5 mm 47 uF Capacitor (Electrolytic) 16v</name>
+		<hexID>CEU047</hexID>
+		<oompSort>CAPE05UF47</oompSort>
+		<oompType>CAPE</oompType>
+		<oompSize>05</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>UF47</oompDesc>
+		<oompIndex>V16</oompIndex>
+		<oompVersion>98</oompVersion>
+		<sourceList>
+			<manufacturer>
+				<company>JWC</company>
+				<companyCode>C-YAGE</companyCode>
+				<name></name>
+				<partID>47uF/16V 5X7</partID>
+				<link></link>
+				<note></note>
+			</manufacturer>
+		</sourceList>
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>DIP CAP Aluminum 47uF-16V;</oplName>
+				<oplID>302030033</oplID>
+				
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
+			</oplSystem>
+		</oplList>
+		<oompSchem>
+			<drawItem>template;CAPE-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
+		<ooDesignator>C1</ooDesignator>
+	</oompPart>
+</xml>

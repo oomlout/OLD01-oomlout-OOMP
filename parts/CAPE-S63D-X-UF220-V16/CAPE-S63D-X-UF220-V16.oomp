@@ -1,0 +1,39 @@
+<xml>
+	<oompPart>
+		<oompID>CAPE-S63D-X-UF220-V16</oompID>
+		<name>SMD (6.3 mm) 220 uF Capacitor (Electrolytic) 16v</name>
+		<hexID>CESU220</hexID>
+		<oompSort>CAPES63DUF220</oompSort>
+		<oompType>CAPE</oompType>
+		<oompSize>S63D</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>UF220</oompDesc>
+		<oompIndex>V16</oompIndex>
+		<oompVersion>98</oompVersion>
+		<sourceList>
+			<manufacturer>
+				<company>SEMTECH</company>
+				<companyCode>C-SEMT</companyCode>
+				<name></name>
+				<partID>CS1E221M-CRE77</partID>
+				<link></link>
+				<note></note>
+			</manufacturer>
+		</sourceList>
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD CAP Aluminum 220uF-16V;</oplName>
+				<oplID>302030053</oplID>
+				
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
+			</oplSystem>
+		</oplList>
+		<oompSchem>
+			<drawItem>template;CAPE-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
+		<ooDesignator>C1</ooDesignator>
+	</oompPart>
+</xml>

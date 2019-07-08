@@ -1,0 +1,44 @@
+<xml>
+	<oompPart>
+		<index>9876</index>
+		<oompID>CAPC-55D-X-PF22-V50</oompID>
+		<name>5.5 mm 22 pF Capacitor (Ceramic) 50v</name>
+		<hexID>CCP022</hexID>
+		<oompSort>THTH0.00000000000220</oompSort>
+		<oompType>CAPC</oompType>
+		<oompSize>55D</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>PF22</oompDesc>
+		<oompIndex>V50</oompIndex>
+		<oompVersion>99</oompVersion><ooPitch>2.5 mm</ooPitch>
+		<ooHeight>5.5 mm</ooHeight>
+		<ooDiameter>5.5 mm</ooDiameter>
+		<ooNumPins>2</ooNumPins>
+		<ooMaxVoltage>50 V</ooMaxVoltage>
+		<ooTolerance>20%</ooTolerance>
+		<sourceList>
+			<manufacturer>
+				<company>Suntan</company>
+				<companyCode>C-SUNT</companyCode>
+				<name></name>
+				<partID>TS15001H220KSBNA0R</partID>
+				<link></link>
+				<note></note>
+			</manufacturer>
+			<bigDistributor>
+				<company>Rapid Electronics</company>
+				<companyCode>C-RAPI</companyCode>
+				<name>22pf 2.5mm Ceramic Capacitor</name>
+				<partID>08-0046</partID>
+				<link><![CDATA[http://www.rapidonline.com/electronic-components/22pf-2-5mm-ceramic-capacitor-08-0046]]></link>
+				<note></note>
+			</bigDistributor>
+		</sourceList>
+		<oompClass>Through Hole Component</oompClass>
+		<oompClassCode>THTH</oompClassCode>
+		<oompSchem>
+			<drawItem>template;CAPC-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
+		<ooDesignator>C1</ooDesignator>
+	</oompPart>
+</xml>

@@ -1,0 +1,51 @@
+<xml>
+	<oompPart>
+		<oompID>CAPT-1206-X-UF22-V10</oompID>
+		<name>SMD (1206) 22 uF Capacitor (Tantalum) 10v</name>
+		<hexID>C1U022</hexID>
+		<oompSort>CAPT1206UF22</oompSort>
+		<oompType>CAPT</oompType>
+		<oompSize>1206</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>UF22</oompDesc>
+		<oompIndex>V10</oompIndex>
+		<oompVersion>98</oompVersion>
+		<sourceList>
+			<manufacturer>
+				<company>AVX</company>
+				<companyCode>C-AVXX</companyCode>
+				<name></name>
+				<partID>TAJA226K010RNJ</partID>
+				<link></link>
+				<note></note>
+			</manufacturer>
+		</sourceList>
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD CAP Tantalum 22uF-10V</oplName>
+				<oplID>302020008</oplID>
+				
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
+			</oplSystem>
+		</oplList>
+		<oompBbls>
+			<drawItem>template;XXXX-1206-X-XXXX-XX-bbls</drawItem>
+		</oompBbls>
+		<oompDiag>
+			<drawItem>template;XXXX-1206-X-XXXX-XX-diag</drawItem>
+		</oompDiag>
+		<oompIden>
+			<drawItem>template;XXXX-1206-X-XXXX-XX-iden</drawItem>
+		</oompIden>
+		<oompSchem>
+			<drawItem>template;CAPT-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
+		<oompSimp>
+			<drawItem>template;XXXX-1206-X-XXXX-XX-simp</drawItem>
+		</oompSimp>
+		<ooDesignator>C1</ooDesignator>
+	</oompPart>
+</xml>

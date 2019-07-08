@@ -1,0 +1,57 @@
+<xml>
+	<oompPart>
+		<oompID>DIOD-SO23-X-ESDP-V33D</oompID>
+		<name>SMD (SOT-23) ESD Protection Diode 3.3v</name>
+		<hexID>DS3EP3</hexID>
+		<oompSort></oompSort>
+		<oompClass>Surface Mount</oompClass>
+		<oompClassCode>SMDS</oompClassCode>
+		<oompType>DIOD</oompType>
+		<oompSize>SO23</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>ESDP</oompDesc>
+		<oompIndex>V33D</oompIndex>
+		<oompVersion>40</oompVersion>
+		<sourceList>
+			<manufacturer>
+				<company>Jiangsu Changjiang Electronics</company>
+				<companyCode>C-JCST</companyCode>
+				<name></name>
+				<partID>CESD3V3AP</partID>
+				<link></link>
+				<note></note>
+			</manufacturer>
+		</sourceList>
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD Diode ESD 3.3V-225mW;</oplName>
+				<oplID>304060003</oplID>
+				<oplFootprint>SOT-23</oplFootprint>
+				<oplPackage>SOT-23</oplPackage>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
+			</oplSystem>
+		</oplList>
+		<ooPin1>C</ooPin1>
+		<ooPin2>C</ooPin2>
+		<ooPin3>A</ooPin3>
+		<oompBbls>
+			<drawItem>template;XXXX-SO23-X-XXXX-01-bbls</drawItem>
+		</oompBbls>
+		<oompDiag>
+			<drawItem>template;XXXX-SO23-X-XXXX-01-diag</drawItem>
+		</oompDiag>
+		<oompIden>
+			<drawItem>template;XXXX-SO23-X-XXXX-01-iden</drawItem>
+		</oompIden>
+		<oompSchem>
+			<drawItem>template;DIOS-XXXX-X-ESDP-XX-schem</drawItem>
+		</oompSchem>
+		<oompSimp>
+			<drawItem>template;XXXX-SO23-X-XXXX-01-simp</drawItem>
+		</oompSimp>
+		<ooPackageMarking>3M3</ooPackageMarking>
+		<ooDesignator>D1</ooDesignator>
+	</oompPart>
+</xml>

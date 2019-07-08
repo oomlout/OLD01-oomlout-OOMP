@@ -1,0 +1,51 @@
+<xml>
+	<oompPart>
+		<oompID>CAPT-1206-X-UF47D-V16</oompID>
+		<name>SMD (1206) 4.7 uF Capacitor (Tantalum) 16v</name>
+		<hexID>C1U004D</hexID>
+		<oompSort>CAPT1206UF47D</oompSort>
+		<oompType>CAPT</oompType>
+		<oompSize>1206</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>UF47D</oompDesc>
+		<oompIndex>V16</oompIndex>
+		<oompVersion>98</oompVersion>
+		<sourceList>
+			<manufacturer>
+				<company>AVX</company>
+				<companyCode>C-AVXX</companyCode>
+				<name></name>
+				<partID>TAJA475K016RNJ</partID>
+				<link></link>
+				<note></note>
+			</manufacturer>
+		</sourceList>
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD CAP Tantalum 4.7uF-16V;A</oplName>
+				<oplID>302020006</oplID>
+				
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
+			</oplSystem>
+		</oplList>
+		<oompBbls>
+			<drawItem>template;XXXX-1206-X-XXXX-XX-bbls</drawItem>
+		</oompBbls>
+		<oompDiag>
+			<drawItem>template;XXXX-1206-X-XXXX-XX-diag</drawItem>
+		</oompDiag>
+		<oompIden>
+			<drawItem>template;XXXX-1206-X-XXXX-XX-iden</drawItem>
+		</oompIden>
+		<oompSchem>
+			<drawItem>template;CAPT-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
+		<oompSimp>
+			<drawItem>template;XXXX-1206-X-XXXX-XX-simp</drawItem>
+		</oompSimp>
+		<ooDesignator>C1</ooDesignator>
+	</oompPart>
+</xml>

@@ -1,0 +1,39 @@
+<xml>
+	<oompPart>
+		<oompID>CAPC-05-X-NF100-V50</oompID>
+		<name>5 mm 100 nF Capacitor (Ceramic) 50v</name>
+		<hexID>CCN100</hexID>
+		<oompSort>CAPC05NF100</oompSort>
+		<oompType>CAPC</oompType>
+		<oompSize>05</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>NF100</oompDesc>
+		<oompIndex>V50</oompIndex>
+		<oompVersion>98</oompVersion>
+		<sourceList>
+			<manufacturer>
+				<company>Fenghua</company>
+				<companyCode>C-FENG</companyCode>
+				<name></name>
+				<partID>CC1-F5SL2A101KSPW</partID>
+				<link></link>
+				<note></note>
+			</manufacturer>
+		</sourceList>
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>DIP CAP Ceramic Disc 100nF-50V-Y5V</oplName>
+				<oplID>302010208</oplID>
+				
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
+			</oplSystem>
+		</oplList>
+		<oompSchem>
+			<drawItem>template;CAPC-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
+		<ooDesignator>C1</ooDesignator>
+	</oompPart>
+</xml>

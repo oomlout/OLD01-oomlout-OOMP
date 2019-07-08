@@ -1,0 +1,38 @@
+<xml>
+	<oompPart>
+		<oompID>RELA-19X15-X-SPDT-V3</oompID>
+		<name>19 x 15 mm SPDT Relay 3v</name>
+		<hexID>RL19S3</hexID>
+		<oompSort>RELA19X15SPDT</oompSort>
+		<oompType>RELA</oompType>
+		<oompSize>19X15</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>SPDT</oompDesc>
+		<oompIndex>V3</oompIndex>
+		<oompVersion>98</oompVersion>
+		<ooWidth>19 mm</ooWidth>
+		<ooHeight>15 mm</ooHeight>
+		<sourceList>
+			<manufacturer>
+				<company>HELISHUN</company>
+				<companyCode>C-HELI</companyCode>
+				<name></name>
+				<partID>HLS8L-DC3V-S-C</partID>
+				<link></link>
+				<note></note>
+			</manufacturer>
+		</sourceList>
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>DIP Power Relay 3V-7A</oplName>
+				<oplID>315030009</oplID>
+				<oplFootprint>5P-L19.0*W15.0*H15.0mm</oplFootprint>
+				<oplPackage>5P-L19.0*W15.0*H15.0mm</oplPackage>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
+			</oplSystem>
+		</oplList>
+		<ooDesignator>K</ooDesignator>
+	</oompPart>
+</xml>

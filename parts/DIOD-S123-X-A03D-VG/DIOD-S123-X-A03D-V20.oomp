@@ -1,0 +1,38 @@
+<xml>
+	<oompPart>
+		<oompID>DIOD-S123-X-A03D-V20</oompID>
+		<name>SMD (SOD-123) 300 mA Diode 20v</name>
+		<hexID>DS303</hexID>
+		<oompSort></oompSort>
+		<oompClass>Surface Mount</oompClass>
+		<oompClassCode>SDMS</oompClassCode>
+		<oompType>DIOD</oompType>
+		<oompSize>S123</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>A03D</oompDesc>
+		<oompIndex>V20</oompIndex>
+		<oompVersion>99</oompVersion>
+		<sourceList>
+			<manufacturer>
+				<company>On Semi</company>
+				<companyCode>C-ONON</companyCode>
+				<name></name>
+				<partID>MBR0520</partID>
+				<link></link>
+				<note></note>
+			</manufacturer>
+			<bigDistributor>
+				<company>DigiKey</company>
+				<companyCode>C-DIGK</companyCode>
+				<name>DIODE SCHOTTKY 20V 500MA SOD123</name>
+				<partID>MBR0520LT1GOSCT-ND</partID>
+				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/on-semiconductor/MBR0520LT1G/MBR0520LT1GOSCT-ND/917965]]></link>
+				<note></note>
+			</bigDistributor>
+		</sourceList>
+		<oompSchem>
+			<drawItem>template;DIOD-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
+		<ooDesignator>D1</ooDesignator>
+	</oompPart>
+</xml>

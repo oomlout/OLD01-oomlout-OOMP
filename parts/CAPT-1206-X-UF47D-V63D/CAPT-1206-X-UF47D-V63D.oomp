@@ -1,0 +1,53 @@
+<xml>
+	<oompPart>
+		<oompID>CAPT-1206-X-UF47D-V63D</oompID>
+		<name>SMD (1206) 4.7 uF Capacitor (Tantalum) 6.3v</name>
+		<hexID>CTS1U47DF</hexID>
+		<oompSort></oompSort>
+		<oompClass>Surface Mount</oompClass>
+		<oompClassCode>SDMS</oompClassCode>
+		<oompType>CAPT</oompType>
+		<oompSize>1206</oompSize>
+		<oompColor>X</oompColor>
+		<oompDesc>UF47D</oompDesc>
+		<oompIndex>V63D</oompIndex>
+		<oompVersion>99</oompVersion>
+		<sourceList>
+			<manufacturer>
+				<company>Yageo</company>
+				<companyCode>C-YAGE</companyCode>
+				<name></name>
+				<partID>TAJC476K006RNJ</partID>
+				<link></link>
+				<note></note>
+			</manufacturer>
+		</sourceList>
+		<oplList>
+			<oplSystem>
+				<oplScheme>SEEED OPL</oplScheme>
+				<oplCode>C-SEEE</oplCode>
+				<oplName>SMD CAP Tantalum 47uF-6.3V</oplName>
+				<oplID>302020005</oplID>
+				
+				<oplPackage></oplPackage>
+				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
+			</oplSystem>
+		</oplList>
+		<oompBbls>
+			<drawItem>template;XXXX-1206-X-XXXX-XX-bbls</drawItem>
+		</oompBbls>
+		<oompDiag>
+			<drawItem>template;XXXX-1206-X-XXXX-XX-diag</drawItem>
+		</oompDiag>
+		<oompIden>
+			<drawItem>template;XXXX-1206-X-XXXX-XX-iden</drawItem>
+		</oompIden>
+		<oompSchem>
+			<drawItem>template;CAPT-XXXX-X-XXXX-XX-schem</drawItem>
+		</oompSchem>
+		<oompSimp>
+			<drawItem>template;XXXX-1206-X-XXXX-XX-simp</drawItem>
+		</oompSimp>
+		<ooDesignator>C1</ooDesignator>
+	</oompPart>
+</xml>
