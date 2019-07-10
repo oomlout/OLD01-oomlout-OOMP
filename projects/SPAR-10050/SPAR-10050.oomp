@@ -1,0 +1,74 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-10050</oompID>
+	<name>SparkFun WiFly GSX Breakout</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                We've revised the board by adding some LED indicators and also improving the overall performance of the board. This is a breakout board for the RN-131C WiFly GSX module, an ultra-low power 802.11b/g transceiver. This board breaks out all pins of the RN-131C to two 17-pin 0.1" pitch headers. Board comes fully assembled and tested as pictured.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/10050</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  Value: M17  Device: M17</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>J2</compIden>
+		<compID>NOT OOMP  Value: M17  Device: M17</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>LED1</compIden>
+		<compID>NOT OOMP  Value: GREEN  Device: LED0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>LED2</compIden>
+		<compID>NOT OOMP  Value: RED  Device: LED0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0402-X-O221-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0402-X-O221-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: RN-131G  Device: RN-131G</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

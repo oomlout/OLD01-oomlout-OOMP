@@ -1,0 +1,132 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-09963</oompID>
+	<name>SparkFun RFID USB Reader</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun RFID USB Reader is a simple to use, USB to serial base unit for the ID-3LA, ID-12LA, and ID-20LA readers. Simply plug a reader into the headers and attach a miniUSB cable. Open a terminal program of your choice at 9600bps 8N1, then scan your 125kHz ID tag and the unique 32-bit ID will be shown on the screen. The unit is based on a FTDI chip and comes with a read LED and buzzer.
+This new revision uses SMD headers for the RFID module, and has a solder jumper which allows you to disable or enable the buzzer.
+Note: This product does not come with the RFID reader. Check below for compatible readers.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/9963</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>BUZZ</compIden>
+		<compID>NOT OOMP  Value: buzz  Device: SOLDERJUMPERNC2</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0402-X-NF22-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>LED1</compIden>
+		<compID>NOT OOMP  Value: GRN  Device: LED0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  Value: MMBT2222  Device: TRANSISTOR_NPNSOT23-3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0402-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0402-X-O181-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>SG1</compIden>
+		<compID>NOT OOMP  Value: BUZZERSMD2  Device: BUZZERSMD2</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>TUNE</compIden>
+		<compID>NOT OOMP  Value: SOLDERJUMPERNC2  Device: SOLDERJUMPERNC2</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: FT232RL-BASICSSOP  Device: FT232RL-BASICSSOP</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  Value: 33nH  Device: INDUCTOR0402</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  Value: ID-12/20SMD  Device: ID-12/20SMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>X1</compIden>
+		<compID>NOT OOMP  Value: USBSMD  Device: USBSMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

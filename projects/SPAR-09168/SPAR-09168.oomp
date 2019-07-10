@@ -1,0 +1,138 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-09168</oompID>
+	<name>SparkFun On Screen Display Breakout - MAX7456</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is a breakout board for the Maxim MAX7456 monochrome on-screen display chip. The board is set up with all supporting circuitry and RCA connectors to allow the user to easily interrupt and overlay text and/or graphics onto a video signal (PAL or NTSC). Just plug in your video signal to "Video In", plug your TV into "Video Out", connect a microcontroller to the SPI interface and supply the board with 5V@100mA (worst case) and you're good to go. Supplied sample code runs on an ATMega168/328 (16MHz) and compiles with WinAVR, so it's just about "plug-and-play" with an Arduino board.
+**Weight: **0.30 ounces, 8.6 grams              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/9168</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0402-X-PF22-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0402-X-PF22-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPT-3528-X-UF47-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C7</compIden>
+		<compID>CAPT-3528-X-UF47-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>C8</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  Value: POWER_JACKRCA_LOCK  Device: POWER_JACKRCA_LOCK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>J2</compIden>
+		<compID>NOT OOMP  Value: POWER_JACKRCA_LOCK  Device: POWER_JACKRCA_LOCK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0402-X-O750-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0402-X-O750-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  Value: MAX7456  Device: MAX7456</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>V_IN</compIden>
+		<compID>NOT OOMP  Value: TEST-POINT3X5  Device: TEST-POINT3X5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>V_OUT</compIden>
+		<compID>NOT OOMP  Value: TEST-POINT3X5  Device: TEST-POINT3X5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>Y2</compIden>
+		<compID>NOT OOMP  Value: 27MHz  Device: CRYSTAL5X3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

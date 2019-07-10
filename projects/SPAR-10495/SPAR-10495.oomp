@@ -1,0 +1,41 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-10495</oompID>
+	<name>Coin Cell Battery Holder Breakout - 24.5mm (PTH)</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is a simple breakout board for our through-hole 24.5 mm coin cell holder. All you need to do is solder the tabs of the holder down and you're good to go! There are also two mounting holes for attaching it to your project.
+Note: We've found that applying a bit of solder to the large solder pad in the middle creates a better connection with the negative side of the battery.
+Note: You will get just the bare PCB. Check below for the coin cell holder that you will need to solder to the board.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/10495</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>BAT1</compIden>
+		<compID>NOT OOMP  Value:   Device: BATTERY245PTH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>J3</compIden>
+		<compID>NOT OOMP  Value:   Device: M02PTH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

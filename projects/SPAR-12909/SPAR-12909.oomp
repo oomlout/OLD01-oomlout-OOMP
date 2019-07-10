@@ -1,0 +1,68 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-12909</oompID>
+	<name>SparkFun Pressure Sensor Breakout - MS5803-14BA</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is the MS5803-14BA Pressure Sensor Breakout, a high resolution pressure sensor with both an I2C and SPI interface. This MEMS pressure sensor measures the absolute pressure of the fluid around it which includes air, water, and anything else that acts like a viscous fluid. Depending on how you interpret the data, you can determine altitude, water depth, or any other tasks that require an accurate pressure reading. What makes the MS5803-14BA unique is the the gel membrane and antimagnetic stainless steel cap that protects against 30 bar water pressure.
+We have broken out all the pins you need including GND and 3.3V for power, SDA/SDI and  SCL/SCLK for an I2C interface and SD0, AD/CS, and PS for a SPI interface. The MS5803-14BA Breakout offers a resolution range of 1 / 0.6 / 0.4 / 0.3 / 0.2 mbar. Be aware that to switch between I2C and SPI interfaces a little bit of soldering between solder pads will be required, check the hookup guide below for more information.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/12909</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O222-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O222-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: MS5803-14BA  Device: MS5803-14BA</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

@@ -1,0 +1,125 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-09205</oompID>
+	<name>SparkFun ClockIt</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is a great kit to learn the basics of soldering. The SparkFun ClockIt is a basic alarm clock with buzzer based on the ever popular ATMega328. If you're just learning how to solder, this kit should take you 15-20 minutes. If you're a weathered pro at soldering, this is a great relaxing build that should take 5-10 minutes.
+We've made some changes to this kit so it's easier for beginners to solder: The ATMega footprint is wider so you don't need to bend any pins and we've also added some more silkscreen print to better indicate the polarity of the parts.
+No programmer required. The ATmega comes with firmware installed!              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/9205</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>NOT OOMP  Value:   Device: CAPCAP-PTH-SMALL-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>NOT OOMP  Value:   Device: CAPCAP-PTH-SMALL-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-05-X-UF10-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-36D-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  Value: POWER_JACKKIT  Device: POWER_JACKKIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>LED1</compIden>
+		<compID>NOT OOMP  Value: 7-SEGMENT-4DIGIT-YOUNGSUNKIT  Device: 7-SEGMENT-4DIGIT-YOUNGSUNKIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  Value: 16MHz  Device: CRYSTALHC49US-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-W04-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  Value: SWITCH-MOMENTARY-2TACTILE-PTH-KIT  Device: SWITCH-MOMENTARY-2TACTILE-PTH-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>S2</compIden>
+		<compID>NOT OOMP  Value: SWITCH-MOMENTARY-2TACTILE-PTH-KIT  Device: SWITCH-MOMENTARY-2TACTILE-PTH-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>S3</compIden>
+		<compID>NOT OOMP  Value:   Device: SWITCH-SPSTKIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>S4</compIden>
+		<compID>NOT OOMP  Value: SWITCH-MOMENTARY-2TACTILE-PTH-KIT  Device: SWITCH-MOMENTARY-2TACTILE-PTH-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>SG2</compIden>
+		<compID>NOT OOMP  Value: BUZZERKIT  Device: BUZZERKIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: AVR-MEGA8-PKIT  Device: AVR-MEGA8-PKIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

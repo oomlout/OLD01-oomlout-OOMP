@@ -1,0 +1,61 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-10967</oompID>
+	<name>SparkFun 3.3V Step-Up Breakout - NCP1402</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The NCP1402 is a 3.3V DC-DC converter. The breakout board will accept voltage inputs between 1 and 3 Volts (such as 1 or 2 AA batteries) and output a constant, low ripple 3.3V output capable of sourcing up to 200 mA. This board is great for supplying power to 3.3V sensors or providing 3.3V from a a single AA battery.
+The breakout board includes the necessary peripheral components. The input, output and ground pins are broken out on a 0.1" grid to allow easy access on a breadboard.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/10967</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPT-3528-X-UF68-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  Value: MBRA140  Device: DIODESMA</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>L1</compIden>
+		<compID>NOT OOMP  Value: 47uH  Device: INDUCTORCR54</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: NCP1402  Device: V_REG_NCP1400SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

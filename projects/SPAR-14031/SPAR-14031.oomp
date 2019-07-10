@@ -1,0 +1,70 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14031</oompID>
+	<name>SparkFun Haptic Motor Driver - DRV2605L</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                Ready to add some good vibes to your project? Look no further than the SparkFun Haptic Motor Driver. This board breaks out Texas Instruments' DRV2605L Haptic Motor Driver, which adds meaningful feedback from your devices using the breakout and an Arduino-compatible device.
+The DRV2605L is capable of driving two different types of motors, ERM and LRA. It is important to know, however, that the default firmware for the DRV2605L is set for use with ERM-type motors. We have created an Arduino library that makes the DRV2605L easy to use with six different ERM effects and one LRA effect.
+The SparkFun Haptic Motor Driver breakout board features six pins to provide power to the sensor and I2C bus. Additionally, a microcontroller that supports I2C is required to communicate with the DRV2605L and relay the data to the user by means of vibration.
+ Get Started With the Haptic Motor Driver Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14031</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0402-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0402-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>I2C</compIden>
+		<compID>NOT OOMP  Value: JUMPER-PAD-3-NC_BY_PASTE  Device: JUMPER-PAD-3-NC_BY_PASTE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O222-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O222-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: DRV2605L  Device: DRV2605L</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

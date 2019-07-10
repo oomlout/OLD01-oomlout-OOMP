@@ -1,0 +1,90 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-13038</oompID>
+	<name>SparkFun Block for Intel® Edison - GPIO</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The Intel® Edison is an ultra small computing platform that will change the way you look at embedded electronics. Each Edison is packed with a huge amount of tech goodies into a tiny package while still providing the same robust strength of your go-to single board computer. Powered by the Intel® Atom™ SoC dual-core CPU and including an integrated WiFi, Bluetooth LE, and a 70-pin connector to attach a veritable slew of shield-like "Blocks" which can be stacked on top of each other. It's no wonder how this little guy is lowering the barrier of entry on the world of electronics!
+The GPIO Block is a simple breakout board to bring the GPIO from the Intel® Edison to the user. Bread board friendly, the GPIO Block provides access to all basic GPIO, PWM, and UART2 pins. All GPIO is level shifted to a selectable 3.3v or VSYS. The GPIO add-on also provides access to all three power rails found on the Intel® Edison. 3.3v, 1.8v, VSYS, and GND are accessible for bread board prototyping. Note: Since the level shifting is accomplished through a auto direction sensing translator, driving high current components (Such as Relays, Motors, and high power LED’s) will require an external switch. See the Hookup Guide to learn more.
+If you are looking to add a little more stability to your Intel® Edison stack, check out this Hardware Pack. It will provide you with increased mechanical strength for stacking Blocks on your Edison!              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/13038</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: TXB0108  Device: TXB0108</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  Value: EDISON_CONNECTOR_FULLMOUNTING_HOLES  Device: EDISON_CONNECTOR_FULLMOUNTING_HOLES</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  Value: EDISON_CONNECTOR_FULLHEADER  Device: EDISON_CONNECTOR_FULLHEADER</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>U4</compIden>
+		<compID>NOT OOMP  Value: TXB0108  Device: TXB0108</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

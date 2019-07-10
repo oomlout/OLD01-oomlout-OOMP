@@ -1,0 +1,48 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-09322</oompID>
+	<name>SparkFun Photo Interrupter Breakout Board - GP1A57HRJ00F</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                A simple breakout PCB for the GP1A57HR photo interrupter (also known as a photogate, photodiode, or phototransistor). This PCB has three connections for PWR, GND, and Signal.
+4.9V). When the gate is blocked by a finger, writing utensil, food pellet, or anything else - SIG will go low (andlt;0.4V).
+Assembled picture is for reference only, board comes bare; photo interrupter and the 220O (330O, works as well) current limiting resistor are listed below.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/9322</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-W04-X-O221-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: GP1A57HR  Device: GP1A57HR</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  Value: LOGO-SFESK  Device: LOGO-SFESK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

@@ -1,0 +1,145 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-11168</oompID>
+	<name>SparkFun AVR ISP Shield - PTH Kit</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                Did you know that your Arduino can spawn other Arduinos? Don't worry, it can't do it autonomously so you won't wind up with a replicator situation (-gate, not -Trek). The point is, the ArduinoISP sketch allows your Arduino to act as a programmer. You can use this awesome power to burn bootloaders onto ATMega chips, turning them into Arduino-compatible microcontrollers! In the past, this required a breadboard and a whole mess of jumper wires but we've just made it a ton easier on you with the SparkFun AVR ISP Shield!
+This shield, once assembled, gives your Arduino a 28-pin ZIF (Zero Insertion Force) socket so it can grab onto unsuspecting ICs. The socket is wired to work directly with the ArduinoISP code, but burning bootloaders isn't the only thing you can do with it. We've also connected the serial I/Os so that if you're a programming ninja you can do cool tricks like programming ICs using the bootloader on-the-go.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/11168</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>$$U$1</compIden>
+		<compID>NOT OOMP  Value: CREATIVE_COMMONS  Device: CREATIVE_COMMONS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>IC1</compIden>
+		<compID>NOT OOMP  Value: AVR-MEGA-PZIF_SOCKET  Device: AVR-MEGA8-PZIF_SOCKET</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  Value: AVR_SPI_PRG_6PTH  Device: AVR_SPI_PRG_6PTH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>LED1</compIden>
+		<compID>NOT OOMP  Value: GREEN  Device: LED0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>LED2</compIden>
+		<compID>NOT OOMP  Value: GREEN  Device: LED0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>LED3</compIden>
+		<compID>NOT OOMP  Value: RED  Device: LED0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>LED4</compIden>
+		<compID>NOT OOMP  Value: BLUE  Device: LED0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  Value: 8/16/20MHz  Device: RESONATORSMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0402-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0402-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0402-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0402-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0402-X-O101-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>S2</compIden>
+		<compID>NOT OOMP  Value:   Device: SWITCH-SPSTSMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>S3</compIden>
+		<compID>NOT OOMP  Value: Reset  Device: SWITCH-MOMENTARY-2SMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: ARDUINO_SHIELDLABEL  Device: ARDUINO_SHIELDLABEL</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

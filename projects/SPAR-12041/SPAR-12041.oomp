@@ -1,0 +1,98 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-12041</oompID>
+	<name>SparkFun Capacitive Touch Breakout - AT42QT1010</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                If you need to add user input without using a button, then a capacitive touch interface might be the answer. The AT42QT1010 SparkFun Capacitive Touch Breakout offers a single, momentary capacitive touch button with easy-to-use digital I/O pins.
+The AT42QT1010 is a dedicated, single-button capacitive sense chip. The chip handles monitoring a conductive area for touch. As long as a touch (e.g., from a finger) is detected, the AT42QT1010 keeps the output line high. Otherwise, the line is kept low. You just need to provide a power source (1.8V--5V) and ground for the AT42QT1010 to work. Additionally, a PAD pin is available if you would like to create your own external electrode.
+Unlike its sibling, the AT42QT1010 does have an internal time-out of about 60 seconds, meaning that if you hold your finger to the breakout’s pad for any length of time after that, the board will turn itself off. The difference between the AT42QT1010 and the AT42QT1011 is small but may be a game changer depending on your project’s uses.
+ Get Started with the AT42QT101X Capacitive Touch Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/12041</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF22-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-NF22-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>J1</compIden>
+		<compID>HEAD-I01-X-04PI-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>LED1</compIden>
+		<compID>NOT OOMP  Value: Green  Device: LED-GREEN1206-BOTTOM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  Value: 600mA/40V  Device: TRANS_NPN-MMBT2222AL</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O222-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O201-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: AT42QT1010 - UDFN  Device: AT42QT1010UDFN</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

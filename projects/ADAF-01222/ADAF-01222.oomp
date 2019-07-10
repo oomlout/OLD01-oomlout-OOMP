@@ -1,0 +1,205 @@
+<xml>
+<oompProject>
+	<oompID>ADAF-01222</oompID>
+	<name>Adafruit GEMMA v2 - Miniature wearable electronic platform</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+Adafruit Gemma Classic (ATtiny85) PCB
+
+Click here to purchase one from the Adafruit shop
+
+Deprecation Warning: The Gemma bit-bang USB technique it uses doesn't work as well as it did in 2014, many modern computers won't work well. So while we still carry the Gemma so that people can maintain some older projects, we no longer recommend it. Please check out the Gemma M0. It has built-in USB, more capabilities, and is comparable in price!
+
+GEMMA is a tiny wearable platform board with a lot of might in a 1" diameter package. Powered by a Attiny85 and programmable with an Arduino IDE over USB, you'll be able to realize any wearable project!
+
+We wanted to design a microcontroller board that was small enough to fit into any project, and low cost enough to use without hesitation. Perfect for when you don't want to give up your Flora and you aren't willing to take apart the project you worked so hard to design. It's our lowest-cost sewable controller!
+
+The Attiny85 is a fun processor because despite being so small, it has 8K of flash, and 5 I/O pins, including analog inputs and PWM 'analog' outputs. We designed a USB bootloader so you can plug it into any computer and reprogram it over a USB port just like an Arduino (it uses 2 of the 5 I/O pins, leaving you with 3). In fact we even made some simple modifications to the Arduino IDE so that it works like a mini-Flora. Perfect for small and simple projects the GEMMA will be your go-to wearable electronics platform.
+
+This is the CAD and PCB data for the Adafruit Gemma. The PCB format is EagleCAD schematic and board layout
+
+For more details, check out the product page at
+
+https://www.adafruit.com/products/1222
+License
+Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from Adafruit!
+
+All text above must be included in any redistribution
+
+Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. See license.txt for additional information.
+</oompAbout>
+	<oompOfficialLink>https://www.adafruit.com/product/1222</oompOfficialLink>
+	<company>Adafruit</company>
+	<companyCode>C-ADAF</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>3V3</compIden>
+		<compID>NOT OOMP  Value: SEWTAP-2.0IN  Device: SEWTAP-2.0IN</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>B0</compIden>
+		<compID>NOT OOMP  Value: SEWTAP-2.0IN  Device: SEWTAP-2.0IN</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>B1</compIden>
+		<compID>NOT OOMP  Value: SEWTAP-2.0IN  Device: SEWTAP-2.0IN</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>B2</compIden>
+		<compID>NOT OOMP  Value: SEWTAP-2.0IN  Device: SEWTAP-2.0IN</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>BOOT</compIden>
+		<compID>NOT OOMP  Value: red  Device: LED0805_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C8</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>CN1</compIden>
+		<compID>NOT OOMP  Value: JST-PH  Device: CON_JST_PH_2PIN</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>D2</compIden>
+		<compID>NOT OOMP  Value: SCHOTTKY  Device: DIODE_SOD-123FL</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>D3</compIden>
+		<compID>NOT OOMP  Value: SCHOTTKY  Device: DIODE_SOD-123FL</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>GND</compIden>
+		<compID>NOT OOMP  Value: SEWTAP-2.0IN  Device: SEWTAP-2.0IN</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>IC2</compIden>
+		<compID>NOT OOMP  Value: MIC5225-3.3v  Device: LP298XS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>PWR</compIden>
+		<compID>LEDS-0805-G-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  Value: reset  Device: SWITCH_TACT_SMT4.6X2.8</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O680-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O680-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O152-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O471-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O471-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>SW1</compIden>
+		<compID>NOT OOMP  Value:   Device: SWITCH_DPDTEG1390</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: ATTINY85  Device: ATTINY85</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>VBAT</compIden>
+		<compID>NOT OOMP  Value: SEWTAP-2.0IN  Device: SEWTAP-2.0IN</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>X2</compIden>
+		<compID>NOT OOMP  Value: MicroUSB  Device: USBMICRO_20329</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

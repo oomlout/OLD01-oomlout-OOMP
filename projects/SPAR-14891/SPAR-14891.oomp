@@ -1,0 +1,77 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14891</oompID>
+	<name>SparkFun gator:starter ProtoSnap</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun gator:starter ProtoSnap is one of a series of gator-clippable accessories called gator:boards that have been created to directly interface with the micro:bit or to other micro controllers! The gator:starter ProtoSnap provides you with a starting point to go beyond the capabilities of the micro:bit, with three different boards that can be kept as a whole or broken apart for individual use!
+Included on each gator:starter is a temperature sensor board, a light sensor board and an RGB LED board. Since this is a ProtoSnap, we’ve broken out the power so it can be clipped to on the edge of the gator:starter to power the board without breaking each individual sensor or LED. Snapping the board apart can be easily done by twisting each of the LED boards side to side until it pops out and will need to be done if you want to light any of the LEDs on their own.
+There are also power tabs available on the two sensors and the LED if you choose to break the gator:starter into its basic components. If you don’t break the board apart however, you’ll still be able to interface with all of the sensor and light pins, which are broken out with a dual hole design to allow clipping from above.
+ Get Started with the SparkFun gator:starter ProtoSnap Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14891</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  Value: XZM2CRKM2DGFBB45SCCB  Device: SUNLEDSMD1</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>R8</compIden>
+		<compID>RESE-0603-X-O201-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>R9</compIden>
+		<compID>RESE-0603-X-O101-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>R10</compIden>
+		<compID>RESE-0603-X-O101-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R11</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  Value: LIGHT_SENSORTEMT6000  Device: LIGHT_SENSORTEMT6000</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  Value: MCP9700TT  Device: MCP9700TT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

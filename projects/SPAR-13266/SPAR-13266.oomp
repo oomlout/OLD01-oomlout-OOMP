@@ -1,0 +1,69 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-13266</oompID>
+	<name>SparkFun Thermocouple Breakout - MAX31855K</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun MAX31855K Thermocouple Breakout is a simple 14-bit resolution, SPI-compatible, serial interface thermocouple digitizer that makes reading a wide range of temperatures possible. A thermocouple works by taking two wires made of dissimilar metals, connecting them at the two ends, and making a temperature gradient between one end and the other (a 'hot' end and a 'cold' one). Once this is achieved, a voltage potential is formed and current flows. The SparkFun Thermocouple Breakout takes a standard Type-K thermocouple in one end, digitizes the temperature measured and sends that data out the other end via a SPI interface, thereby interpreting the data and translating it for you to read!
+With the SparkFun Thermocouple Breakout, the thermocouple’s hot junction can be read from -200°C to +700°C with an accuracy of ±2°C while the cold junction, inside the MAX31855K, can only range from -20°C to +85°C while maintaining ±2°C accuracy. The MAX31855K constantly measures the temperature of the cold junction using an internal temperature-sensing diode. The MAX31855K requires a power source from +3.0V to +3.6V (+3.0V nominal) and only draws 1.5mA maximum.
+The Thermocouple Breakout is designed to accept a standard thermocouple connector, for convenience and compatibility with probes you may already own. These connectors aren’t necessary, and you could solder a thermocouple directly into the through-holes labeled ‘+’ and ‘-’. If you decide to solder the thermocouple directly to the breakout board, it is recommended that the thermocouple be mounted for strain relief to avoid breaking the thin wires. Notches for a zip-tie or wire wrapping have been provided in the PCB opposite the header for this purpose.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/13266</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF22-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>L1</compIden>
+		<compID>NOT OOMP  Value: 470OHM  Device: INDUCTOR0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>L2</compIden>
+		<compID>NOT OOMP  Value: 470OHM  Device: INDUCTOR0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: MAX31855K  Device: MAX31855K</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

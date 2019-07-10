@@ -1,0 +1,179 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14641</oompID>
+	<name>SparkFun Qwiic OpenLog</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun Qwiic OpenLog is the smarter and better looking cousin to the extremely popular OpenLog but now we've ported the original serial based interface to I2C! Thanks to the added Qwiic connectors, you can daisy chain multiple I2C devices and log them all without taking up your serial port. The Qwiic OpenLog can store, or "log", huge amounts of serial data and act as a black box of sorts to store all the data that your project generates, for scientific or debugging purposes. Utilizing our handy Qwiic system, no soldering is required to connect it to the rest of your system. However, we still have broken out 0.1"-spaced pins in case you prefer to use a breadboard.
+Like its predecessor, the SparkFun Qwiic OpenLog runs off of an onboard ATmega328, running at 16MHz thanks to the onboard resonator. The ATmega328 has been sure to feature the Optiboot bootloader loaded, which allows the OpenLog to be compatible with the “Arduino Uno” board setting in the Arduino IDE. It is important to be aware that the Qwiic OpenLog draws approximately 2mA-6mA in idle (nothing to record) mode, however, during a full record the OpenLog can draw 20mA to 23mA depending on the microSD card being used.
+The Qwiic OpenLog also supports clock stretching, which means it performs even better than the original and will record data up to 20,000 bytes per second at 400kHz. As the receive buffer fills up this OpenLog will hold the clock line, letting the master know that it is busy. Once the Qwiic OpenLog is finished with a task, it releases the clock thus allowing the data to continue flowing without corruption.
+Note: The SparkFun Qwiic OpenLog supports 64MB to 32GB microSD cards in both FAT16 and FAT32 formats.
+
+The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shields and cables that make prototyping faster and less prone to error. All Qwiic-enabled boards use a common 1mm pitch, 4-pin JST connector. This reduces the amount of required PCB space, and polarized connections mean you can’t hook it up wrong.
+
+ Get Started With the SparkFun Qwiic OpenLog Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14641</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>ADR</compIden>
+		<compID>NOT OOMP  Value:   Device: SOLDERJUMPERNO</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-UF47D-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>D1</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>D3</compIden>
+		<compID>LEDS-0603-G-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>I2C</compIden>
+		<compID>NOT OOMP  Value:   Device: JUMPER-SMT_3_2-NC_TRACE_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  Value: MICRO-SD  Device: MICRO-SD_CARD_SOCKETPUSH-PUSH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>J2</compIden>
+		<compID>JSTS-01-X-04PI-RS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>J3</compIden>
+		<compID>NOT OOMP  Value: PTH  Device: I2C_STANDARD_NO_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>J4</compIden>
+		<compID>JSTS-01-X-04PI-RS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>J5</compIden>
+		<compID>NOT OOMP  Value: ISP  Device: AVR_SPI_PROG_3X2TESTPOINTS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>J6</compIden>
+		<compID>NOT OOMP  Value:   Device: CONN_06NO_SILK_NO_POP</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  Value: 16MHZ  Device: RESONATOR16MHZ</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O222-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O222-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O331-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>U2</compIden>
+		<compID>ICIC-TQ32-X-K328-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

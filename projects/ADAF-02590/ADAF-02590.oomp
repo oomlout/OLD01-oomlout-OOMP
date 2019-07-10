@@ -1,0 +1,245 @@
+<xml>
+<oompProject>
+	<oompID>ADAF-02590</oompID>
+	<name></name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+Adafruit-METRO-328-PCB
+PCB files for the Adafruit METRO 328
+
+Format is EagleCAD schematic and board layout
+
+For more details, check out the product page at
+
+https://www.adafruit.com/products/2466
+Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from Adafruit!
+
+Designed by Adafruit Industries.
+Creative Commons Attribution, Share-Alike license, check license.txt for more information. Derivative of "Arduino UNO R3 Reference design" (http://www.arduino.cc/en/Main/ArduinoBoardUno)
+
+All text above must be included in any redistribution
+</oompAbout>
+	<oompOfficialLink>https://www.adafruit.com/product/2590</oompOfficialLink>
+	<company>Adafruit</company>
+	<companyCode>C-ADAF</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>AD</compIden>
+		<compID>NOT OOMP  Value: 20609  Device: HEADER-1X6ROUND</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>AD1</compIden>
+		<compID>NOT OOMP  Value: 20609  Device: HEADER-1X6ROUND</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0805-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0805-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-0805-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>C9</compIden>
+		<compID>CAPC-0805-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>C10</compIden>
+		<compID>CAPC-0805-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>C12</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>C15</compIden>
+		<compID>CAPC-0805-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>D3</compIden>
+		<compID>NOT OOMP  Value: MBR120  Device: DIODE-SCHOTTKYSOD-123</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>IOL</compIden>
+		<compID>NOT OOMP  Value: 20610  Device: HEADER-1X8ROUND</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>L</compIden>
+		<compID>NOT OOMP  Value: RED  Device: LED0805_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>ON</compIden>
+		<compID>NOT OOMP  Value: GREEN  Device: LED0805_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>POWER1</compIden>
+		<compID>NOT OOMP  Value: 20610  Device: HEADER-1X870MIL</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0805-X-O220-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0805-X-O220-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>R8</compIden>
+		<compID>RESE-0805-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>R11</compIden>
+		<compID>RESE-0805-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>RESET</compIden>
+		<compID>NOT OOMP  Value: KMR2  Device: SWITCH_TACT_SMT4.6X2.8</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>RXLED</compIden>
+		<compID>NOT OOMP  Value: YELLOW  Device: LED0805_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>TXLED</compIden>
+		<compID>NOT OOMP  Value: YELLOW  Device: LED0805_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: MIC5225-5.0  Device: VREG_SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  Value: ATmega328P-MU  Device: ATMEGA328P</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>U4</compIden>
+		<compID>NOT OOMP  Value: FT231XQ-x   Device: FT231X</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>VSELECT</compIden>
+		<compID>NOT OOMP  Value:   Device: SOLDERJUMPER_2WAY</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>29</compIndex>
+		<compIden>X3</compIden>
+		<compID>NOT OOMP  Value: 20329  Device: USB_W_SHIELD_20329</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>30</compIndex>
+		<compIden>Y2</compIden>
+		<compID>NOT OOMP  Value: CSTCE16M0V53-R0 16MHZ  Device: RESONATORMU</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

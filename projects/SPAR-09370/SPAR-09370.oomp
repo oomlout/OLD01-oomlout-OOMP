@@ -1,0 +1,91 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-09370</oompID>
+	<name>SparkFun DC/DC Converter Breakout</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is a breakout board for our non-isolated, 6A DC-to-DC Converter Module. The module can convert any DC voltage between 4.5-14VDC to a selectable voltage between 0.59 and 5.5VDC.
+To set the output voltage to the desired level, a resistor must be added between the Trim and GND pins. For example, to set the module to output 5V use a 1.34kO resistor, or to get 3.3V use a 2.182kO. See table 1 in the module's datasheet for more resistor values.
+The ON/OFF pin on the board can be pulled high to turn the converter module on and low to turn it off.
+Board comes as shown, with all components (aside from the trim resistor) populated. Access to all pins of the converter module is provided by two, 0.1" pitch headers.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/9370</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>NOT OOMP  Value: 100uF-25V  Device: CAP_POL</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPE-S5-X-UF47-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>IN</compIden>
+		<compID>NOT OOMP  Value:   Device: M05PTH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>OUT</compIden>
+		<compID>NOT OOMP  Value:   Device: M03PTH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  Value: MOSFET-NCHANNELSMD  Device: MOSFET-NCHANNELSMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O223-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O104-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: DC-DC_CONVERTER  Device: DC-DC_CONVERTER</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

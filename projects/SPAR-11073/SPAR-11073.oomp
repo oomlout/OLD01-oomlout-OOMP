@@ -1,0 +1,47 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-11073</oompID>
+	<name>SparkFun GP-2106 Breakout</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This breakout board gives you access to the little tiny pins on the ribbon connector for the, also tiny, GP-2106 GPS module. All six pins are broken out to standard 0.1" headers. Keep in mind the GP-2106 runs on 1.8V and uses 1.8V logic levels. This board has undergone a minor layout revision to get the capacitor footprint out from under the connector.
+**Note: **This board breaks out the connector only and does not include the GP-2106 module itself nor does it include the connecting ribbon cable. Both can be found in the related items below.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/11073</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0402-X-UF1-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: GP-2106  Device: GP-2106</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

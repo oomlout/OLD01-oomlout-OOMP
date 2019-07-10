@@ -1,0 +1,322 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14063</oompID>
+	<name>LilyPad LilyMini ProtoSnap</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The LilyMini ProtoSnap is a great way to get started learning about creating interactive e-textile circuits before you start sewing. Like other LilyPad ProtoSnap boards, the LilyMini ProtoSnap has all of its pieces wired together out of the box, enabling you to test the circuit’s function before you sew. At the center of the board is a pre-programmed LilyMini microcontroller connected to a LilyPad Light Sensor, LilyPad Button and two pairs of LilyPad LEDs.
+The LilyMini ProtoSnap ships with pre-loaded code that uses all the LilyPad pieces connected to it. This sample code has three modes, which can be selected by pressing the LilyPad Button on the bottom-left side of the ProtoSnap. The built-in RGB LED on the LilyMini will change color to indicate which mode has been selected:
+
+White: All LEDs on.
+Magenta: LEDs fade in and out in a breathing pattern. When the light sensor is covered, LEDs fade faster.
+Cyan: LEDs off. When the light sensor is covered, LEDs will twinkle.
+
+The LilyMini board, at the center of the ProtoSnap, has a built-in battery holder for a CR2032 battery (included). On the opposite side of the LilyMini you will find the SAMD11 brain, which controls the ProtoSnap.
+Note: A portion of this sale is given back to Dr. Leah Buechley for continued development and education in e-textiles.
+Note: The LilyPad LilyMini ProtoSnap does NOT include sewing needles or conductive thread. These items will need to purchased separately.
+ Get Started with the LilyMini ProtoSnap Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14063</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>$1_61_$_2016-09-25_21-56-09</compIden>
+		<compID>NOT OOMP  Value: OSHW-LOGOS  Device: OSHW-LOGOS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>BAT1</compIden>
+		<compID>NOT OOMP  Value: CR2032  Device: BATTERY20MM_PTH_KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-PF15-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-PF15-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  Value:   Device: 0.13_RGB_LEDPLCC</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>D2</compIden>
+		<compID>NOT OOMP  Value: RB751  Device: DIODE-SCHOTTKY-RB751</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>D3</compIden>
+		<compID>LEDS-1206-X-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>D4</compIden>
+		<compID>LEDS-1206-X-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>D5</compIden>
+		<compID>LEDS-1206-X-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>D6</compIden>
+		<compID>LEDS-1206-X-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  Value: ZXMP6A13F  Device: MOSFET-PCHANNEL</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O331-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O202-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O331-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0603-X-O151-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>R8</compIden>
+		<compID>RESE-0603-X-O151-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>R9</compIden>
+		<compID>RESE-0603-X-O151-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>R10</compIden>
+		<compID>RESE-0603-X-O151-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  Value:   Device: SWITCH-MOMENTARY-2SMD-4.6X2.8MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>S2</compIden>
+		<compID>BUTA-52D-X-SMDS-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>SEWTAP+</compIden>
+		<compID>NOT OOMP  Value:   Device: SEWTAP8</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>SEWTAP-</compIden>
+		<compID>NOT OOMP  Value:   Device: SEWTAP8</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>SEWTAP1</compIden>
+		<compID>NOT OOMP  Value:   Device: SEWTAP8</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>29</compIndex>
+		<compIden>SEWTAP2</compIden>
+		<compID>NOT OOMP  Value:   Device: SEWTAP8</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>30</compIndex>
+		<compIden>SEWTAP3</compIden>
+		<compID>NOT OOMP  Value:   Device: SEWTAP8</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>31</compIndex>
+		<compIden>SEWTAP4</compIden>
+		<compID>NOT OOMP  Value:   Device: SEWTAP8</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>32</compIndex>
+		<compIden>SEWTAPLS+</compIden>
+		<compID>NOT OOMP  Value: PLUS  Device: SEWTAP6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>33</compIndex>
+		<compIden>SEWTAPLS-</compIden>
+		<compID>NOT OOMP  Value: MINUS  Device: SEWTAP6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>34</compIndex>
+		<compIden>SEWTAPLSOUT</compIden>
+		<compID>NOT OOMP  Value: OUT  Device: SEWTAP6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>35</compIndex>
+		<compIden>ST1</compIden>
+		<compID>NOT OOMP  Value:   Device: SEWTAP-NOHOLE2</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>36</compIndex>
+		<compIden>ST2</compIden>
+		<compID>NOT OOMP  Value:   Device: SEWTAP-NOHOLE2</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>37</compIndex>
+		<compIden>ST3</compIden>
+		<compID>NOT OOMP  Value:   Device: SEWTAP-NOHOLE2</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>38</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: SAMD11D14A-M  Device: SAMD11D14A-M</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>39</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  Value: AP2112K-3.3V  Device: V_REG_AP2112K-3.3V</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>40</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  Value: ALS-PT19  Device: LIGHTSENSORALS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>41</compIndex>
+		<compIden>Y1</compIden>
+		<compID>NOT OOMP  Value: 32.768kHz  Device: CRYSTAL3.2X1.5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

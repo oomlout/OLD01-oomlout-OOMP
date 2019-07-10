@@ -1,0 +1,147 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14475</oompID>
+	<name>SparkFun Noisy Cricket Stereo Amplifier - 1.5W</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                You won't need a series four de-atomizer with our rendition of the Noisy Cricket, just wire it up and crank up your tunes! The Noisy Cricket Stereo Amplifier, uses the LM4853 Boomer® IC which can be configured to output up to 1.5W of power in mono operation (4O load) or 300mW per channel in stereo operation (8O load). The amplifier comes with a dual-ganged pot with a built-in switch to control power and adjust both left and right channel gain.
+The SparkFun Noisy Cricket has been designed as an easy to use board with three connection sections, Power, Input, and Output. The power section features three connections, VCC, VCC OUT, and GND all only requiring a voltage range of 2.4-5.5VDC but with only one connection. Meanwhile, the Input and Output sections both have connections for GND, LEFT IN/OUT, and RIGHT IN/OUT for your audio inputs and outputs. It is important to point out that the Output section of the board does feature an extra pin labeled "MONO," to use this pin (since the Noisy Cricket operates in Stereo out of the box) and get the full output power from the amplifier you’ll need to configure the Noisy Cricket as a mono amplifier, that way the left and right input channels will be combined to drive a single speaker. To enable mono operation all you will need to do is solder two jumper pads on the back of the board labeled ENABLE MONO OUTPUT and MONO BASS BOOST.
+With the SparkFun Noisy Cricket Amplifier, you will be provided with a board that fits into the palm of your hand that requires minimal setup that allows you to utilize both stereophonic and monaural sound!
+ Get Started with the Noisy Cricket Stereo Amplifier Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14475</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPE-S63D-X-UF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPE-S63D-X-UF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>J1</compIden>
+		<compID>HEAD-I01-X-10PI-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>POT1</compIden>
+		<compID>NOT OOMP  Value: 20k  Device: POTENTIOMETER_DUAL_W/SWITCH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O222-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O222-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O104-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O104-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>R7</compIden>
+		<compID>NOT OOMP  Value:    Device: RESISTORAXIAL-0.3-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R8</compIden>
+		<compID>NOT OOMP  Value:    Device: RESISTORAXIAL-0.3-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: LM4853  Device: LM4853</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

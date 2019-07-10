@@ -1,0 +1,55 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-11591</oompID>
+	<name>SparkFun ISP Pogo Adapter</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                Pogo pins make life so much easier when you are trying to program without having to solder a single thing, and when you attach them to an In-system programming (ISP) adapter they become instantly better, this simple kit allows you to do just that. Introducing the ISP Pogo Adapter, a simple and easy way to adapt pogo pins to a 6-pin ISP header allowing you to program an IC still without soldering a header to do so.
+We've also included a labeled SIP header row and a 6-pin molex cable for you to be able to use your Arduino (or other single-board microcontroller) as an ISP device!
+This adapter does come as a kit and assembly will be required.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/11591</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  Value:   Device: M03X2POGO_PINS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>J2</compIden>
+		<compID>NOT OOMP  Value: AVR_SPI_PRG_6NS  Device: AVR_SPI_PRG_6NS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>J3</compIden>
+		<compID>NOT OOMP  Value:   Device: M03X2POGO_PINS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>J4</compIden>
+		<compID>NOT OOMP  Value:   Device: JST_2MM_MALE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

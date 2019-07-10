@@ -1,0 +1,76 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-10217</oompID>
+	<name>SparkFun LiPo Charger Basic - Micro-USB</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                If you need to charge LiPo batteries, this simple charger will do just that, and do it fast! The SparkFun LiPo Charger Basic is stripped down of all features and just does one thing well - charge 3.7V LiPo cells at a rate of 500mA. It is designed to charge single-cell Li-Ion or Li-Polymer batteries. Check the datasheet below to see if it will work with your battery.
+The board incorporates a charging circuit, status LED, connector for your battery (JST-type used in the batteries we carry), and a micro-USB connector. A small mounting hole allows this charger to be easily embedded into a project.
+Note: This version uses a micro-USB cable. We also have this charger with a mini-USB connection as well.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/10217</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-UF47D-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0603-X-UF47D-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>D11</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>R1</compIden>
+		<compID>NOT OOMP  Value:   Device: RESISTORPTH-1/4W-VERT-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O331-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O202-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: MCP73831  Device: MCP73831</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

@@ -1,0 +1,32 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-09110</oompID>
+	<name>SparkFun Thumb Joystick Breakout</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is the breakout board for the thumb joystick. Pins are broken out to a 0.1" header and includes 4 mounting holes in the corners.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/9110</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: JOYSTICKPTH  Device: JOYSTICKPTH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

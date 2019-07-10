@@ -1,0 +1,85 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-11054</oompID>
+	<name>BigTime Watch Kit Retail</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                Replacement: None. We are no longer carrying this retail kit in our catalog. The non-retail version of this kit can still be found here. This page is for reference only.
+This kit is the same product as the BigTime Watch Kit but it comes in fancy clamshell packaging meant for our distributors that need it. Regular customers are welcome to order, but we want to limit the amount of extra packaging finding its way into the trash heap.
+It's official, SparkFun has made the Big Time, and now you can make it too! The BigTime watch kit is a geekishly stylish digital watch with a velcro watch-band and a slick acrylic enclosure. If it seems familiar, that's because it's essentially our open-source branch from the SpikenzieLabs' Solder:Time kit. The heart of the kit is the much venerated ATMega328 using a 32kHz clock-source to keep time. To check the time, just press the button on the side of the watch and it pops up on a 4-digit 7-segment LED display. Thanks to some low-level hackery, the ATMega is running at super low power and should get an estimated 2 years of run time on a single CR2032 coin cell!
+The BigTime is a through-hole kit with a low parts-count, so it makes a great project for beginning solderers. After you've finished soldering together the PCB, simply stack the acrylic pieces around it and screw them together with the included hex-head screws. Once that's done, pop in the coin-cell battery and go show off your nerd bling!
+Did we mention that the watch kit is super hackable? An FTDI header is broken out to the side of the board and the watch-firmware is running on top of a bootloader! This means that all you need to do to add your own code is to open up Arduino or Wiring and select "Arduino Pro or Pro Mini 3.3V/8MHz w/ ATmega328" as your board.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/11054</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>BAT</compIden>
+		<compID>NOT OOMP  Value:   Device: BATTERYFOB</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-36D-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-36D-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>LED1</compIden>
+		<compID>NOT OOMP  Value: 7-SEGMENT-4DIGIT-YOUNGSUNKIT  Device: 7-SEGMENT-4DIGIT-YOUNGSUNKIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-W04-X-O104-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  Value: BUTTON  Device: SWITCH-MOMENTARY-2SIDE_EZ</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: ATMEGA328P_PDIP_EZ  Device: ATMEGA328P_PDIP_EZ</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>Y1</compIden>
+		<compID>NOT OOMP  Value: 32.768kHz  Device: CRYSTALTC26H_EZ</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

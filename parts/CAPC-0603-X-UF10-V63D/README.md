@@ -1,4 +1,5 @@
 
+![CAPC-0603-X-UF10-V63D](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/CAPC-0603-X-UF10-V63D/CAPC-0603-X-UF10-V63D_420.jpg)   
 Summary
 =================
   

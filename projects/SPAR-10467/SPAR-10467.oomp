@@ -1,0 +1,33 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-10467</oompID>
+	<name>LED Tactile Button Breakout</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This simple breakout board makes it easy to use our LED tactile switches in a breadboard, or your next project.
+Note: Populate the board according to the polarity of the LED on the switch. The markings for the switch are irrelevant and can be reversed.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/10467</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  Value: SWITCH-MOMENTARY-LEDPTH  Device: SWITCH-MOMENTARY-LEDPTH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

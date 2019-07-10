@@ -1,0 +1,84 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14629</oompID>
+	<name>LilyPad Light Sensor</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The LilyPad Light Sensor is a sewable breakout board with an ALS-PT19 light sensor built in and ready to use right away. Each sensor outputs voltage between 0V and 3.3V depending on the level of ambient light shining on it. As more light is applied on the sensor, more current will flow from the board through the signal tab to the microcontroller you connect the sensor to. If the sensor receives no light, no current will flow through it. In a typical indoor lighting situation, the sensor will output around 1 to 2V. Adding this board into your next e-textile or wearable project will really open up the possibilities by being able to incorporate light level sensing capabilities.
+LilyPad is a wearable e-textile technology developed by Leah Buechley and cooperatively designed by Leah and SparkFun. Each LilyPad was creatively designed to have large connecting pads to allow them to be sewn into clothing. Various input, output, power, and sensor boards are available. They're even washable!
+Note: A portion of this sale is given back to Dr. Leah Buechley for continued development and education of e-textiles.
+ Get Started With the LilyPad Light Sensor Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14629</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>LIGHT+</compIden>
+		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>LIGHT-</compIden>
+		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>LIGHT1</compIden>
+		<compID>NOT OOMP  Value: SEWTAP-NOHOLE2  Device: SEWTAP-NOHOLE2</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>LIGHT2</compIden>
+		<compID>NOT OOMP  Value: SEWTAP-NOHOLE2  Device: SEWTAP-NOHOLE2</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>LIGHT3</compIden>
+		<compID>NOT OOMP  Value: SEWTAP-NOHOLE2  Device: SEWTAP-NOHOLE2</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>LIGHTS</compIden>
+		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: TEMT6000  Device: TEMT6000</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

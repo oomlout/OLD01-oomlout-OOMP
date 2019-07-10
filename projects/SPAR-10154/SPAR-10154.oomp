@@ -1,0 +1,34 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-10154</oompID>
+	<name>SparkFun RF Transceiver Breakout - RFM22B-S2 (434 MHz)</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                Here is the breakout board for the RFM22B which gives you access to the pins. The RFM22B is a low-cost ISM (industrial, scientific, and medical) FSK (frequency-shift keying) transceiver module which offers communication at 434MHz and adjustable output power of up to +17 dBm. The wide operating voltage range of 1.8–3.6 V and low current consumption makes the RFM22 an ideal solution for battery powered applications.
+Communication with the RFM22B is achieved via a standard 4-wire SPI interface. Three configurable general purpose I/Os are also available, the use of which can be tailored towards the needs of your project. A host of other features are also available including an 8-bit ADC, temperature sensor, RX and TX FIFOs, and low-battery detection. See the datasheet below for a complete description of every register and command.
+In our testing, a 17cm wire attached to the 'ANT' pin worked just fine. A hole is drilled next to the 'ANT' pin for strain relief.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/10154</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>RFM22-XXX-S2</compIden>
+		<compID>NOT OOMP  Value: RFM22  Device: RFM22</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

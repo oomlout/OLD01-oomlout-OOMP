@@ -1,0 +1,168 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14380</oompID>
+	<name>SparkFun Adjustable LiPo Charger</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun Adjustable LiPo Charger is a single-cell lithium polymer (LiPo) and lithium ion battery charger. Because it’s adjustable, this charger will be able to safely charge most of our single-cell batteries with ease. With its onboard charge rate selector, you will be able to set the maximum amount of current to charge your battery from 15mA to 500mA.
+Once the board is configured for the battery, you can connect power from either a microUSB cable or the pins below the USB connector labeled GND and INPUT. Once power is connected, you can install a single LiPo battery to one of the three battery connectors, the JST connector, PTH pins marked BATT, or the 2450 coin cell holder on the back of the board. The input voltage for the MCP73831 charger IC is between 3.75V and 6V. To fully charge a LiPo battery, it is recommended to have a voltage of around 5V. The charge IC will regulate the voltage down to safely charge the LiPo battery.
+Note: The switches on the Adjustable LiPo Charger come shipped with all the switches in the ON position. Before configuring the board, all the switches should be moved to the OFF position.
+ Get Started with the SparkFun Adjustable LiPo Charger Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14380</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>BT1</compIden>
+		<compID>NOT OOMP  Value:   Device: BATTERY-24.5MM_SMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-UF47D-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-UF47D-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>D1</compIden>
+		<compID>LEDS-0603-L-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>D2</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>J1</compIden>
+		<compID>JSTS-02-X-02PI-RS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>J2</compIden>
+		<compID>NOT OOMP  Value:   Device: CONN_021X02_NO_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>J3</compIden>
+		<compID>NOT OOMP  Value:   Device: USB_MICRO-B_HALF_PTH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>J4</compIden>
+		<compID>NOT OOMP  Value:   Device: CONN_021X02_NO_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O202-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>R2</compIden>
+		<compID>NOT OOMP  Value: 2.49k  Device: 2.49KOHM-0603-1/10W-1%</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O332-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R7</compIden>
+		<compID>NOT OOMP  Value: PTH  Device: RESISTORAXIAL-0.3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R8</compIden>
+		<compID>RESE-0603-X-O331-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>R9</compIden>
+		<compID>RESE-0603-X-O471-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>SW1</compIden>
+		<compID>NOT OOMP  Value: DIP-06  Device: DIP-06</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: MCP73831  Device: MCP73831</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

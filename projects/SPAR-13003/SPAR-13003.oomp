@@ -1,0 +1,91 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-13003</oompID>
+	<name>SparkFun Micro OLED Breakout</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun Micro OLED Breakout Board breaks out a small monochrome, blue-on-black OLED. It’s "micro", but it still packs a punch – the OLED display is crisp, and you can fit a deceivingly large amount of graphics on there. This breakout is perfect for adding graphics to your next Arduino project, displaying diagnostic information without resorting to serial output, and teaching a little game theory while creating a fun, Arduino-based video game. Most important of all, though, is the Micro OLED is easy to control over either an SPI or I2C interface.
+You may be asking yourself, "Why does this board look so familiar?" Yes, this is essentially a MicroView without the Arduino portion. We understand that sometimes you just need a breakout, an open door for you to explore the possibilities of a super small OLED screen. Speaking of, the screen on this breakout is only 64 pixels wide and 48 pixels tall, measuring 0.66" across.
+In total, the Micro OLED Breakout provides access to 16 of the OLED’s pins. Fortunately, though, you’ll only need about half of them to make the display work. The top row of pins (GND-CS) breaks out everything you’d need to interface with the OLED over an SPI or I2C interface. The pins on the bottom (D7-vB) are mostly only used if you need to control the display over a parallel interface. This board operates at 3.3V with a current of 10mA (20mA max).
+ Get Started with the SparkFun Micro OLED Breakout Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/13003</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0805-X-UF22D-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0805-X-UF1-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0805-X-UF1-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0603-X-UF1-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-1206-X-UF47D-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-0603-X-UF1-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>OLED1</compIden>
+		<compID>NOT OOMP  Value: OLED0.66  Device: OLED0.66</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O394-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

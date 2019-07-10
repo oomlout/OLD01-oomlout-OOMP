@@ -1,0 +1,317 @@
+<xml>
+<oompProject>
+	<oompID>ADAF-02542</oompID>
+	<name>Adafruit FONA 808 - Mini Cellular GSM + GPS Breakout</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+Adafruit FONA 808 Breakout PCB
+
+Click here to purchase one from the Adafruit shop
+
+Cellular + GPS tracking, all in one? Oh yes! Introducing Adafruit FONA 808 MiniGSM + GPS, an all-in-one cellular phone module with that lets you add location-tracking, voice, text, SMS and data to your project in an adorable little package. (It does not contain a drum machine, tho)
+
+This module measures only 1.75"x1.6" but packs a surprising amount of technology into it's little frame. At the heart is a powerful GSM cellular module (we use the latest SIM808) with integrated GPS. This module can do just about everything.
+
+PCB files for the Adafruit FONA 808 Breakout. The format is EagleCAD schematic and board layout https://www.adafruit.com/products/2542
+
+License
+Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from Adafruit!
+
+All text above must be included in any redistribution
+
+Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. See license.txt for additional information.
+</oompAbout>
+	<oompOfficialLink>https://www.adafruit.com/product/2542</oompOfficialLink>
+	<company>Adafruit</company>
+	<companyCode>C-ADAF</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>ADC1</compIden>
+		<compID>NOT OOMP  Value:   Device: PINHD-1X1CB</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0805-X-PF10-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-0805-X-PF33-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C7</compIden>
+		<compID>CAPC-1210-X-UF100-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C9</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C11</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>C14</compIden>
+		<compID>CAPC-0603-X-PF33-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>C15</compIden>
+		<compID>CAPC-0603-X-PF10-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>C16</compIden>
+		<compID>CAPC-0603-X-PF33-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>C17</compIden>
+		<compID>CAPC-0603-X-PF10-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>CHRG</compIden>
+		<compID>NOT OOMP  Value: ORANGE  Device: LED0805_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>CN2</compIden>
+		<compID>NOT OOMP  Value: JSTPH  Device: JST_2PIN</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  Value: MMSZ5231BT1G  Device: DIODE-ZENERSOD123</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>D2</compIden>
+		<compID>NOT OOMP  Value: SMF05C  Device: TVSARRAY_5LANE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>D3</compIden>
+		<compID>NOT OOMP  Value: 1N4148  Device: DIODESOD-323</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>D4</compIden>
+		<compID>NOT OOMP  Value: 1N4148  Device: DIODESOD-323</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>D5</compIden>
+		<compID>NOT OOMP  Value: 1N4148  Device: DIODESOD-323</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>D6</compIden>
+		<compID>NOT OOMP  Value: 1N4148  Device: DIODESOD-323</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>D7</compIden>
+		<compID>NOT OOMP  Value: 1N4148  Device: DIODESOD-323</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>DONE</compIden>
+		<compID>LEDS-0805-G-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>IC1</compIden>
+		<compID>NOT OOMP  Value: 74VHCT125PW  Device: 74ABT125PW</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>NETSTAT</compIden>
+		<compID>NOT OOMP  Value: RED  Device: LED0805_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>PWM</compIden>
+		<compID>NOT OOMP  Value:   Device: PINHD-1X1CB</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>PWRSTAT</compIden>
+		<compID>LEDS-0805-L-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  Value: DTC143ZUAT106  Device: MUN2211T1-NPN_DRIVER-SC59-BEC</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0805-X-O471-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0805-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>29</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0805-X-O202-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>30</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0805-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>31</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0805-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>32</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0805-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>33</compIndex>
+		<compIden>SW1</compIden>
+		<compID>NOT OOMP  Value: KMR2  Device: SWITCH_TACT_SMT4.6X2.8</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>34</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  Value: MCP73831T-2ACI/OT  Device: MCP73831/2</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>35</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  Value: SIM808  Device: GSM_SIM808_LITERAL</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>36</compIndex>
+		<compIden>X1</compIden>
+		<compID>NOT OOMP  Value: uFL  Device: SMACONNECTOR_EDGE_UFL</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>37</compIndex>
+		<compIden>X2</compIden>
+		<compID>NOT OOMP  Value: MicroB  Device: USBMICRO_20329</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>38</compIndex>
+		<compIden>X3</compIden>
+		<compID>NOT OOMP  Value: uFL  Device: ANTENNA_U.FL</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>39</compIndex>
+		<compIden>X4</compIden>
+		<compID>NOT OOMP  Value: 4UCONN_18510  Device: AUDIO_3.5MMJACK_4POL</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>40</compIndex>
+		<compIden>X6</compIden>
+		<compID>NOT OOMP  Value: SIM_LOCKAMPHENOL  Device: SIM_LOCKAMPHENOL</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

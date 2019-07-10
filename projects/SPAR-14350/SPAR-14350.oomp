@@ -1,0 +1,83 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14350</oompID>
+	<name>SparkFun Ambient Light Sensor Breakout - APDS-9301</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The APDS-9301 Ambient Light Sensor Breakout is an I2C-compatible luminosity sensor board that converts light intensity to a digital output signal. This breakout is fairly simple and has been specifically designed with only a few ancillary passive components in addition to the APDS-9301 IC itself. All readings are returned to your chosen microprocessor in lux, providing precise Illuminance measurement under diverse lighting conditions.
+On top of each board breaking out our standard I2C pin-out of SCL, SDA, 3.3V and GND, we've also provided an INT pin so the APDS-9301 can be programmed to generate an interrupt under certain conditions. It is important to note that this breakout is non-instantaneous, so it will require some integration time to take a measurement.
+ Get Started with the APDS-9301 Light Sensor Breakout               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14350</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  Value:   Device: I2C_STANDARD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>J2</compIden>
+		<compID>NOT OOMP  Value:   Device: CONN_01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O472-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O472-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: APDS-9301  Device: APDS-9301</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

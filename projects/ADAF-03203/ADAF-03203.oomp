@@ -1,0 +1,47 @@
+<xml>
+<oompProject>
+	<oompID>ADAF-03203</oompID>
+	<name></name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+Adafruit-Perma-Proto-Bonnet-PCB
+PCB files for the Adafruit Perma Proto Bonnet for Raspberry Pi
+
+Format is EagleCAD schematic and board layout
+
+For more details, check out the product page at
+
+https://www.adafruit.com/products/3203
+Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from Adafruit!
+
+Designed by Adafruit Industries.
+Creative Commons Attribution, Share-Alike license, check license.txt for more information All text above must be included in any redistribution# Adafruit-Perma-Proto-Bonnet-PCB PCB files for the Adafruit Perma Proto Bonnet for Raspberry Pi
+</oompAbout>
+	<oompOfficialLink>https://www.adafruit.com/product/3203</oompOfficialLink>
+	<company>Adafruit</company>
+	<companyCode>C-ADAF</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>CONN1</compIden>
+		<compID>NOT OOMP  Value: HEADER-1X25  Device: HEADER-1X25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>RPI1</compIden>
+		<compID>NOT OOMP  Value: RASPBERRYPI_BPLUS_BONNETNODIM  Device: RASPBERRYPI_BPLUS_BONNETNODIM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

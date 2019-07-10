@@ -1,0 +1,94 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-09716</oompID>
+	<name>SparkFun FTDI Basic Breakout - 5V</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is the newest revision of our FTDI Basic. We now use a SMD 6-pin header on the bottom, which makes it smaller and more compact. Functionality has remained the same.
+This is a basic breakout board for the FTDI FT232RL USB to serial IC. The pinout of this board matches the FTDI cable to work with official Arduino and cloned 5V Arduino boards. It can also be used for general serial applications. The major difference with this board is that it brings out the DTR pin as opposed to the RTS pin of the FTDI cable. The DTR pin allows an Arduino target to auto-reset when a new Sketch is downloaded. This is a really nice feature to have and allows a sketch to be downloaded without having to hit the reset button. This board will auto reset any Arduino board that has the reset pin brought out to a 6-pin connector.
+The pins labeled BLK and GRN correspond to the colored wires on the FTDI cable. The black wire on the FTDI cable is GND, green is CTS. Use these BLK and GRN pins to align the FTDI basic board with your Arduino target.
+This board has TX and RX LEDs that make it a bit better to use over the FTDI cable. You can actually see serial traffic on the LEDs to verify if the board is working.
+This board was designed to decrease the cost of Arduino development and increase ease of use (the auto-reset feature rocks!). Our Arduino Pro boards and LilyPads use this type of connector.
+One of the nice features of this board is a jumper on the back of the board that allows the board to be configured to either 3.3V or 5V (both power output and IO level). This board ship default to 5V, but you can cut the default trace and add a solder jumper if you need to switch to 3.3V.
+Note: We know a lot of you prefer microUSB over miniUSB. Never fear, we've got you covered! Check out our FT231X Breakout for your micro FTDI needs!              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/9716</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>LED1</compIden>
+		<compID>NOT OOMP  Value: Red  Device: LED0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>LED2</compIden>
+		<compID>NOT OOMP  Value: Green  Device: LED0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: FT232RLSSOP  Device: FT232RLSSOP</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>X2</compIden>
+		<compID>NOT OOMP  Value: USB-SMD-NS  Device: USB-SMD-NS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

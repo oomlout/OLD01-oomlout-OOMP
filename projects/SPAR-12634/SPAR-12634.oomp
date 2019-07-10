@@ -1,0 +1,154 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-12634</oompID>
+	<name>SparkFun Simon Tilts - Through-Hole Soldering Kit</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This through-hole soldering kit is very similar to our Simon Says; First, it's a great way to learn how to solder; second, it's a fun game to play; and third, it's a development platform for future projects. The main difference with Simon Tilts is that it involves motion; instead of pressing buttons, the player is challenged to tilt the game. It's a bit of a 3D mind trip, but so much fun to play!
+We have taken great care with the PCB design to make it very user friendly. It's a great place to start when you're learning to solder. To sense direction, the kit uses our new custom molded part, the tilt arm. In addition to being fun to watch in action, the tilt arms do an excellent job of sensing the position.
+In addition to having a fun game to play, after soldering this kit together you will have a greater knowledge of through-hole soldering and the tools, techniques, and terminology required to populate your own PCB prototype. You will also have a development platform with 7 outputs (LEDs and buzzer), motion sensing (tilt sensor), and serial for debugging.
+Note: Be sure to check out the Hookup Guide in the Documents section below for helpful tips and assembly instructions.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/12634</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>BAT1</compIden>
+		<compID>NOT OOMP  Value: AA  Device: BATTERYAA-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>BAT2</compIden>
+		<compID>NOT OOMP  Value: AA  Device: BATTERYAA-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-36D-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-36D-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>LED0</compIden>
+		<compID>NOT OOMP  Value:   Device: LED5MM-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>LED1</compIden>
+		<compID>NOT OOMP  Value:   Device: LED5MM-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>LED2</compIden>
+		<compID>NOT OOMP  Value:   Device: LED5MM-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>LED3</compIden>
+		<compID>NOT OOMP  Value:   Device: LED5MM-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>LED4</compIden>
+		<compID>NOT OOMP  Value:   Device: LED5MM-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>LED5</compIden>
+		<compID>NOT OOMP  Value:   Device: LED5MM-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-W04-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-W04-X-O101-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-W04-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-W04-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-W04-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  Value: Power  Device: SWITCH-SPDTKIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>S2</compIden>
+		<compID>NOT OOMP  Value:   Device: SWITCH-SPDTKIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>SG1</compIden>
+		<compID>NOT OOMP  Value: BUZZER  Device: BUZZERPTH-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

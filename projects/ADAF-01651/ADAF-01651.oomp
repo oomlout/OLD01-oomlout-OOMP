@@ -1,0 +1,262 @@
+<xml>
+<oompProject>
+	<oompID>ADAF-01651</oompID>
+	<name>2.8 TFT Touch Shield for Arduino with Resistive Touch Screen</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+Adafruit 2.8 TFT LCD Display Shield v2 PCBs
+  
+Click to view/purchase from the Adafruit Shop:
+
+2.8" TFT Touch Shield for Arduino with Resistive Touch Screen
+2.8" TFT Touch Shield for Arduino w/Capacitive Touch
+Spice up your Arduino project with a beautiful large touchscreen display shield with built in microSD card connection. This TFT display is big (2.8" diagonal) bright (4 white-LED backlight) and colorful (18-bit 262,000 different shades)! 240x320 pixels with individual pixel control. It has way more resolution than a black and white 128x64 display. As a bonus, these displays has a resistive or capacitive touchscreen attached to it already, so you can detect finger presses anywhere on the screen.
+
+We've updated our original v1 shield to an SPI display - its a tiny bit slower but uses a lot less pins and is now much easier to use with Mega and Leonardo. We also include an SPI touchscreen controller so you only need one additional pin to add a high quality touchscreen controller. Even with all the extras, the price is lower thanks to our parts sourcing and engineering skillz!
+
+This is the PCB for the two Adafruit 2.8" TFT Shields v2 Resistive and Capacitive touch screens.
+
+The format is EagleCAD schematic and board layout
+
+For more details, check out the product pages at
+
+https://www.adafruit.com/product/1651
+https://www.adafruit.com/product/1947
+License
+Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from Adafruit!
+
+All text above must be included in any redistribution
+
+Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. See license.txt for additional information.
+</oompAbout>
+	<oompOfficialLink>https://www.adafruit.com/product/1651</oompOfficialLink>
+	<company>Adafruit</company>
+	<companyCode>C-ADAF</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0805-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0805-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  Value: 1N4148  Device: DIODESOD-323F</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>IC4</compIden>
+		<compID>NOT OOMP  Value: MIC5225-3.3  Device: LP298XS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>IC5</compIden>
+		<compID>NOT OOMP  Value: AXP803  Device: AXP083-SAG</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>ICSP_CLK</compIden>
+		<compID>NOT OOMP  Value:   Device: SOLDERJUMPERREFLOW_NOPASTE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>ICSP_SI</compIden>
+		<compID>NOT OOMP  Value:   Device: SOLDERJUMPERREFLOW_NOPASTE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>ICSP_SI1</compIden>
+		<compID>NOT OOMP  Value:   Device: SOLDERJUMPERREFLOW_NOPASTE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>ICSP_SO</compIden>
+		<compID>NOT OOMP  Value:   Device: SOLDERJUMPERREFLOW_NOPASTE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>PIN5</compIden>
+		<compID>NOT OOMP  Value:   Device: SOLDERJUMPERREFLOW_NOPASTE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>Q2</compIden>
+		<compID>NOT OOMP  Value: BSS138  Device: MOSFET-NWIDE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>Q3</compIden>
+		<compID>NOT OOMP  Value: BSS138  Device: MOSFET-NWIDE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>Q4</compIden>
+		<compID>NOT OOMP  Value: BSS138  Device: MOSFET-NWIDE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0805-X-O680-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0805-X-O680-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0805-X-O680-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0805-X-O680-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0805-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>R8</compIden>
+		<compID>RESE-0805-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>R9</compIden>
+		<compID>RESE-0805-X-O222-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>R13</compIden>
+		<compID>RESE-0805-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>R14</compIden>
+		<compID>RESE-0805-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>R15</compIden>
+		<compID>RESE-0805-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>R16</compIden>
+		<compID>RESE-0805-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>SCL_A5</compIden>
+		<compID>NOT OOMP  Value:   Device: SOLDERJUMPERREFLOW_NOPASTE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>29</compIndex>
+		<compIden>SDA_A4</compIden>
+		<compID>NOT OOMP  Value:   Device: SOLDERJUMPERREFLOW_NOPASTE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>30</compIndex>
+		<compIden>SW1</compIden>
+		<compID>NOT OOMP  Value: SPST_TACT-EVQQ2  Device: SPST_TACT-EVQQ2</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>31</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  Value: 74HC4050  Device: 74HC4050D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

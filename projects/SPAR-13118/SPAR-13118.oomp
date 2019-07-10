@@ -1,0 +1,98 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-13118</oompID>
+	<name>SparkFun Servo Trigger</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun Servo Trigger is a small robotics board that simplifies the control of hobby RC servo motors. When an external switch or logic signal changes state, the Servo Trigger is able to tell an attached servo motor to move from position A to position B. To use the Servo Trigger, you simply connect a hobby servo and a switch, then use the on-board potentiometers to adjust the start/stop positions and the transition time. You can use a hobby servos in your projects without having to do any programming!
+The heart of the Servo Trigger is an Atmel ATTiny84 microcontroller, running a small program that implements the servo control features we are discussing here. On-board each Servo Trigger you will find three potentiometers, "A" sets the position the servo sits in while the switch is open, "B" sets the position the servo moves to when the switch is closed, and "T" sets the time it takes to get from A to B and back. Compared to a servo motor, the Servo Trigger board draws very little current, roughly 5 mA at 5V. Be sure to note that if you’re using the Servo Trigger to control your motor, the absolute maximum supply voltage that should be applied is 5.5 VDC. Additionally, the SparkFun Servo Trigger is designed to make it easy to daisy chain boards – you can simply connect the VCC and GND pads on adjacent boards to each other.
+Note: Check out the Hookup Guide in the Documents section below for more advanced tips, configurations, and modes!
+Note: This idea originally came from our friend in the Oakland area, CTP. If you see him, please give him a high-five for us.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/13118</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPT-3216-X-UF10-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>R1</compIden>
+		<compID>NOT OOMP  Value: 10k  Device: TRIMPOTRES-11156</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>R2</compIden>
+		<compID>NOT OOMP  Value: 10k  Device: TRIMPOTRES-11156</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R3</compIden>
+		<compID>NOT OOMP  Value: 10k  Device: TRIMPOTRES-11156</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: ATTINY84  Device: ATTINY84</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>Y1</compIden>
+		<compID>NOT OOMP  Value: 16MHZ  Device: RESONATOR16MHZ</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

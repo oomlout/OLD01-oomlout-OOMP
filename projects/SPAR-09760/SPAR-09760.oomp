@@ -1,0 +1,75 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-09760</oompID>
+	<name>SparkFun Joystick Shield Kit</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun Joystick Shield Kit contains all the parts you need to enable your Arduino with a joystick! The shield sits on top of your Arduino and turns it into a simple controller. Five momentary push buttons (4+ joystick select button) and a two-axis thumb joystick gives your Arduino functionality on the level of old Nintendo controllers. Soldering is required, but it's relatively easy and requires minimal tools. We even have a step by step guide!
+The momentary push buttons are connected to Arduino digital pins 2-6; when pressed they will pull the pin low (utilizing the internal pull-ups of the Arduino). Vertical movement of the joystick will produce a proportional analog voltage on analog pin 0, likewise, horizontal movement of the joystick can be tracked on analog pin 1.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/9760</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  Value:   Device: SWITCH-MOMENTARY-212MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>S2</compIden>
+		<compID>NOT OOMP  Value:   Device: SWITCH-MOMENTARY-212MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>S3</compIden>
+		<compID>NOT OOMP  Value:   Device: SWITCH-MOMENTARY-212MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>S4</compIden>
+		<compID>NOT OOMP  Value:   Device: SWITCH-MOMENTARY-212MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>S6</compIden>
+		<compID>NOT OOMP  Value: Reset  Device: SWITCH-MOMENTARY-2PTH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: ARDUINO_SHIELD  Device: ARDUINO_SHIELDLABEL</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  Value: JOYSTICK  Device: JOYSTICKPTH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

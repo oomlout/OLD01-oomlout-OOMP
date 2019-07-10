@@ -1,0 +1,194 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-13842</oompID>
+	<name>SparkFun Photon Wearable Shield</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun Photon Wearable Shield makes it easy to add the WiFi-enabled Photon to any wearables project. Each pin on the Photon is broken out into large sewing pins. Use conductive thread to make your next wearables projects. The large pins are also great for using conductive paint to create any project that needs WiFi. There are even optional smaller pins for soldering flexible wires. The SparkFun Photon Wearable Shield comes with the headers already soldered on, so you can plug and play!  This version uses a 0.8mm thick PCB (as opposed to the standard 1.6mm), which is easier to sew into your next project.
+The Particle Photon is a tiny WiFi development kit for creating connected projects and products. Sporting a 120MHz ARM Cortex M3 and built-in WiFi, the Photon is not only powerful, but easy to use. The small form factor is ideal for IoT (Internet of Things) projects with cloud connectivity.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/13842</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  Value: PAD  Device: PAD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>J2</compIden>
+		<compID>NOT OOMP  Value: PAD  Device: PAD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>J3</compIden>
+		<compID>NOT OOMP  Value: PAD  Device: PAD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>J4</compIden>
+		<compID>NOT OOMP  Value: PAD  Device: PAD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>J5</compIden>
+		<compID>NOT OOMP  Value: PAD  Device: PAD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>J6</compIden>
+		<compID>NOT OOMP  Value: PAD  Device: PAD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>J7</compIden>
+		<compID>NOT OOMP  Value: PAD  Device: PAD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>J8</compIden>
+		<compID>NOT OOMP  Value: PAD  Device: PAD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>J9</compIden>
+		<compID>NOT OOMP  Value: PAD  Device: PAD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>J10</compIden>
+		<compID>NOT OOMP  Value: PAD  Device: PAD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>J11</compIden>
+		<compID>NOT OOMP  Value: PAD  Device: PAD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>J12</compIden>
+		<compID>NOT OOMP  Value: PAD  Device: PAD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>J13</compIden>
+		<compID>NOT OOMP  Value: PAD  Device: PAD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>J14</compIden>
+		<compID>NOT OOMP  Value: PAD  Device: PAD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>J15</compIden>
+		<compID>NOT OOMP  Value: PAD  Device: PAD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>J16</compIden>
+		<compID>NOT OOMP  Value: PAD  Device: PAD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>J17</compIden>
+		<compID>NOT OOMP  Value: PAD  Device: PAD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>J18</compIden>
+		<compID>NOT OOMP  Value: PAD  Device: PAD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>J19</compIden>
+		<compID>NOT OOMP  Value: PAD  Device: PAD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>J20</compIden>
+		<compID>NOT OOMP  Value: PAD  Device: PAD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>J21</compIden>
+		<compID>NOT OOMP  Value: PAD  Device: PAD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>J22</compIden>
+		<compID>NOT OOMP  Value: PAD  Device: PAD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>J23</compIden>
+		<compID>NOT OOMP  Value: PAD  Device: PAD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>J24</compIden>
+		<compID>NOT OOMP  Value: PAD  Device: PAD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

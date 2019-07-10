@@ -1,0 +1,33 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-09540</oompID>
+	<name>SparkFun Full-Bridge Motor Driver Breakout - L298N</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is a breakout board for the L298N full-bridge dual motor driver; which comes in a staggered, Multiwatt package.
+All pins of the L298N are broken out to a 15-pin 0.1" pitch header. Two mounting holes are also provided.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/9540</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>L298N</compIden>
+		<compID>NOT OOMP  Value: L298HEATSINK  Device: L298HEATSINK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

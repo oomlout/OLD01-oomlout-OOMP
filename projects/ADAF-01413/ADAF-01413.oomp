@@ -1,0 +1,88 @@
+<xml>
+<oompProject>
+	<oompID>ADAF-01413</oompID>
+	<name>ADXL377 - High-G Triple-Axis Accelerometer (+-200g Analog Out)</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+PCBs for the Adafruit Analog Accelerometers - ADXL335, ADXL377 and ADXL326
+
+Click here to purchase one from the Adafruit shop
+
+ADXL335 - 5V ready triple-axis accelerometer (+-3g analog out)
+ADXL326 - 5V ready triple-axis accelerometer (+-16g analog out)
+ADXL377 - High-G Triple-Axis Accelerometer (+-200g Analog Out)
+We've updated our favorite triple-axis accelerometer to now have an on-board 3.3V regulator - making it a perfect choice for interfacing with a 5V microcontroller such as the Arduino. This breakout comes with 3 analog outputs for X, Y and Z axis measurements on a 0.75"x0.75" breakout board. The ADXL335 is the latest and greatest from Analog Devices, known for their exceptional quality MEMS devices. The VCC takes up to 5V in and regulates it to 3.3V with an output pin. The analog outputs are ratiometric: that means that 0g measurement output is always at half of the 3.3V output (1.65V), -3g is at 0v and 3g is at 3.3V with full scaling in between.
+
+Fully assembled and tested. Comes with 8 pin 0.1" standard header in case you want to use it with a breadboard or perfboard. Two 2mm (0.08") mounting holes for easy attachment.
+
+The XYZ filter capacitors are 0.1uF for a 50 Hz bandwidth
+
+License
+Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from Adafruit!
+
+Designed by Adafruit Industries.
+Creative Commons Attribution, Share-Alike license, check license.txt for more information All text above must be included in any redistribution
+</oompAbout>
+	<oompOfficialLink>https://www.adafruit.com/product/1413</oompOfficialLink>
+	<company>Adafruit</company>
+	<companyCode>C-ADAF</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0805-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0805-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0805-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>IC1</compIden>
+		<compID>NOT OOMP  Value: ADXL33X  Device: ADXL33X</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>IC2</compIden>
+		<compID>NOT OOMP  Value: LP298XS  Device: LP298XS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

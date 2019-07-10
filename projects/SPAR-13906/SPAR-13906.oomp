@@ -1,0 +1,63 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-13906</oompID>
+	<name>SparkFun Multiplexer Breakout - 8 Channel (74HC4051)</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun Multiplexer Breakout provides access to all pins and features of the 74HC4051, an 8-channel analog multiplexer/demultiplexer. The 74HC4051 allows you to turn four I/O pins into eight multifunctional, individually selectable signals, which can be used to do everything from driving eight LEDs to monitoring eight potentiometers.
+The 74HC4051 can function as either a multiplexer or a demultiplexer, and it features eight channels of selectable inputs/outputs. The routing of common signal to independent I/O is set by digitally controlling three select lines, which can be set either high or low into one of eight binary combinations.
+One half of the board breaks out the control signals (E, S0-S2) and common input/output (Z). The other side provides access to all eight independent I/O’s (Y0-Y7). Both sides include supply and ground connections (VCC, VEE, GND).
+ Get Started with the 74HC4051 Breakout Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/13906</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  Value:   Device: M11PTH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>J2</compIden>
+		<compID>HEAD-I01-X-06PI-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value:   Device: 74HC4051BQ</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

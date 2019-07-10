@@ -1,0 +1,48 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-12579</oompID>
+	<name>SparkFun Bluetooth Module Breakout - Roving Networks (RN-41 v6.15)</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is a simple breakout for the Roving Networks Bluetooth module. All pertinent pins are broken out and labeled. This new version's headers are unpopulated. Check below for appropriate headers.
+The module from Roving Networks is powerful, small, and very easy to use. This Bluetooth module is designed to replace serial cables. The Bluetooth stack is completely encapsulated. The end user just sees serial characters being transmitted back and forth. Press the 'A' character from a terminal program on your computer and an 'A' will be pushed out the TX pin of the Bluetooth module.
+Do not attach this device directly to a serial port. You will need an RS232 to TTL converter circuit if you need to attach this device to a computer.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/12579</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: BLUETOOTH-RN41  Device: BLUETOOTH-RN41</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

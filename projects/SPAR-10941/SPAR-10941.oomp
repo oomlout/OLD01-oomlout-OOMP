@@ -1,0 +1,197 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-10941</oompID>
+	<name>LilyPad Arduino SimpleSnap</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The LilyPad SimpleSnap is a new, easy way to create e-textiles projects with LilyPad that are modular and can be disassembled or broken down, it's also a great way to prototype! The SimpleSnap board is similar to the LilyPad Simple board, and has the same functionality except for two major differences: A built-in rechargeable Lithium Polymer battery and female snap connectors. By adding fabric snaps to the board, LilyPad's made it possible to connect this board to the SimpleSnap Protoboard or simply an arrangement of sew-on fabric snaps so that the board is removable from your project for washing or so that multiple projects can share a board! It is important, though, that you do not wash the SimpleSnap because the battery can be damaged.
+The on-board Lithium Polymer battery can be charged simply by attaching an FTDI breakout (the same board used for programming) and just like the Simple, the SimpleSnap can be programmed in Arduino!
+LilyPad is a wearable e-textile technology developed by Leah Buechley and cooperatively designed by Leah and SparkFun. Each LilyPad was creatively designed to have large connecting pads to allow them to be sewn into clothing. Various input, output, power, and sensor boards are available. They're even washable!
+Note: A portion of this sale is given back to Dr. Leah Buechley for continued development and education of e-textiles and also to Arduino LLC to help fund continued development of new tools and new IDE features.
+Note: This item may take longer to process due to battery installed in the equipment and therefore does not qualify for same-day shipping policy. Additionally, these batteries can not be shipped via Ground or Economy methods to Alaska or Hawaii. Sorry for any inconvenience this may cause.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/10941</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>BAT1</compIden>
+		<compID>NOT OOMP  Value:   Device: BATTERY110-TABS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPT-3528-X-UF47-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0402-X-UF1-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C9</compIden>
+		<compID>CAPC-0402-X-UF47D-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C10</compIden>
+		<compID>CAPC-0402-X-UF47D-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>D2</compIden>
+		<compID>NOT OOMP  Value: Status  Device: LED0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>D4</compIden>
+		<compID>NOT OOMP  Value: Yellow  Device: LED0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>PP-GND</compIden>
+		<compID>NOT OOMP  Value:   Device: TEST-POINT3X5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>PP-MISO</compIden>
+		<compID>NOT OOMP  Value:   Device: TEST-POINT3X5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>PP-MOSI</compIden>
+		<compID>NOT OOMP  Value:   Device: TEST-POINT3X5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>PP-RST</compIden>
+		<compID>NOT OOMP  Value:   Device: TEST-POINT3X5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>PP-SCK</compIden>
+		<compID>NOT OOMP  Value:   Device: TEST-POINT3X5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>PP-VCC</compIden>
+		<compID>NOT OOMP  Value:   Device: TEST-POINT3X5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0402-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>R9</compIden>
+		<compID>RESE-0402-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>S2</compIden>
+		<compID>NOT OOMP  Value: On/Off  Device: AYZ0202</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>S3</compIden>
+		<compID>NOT OOMP  Value: Reset  Device: SWITCH-MOMENTARY-2SMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: ATMEGA328  Device: ATMEGA168</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  Value: MCP73831  Device: MCP73831</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>Y1</compIden>
+		<compID>NOT OOMP  Value: 8MHz  Device: RESONATORSMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

@@ -1,0 +1,126 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-13157</oompID>
+	<name>SparkFun Breadboard Power Supply Stick - 3.3V/1.8V</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is a very simple board that takes a 4-9V input voltage and outputs a selectable 1.8V or 3.3V regulated voltage. All headers are 0.1" pitch for simple insertion into a breadboard.
+Input power can be supplied to either the DC barrel jack or the two pin header labeled + and -. Output power is supplied to the pins labeled GND and VCC. Board has both an On/Off switch and a voltage select switch (3.3V/1.8V).
+The two sets of four GND and VCC pins are spaced such that when connected to our Basic Breadboard both power busses will be powered.
+Note: Headers are not supplied. You will need to supply your own headers to connect this board to a breadboard. Check below for some breakaway header strips.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/13157</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPT-7343-X-UF100-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  Value: 1N4001  Device: DIODESMA-TYLERALT1</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>F1</compIden>
+		<compID>NOT OOMP  Value: PTCSMD-W  Device: PTCSMD-W</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  Value: POWER_JACKOVERPASTE_REDBOARD_0603  Device: POWER_JACKOVERPASTE_REDBOARD_0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>LED2</compIden>
+		<compID>NOT OOMP  Value: Power  Device: LED1206</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O241-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R2</compIden>
+		<compID>NOT OOMP  Value: 105  Device: 105OHM-1/10W-1%(0603)</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>R3</compIden>
+		<compID>NOT OOMP  Value: 287  Device: 287OHM-1/10W-1%(0603)</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O241-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  Value: On/Off  Device: AYZ0202</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>S2</compIden>
+		<compID>NOT OOMP  Value: Voltage  Device: SWITCH-SPSTSMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: V_REG_317SMD  Device: V_REG_317SMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

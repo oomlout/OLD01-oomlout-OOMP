@@ -1,0 +1,32 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-11403</oompID>
+	<name>SparkFun SD/MMC Card Breakout</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                With SD and MMC memory prices dropping, the time is right for mass storage and datalogging. This breakout board will allow you to breakout the SD/MMC socket to a standard .1" 10-pin header. Perfect for breadboarding and the likes. Board comes fully assembled and tested as shown.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/11403</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: SD_CARD_SOCKET  Device: SD_CARD_SOCKET</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

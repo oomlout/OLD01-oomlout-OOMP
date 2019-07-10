@@ -1,0 +1,457 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14997</oompID>
+	<name>SparkFun LTE CAT M1/NB-IoT Shield - SARA-R4</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun LTE CAT M1/NB-IoT Shield equips your Arduino or Arduino-compatible microcontroller with access to data networks across the globe. This shield adds wireless, high-bandwidth cellular functionality to your IoT project while maintaining low power consumption and a small footprint. The SparkFun LTE CAT M1/NB-IoT Shield is based off the Arduino R3’s footprint that allows you to easily incorporate it with favorite Arduino-based device.
+At the heart of the LTE Cat M1/NB-IoT shield is a u-blox SARA-R410M-02B LTE Cat M1/NB-IoT modem. Cat M1 (Category M1) and NB-IoT (Narrowband IoT) are both Low Power Wide Area Network (LPWAN) technologies that are designed to provide cellular communication to small IoT devices. They operate on LTE network bands just like most smartphones, and should be supported by most cellular network carriers. The u-blox SARA-R4 module communicates over a UART via a simple AT command set. We’ve provided a library to help you get started with everything from sending SMS text messages to communicating with servers over a TCP/IP connection. Additionally, both the module and library support an I2C GPS interface via a Qwiic connector, so you can plug in a u-blox GPS module and start remotely tracking your project.
+Each SparkFun LTE CAT M1/NB-IoT Shield also includes a ceramic, Molex 1462000001 SMD antenna. The antenna has a gain of 3.8dBi around 1.7GHz to 2.7GHz. However, if you would prefer to use an external antenna, we have provided a U.FL connector that can be utilized by simply slicing through a jumper with a hobby knife.
+Please be aware that there are a few extra parts required to get this shield fully functioning, other than an Arduino-based device. First, you'll need to supply your own SIM card, such as this one from Hologram (we do also offer this shield with an included one as well) and your own headers which will need to be soldered on.
+Note: Be sure to check the Hardware Overview section in the Hookup Guide for compatible GPS modules. The onboard Qwiic connector is only designed to support u-blox-based GPS modules. It does not support any other GPS modules or sensors. We are continuing to add more modules so be sure to check back every so often to find out more!
+ Get Started with the SparkFun LTE CAT M1/NB-IoT Shield Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14997</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>B1</compIden>
+		<compID>NOT OOMP  Value: ARDUINO_UNO_R3_SHIELDNOLABELS  Device: ARDUINO_UNO_R3_SHIELDNOLABELS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0603-X-UF47D-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-0603-X-UF47D-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>C7</compIden>
+		<compID>CAPC-0603-X-UF47D-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>C8</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>C9</compIden>
+		<compID>CAPC-0603-X-NF22-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>C10</compIden>
+		<compID>CAPC-0603-X-PF15-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>C11</compIden>
+		<compID>CAPC-0603-X-PF68-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>C12</compIden>
+		<compID>CAPC-1206-X-UF100-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>C13</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>C14</compIden>
+		<compID>CAPC-0603-X-PF47-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>C15</compIden>
+		<compID>CAPC-0603-X-PF15-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>C16</compIden>
+		<compID>NOT OOMP  Value: DNP  Device: 27PF-0603-50V-5%</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>C17</compIden>
+		<compID>CAPC-0603-X-PF47-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>C18</compIden>
+		<compID>CAPC-0603-X-PF47-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>C19</compIden>
+		<compID>NOT OOMP  Value: 0  Device: 0OHM-0603-1/10W-5%</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>C20</compIden>
+		<compID>CAPC-0603-X-PF47-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  Value: PRTR5V0U2F  Device: PRTR5V0U2F</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>D2</compIden>
+		<compID>LEDS-0603-Y-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>D3</compIden>
+		<compID>NOT OOMP  Value: 1A/23V/620mV  Device: DIODE-SCHOTTKY-BAT20J</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>D4</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>D5</compIden>
+		<compID>LEDS-0603-L-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>D6</compIden>
+		<compID>NOT OOMP  Value: DT1042-04SO-7  Device: TVS_DIODE_ARRAY_4DT1042-04SO-7</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>E1</compIden>
+		<compID>NOT OOMP  Value: MOLEX-146200  Device: ANTENNA-GROUNDEDMOLEX-146200</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>29</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  Value:   Device: USB_MICRO-B_HALF_PTH_MILL</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>30</compIndex>
+		<compIden>J2</compIden>
+		<compID>JSTS-02-X-02PI-RS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>31</compIndex>
+		<compIden>J3</compIden>
+		<compID>JSTS-01-X-04PI-RS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>32</compIndex>
+		<compIden>J4</compIden>
+		<compID>NOT OOMP  Value:   Device: CONN_01PTH_NO_SILK_YES_STOP</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>33</compIndex>
+		<compIden>J5</compIden>
+		<compID>NOT OOMP  Value:   Device: 6_PIN_SERIAL_TARGETNO_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>34</compIndex>
+		<compIden>J6</compIden>
+		<compID>NOT OOMP  Value:   Device: CONN_031X03_NO_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>35</compIndex>
+		<compIden>J7</compIden>
+		<compID>NOT OOMP  Value:   Device: CONN_031X03_NO_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>36</compIndex>
+		<compIden>J8</compIden>
+		<compID>NOT OOMP  Value: U.FL  Device: U.FL</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>37</compIndex>
+		<compIden>J9</compIden>
+		<compID>NOT OOMP  Value: NANO_SIM  Device: NANO_SIMWURTH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>38</compIndex>
+		<compIden>J10</compIden>
+		<compID>NOT OOMP  Value:   Device: CONN_021X02_NO_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>39</compIndex>
+		<compIden>J11</compIden>
+		<compID>NOT OOMP  Value:   Device: CONN_021X02_NO_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>40</compIndex>
+		<compIden>L1</compIden>
+		<compID>NOT OOMP  Value: 39nH  Device: INDUCTOR-0603-39NH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>41</compIndex>
+		<compIden>L2</compIden>
+		<compID>NOT OOMP  Value: DNP  Device: INDUCTOR-0603-68NH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>42</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  Value: 2.5A/30V/105mO  Device: MOSFET_PCH-DMG2307L</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>43</compIndex>
+		<compIden>Q2</compIden>
+		<compID>NOT OOMP  Value: 600mA/40V  Device: TRANS_NPN-MMBT2222AL</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>44</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O473-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>45</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>46</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O202-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>47</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>48</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>49</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>50</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>51</compIndex>
+		<compIden>R8</compIden>
+		<compID>NOT OOMP  Value: DNP  Device: 10KOHM-0603-1/10W-1%</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>52</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  Value:   Device: SWITCH-DPDT-SMD-AYZ0202</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>53</compIndex>
+		<compIden>S2</compIden>
+		<compID>NOT OOMP  Value:   Device: SWITCH-DPDT-SMD-AYZ0202</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>54</compIndex>
+		<compIden>S3</compIden>
+		<compID>BUTA-52D-X-SMDS-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>55</compIndex>
+		<compIden>S4</compIden>
+		<compID>BUTA-52D-X-SMDS-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>56</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: TXB0104  Device: TXB0104PWR</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>57</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  Value: AP2112K-3.3  Device: V_REG_AP2112K-3.3V</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>58</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  Value: MCP73831  Device: MCP73831</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>59</compIndex>
+		<compIden>U4</compIden>
+		<compID>NOT OOMP  Value: TCA9406DCU  Device: TCA9406DCU</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>60</compIndex>
+		<compIden>U5</compIden>
+		<compID>NOT OOMP  Value: AP7361C-33FGE  Device: AP7361C-33FGE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>61</compIndex>
+		<compIden>U6</compIden>
+		<compID>NOT OOMP  Value: SARA-R410M-2B  Device: SARA-R4</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

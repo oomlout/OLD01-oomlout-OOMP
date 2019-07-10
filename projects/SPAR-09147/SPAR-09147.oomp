@@ -1,0 +1,118 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-09147</oompID>
+	<name>SparkFun AVR Stick</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun AVR Stick is a simple data logging device that instantiates itself as an HID keyboard and reports the voltages, along with a 'timestamp,' from two pins on an ATtiny85. The device uses open source firmware availabe from Objective Development (http://www.obdev.at/vusb/) called V-USB to implement the USB 1.1 standard. The code that runs the application was based on the EasyLogger example application from Objective development.
+The default firmware runs simply enough: plug it in to a USB port on your computer, after the computer recognizes the device as a keyboard it will automatically start reporting the voltages. To get a series of measurements, open up a text or spreadsheet editor and plug the AVR stick in. The AVR Stick will automatically start inputting the voltage values to whatever program is active on the computer. The ADC is configured to use a 2.56V reference voltage, so don't try measuring anything higher than that without modifying the code!
+This thing is meant to be hacked! Visit the Objective Development website to learn how others have used the USB stack to implement miscellaneous HID projects like keyboards, mice, joysticks, etc., etc., etc...              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/9147</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>IC1</compIden>
+		<compID>NOT OOMP  Value: TINY85S  Device: TINY85S</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>LED1</compIden>
+		<compID>NOT OOMP  Value: Blue  Device: LED0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>LED2</compIden>
+		<compID>NOT OOMP  Value: Blue  Device: LED0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>LED3</compIden>
+		<compID>NOT OOMP  Value: White?  Device: LED0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>LED4</compIden>
+		<compID>NOT OOMP  Value: Yellow  Device: LED0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0402-X-O680-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0402-X-O680-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0402-X-O152-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0402-X-O471-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0402-X-O471-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>X1</compIden>
+		<compID>NOT OOMP  Value: USBPCB  Device: USBPCB</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

@@ -1,0 +1,135 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14666</oompID>
+	<name>SparkFun Qwiic Flex Glove Controller</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                Flex sensors are great for telling how bent something is in a project, but we’ve been running into issues with durability when using them in wearable applications like gloves. The SparkFun Qwiic Flex Glove Controller isolates the weak point on each flex sensor to allow for more permanent applications. Essentially, this board allows you to incorporate flex sensors into a glove to control lighting, sound, and other effects making it perfect for wearable and e-textile applications! To make it even easier to use this controller, all communication is enacted exclusively via I2C, utilizing our handy Qwiic system. However, we still have broken out 0.1" spaced pins in case you prefer to use a breadboard.
+The Qwiic Flex Glove Controller has been equipped with an on-board ADS1015 ADC to I2C chip, that way you will be able to get a multitude of analog inputs without needing to touch the microcontroller’s ADC pins. If you plan to incorporate this controller board into gloves (since that is what it was originally designed for) to get sensors on eight fingers (thumbs not included), you will need four Qwiic Flex Glove Controllers. With two gloves equipped with these boards you can even begin making your own VR glove controllers! If you have four controllers on the same I2C bus, you’ll need to use every address available to the ADS1015, luckily there are four available!
+
+The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shields and cables that make prototyping faster and less prone to error. All Qwiic-enabled boards use a common 1mm pitch, 4-pin JST connector. This reduces the amount of required PCB space, and polarized connections mean you can’t hook it up wrong.
+
+ Get Started with the SparkFun Qwiic Flex Glove Controller Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14666</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>D1</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>J1</compIden>
+		<compID>JSTS-01-X-04PI-RS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>J2</compIden>
+		<compID>JSTS-01-X-04PI-RS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>J3</compIden>
+		<compID>NOT OOMP  Value:   Device: CONN_02</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>J4</compIden>
+		<compID>NOT OOMP  Value:   Device: CONN_02</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O472-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O472-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O104-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O104-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>R6</compIden>
+		<compID>NOT OOMP  Value: FLEX_SENSOR-4.5  Device: FLEX_SENSOR-4.5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R7</compIden>
+		<compID>NOT OOMP  Value: FLEX_SENSOR-4.5  Device: FLEX_SENSOR-4.5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: ADS1015  Device: ADS1015</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>U4</compIden>
+		<compID>NOT OOMP  Value: LMV358  Device: LMV358SOIC</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

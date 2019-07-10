@@ -1,0 +1,106 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-13037</oompID>
+	<name>SparkFun Block for Intel® Edison - Battery</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The Intel® Edison is an ultra small computing platform that will change the way you look at embedded electronics. Each Edison is packed with a huge amount of tech goodies into a tiny package while still providing the same robust strength of your go-to single board computer. Powered by the Intel® Atom™ SoC dual-core CPU and including an integrated WiFi, Bluetooth LE, and a 70-pin connector to attach a veritable slew of shield-like "Blocks" which can be stacked on top of each other. It's no wonder how this little guy is lowering the barrier of entry on the world of electronics!
+The Battery Block brings a single cell LiPo Charger and 400mAh battery to power an Intel® Edision and expansion blocks. The Battery board can be used with an external battery to increase runtime of your Edison which can be plugged in with a micro USB cable to deliver a 500mA charge current. Additionally, the power switch removes the battery from the Edison while allowing it to charge via the microUSB cable. If you need more battery life, it is possible to gently peel the battery off, de-solder the wires, and replace it with a larger cell. If you remove the battery, it is also possible to expose the expansion header to continue stacking blocks. It may be necessary to find an alternative mounting point for your battery in this case. Go wireless with Edison!
+If you are looking to add a little more stability to your Intel® Edison stack, check out this Hardware Pack. It will provide you with increased mechanical strength for stacking Blocks on your Edison!
+Note: This Block requires specific stacking considerations when attaching it to other SparkFun Edison Blocks. Check the Hookup Guide in the Documents section below for more information.
+Note: This item may take longer to process due to battery installed in the equipment and therefore does not qualify for same-day shipping policy. Additionally, these batteries can not be shipped via Ground or Economy methods to Alaska or Hawaii. Sorry for any inconvenience this may cause.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/13037</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-UF47D-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-UF47D-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>D1</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>D2</compIden>
+		<compID>LEDS-0603-L-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O202-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O331-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>SW1</compIden>
+		<compID>NOT OOMP  Value: SWITCH_SPDT  Device: SWITCH_SPDT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: MCP73831  Device: MCP73831</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  Value: EDISON_CONNECTOR_FULLMOUNTING_HOLES  Device: EDISON_CONNECTOR_FULLMOUNTING_HOLES</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  Value: EDISON_CONNECTOR_FULLHEADER  Device: EDISON_CONNECTOR_FULLHEADER</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

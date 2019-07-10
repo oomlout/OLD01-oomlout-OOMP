@@ -1,0 +1,132 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-11460</oompID>
+	<name>Tiny AVR Programmer</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The ATtiny45 and 85 are a couple of really cool little MCUs but did you know you can program them in Arduino? That's right, now you can shrink your Arduino projects down to "tiny size" by moving your code straight over to these small but capable ICs. The standard method for programming the ATtiny ICs involves a breadboard, lots of jumper wires and a hardware programmer, but David Mellis over at MIT Media Lab has simplified the process by laying out this handy USB programmer.
+The Tiny AVR Programmer plugs directly into your USB port and provides a programming socket for the ATTiny45 and 85. Just slot an ATtiny with a DIP footprint into the socket, plug the programmer into your USB port and start up the Arduino IDE. After installing the proper board definitions, you simply program it the same way you would any other Arduino board. The programmer even breaks out the IC pins to female headers so you can easily prototype around the ATtiny without pulling and plugging it over and over. There are two ISP headers that have also been broken out so you can use the programmer or solder in a 6-pin header for other AVR microcontrollers!
+**Note: **You'll need to install the USBTinyISP drivers if you don't have them yet, you can find them in the documents tab!              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/11460</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0402-X-PF18-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0402-X-UF10-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0402-X-PF18-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  Value: 3.3V  Device: DIODE-ZENER-BZT52</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>D2</compIden>
+		<compID>NOT OOMP  Value: 3.3V  Device: DIODE-ZENER-BZT52</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>LED1</compIden>
+		<compID>NOT OOMP  Value: Yellow  Device: LED0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  Value: 16MHz  Device: CRYSTAL5X3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0402-X-O680-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0402-X-O680-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0402-X-O152-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0402-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: ATTINY84  Device: ATTINY84</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>X1</compIden>
+		<compID>NOT OOMP  Value: USB-A-H  Device: USB-A-H</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

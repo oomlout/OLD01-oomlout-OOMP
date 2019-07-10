@@ -1,0 +1,91 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-11008</oompID>
+	<name>LilyPad Vibe Board</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                Apply 5V and be shaken by this small, but powerful vibration motor. Works great as an physical indicator without notifying anyone but the wearer. This version uses a surface mount motor which is less likely to be damaged during use.
+LilyPad is a wearable technology developed by Leah Buechley and cooperatively designed by Leah and SparkFun. Each LilyPad was creatively designed to have large connecting pads to allow them to be sewn into clothing. Various input, output, power, and sensor boards are available.
+Note: A portion of this sale is given back to Dr. Leah Buechley for continued development and education of e-textiles.
+ Get Started With the LilyPad Vibe Board Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/11008</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  Value:   Device: DIODESOD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>M1</compIden>
+		<compID>NOT OOMP  Value: MOTORSMD  Device: MOTORSMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O330-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>VIBE+</compIden>
+		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>VIBE-</compIden>
+		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>VIBE1</compIden>
+		<compID>NOT OOMP  Value: SEWTAP-NOHOLE2  Device: SEWTAP-NOHOLE2</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>VIBE2</compIden>
+		<compID>NOT OOMP  Value: SEWTAP-NOHOLEW-MASK  Device: SEWTAP-NOHOLEW-MASK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>VIBE3</compIden>
+		<compID>NOT OOMP  Value: SEWTAP-NOHOLE2  Device: SEWTAP-NOHOLE2</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>VIBE4</compIden>
+		<compID>NOT OOMP  Value: SEWTAP-NOHOLE2  Device: SEWTAP-NOHOLE2</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

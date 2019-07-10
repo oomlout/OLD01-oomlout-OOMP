@@ -1,0 +1,50 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-10906</oompID>
+	<name>Si4735 FM/AM Radio Receiver Breakout</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                Replacement: None. The IC is obsolete and we've yet to spin a board for the suggested replacement. This page is for reference only.
+This breakout board makes it easier to use the Si4735 AM/FM Receiver in your next project. The Si4735 is basically a radio on a chip, incorporating complete tuner function from antenna input to audio output.
+The Si4735 is a feature-rich solution including advanced seek algorithms, soft mute, auto-calibrated digital tuning, and FM stereo processing. In addition, the Si4735 provides analog or digital audio output and a programmable reference clock. The device supports I2C compatible 2-wire control interface, SPI, and a Si4700/01 backwards-compatible 3-wire control interface.
+The Si4735 also incorporates a digital processor for the European Radio Data System (RDS) and the North American Radio Broadcast Data System (RBDS), including all required symbol decoding, block synchronization, error detection, and error correction functions. Using RDS, the Si4735 enables broadcast data such as station identification and song name to be displayed by the user.
+This breakout gives you access to all of the pins you need to make your own radio!              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/10906</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0402-X-NF220-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPT-3528-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: SI4735  Device: SI4735</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

@@ -1,0 +1,105 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-11260</oompID>
+	<name>LilyPad LiPower</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                A small, but very mighty power supply. This board was designed to be as small and inconspicuous as possible. The nice thing about LiPower is the ability to use rechargable Lithium Polymer batteries. These batteries are smaller, flatter, and last much longer than a AAA battery. Attach a single cell LiPo battery, flip the power switch, and you will have a 5V supply to power your LilyPad network. Good up to 150mA. Short circuit protected.
+This board has a JST connector, which will connect to our JST terminated single cell 3.7V LiPo batteries. It also has terminals for charging the LiPo battery with one of our LiPo chargers.
+LilyPad is a wearable e-textile technology developed by Leah Buechley and cooperatively designed by Leah and SparkFun. Each LilyPad was creatively designed to have large connecting pads to allow them to be sewn into clothing. Various input, output, power, and sensor boards are available. They're even washable - but be sure to remove the battery!
+Note: A portion of this sale is given back to Dr. Leah Buechley for continued development and education of e-textiles.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/11260</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>100MA</compIden>
+		<compID>NOT OOMP  Value: PTC  Device: PTCSMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C10</compIden>
+		<compID>CAPT-3528-X-UF47-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C11</compIden>
+		<compID>CAPC-1206-X-UF10-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  Value: MBRA140  Device: DIODESMA</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>D2</compIden>
+		<compID>NOT OOMP  Value: MBRA140  Device: DIODESMA</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>L1</compIden>
+		<compID>NOT OOMP  Value: 22uH  Device: INDUCTORCR54</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>LED1</compIden>
+		<compID>NOT OOMP  Value: Red  Device: LED1206</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  Value: AYZ0202  Device: AYZ0202</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: NCP1400-5V  Device: V_REG_NCP1400SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

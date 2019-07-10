@@ -1,0 +1,92 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-13815</oompID>
+	<name>SparkFun Beefcake Relay Control Kit (Ver. 2.0)</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                Your 5V system can wield great power with this big, beefy relay board. How does 10A on the NC contacts and 20A on the NO contacts at 220VAC sound? The SparkFun Beefcake Relay Control Kit contains all the parts you need to get your high-power load under control. Only minimal assembly is required!
+The heart of the board is a sealed, SPDT 20A/10A Relay. The relay is controlled by 5V logic through a transistor, and an LED tells you when the relay is closed. This is a kit, so it comes as through-hole parts with assembly required, which makes for some nice soldering practice. Screw terminal connectors on either side of the board make it easy to incorporate into your project.
+There are some pretty beefy traces connecting the relay to the load pins, but the 3-pin terminals are only rated for 15A max! If you plan on connecting a larger load, you'll need to solder directly to the board. As always with high current and voltage, play it safe and use your judgment when deciding how much of a load you want to put on a board -- in open airflow the PCB can handle the full 20A for a few minutes at a time, but in an enclosed area heat can build up.
+Note: Please keep in mind that this board is really meant for someone with experience and good knowledge of electricity. If you're uncomfortable soldering or dealing with high voltage, please check out the IoT Power Relay. The IoT Power Relay is fully enclosed, making it a lot safer.
+ Get Started With the Beefcake Hookup and Assembly Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/13815</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  Value: 1N4148  Device: DIODEKIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>D2</compIden>
+		<compID>NOT OOMP  Value: Zener  Device: DIODE-ZENER</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>J1</compIden>
+		<compID>TERS-05-X-03PI-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>J2</compIden>
+		<compID>TERS-35D-X-03PI-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>K1</compIden>
+		<compID>NOT OOMP  Value: JQX-15F  Device: RELAYPTH5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>LED1</compIden>
+		<compID>NOT OOMP  Value:   Device: LED5MM-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  Value: 2N3904  Device: TRANSISTOR_NPN2N3904-EZ</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-W04-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-W04-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

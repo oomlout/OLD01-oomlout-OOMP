@@ -1,0 +1,41 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-12959</oompID>
+	<name>SparkFun MOSFET Power Control Kit</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is the SparkFun MOSFET Power Control Kit, a breakout PTH soldering kit for for the RFP30N06LE N-Channel MOSFET. This kit is extremely simple to assemble with only 10 pins to solder. If you are looking for a little more control over projects that require a little more power than normal but need a better way than your breadboard, this kit is perfect for you
+Included in each kit is a SparkFun MOSFET Power Control PCB, two screw terminals (one 2-pin and one 3-pin), a 10k resistor, and a single RFP30N06LE MOSFET. What we really like about this particular MOSFET is that it's very common and offers very low on-resistance with a control (gate) voltage that is compatible with any 3-5V microcontroller or mechanical switch. This allows you to control high-power devices with very low-power control mechanisms.
+Note: While the MOSFET is rated to 60V 30A, the circuit board traces are only rated to 3.5A.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/12959</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  Value: RFP30N6LE  Device: MOSFET-NCHANNELPTH2</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-W04-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

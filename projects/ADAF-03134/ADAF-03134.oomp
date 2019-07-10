@@ -1,0 +1,823 @@
+<xml>
+<oompProject>
+	<oompID>ADAF-03134</oompID>
+	<name>Adafruit 15x7 CharliePlex LED Matrix Display FeatherWing - Red</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+Adafruit 7x15 CharliePlex LED FeatherWings PCB
+
+Click here to purchase one from the Adafruit shop
+
+You wont be able to look away from the mesmerizing patterns created by this Adafruit 15x7 CharliePlex LED Matrix Display FeatherWing. This 15x7 LED display can be paired with any of our Feather boards for a beautiful, bright grid of 105 charlieplexed LEDs. It even comes with a built-in charlieplex driver that is run over I2C.
+
+We carry these FeatherWings in five vivid colors!
+
+What is particularly nice about this Wing is the I2C LED driver chip has the ability to PWM each individual LED in a 15x7 grid so you can have beautiful LED lighting effects, without a lot of pin twiddling. Simply tell the chip which LED on the grid you want lit, and what brightness and it's all taken care of for you. You get 8-bit (256 level) dimming for each individual LED.
+
+PCB files for 7x15 CharliePlex LED FeatherWings. The format is EagleCAD schematic and board layout
+
+For more details, check out the product pages at
+
+https://www.adafruit.com/product/3134
+https://www.adafruit.com/product/3135
+https://www.adafruit.com/product/3136
+https://www.adafruit.com/product/3137
+https://www.adafruit.com/product/3138
+License
+Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from Adafruit!
+
+All text above must be included in any redistribution
+
+Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. See license.txt for additional information.
+</oompAbout>
+	<oompOfficialLink>https://www.adafruit.com/product/3134</oompOfficialLink>
+	<company>Adafruit</company>
+	<companyCode>C-ADAF</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0805-R-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C1-2</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C1-3</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C1-4</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C1-5</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C1-6</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C1-7</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>C1-8</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>C2-2</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>C2-3</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>C2-4</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>C2-5</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>C2-6</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>C2-7</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>C2-8</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>C2-9</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>C2-10</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>C2-11</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>C2-12</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>C2-13</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>C2-14</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>C2-15</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>C3-2</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>C3-3</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>C3-4</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>C3-5</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>C3-6</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>C3-7</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>29</compIndex>
+		<compIden>C3-8</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>30</compIndex>
+		<compIden>C3-9</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>31</compIndex>
+		<compIden>C3-10</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>32</compIndex>
+		<compIden>C3-11</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>33</compIndex>
+		<compIden>C3-12</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>34</compIndex>
+		<compIden>C3-13</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>35</compIndex>
+		<compIden>C3-14</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>36</compIndex>
+		<compIden>C3-15</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>37</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0805-R-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>38</compIndex>
+		<compIden>C4-2</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>39</compIndex>
+		<compIden>C4-3</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>40</compIndex>
+		<compIden>C4-4</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>41</compIndex>
+		<compIden>C4-5</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>42</compIndex>
+		<compIden>C4-6</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>43</compIndex>
+		<compIden>C4-7</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>44</compIndex>
+		<compIden>C4-8</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>45</compIndex>
+		<compIden>C4-9</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>46</compIndex>
+		<compIden>C4-10</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>47</compIndex>
+		<compIden>C4-11</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>48</compIndex>
+		<compIden>C4-12</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>49</compIndex>
+		<compIden>C4-13</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>50</compIndex>
+		<compIden>C4-14</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>51</compIndex>
+		<compIden>C4-15</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>52</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0805-R-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>53</compIndex>
+		<compIden>C5-2</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>54</compIndex>
+		<compIden>C5-3</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>55</compIndex>
+		<compIden>C5-4</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>56</compIndex>
+		<compIden>C5-5</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>57</compIndex>
+		<compIden>C5-6</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>58</compIndex>
+		<compIden>C5-7</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>59</compIndex>
+		<compIden>C5-8</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>60</compIndex>
+		<compIden>C5-9</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>61</compIndex>
+		<compIden>C5-10</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>62</compIndex>
+		<compIden>C5-11</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>63</compIndex>
+		<compIden>C5-12</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>64</compIndex>
+		<compIden>C5-13</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>65</compIndex>
+		<compIden>C5-14</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>66</compIndex>
+		<compIden>C5-15</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>67</compIndex>
+		<compIden>C6-2</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>68</compIndex>
+		<compIden>C6-3</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>69</compIndex>
+		<compIden>C6-4</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>70</compIndex>
+		<compIden>C6-5</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>71</compIndex>
+		<compIden>C6-6</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>72</compIndex>
+		<compIden>C6-7</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>73</compIndex>
+		<compIden>C6-8</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>74</compIndex>
+		<compIden>C6-9</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>75</compIndex>
+		<compIden>C6-10</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>76</compIndex>
+		<compIden>C6-11</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>77</compIndex>
+		<compIden>C6-12</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>78</compIndex>
+		<compIden>C6-13</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>79</compIndex>
+		<compIden>C6-14</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>80</compIndex>
+		<compIden>C6-15</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>81</compIndex>
+		<compIden>C7-2</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>82</compIndex>
+		<compIden>C7-3</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>83</compIndex>
+		<compIden>C7-4</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>84</compIndex>
+		<compIden>C7-5</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>85</compIndex>
+		<compIden>C7-6</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>86</compIndex>
+		<compIden>C7-7</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>87</compIndex>
+		<compIden>C7-8</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>88</compIndex>
+		<compIden>C7-9</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>89</compIndex>
+		<compIden>C7-10</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>90</compIndex>
+		<compIden>C7-11</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>91</compIndex>
+		<compIden>C7-12</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>92</compIndex>
+		<compIden>C7-13</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>93</compIndex>
+		<compIden>C7-14</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>94</compIndex>
+		<compIden>C7-15</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>95</compIndex>
+		<compIden>C8-2</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>96</compIndex>
+		<compIden>C8-3</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>97</compIndex>
+		<compIden>C8-4</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>98</compIndex>
+		<compIden>C8-5</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>99</compIndex>
+		<compIden>C8-6</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>100</compIndex>
+		<compIden>C8-7</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>101</compIndex>
+		<compIden>C8-8</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>102</compIndex>
+		<compIden>C8-9</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>103</compIndex>
+		<compIden>C8-10</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>104</compIndex>
+		<compIden>C8-11</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>105</compIndex>
+		<compIden>C8-12</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>106</compIndex>
+		<compIden>C8-13</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>107</compIndex>
+		<compIden>C8-14</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>108</compIndex>
+		<compIden>C8-15</compIden>
+		<compID>NOT OOMP  Value:   Device: LED0603_NOOUTLINE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>109</compIndex>
+		<compIden>MS1</compIden>
+		<compID>NOT OOMP  Value: FEATHERWING  Device: FEATHERWING</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>110</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-R-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>111</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: IS31FL3731-SALS2  Device: IS31FL3731QFN</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

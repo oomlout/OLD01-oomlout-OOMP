@@ -1,0 +1,181 @@
+<xml>
+<oompProject>
+	<oompID>ADAF-01312</oompID>
+	<name>Breadboard-friendly RGB Smart NeoPixel - Pack of 4</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+Adafruit 12, 16, and 24 NeoPixel Rings
+    
+
+Buy these products in the Adafruit Shop:
+
+16 NeoPixel Ring
+24 NeoPixel Ring
+12 NeoPixel Ring
+These ultra bright smart LED NeoPixels are arranged in a circle. The rings are 'chainable' - connect the output pin of one to the input pin of another. Use only one microcontroller pin to control as many as you can chain together! Each LED is addressable as the driver chip is inside the LED. Each one has ~18mA constant current drive so the color will be very consistent even if the voltage varies, and no external choke resistors are required making the design slim. Power the whole thing with 5VDC (4-7V works) and you're ready to rock.
+
+There is a single data line with a very timing-specific protocol. Since the protocol is very sensitive to timing, it requires a real-time microconroller such as an AVR, Adafruit Metro/Trinket/Gemma, Arduino, etc. It cannot be used with a Linux-based microcomputer or interpreted microcontroller such as the Raspberry Pi, netduino or Basic Stamp. Our wonderfully-written NeoPixel libraries in Arduino and CircuitPython supports these pixels!
+
+PCB files for Adafruit NeoPixel Rings in 12, 16 and 24 pixels!
+
+License
+Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from Adafruit!
+
+All text above must be included in any redistribution
+
+Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. See license.txt for additional information.
+</oompAbout>
+	<oompOfficialLink>https://www.adafruit.com/product/1312</oompOfficialLink>
+	<company>Adafruit</company>
+	<companyCode>C-ADAF</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C2</compIden>
+		<compID>NOT OOMP  Value:   Device: C-EUC0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C3</compIden>
+		<compID>NOT OOMP  Value:   Device: C-EUC0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C4</compIden>
+		<compID>NOT OOMP  Value:   Device: C-EUC0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C6</compIden>
+		<compID>NOT OOMP  Value:   Device: C-EUC0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C8</compIden>
+		<compID>NOT OOMP  Value:   Device: C-EUC0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C9</compIden>
+		<compID>NOT OOMP  Value:   Device: C-EUC0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C10</compIden>
+		<compID>NOT OOMP  Value:   Device: C-EUC0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>C12</compIden>
+		<compID>NOT OOMP  Value:   Device: C-EUC0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>LED1</compIden>
+		<compID>NOT OOMP  Value: WS28115050  Device: WS28115050</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>LED2</compIden>
+		<compID>NOT OOMP  Value: WS28115050  Device: WS28115050</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>LED3</compIden>
+		<compID>NOT OOMP  Value: WS28115050  Device: WS28115050</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>LED4</compIden>
+		<compID>NOT OOMP  Value: WS28115050  Device: WS28115050</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>LED5</compIden>
+		<compID>NOT OOMP  Value: WS28115050  Device: WS28115050</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>LED6</compIden>
+		<compID>NOT OOMP  Value: WS28115050  Device: WS28115050</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>LED7</compIden>
+		<compID>NOT OOMP  Value: WS28115050  Device: WS28115050</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>LED8</compIden>
+		<compID>NOT OOMP  Value: WS28115050  Device: WS28115050</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>LED9</compIden>
+		<compID>NOT OOMP  Value: WS28115050  Device: WS28115050</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>LED10</compIden>
+		<compID>NOT OOMP  Value: WS28115050  Device: WS28115050</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>LED11</compIden>
+		<compID>NOT OOMP  Value: WS28115050  Device: WS28115050</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>LED12</compIden>
+		<compID>NOT OOMP  Value: WS28115050  Device: WS28115050</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

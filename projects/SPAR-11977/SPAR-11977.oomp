@@ -1,0 +1,86 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-11977</oompID>
+	<name>SparkFun Triple-Axis Digital-Output Gyro Breakout - ITG-3200</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is a breakout board for InvenSense's ITG-3200, a groundbreaking triple-axis, digital output MEMS gyroscope. The ITG-3200 features three 16-bit analog-to-digital converters (ADCs) for digitizing the gyro outputs, a user-selectable internal low-pass filter bandwidth, and a Fast-Mode I2C (400kHz) interface. Additional features include an embedded temperature sensor and a 2% accurate internal oscillator.
+The ITG-3200 can be powered at anywhere between 2.1 and 3.6V. For power supply flexibility, the ITG-3200 has a separate VLOGIC reference pin (labeled VIO), in addition to its analog supply pin (VDD) which sets the logic levels of its serial interface. The VLOGIC voltage may be anywhere from 1.71V min to VDD max. For general use, VLOGIC can be tied to VCC. The normal operating current of the sensor is just 6.5mA.
+Communication with the ITG-3200 is achieved over a two-wire (I2C) interface. The sensor also features a interrupt output, and an optional clock input. A jumper on the top of the board allows you to easily select the I2C address, by pulling the AD0 pin to either VCC or GND; the board is shipped with this jumper tied to VCC. If you don't plan on using the CLKIN pin, you can short the jumper on the bottom of the board to tie it to GND.
+This breakout board is shipped as shown in the images. Note that there are two unpopulated resistors on the I2C lines, these can be added later by the customer if desired.
+Not sure which gyro is right for you? Our Accelerometer and Gyro Buying Guide might help!
+Replaces:SEN-9801              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/11977</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF22D-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0603-X-NF22-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R1</compIden>
+		<compID>NOT OOMP  Value: DNP  Device: RESISTOR0603-RES</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R2</compIden>
+		<compID>NOT OOMP  Value: DNP  Device: RESISTOR0603-RES</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: ITG-32001:1  Device: ITG-32001:1</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

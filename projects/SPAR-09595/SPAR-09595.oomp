@@ -1,0 +1,175 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-09595</oompID>
+	<name>SparkFun MIDI Shield</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun MIDI Shield board gives your Arduino-based device access to the antiquated, but still widely used and well supported MIDI communication protocol, so you can control synthesizers, sequencers, and other musical devices. The MIDI protocol shares many similarities with standard asynchronous serial interfaces, so you can use the UART pins of your Arduino to send and receive MIDI's event messages.
+The SparkFun MIDI Shield provides an opto-isolated MIDI-IN port as well as a MIDI-OUT port. The MIDI Shield can be mounted directly on top of an Arduino, connecting the MIDI-IN to the Arduino's hardware RX pin and the MIDI-OUT to TX. Potentiometers are connected to analog pins 1 and 2, and can be used to control volume, pitch, tone or anything else you'd like. The shield also comes with three momentary push buttons, a reset button, and green and red stat LEDs. The RUN/PROG switch allows you to program the Arduino over serial without having to remove the shield.
+This revision of the SparkFun MIDI Shield also adds several configurable features, such as converting the MIDI output to a MIDI thru, and the option to use a software serial port for MIDI, leaving the hardware serial for programming and debugging. It also buffers the output, making it compatible with the Arduino Pro without needing to circumvent the protection resistors on the serial TX and RX lines.
+Note: The MIDI Shield does not come with all parts soldered on. Two MIDI connectors, two trimpots, and three pushbuttons are included with the product and will need to be attached by the end user.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/9595</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  Value: MBRA140  Device: MBRA140</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  Value: MIDI IN  Device: 5-PIN-CIRCULAR-DINNEW</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>J2</compIden>
+		<compID>NOT OOMP  Value: MIDI OUT  Device: 5-PIN-CIRCULAR-DINNEW</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>J3</compIden>
+		<compID>NOT OOMP  Value: UNO_R3_SHIELD  Device: ARDUINO_R3_SHIELD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>LED1</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>LED2</compIden>
+		<compID>LEDS-0603-G-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O221-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O221-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O221-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O221-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O331-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O331-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>RV1</compIden>
+		<compID>NOT OOMP  Value: 10k  Device: POT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>RV2</compIden>
+		<compID>NOT OOMP  Value: 10k  Device: POT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>S1</compIden>
+		<compID>BUTA-52D-X-SMDS-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>S2</compIden>
+		<compID>NOT OOMP  Value: RUN/PROGRAM  Device: SWITCH-SPDTSMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>S3</compIden>
+		<compID>NOT OOMP  Value: SWITCH-MOMENTARY-212MM  Device: SWITCH-MOMENTARY-212MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>S4</compIden>
+		<compID>NOT OOMP  Value: SWITCH-MOMENTARY-212MM  Device: SWITCH-MOMENTARY-212MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>S5</compIden>
+		<compID>NOT OOMP  Value: SWITCH-MOMENTARY-212MM  Device: SWITCH-MOMENTARY-212MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: 6N138M  Device: OPTO_DARL_6N138S</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  Value: 74AHC1G125  Device: 74AHC1G125</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

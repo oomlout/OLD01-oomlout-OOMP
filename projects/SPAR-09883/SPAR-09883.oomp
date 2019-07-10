@@ -1,0 +1,98 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-09883</oompID>
+	<name>SparkFun Simon Says - Through-Hole Soldering Kit</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is the latest version of our popular through-hole Simon Says Kit. We've made some changes to the board that should make it easier than ever for the beginner to build! All components are through-hole, making this kit a great place to start when you're learning to solder. When building this kit, you'll have a chance to solder a 28-pin microprocessor, LEDs, battery clips and more.
+After you have successfully assembled the kit, you will have a greater knowledge of through-hole soldering and the tools, techniques, and terminology required to populate your own PCB prototype. You will have a development platform with 5 outputs (LEDs and buzzer), 5 inputs (buttons), and serial for debugging. And, of course, you'll have your very own Simon game!
+Checkout the assembly instructions - we're pretty proud of them. The kit even includes batteries! Assembly time varies, but for a true beginner with no soldering experience, the kit can take 20-40 minutes to assemble. A soldering iron and wire cutters are the bare minimum tools required. We scoured the earth and found a really fantastic beginner's soldering iron for $10, solder for $2, and wire cutters for $2. We also have a Learn to Solder version of the kit which includes all the tools you'll need!
+ Get Started with the Simon Says Assembly Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/9883</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>BAT1</compIden>
+		<compID>NOT OOMP  Value: AA  Device: BATTERYAA-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>BAT2</compIden>
+		<compID>NOT OOMP  Value: AA  Device: BATTERYAA-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-36D-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-36D-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>IC1</compIden>
+		<compID>NOT OOMP  Value: AVR-MEGA8-P  Device: AVR-MEGA8-PKIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>P1-</compIden>
+		<compID>NOT OOMP  Value: BUTTONPAD-2X2SINGLEKIT  Device: BUTTONPAD-2X2SINGLEKIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-W04-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  Value: Power  Device: SWITCH-SPSTKIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>S2</compIden>
+		<compID>NOT OOMP  Value:   Device: SWITCH-SPSTKIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>SG1</compIden>
+		<compID>NOT OOMP  Value: BUZZER  Device: BUZZERKIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

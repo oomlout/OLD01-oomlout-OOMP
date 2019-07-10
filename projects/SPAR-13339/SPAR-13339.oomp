@@ -1,0 +1,76 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-13339</oompID>
+	<name>SparkFun 6 Degrees of Freedom Breakout - LSM6DS3</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The LSM6DS3 is a accelerometer and gyroscope sensor with a giant 8kb FIFO buffer and embedded processing interrupt functions, specifically targeted at the cellphone market. Due to the capabilities and low cost of the LSM6DS3 we've created this small breakout board just for you! Each LSM6DS3 Breakout has been designed to be super-flexible and can be configured specifically for many applications. With the LSM6DS3 Breakout you will be able to detect shocks, tilt, motion, taps, count steps, and even read the temperature!
+The LSM6DS3 is capable of reading accelerometer data up to 6.7kS/s and gyroscope data up to 1.7kS/s for more accurate movement sensing. As stated before this breakout also has the ability to buffer up to 8kB of data between reads, host other sensors, and drive interrupt pins all thanks to the LSM6DS3's built-in FIFO.
+Each pin has been broken out on the LSM6DS3, with one side of the board featuring power and I2C functionality while the other side sporting pins that control SPI functionality and interrupt outputs. Please keep in mind that the LSM6DS3 is a 3.3V device so supplying voltages greater than ~3.6V can permanently damage the IC. A logic level shifter is required for any development platform operating at 5V.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/13339</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-NF100-V100</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0603-X-NF100-V100</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>L1</compIden>
+		<compID>NOT OOMP  Value: RES-07859  Device: INDUCTOR30OHM,1.8A</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O472-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O472-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  Value: LSM6DS3  Device: LSM6DS3DOT_INDICATION</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

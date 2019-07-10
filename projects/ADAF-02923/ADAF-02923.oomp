@@ -1,0 +1,185 @@
+<xml>
+<oompProject>
+	<oompID>ADAF-02923</oompID>
+	<name>Adafruit Latching Mini Relay FeatherWing</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+Adafruit Relay FeatherWing PCBs
+  
+Click to purchase from the Adafruit Shop:
+
+Latching Mini Relay FeatherWing
+Non-Latching Mini Relay FeatherWing
+The are two 'flavors' of these FeatherWings, one is the Latching relay, requires two pins, a SET and UNSET and instead of keeping the SET pin high, you only have to pulse each pin high for 10ms to latch the relay open or closed. You need two pins but save power. Note, if power is lost, the relay will stay in the last setting.
+
+The other type of relay FeatherWing is the simple Non-Latching relay, it requires only a single signal pin.
+
+Both FeatherWings use the same family of relay. You can switch up to 2A of resistive current at 30VDC or ~40VAC or lower. At 110VDC you can switch up to 0.3A, at 120VAC up to 0.5A, and at 250VAC you can switch up to 0.6A. Check the datasheet for the relay for the exact switching capacity, and of course, for reactive/inductive loads you will need to derate. This isn't a relay you can use to turn on and off your washer/dryer, stick to 60W or less. For up to 1200W devices, check out our Power Featherwing which can handle up to 10A!
+
+For more details, check out the product pages at
+
+https://www.adafruit.com/products/2923
+https://www.adafruit.com/products/2895
+This is the PCB files for the Adafruit Relay FeatherWings. The format is EagleCAD schematic and board layout
+
+License
+Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from Adafruit!
+
+All text above must be included in any redistribution
+
+Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. See license.txt for additional information.
+</oompAbout>
+	<oompOfficialLink>https://www.adafruit.com/product/2923</oompOfficialLink>
+	<company>Adafruit</company>
+	<companyCode>C-ADAF</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  Value: 1N4148  Device: DIODESOD-323</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>D2</compIden>
+		<compID>LEDS-0805-G-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>D3</compIden>
+		<compID>NOT OOMP  Value: 1N4148  Device: DIODESOD-323</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>D4</compIden>
+		<compID>LEDS-0805-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>MS1</compIden>
+		<compID>NOT OOMP  Value: MICROSHIELD  Device: MICROSHIELD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  Value: MMBT2222  Device: TRANSISTOR_NPN</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>Q2</compIden>
+		<compID>NOT OOMP  Value: MMBT2222  Device: TRANSISTOR_NPN</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0805-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0805-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0805-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0805-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0805-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0805-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>SET</compIden>
+		<compID>NOT OOMP  Value:   Device: HEADER-1X1ROUND</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>SW1</compIden>
+		<compID>NOT OOMP  Value: kmr2  Device: SWITCH_TACT_SMT4.6X2.8</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>UNSET</compIden>
+		<compID>NOT OOMP  Value:   Device: HEADER-1X1ROUND</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>VBAT</compIden>
+		<compID>NOT OOMP  Value:   Device: HEADER-1X1ROUND</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>X2</compIden>
+		<compID>NOT OOMP  Value: 3.5mm  Device: TERMBLOCK_1X3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>X3</compIden>
+		<compID>NOT OOMP  Value: RELAY_LATCHINGEE2NUH  Device: RELAY_LATCHINGEE2NUH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

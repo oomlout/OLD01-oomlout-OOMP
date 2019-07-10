@@ -1,0 +1,76 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-11214</oompID>
+	<name>SparkFun MOSFET Power Controller</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                MOSFETs are awesome. They're like a switch that you flip electronically! This SparkFun MOSFET Power Controller makes it easy to switch a battery supply on and off using your favorite microcontroller. The board also has sewable pads so you can use it in e-textile projects that need more juice.
+The MOSFET Power Controller came about because microcontrollers, like the Arduino or LilyPad Arduino, can only supply a limited amount of current. Sometimes, though, you want to control something that takes a lot of current like a fan or a heater (or a really bright LED). Simply connect a battery to the JST connector on the MOSFET Power Controller, connect the thing that needs power to the output, then connect one of the digital outputs of your microcontroller to the input pads. Now whenever you drive that pin on your controller HIGH, the battery will be connected!
+The N-Channel MOSFET used in this design is rated for up to 30V and 6.5A although the board is really intended to be used at lower power. If you hook up anything beyond a 3.7V Li-Po battery, proceed at your own risk!              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/11214</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>BH1</compIden>
+		<compID>NOT OOMP  Value: TRIG+  Device: BUTTONHOLELARGE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>BH2</compIden>
+		<compID>NOT OOMP  Value: TRIG-  Device: BUTTONHOLELARGE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>BH3</compIden>
+		<compID>NOT OOMP  Value: OUT+  Device: BUTTONHOLELARGE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>BH4</compIden>
+		<compID>NOT OOMP  Value: OUT-  Device: BUTTONHOLELARGE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  Value: FDS6630A  Device: MOSFET-NCHANNELFDS6630A</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O105-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

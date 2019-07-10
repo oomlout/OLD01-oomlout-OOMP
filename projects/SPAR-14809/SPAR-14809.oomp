@@ -1,0 +1,76 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14809</oompID>
+	<name>SparkFun I2S Audio Breakout - MAX98357A</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun I2S Audio Breakout board uses the MAX98357A digital to analog converter (DAC), which converts I2S (not be confused with I2C) audio to an analog signal to drive speakers. The I2S Audio Breakout converts the digital audio signals using the I2S standard to an analog signal and amplifies the signal using a class D amplifier which can deliver up to 3.2W of power into a 4? load. The board can be configured to output only the left channel audio, right channel, or both.
+The SparkFun I2S Audio Breakout board is fairly simple, requiring only a few pin connections to get it up and working. By default the board is configured in “mono” operation, meaning the left and right signals are combined together to drive a single speaker. If you want a separate speaker for the left and right audio channels you’ll need to cut the mono jumper. In addition to being able to select the audio channel output, the gain can also be configured in a few ways. The gain of the amplifier can be configured from as low as +3dB to as high as +15dB. While the channel selection can be configured on board, the gain however is controlled externally using the gain pin. By default, the board is configured for +9dB, but can be easily changed!
+ Get Started with the SparkFun I2S Audio Breakout Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14809</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>IC1</compIden>
+		<compID>NOT OOMP  Value: MAX98357A  Device: MAX98357A</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>J1</compIden>
+		<compID>TERS-35D-X-02PI-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>J2</compIden>
+		<compID>NOT OOMP  Value:   Device: CONN_07NO_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O304-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O105-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

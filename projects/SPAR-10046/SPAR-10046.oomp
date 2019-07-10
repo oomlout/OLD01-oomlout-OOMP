@@ -1,0 +1,167 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-10046</oompID>
+	<name>LilyPad LED Green (5pcs)</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is a simple pack of five Green LilyPad LEDs that are still attached to one another, letting you snap the LEDs apart at your leisure to sew into clothing or whatever else you can dream up.
+LilyPad is a wearable e-textile technology developed by Dr. Leah Buechley and cooperatively designed by Leah and SparkFun. Each LilyPad piece was creatively designed with large sew tabs to allow them to be sewn into fabric. Various input, output, power and sensor boards are available. They're even washable (with special care)!
+Note: A portion of this sale is given back to Dr. Buechley for continued development and education in e-textiles.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/10046</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>D1</compIden>
+		<compID>LEDS-1206-W-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>D2</compIden>
+		<compID>LEDS-1206-W-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>D3</compIden>
+		<compID>LEDS-1206-W-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>D4</compIden>
+		<compID>LEDS-1206-W-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>D5</compIden>
+		<compID>LEDS-1206-W-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>LED+1</compIden>
+		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>LED+2</compIden>
+		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>LED+3</compIden>
+		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>LED+4</compIden>
+		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>LED+5</compIden>
+		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>LED-1</compIden>
+		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>LED-2</compIden>
+		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>LED-3</compIden>
+		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>LED-4</compIden>
+		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>LED-5</compIden>
+		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O151-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O151-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O151-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O151-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O151-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

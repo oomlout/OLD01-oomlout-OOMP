@@ -1,0 +1,55 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14877</oompID>
+	<name>SparkFun Basic Flashlight Soldering Kit</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                Are you new to soldering and want to learn the basics with one easy kit? This Flashlight Soldering Kit is an easy to assemble soldering kit designed to help teach the basics of through hole soldering and circuit design. This kit requires you to only solder four unique parts onto a PCB and then insert a CR2032 battery, once completed you will be provided with a simple flashlight that will light up dark areas and keep the monsters away!
+Inside each Basic Flashlight Soldering Kit bag is a PCB, a small coin cell battery, a battery holder, an LED, a resistor, and a switch. On the front of the kit's PCB, you can see markings and outlines for the four different components to make sure everything is assembled correctly, while on the back is a schematic of the flashlight circuit showing all four components and how they interact with each other. All you need to supply is a soldering iron and solder to put your kit together!
+ Get Started With the Basic Flashlight Soldering Kit Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14877</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>BT2</compIden>
+		<compID>NOT OOMP  Value:   Device: BATTERY-20MM_PTH_KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  Value:   Device: LED-5MM-KIT-NO-SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-W04-X-O100-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>S2</compIden>
+		<compID>NOT OOMP  Value:   Device: SWITCH-SPDT-PTH-11.6X4.0MM-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

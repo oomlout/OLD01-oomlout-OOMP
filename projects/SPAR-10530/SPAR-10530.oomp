@@ -1,0 +1,69 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-10530</oompID>
+	<name>SparkFun Triple Axis Magnetometer Breakout - HMC5883L</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                Sorry, the HMC5883L went EOL. This part is retired but we recommend the MAG3110 magnetometer or the 9DoF Stick which has a magnetometer built in. Neither are drop in replacements but both will allow you to detect the earth’s magentic field.
+This is a breakout board for Honeywell's HMC5883L, a 3-axis digital compass. Communication with the HMC5883L is simple and all done through an I2C interface. There is no on-board regulator, so a regulated voltage of 2.16-3.6VDC should be supplied.
+The breakout board includes the HMC5883L sensor and all filtering capacitors as shown. The power and 2-wire interface pins are all broken out to a 0.1" pitch header.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/10530</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0402-X-NF220-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0402-X-UF47D-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>R1</compIden>
+		<compID>NOT OOMP  Value: DNP  Device: RESISTOR0402-RES</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R2</compIden>
+		<compID>NOT OOMP  Value: DNP  Device: RESISTOR0402-RES</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: HMC5883LSMD  Device: HMC5883LSMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

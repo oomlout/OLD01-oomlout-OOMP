@@ -1,0 +1,54 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-12064</oompID>
+	<name>SparkFun Humidity and Temperature Sensor Breakout - Si7021</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The Si7021 is a low-cost, easy-to-use, highly accurate, digital humidity and temperature sensor. This sensor is ideal for environmental sensing and data logging and perfect for build a weather stations or humidor control system. All you need are two lines for I2C communication, and you’ll have relative humidity readings and very accurate temperature readings as a bonus!
+There are only four pins that need to be hooked up in order to start using this sensor in a project. One for VCC, one for GND, and two data lines for I2C communication. This breakout board has built-in 4.7KO pullup resistors for I2C communications. If you’re hooking up multiple I2C devices on the same bus, you may want to disable these resistors.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/12064</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O472-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O472-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: SI7021  Device: SI7021</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

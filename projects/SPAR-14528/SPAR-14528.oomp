@@ -1,0 +1,197 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14528</oompID>
+	<name>LilyPad E-Sewing ProtoSnap Kit</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The LilyPad E-Sewing ProtoSnap Kit is a great way to incorporate buttons and switches into an e-textile project without any programming required. Like other LilyPad ProtoSnap series boards, the individual pieces of the included E-Sewing ProtoSnap are pre-wired --- allowing you to try out the function of the circuit before sewing. We have also included a CR2032 battery, needle set, conductive thread bobbin and a swatch of white felt. With all of these parts combined and the featured guide (found in the Documents tab), you will be able to plan and create fantastic projects straight out of the box!
+The E-Sewing ProtoSnap includes three white LilyPad LEDs: two connected to a LilyPad Slide Switch and one connected to a LilyPad Button Board. A LilyPad Coin Cell Battery Holder with the included CR2032 coin cell battery provides all the power you need for the circuit. All you need to do is design how you want your project to be laid out, and then snap everything apart!
+Note: A portion of this sale is given back to Dr. Leah Buechley for continued development and education in e-textiles.
+Note: Due to the requirements of shipping the battery in this kit, orders may take longer to process and therefore do not qualify for same-day shipping. Additionally, these batteries cannot be shipped via Ground or Economy methods to Alaska or Hawaii. Sorry for any inconvenience this may cause.
+ Get Started with the LilyPad E-Sewing ProtoSnap Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14528</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>BAT1</compIden>
+		<compID>NOT OOMP  Value: 20mm coincell  Device: BATTERY20MM_4LEGS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>BATB-</compIden>
+		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>BATB-2</compIden>
+		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>BATT+</compIden>
+		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>BATT+2</compIden>
+		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>BUTTON-</compIden>
+		<compID>NOT OOMP  Value: SEWTAP8  Device: SEWTAP8</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>BUTTONS</compIden>
+		<compID>NOT OOMP  Value: SEWTAP8  Device: SEWTAP8</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>LED+1</compIden>
+		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>LED+2</compIden>
+		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>LED+3</compIden>
+		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>LED-1</compIden>
+		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>LED-2</compIden>
+		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>LED-3</compIden>
+		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>LED1</compIden>
+		<compID>LEDS-1206-W-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>LED2</compIden>
+		<compID>LEDS-1206-W-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>LED3</compIden>
+		<compID>LEDS-1206-W-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O151-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O151-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O151-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  Value: S1  Device: SWITCH-SPDTSMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>S2</compIden>
+		<compID>BUTA-52D-X-SMDS-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>S3</compIden>
+		<compID>NOT OOMP  Value: S3  Device: SWITCH-SPDTSMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>SLIDEOFF</compIden>
+		<compID>NOT OOMP  Value: SEWTAP8  Device: SEWTAP8</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>SLIDEON</compIden>
+		<compID>NOT OOMP  Value: SEWTAP8  Device: SEWTAP8</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

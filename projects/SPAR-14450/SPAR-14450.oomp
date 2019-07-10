@@ -1,0 +1,57 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14450</oompID>
+	<name>SparkFun Motor Driver - Dual TB6612FNG (with Headers)</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The TB6612FNG Motor Driver can control up to two DC motors at a constant current of 1.2A (3.2A peak). Two input signals (IN1 and IN2) can be used to control the motor in one of four function modes: CW, CCW, short-brake and stop. The two motor outputs (A and B) can be separately controlled, and the speed of each motor is controlled via a PWM input signal with a frequency up to 100kHz. The STBY pin should be pulled high to take the motor out of standby mode. Due to popular demand, this version of the SparkFun Motor Driver includes pre-soldered male headers for ease of use. With the headers already soldered on, you can jump right in to using this little board without any assembly!
+Logic supply voltage (VCC) can be in the range of 2.7--5.5VDC, while the motor supply (VM) is limited to a maximum voltage of 15VDC. The output current is rated up to 1.2A per channel (or up to 3.2A for a short, single pulse).
+The board comes with all components installed as shown. Decoupling capacitors are included on both supply lines. All pins of the TB6612FNG are broken out to two 0.1" pitch headers; the pins are arranged such that input pins are on one side and output pins are on the other.
+Note: If you are looking for the SparkFun Motor Driver without headers, it can be found here or in the Similar Products below.
+ Get Started With the Motor Driver Hookup Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14450</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPT-3528-X-UF10-V20</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: TB6612FNG  Device: TB6612FNG</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

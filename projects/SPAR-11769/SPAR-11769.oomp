@@ -1,0 +1,48 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-11769</oompID>
+	<name>SparkFun RedBot Sensor - Line Follower</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The Line Follower sensor is an add-on for your RedBot that gives your robot the ability to detect lines or nearby objects. The sensor works by detecting reflected light coming from its own infrared LED. By measuring the amount of reflected infrared light, it can detect transitions from light to dark (lines) or even objects directly in front of it.
+The sensor has a 3-pin header which connects directly to the RedBot Mainboard via female to female jumper wires. Use the included RedBot library to detect lines or objects. A mounting hole lets you easily connect one or more of these to the front or back of your robot chassis.
+Check out the entire RedBot family of products!              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/11769</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O101-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: QRE1113SMD-W  Device: QRE1113SMD-W</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

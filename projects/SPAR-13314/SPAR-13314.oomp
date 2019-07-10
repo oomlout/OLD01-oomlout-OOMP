@@ -1,0 +1,62 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-13314</oompID>
+	<name>SparkFun Digital Temperature Sensor Breakout - TMP102</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The TMP102 is an easy-to-use digital temperature sensor from Texas Instruments. The TMP102 breakout allows you to easily incorporate the digital temperature sensor into your project. While some temperature sensors use an analog voltage to represent the temperature, the TMP102 uses the I2C bus of the Arduino to communicate the temperature. Needless to say, this is a very handy sensor that doesn't require much setup.
+The TMP102 is capable of reading temperatures to a resolution of 0.0625°C, and is accurate up to 0.5°C. The breakout has built-in 4.7kO pull-up resistors for I2C communications and runs from 1.4V to 3.6V. I2C communication uses an open drain signaling, so there is no need to use level shifting.
+ Get Started with the TMP102 Breakout Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/13314</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: TMP1021:1  Device: TMP1021:1</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

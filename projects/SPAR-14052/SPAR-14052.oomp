@@ -1,0 +1,258 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14052</oompID>
+	<name>Spectacle Light Board</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The Spectacle Light Board allows you to add some fairly complex lighting effects to your Spectacle projects in a streamlined manner. Each has connections for you to add addressable LEDs as well as an external power connector. Designed to make it easy to add relatively complex lighting effects to your Spectacle projects, the Spectacle Light Board integrates with the rest of the Spectacle ecosystem to allow you to control lighting effects with ease and comfort.
+The Light Board is equipped with two 3.5mm TRRS jacks for Spectacle control signals from a Director Board. The one labeled “In” should be plugged into a board that is closer to the Director Board than the Light Board is, or into the Director Board itself. Make sure to pay attention to the directionality of the jacks, as they will dictate how your Spectacle modules speak with one another and with the Director Board. As with every other Spectacle module, you will need the Director Board to operate any Spectacle project.
+Additionally, the Spectacle Light Board supports up to three strands of addressable LEDs, with each strand supporting up to 60 individual pixels. Simply utilize the 3-pin JST ports on the Light Board as well as a JST to JST-SM wire, and you will be ready to light up any project!
+We have written an in-depth User's Guide and Light Board Hookup Guide to help direct you through each step of setting up this and any board in the Spectacle product line. You will be surprised by how easy and quick it is to make yourself into a Spectacle!
+
+Spectacle is a product ecosystem centered around a simple idea: creative people shouldn’t have to learn new skills to use electronics in their projects. You’ve spent years developing the skills you use, and SparkFun wants to recognize that and help you expand your creations to include electronics without requiring you to spend years learning about electronics and programming.
+
+Note: Not all types of addressable LEDs are compatible with the Spectacle Light Board. If you have questions about whether or not a particular type of LED strip is compatible with the Light Board, contact SparkFun technical support.
+ Spectacle User's Guide Spectacle Programmer 
+ Get Started with the Light Board               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14052</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-UF22D-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0402-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0603-X-UF22D-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C9</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>C10</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  Value: PESD1CAN  Device: PESD1CAN</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>D2</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>D3</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>D4</compIden>
+		<compID>NOT OOMP  Value: PESD1CAN  Device: PESD1CAN</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>D5</compIden>
+		<compID>NOT OOMP  Value: BAT20J  Device: DIODE-SCHOTTKY-BAT20J</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>J2</compIden>
+		<compID>NOT OOMP  Value:   Device: M05NO_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>J3</compIden>
+		<compID>NOT OOMP  Value: USB-MICROB  Device: USB-MICROB</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>J4</compIden>
+		<compID>NOT OOMP  Value: AUDIO_JACK_TRRSSMD_RA  Device: AUDIO_JACK_TRRSSMD_RA</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>J5</compIden>
+		<compID>JSTS-02-X-03PI-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>J6</compIden>
+		<compID>JSTS-02-X-03PI-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>J7</compIden>
+		<compID>JSTS-02-X-03PI-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>J8</compIden>
+		<compID>NOT OOMP  Value: AUDIO_JACK_TRRSSMD_RA  Device: AUDIO_JACK_TRRSSMD_RA</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>J9</compIden>
+		<compID>NOT OOMP  Value:   Device: M06NO_SILK_NO_POP</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O472-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O472-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>SW1</compIden>
+		<compID>NOT OOMP  Value:   Device: SWITCH_SPST_4_PINRECT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>SW2</compIden>
+		<compID>NOT OOMP  Value:   Device: SWITCH_SPST_4_PINRECT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>29</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: CY8C4245LQI-483  Device: PSOC4_4200_40QFN</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>30</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  Value: 3.3V  Device: V_REG_AP2112K-3.3V</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>31</compIndex>
+		<compIden>U4</compIden>
+		<compID>NOT OOMP  Value: SN74LVC1G66  Device: SN74LVC1G66_SPST_AMUX</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>32</compIndex>
+		<compIden>U5</compIden>
+		<compID>NOT OOMP  Value: SN74LVC1G66  Device: SN74LVC1G66_SPST_AMUX</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

@@ -1,0 +1,147 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-10342</oompID>
+	<name>SI4735 AM andamp; FM Receiver Shield</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                Replacement: None. Unfortunately the Si4735 has been discontinued. This page is for reference only.
+The Si4735 is the first digital CMOS AM/FM radio receiver IC that integrates the complete tuner function from antenna input to audio output. This feature-rich solution includes advanced seek algorithms, soft mute, auto-calibrated digital tuning, and FM stereo processing. The chip also incorporates a digital processor for the European Radio Data System (RDS) and the North American Radio Broadcast Data System (RBDS), including all required symbol decoding, block synchronization, error detection, and error correction functions. Basically it's an entire AM/FM, LW/SW radio in a single chip.
+Now that we've mounted it on a shield, you can harness all of that sweet radio-playing power right from your Arduino. Simply stack the shield onto your Arduino board, plug in some speakers (headphones don't seem to work as well without a preamp) and use the library below to control the volume, channel selection, etc. The library also allows you to send a variety of other commands constructed by consulting the Si4735 Programmers Guide.
+This board seems to get decent reception compared to other stereos around the office even using a simple wire antenna. If you happen to have an antenna that you'd like to use it can be soldered right to the via marked "antenna".              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/10342</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0402-X-NF220-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0402-X-PF22-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0402-X-PF22-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0402-X-PF18-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0402-X-PF33-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPT-3528-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C7</compIden>
+		<compID>CAPC-0402-X-UF47-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>L1</compIden>
+		<compID>NOT OOMP  Value: 180nH  Device: INDUCTOR0402</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>L2</compIden>
+		<compID>NOT OOMP  Value: 4.7uH  Device: INDUCTOR0402</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  Value:   Device: SWITCH-SPSTSMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>S2</compIden>
+		<compID>NOT OOMP  Value: Reset Switch  Device: SWITCH-MOMENTARY-2SMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: ARDUINO_SHIELDLABEL  Device: ARDUINO_SHIELDLABEL</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  Value: SI4735  Device: SI4735</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  Value:   Device: AUDIO-JACKSMD2</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>U4</compIden>
+		<compID>NOT OOMP  Value: HEX_CONVERTER  Device: HEX_CONVERTER</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>Y1</compIden>
+		<compID>NOT OOMP  Value: 32.768kHz  Device: CRYSTAL32-SMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

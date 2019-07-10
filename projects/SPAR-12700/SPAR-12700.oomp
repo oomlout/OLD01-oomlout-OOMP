@@ -1,0 +1,33 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-12700</oompID>
+	<name>SparkFun USB Type A Female Breakout</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This simple board breaks out a female USB type A connector's VCC, GND, D- and D+ pins to a 0.1" pitch header. If you want to add a USB to  your project, but don't want to put up with soldering tiny connectors, this is the board for you.
+Dimensions: 1.02 x 0.9" (26.06 x 22.93mm)              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/12700</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O000-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

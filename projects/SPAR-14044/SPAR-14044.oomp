@@ -1,0 +1,362 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14044</oompID>
+	<name>Spectacle Button Board</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The Spectacle Button Board allows you to add input from buttons, switches or other contact-type sensing devices to your Spectacle projects. This is the largest board in the Spectacle line due to its total of nine signal inputs, allowing for a large number of connections to a single module. Designed to bring simple signals from the world into your Spectacle projects, the Button Board provides input for any of your Spectacle projects!
+The Button Board is equipped with two 3.5mm TRRS jacks for Spectacle control signals from a Director Board. The one labeled “In” should be plugged into a board that is closer to the Director Board than the Button Board is, or into the Director Board itself. Make sure to pay attention to the directionality of the jacks, as they will dictate how your Spectacle modules speak with one another and with the Director Board. As with every other Spectacle module, you will need the Director Board to operate any Spectacle project.
+Additionally, there are eight “poke home” connectors on the Button Board. Each one can be connected to one (or more) buttons. To add a connection, simply push the stripped end of a wire into the hole on the connector. If you don't have any external buttons to add to your project, there is also a small input button on the board itself that can be used to provide an input signal and that functions like any other normal button that might be attached.
+We have written an in-depth User's Guide and Button Board Hookup Guide to help direct you through each step of setting up this and any board in the Spectacle product line. You will be surprised by how easy and quick it is to make yourself into a Spectacle!
+
+Spectacle is a product ecosystem centered around a simple idea: creative people shouldn’t have to learn new skills to use electronics in their projects. You’ve spent years developing the skills you use, and SparkFun wants to recognize that and help you expand your creations to include electronics without requiring you to spend years learning about electronics and programming.
+
+ Spectacle User's Guide Spectacle Programmer 
+ Get Started with the Button Board               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14044</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-UF22D-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0402-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0603-X-UF22D-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C9</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>C10</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>D2</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>D3</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>D4</compIden>
+		<compID>NOT OOMP  Value: PESD1CAN  Device: PESD1CAN</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>D5</compIden>
+		<compID>NOT OOMP  Value: PESD1CAN  Device: PESD1CAN</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>D6</compIden>
+		<compID>NOT OOMP  Value: PESD1CAN  Device: PESD1CAN</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>D7</compIden>
+		<compID>NOT OOMP  Value: PESD1CAN  Device: PESD1CAN</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>D8</compIden>
+		<compID>NOT OOMP  Value: PESD1CAN  Device: PESD1CAN</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>D9</compIden>
+		<compID>NOT OOMP  Value: PESD1CAN  Device: PESD1CAN</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  Value:   Device: M02PTH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>J2</compIden>
+		<compID>NOT OOMP  Value:   Device: M02PTH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>J3</compIden>
+		<compID>NOT OOMP  Value:   Device: M02PTH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>J4</compIden>
+		<compID>NOT OOMP  Value:   Device: M02PTH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>J5</compIden>
+		<compID>NOT OOMP  Value:   Device: M02PTH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>J6</compIden>
+		<compID>NOT OOMP  Value:   Device: M02PTH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>J7</compIden>
+		<compID>NOT OOMP  Value:   Device: M02PTH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>J8</compIden>
+		<compID>NOT OOMP  Value:   Device: M02PTH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>J9</compIden>
+		<compID>HEAD-I01-X-02PI-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>J10</compIden>
+		<compID>HEAD-I01-X-02PI-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>J11</compIden>
+		<compID>HEAD-I01-X-02PI-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>J12</compIden>
+		<compID>HEAD-I01-X-02PI-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>29</compIndex>
+		<compIden>J13</compIden>
+		<compID>HEAD-I01-X-02PI-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>30</compIndex>
+		<compIden>J14</compIden>
+		<compID>HEAD-I01-X-02PI-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>31</compIndex>
+		<compIden>J15</compIden>
+		<compID>HEAD-I01-X-02PI-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>32</compIndex>
+		<compIden>J16</compIden>
+		<compID>HEAD-I01-X-02PI-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>33</compIndex>
+		<compIden>J17</compIden>
+		<compID>NOT OOMP  Value: AUDIO_JACK_TRRSSMD_RA  Device: AUDIO_JACK_TRRSSMD_RA</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>34</compIndex>
+		<compIden>J18</compIden>
+		<compID>NOT OOMP  Value:   Device: M05NO_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>35</compIndex>
+		<compIden>J20</compIden>
+		<compID>NOT OOMP  Value: AUDIO_JACK_TRRSSMD_RA  Device: AUDIO_JACK_TRRSSMD_RA</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>36</compIndex>
+		<compIden>J21</compIden>
+		<compID>NOT OOMP  Value:   Device: M06NO_SILK_NO_POP</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>37</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>38</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O472-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>39</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O472-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>40</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>41</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>42</compIndex>
+		<compIden>SW1</compIden>
+		<compID>NOT OOMP  Value:   Device: SWITCH_SPST_4_PINRECT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>43</compIndex>
+		<compIden>SW2</compIden>
+		<compID>NOT OOMP  Value:   Device: SWITCH_SPST_4_PINRECT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>44</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: CY8C4146LQI-S422  Device: PSOC4_4100S_32QFN</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>45</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  Value: 3.3V  Device: V_REG_AP2112K-3.3V</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>46</compIndex>
+		<compIden>U4</compIden>
+		<compID>NOT OOMP  Value: SN74LVC1G66  Device: SN74LVC1G66_SPST_AMUX</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>47</compIndex>
+		<compIden>U5</compIden>
+		<compID>NOT OOMP  Value: SN74LVC1G66  Device: SN74LVC1G66_SPST_AMUX</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>

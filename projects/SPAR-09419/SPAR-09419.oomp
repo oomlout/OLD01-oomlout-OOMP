@@ -1,0 +1,40 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-09419</oompID>
+	<name>SparkFun microSD Sniffer</name>
+	<hexID></hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is a unique board recommended by a SparkFun customer. When playing with microSD, you sometimes need to view what the SPI traffic is doing, whether for hacking or debugging. The SparkFun microSD Sniffer allows you to hook up an external device, such as a logic analyzer or microcontroller, to view what signals are being passed back and forth. Insert one side into a regular uSD socket and a uSD card into the on-board socket, simple as that.
+All necessary pins are broken out to an 8-pin 0.1" pitch header.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/9419</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  Value: MICRO-SDCARD  Device: MICRO-SDCARD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  Value: microSD Socket  Device: USD-SOCKET</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+
+
+
+</oompProject>
+</xml>
