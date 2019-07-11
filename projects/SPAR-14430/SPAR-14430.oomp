@@ -23,7 +23,7 @@ Each sensor in the LSM9DS1 onboard the Thing Motion Shield supports a wide spect
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>B1</compIden>
-		<compID>NOT OOMP  Value: ESP32_THING_WO_ANT_KEEPOUT  Device: ESP32_THING_WO_ANT_KEEPOUT</compID>
+		<compID>NOT OOMP  eagleValue: ESP32_THING_WO_ANT_KEEPOUT  eagleDevice: ESP32_THING_WO_ANT_KEEPOUT  eaglePackage: ESP32_THING_NO_ANT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -72,21 +72,21 @@ Each sensor in the LSM9DS1 onboard the Thing Motion Shield supports a wide spect
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_20NOSILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_20NOSILK  eaglePackage: 1X20_NOSILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value: MICRO-SD_CARD_SOCKET  Device: MICRO-SD_CARD_SOCKET</compID>
+		<compID>NOT OOMP  eagleValue: MICRO-SD_CARD_SOCKET  eagleDevice: MICRO-SD_CARD_SOCKET  eaglePackage: MICRO-SD-SOCKET</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_20NOSILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_20NOSILK  eaglePackage: 1X20_NOSILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -191,7 +191,7 @@ Each sensor in the LSM9DS1 onboard the Thing Motion Shield supports a wide spect
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: LSM9DS1  Device: LSM9DS1</compID>
+		<compID>NOT OOMP  eagleValue: LSM9DS1  eagleDevice: LSM9DS1  eaglePackage: LGA-24-3.5X3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

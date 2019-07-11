@@ -84,21 +84,21 @@ Like the Arduino Pro Mini, the MiP ProMini-Pack utilizes SparkFun's minimal desi
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  Value: PTCSMD  Device: PTCSMD</compID>
+		<compID>NOT OOMP  eagleValue: PTCSMD  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: 8MHz  Device: RESONATOR8MHZ</compID>
+		<compID>NOT OOMP  eagleValue: 8MHz  eagleDevice: RESONATOR8MHZ  eaglePackage: RESONATOR-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>R1</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: RESISTOR0603-RES</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: RESISTOR0603-RES  eaglePackage: 0603-RES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -112,7 +112,7 @@ Like the Arduino Pro Mini, the MiP ProMini-Pack utilizes SparkFun's minimal desi
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>R3</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: RESISTOR0603-RES</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: RESISTOR0603-RES  eaglePackage: 0603-RES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -189,14 +189,14 @@ Like the Arduino Pro Mini, the MiP ProMini-Pack utilizes SparkFun's minimal desi
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: MIC5205  Device: MIC52053.3V</compID>
+		<compID>NOT OOMP  eagleValue: MIC5205  eagleDevice: MIC52053.3V  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: TS3USB221A  Device: TS3USB221A</compID>
+		<compID>NOT OOMP  eagleValue: TS3USB221A  eagleDevice: TS3USB221A  eaglePackage: QFN-10-RSE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

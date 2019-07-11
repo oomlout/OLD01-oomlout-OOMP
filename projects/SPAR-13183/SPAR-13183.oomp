@@ -23,7 +23,7 @@ Note: A portion of each sale is given back to Josh Datko for continued developme
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>BAT1</compIden>
-		<compID>NOT OOMP  Value: 3V  Device: BATTERY12MM</compID>
+		<compID>NOT OOMP  eagleValue: 3V  eagleDevice: BATTERY12MM  eaglePackage: BATTCON_12MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -121,28 +121,28 @@ Note: A portion of each sale is given back to Josh Datko for continued developme
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: AVR_SPI_PRG_6PTH  Device: AVR_SPI_PRG_6PTH</compID>
+		<compID>NOT OOMP  eagleValue: AVR_SPI_PRG_6PTH  eagleDevice: AVR_SPI_PRG_6PTH  eaglePackage: 2X3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: BSS138  Device: MOSFET-NCHANNELBSS138</compID>
+		<compID>NOT OOMP  eagleValue: BSS138  eagleDevice: MOSFET-NCHANNELBSS138  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  Value: BSS138  Device: MOSFET-NCHANNELBSS138</compID>
+		<compID>NOT OOMP  eagleValue: BSS138  eagleDevice: MOSFET-NCHANNELBSS138  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>Q3</compIden>
-		<compID>NOT OOMP  Value: BSS138  Device: MOSFET-NCHANNELBSS138</compID>
+		<compID>NOT OOMP  eagleValue: BSS138  eagleDevice: MOSFET-NCHANNELBSS138  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -212,63 +212,63 @@ Note: A portion of each sale is given back to Josh Datko for continued developme
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: 74LVC1G04  Device: INVERTER_SOT353-5</compID>
+		<compID>NOT OOMP  eagleValue: 74LVC1G04  eagleDevice: INVERTER_SOT353-5  eaglePackage: SOT353</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: 33mhz  Device: 33MHZ-OSCILLATOR</compID>
+		<compID>NOT OOMP  eagleValue: 33mhz  eagleDevice: 33MHZ-OSCILLATOR  eaglePackage: CRYSTAL-OSC-SMD-5X3.2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: ID-12/20SMD  Device: ID-12/20SMD</compID>
+		<compID>NOT OOMP  eagleValue: ID-12/20SMD  eagleDevice: ID-12/20SMD  eaglePackage: ID-12_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: ARDUINO_R3_SHIELD  Device: ARDUINO_R3_SHIELD</compID>
+		<compID>NOT OOMP  eagleValue: ARDUINO_R3_SHIELD  eagleDevice: ARDUINO_R3_SHIELD  eaglePackage: UNO_R3_SHIELD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>32</compIndex>
 		<compIden>U5</compIden>
-		<compID>NOT OOMP  Value: ATAES132  Device: ATAES132</compID>
+		<compID>NOT OOMP  eagleValue: ATAES132  eagleDevice: ATAES132  eaglePackage: SOIC8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>33</compIndex>
 		<compIden>U6</compIden>
-		<compID>NOT OOMP  Value: AT97SC3204T  Device: AT97SC3204T</compID>
+		<compID>NOT OOMP  eagleValue: AT97SC3204T  eagleDevice: AT97SC3204T  eaglePackage: TSSOP28</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>34</compIndex>
 		<compIden>U7</compIden>
-		<compID>NOT OOMP  Value: DS3231M  Device: DS3231M</compID>
+		<compID>NOT OOMP  eagleValue: DS3231M  eagleDevice: DS3231M  eaglePackage: SOIC8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>35</compIndex>
 		<compIden>U8</compIden>
-		<compID>NOT OOMP  Value: ATSHA204_SOIC8  Device: ATSHA204_SOIC8</compID>
+		<compID>NOT OOMP  eagleValue: ATSHA204_SOIC8  eagleDevice: ATSHA204_SOIC8  eaglePackage: SOIC8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>36</compIndex>
 		<compIden>U9</compIden>
-		<compID>NOT OOMP  Value: ATECC108  Device: ATECC108</compID>
+		<compID>NOT OOMP  eagleValue: ATECC108  eagleDevice: ATECC108  eaglePackage: SOIC8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

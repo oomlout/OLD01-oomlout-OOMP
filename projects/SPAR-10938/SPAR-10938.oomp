@@ -56,28 +56,28 @@ Built-in antenna
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: Red  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  Value: Green  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: Green  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: MOSFET-NCHANNELSMD  Device: MOSFET-NCHANNELSMD</compID>
+		<compID>NOT OOMP  eagleValue: MOSFET-NCHANNELSMD  eagleDevice: MOSFET-NCHANNELSMD  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  Value: MOSFET-NCHANNELSMD  Device: MOSFET-NCHANNELSMD</compID>
+		<compID>NOT OOMP  eagleValue: MOSFET-NCHANNELSMD  eagleDevice: MOSFET-NCHANNELSMD  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -147,14 +147,14 @@ Built-in antenna
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: BLUETOOTH-RN41  Device: BLUETOOTH-RN41</compID>
+		<compID>NOT OOMP  eagleValue: BLUETOOTH-RN41  eagleDevice: BLUETOOTH-RN41  eaglePackage: RN41</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: 3.3V  Device: V_REG_LDOSMD</compID>
+		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

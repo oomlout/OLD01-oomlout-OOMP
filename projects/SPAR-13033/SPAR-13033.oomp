@@ -108,28 +108,28 @@ Note: While there are jumpers for SPI, it is not supported.
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: LSM9DS0  Device: LSM9DS0</compID>
+		<compID>NOT OOMP  eagleValue: LSM9DS0  eagleDevice: LSM9DS0  eaglePackage: LGA-24</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: EDISON_CONNECTOR_FULLMOUNTING_HOLES  Device: EDISON_CONNECTOR_FULLMOUNTING_HOLES</compID>
+		<compID>NOT OOMP  eagleValue: EDISON_CONNECTOR_FULLMOUNTING_HOLES  eagleDevice: EDISON_CONNECTOR_FULLMOUNTING_HOLES  eaglePackage: EDISON_DAUGHTER</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: EDISON_CONNECTOR_FULLHEADER  Device: EDISON_CONNECTOR_FULLHEADER</compID>
+		<compID>NOT OOMP  eagleValue: EDISON_CONNECTOR_FULLHEADER  eagleDevice: EDISON_CONNECTOR_FULLHEADER  eaglePackage: DF40C-70DP-0.4(51)</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: MIC52053.3V  Device: MIC52053.3V</compID>
+		<compID>NOT OOMP  eagleValue: MIC52053.3V  eagleDevice: MIC52053.3V  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

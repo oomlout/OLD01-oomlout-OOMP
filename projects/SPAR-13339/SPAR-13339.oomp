@@ -36,7 +36,7 @@ Each pin has been broken out on the LSM6DS3, with one side of the board featurin
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>L1</compIden>
-		<compID>NOT OOMP  Value: RES-07859  Device: INDUCTOR30OHM,1.8A</compID>
+		<compID>NOT OOMP  eagleValue: RES-07859  eagleDevice: INDUCTOR30OHM,1.8A  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -64,7 +64,7 @@ Each pin has been broken out on the LSM6DS3, with one side of the board featurin
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: LSM6DS3  Device: LSM6DS3DOT_INDICATION</compID>
+		<compID>NOT OOMP  eagleValue: LSM6DS3  eagleDevice: LSM6DS3DOT_INDICATION  eaglePackage: LGA14L_DOT_INDICATOR</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -42,21 +42,21 @@ Input common-mode and power supply voltages are independent and can range from 2
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>R3</compIden>
-		<compID>NOT OOMP  Value:   Device: RESISTORPTH-2W</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: RESISTORPTH-2W  eaglePackage: AXIAL-0.8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>R4</compIden>
-		<compID>NOT OOMP  Value:   Device: RESISTORPTH-1/4W</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: RESISTORPTH-1/4W  eaglePackage: AXIAL-0.4</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: INA169  Device: INA169</compID>
+		<compID>NOT OOMP  eagleValue: INA169  eagleDevice: INA169  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

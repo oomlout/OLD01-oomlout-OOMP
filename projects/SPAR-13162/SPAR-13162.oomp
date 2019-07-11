@@ -71,28 +71,28 @@ The ZX Sensor works by bouncing infrared (IR) beams of light from the two LEDs o
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: SFH4641SHORT2  Device: SFH4641SHORT2</compID>
+		<compID>NOT OOMP  eagleValue: SFH4641SHORT2  eagleDevice: SFH4641SHORT2  eaglePackage: SFH4641-SHORT2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  Value: SFH4641SHORT2  Device: SFH4641SHORT2</compID>
+		<compID>NOT OOMP  eagleValue: SFH4641SHORT2  eagleDevice: SFH4641SHORT2  eaglePackage: SFH4641-SHORT2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: MMBT2222A  Device: TRANSISTOR_NPNMMBT2222A</compID>
+		<compID>NOT OOMP  eagleValue: MMBT2222A  eagleDevice: TRANSISTOR_NPNMMBT2222A  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  Value: MOSFET-NCHANNEL2N7002PW  Device: MOSFET-NCHANNEL2N7002PW</compID>
+		<compID>NOT OOMP  eagleValue: MOSFET-NCHANNEL2N7002PW  eagleDevice: MOSFET-NCHANNEL2N7002PW  eaglePackage: SOT323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -197,35 +197,35 @@ The ZX Sensor works by bouncing infrared (IR) beams of light from the two LEDs o
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: PIC16F1823-14PINTSSOP  Device: PIC16F1823-14PINTSSOP</compID>
+		<compID>NOT OOMP  eagleValue: PIC16F1823-14PINTSSOP  eagleDevice: PIC16F1823-14PINTSSOP  eaglePackage: TSSOP14</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: MCP6021T-E/OT  Device: MCP6021T-E/OT</compID>
+		<compID>NOT OOMP  eagleValue: MCP6021T-E/OT  eagleDevice: MCP6021T-E/OT  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: DMC2700UDM  Device: DMC2700UDM</compID>
+		<compID>NOT OOMP  eagleValue: DMC2700UDM  eagleDevice: DMC2700UDM  eaglePackage: SOT26</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: DMC2700UDM  Device: DMC2700UDM</compID>
+		<compID>NOT OOMP  eagleValue: DMC2700UDM  eagleDevice: DMC2700UDM  eaglePackage: SOT26</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>U5</compIden>
-		<compID>NOT OOMP  Value: TSSP57038  Device: TSSP57038</compID>
+		<compID>NOT OOMP  eagleValue: TSSP57038  eagleDevice: TSSP57038  eaglePackage: TSOP572</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

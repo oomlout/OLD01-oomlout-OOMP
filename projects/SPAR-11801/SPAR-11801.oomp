@@ -50,28 +50,28 @@ The Tiny AVR Programmer plugs directly into your USB port and provides a program
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: 3.3V  Device: DIODE-ZENER-BZT52</compID>
+		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: DIODE-ZENER-BZT52  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  Value: 3.3V  Device: DIODE-ZENER-BZT52</compID>
+		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: DIODE-ZENER-BZT52  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: Yellow  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: Yellow  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: 16MHz  Device: CRYSTAL5X3</compID>
+		<compID>NOT OOMP  eagleValue: 16MHz  eagleDevice: CRYSTAL5X3  eaglePackage: CRYSTAL-SMD-5X3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -113,14 +113,14 @@ The Tiny AVR Programmer plugs directly into your USB port and provides a program
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: ATTINY84  Device: ATTINY84</compID>
+		<compID>NOT OOMP  eagleValue: ATTINY84  eagleDevice: ATTINY84  eaglePackage: SO14</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>X1</compIden>
-		<compID>NOT OOMP  Value: USB-A-H  Device: USB-A-H</compID>
+		<compID>NOT OOMP  eagleValue: USB-A-H  eagleDevice: USB-A-H  eaglePackage: USB-A-H</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

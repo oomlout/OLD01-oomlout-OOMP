@@ -21,7 +21,7 @@ This breakout even provides an optional feature that allows you to attach an ext
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>AE1</compIden>
-		<compID>NOT OOMP  Value: ANTENNA22500AT44M0400  Device: ANTENNA22500AT44M0400</compID>
+		<compID>NOT OOMP  eagleValue: ANTENNA22500AT44M0400  eagleDevice: ANTENNA22500AT44M0400  eaglePackage: ANTENNA-CHIP_2500AT44M0400</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -77,7 +77,7 @@ This breakout even provides an optional feature that allows you to attach an ext
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>C8</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: CAP0603-CAP</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: CAP0603-CAP  eaglePackage: 0603-CAP</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -91,21 +91,21 @@ This breakout even provides an optional feature that allows you to attach an ext
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: U.FL  Device: U.FL</compID>
+		<compID>NOT OOMP  eagleValue: U.FL  eagleDevice: U.FL  eaglePackage: U.FL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>L1</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: INDUCTOR0603</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: INDUCTOR0603  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>L2</compIden>
-		<compID>NOT OOMP  Value: 2.2nH  Device: INDUCTOR0603</compID>
+		<compID>NOT OOMP  eagleValue: 2.2nH  eagleDevice: INDUCTOR0603  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -140,21 +140,21 @@ This breakout even provides an optional feature that allows you to attach an ext
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: LM1117  Device: V_REG_LM1117SOT223</compID>
+		<compID>NOT OOMP  eagleValue: LM1117  eagleDevice: V_REG_LM1117SOT223  eaglePackage: SOT223</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: 74HC4050  Device: HEX_CONVERTER</compID>
+		<compID>NOT OOMP  eagleValue: 74HC4050  eagleDevice: HEX_CONVERTER  eaglePackage: SO016</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>U5</compIden>
-		<compID>NOT OOMP  Value: CC3000  Device: CC3000</compID>
+		<compID>NOT OOMP  eagleValue: CC3000  eagleDevice: CC3000  eaglePackage: QFN-46_CC3000</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

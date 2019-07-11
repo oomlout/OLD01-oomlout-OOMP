@@ -29,14 +29,14 @@ On top of each board breaking out our standard I2C pin-out of SCL, SDA, 3.3V and
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value:   Device: I2C_STANDARD</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: I2C_STANDARD  eaglePackage: 1X04</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_01</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01  eaglePackage: 1X01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -71,7 +71,7 @@ On top of each board breaking out our standard I2C pin-out of SCL, SDA, 3.3V and
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: APDS-9301  Device: APDS-9301</compID>
+		<compID>NOT OOMP  eagleValue: APDS-9301  eagleDevice: APDS-9301  eaglePackage: CHIPLED-6</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

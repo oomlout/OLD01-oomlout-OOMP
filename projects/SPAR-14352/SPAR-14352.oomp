@@ -55,7 +55,7 @@ Note: This includes R3 Arduino headers, but they are not pre-soldered onto the b
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>J6</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_07NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_07NO_SILK  eaglePackage: 1X07_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -83,14 +83,14 @@ Note: This includes R3 Arduino headers, but they are not pre-soldered onto the b
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: BSS138  Device: MOSFET-NCHANNELBSS138</compID>
+		<compID>NOT OOMP  eagleValue: BSS138  eagleDevice: MOSFET-NCHANNELBSS138  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  Value: BSS138  Device: MOSFET-NCHANNELBSS138</compID>
+		<compID>NOT OOMP  eagleValue: BSS138  eagleDevice: MOSFET-NCHANNELBSS138  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -125,7 +125,7 @@ Note: This includes R3 Arduino headers, but they are not pre-soldered onto the b
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: ARDUINO UNO  Device: ARDUINO_R3_SHIELDNOLABELS</compID>
+		<compID>NOT OOMP  eagleValue: ARDUINO UNO  eagleDevice: ARDUINO_R3_SHIELDNOLABELS  eaglePackage: UNO_R3_SHIELD_NOLABELS</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

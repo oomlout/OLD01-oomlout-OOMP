@@ -44,28 +44,28 @@ Note: Headers are not supplied. You will need to supply your own headers to conn
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: 1N4001  Device: DIODESMA-TYLERALT1</compID>
+		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODESMA-TYLERALT1  eaglePackage: SMA-DIODE-TYLERALT1</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  Value: PTCSMD-W  Device: PTCSMD-W</compID>
+		<compID>NOT OOMP  eagleValue: PTCSMD-W  eagleDevice: PTCSMD-W  eaglePackage: PTC-1206-WIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: POWER_JACKSMD  Device: POWER_JACKSMD</compID>
+		<compID>NOT OOMP  eagleValue: POWER_JACKSMD  eagleDevice: POWER_JACKSMD  eaglePackage: POWER_JACK_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  Value: Power  Device: LED1206</compID>
+		<compID>NOT OOMP  eagleValue: Power  eagleDevice: LED1206  eaglePackage: LED-1206</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -100,21 +100,21 @@ Note: Headers are not supplied. You will need to supply your own headers to conn
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: On/Off  Device: AYZ0202</compID>
+		<compID>NOT OOMP  eagleValue: On/Off  eagleDevice: AYZ0202  eaglePackage: AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value: Voltage  Device: SWITCH-SPSTSMD</compID>
+		<compID>NOT OOMP  eagleValue: Voltage  eagleDevice: SWITCH-SPSTSMD  eaglePackage: AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: V_REG_317SMD  Device: V_REG_317SMD</compID>
+		<compID>NOT OOMP  eagleValue: V_REG_317SMD  eagleDevice: V_REG_317SMD  eaglePackage: SOT223</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

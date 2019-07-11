@@ -50,7 +50,7 @@ The Electret Mic Breakout translates amplitude (not volume) by capturing sound w
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>M1</compIden>
-		<compID>NOT OOMP  Value: MIC9.7MM  Device: MIC9.7MM</compID>
+		<compID>NOT OOMP  eagleValue: MIC9.7MM  eagleDevice: MIC9.7MM  eaglePackage: MIC-9.7MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -92,7 +92,7 @@ The Electret Mic Breakout translates amplitude (not volume) by capturing sound w
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: OPA344  Device: OPA344</compID>
+		<compID>NOT OOMP  eagleValue: OPA344  eagleDevice: OPA344  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

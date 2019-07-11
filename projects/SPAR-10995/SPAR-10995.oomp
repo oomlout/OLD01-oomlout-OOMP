@@ -51,35 +51,35 @@ This board does not come with the GP-2106 GPS module or the connecting ribbon ca
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: red  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: red  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: MOSFET-NCHANNELSMD  Device: MOSFET-NCHANNELSMD</compID>
+		<compID>NOT OOMP  eagleValue: MOSFET-NCHANNELSMD  eagleDevice: MOSFET-NCHANNELSMD  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  Value: MOSFET-NCHANNELSMD  Device: MOSFET-NCHANNELSMD</compID>
+		<compID>NOT OOMP  eagleValue: MOSFET-NCHANNELSMD  eagleDevice: MOSFET-NCHANNELSMD  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>Q3</compIden>
-		<compID>NOT OOMP  Value: MOSFET-NCHANNELSMD  Device: MOSFET-NCHANNELSMD</compID>
+		<compID>NOT OOMP  eagleValue: MOSFET-NCHANNELSMD  eagleDevice: MOSFET-NCHANNELSMD  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>Q4</compIden>
-		<compID>NOT OOMP  Value: MOSFET-NCHANNELSMD  Device: MOSFET-NCHANNELSMD</compID>
+		<compID>NOT OOMP  eagleValue: MOSFET-NCHANNELSMD  eagleDevice: MOSFET-NCHANNELSMD  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -142,28 +142,28 @@ This board does not come with the GP-2106 GPS module or the connecting ribbon ca
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>R9</compIden>
-		<compID>NOT OOMP  Value: 0.27  Device: RESISTOR0402-RES</compID>
+		<compID>NOT OOMP  eagleValue: 0.27  eagleDevice: RESISTOR0402-RES  eaglePackage: 0402-RES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: SWITCH-MOMENTARY-2SMD  Device: SWITCH-MOMENTARY-2SMD</compID>
+		<compID>NOT OOMP  eagleValue: SWITCH-MOMENTARY-2SMD  eagleDevice: SWITCH-MOMENTARY-2SMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: GP-2106  Device: GP-2106</compID>
+		<compID>NOT OOMP  eagleValue: GP-2106  eagleDevice: GP-2106  eaglePackage: GP-2106</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: V_REG_LDOSMD2  Device: V_REG_LDOSMD2</compID>
+		<compID>NOT OOMP  eagleValue: V_REG_LDOSMD2  eagleDevice: V_REG_LDOSMD2  eaglePackage: SC70</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

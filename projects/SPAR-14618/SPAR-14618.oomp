@@ -74,28 +74,28 @@ The SparkFun Qwiic connect system is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value: SMD  Device: I2C_STANDARDJS-1MM</compID>
+		<compID>NOT OOMP  eagleValue: SMD  eagleDevice: I2C_STANDARDJS-1MM  eaglePackage: 1X04_1MM_RA</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  Value: PTH  Device: I2C_STANDARD_NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue: PTH  eagleDevice: I2C_STANDARD_NO_SILK  eaglePackage: 1X04_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  Value: SMD  Device: I2C_STANDARDJS-1MM</compID>
+		<compID>NOT OOMP  eagleValue: SMD  eagleDevice: I2C_STANDARDJS-1MM  eaglePackage: 1X04_1MM_RA</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_01PTH_NO_SILK_YES_STOP</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -109,14 +109,14 @@ The SparkFun Qwiic connect system is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>J7</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_021X02_NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_021X02_NO_SILK  eaglePackage: 1X02_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>J8</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_021X02_NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_021X02_NO_SILK  eaglePackage: 1X02_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -193,14 +193,14 @@ The SparkFun Qwiic connect system is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: BNO080  Device: BNO080</compID>
+		<compID>NOT OOMP  eagleValue: BNO080  eagleDevice: BNO080  eaglePackage: LGA-28</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  Value: 32.768kHz  Device: CRYSTAL-32.768KHZSMD-3.2X1.5</compID>
+		<compID>NOT OOMP  eagleValue: 32.768kHz  eagleDevice: CRYSTAL-32.768KHZSMD-3.2X1.5  eaglePackage: CRYSTAL-SMD-3.2X1.5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

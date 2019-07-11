@@ -65,14 +65,14 @@ If you aren't familiar with it, the PSoC 6 Pioneer Board is the development tool
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: 3A/40V/500mV  Device: DIODE-SCHOTTKY-B340A</compID>
+		<compID>NOT OOMP  eagleValue: 3A/40V/500mV  eagleDevice: DIODE-SCHOTTKY-B340A  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: AMP FCI 10103594-0001LF  Device: USB_MICRO-B_HALF_PTH</compID>
+		<compID>NOT OOMP  eagleValue: AMP FCI 10103594-0001LF  eagleDevice: USB_MICRO-B_HALF_PTH  eaglePackage: USB-MICROB-PTH</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -86,7 +86,7 @@ If you aren't familiar with it, the PSoC 6 Pioneer Board is the development tool
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>L1</compIden>
-		<compID>NOT OOMP  Value: 1uH  Device: INDUCTOR-SRP4020-1UH</compID>
+		<compID>NOT OOMP  eagleValue: 1uH  eagleDevice: INDUCTOR-SRP4020-1UH  eaglePackage: INDUCTOR-SRP4020</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -184,35 +184,35 @@ If you aren't familiar with it, the PSoC 6 Pioneer Board is the development tool
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: USD-SOCKETNEW  Device: USD-SOCKETNEW</compID>
+		<compID>NOT OOMP  eagleValue: USD-SOCKETNEW  eagleDevice: USD-SOCKETNEW  eaglePackage: MICRO-SD-SOCKET-PP</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: ARDUINO_UNO_R3_SHIELDUNO_R3_SHIELD_NOLABELS_LOCK  Device: ARDUINO_UNO_R3_SHIELDUNO_R3_SHIELD_NOLABELS_LOCK</compID>
+		<compID>NOT OOMP  eagleValue: ARDUINO_UNO_R3_SHIELDUNO_R3_SHIELD_NOLABELS_LOCK  eagleDevice: ARDUINO_UNO_R3_SHIELDUNO_R3_SHIELD_NOLABELS_LOCK  eaglePackage: UNO_R3_SHIELD_NOLABELS_LOCK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: 74HC4050  Device: HEX_CONVERTER</compID>
+		<compID>NOT OOMP  eagleValue: 74HC4050  eagleDevice: HEX_CONVERTER  eaglePackage: SO16</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: PCA9306  Device: PCA9306PCA9306DC-1:1</compID>
+		<compID>NOT OOMP  eagleValue: PCA9306  eagleDevice: PCA9306PCA9306DC-1:1  eaglePackage: PCA9306DC</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>U5</compIden>
-		<compID>NOT OOMP  Value: TPS62065  Device: TPS62065</compID>
+		<compID>NOT OOMP  eagleValue: TPS62065  eagleDevice: TPS62065  eaglePackage: WSON-8-PAD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

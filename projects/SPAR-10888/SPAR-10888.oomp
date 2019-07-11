@@ -77,14 +77,14 @@ Replaces:SEN-10703
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: MOSFET-N-CH  Device: MOSFET-NCHANNELSMD</compID>
+		<compID>NOT OOMP  eagleValue: MOSFET-N-CH  eagleDevice: MOSFET-NCHANNELSMD  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  Value: MOSFET-N-CH  Device: MOSFET-NCHANNELSMD</compID>
+		<compID>NOT OOMP  eagleValue: MOSFET-N-CH  eagleDevice: MOSFET-NCHANNELSMD  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -119,21 +119,21 @@ Replaces:SEN-10703
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: LSM303DLHSMD  Device: LSM303DLHSMD</compID>
+		<compID>NOT OOMP  eagleValue: LSM303DLHSMD  eagleDevice: LSM303DLHSMD  eaglePackage: LGA28-5X5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: 1.8V  Device: V_REG_LDOSMD2</compID>
+		<compID>NOT OOMP  eagleValue: 1.8V  eagleDevice: V_REG_LDOSMD2  eaglePackage: SC70</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: 3.3V  Device: V_REG_LDOSMD</compID>
+		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

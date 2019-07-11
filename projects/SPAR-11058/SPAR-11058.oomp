@@ -59,28 +59,28 @@ Note: We've broken out the pins for the Venus638FLPx's second serial port (RX1,T
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>C7</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: CAP_POLEN_J2</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: CAP_POLEN_J2  eaglePackage: EN_J2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: BAS16  Device: DIODESOD</compID>
+		<compID>NOT OOMP  eagleValue: BAS16  eagleDevice: DIODESOD  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>L1</compIden>
-		<compID>NOT OOMP  Value: 33nH  Device: INDUCTOR0402</compID>
+		<compID>NOT OOMP  eagleValue: 33nH  eagleDevice: INDUCTOR0402  eaglePackage: C0402</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: Red  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -122,14 +122,14 @@ Note: We've broken out the pins for the Venus638FLPx's second serial port (RX1,T
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>R7</compIden>
-		<compID>NOT OOMP  Value: 0  Device: GND-JUMP</compID>
+		<compID>NOT OOMP  eagleValue: 0  eagleDevice: GND-JUMP  eaglePackage: GND-JUMP</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: VENUS638FLPX-L  Device: VENUS638FLPX-L</compID>
+		<compID>NOT OOMP  eagleValue: VENUS638FLPX-L  eagleDevice: VENUS638FLPX-L  eaglePackage: VENUS638FLPX</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

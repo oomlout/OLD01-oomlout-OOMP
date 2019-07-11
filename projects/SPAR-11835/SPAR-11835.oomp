@@ -22,14 +22,14 @@ Note: Be sure to check out the Quickstart Guide in the Documents section below f
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>BAT1</compIden>
-		<compID>NOT OOMP  Value:   Device: BATTERYAA-KIT</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: BATTERYAA-KIT  eaglePackage: BATTERY-AA-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>BAT2</compIden>
-		<compID>NOT OOMP  Value:   Device: BATTERYAA-KIT</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: BATTERYAA-KIT  eaglePackage: BATTERY-AA-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -64,21 +64,21 @@ Note: Be sure to check out the Quickstart Guide in the Documents section below f
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: AVR_SPI_PRG_6PTH  Device: AVR_SPI_PRG_6PTH</compID>
+		<compID>NOT OOMP  eagleValue: AVR_SPI_PRG_6PTH  eagleDevice: AVR_SPI_PRG_6PTH  eaglePackage: 2X3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: Red  Device: LED5MM-KIT</compID>
+		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED5MM-KIT  eaglePackage: LED5MM-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  Value: Red  Device: LED5MM-KIT</compID>
+		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED5MM-KIT  eaglePackage: LED5MM-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -155,7 +155,7 @@ Note: Be sure to check out the Quickstart Guide in the Documents section below f
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>R11</compIden>
-		<compID>NOT OOMP  Value: TRIMPOT-PTH-KNOB  Device: TRIMPOT-PTH-KNOB</compID>
+		<compID>NOT OOMP  eagleValue: TRIMPOT-PTH-KNOB  eagleDevice: TRIMPOT-PTH-KNOB  eaglePackage: 3386U</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -211,28 +211,28 @@ Note: Be sure to check out the Quickstart Guide in the Documents section below f
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-SPDTKIT</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPDTKIT  eaglePackage: SWITCH-SPDT_KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value:   Device: TAC_SWITCHPTH</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TAC_SWITCHPTH  eaglePackage: TACTILE-PTH</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>SP1</compIden>
-		<compID>NOT OOMP  Value: SPEAKERPCB_MOUNT  Device: SPEAKERPCB_MOUNT</compID>
+		<compID>NOT OOMP  eagleValue: SPEAKERPCB_MOUNT  eagleDevice: SPEAKERPCB_MOUNT  eaglePackage: PCB_MOUNT_SPEAKER</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: ATMEGA328P_PDIP_EZ  Device: ATMEGA328P_PDIP_EZ</compID>
+		<compID>NOT OOMP  eagleValue: ATMEGA328P_PDIP_EZ  eagleDevice: ATMEGA328P_PDIP_EZ  eaglePackage: DIL28-EZ</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

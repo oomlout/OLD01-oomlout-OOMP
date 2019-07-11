@@ -36,28 +36,28 @@ If you are looking to add a little more stability to your Intel® Edison stack, c
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: USD-SOCKETNEW  Device: USD-SOCKETNEW</compID>
+		<compID>NOT OOMP  eagleValue: USD-SOCKETNEW  eagleDevice: USD-SOCKETNEW  eaglePackage: MICRO-SD-SOCKET-PP</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: EDISON_CONNECTOR_FULLMOUNTING_HOLES  Device: EDISON_CONNECTOR_FULLMOUNTING_HOLES</compID>
+		<compID>NOT OOMP  eagleValue: EDISON_CONNECTOR_FULLMOUNTING_HOLES  eagleDevice: EDISON_CONNECTOR_FULLMOUNTING_HOLES  eaglePackage: EDISON_DAUGHTER</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: EDISON_CONNECTOR_FULLHEADER  Device: EDISON_CONNECTOR_FULLHEADER</compID>
+		<compID>NOT OOMP  eagleValue: EDISON_CONNECTOR_FULLHEADER  eagleDevice: EDISON_CONNECTOR_FULLHEADER  eaglePackage: DF40C-70DP-0.4(51)</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: TXB0108  Device: TXB0108</compID>
+		<compID>NOT OOMP  eagleValue: TXB0108  eagleDevice: TXB0108  eaglePackage: UFDFN-20</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -79,7 +79,7 @@ Not sure which XBee module or accessory is right for you? Check out ourXBee Buyi
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: MBRA140  Device: DIODE-SCHOTTKY-MBRA140</compID>
+		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: DIODE-SCHOTTKY-MBRA140  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -114,14 +114,14 @@ Not sure which XBee module or accessory is right for you? Check out ourXBee Buyi
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  Value: PTCTHERMISTOR1206  Device: PTCTHERMISTOR1206</compID>
+		<compID>NOT OOMP  eagleValue: PTCTHERMISTOR1206  eagleDevice: PTCTHERMISTOR1206  eaglePackage: PTC-1206</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: MBT2222  Device: TRANSISTOR_NPNSOT23-3</compID>
+		<compID>NOT OOMP  eagleValue: MBT2222  eagleDevice: TRANSISTOR_NPNSOT23-3  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -184,7 +184,7 @@ Not sure which XBee module or accessory is right for you? Check out ourXBee Buyi
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: AYZ0202  Device: AYZ0202</compID>
+		<compID>NOT OOMP  eagleValue: AYZ0202  eagleDevice: AYZ0202  eaglePackage: AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -198,21 +198,21 @@ Not sure which XBee module or accessory is right for you? Check out ourXBee Buyi
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: MAX232SOIC16  Device: MAX232SOIC16</compID>
+		<compID>NOT OOMP  eagleValue: MAX232SOIC16  eagleDevice: MAX232SOIC16  eaglePackage: SO016</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: XBEE-1B3  Device: XBEE-1B3</compID>
+		<compID>NOT OOMP  eagleValue: XBEE-1B3  eagleDevice: XBEE-1B3  eaglePackage: XBEE-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: LM117  Device: V_REG_LM1117SOT223</compID>
+		<compID>NOT OOMP  eagleValue: LM117  eagleDevice: V_REG_LM1117SOT223  eaglePackage: SOT223</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

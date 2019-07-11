@@ -35,7 +35,7 @@ Vernier Software and Technology has been a leader in data collection and analysi
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value:   Device: LED5MM</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -182,28 +182,28 @@ Vernier Software and Technology has been a leader in data collection and analysi
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>S3</compIden>
-		<compID>NOT OOMP  Value: Reset  Device: SWITCH-MOMENTARY-2PTH</compID>
+		<compID>NOT OOMP  eagleValue: Reset  eagleDevice: SWITCH-MOMENTARY-2PTH  eaglePackage: TACTILE-PTH</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>S4</compIden>
-		<compID>NOT OOMP  Value: D12  Device: SWITCH-MOMENTARY-2PTH</compID>
+		<compID>NOT OOMP  eagleValue: D12  eagleDevice: SWITCH-MOMENTARY-2PTH  eaglePackage: TACTILE-PTH</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: 74HC4052SO  Device: 74HC4052SO</compID>
+		<compID>NOT OOMP  eagleValue: 74HC4052SO  eagleDevice: 74HC4052SO  eaglePackage: SO16</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: LMV358SOICT  Device: LMV358SOICT</compID>
+		<compID>NOT OOMP  eagleValue: LMV358SOICT  eagleDevice: LMV358SOICT  eaglePackage: SO08-TIGHT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

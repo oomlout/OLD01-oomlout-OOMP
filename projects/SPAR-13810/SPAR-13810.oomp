@@ -404,7 +404,7 @@ Note: The Tsunami was developed in collaboration with Robertsonics. A portion of
 	<component>
 		<compIndex>55</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: MBRA140  Device: DIODE-SCHOTTKY-MBRA140</compID>
+		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: DIODE-SCHOTTKY-MBRA140  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -418,147 +418,147 @@ Note: The Tsunami was developed in collaboration with Robertsonics. A portion of
 	<component>
 		<compIndex>57</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  Value: MBRA140  Device: MBRA140</compID>
+		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: MBRA140  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>58</compIndex>
 		<compIden>FB1</compIden>
-		<compID>NOT OOMP  Value: 470  Device: INDUCTOR0603</compID>
+		<compID>NOT OOMP  eagleValue: 470  eagleDevice: INDUCTOR0603  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>59</compIndex>
 		<compIden>FB2</compIden>
-		<compID>NOT OOMP  Value: 470  Device: INDUCTOR0603</compID>
+		<compID>NOT OOMP  eagleValue: 470  eagleDevice: INDUCTOR0603  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>60</compIndex>
 		<compIden>FB3</compIden>
-		<compID>NOT OOMP  Value: 470  Device: INDUCTOR0603</compID>
+		<compID>NOT OOMP  eagleValue: 470  eagleDevice: INDUCTOR0603  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>61</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: VDC-IN  Device: M02PTH</compID>
+		<compID>NOT OOMP  eagleValue: VDC-IN  eagleDevice: M02PTH  eaglePackage: 1X02</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>62</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value: GND-IN  Device: M02PTH</compID>
+		<compID>NOT OOMP  eagleValue: GND-IN  eagleDevice: M02PTH  eaglePackage: 1X02</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>63</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  Value: DEBUG  Device: M01PTH_NO_SILK_YES_STOP</compID>
+		<compID>NOT OOMP  eagleValue: DEBUG  eagleDevice: M01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>64</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  Value: USB-MICROB  Device: USB-MICROB</compID>
+		<compID>NOT OOMP  eagleValue: USB-MICROB  eagleDevice: USB-MICROB  eaglePackage: USB-B-MICRO-SMD_V03</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>65</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  Value: CORTEX_DEBUGPTH  Device: CORTEX_DEBUGPTH</compID>
+		<compID>NOT OOMP  eagleValue: CORTEX_DEBUGPTH  eagleDevice: CORTEX_DEBUGPTH  eaglePackage: 2X5-PTH-1.27MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>66</compIndex>
 		<compIden>J6</compIden>
-		<compID>NOT OOMP  Value: 3.3VA  Device: M01PTH_NO_SILK_YES_STOP</compID>
+		<compID>NOT OOMP  eagleValue: 3.3VA  eagleDevice: M01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>67</compIndex>
 		<compIden>J7</compIden>
-		<compID>NOT OOMP  Value: 3.3V  Device: M01PTH_NO_SILK_YES_STOP</compID>
+		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: M01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>68</compIndex>
 		<compIden>J8</compIden>
-		<compID>NOT OOMP  Value: PLAYING  Device: M01PTH_NO_SILK_YES_STOP</compID>
+		<compID>NOT OOMP  eagleValue: PLAYING  eagleDevice: M01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>69</compIndex>
 		<compIden>J9</compIden>
-		<compID>NOT OOMP  Value: FTDI_DEVICE  Device: FTDI_DEVICE</compID>
+		<compID>NOT OOMP  eagleValue: FTDI_DEVICE  eagleDevice: FTDI_DEVICE  eaglePackage: FTDI_DEVICE_SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>70</compIndex>
 		<compIden>J10</compIden>
-		<compID>NOT OOMP  Value: TRIG2  Device: M08X2</compID>
+		<compID>NOT OOMP  eagleValue: TRIG2  eagleDevice: M08X2  eaglePackage: 2X8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>71</compIndex>
 		<compIden>J11</compIden>
-		<compID>NOT OOMP  Value: TRIG1  Device: M08X2</compID>
+		<compID>NOT OOMP  eagleValue: TRIG1  eagleDevice: M08X2  eaglePackage: 2X8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>72</compIndex>
 		<compIden>J12</compIden>
-		<compID>NOT OOMP  Value: USD-SDIO-SOCKET  Device: USD-SDIO-SOCKET</compID>
+		<compID>NOT OOMP  eagleValue: USD-SDIO-SOCKET  eagleDevice: USD-SDIO-SOCKET  eaglePackage: MICRO-SD-SOCKET-SDIO</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>73</compIndex>
 		<compIden>J13</compIden>
-		<compID>NOT OOMP  Value: GND  Device: M01PTH_NO_SILK_YES_STOP</compID>
+		<compID>NOT OOMP  eagleValue: GND  eagleDevice: M01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>74</compIndex>
 		<compIden>J14</compIden>
-		<compID>NOT OOMP  Value: AUDIO I/O  Device: M10X2</compID>
+		<compID>NOT OOMP  eagleValue: AUDIO I/O  eagleDevice: M10X2  eaglePackage: 2X10</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>75</compIndex>
 		<compIden>J15</compIden>
-		<compID>NOT OOMP  Value: MIDI  Device: M05NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue: MIDI  eagleDevice: M05NO_SILK  eaglePackage: 1X05_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>76</compIndex>
 		<compIden>L1</compIden>
-		<compID>NOT OOMP  Value: 10uH  Device: INDUCTOR0805</compID>
+		<compID>NOT OOMP  eagleValue: 10uH  eagleDevice: INDUCTOR0805  eaglePackage: 0805</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>77</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: 2.5A/30V  Device: MOSFET-PCHANNELDMG2307L</compID>
+		<compID>NOT OOMP  eagleValue: 2.5A/30V  eagleDevice: MOSFET-PCHANNELDMG2307L  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -670,14 +670,14 @@ Note: The Tsunami was developed in collaboration with Robertsonics. A portion of
 	<component>
 		<compIndex>93</compIndex>
 		<compIden>R16</compIden>
-		<compID>NOT OOMP  Value: 2.2  Device: 2.2OHM-1/10W-5%(0603)</compID>
+		<compID>NOT OOMP  eagleValue: 2.2  eagleDevice: 2.2OHM-1/10W-5%(0603)  eaglePackage: 0603-RES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>94</compIndex>
 		<compIden>R17</compIden>
-		<compID>NOT OOMP  Value: 5.62k  Device: 5.62KOHM1/10W1%(0603)</compID>
+		<compID>NOT OOMP  eagleValue: 5.62k  eagleDevice: 5.62KOHM1/10W1%(0603)  eaglePackage: 0603-RES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -908,7 +908,7 @@ Note: The Tsunami was developed in collaboration with Robertsonics. A portion of
 	<component>
 		<compIndex>127</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value: DNS  Device: SWITCH-MOMENTARY-2SIDE_EZ</compID>
+		<compID>NOT OOMP  eagleValue: DNS  eagleDevice: SWITCH-MOMENTARY-2SIDE_EZ  eaglePackage: TACTILE-PTH-SIDEEZ</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -922,56 +922,56 @@ Note: The Tsunami was developed in collaboration with Robertsonics. A portion of
 	<component>
 		<compIndex>129</compIndex>
 		<compIden>S4</compIden>
-		<compID>NOT OOMP  Value: DNS  Device: SWITCH-MOMENTARY-2SIDE_EZ</compID>
+		<compID>NOT OOMP  eagleValue: DNS  eagleDevice: SWITCH-MOMENTARY-2SIDE_EZ  eaglePackage: TACTILE-PTH-SIDEEZ</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>130</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: LM1117  Device: V_REG_LM1117SOT223</compID>
+		<compID>NOT OOMP  eagleValue: LM1117  eagleDevice: V_REG_LM1117SOT223  eaglePackage: SOT223</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>131</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: LM1117  Device: V_REG_LM1117SOT223</compID>
+		<compID>NOT OOMP  eagleValue: LM1117  eagleDevice: V_REG_LM1117SOT223  eaglePackage: SOT223</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>132</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: ATSAMS70N20A-AN  Device: ATSAMS70NXXA-AN</compID>
+		<compID>NOT OOMP  eagleValue: ATSAMS70N20A-AN  eagleDevice: ATSAMS70NXXA-AN  eaglePackage: LQFP100</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>133</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: AK4618VQ  Device: AK4618VQSFE-PACKAGE</compID>
+		<compID>NOT OOMP  eagleValue: AK4618VQ  eagleDevice: AK4618VQSFE-PACKAGE  eaglePackage: LQFP-48</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>134</compIndex>
 		<compIden>U5</compIden>
-		<compID>NOT OOMP  Value: 74AHC1G125  Device: 74AHC1G125</compID>
+		<compID>NOT OOMP  eagleValue: 74AHC1G125  eagleDevice: 74AHC1G125  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>135</compIndex>
 		<compIden>U6</compIden>
-		<compID>NOT OOMP  Value: 6N138M  Device: OPTO_DARL_6N138S</compID>
+		<compID>NOT OOMP  eagleValue: 6N138M  eagleDevice: OPTO_DARL_6N138S  eaglePackage: 8-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>136</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  Value: 11.2896 MHz  Device: CRYSTAL-11.2896</compID>
+		<compID>NOT OOMP  eagleValue: 11.2896 MHz  eagleDevice: CRYSTAL-11.2896  eaglePackage: CRYSTAL-OSC-SMD-5X3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

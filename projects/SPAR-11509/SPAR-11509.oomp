@@ -22,28 +22,28 @@ Note: This product is a collaboration with Jack Gasset. A portion of each sale g
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: Red  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  Value: Yellow  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: Yellow  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>LED3</compIden>
-		<compID>NOT OOMP  Value: Green  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: Green  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>LED4</compIden>
-		<compID>NOT OOMP  Value: Blue  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: Blue  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -106,28 +106,28 @@ Note: This product is a collaboration with Jack Gasset. A portion of each sale g
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: Button 1  Device: SWITCH-MOMENTARY-2SMD</compID>
+		<compID>NOT OOMP  eagleValue: Button 1  eagleDevice: SWITCH-MOMENTARY-2SMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value: Button 2  Device: SWITCH-MOMENTARY-2SMD</compID>
+		<compID>NOT OOMP  eagleValue: Button 2  eagleDevice: SWITCH-MOMENTARY-2SMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>S3</compIden>
-		<compID>NOT OOMP  Value: Button 3  Device: SWITCH-MOMENTARY-2SMD</compID>
+		<compID>NOT OOMP  eagleValue: Button 3  eagleDevice: SWITCH-MOMENTARY-2SMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>S4</compIden>
-		<compID>NOT OOMP  Value: Button 4  Device: SWITCH-MOMENTARY-2SMD</compID>
+		<compID>NOT OOMP  eagleValue: Button 4  eagleDevice: SWITCH-MOMENTARY-2SMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

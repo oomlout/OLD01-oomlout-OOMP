@@ -28,7 +28,7 @@ This version of the MCP4725 Breakout fixes a few issues with the board including
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>GND</compIden>
-		<compID>NOT OOMP  Value: LOGO-SFESK  Device: LOGO-SFESK</compID>
+		<compID>NOT OOMP  eagleValue: LOGO-SFESK  eagleDevice: LOGO-SFESK  eaglePackage: SFE-LOGO-FLAME</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -56,7 +56,7 @@ This version of the MCP4725 Breakout fixes a few issues with the board including
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: MCP4725  Device: MCP4725SOT-23</compID>
+		<compID>NOT OOMP  eagleValue: MCP4725  eagleDevice: MCP4725SOT-23  eaglePackage: SOT23-6</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

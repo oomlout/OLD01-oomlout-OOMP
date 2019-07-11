@@ -64,84 +64,84 @@ Each Sunny Buddy comes equipped with a LT3652 power tracking 2A battery charging
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: ZLLS500  Device: ZLLS500ZLLS500</compID>
+		<compID>NOT OOMP  eagleValue: ZLLS500  eagleDevice: ZLLS500ZLLS500  eaglePackage: SOT23</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  Value: ZLLS500  Device: ZLLS500ZLLS500</compID>
+		<compID>NOT OOMP  eagleValue: ZLLS500  eagleDevice: ZLLS500ZLLS500  eaglePackage: SOT23</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: 5.5x2.1mm Barrel  Device: POWER_JACKSMD</compID>
+		<compID>NOT OOMP  eagleValue: 5.5x2.1mm Barrel  eagleDevice: POWER_JACKSMD  eaglePackage: POWER_JACK_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value: POWER_JACKPTH  Device: POWER_JACKPTH</compID>
+		<compID>NOT OOMP  eagleValue: POWER_JACKPTH  eagleDevice: POWER_JACKPTH  eaglePackage: POWER_JACK_PTH</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  Value:   Device: JST_2MM_MALE</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: JST_2MM_MALE  eaglePackage: JST-2-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  Value:   Device: M04PTH</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: M04PTH  eaglePackage: 1X04</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  Value: M02PTH  Device: M02PTH</compID>
+		<compID>NOT OOMP  eagleValue: M02PTH  eagleDevice: M02PTH  eaglePackage: 1X02</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>J6</compIden>
-		<compID>NOT OOMP  Value: M023.5MM  Device: M023.5MM</compID>
+		<compID>NOT OOMP  eagleValue: M023.5MM  eagleDevice: M023.5MM  eaglePackage: SCREWTERMINAL-3.5MM-2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>J7</compIden>
-		<compID>NOT OOMP  Value: M023.5MM  Device: M023.5MM</compID>
+		<compID>NOT OOMP  eagleValue: M023.5MM  eagleDevice: M023.5MM  eaglePackage: SCREWTERMINAL-3.5MM-2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>J8</compIden>
-		<compID>NOT OOMP  Value: M023.5MM  Device: M023.5MM</compID>
+		<compID>NOT OOMP  eagleValue: M023.5MM  eagleDevice: M023.5MM  eaglePackage: SCREWTERMINAL-3.5MM-2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>L1</compIden>
-		<compID>NOT OOMP  Value: 68uH  Device: INDUCTOR68UH-1A</compID>
+		<compID>NOT OOMP  eagleValue: 68uH  eagleDevice: INDUCTOR68UH-1A  eaglePackage: CR75</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>R1</compIden>
-		<compID>NOT OOMP  Value: 0.22  Device: 0.22OHM1/4W1%(0805)</compID>
+		<compID>NOT OOMP  eagleValue: 0.22  eagleDevice: 0.22OHM1/4W1%(0805)  eaglePackage: 0805</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -183,14 +183,14 @@ Each Sunny Buddy comes equipped with a LT3652 power tracking 2A battery charging
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>R7</compIden>
-		<compID>NOT OOMP  Value: 10k  Device: TRIMPOTRES-09285</compID>
+		<compID>NOT OOMP  eagleValue: 10k  eagleDevice: TRIMPOTRES-09285  eaglePackage: TRIMPOT-3MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: LT3652  Device: LT3652</compID>
+		<compID>NOT OOMP  eagleValue: LT3652  eagleDevice: LT3652  eaglePackage: MSOP-12_GND</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -23,7 +23,7 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>100MA</compIden>
-		<compID>NOT OOMP  Value: PTC  Device: PTCSMD</compID>
+		<compID>NOT OOMP  eagleValue: PTC  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -51,28 +51,28 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: MBRA140  Device: DIODESMA</compID>
+		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: DIODESMA  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  Value: MBRA140  Device: DIODESMA</compID>
+		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: DIODESMA  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>L1</compIden>
-		<compID>NOT OOMP  Value: 22uH  Device: INDUCTORCR54</compID>
+		<compID>NOT OOMP  eagleValue: 22uH  eagleDevice: INDUCTORCR54  eaglePackage: CR54</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: Red  Device: LED1206</compID>
+		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED1206  eaglePackage: LED-1206</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -86,14 +86,14 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: AYZ0202  Device: AYZ0202</compID>
+		<compID>NOT OOMP  eagleValue: AYZ0202  eagleDevice: AYZ0202  eaglePackage: AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: NCP1400-5V  Device: V_REG_NCP1400SOT23-5</compID>
+		<compID>NOT OOMP  eagleValue: NCP1400-5V  eagleDevice: V_REG_NCP1400SOT23-5  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

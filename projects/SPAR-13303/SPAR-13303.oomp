@@ -85,14 +85,14 @@ Each pin has been broken out on the LSM303C, with 10 plated through-hole connect
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: LSM303C  Device: LSM303C</compID>
+		<compID>NOT OOMP  eagleValue: LSM303C  eagleDevice: LSM303C  eaglePackage: LGA-12</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: LM3880  Device: LM3880/-QI</compID>
+		<compID>NOT OOMP  eagleValue: LM3880  eagleDevice: LM3880/-QI  eaglePackage: SOT23-6</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

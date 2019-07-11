@@ -24,7 +24,7 @@ Note: This product only includes the SparkFun ESP32 Thing Power Control Shield. 
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>B1</compIden>
-		<compID>NOT OOMP  Value: ESP32_THING  Device: ESP32_THING</compID>
+		<compID>NOT OOMP  eagleValue: ESP32_THING  eagleDevice: ESP32_THING  eaglePackage: ESP32_THING</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -129,7 +129,7 @@ Note: This product only includes the SparkFun ESP32 Thing Power Control Shield. 
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>C15</compIden>
-		<compID>NOT OOMP  Value: Ext.  Device: 100UF-POLAR-RADIAL-2.5MM-25V-20%</compID>
+		<compID>NOT OOMP  eagleValue: Ext.  eagleDevice: 100UF-POLAR-RADIAL-2.5MM-25V-20%  eaglePackage: CPOL-RADIAL-2.5MM-6.5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -157,98 +157,98 @@ Note: This product only includes the SparkFun ESP32 Thing Power Control Shield. 
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: 1N4001  Device: DIODE-PTH</compID>
+		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  Value: 1N4001  Device: DIODE-PTH</compID>
+		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  Value: 1N4001  Device: DIODE-PTH</compID>
+		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>D4</compIden>
-		<compID>NOT OOMP  Value: 1N4001  Device: DIODE-PTH</compID>
+		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>D5</compIden>
-		<compID>NOT OOMP  Value: 1N4001  Device: DIODE-PTH</compID>
+		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>D6</compIden>
-		<compID>NOT OOMP  Value: 1N4001  Device: DIODE-PTH</compID>
+		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>D7</compIden>
-		<compID>NOT OOMP  Value: 1N4001  Device: DIODE-PTH</compID>
+		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>D8</compIden>
-		<compID>NOT OOMP  Value: 1N4001  Device: DIODE-PTH</compID>
+		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>D9</compIden>
-		<compID>NOT OOMP  Value: 1N4001  Device: DIODE-PTH</compID>
+		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>D10</compIden>
-		<compID>NOT OOMP  Value: 1N4001  Device: DIODE-PTH</compID>
+		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>D11</compIden>
-		<compID>NOT OOMP  Value: 1N4001  Device: DIODE-PTH</compID>
+		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>D12</compIden>
-		<compID>NOT OOMP  Value: 1N4001  Device: DIODE-PTH</compID>
+		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>32</compIndex>
 		<compIden>IC1</compIden>
-		<compID>NOT OOMP  Value: LMV358  Device: OPAMP-DUALU</compID>
+		<compID>NOT OOMP  eagleValue: LMV358  eagleDevice: OPAMP-DUALU  eaglePackage: SO08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>33</compIndex>
 		<compIden>IC2</compIden>
-		<compID>NOT OOMP  Value: LMV358  Device: OPAMP-DUALU</compID>
+		<compID>NOT OOMP  eagleValue: LMV358  eagleDevice: OPAMP-DUALU  eaglePackage: SO08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -262,7 +262,7 @@ Note: This product only includes the SparkFun ESP32 Thing Power Control Shield. 
 	<component>
 		<compIndex>35</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value: POWER_JACKPTH_LOCK  Device: POWER_JACKPTH_LOCK</compID>
+		<compID>NOT OOMP  eagleValue: POWER_JACKPTH_LOCK  eagleDevice: POWER_JACKPTH_LOCK  eaglePackage: POWER_JACK_PTH_LOCK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -339,21 +339,21 @@ Note: This product only includes the SparkFun ESP32 Thing Power Control Shield. 
 	<component>
 		<compIndex>46</compIndex>
 		<compIden>R10</compIden>
-		<compID>NOT OOMP  Value:   Device: 1KOHM-HORIZ-1/4W-1%</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: 1KOHM-HORIZ-1/4W-1%  eaglePackage: AXIAL-0.3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>47</compIndex>
 		<compIden>R11</compIden>
-		<compID>NOT OOMP  Value:   Device: 1KOHM-HORIZ-1/4W-1%</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: 1KOHM-HORIZ-1/4W-1%  eaglePackage: AXIAL-0.3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>48</compIndex>
 		<compIden>R12</compIden>
-		<compID>NOT OOMP  Value:   Device: 1KOHM-HORIZ-1/4W-1%</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: 1KOHM-HORIZ-1/4W-1%  eaglePackage: AXIAL-0.3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -367,28 +367,28 @@ Note: This product only includes the SparkFun ESP32 Thing Power Control Shield. 
 	<component>
 		<compIndex>50</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: MC33926  Device: MC33926</compID>
+		<compID>NOT OOMP  eagleValue: MC33926  eagleDevice: MC33926  eaglePackage: 32-PQFN</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>51</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: MC33926  Device: MC33926</compID>
+		<compID>NOT OOMP  eagleValue: MC33926  eagleDevice: MC33926  eaglePackage: 32-PQFN</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>52</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: MC33926  Device: MC33926</compID>
+		<compID>NOT OOMP  eagleValue: MC33926  eagleDevice: MC33926  eaglePackage: 32-PQFN</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>53</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: R-78E5.0-1.0  Device: R-78E5.0-1.0</compID>
+		<compID>NOT OOMP  eagleValue: R-78E5.0-1.0  eagleDevice: R-78E5.0-1.0  eaglePackage: DC-DC_CONVERTER_78XX</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

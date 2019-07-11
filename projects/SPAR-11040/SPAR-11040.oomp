@@ -36,21 +36,21 @@ Note: This is the breakout board only, you will need to populate your own rotary
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>IC1</compIden>
-		<compID>NOT OOMP  Value: 74LS595D  Device: 74LS595D</compID>
+		<compID>NOT OOMP  eagleValue: 74LS595D  eagleDevice: 74LS595D  eaglePackage: SO16</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>IC2</compIden>
-		<compID>NOT OOMP  Value: 74LS595D  Device: 74LS595D</compID>
+		<compID>NOT OOMP  eagleValue: 74LS595D  eagleDevice: 74LS595D  eaglePackage: SO16</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: RED  Device: LED_RING</compID>
+		<compID>NOT OOMP  eagleValue: RED  eagleDevice: LED_RING  eaglePackage: LED_RING</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -197,7 +197,7 @@ Note: This is the breakout board only, you will need to populate your own rotary
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: ENCODER_RGB  Device: ENCODER_RGB</compID>
+		<compID>NOT OOMP  eagleValue: ENCODER_RGB  eagleDevice: ENCODER_RGB  eaglePackage: ENCODER_LED_RGB</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

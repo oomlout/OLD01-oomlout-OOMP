@@ -120,98 +120,98 @@
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>D+</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: TPTP-1.00MM</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: TPTP-1.00MM  eaglePackage: TP-1.00MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>D-</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: TPTP-1.00MM</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: TPTP-1.00MM  eaglePackage: TP-1.00MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: M7  Device: DIODE-SMB</compID>
+		<compID>NOT OOMP  eagleValue: M7  eagleDevice: DIODE-SMB  eaglePackage: SMB</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  Value: CD1206-S01575  Device: DIODE-MINIMELF</compID>
+		<compID>NOT OOMP  eagleValue: CD1206-S01575  eagleDevice: DIODE-MINIMELF  eaglePackage: MINIMELF</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>EXTPOWER</compIden>
-		<compID>NOT OOMP  Value: POWERSUPPLY_DC21MMX  Device: POWERSUPPLY_DC21MMX</compID>
+		<compID>NOT OOMP  eagleValue: POWERSUPPLY_DC21MMX  eagleDevice: POWERSUPPLY_DC21MMX  eaglePackage: POWERSUPPLY_DC-21MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  Value: MF-MSMF050-2 500mA  Device: L-EUL1812</compID>
+		<compID>NOT OOMP  eagleValue: MF-MSMF050-2 500mA  eagleDevice: L-EUL1812  eaglePackage: L1812</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>GND</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: TPTP-1.00MM</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: TPTP-1.00MM  eaglePackage: TP-1.00MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>IC1</compIden>
-		<compID>NOT OOMP  Value: NCP1117ST50T3G  Device: MC33269ST-3.3T3</compID>
+		<compID>NOT OOMP  eagleValue: NCP1117ST50T3G  eagleDevice: MC33269ST-3.3T3  eaglePackage: SOT223</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>IC2</compIden>
-		<compID>NOT OOMP  Value: LMV358IDGKR  Device: LMV358MMX</compID>
+		<compID>NOT OOMP  eagleValue: LMV358IDGKR  eagleDevice: LMV358MMX  eaglePackage: MSOP08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>ICSP</compIden>
-		<compID>NOT OOMP  Value: ICSP  Device: PINHD-2X3</compID>
+		<compID>NOT OOMP  eagleValue: ICSP  eagleDevice: PINHD-2X3  eaglePackage: 2X03</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: USB Micro  Device: USB-MICRO-LEGACY</compID>
+		<compID>NOT OOMP  eagleValue: USB Micro  eagleDevice: USB-MICRO-LEGACY  eaglePackage: CON2_USB_MICRO_B_AT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value: 8x1F-H8.5  Device: PINHD-1X8</compID>
+		<compID>NOT OOMP  eagleValue: 8x1F-H8.5  eagleDevice: PINHD-1X8  eaglePackage: 1X08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  Value: 8x1F-H8.5  Device: PINHD-1X8</compID>
+		<compID>NOT OOMP  eagleValue: 8x1F-H8.5  eagleDevice: PINHD-1X8  eaglePackage: 1X08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  Value: 6x1F-H8.5  Device: PINHD-1X6</compID>
+		<compID>NOT OOMP  eagleValue: 6x1F-H8.5  eagleDevice: PINHD-1X6  eaglePackage: 1X06</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -239,7 +239,7 @@
 	<component>
 		<compIndex>33</compIndex>
 		<compIden>ON</compIden>
-		<compID>NOT OOMP  Value: Green  Device: LEDCHIPLED_0805</compID>
+		<compID>NOT OOMP  eagleValue: Green  eagleDevice: LEDCHIPLED_0805  eaglePackage: CHIPLED_0805</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -253,14 +253,14 @@
 	<component>
 		<compIndex>35</compIndex>
 		<compIden>R2</compIden>
-		<compID>NOT OOMP  Value: NM  Device: R-EU_R0402</compID>
+		<compID>NOT OOMP  eagleValue: NM  eagleDevice: R-EU_R0402  eaglePackage: R0402</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>36</compIndex>
 		<compIden>R3</compIden>
-		<compID>NOT OOMP  Value: NM  Device: R-EU_R0402</compID>
+		<compID>NOT OOMP  eagleValue: NM  eagleDevice: R-EU_R0402  eaglePackage: R0402</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -274,28 +274,28 @@
 	<component>
 		<compIndex>38</compIndex>
 		<compIden>RESET</compIden>
-		<compID>NOT OOMP  Value: TS42  Device: TS42</compID>
+		<compID>NOT OOMP  eagleValue: TS42  eagleDevice: TS42  eaglePackage: TS42</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>39</compIndex>
 		<compIden>RN1</compIden>
-		<compID>NOT OOMP  Value: 10K  Device: 4R-NCAY16</compID>
+		<compID>NOT OOMP  eagleValue: 10K  eagleDevice: 4R-NCAY16  eaglePackage: CAY16</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>40</compIndex>
 		<compIden>RN2</compIden>
-		<compID>NOT OOMP  Value: 1K  Device: 4R-NCAY16</compID>
+		<compID>NOT OOMP  eagleValue: 1K  eagleDevice: 4R-NCAY16  eaglePackage: CAY16</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>41</compIndex>
 		<compIden>RN3</compIden>
-		<compID>NOT OOMP  Value: 22R  Device: 4R-NCAY16</compID>
+		<compID>NOT OOMP  eagleValue: 22R  eagleDevice: 4R-NCAY16  eaglePackage: CAY16</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -309,7 +309,7 @@
 	<component>
 		<compIndex>43</compIndex>
 		<compIden>T1</compIden>
-		<compID>NOT OOMP  Value: FDN340P  Device: PMOSSOT23</compID>
+		<compID>NOT OOMP  eagleValue: FDN340P  eagleDevice: PMOSSOT23  eaglePackage: SOT-23</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -323,49 +323,49 @@
 	<component>
 		<compIndex>45</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: ATMEGA32U4-XUMU  Device: ATMEGA32U4-XUMU</compID>
+		<compID>NOT OOMP  eagleValue: ATMEGA32U4-XUMU  eagleDevice: ATMEGA32U4-XUMU  eaglePackage: QFN44ML7X7</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>46</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: ATMEGA32U4-XUAU  Device: ATMEGA32U4-XUAU</compID>
+		<compID>NOT OOMP  eagleValue: ATMEGA32U4-XUAU  eagleDevice: ATMEGA32U4-XUAU  eaglePackage: TQFP44-PAD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>47</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: LP2985-33DBVR  Device: LP2985-XXDBVR33</compID>
+		<compID>NOT OOMP  eagleValue: LP2985-33DBVR  eagleDevice: LP2985-XXDBVR33  eaglePackage: SOT23-DBV</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>48</compIndex>
 		<compIden>VUSB</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: TPTP-1.00MM</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: TPTP-1.00MM  eaglePackage: TP-1.00MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>49</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  Value: 16MHz KX-7  Device: CRYSTAL-3.2-2.5</compID>
+		<compID>NOT OOMP  eagleValue: 16MHz KX-7  eagleDevice: CRYSTAL-3.2-2.5  eaglePackage: CRYSTAL-3.2-2.5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>50</compIndex>
 		<compIden>Z1</compIden>
-		<compID>NOT OOMP  Value: CG0603MLC-05E  Device: VARISTORCN0603</compID>
+		<compID>NOT OOMP  eagleValue: CG0603MLC-05E  eagleDevice: VARISTORCN0603  eaglePackage: CT/CN0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>51</compIndex>
 		<compIden>Z2</compIden>
-		<compID>NOT OOMP  Value: CG0603MLC-05E  Device: VARISTORCN0603</compID>
+		<compID>NOT OOMP  eagleValue: CG0603MLC-05E  eagleDevice: VARISTORCN0603  eaglePackage: CT/CN0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

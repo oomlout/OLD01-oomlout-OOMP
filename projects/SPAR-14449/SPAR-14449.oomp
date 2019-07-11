@@ -122,28 +122,28 @@ Note: This kit will need to be assembled before use, so knowledge of soldering w
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: GREEN  Device: LED1206-BOTTOM</compID>
+		<compID>NOT OOMP  eagleValue: GREEN  eagleDevice: LED1206-BOTTOM  eaglePackage: LED-1206-BOTTOM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  Value: 6V/0.5A  Device: PPTC_HALF-AMP</compID>
+		<compID>NOT OOMP  eagleValue: 6V/0.5A  eagleDevice: PPTC_HALF-AMP  eaglePackage: 1206</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_16</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_16  eaglePackage: 1X16</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  Value: AMP FCI 10103594-0001LF  Device: USB_MICRO-B_HALF_PTH</compID>
+		<compID>NOT OOMP  eagleValue: AMP FCI 10103594-0001LF  eagleDevice: USB_MICRO-B_HALF_PTH  eaglePackage: USB-MICROB-PTH</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -157,14 +157,14 @@ Note: This kit will need to be assembled before use, so knowledge of soldering w
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_05</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_05  eaglePackage: 1X05</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>J6</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_02</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_02  eaglePackage: 1X02</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -178,7 +178,7 @@ Note: This kit will need to be assembled before use, so knowledge of soldering w
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: 60V/32A/35mO  Device: MOSFET-NCH-FQP30N06L</compID>
+		<compID>NOT OOMP  eagleValue: 60V/32A/35mO  eagleDevice: MOSFET-NCH-FQP30N06L  eaglePackage: TO220V</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -227,14 +227,14 @@ Note: This kit will need to be assembled before use, so knowledge of soldering w
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>R7</compIden>
-		<compID>NOT OOMP  Value: 0.05  Device: 0.05OHM-2512-3W-1%</compID>
+		<compID>NOT OOMP  eagleValue: 0.05  eagleDevice: 0.05OHM-2512-3W-1%  eaglePackage: 2512</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>R8</compIden>
-		<compID>NOT OOMP  Value: 0.05  Device: 0.05OHM-2512-3W-1%</compID>
+		<compID>NOT OOMP  eagleValue: 0.05  eagleDevice: 0.05OHM-2512-3W-1%  eaglePackage: 2512</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -255,7 +255,7 @@ Note: This kit will need to be assembled before use, so knowledge of soldering w
 	<component>
 		<compIndex>34</compIndex>
 		<compIden>R11</compIden>
-		<compID>NOT OOMP  Value: 787  Device: 787OHM-0603-1/10W-1%</compID>
+		<compID>NOT OOMP  eagleValue: 787  eagleDevice: 787OHM-0603-1/10W-1%  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -297,14 +297,14 @@ Note: This kit will need to be assembled before use, so knowledge of soldering w
 	<component>
 		<compIndex>40</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: CY8C5868LTI-LP039  Device: PSOC_5LP_68QFN</compID>
+		<compID>NOT OOMP  eagleValue: CY8C5868LTI-LP039  eagleDevice: PSOC_5LP_68QFN  eaglePackage: QFN-68</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>41</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: 3.3V  Device: V_REG_AP2112K-3.3V</compID>
+		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

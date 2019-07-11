@@ -27,7 +27,7 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>ADR</compIden>
-		<compID>NOT OOMP  Value:   Device: SOLDERJUMPERNO</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SOLDERJUMPERNO  eaglePackage: SJ_2S-NO</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -69,14 +69,14 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>I2C</compIden>
-		<compID>NOT OOMP  Value:   Device: JUMPER-SMT_3_2-NC_TRACE_SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: JUMPER-SMT_3_2-NC_TRACE_SILK  eaglePackage: SMT-JUMPER_3_2-NC_TRACE_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: MICRO-SD  Device: MICRO-SD_CARD_SOCKETPUSH-PUSH</compID>
+		<compID>NOT OOMP  eagleValue: MICRO-SD  eagleDevice: MICRO-SD_CARD_SOCKETPUSH-PUSH  eaglePackage: MICRO-SD-SOCKET</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -90,7 +90,7 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  Value: PTH  Device: I2C_STANDARD_NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue: PTH  eagleDevice: I2C_STANDARD_NO_SILK  eaglePackage: 1X04_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -104,21 +104,21 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  Value: ISP  Device: AVR_SPI_PROG_3X2TESTPOINTS</compID>
+		<compID>NOT OOMP  eagleValue: ISP  eagleDevice: AVR_SPI_PROG_3X2TESTPOINTS  eaglePackage: 2X3_TEST_POINTS</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>J6</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_06NO_SILK_NO_POP</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_06NO_SILK_NO_POP  eaglePackage: 1X06_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: 16MHZ  Device: RESONATOR16MHZ</compID>
+		<compID>NOT OOMP  eagleValue: 16MHZ  eagleDevice: RESONATOR16MHZ  eaglePackage: RESONATOR-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -24,14 +24,14 @@ Note: A portion of each sale is given back to Josh Datko for continued developme
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>AES1</compIden>
-		<compID>NOT OOMP  Value: ATAES132  Device: ATAES132</compID>
+		<compID>NOT OOMP  eagleValue: ATAES132  eagleDevice: ATAES132  eaglePackage: SOIC8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>BAT1</compIden>
-		<compID>NOT OOMP  Value: 3V  Device: BATTERY12MM</compID>
+		<compID>NOT OOMP  eagleValue: 3V  eagleDevice: BATTERY12MM  eaglePackage: BATTCON_12MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -143,14 +143,14 @@ Note: A portion of each sale is given back to Josh Datko for continued developme
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>ECC1</compIden>
-		<compID>NOT OOMP  Value: ATECC108  Device: ATECC108</compID>
+		<compID>NOT OOMP  eagleValue: ATECC108  eagleDevice: ATECC108  eaglePackage: SOIC8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: AVR_SPI_PRG_6PTH  Device: AVR_SPI_PRG_6PTH</compID>
+		<compID>NOT OOMP  eagleValue: AVR_SPI_PRG_6PTH  eagleDevice: AVR_SPI_PRG_6PTH  eaglePackage: 2X3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -220,21 +220,21 @@ Note: A portion of each sale is given back to Josh Datko for continued developme
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>RTC1</compIden>
-		<compID>NOT OOMP  Value: DS3231M  Device: DS3231M</compID>
+		<compID>NOT OOMP  eagleValue: DS3231M  eagleDevice: DS3231M  eaglePackage: SOIC8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>SHA1</compIden>
-		<compID>NOT OOMP  Value: ATSHA204  Device: ATSHA204</compID>
+		<compID>NOT OOMP  eagleValue: ATSHA204  eagleDevice: ATSHA204  eaglePackage: SOIC8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: 33mhz  Device: OSCILLATOR</compID>
+		<compID>NOT OOMP  eagleValue: 33mhz  eagleDevice: OSCILLATOR  eaglePackage: CRYSTAL-OSC-SMD-5X3.2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -248,14 +248,14 @@ Note: A portion of each sale is given back to Josh Datko for continued developme
 	<component>
 		<compIndex>33</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: EEPROM-I2CSMD  Device: EEPROM-I2CSMD</compID>
+		<compID>NOT OOMP  eagleValue: EEPROM-I2CSMD  eagleDevice: EEPROM-I2CSMD  eaglePackage: SO08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>34</compIndex>
 		<compIden>Y2</compIden>
-		<compID>NOT OOMP  Value: 8MHZ  Device: RESONATOR8MHZ</compID>
+		<compID>NOT OOMP  eagleValue: 8MHZ  eagleDevice: RESONATOR8MHZ  eaglePackage: RESONATOR-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

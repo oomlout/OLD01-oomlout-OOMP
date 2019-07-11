@@ -30,7 +30,7 @@ One half of the board breaks out the control signals (E, S0-S2) and common input
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value:   Device: M11PTH</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: M11PTH  eaglePackage: 1X11</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -51,7 +51,7 @@ One half of the board breaks out the control signals (E, S0-S2) and common input
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value:   Device: 74HC4051BQ</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: 74HC4051BQ  eaglePackage: DHVQFN-16-2.5X3.5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

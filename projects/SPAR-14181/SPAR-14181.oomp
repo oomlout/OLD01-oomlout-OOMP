@@ -30,14 +30,14 @@ Note: Please be aware that the CCS811 datasheet recommends a burn-in of 48 hours
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_031X03_NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_031X03_NO_SILK  eaglePackage: 1X03_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>J8</compIden>
-		<compID>NOT OOMP  Value:   Device: I2C_STANDARD_NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: I2C_STANDARD_NO_SILK  eaglePackage: 1X04_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

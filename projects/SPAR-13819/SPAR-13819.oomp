@@ -24,49 +24,49 @@ We have also moved the prototype testing components (those used to make sure you
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>5V</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_01</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01  eaglePackage: 1X01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>5V_RAIL</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_07NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_07NO_SILK  eaglePackage: 1X07_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>BB1</compIden>
-		<compID>NOT OOMP  Value: BREADBOARDMINI  Device: BREADBOARDMINI</compID>
+		<compID>NOT OOMP  eagleValue: BREADBOARDMINI  eagleDevice: BREADBOARDMINI  eaglePackage: BREADBOARD-MINI</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>GND</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_01</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01  eaglePackage: 1X01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>GND_RAIL_1</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_07NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_07NO_SILK  eaglePackage: 1X07_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>GND_RAIL_2</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_031X03_NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_031X03_NO_SILK  eaglePackage: 1X03_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>ICSP</compIden>
-		<compID>NOT OOMP  Value: ICSP  Device: AVR_SPI_PROG_3X2PTH</compID>
+		<compID>NOT OOMP  eagleValue: ICSP  eagleDevice: AVR_SPI_PROG_3X2PTH  eaglePackage: 2X3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -108,14 +108,14 @@ We have also moved the prototype testing components (those used to make sure you
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>S4</compIden>
-		<compID>NOT OOMP  Value: MOMENTARY-SWITCH-SPST-PTH-6.0MM  Device: MOMENTARY-SWITCH-SPST-PTH-6.0MM</compID>
+		<compID>NOT OOMP  eagleValue: MOMENTARY-SWITCH-SPST-PTH-6.0MM  eagleDevice: MOMENTARY-SWITCH-SPST-PTH-6.0MM  eaglePackage: TACTILE_SWITCH_PTH_6.0MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>SW2</compIden>
-		<compID>NOT OOMP  Value: MOMENTARY-SWITCH-SPST-PTH-6.0MM  Device: MOMENTARY-SWITCH-SPST-PTH-6.0MM</compID>
+		<compID>NOT OOMP  eagleValue: MOMENTARY-SWITCH-SPST-PTH-6.0MM  eagleDevice: MOMENTARY-SWITCH-SPST-PTH-6.0MM  eaglePackage: TACTILE_SWITCH_PTH_6.0MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

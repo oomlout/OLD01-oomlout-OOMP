@@ -111,35 +111,35 @@ Important: The silkscreen indicates an input voltage range of 3V to 17V but we h
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: POWER_JACKPTH_LOCK  Device: POWER_JACKPTH_LOCK</compID>
+		<compID>NOT OOMP  eagleValue: POWER_JACKPTH_LOCK  eagleDevice: POWER_JACKPTH_LOCK  eaglePackage: POWER_JACK_PTH_LOCK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value: CORTEX_DEBUGPTH  Device: CORTEX_DEBUGPTH</compID>
+		<compID>NOT OOMP  eagleValue: CORTEX_DEBUGPTH  eagleDevice: CORTEX_DEBUGPTH  eaglePackage: 2X5-PTH-1.27MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_04SMD_STRAIGHT_COMBO</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_04SMD_STRAIGHT_COMBO  eaglePackage: 1X04_SMD_VERTICAL_COMBO</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_02PTH_RA_FEMALE</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_02PTH_RA_FEMALE  eaglePackage: 1X02_RA_FEMALE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_02PTH_RA_FEMALE</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_02PTH_RA_FEMALE  eaglePackage: 1X02_RA_FEMALE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -174,7 +174,7 @@ Important: The silkscreen indicates an input voltage range of 3V to 17V but we h
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>L1</compIden>
-		<compID>NOT OOMP  Value: 2.2uH  Device: INDUCTOR-VLF4012AT-2.2UH</compID>
+		<compID>NOT OOMP  eagleValue: 2.2uH  eagleDevice: INDUCTOR-VLF4012AT-2.2UH  eaglePackage: INDUCTOR_2.2UH</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -216,35 +216,35 @@ Important: The silkscreen indicates an input voltage range of 3V to 17V but we h
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-SPDT-PTH-11.6X4.0MM</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPDT-PTH-11.6X4.0MM  eaglePackage: SWITCH_SPDT_PTH_11.6X4.0MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: CY8C4245LQI-483  Device: PSOC4_4200_40QFN</compID>
+		<compID>NOT OOMP  eagleValue: CY8C4245LQI-483  eagleDevice: PSOC4_4200_40QFN  eaglePackage: QFN-40</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: TPS62172  Device: TPS62172</compID>
+		<compID>NOT OOMP  eagleValue: TPS62172  eagleDevice: TPS62172  eaglePackage: WSON-8-PAD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: micro:bit  Device: MICRO:BITLEDS_UP</compID>
+		<compID>NOT OOMP  eagleValue: micro:bit  eagleDevice: MICRO:BITLEDS_UP  eaglePackage: MICRO:BIT_RA_PTH</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>32</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: DRV8835  Device: DRV883X</compID>
+		<compID>NOT OOMP  eagleValue: DRV8835  eagleDevice: DRV883X  eaglePackage: WSON-12</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -113,56 +113,56 @@ This driver board was designed to be affordable, compact and have more features 
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: CONN_021X02_NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: CONN_021X02_NO_SILK  eaglePackage: 1X02_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: M05PTH</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: M05PTH  eaglePackage: 1X05</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: CONN_021X02_NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: CONN_021X02_NO_SILK  eaglePackage: 1X02_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: M05PTH</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: M05PTH  eaglePackage: 1X05</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: M02PTH</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: M02PTH  eaglePackage: 1X02@1</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>J6</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: M02PTH</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: M02PTH  eaglePackage: 1X02@1</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>J7</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: CONN_01PTH</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: CONN_01PTH  eaglePackage: 1X01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>J8</compIden>
-		<compID>NOT OOMP  Value: CORTEX_DEBUGPTH  Device: CORTEX_DEBUGPTH</compID>
+		<compID>NOT OOMP  eagleValue: CORTEX_DEBUGPTH  eagleDevice: CORTEX_DEBUGPTH  eaglePackage: 2X5-PTH-1.27MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -225,14 +225,14 @@ This driver board was designed to be affordable, compact and have more features 
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: CY8C4245LQI-483  Device: CY8C4245LQI</compID>
+		<compID>NOT OOMP  eagleValue: CY8C4245LQI-483  eagleDevice: CY8C4245LQI  eaglePackage: QFN-40</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: DRV8835  Device: DRV883X</compID>
+		<compID>NOT OOMP  eagleValue: DRV8835  eagleDevice: DRV883X  eaglePackage: WSON-12</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

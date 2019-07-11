@@ -44,14 +44,14 @@ On the back of the board you’ll find 10 solder jumpers that can be used to chang
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>C4</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: 1.0PF-0603-50V-25%</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: 1.0PF-0603-50V-25%  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>C5</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: 1.0PF-0603-50V-25%</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: 1.0PF-0603-50V-25%  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -93,7 +93,7 @@ On the back of the board you’ll find 10 solder jumpers that can be used to chang
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_09NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_09NO_SILK  eaglePackage: 1X09_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -170,7 +170,7 @@ On the back of the board you’ll find 10 solder jumpers that can be used to chang
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: TSH82  Device: TSH82</compID>
+		<compID>NOT OOMP  eagleValue: TSH82  eagleDevice: TSH82  eaglePackage: SO08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

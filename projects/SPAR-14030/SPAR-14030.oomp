@@ -44,21 +44,21 @@ The shield comes with a 6-pin JST connector to connect the GP-735 module. If you
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: MICROSD_TINY  Device: MICROSD_TINY</compID>
+		<compID>NOT OOMP  eagleValue: MICROSD_TINY  eagleDevice: MICROSD_TINY  eaglePackage: MICROSD_TINY</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value:   Device: M12NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: M12NO_SILK  eaglePackage: 1X12_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  Value:   Device: M12NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: M12NO_SILK  eaglePackage: 1X12_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -72,7 +72,7 @@ The shield comes with a 6-pin JST connector to connect the GP-735 module. If you
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  Value:   Device: M021X02_NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: M021X02_NO_SILK  eaglePackage: 1X02_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -86,28 +86,28 @@ The shield comes with a 6-pin JST connector to connect the GP-735 module. If you
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: DPDT  Device: SWITCH-DPDTAYZ0202</compID>
+		<compID>NOT OOMP  eagleValue: DPDT  eagleDevice: SWITCH-DPDTAYZ0202  eaglePackage: AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: GP735  Device: GP735</compID>
+		<compID>NOT OOMP  eagleValue: GP735  eagleDevice: GP735  eaglePackage: GP735</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: TXB0108  Device: TXB0108</compID>
+		<compID>NOT OOMP  eagleValue: TXB0108  eagleDevice: TXB0108  eaglePackage: UFDFN-20</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: AP2112K-3.3V  Device: V_REG_LDOSMD</compID>
+		<compID>NOT OOMP  eagleValue: AP2112K-3.3V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

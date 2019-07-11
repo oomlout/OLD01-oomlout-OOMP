@@ -43,14 +43,14 @@ Note: Though the datasheet states the VL6180 measures an absolute range of up to
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: BSS138  Device: MOSFET-NCHANNELBSS138</compID>
+		<compID>NOT OOMP  eagleValue: BSS138  eagleDevice: MOSFET-NCHANNELBSS138  eaglePackage: SOT23</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  Value: BSS138  Device: MOSFET-NCHANNELBSS138</compID>
+		<compID>NOT OOMP  eagleValue: BSS138  eagleDevice: MOSFET-NCHANNELBSS138  eaglePackage: SOT23</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -113,14 +113,14 @@ Note: Though the datasheet states the VL6180 measures an absolute range of up to
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: VL6180  Device: VL6180</compID>
+		<compID>NOT OOMP  eagleValue: VL6180  eagleDevice: VL6180  eaglePackage: VL6180</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: MIC5219 3.3V  Device: V_REG_MIC52193.3V</compID>
+		<compID>NOT OOMP  eagleValue: MIC5219 3.3V  eagleDevice: V_REG_MIC52193.3V  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

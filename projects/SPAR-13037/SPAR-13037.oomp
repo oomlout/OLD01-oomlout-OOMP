@@ -73,28 +73,28 @@ Note: This item may take longer to process due to battery installed in the equip
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>SW1</compIden>
-		<compID>NOT OOMP  Value: SWITCH_SPDT  Device: SWITCH_SPDT</compID>
+		<compID>NOT OOMP  eagleValue: SWITCH_SPDT  eagleDevice: SWITCH_SPDT  eaglePackage: KPS-1290</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: MCP73831  Device: MCP73831</compID>
+		<compID>NOT OOMP  eagleValue: MCP73831  eagleDevice: MCP73831  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: EDISON_CONNECTOR_FULLMOUNTING_HOLES  Device: EDISON_CONNECTOR_FULLMOUNTING_HOLES</compID>
+		<compID>NOT OOMP  eagleValue: EDISON_CONNECTOR_FULLMOUNTING_HOLES  eagleDevice: EDISON_CONNECTOR_FULLMOUNTING_HOLES  eaglePackage: EDISON_DAUGHTER</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: EDISON_CONNECTOR_FULLHEADER  Device: EDISON_CONNECTOR_FULLHEADER</compID>
+		<compID>NOT OOMP  eagleValue: EDISON_CONNECTOR_FULLHEADER  eagleDevice: EDISON_CONNECTOR_FULLHEADER  eaglePackage: DF40C-70DP-0.4(51)</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

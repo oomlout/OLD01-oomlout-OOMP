@@ -79,14 +79,14 @@ If you are looking to add a little more stability to your Intel® Edison stack, c
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  Value: Green  Device: LED</compID>
+		<compID>NOT OOMP  eagleValue: Green  eagleDevice: LED  eaglePackage: 0603-LED-ALT1</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: Red  Device: LED</compID>
+		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED  eaglePackage: 0603-LED-ALT1</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -114,49 +114,49 @@ If you are looking to add a little more stability to your Intel® Edison stack, c
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: RESET  Device: SWITCH-MOMENTARY-2TACTILE-SWITCH-SMD-RIGHT-ANGLE</compID>
+		<compID>NOT OOMP  eagleValue: RESET  eagleDevice: SWITCH-MOMENTARY-2TACTILE-SWITCH-SMD-RIGHT-ANGLE  eaglePackage: TACTILE_SWITCH-SMD-RIGHT-ANGLE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: MIC5205-3.3V (150mA)  Device: V_REG_LDOSMD</compID>
+		<compID>NOT OOMP  eagleValue: MIC5205-3.3V (150mA)  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: EDISON_CONNECTOR_FULLMOUNTING_HOLES  Device: EDISON_CONNECTOR_FULLMOUNTING_HOLES</compID>
+		<compID>NOT OOMP  eagleValue: EDISON_CONNECTOR_FULLMOUNTING_HOLES  eagleDevice: EDISON_CONNECTOR_FULLMOUNTING_HOLES  eaglePackage: EDISON_DAUGHTER</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: EDISON_CONNECTOR_FULLHEADER  Device: EDISON_CONNECTOR_FULLHEADER</compID>
+		<compID>NOT OOMP  eagleValue: EDISON_CONNECTOR_FULLHEADER  eagleDevice: EDISON_CONNECTOR_FULLHEADER  eaglePackage: DF40C-70DP-0.4(51)</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: ATMEGA328  Device: ATMEGA168</compID>
+		<compID>NOT OOMP  eagleValue: ATMEGA328  eagleDevice: ATMEGA168  eaglePackage: TQFP32-08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>U5</compIden>
-		<compID>NOT OOMP  Value:   Device: TXB0104PWRSOIC14</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TXB0104PWRSOIC14  eaglePackage: SO14</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  Value: 8MHZ  Device: RESONATOR8MHZ</compID>
+		<compID>NOT OOMP  eagleValue: 8MHZ  eagleDevice: RESONATOR8MHZ  eaglePackage: RESONATOR-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

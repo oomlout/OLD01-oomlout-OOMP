@@ -45,7 +45,7 @@ Note: We are currently working on a Hookup Guide for this kit. Check back later 
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: B340A  Device: DIODE-SCHOTTKY-B340A</compID>
+		<compID>NOT OOMP  eagleValue: B340A  eagleDevice: DIODE-SCHOTTKY-B340A  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -73,14 +73,14 @@ Note: We are currently working on a Hookup Guide for this kit. Check back later 
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>R4</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: 2.2KOHM1/10W1%(0603)</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: 2.2KOHM1/10W1%(0603)  eaglePackage: 0603-RES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>R5</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: 2.2KOHM1/10W1%(0603)</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: 2.2KOHM1/10W1%(0603)  eaglePackage: 0603-RES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -185,28 +185,28 @@ Note: We are currently working on a Hookup Guide for this kit. Check back later 
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: PCA9685  Device: PCA9685</compID>
+		<compID>NOT OOMP  eagleValue: PCA9685  eagleDevice: PCA9685  eaglePackage: TSSOP-28_4MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: PCA9306  Device: PCA9306PCA9306DC-1:1</compID>
+		<compID>NOT OOMP  eagleValue: PCA9306  eagleDevice: PCA9306PCA9306DC-1:1  eaglePackage: PCA9306DC-1:1</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: EDISON_CONNECTOR_FULLMOUNTING_HOLES  Device: EDISON_CONNECTOR_FULLMOUNTING_HOLES</compID>
+		<compID>NOT OOMP  eagleValue: EDISON_CONNECTOR_FULLMOUNTING_HOLES  eagleDevice: EDISON_CONNECTOR_FULLMOUNTING_HOLES  eaglePackage: EDISON_DAUGHTER</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: EDISON_CONNECTOR_FULLHEADER  Device: EDISON_CONNECTOR_FULLHEADER</compID>
+		<compID>NOT OOMP  eagleValue: EDISON_CONNECTOR_FULLHEADER  eagleDevice: EDISON_CONNECTOR_FULLHEADER  eaglePackage: DF40C-70DP-0.4(51)</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

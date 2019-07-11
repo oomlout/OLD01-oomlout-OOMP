@@ -99,28 +99,28 @@ The OLED display is 1.81" long with 160x32 4-bit grayscale pixels with a 3-wire 
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: 1A/23V/620mV  Device: DIODE-SCHOTTKY-BAT20J</compID>
+		<compID>NOT OOMP  eagleValue: 1A/23V/620mV  eagleDevice: DIODE-SCHOTTKY-BAT20J  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>DS1</compIden>
-		<compID>NOT OOMP  Value: OEL_1.8OEL_Y3B  Device: OEL_1.8OEL_Y3B</compID>
+		<compID>NOT OOMP  eagleValue: OEL_1.8OEL_Y3B  eagleDevice: OEL_1.8OEL_Y3B  eaglePackage: OEL_1.8_FPC_Y3B</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_06NO_SILK_NO_POP</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_06NO_SILK_NO_POP  eaglePackage: 1X06_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>L1</compIden>
-		<compID>NOT OOMP  Value: 10uH  Device: INDUCTOR-CDRH-10UH</compID>
+		<compID>NOT OOMP  eagleValue: 10uH  eagleDevice: INDUCTOR-CDRH-10UH  eaglePackage: INDUCTOR_4.7UH</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -141,21 +141,21 @@ The OLED display is 1.81" long with 160x32 4-bit grayscale pixels with a 3-wire 
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: AP3012  Device: AP3012</compID>
+		<compID>NOT OOMP  eagleValue: AP3012  eagleDevice: AP3012  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: 3.3V  Device: V_REG_AP2112K-3.3V</compID>
+		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: TXB0104  Device: TXB0104PWRSOIC14</compID>
+		<compID>NOT OOMP  eagleValue: TXB0104  eagleDevice: TXB0104PWRSOIC14  eaglePackage: SO14</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

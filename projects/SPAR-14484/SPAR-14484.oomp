@@ -168,7 +168,7 @@ Note: The SparkFun gator:bit does NOT include a micro:bit board. The micro:bit w
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>D6</compIden>
-		<compID>NOT OOMP  Value: 1A/23V/620mV  Device: DIODE-SCHOTTKY-BAT20J</compID>
+		<compID>NOT OOMP  eagleValue: 1A/23V/620mV  eagleDevice: DIODE-SCHOTTKY-BAT20J  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -182,7 +182,7 @@ Note: The SparkFun gator:bit does NOT include a micro:bit board. The micro:bit w
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>D8</compIden>
-		<compID>NOT OOMP  Value: 3.8V  Device: PDZVTR3.6B</compID>
+		<compID>NOT OOMP  eagleValue: 3.8V  eagleDevice: PDZVTR3.6B  eaglePackage: SOD-128</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -196,7 +196,7 @@ Note: The SparkFun gator:bit does NOT include a micro:bit board. The micro:bit w
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>D10</compIden>
-		<compID>NOT OOMP  Value: 3.8V  Device: PDZVTR3.6B</compID>
+		<compID>NOT OOMP  eagleValue: 3.8V  eagleDevice: PDZVTR3.6B  eaglePackage: SOD-128</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -210,70 +210,70 @@ Note: The SparkFun gator:bit does NOT include a micro:bit board. The micro:bit w
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>D12</compIden>
-		<compID>NOT OOMP  Value: 3.8V  Device: PDZVTR3.6B</compID>
+		<compID>NOT OOMP  eagleValue: 3.8V  eagleDevice: PDZVTR3.6B  eaglePackage: SOD-128</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>D13</compIden>
-		<compID>NOT OOMP  Value: 3.8V  Device: PDZVTR3.6B</compID>
+		<compID>NOT OOMP  eagleValue: 3.8V  eagleDevice: PDZVTR3.6B  eaglePackage: SOD-128</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>D15</compIden>
-		<compID>NOT OOMP  Value: 3.8V  Device: PDZVTR3.6B</compID>
+		<compID>NOT OOMP  eagleValue: 3.8V  eagleDevice: PDZVTR3.6B  eaglePackage: SOD-128</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>D17</compIden>
-		<compID>NOT OOMP  Value: 3.8V  Device: PDZVTR3.6B</compID>
+		<compID>NOT OOMP  eagleValue: 3.8V  eagleDevice: PDZVTR3.6B  eaglePackage: SOD-128</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>D19</compIden>
-		<compID>NOT OOMP  Value: 3.8V  Device: PDZVTR3.6B</compID>
+		<compID>NOT OOMP  eagleValue: 3.8V  eagleDevice: PDZVTR3.6B  eaglePackage: SOD-128</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>32</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  Value: 6V/0.5A  Device: PPTC_HALF-AMP</compID>
+		<compID>NOT OOMP  eagleValue: 6V/0.5A  eagleDevice: PPTC_HALF-AMP  eaglePackage: 1206</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>33</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: GATOR  Device: GATOR</compID>
+		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>34</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value: GATOR  Device: GATOR</compID>
+		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>35</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  Value: GATOR  Device: GATOR</compID>
+		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>36</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  Value: GATOR  Device: GATOR</compID>
+		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -287,105 +287,105 @@ Note: The SparkFun gator:bit does NOT include a micro:bit board. The micro:bit w
 	<component>
 		<compIndex>38</compIndex>
 		<compIden>J6</compIden>
-		<compID>NOT OOMP  Value: GATOR  Device: GATOR</compID>
+		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>39</compIndex>
 		<compIden>J7</compIden>
-		<compID>NOT OOMP  Value: GATOR  Device: GATOR</compID>
+		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>40</compIndex>
 		<compIden>J8</compIden>
-		<compID>NOT OOMP  Value: GATOR  Device: GATOR</compID>
+		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>41</compIndex>
 		<compIden>J9</compIden>
-		<compID>NOT OOMP  Value: GATOR  Device: GATOR</compID>
+		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>42</compIndex>
 		<compIden>J10</compIden>
-		<compID>NOT OOMP  Value: GATOR  Device: GATOR</compID>
+		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>43</compIndex>
 		<compIden>J11</compIden>
-		<compID>NOT OOMP  Value: GATOR  Device: GATOR</compID>
+		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>44</compIndex>
 		<compIden>J12</compIden>
-		<compID>NOT OOMP  Value: GATOR  Device: GATOR</compID>
+		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>45</compIndex>
 		<compIden>J13</compIden>
-		<compID>NOT OOMP  Value: GATOR  Device: GATOR</compID>
+		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>46</compIndex>
 		<compIden>J14</compIden>
-		<compID>NOT OOMP  Value: GATOR  Device: GATOR</compID>
+		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>47</compIndex>
 		<compIden>J15</compIden>
-		<compID>NOT OOMP  Value: GATOR  Device: GATOR</compID>
+		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>48</compIndex>
 		<compIden>J16</compIden>
-		<compID>NOT OOMP  Value: GATOR  Device: GATOR</compID>
+		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>49</compIndex>
 		<compIden>J17</compIden>
-		<compID>NOT OOMP  Value: GATOR  Device: GATOR</compID>
+		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>50</compIndex>
 		<compIden>J18</compIden>
-		<compID>NOT OOMP  Value: GATOR  Device: GATOR</compID>
+		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>51</compIndex>
 		<compIden>L1</compIden>
-		<compID>NOT OOMP  Value: 1.5uH  Device: INDUCTOR-XFL40201.5UH</compID>
+		<compID>NOT OOMP  eagleValue: 1.5uH  eagleDevice: INDUCTOR-XFL40201.5UH  eaglePackage: XFL4020</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>52</compIndex>
 		<compIden>LS1</compIden>
-		<compID>NOT OOMP  Value: BUZZER-SMD  Device: BUZZER-SMD</compID>
+		<compID>NOT OOMP  eagleValue: BUZZER-SMD  eagleDevice: BUZZER-SMD  eaglePackage: BUZZER-CCV</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -399,14 +399,14 @@ Note: The SparkFun gator:bit does NOT include a micro:bit board. The micro:bit w
 	<component>
 		<compIndex>54</compIndex>
 		<compIden>R2</compIden>
-		<compID>NOT OOMP  Value: 10.2K  Device: 10.2KOHM</compID>
+		<compID>NOT OOMP  eagleValue: 10.2K  eagleDevice: 10.2KOHM  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>55</compIndex>
 		<compIden>R3</compIden>
-		<compID>NOT OOMP  Value: 523k  Device: 523KOHMOHMS-0603-1/10W-1%</compID>
+		<compID>NOT OOMP  eagleValue: 523k  eagleDevice: 523KOHMOHMS-0603-1/10W-1%  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -434,7 +434,7 @@ Note: The SparkFun gator:bit does NOT include a micro:bit board. The micro:bit w
 	<component>
 		<compIndex>59</compIndex>
 		<compIden>R7</compIden>
-		<compID>NOT OOMP  Value: 604  Device: 604OHMOHMS-0603-1/10W-1%</compID>
+		<compID>NOT OOMP  eagleValue: 604  eagleDevice: 604OHMOHMS-0603-1/10W-1%  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -448,7 +448,7 @@ Note: The SparkFun gator:bit does NOT include a micro:bit board. The micro:bit w
 	<component>
 		<compIndex>61</compIndex>
 		<compIden>R9</compIden>
-		<compID>NOT OOMP  Value: 604  Device: 604OHMOHMS-0603-1/10W-1%</compID>
+		<compID>NOT OOMP  eagleValue: 604  eagleDevice: 604OHMOHMS-0603-1/10W-1%  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -462,7 +462,7 @@ Note: The SparkFun gator:bit does NOT include a micro:bit board. The micro:bit w
 	<component>
 		<compIndex>63</compIndex>
 		<compIden>R11</compIden>
-		<compID>NOT OOMP  Value: 604  Device: 604OHMOHMS-0603-1/10W-1%</compID>
+		<compID>NOT OOMP  eagleValue: 604  eagleDevice: 604OHMOHMS-0603-1/10W-1%  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -476,7 +476,7 @@ Note: The SparkFun gator:bit does NOT include a micro:bit board. The micro:bit w
 	<component>
 		<compIndex>65</compIndex>
 		<compIden>R13</compIden>
-		<compID>NOT OOMP  Value: 604  Device: 604OHMOHMS-0603-1/10W-1%</compID>
+		<compID>NOT OOMP  eagleValue: 604  eagleDevice: 604OHMOHMS-0603-1/10W-1%  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -490,7 +490,7 @@ Note: The SparkFun gator:bit does NOT include a micro:bit board. The micro:bit w
 	<component>
 		<compIndex>67</compIndex>
 		<compIden>R15</compIden>
-		<compID>NOT OOMP  Value: 604  Device: 604OHMOHMS-0603-1/10W-1%</compID>
+		<compID>NOT OOMP  eagleValue: 604  eagleDevice: 604OHMOHMS-0603-1/10W-1%  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -504,7 +504,7 @@ Note: The SparkFun gator:bit does NOT include a micro:bit board. The micro:bit w
 	<component>
 		<compIndex>69</compIndex>
 		<compIden>R17</compIden>
-		<compID>NOT OOMP  Value: 604  Device: 604OHMOHMS-0603-1/10W-1%</compID>
+		<compID>NOT OOMP  eagleValue: 604  eagleDevice: 604OHMOHMS-0603-1/10W-1%  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -518,7 +518,7 @@ Note: The SparkFun gator:bit does NOT include a micro:bit board. The micro:bit w
 	<component>
 		<compIndex>71</compIndex>
 		<compIden>R19</compIden>
-		<compID>NOT OOMP  Value: 604  Device: 604OHMOHMS-0603-1/10W-1%</compID>
+		<compID>NOT OOMP  eagleValue: 604  eagleDevice: 604OHMOHMS-0603-1/10W-1%  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -553,56 +553,56 @@ Note: The SparkFun gator:bit does NOT include a micro:bit board. The micro:bit w
 	<component>
 		<compIndex>76</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-DPDT-SMD-AYZ0202</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-DPDT-SMD-AYZ0202  eaglePackage: SWITCH_DPDT_SMD_AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>77</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-SPDT-SMD-AYZ0202</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPDT-SMD-AYZ0202  eaglePackage: SWITCH_DPDT_SMD_AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>78</compIndex>
 		<compIden>S3</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-SPDT-SMD-AYZ0202</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPDT-SMD-AYZ0202  eaglePackage: SWITCH_DPDT_SMD_AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>79</compIndex>
 		<compIden>S4</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-SPDT-SMD-AYZ0202</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPDT-SMD-AYZ0202  eaglePackage: SWITCH_DPDT_SMD_AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>80</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: TPS63070  Device: TPS63070RNM</compID>
+		<compID>NOT OOMP  eagleValue: TPS63070  eagleDevice: TPS63070RNM  eaglePackage: TPS63070RNM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>81</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: micro:bit  Device: MICRO:BITLEDS_UP</compID>
+		<compID>NOT OOMP  eagleValue: micro:bit  eagleDevice: MICRO:BITLEDS_UP  eaglePackage: MICRO:BIT_RA_PTH</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>82</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: TXB0104  Device: TXB0104PWR</compID>
+		<compID>NOT OOMP  eagleValue: TXB0104  eagleDevice: TXB0104PWR  eaglePackage: TSSOP14</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>83</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: ADJ REG 1.5A  Device: GATORBIT_LM317</compID>
+		<compID>NOT OOMP  eagleValue: ADJ REG 1.5A  eagleDevice: GATORBIT_LM317  eaglePackage: SOT223</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

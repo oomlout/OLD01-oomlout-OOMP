@@ -143,7 +143,7 @@ The Logomatic v2 ships with basic serial text and analog logging. Users can easi
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: USD_CONNECTOR  Device: USD_CONNECTOR</compID>
+		<compID>NOT OOMP  eagleValue: USD_CONNECTOR  eagleDevice: USD_CONNECTOR  eaglePackage: MICRO-SD-SOCKET-PP</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -178,21 +178,21 @@ The Logomatic v2 ships with basic serial text and analog logging. Users can easi
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: 12MHz  Device: CRYSTAL5X3</compID>
+		<compID>NOT OOMP  eagleValue: 12MHz  eagleDevice: CRYSTAL5X3  eaglePackage: CRYSTAL-SMD-5X3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  Value: 32kHz  Device: CRYSTAL32-SMD</compID>
+		<compID>NOT OOMP  eagleValue: 32kHz  eagleDevice: CRYSTAL32-SMD  eaglePackage: CRYSTAL-32KHZ-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>Q4</compIden>
-		<compID>NOT OOMP  Value: TRANSISTOR_PNPSMD  Device: TRANSISTOR_PNPSMD</compID>
+		<compID>NOT OOMP  eagleValue: TRANSISTOR_PNPSMD  eagleDevice: TRANSISTOR_PNPSMD  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -339,49 +339,49 @@ The Logomatic v2 ships with basic serial text and analog logging. Users can easi
 	<component>
 		<compIndex>46</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-SPSTSMD</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPSTSMD  eaglePackage: AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>47</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value: Stop  Device: TAC_SWITCHSND</compID>
+		<compID>NOT OOMP  eagleValue: Stop  eagleDevice: TAC_SWITCHSND  eaglePackage: TACTILE_SWITCH_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>48</compIndex>
 		<compIden>S3</compIden>
-		<compID>NOT OOMP  Value: Reset  Device: TAC_SWITCHSND</compID>
+		<compID>NOT OOMP  eagleValue: Reset  eagleDevice: TAC_SWITCHSND  eaglePackage: TACTILE_SWITCH_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>49</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: MCP73831  Device: MCP73831SMD</compID>
+		<compID>NOT OOMP  eagleValue: MCP73831  eagleDevice: MCP73831SMD  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>50</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: 3.3V  Device: V_REG_LDOSMD</compID>
+		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>51</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: LPC213X  Device: LPC213X</compID>
+		<compID>NOT OOMP  eagleValue: LPC213X  eagleDevice: LPC213X  eaglePackage: SQFP-S-10X10-64</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>52</compIndex>
 		<compIden>X1</compIden>
-		<compID>NOT OOMP  Value: USB_MICROB_PLUGCONN-11752  Device: USB_MICROB_PLUGCONN-11752</compID>
+		<compID>NOT OOMP  eagleValue: USB_MICROB_PLUGCONN-11752  eagleDevice: USB_MICROB_PLUGCONN-11752  eaglePackage: USB-B-MICRO-SMD_V03</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -64,14 +64,14 @@ If you are looking to add a little more stability to your Intel® Edison stack, c
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: EDISON_CONNECTOR_FULLMOUNTING_HOLES  Device: EDISON_CONNECTOR_FULLMOUNTING_HOLES</compID>
+		<compID>NOT OOMP  eagleValue: EDISON_CONNECTOR_FULLMOUNTING_HOLES  eagleDevice: EDISON_CONNECTOR_FULLMOUNTING_HOLES  eaglePackage: EDISON_DAUGHTER</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>OLED1</compIden>
-		<compID>NOT OOMP  Value: OLED0.66  Device: OLED0.66</compID>
+		<compID>NOT OOMP  eagleValue: OLED0.66  eagleDevice: OLED0.66  eaglePackage: OLED-0.66-64X48</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -134,21 +134,21 @@ If you are looking to add a little more stability to your Intel® Edison stack, c
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: Button A  Device: SWITCH-MOMENTARY-2SMD-4</compID>
+		<compID>NOT OOMP  eagleValue: Button A  eagleDevice: SWITCH-MOMENTARY-2SMD-4  eaglePackage: TACTILE_SWITCH_TALL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value: Button B  Device: SWITCH-MOMENTARY-2SMD-4</compID>
+		<compID>NOT OOMP  eagleValue: Button B  eagleDevice: SWITCH-MOMENTARY-2SMD-4  eaglePackage: TACTILE_SWITCH_TALL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>S3</compIden>
-		<compID>NOT OOMP  Value:   Device: JOYSTICK_MINI</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: JOYSTICK_MINI  eaglePackage: JOYSTICK_MINI</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

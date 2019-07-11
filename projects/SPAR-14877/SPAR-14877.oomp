@@ -22,14 +22,14 @@ Inside each Basic Flashlight Soldering Kit bag is a PCB, a small coin cell batte
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>BT2</compIden>
-		<compID>NOT OOMP  Value:   Device: BATTERY-20MM_PTH_KIT</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: BATTERY-20MM_PTH_KIT  eaglePackage: BATTCOM_20MM_PTH_KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value:   Device: LED-5MM-KIT-NO-SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LED-5MM-KIT-NO-SILK  eaglePackage: LED_5MM-KIT-NO-SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -43,7 +43,7 @@ Inside each Basic Flashlight Soldering Kit bag is a PCB, a small coin cell batte
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-SPDT-PTH-11.6X4.0MM-KIT</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPDT-PTH-11.6X4.0MM-KIT  eaglePackage: SWITCH_SPDT_PTH_11.6X4.0MM_KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

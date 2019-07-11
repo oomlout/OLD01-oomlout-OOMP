@@ -20,14 +20,14 @@
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>SW1</compIden>
-		<compID>NOT OOMP  Value:   Device: ENCODER_RGB_CAKIT</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: ENCODER_RGB_CAKIT  eaglePackage: ENCODER_LED_3_KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: ENCODER_2LEDKIT  Device: ENCODER_2LEDKIT</compID>
+		<compID>NOT OOMP  eagleValue: ENCODER_2LEDKIT  eagleDevice: ENCODER_2LEDKIT  eaglePackage: ENCODER_LED_2_KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

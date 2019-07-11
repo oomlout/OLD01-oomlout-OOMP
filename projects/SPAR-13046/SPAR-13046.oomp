@@ -79,14 +79,14 @@ If you are looking to add a little more stability to your Intel® Edison stack, c
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>R4</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: 2.2KOHM-1/10W-1%(0603)</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: 2.2KOHM-1/10W-1%(0603)  eaglePackage: 0603-RES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>R5</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: 2.2KOHM-1/10W-1%(0603)</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: 2.2KOHM-1/10W-1%(0603)  eaglePackage: 0603-RES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -100,28 +100,28 @@ If you are looking to add a little more stability to your Intel® Edison stack, c
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>R7</compIden>
-		<compID>NOT OOMP  Value: 0.27  Device: 0.27OHM-1/10W-1%(0603)</compID>
+		<compID>NOT OOMP  eagleValue: 0.27  eagleDevice: 0.27OHM-1/10W-1%(0603)  eaglePackage: 0603-RES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: ADS1015  Device: ADS1015</compID>
+		<compID>NOT OOMP  eagleValue: ADS1015  eagleDevice: ADS1015  eaglePackage: MSOP10</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: PCA9306  Device: PCA9306PCA9306DC-1:1</compID>
+		<compID>NOT OOMP  eagleValue: PCA9306  eagleDevice: PCA9306PCA9306DC-1:1  eaglePackage: PCA9306DC-1:1</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: 3.3V  Device: MIC52053.3V</compID>
+		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: MIC52053.3V  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

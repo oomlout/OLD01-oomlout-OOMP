@@ -92,63 +92,63 @@ The CY7C65213 breakout is equipped with a micro-B USB port, USB signal lines, a 
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  Value: PMEG4005EJ  Device: DIODE-SCHOTTKY-PMEG4005EJ</compID>
+		<compID>NOT OOMP  eagleValue: PMEG4005EJ  eagleDevice: DIODE-SCHOTTKY-PMEG4005EJ  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>D4</compIden>
-		<compID>NOT OOMP  Value: 5.6V  Device: DIODE-ZENER5.6V</compID>
+		<compID>NOT OOMP  eagleValue: 5.6V  eagleDevice: DIODE-ZENER5.6V  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>D5</compIden>
-		<compID>NOT OOMP  Value: PMEG4005EJ  Device: DIODE-SCHOTTKY-PMEG4005EJ</compID>
+		<compID>NOT OOMP  eagleValue: PMEG4005EJ  eagleDevice: DIODE-SCHOTTKY-PMEG4005EJ  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: MICROB  Device: USB_MICROB_PLUGCONN-11752</compID>
+		<compID>NOT OOMP  eagleValue: MICROB  eagleDevice: USB_MICROB_PLUGCONN-11752  eaglePackage: USB-B-MICRO-SMD_V03</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value:   Device: M02PTH</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: M02PTH  eaglePackage: 1X02</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  Value: FTDI_BASICPTH  Device: FTDI_BASICPTH</compID>
+		<compID>NOT OOMP  eagleValue: FTDI_BASICPTH  eagleDevice: FTDI_BASICPTH  eaglePackage: FTDI_BASIC</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  Value:   Device: M12PTH</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: M12PTH  eaglePackage: 1X12</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  Value:   Device: M12PTH</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: M12PTH  eaglePackage: 1X12</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>R1</compIden>
-		<compID>NOT OOMP  Value: 0.27  Device: 0.27OHM-1/10W-1%(0603)</compID>
+		<compID>NOT OOMP  eagleValue: 0.27  eagleDevice: 0.27OHM-1/10W-1%(0603)  eaglePackage: 0603-RES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -169,14 +169,14 @@ The CY7C65213 breakout is equipped with a micro-B USB port, USB signal lines, a 
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: CY7C65213  Device: CY7C65213</compID>
+		<compID>NOT OOMP  eagleValue: CY7C65213  eagleDevice: CY7C65213  eaglePackage: SSOP28DB</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: 3.3V  Device: V_REG_AP2112K-3.3V</compID>
+		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

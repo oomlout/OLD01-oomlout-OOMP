@@ -51,7 +51,7 @@ The IR emitter and detector components are packaged with the board, but not sold
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: IR-LED  Device: LED-IRSIDE_EMITTER</compID>
+		<compID>NOT OOMP  eagleValue: IR-LED  eagleDevice: LED-IRSIDE_EMITTER  eaglePackage: LTE-302</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -65,14 +65,14 @@ The IR emitter and detector components are packaged with the board, but not sold
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  Value: 250mA/100V  Device: DIODE-BAS16J</compID>
+		<compID>NOT OOMP  eagleValue: 250mA/100V  eagleDevice: DIODE-BAS16J  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value:   Device: 6_PIN_SERIAL_TARGETNO_SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: 6_PIN_SERIAL_TARGETNO_SILK  eaglePackage: 1X06_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -86,7 +86,7 @@ The IR emitter and detector components are packaged with the board, but not sold
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: 600mA/40V  Device: TRANS_NPN-MMBT2222AL</compID>
+		<compID>NOT OOMP  eagleValue: 600mA/40V  eagleDevice: TRANS_NPN-MMBT2222AL  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -149,35 +149,35 @@ The IR emitter and detector components are packaged with the board, but not sold
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: GPIO0  Device: MOMENTARY-SWITCH-SPST-SMD-4.6X2.8MM</compID>
+		<compID>NOT OOMP  eagleValue: GPIO0  eagleDevice: MOMENTARY-SWITCH-SPST-SMD-4.6X2.8MM  eaglePackage: TACTILE_SWITCH_SMD_4.6X2.8MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value: RESET  Device: MOMENTARY-SWITCH-SPST-SMD-4.6X2.8MM</compID>
+		<compID>NOT OOMP  eagleValue: RESET  eagleDevice: MOMENTARY-SWITCH-SPST-SMD-4.6X2.8MM  eaglePackage: TACTILE_SWITCH_SMD_4.6X2.8MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: ESP-12S  Device: ESP-12S</compID>
+		<compID>NOT OOMP  eagleValue: ESP-12S  eagleDevice: ESP-12S  eaglePackage: ESP-12S</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: 38kHz  Device: TSOP38238</compID>
+		<compID>NOT OOMP  eagleValue: 38kHz  eagleDevice: TSOP38238  eaglePackage: TSOP382</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: 3.3V  Device: V_REG_AP2112K-3.3V</compID>
+		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -58,49 +58,49 @@ Note: The pinout on these bar graphs may vary from what is listed on the datashe
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value:   Device: LED_BARGRAPH_10</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LED_BARGRAPH_10  eaglePackage: LED_BARGAPH_10</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  Value:   Device: LED_BARGRAPH_10</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LED_BARGRAPH_10  eaglePackage: LED_BARGAPH_10</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  Value:   Device: LED_BARGRAPH_10</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LED_BARGRAPH_10  eaglePackage: LED_BARGAPH_10</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>IC1</compIden>
-		<compID>NOT OOMP  Value: 74LS595N  Device: 74LS595N</compID>
+		<compID>NOT OOMP  eagleValue: 74LS595N  eagleDevice: 74LS595N  eaglePackage: DIL16</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>IC2</compIden>
-		<compID>NOT OOMP  Value: 74LS595N  Device: 74LS595N</compID>
+		<compID>NOT OOMP  eagleValue: 74LS595N  eagleDevice: 74LS595N  eaglePackage: DIL16</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>IC3</compIden>
-		<compID>NOT OOMP  Value: 74LS595N  Device: 74LS595N</compID>
+		<compID>NOT OOMP  eagleValue: 74LS595N  eagleDevice: 74LS595N  eaglePackage: DIL16</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>IC4</compIden>
-		<compID>NOT OOMP  Value: 74LS595N  Device: 74LS595N</compID>
+		<compID>NOT OOMP  eagleValue: 74LS595N  eagleDevice: 74LS595N  eaglePackage: DIL16</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -114,70 +114,70 @@ Note: The pinout on these bar graphs may vary from what is listed on the datashe
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>R2</compIden>
-		<compID>NOT OOMP  Value: 330  Device: RPACK-BUSSED-SIP-PTH-5</compID>
+		<compID>NOT OOMP  eagleValue: 330  eagleDevice: RPACK-BUSSED-SIP-PTH-5  eaglePackage: RPACK-SIP-PTH-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>R3</compIden>
-		<compID>NOT OOMP  Value: 330  Device: RPACK-BUSSED-SIP-PTH-5</compID>
+		<compID>NOT OOMP  eagleValue: 330  eagleDevice: RPACK-BUSSED-SIP-PTH-5  eaglePackage: RPACK-SIP-PTH-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>R4</compIden>
-		<compID>NOT OOMP  Value: 330  Device: RPACK-BUSSED-SIP-PTH-5</compID>
+		<compID>NOT OOMP  eagleValue: 330  eagleDevice: RPACK-BUSSED-SIP-PTH-5  eaglePackage: RPACK-SIP-PTH-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>R5</compIden>
-		<compID>NOT OOMP  Value: 330  Device: RPACK-BUSSED-SIP-PTH-5</compID>
+		<compID>NOT OOMP  eagleValue: 330  eagleDevice: RPACK-BUSSED-SIP-PTH-5  eaglePackage: RPACK-SIP-PTH-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>R6</compIden>
-		<compID>NOT OOMP  Value: 330  Device: RPACK-BUSSED-SIP-PTH-5</compID>
+		<compID>NOT OOMP  eagleValue: 330  eagleDevice: RPACK-BUSSED-SIP-PTH-5  eaglePackage: RPACK-SIP-PTH-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>R7</compIden>
-		<compID>NOT OOMP  Value: 330  Device: RPACK-BUSSED-SIP-PTH-5</compID>
+		<compID>NOT OOMP  eagleValue: 330  eagleDevice: RPACK-BUSSED-SIP-PTH-5  eaglePackage: RPACK-SIP-PTH-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>SO1</compIden>
-		<compID>NOT OOMP  Value: STAND-OFF  Device: STAND-OFF</compID>
+		<compID>NOT OOMP  eagleValue: STAND-OFF  eagleDevice: STAND-OFF  eaglePackage: STAND-OFF</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>SO2</compIden>
-		<compID>NOT OOMP  Value: STAND-OFF  Device: STAND-OFF</compID>
+		<compID>NOT OOMP  eagleValue: STAND-OFF  eagleDevice: STAND-OFF  eaglePackage: STAND-OFF</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>SO3</compIden>
-		<compID>NOT OOMP  Value: STAND-OFF  Device: STAND-OFF</compID>
+		<compID>NOT OOMP  eagleValue: STAND-OFF  eagleDevice: STAND-OFF  eaglePackage: STAND-OFF</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>SO4</compIden>
-		<compID>NOT OOMP  Value: STAND-OFF  Device: STAND-OFF</compID>
+		<compID>NOT OOMP  eagleValue: STAND-OFF  eagleDevice: STAND-OFF  eaglePackage: STAND-OFF</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

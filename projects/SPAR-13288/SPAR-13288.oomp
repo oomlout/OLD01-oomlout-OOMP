@@ -24,7 +24,7 @@ Note: Due to the requirements of shipping the batteries in this kit, orders may 
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>BAT1</compIden>
-		<compID>NOT OOMP  Value: CoinCell  Device: BATTERY12PTH</compID>
+		<compID>NOT OOMP  eagleValue: CoinCell  eagleDevice: BATTERY12PTH  eaglePackage: BATTCON_12MM_PTH</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -38,7 +38,7 @@ Note: Due to the requirements of shipping the batteries in this kit, orders may 
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: 5V  Device: V_REG_78XX-TO-220</compID>
+		<compID>NOT OOMP  eagleValue: 5V  eagleDevice: V_REG_78XX-TO-220  eaglePackage: TO-220-ALT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

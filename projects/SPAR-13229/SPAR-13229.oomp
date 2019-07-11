@@ -87,7 +87,7 @@ Note: The FreeSoC2 Develpment Board is a collaboration with Jon Moeller. A porti
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>C12</compIden>
-		<compID>NOT OOMP  Value:   Device: CAPPTH</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CAPPTH  eaglePackage: CAP-PTH-SMALL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -101,7 +101,7 @@ Note: The FreeSoC2 Develpment Board is a collaboration with Jon Moeller. A porti
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>C14</compIden>
-		<compID>NOT OOMP  Value:   Device: CAPPTH</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CAPPTH  eaglePackage: CAP-PTH-SMALL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -129,7 +129,7 @@ Note: The FreeSoC2 Develpment Board is a collaboration with Jon Moeller. A porti
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>C18</compIden>
-		<compID>NOT OOMP  Value:   Device: CAPPTH</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CAPPTH  eaglePackage: CAP-PTH-SMALL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -171,7 +171,7 @@ Note: The FreeSoC2 Develpment Board is a collaboration with Jon Moeller. A porti
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>C24</compIden>
-		<compID>NOT OOMP  Value:   Device: CAPPTH</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CAPPTH  eaglePackage: CAP-PTH-SMALL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -276,28 +276,28 @@ Note: The FreeSoC2 Develpment Board is a collaboration with Jon Moeller. A porti
 	<component>
 		<compIndex>37</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: MBRA140  Device: MBRA140</compID>
+		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: MBRA140  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>38</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  Value: MBRA140  Device: MBRA140</compID>
+		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: MBRA140  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>39</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  Value: MBRA140  Device: MBRA140</compID>
+		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: MBRA140  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>40</compIndex>
 		<compIden>D4</compIden>
-		<compID>NOT OOMP  Value: MBRA140  Device: MBRA140</compID>
+		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: MBRA140  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -388,14 +388,14 @@ Note: The FreeSoC2 Develpment Board is a collaboration with Jon Moeller. A porti
 	<component>
 		<compIndex>53</compIndex>
 		<compIden>R11</compIden>
-		<compID>NOT OOMP  Value: 0.27  Device: 0.27OHM-1/10W-1%(0603)</compID>
+		<compID>NOT OOMP  eagleValue: 0.27  eagleDevice: 0.27OHM-1/10W-1%(0603)  eaglePackage: 0603-RES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>54</compIndex>
 		<compIden>R12</compIden>
-		<compID>NOT OOMP  Value: 0.27  Device: 0.27OHM-1/10W-1%(0603)</compID>
+		<compID>NOT OOMP  eagleValue: 0.27  eagleDevice: 0.27OHM-1/10W-1%(0603)  eaglePackage: 0603-RES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -458,14 +458,14 @@ Note: The FreeSoC2 Develpment Board is a collaboration with Jon Moeller. A porti
 	<component>
 		<compIndex>63</compIndex>
 		<compIden>S3</compIden>
-		<compID>NOT OOMP  Value: SPDT  Device: SWITCH-SPDTPTH_LOCK</compID>
+		<compID>NOT OOMP  eagleValue: SPDT  eagleDevice: SWITCH-SPDTPTH_LOCK  eaglePackage: SWITCH-SPDT_LOCK.007S</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>64</compIndex>
 		<compIden>S4</compIden>
-		<compID>NOT OOMP  Value: SPDT  Device: SWITCH-SPDTPTH_LOCK</compID>
+		<compID>NOT OOMP  eagleValue: SPDT  eagleDevice: SWITCH-SPDTPTH_LOCK  eaglePackage: SWITCH-SPDT_LOCK.007S</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -486,49 +486,49 @@ Note: The FreeSoC2 Develpment Board is a collaboration with Jon Moeller. A porti
 	<component>
 		<compIndex>67</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: CY8C5888AXI-LP096  Device: PSOC_5LP_100QFP</compID>
+		<compID>NOT OOMP  eagleValue: CY8C5888AXI-LP096  eagleDevice: PSOC_5LP_100QFP  eaglePackage: TQFP-100-14X14MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>68</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: MIC5219 5V  Device: V_REG_MIC52195V</compID>
+		<compID>NOT OOMP  eagleValue: MIC5219 5V  eagleDevice: V_REG_MIC52195V  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>69</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: MIC5219 3.3V  Device: V_REG_MIC52193.3V</compID>
+		<compID>NOT OOMP  eagleValue: MIC5219 3.3V  eagleDevice: V_REG_MIC52193.3V  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>70</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: 2A/20V  Device: MOSFET-PCHANNEL_DUALSOT26</compID>
+		<compID>NOT OOMP  eagleValue: 2A/20V  eagleDevice: MOSFET-PCHANNEL_DUALSOT26  eaglePackage: SOT26</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>71</compIndex>
 		<compIden>U7</compIden>
-		<compID>NOT OOMP  Value: CY8C5868LTI-LP039  Device: PSOC_5LP_68QFN</compID>
+		<compID>NOT OOMP  eagleValue: CY8C5868LTI-LP039  eagleDevice: PSOC_5LP_68QFN  eaglePackage: QFN-68</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>72</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  Value: 32.768kHz  Device: CRYSTALTC26H</compID>
+		<compID>NOT OOMP  eagleValue: 32.768kHz  eagleDevice: CRYSTALTC26H  eaglePackage: TC26H</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>73</compIndex>
 		<compIden>Y2</compIden>
-		<compID>NOT OOMP  Value:   Device: CRYSTALHC49US</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CRYSTALHC49US  eaglePackage: HC49US</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

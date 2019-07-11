@@ -22,7 +22,7 @@ Note: A 10-position rotary switch is NOT included with this breakout. Check the 
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: 1x10  Device: SWITCH_ROTARY_1X10KIT</compID>
+		<compID>NOT OOMP  eagleValue: 1x10  eagleDevice: SWITCH_ROTARY_1X10KIT  eaglePackage: ROTARY_SWITCH_1X10_KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -47,7 +47,7 @@ Note: There is a small silk error that has reversed the SDA and SCL. This is sim
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_021X02_NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_021X02_NO_SILK  eaglePackage: 1X02_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -96,21 +96,21 @@ Note: There is a small silk error that has reversed the SDA and SCL. This is sim
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>J12</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_021X02_NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_021X02_NO_SILK  eaglePackage: 1X02_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: 3.3V/600mA  Device: V_REG_AP2112K-3.3V</compID>
+		<compID>NOT OOMP  eagleValue: 3.3V/600mA  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value:   Device: RASPBERRY_PI_40BTM-NOHOLES</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: RASPBERRY_PI_40BTM-NOHOLES  eaglePackage: RASPBERRY_PI_SHIELD_BOTTOM_ENTRY_NOHOLES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

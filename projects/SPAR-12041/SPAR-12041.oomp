@@ -51,14 +51,14 @@ Unlike its sibling, the AT42QT1010 does have an internal time-out of about 60 se
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: Green  Device: LED-GREEN1206-BOTTOM</compID>
+		<compID>NOT OOMP  eagleValue: Green  eagleDevice: LED-GREEN1206-BOTTOM  eaglePackage: LED-1206-BOTTOM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: 600mA/40V  Device: TRANS_NPN-MMBT2222AL</compID>
+		<compID>NOT OOMP  eagleValue: 600mA/40V  eagleDevice: TRANS_NPN-MMBT2222AL  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -86,7 +86,7 @@ Unlike its sibling, the AT42QT1010 does have an internal time-out of about 60 se
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: AT42QT1010 - UDFN  Device: AT42QT1010UDFN</compID>
+		<compID>NOT OOMP  eagleValue: AT42QT1010 - UDFN  eagleDevice: AT42QT1010UDFN  eaglePackage: UDFN/USON_8_PAD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

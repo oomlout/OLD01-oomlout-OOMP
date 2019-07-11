@@ -53,14 +53,14 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_02</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_02  eaglePackage: 1X02</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_02</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_02  eaglePackage: 1X02</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -102,28 +102,28 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>R6</compIden>
-		<compID>NOT OOMP  Value: FLEX_SENSOR-4.5  Device: FLEX_SENSOR-4.5</compID>
+		<compID>NOT OOMP  eagleValue: FLEX_SENSOR-4.5  eagleDevice: FLEX_SENSOR-4.5  eaglePackage: FLEX_SENSOR</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>R7</compIden>
-		<compID>NOT OOMP  Value: FLEX_SENSOR-4.5  Device: FLEX_SENSOR-4.5</compID>
+		<compID>NOT OOMP  eagleValue: FLEX_SENSOR-4.5  eagleDevice: FLEX_SENSOR-4.5  eaglePackage: FLEX_SENSOR</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: ADS1015  Device: ADS1015</compID>
+		<compID>NOT OOMP  eagleValue: ADS1015  eagleDevice: ADS1015  eaglePackage: MSOP10</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: LMV358  Device: LMV358SOIC</compID>
+		<compID>NOT OOMP  eagleValue: LMV358  eagleDevice: LMV358SOIC  eaglePackage: SO08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

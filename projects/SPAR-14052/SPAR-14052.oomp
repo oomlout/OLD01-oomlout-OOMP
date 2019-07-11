@@ -85,7 +85,7 @@ Note: Not all types of addressable LEDs are compatible with the Spectacle Light 
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: PESD1CAN  Device: PESD1CAN</compID>
+		<compID>NOT OOMP  eagleValue: PESD1CAN  eagleDevice: PESD1CAN  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -106,35 +106,35 @@ Note: Not all types of addressable LEDs are compatible with the Spectacle Light 
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>D4</compIden>
-		<compID>NOT OOMP  Value: PESD1CAN  Device: PESD1CAN</compID>
+		<compID>NOT OOMP  eagleValue: PESD1CAN  eagleDevice: PESD1CAN  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>D5</compIden>
-		<compID>NOT OOMP  Value: BAT20J  Device: DIODE-SCHOTTKY-BAT20J</compID>
+		<compID>NOT OOMP  eagleValue: BAT20J  eagleDevice: DIODE-SCHOTTKY-BAT20J  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value:   Device: M05NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: M05NO_SILK  eaglePackage: 1X05_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  Value: USB-MICROB  Device: USB-MICROB</compID>
+		<compID>NOT OOMP  eagleValue: USB-MICROB  eagleDevice: USB-MICROB  eaglePackage: USB-B-MICRO-SMD_V03</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  Value: AUDIO_JACK_TRRSSMD_RA  Device: AUDIO_JACK_TRRSSMD_RA</compID>
+		<compID>NOT OOMP  eagleValue: AUDIO_JACK_TRRSSMD_RA  eagleDevice: AUDIO_JACK_TRRSSMD_RA  eaglePackage: AUDIO_JACK_3.5MM_TRRS_SMD_RA</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -162,14 +162,14 @@ Note: Not all types of addressable LEDs are compatible with the Spectacle Light 
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>J8</compIden>
-		<compID>NOT OOMP  Value: AUDIO_JACK_TRRSSMD_RA  Device: AUDIO_JACK_TRRSSMD_RA</compID>
+		<compID>NOT OOMP  eagleValue: AUDIO_JACK_TRRSSMD_RA  eagleDevice: AUDIO_JACK_TRRSSMD_RA  eaglePackage: AUDIO_JACK_3.5MM_TRRS_SMD_RA</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>J9</compIden>
-		<compID>NOT OOMP  Value:   Device: M06NO_SILK_NO_POP</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: M06NO_SILK_NO_POP  eaglePackage: 1X06_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -211,42 +211,42 @@ Note: Not all types of addressable LEDs are compatible with the Spectacle Light 
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>SW1</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH_SPST_4_PINRECT</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH_SPST_4_PINRECT  eaglePackage: TACTILE_SWITCH_SMD_4.6X2.8MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>SW2</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH_SPST_4_PINRECT</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH_SPST_4_PINRECT  eaglePackage: TACTILE_SWITCH_SMD_4.6X2.8MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: CY8C4245LQI-483  Device: PSOC4_4200_40QFN</compID>
+		<compID>NOT OOMP  eagleValue: CY8C4245LQI-483  eagleDevice: PSOC4_4200_40QFN  eaglePackage: QFN-40</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: 3.3V  Device: V_REG_AP2112K-3.3V</compID>
+		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: SN74LVC1G66  Device: SN74LVC1G66_SPST_AMUX</compID>
+		<compID>NOT OOMP  eagleValue: SN74LVC1G66  eagleDevice: SN74LVC1G66_SPST_AMUX  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>32</compIndex>
 		<compIden>U5</compIden>
-		<compID>NOT OOMP  Value: SN74LVC1G66  Device: SN74LVC1G66_SPST_AMUX</compID>
+		<compID>NOT OOMP  eagleValue: SN74LVC1G66  eagleDevice: SN74LVC1G66_SPST_AMUX  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

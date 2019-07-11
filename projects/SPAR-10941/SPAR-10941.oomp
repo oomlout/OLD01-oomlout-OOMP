@@ -24,7 +24,7 @@ Note: This item may take longer to process due to battery installed in the equip
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>BAT1</compIden>
-		<compID>NOT OOMP  Value:   Device: BATTERY110-TABS</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: BATTERY110-TABS  eaglePackage: LIPO-110-TABS</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -73,56 +73,56 @@ Note: This item may take longer to process due to battery installed in the equip
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  Value: Status  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: Status  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>D4</compIden>
-		<compID>NOT OOMP  Value: Yellow  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: Yellow  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>PP-GND</compIden>
-		<compID>NOT OOMP  Value:   Device: TEST-POINT3X5</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TEST-POINT3X5  eaglePackage: PAD.03X.05</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>PP-MISO</compIden>
-		<compID>NOT OOMP  Value:   Device: TEST-POINT3X5</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TEST-POINT3X5  eaglePackage: PAD.03X.05</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>PP-MOSI</compIden>
-		<compID>NOT OOMP  Value:   Device: TEST-POINT3X5</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TEST-POINT3X5  eaglePackage: PAD.03X.05</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>PP-RST</compIden>
-		<compID>NOT OOMP  Value:   Device: TEST-POINT3X5</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TEST-POINT3X5  eaglePackage: PAD.03X.05</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>PP-SCK</compIden>
-		<compID>NOT OOMP  Value:   Device: TEST-POINT3X5</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TEST-POINT3X5  eaglePackage: PAD.03X.05</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>PP-VCC</compIden>
-		<compID>NOT OOMP  Value:   Device: TEST-POINT3X5</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TEST-POINT3X5  eaglePackage: PAD.03X.05</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -157,35 +157,35 @@ Note: This item may take longer to process due to battery installed in the equip
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value: On/Off  Device: AYZ0202</compID>
+		<compID>NOT OOMP  eagleValue: On/Off  eagleDevice: AYZ0202  eaglePackage: AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>S3</compIden>
-		<compID>NOT OOMP  Value: Reset  Device: SWITCH-MOMENTARY-2SMD</compID>
+		<compID>NOT OOMP  eagleValue: Reset  eagleDevice: SWITCH-MOMENTARY-2SMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: ATMEGA328  Device: ATMEGA168</compID>
+		<compID>NOT OOMP  eagleValue: ATMEGA328  eagleDevice: ATMEGA168  eaglePackage: TQFP32-08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: MCP73831  Device: MCP73831</compID>
+		<compID>NOT OOMP  eagleValue: MCP73831  eagleDevice: MCP73831  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  Value: 8MHz  Device: RESONATORSMD</compID>
+		<compID>NOT OOMP  eagleValue: 8MHz  eagleDevice: RESONATORSMD  eaglePackage: RESONATOR-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

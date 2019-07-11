@@ -60,7 +60,7 @@ GitHub (Library)
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: Red  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -81,35 +81,35 @@ GitHub (Library)
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value: Reset  Device: SWITCH-MOMENTARY-2SMD</compID>
+		<compID>NOT OOMP  eagleValue: Reset  eagleDevice: SWITCH-MOMENTARY-2SMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: MIC5202-3.3V  Device: V_REG_LDOSMD</compID>
+		<compID>NOT OOMP  eagleValue: MIC5202-3.3V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: RFM22  Device: RFM22SMD</compID>
+		<compID>NOT OOMP  eagleValue: RFM22  eagleDevice: RFM22SMD  eaglePackage: RFM22-XXX-S2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: 74HC4050 LVL CONVERTER  Device: HEX_CONVERTER</compID>
+		<compID>NOT OOMP  eagleValue: 74HC4050 LVL CONVERTER  eagleDevice: HEX_CONVERTER  eaglePackage: SO016</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: ARDUINO_SHIELD  Device: ARDUINO_SHIELDNOHOLES</compID>
+		<compID>NOT OOMP  eagleValue: ARDUINO_SHIELD  eagleDevice: ARDUINO_SHIELDNOHOLES  eaglePackage: DUEMILANOVE_SHIELD_NOHOLES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

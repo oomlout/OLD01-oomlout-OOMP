@@ -23,7 +23,7 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>$0000003</compIden>
-		<compID>NOT OOMP  Value: LOGO-LPLPA  Device: LOGO-LPLPA</compID>
+		<compID>NOT OOMP  eagleValue: LOGO-LPLPA  eagleDevice: LOGO-LPLPA  eaglePackage: LOGO-LPA</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -58,14 +58,14 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: Status  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: Status  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>GND</compIden>
-		<compID>NOT OOMP  Value: SEWTAP9  Device: SEWTAP9</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP9  eagleDevice: SEWTAP9  eaglePackage: PETAL-LONG-1-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -86,21 +86,21 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value:   Device: TAC_SWITCHSMD</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TAC_SWITCHSMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: ATMEGA168  Device: ATMEGA168</compID>
+		<compID>NOT OOMP  eagleValue: ATMEGA168  eagleDevice: ATMEGA168  eaglePackage: TQFP32-08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  Value: RESONATORSMD  Device: RESONATORSMD</compID>
+		<compID>NOT OOMP  eagleValue: RESONATORSMD  eagleDevice: RESONATORSMD  eaglePackage: RESONATOR-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

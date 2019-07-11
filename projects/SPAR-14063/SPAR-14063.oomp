@@ -30,14 +30,14 @@ Note: The LilyPad LilyMini ProtoSnap does NOT include sewing needles or conducti
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>$1_61_$_2016-09-25_21-56-09</compIden>
-		<compID>NOT OOMP  Value: OSHW-LOGOS  Device: OSHW-LOGOS</compID>
+		<compID>NOT OOMP  eagleValue: OSHW-LOGOS  eagleDevice: OSHW-LOGOS  eaglePackage: OSHW-LOGO-S</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>BAT1</compIden>
-		<compID>NOT OOMP  Value: CR2032  Device: BATTERY20MM_PTH_KIT</compID>
+		<compID>NOT OOMP  eagleValue: CR2032  eagleDevice: BATTERY20MM_PTH_KIT  eaglePackage: BATTERY_20MM_PTH_KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -72,14 +72,14 @@ Note: The LilyPad LilyMini ProtoSnap does NOT include sewing needles or conducti
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value:   Device: 0.13_RGB_LEDPLCC</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: 0.13_RGB_LEDPLCC  eaglePackage: P-LCC-4-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  Value: RB751  Device: DIODE-SCHOTTKY-RB751</compID>
+		<compID>NOT OOMP  eagleValue: RB751  eagleDevice: DIODE-SCHOTTKY-RB751  eaglePackage: SOD-523</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -114,7 +114,7 @@ Note: The LilyPad LilyMini ProtoSnap does NOT include sewing needles or conducti
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: ZXMP6A13F  Device: MOSFET-PCHANNEL</compID>
+		<compID>NOT OOMP  eagleValue: ZXMP6A13F  eagleDevice: MOSFET-PCHANNEL  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -191,7 +191,7 @@ Note: The LilyPad LilyMini ProtoSnap does NOT include sewing needles or conducti
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-MOMENTARY-2SMD-4.6X2.8MM</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-MOMENTARY-2SMD-4.6X2.8MM  eaglePackage: TACTILE_SWITCH_SMD_4.6X2.8MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -205,112 +205,112 @@ Note: The LilyPad LilyMini ProtoSnap does NOT include sewing needles or conducti
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>SEWTAP+</compIden>
-		<compID>NOT OOMP  Value:   Device: SEWTAP8</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SEWTAP8  eaglePackage: PETAL-MEDIUM-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>SEWTAP-</compIden>
-		<compID>NOT OOMP  Value:   Device: SEWTAP8</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SEWTAP8  eaglePackage: PETAL-MEDIUM-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>SEWTAP1</compIden>
-		<compID>NOT OOMP  Value:   Device: SEWTAP8</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SEWTAP8  eaglePackage: PETAL-MEDIUM-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>SEWTAP2</compIden>
-		<compID>NOT OOMP  Value:   Device: SEWTAP8</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SEWTAP8  eaglePackage: PETAL-MEDIUM-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>SEWTAP3</compIden>
-		<compID>NOT OOMP  Value:   Device: SEWTAP8</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SEWTAP8  eaglePackage: PETAL-MEDIUM-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>SEWTAP4</compIden>
-		<compID>NOT OOMP  Value:   Device: SEWTAP8</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SEWTAP8  eaglePackage: PETAL-MEDIUM-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>32</compIndex>
 		<compIden>SEWTAPLS+</compIden>
-		<compID>NOT OOMP  Value: PLUS  Device: SEWTAP6</compID>
+		<compID>NOT OOMP  eagleValue: PLUS  eagleDevice: SEWTAP6  eaglePackage: PETAL-SMALL-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>33</compIndex>
 		<compIden>SEWTAPLS-</compIden>
-		<compID>NOT OOMP  Value: MINUS  Device: SEWTAP6</compID>
+		<compID>NOT OOMP  eagleValue: MINUS  eagleDevice: SEWTAP6  eaglePackage: PETAL-SMALL-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>34</compIndex>
 		<compIden>SEWTAPLSOUT</compIden>
-		<compID>NOT OOMP  Value: OUT  Device: SEWTAP6</compID>
+		<compID>NOT OOMP  eagleValue: OUT  eagleDevice: SEWTAP6  eaglePackage: PETAL-SMALL-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>35</compIndex>
 		<compIden>ST1</compIden>
-		<compID>NOT OOMP  Value:   Device: SEWTAP-NOHOLE2</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SEWTAP-NOHOLE2  eaglePackage: PETAL-NOHOLE-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>36</compIndex>
 		<compIden>ST2</compIden>
-		<compID>NOT OOMP  Value:   Device: SEWTAP-NOHOLE2</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SEWTAP-NOHOLE2  eaglePackage: PETAL-NOHOLE-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>37</compIndex>
 		<compIden>ST3</compIden>
-		<compID>NOT OOMP  Value:   Device: SEWTAP-NOHOLE2</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SEWTAP-NOHOLE2  eaglePackage: PETAL-NOHOLE-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>38</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: SAMD11D14A-M  Device: SAMD11D14A-M</compID>
+		<compID>NOT OOMP  eagleValue: SAMD11D14A-M  eagleDevice: SAMD11D14A-M  eaglePackage: QFN-24_ALT2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>39</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: AP2112K-3.3V  Device: V_REG_AP2112K-3.3V</compID>
+		<compID>NOT OOMP  eagleValue: AP2112K-3.3V  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>40</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: ALS-PT19  Device: LIGHTSENSORALS</compID>
+		<compID>NOT OOMP  eagleValue: ALS-PT19  eagleDevice: LIGHTSENSORALS  eaglePackage: ALS-PT19</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>41</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  Value: 32.768kHz  Device: CRYSTAL3.2X1.5MM</compID>
+		<compID>NOT OOMP  eagleValue: 32.768kHz  eagleDevice: CRYSTAL3.2X1.5MM  eaglePackage: CRYSTAL-SMD-3.2X1.5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

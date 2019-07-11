@@ -58,21 +58,21 @@ Arduino bootloader included. Use board type “Arduino Pro or Pro Mini, ATmega328 
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>C4</compIden>
-		<compID>NOT OOMP  Value: 0.01uF  Device: CAPPTH3</compID>
+		<compID>NOT OOMP  eagleValue: 0.01uF  eagleDevice: CAPPTH3  eaglePackage: CAP-PTH-LARGE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>C5</compIden>
-		<compID>NOT OOMP  Value: 0.01uF  Device: CAPPTH3</compID>
+		<compID>NOT OOMP  eagleValue: 0.01uF  eagleDevice: CAPPTH3  eaglePackage: CAP-PTH-LARGE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>C6</compIden>
-		<compID>NOT OOMP  Value: 0.01uF  Device: CAPPTH3</compID>
+		<compID>NOT OOMP  eagleValue: 0.01uF  eagleDevice: CAPPTH3  eaglePackage: CAP-PTH-LARGE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -100,77 +100,77 @@ Arduino bootloader included. Use board type “Arduino Pro or Pro Mini, ATmega328 
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: 1N4007  Device: DIODEHV</compID>
+		<compID>NOT OOMP  eagleValue: 1N4007  eagleDevice: DIODEHV  eaglePackage: DIODE-HV</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  Value: 1N4007  Device: DIODEPTH</compID>
+		<compID>NOT OOMP  eagleValue: 1N4007  eagleDevice: DIODEPTH  eaglePackage: DIODE-1N4001</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  Value: 1N4007  Device: DIODEPTH</compID>
+		<compID>NOT OOMP  eagleValue: 1N4007  eagleDevice: DIODEPTH  eaglePackage: DIODE-1N4001</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>D4</compIden>
-		<compID>NOT OOMP  Value: 1N4007  Device: DIODEPTH</compID>
+		<compID>NOT OOMP  eagleValue: 1N4007  eagleDevice: DIODEPTH  eaglePackage: DIODE-1N4001</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  Value: PTCSMD  Device: PTCSMD</compID>
+		<compID>NOT OOMP  eagleValue: PTCSMD  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: Red  Device: LED1206</compID>
+		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED1206  eaglePackage: LED-1206</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  Value: Green  Device: LED1206</compID>
+		<compID>NOT OOMP  eagleValue: Green  eagleDevice: LED1206  eaglePackage: LED-1206</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: MPSA42  Device: TRANSISTOR_NPNSOT23-3</compID>
+		<compID>NOT OOMP  eagleValue: MPSA42  eagleDevice: TRANSISTOR_NPNSOT23-3  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  Value: MPSA18  Device: TRANSISTOR_NPNTO92</compID>
+		<compID>NOT OOMP  eagleValue: MPSA18  eagleDevice: TRANSISTOR_NPNTO92  eaglePackage: TO-92</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>Q3</compIden>
-		<compID>NOT OOMP  Value: MMBT4403  Device: TRANSISTOR_PNPSMD</compID>
+		<compID>NOT OOMP  eagleValue: MMBT4403  eagleDevice: TRANSISTOR_PNPSMD  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>Q4</compIden>
-		<compID>NOT OOMP  Value: MPSA18  Device: TRANSISTOR_NPNTO92</compID>
+		<compID>NOT OOMP  eagleValue: MPSA18  eagleDevice: TRANSISTOR_NPNTO92  eaglePackage: TO-92</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -282,21 +282,21 @@ Arduino bootloader included. Use board type “Arduino Pro or Pro Mini, ATmega328 
 	<component>
 		<compIndex>36</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: SWITCH-DPDTGPI  Device: SWITCH-DPDTGPI</compID>
+		<compID>NOT OOMP  eagleValue: SWITCH-DPDTGPI  eagleDevice: SWITCH-DPDTGPI  eaglePackage: GPI-152-3013</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>37</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value: Reset  Device: TAC_SWITCHSMD</compID>
+		<compID>NOT OOMP  eagleValue: Reset  eagleDevice: TAC_SWITCHSMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>38</compIndex>
 		<compIden>U7</compIden>
-		<compID>NOT OOMP  Value: TRANSFORMERAUDIO  Device: TRANSFORMERPTH</compID>
+		<compID>NOT OOMP  eagleValue: TRANSFORMERAUDIO  eagleDevice: TRANSFORMERPTH  eaglePackage: TRANSFORMER</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -310,21 +310,21 @@ Arduino bootloader included. Use board type “Arduino Pro or Pro Mini, ATmega328 
 	<component>
 		<compIndex>40</compIndex>
 		<compIden>U10</compIden>
-		<compID>NOT OOMP  Value: FT232RL-BASICSSOP  Device: FT232RL-BASICSSOP</compID>
+		<compID>NOT OOMP  eagleValue: FT232RL-BASICSSOP  eagleDevice: FT232RL-BASICSSOP  eaglePackage: SSOP28DB</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>41</compIndex>
 		<compIden>U17</compIden>
-		<compID>NOT OOMP  Value: AVR_SPI_PRG_6PTH  Device: AVR_SPI_PRG_6PTH</compID>
+		<compID>NOT OOMP  eagleValue: AVR_SPI_PRG_6PTH  eagleDevice: AVR_SPI_PRG_6PTH  eaglePackage: 2X3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>42</compIndex>
 		<compIden>X1</compIden>
-		<compID>NOT OOMP  Value: USBSMD  Device: USBSMD</compID>
+		<compID>NOT OOMP  eagleValue: USBSMD  eagleDevice: USBSMD  eaglePackage: USB-MINIB</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

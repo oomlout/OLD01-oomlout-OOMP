@@ -37,21 +37,21 @@ Note: This idea originally came from our friend in the Oakland area, CTP. If you
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>R1</compIden>
-		<compID>NOT OOMP  Value: 10k  Device: TRIMPOTRES-11156</compID>
+		<compID>NOT OOMP  eagleValue: 10k  eagleDevice: TRIMPOTRES-11156  eaglePackage: TRIMPOT_5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>R2</compIden>
-		<compID>NOT OOMP  Value: 10k  Device: TRIMPOTRES-11156</compID>
+		<compID>NOT OOMP  eagleValue: 10k  eagleDevice: TRIMPOTRES-11156  eaglePackage: TRIMPOT_5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>R3</compIden>
-		<compID>NOT OOMP  Value: 10k  Device: TRIMPOTRES-11156</compID>
+		<compID>NOT OOMP  eagleValue: 10k  eagleDevice: TRIMPOTRES-11156  eaglePackage: TRIMPOT_5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -79,14 +79,14 @@ Note: This idea originally came from our friend in the Oakland area, CTP. If you
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: ATTINY84  Device: ATTINY84</compID>
+		<compID>NOT OOMP  eagleValue: ATTINY84  eagleDevice: ATTINY84  eaglePackage: SO14</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  Value: 16MHZ  Device: RESONATOR16MHZ</compID>
+		<compID>NOT OOMP  eagleValue: 16MHZ  eagleDevice: RESONATOR16MHZ  eaglePackage: RESONATOR-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

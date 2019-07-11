@@ -37,42 +37,42 @@ Also included is a 850mAh LiPo battery. This is the highest energy density curre
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: MBRA140  Device: MBRA140</compID>
+		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: MBRA140  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  Value: MBRA140  Device: MBRA140</compID>
+		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: MBRA140  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: POWER_JACKSMD  Device: POWER_JACKSMD</compID>
+		<compID>NOT OOMP  eagleValue: POWER_JACKSMD  eagleDevice: POWER_JACKSMD  eaglePackage: POWER_JACK_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value:   Device: JST_2MM_MALE</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: JST_2MM_MALE  eaglePackage: JST-2-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  Value:   Device: JST_2MM_MALE</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: JST_2MM_MALE  eaglePackage: JST-2-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: LED3MM</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: LED3MM  eaglePackage: LED3MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -86,7 +86,7 @@ Also included is a 850mAh LiPo battery. This is the highest energy density curre
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>PROG</compIden>
-		<compID>NOT OOMP  Value:   Device: RESISTORAXIAL-0.3</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: RESISTORAXIAL-0.3  eaglePackage: AXIAL-0.3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -114,14 +114,14 @@ Also included is a 850mAh LiPo battery. This is the highest energy density curre
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: MCP73831  Device: MCP73831</compID>
+		<compID>NOT OOMP  eagleValue: MCP73831  eagleDevice: MCP73831  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>X1</compIden>
-		<compID>NOT OOMP  Value: USBSMD  Device: USBSMD</compID>
+		<compID>NOT OOMP  eagleValue: USBSMD  eagleDevice: USBSMD  eaglePackage: USB-MINIB</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

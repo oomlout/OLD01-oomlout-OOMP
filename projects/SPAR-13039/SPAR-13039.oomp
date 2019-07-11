@@ -92,21 +92,21 @@ If you are looking to add a little more stability to your Intel® Edison stack, c
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>E1</compIden>
-		<compID>NOT OOMP  Value: EDISON_CONNECTOR_FULLMOUNTING_HOLES  Device: EDISON_CONNECTOR_FULLMOUNTING_HOLES</compID>
+		<compID>NOT OOMP  eagleValue: EDISON_CONNECTOR_FULLMOUNTING_HOLES  eagleDevice: EDISON_CONNECTOR_FULLMOUNTING_HOLES  eaglePackage: EDISON_DAUGHTER</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>L1</compIden>
-		<compID>NOT OOMP  Value: 1.0uH  Device: INDUCTOR</compID>
+		<compID>NOT OOMP  eagleValue: 1.0uH  eagleDevice: INDUCTOR  eaglePackage: INDUCTOR-SRP4020</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: BSS138  Device: MOSFET-NCHANNELBSS138</compID>
+		<compID>NOT OOMP  eagleValue: BSS138  eagleDevice: MOSFET-NCHANNELBSS138  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -197,21 +197,21 @@ If you are looking to add a little more stability to your Intel® Edison stack, c
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: POWER  Device: SWITCH-MOMENTARY-2TACTILE-SWITCH-SMD-RIGHT-ANGLE</compID>
+		<compID>NOT OOMP  eagleValue: POWER  eagleDevice: SWITCH-MOMENTARY-2TACTILE-SWITCH-SMD-RIGHT-ANGLE  eaglePackage: TACTILE_SWITCH-SMD-RIGHT-ANGLE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: FT231XS-U  Device: FT231XS</compID>
+		<compID>NOT OOMP  eagleValue: FT231XS-U  eagleDevice: FT231XS  eaglePackage: SSOP20_L</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: TPS62065  Device: TPS62065</compID>
+		<compID>NOT OOMP  eagleValue: TPS62065  eagleDevice: TPS62065  eaglePackage: WSON-8-PAD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

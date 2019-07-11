@@ -43,7 +43,7 @@ This breakout offers an adjustable output range of 100, 200 or 400g, and an adju
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value:   Device: I2C_STANDARD</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: I2C_STANDARD  eaglePackage: 1X04</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -78,7 +78,7 @@ This breakout offers an adjustable output range of 100, 200 or 400g, and an adju
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: H3LIS331DL  Device: H3LIS331DL</compID>
+		<compID>NOT OOMP  eagleValue: H3LIS331DL  eagleDevice: H3LIS331DL  eaglePackage: LGA-16-3X3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

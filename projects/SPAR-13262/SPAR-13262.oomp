@@ -86,7 +86,7 @@ Note: This product is a collaboration with SK Pang Electronics. A portion of eac
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: MBRA140  Device: MBRA140</compID>
+		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: MBRA140  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -114,21 +114,21 @@ Note: This product is a collaboration with SK Pang Electronics. A portion of eac
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>D5</compIden>
-		<compID>NOT OOMP  Value: PESD1CAN  Device: PESD1CAN</compID>
+		<compID>NOT OOMP  eagleValue: PESD1CAN  eagleDevice: PESD1CAN  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  Value:   Device: PTCTHERMISTOR1206</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PTCTHERMISTOR1206  eaglePackage: PTC-1206</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: 16MHz  Device: CRYSTAL5X3</compID>
+		<compID>NOT OOMP  eagleValue: 16MHz  eagleDevice: CRYSTAL5X3  eaglePackage: CRYSTAL-SMD-5X3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -184,56 +184,56 @@ Note: This product is a collaboration with SK Pang Electronics. A portion of eac
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: USD-SOCKET  Device: USD-SOCKET</compID>
+		<compID>NOT OOMP  eagleValue: USD-SOCKET  eagleDevice: USD-SOCKET  eaglePackage: MICROSD_1:1</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: ARDUINO_R3_SHIELD  Device: ARDUINO_R3_SHIELD</compID>
+		<compID>NOT OOMP  eagleValue: ARDUINO_R3_SHIELD  eagleDevice: ARDUINO_R3_SHIELD  eaglePackage: UNO_R3_SHIELD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: JST_VERTICAL  Device: JST_VERTICAL</compID>
+		<compID>NOT OOMP  eagleValue: JST_VERTICAL  eagleDevice: JST_VERTICAL  eaglePackage: JST-6-SMD-VERT-1.0MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: MCP2515  Device: MCP2510SO</compID>
+		<compID>NOT OOMP  eagleValue: MCP2515  eagleDevice: MCP2510SO  eaglePackage: SO-18W</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>U5</compIden>
-		<compID>NOT OOMP  Value: MCP2551  Device: MCP2551</compID>
+		<compID>NOT OOMP  eagleValue: MCP2551  eagleDevice: MCP2551  eaglePackage: SO08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>U6</compIden>
-		<compID>NOT OOMP  Value: HEX_CONVERTER  Device: HEX_CONVERTER</compID>
+		<compID>NOT OOMP  eagleValue: HEX_CONVERTER  eagleDevice: HEX_CONVERTER  eaglePackage: SO016</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>U7</compIden>
-		<compID>NOT OOMP  Value:   Device: JOYSTICK_MINI</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: JOYSTICK_MINI  eaglePackage: JOYSTICK_MINI</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>X1</compIden>
-		<compID>NOT OOMP  Value: DB9 Plug  Device: DB9MALE</compID>
+		<compID>NOT OOMP  eagleValue: DB9 Plug  eagleDevice: DB9MALE  eaglePackage: DB9_MALE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -25,7 +25,7 @@ Note: Be sure to check the Hardware Overview section in the Hookup Guide for com
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>B1</compIden>
-		<compID>NOT OOMP  Value: ARDUINO_UNO_R3_SHIELDNOLABELS  Device: ARDUINO_UNO_R3_SHIELDNOLABELS</compID>
+		<compID>NOT OOMP  eagleValue: ARDUINO_UNO_R3_SHIELDNOLABELS  eagleDevice: ARDUINO_UNO_R3_SHIELDNOLABELS  eaglePackage: UNO_R3_SHIELD_NOLABELS</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -137,7 +137,7 @@ Note: Be sure to check the Hardware Overview section in the Hookup Guide for com
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>C16</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: 27PF-0603-50V-5%</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: 27PF-0603-50V-5%  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -158,7 +158,7 @@ Note: Be sure to check the Hardware Overview section in the Hookup Guide for com
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>C19</compIden>
-		<compID>NOT OOMP  Value: 0  Device: 0OHM-0603-1/10W-5%</compID>
+		<compID>NOT OOMP  eagleValue: 0  eagleDevice: 0OHM-0603-1/10W-5%  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -172,7 +172,7 @@ Note: Be sure to check the Hardware Overview section in the Hookup Guide for com
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: PRTR5V0U2F  Device: PRTR5V0U2F</compID>
+		<compID>NOT OOMP  eagleValue: PRTR5V0U2F  eagleDevice: PRTR5V0U2F  eaglePackage: SOT886</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -186,7 +186,7 @@ Note: Be sure to check the Hardware Overview section in the Hookup Guide for com
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  Value: 1A/23V/620mV  Device: DIODE-SCHOTTKY-BAT20J</compID>
+		<compID>NOT OOMP  eagleValue: 1A/23V/620mV  eagleDevice: DIODE-SCHOTTKY-BAT20J  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -207,21 +207,21 @@ Note: Be sure to check the Hardware Overview section in the Hookup Guide for com
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>D6</compIden>
-		<compID>NOT OOMP  Value: DT1042-04SO-7  Device: TVS_DIODE_ARRAY_4DT1042-04SO-7</compID>
+		<compID>NOT OOMP  eagleValue: DT1042-04SO-7  eagleDevice: TVS_DIODE_ARRAY_4DT1042-04SO-7  eaglePackage: SOT23-6L</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>E1</compIden>
-		<compID>NOT OOMP  Value: MOLEX-146200  Device: ANTENNA-GROUNDEDMOLEX-146200</compID>
+		<compID>NOT OOMP  eagleValue: MOLEX-146200  eagleDevice: ANTENNA-GROUNDEDMOLEX-146200  eaglePackage: MOLEX_146200</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value:   Device: USB_MICRO-B_HALF_PTH_MILL</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: USB_MICRO-B_HALF_PTH_MILL  eaglePackage: USB-MICROB-PTH-MILL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -242,84 +242,84 @@ Note: Be sure to check the Hardware Overview section in the Hookup Guide for com
 	<component>
 		<compIndex>32</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_01PTH_NO_SILK_YES_STOP</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>33</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  Value:   Device: 6_PIN_SERIAL_TARGETNO_SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: 6_PIN_SERIAL_TARGETNO_SILK  eaglePackage: 1X06_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>34</compIndex>
 		<compIden>J6</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_031X03_NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_031X03_NO_SILK  eaglePackage: 1X03_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>35</compIndex>
 		<compIden>J7</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_031X03_NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_031X03_NO_SILK  eaglePackage: 1X03_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>36</compIndex>
 		<compIden>J8</compIden>
-		<compID>NOT OOMP  Value: U.FL  Device: U.FL</compID>
+		<compID>NOT OOMP  eagleValue: U.FL  eagleDevice: U.FL  eaglePackage: U.FL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>37</compIndex>
 		<compIden>J9</compIden>
-		<compID>NOT OOMP  Value: NANO_SIM  Device: NANO_SIMWURTH</compID>
+		<compID>NOT OOMP  eagleValue: NANO_SIM  eagleDevice: NANO_SIMWURTH  eaglePackage: NANO_SIM_WURTH_693043020611</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>38</compIndex>
 		<compIden>J10</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_021X02_NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_021X02_NO_SILK  eaglePackage: 1X02_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>39</compIndex>
 		<compIden>J11</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_021X02_NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_021X02_NO_SILK  eaglePackage: 1X02_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>40</compIndex>
 		<compIden>L1</compIden>
-		<compID>NOT OOMP  Value: 39nH  Device: INDUCTOR-0603-39NH</compID>
+		<compID>NOT OOMP  eagleValue: 39nH  eagleDevice: INDUCTOR-0603-39NH  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>41</compIndex>
 		<compIden>L2</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: INDUCTOR-0603-68NH</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: INDUCTOR-0603-68NH  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>42</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: 2.5A/30V/105mO  Device: MOSFET_PCH-DMG2307L</compID>
+		<compID>NOT OOMP  eagleValue: 2.5A/30V/105mO  eagleDevice: MOSFET_PCH-DMG2307L  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>43</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  Value: 600mA/40V  Device: TRANS_NPN-MMBT2222AL</compID>
+		<compID>NOT OOMP  eagleValue: 600mA/40V  eagleDevice: TRANS_NPN-MMBT2222AL  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -375,21 +375,21 @@ Note: Be sure to check the Hardware Overview section in the Hookup Guide for com
 	<component>
 		<compIndex>51</compIndex>
 		<compIden>R8</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: 10KOHM-0603-1/10W-1%</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: 10KOHM-0603-1/10W-1%  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>52</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-DPDT-SMD-AYZ0202</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-DPDT-SMD-AYZ0202  eaglePackage: SWITCH_DPDT_SMD_AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>53</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-DPDT-SMD-AYZ0202</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-DPDT-SMD-AYZ0202  eaglePackage: SWITCH_DPDT_SMD_AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -410,42 +410,42 @@ Note: Be sure to check the Hardware Overview section in the Hookup Guide for com
 	<component>
 		<compIndex>56</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: TXB0104  Device: TXB0104PWR</compID>
+		<compID>NOT OOMP  eagleValue: TXB0104  eagleDevice: TXB0104PWR  eaglePackage: TSSOP14</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>57</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: AP2112K-3.3  Device: V_REG_AP2112K-3.3V</compID>
+		<compID>NOT OOMP  eagleValue: AP2112K-3.3  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>58</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: MCP73831  Device: MCP73831</compID>
+		<compID>NOT OOMP  eagleValue: MCP73831  eagleDevice: MCP73831  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>59</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: TCA9406DCU  Device: TCA9406DCU</compID>
+		<compID>NOT OOMP  eagleValue: TCA9406DCU  eagleDevice: TCA9406DCU  eaglePackage: VSSOP-8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>60</compIndex>
 		<compIden>U5</compIden>
-		<compID>NOT OOMP  Value: AP7361C-33FGE  Device: AP7361C-33FGE</compID>
+		<compID>NOT OOMP  eagleValue: AP7361C-33FGE  eagleDevice: AP7361C-33FGE  eaglePackage: 8-UDFN</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>61</compIndex>
 		<compIden>U6</compIden>
-		<compID>NOT OOMP  Value: SARA-R410M-2B  Device: SARA-R4</compID>
+		<compID>NOT OOMP  eagleValue: SARA-R410M-2B  eagleDevice: SARA-R4  eaglePackage: SARA-LGA</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

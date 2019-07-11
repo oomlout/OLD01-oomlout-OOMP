@@ -65,28 +65,28 @@ Note: A portion of this sale is given back to Arduino LLC to help fund continued
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  Value: Green  Device: LED</compID>
+		<compID>NOT OOMP  eagleValue: Green  eagleDevice: LED  eaglePackage: 0603-LED-ALT1</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: Red  Device: LED</compID>
+		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED  eaglePackage: 0603-LED-ALT1</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: 8/16/20MHz  Device: RESONATOR1:1</compID>
+		<compID>NOT OOMP  eagleValue: 8/16/20MHz  eagleDevice: RESONATOR1:1  eaglePackage: RESONATOR-SMD-1:1</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>R1</compIden>
-		<compID>NOT OOMP  Value:   Device: RESISTOR0603-RES</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: RESISTOR0603-RES  eaglePackage: 0603-RES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -100,7 +100,7 @@ Note: A portion of this sale is given back to Arduino LLC to help fund continued
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>R3</compIden>
-		<compID>NOT OOMP  Value:   Device: RESISTOR0603-RES</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: RESISTOR0603-RES  eaglePackage: 0603-RES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -121,21 +121,21 @@ Note: A portion of this sale is given back to Arduino LLC to help fund continued
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: Reset  Device: SWITCH-MOMENTARY-2SMD-ALT01</compID>
+		<compID>NOT OOMP  eagleValue: Reset  eagleDevice: SWITCH-MOMENTARY-2SMD-ALT01  eaglePackage: TACTILE-SWITCH-SMD-ALT01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: ATMEGA328  Device: ATMEGA168</compID>
+		<compID>NOT OOMP  eagleValue: ATMEGA328  eagleDevice: ATMEGA168  eaglePackage: TQFP32-08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: MIC5205  Device: V_REG_LDOSMD</compID>
+		<compID>NOT OOMP  eagleValue: MIC5205  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -93,28 +93,28 @@ This logic level converter provides 5V to the high side of the TXB0104 and the l
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_01</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01  eaglePackage: 1X01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_01</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01  eaglePackage: 1X01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>L1</compIden>
-		<compID>NOT OOMP  Value: 2.2uH/±20%/1.5A  Device: INDUCTOR-VLF4012AT-2.2UH</compID>
+		<compID>NOT OOMP  eagleValue: 2.2uH/±20%/1.5A  eagleDevice: INDUCTOR-VLF4012AT-2.2UH  eaglePackage: INDUCTOR_2.2UH</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>R1</compIden>
-		<compID>NOT OOMP  Value:    Device: RESISTORAXIAL-0.3</compID>
+		<compID>NOT OOMP  eagleValue:    eagleDevice: RESISTORAXIAL-0.3  eaglePackage: AXIAL-0.3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -156,21 +156,21 @@ This logic level converter provides 5V to the high side of the TXB0104 and the l
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: TXB0104  Device: TXB0104PWR</compID>
+		<compID>NOT OOMP  eagleValue: TXB0104  eagleDevice: TXB0104PWR  eaglePackage: TSSOP14</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: TPS61200  Device: TPS61200</compID>
+		<compID>NOT OOMP  eagleValue: TPS61200  eagleDevice: TPS61200  eaglePackage: QFN-10_PAD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: MIC5205(ADJ)  Device: V_REG_MIC5205ADJ</compID>
+		<compID>NOT OOMP  eagleValue: MIC5205(ADJ)  eagleDevice: V_REG_MIC5205ADJ  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

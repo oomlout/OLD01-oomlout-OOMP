@@ -37,7 +37,7 @@ The SparkFun Haptic Motor Driver breakout board features six pins to provide pow
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>I2C</compIden>
-		<compID>NOT OOMP  Value: JUMPER-PAD-3-NC_BY_PASTE  Device: JUMPER-PAD-3-NC_BY_PASTE</compID>
+		<compID>NOT OOMP  eagleValue: JUMPER-PAD-3-NC_BY_PASTE  eagleDevice: JUMPER-PAD-3-NC_BY_PASTE  eaglePackage: PAD-JUMPER-3-NC_BY_PASTE_YES_SILK_FULL_BOX</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -58,7 +58,7 @@ The SparkFun Haptic Motor Driver breakout board features six pins to provide pow
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: DRV2605L  Device: DRV2605L</compID>
+		<compID>NOT OOMP  eagleValue: DRV2605L  eagleDevice: DRV2605L  eaglePackage: VSSOP-10</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

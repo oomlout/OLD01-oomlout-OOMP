@@ -78,14 +78,14 @@ The pinout of the Serial Basic mimics the common DTR/RX/TX/VCC/CTS/GND pinout fo
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: microB  Device: USB-MICROB</compID>
+		<compID>NOT OOMP  eagleValue: microB  eagleDevice: USB-MICROB  eaglePackage: USB-B-MICRO-SMD_V03</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value:   Device: M06SMD-FEMALE-V2</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: M06SMD-FEMALE-V2  eaglePackage: 1X06-SMD-FEMALE-V2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -106,28 +106,28 @@ The pinout of the Serial Basic mimics the common DTR/RX/TX/VCC/CTS/GND pinout fo
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: AP2112-3.3V  Device: V_REG_AP2112K-3.3V</compID>
+		<compID>NOT OOMP  eagleValue: AP2112-3.3V  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: CH340G  Device: CH340GSMD</compID>
+		<compID>NOT OOMP  eagleValue: CH340G  eagleDevice: CH340GSMD  eaglePackage: SO016</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: 74LVC1G08SE  Device: 7408</compID>
+		<compID>NOT OOMP  eagleValue: 74LVC1G08SE  eagleDevice: 7408  eaglePackage: SOT353</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>Y2</compIden>
-		<compID>NOT OOMP  Value: 12MHz  Device: CRYSTAL-GROUNDED3.2X2.5</compID>
+		<compID>NOT OOMP  eagleValue: 12MHz  eagleDevice: CRYSTAL-GROUNDED3.2X2.5  eaglePackage: CRYSTAL-SMD-3.2X2.5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

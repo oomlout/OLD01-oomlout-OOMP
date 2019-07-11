@@ -43,7 +43,7 @@ If you are looking to add a little more stability to your Intel® Edison stack, c
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: MBRA140  Device: DIODE-SCHOTTKY-MBRA140</compID>
+		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: DIODE-SCHOTTKY-MBRA140  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -92,28 +92,28 @@ If you are looking to add a little more stability to your Intel® Edison stack, c
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: TB6612FNG  Device: TB6621FNG</compID>
+		<compID>NOT OOMP  eagleValue: TB6612FNG  eagleDevice: TB6621FNG  eaglePackage: SSOP24</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: EDISON_CONNECTOR_FULLMOUNTING_HOLES  Device: EDISON_CONNECTOR_FULLMOUNTING_HOLES</compID>
+		<compID>NOT OOMP  eagleValue: EDISON_CONNECTOR_FULLMOUNTING_HOLES  eagleDevice: EDISON_CONNECTOR_FULLMOUNTING_HOLES  eaglePackage: EDISON_DAUGHTER</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: EDISON_CONNECTOR_FULLHEADER  Device: EDISON_CONNECTOR_FULLHEADER</compID>
+		<compID>NOT OOMP  eagleValue: EDISON_CONNECTOR_FULLHEADER  eagleDevice: EDISON_CONNECTOR_FULLHEADER  eaglePackage: DF40C-70DP-0.4(51)</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: TXB0108  Device: TXB0108</compID>
+		<compID>NOT OOMP  eagleValue: TXB0108  eagleDevice: TXB0108  eaglePackage: UFDFN-20</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

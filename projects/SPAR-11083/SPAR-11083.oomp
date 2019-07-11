@@ -70,7 +70,7 @@ Using this board we are able to pick up multiple stations just as well as with a
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>L1</compIden>
-		<compID>NOT OOMP  Value: ferrite  Device: INDUCTOR0402</compID>
+		<compID>NOT OOMP  eagleValue: ferrite  eagleDevice: INDUCTOR0402  eaglePackage: C0402</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -133,14 +133,14 @@ Using this board we are able to pick up multiple stations just as well as with a
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: SI4703  Device: SPARKFUN_SI470X</compID>
+		<compID>NOT OOMP  eagleValue: SI4703  eagleDevice: SPARKFUN_SI470X  eaglePackage: SPARKFUN_SI470X</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  Value: 32.768kHz  Device: CRYSTAL32-SMD</compID>
+		<compID>NOT OOMP  eagleValue: 32.768kHz  eagleDevice: CRYSTAL32-SMD  eaglePackage: CRYSTAL-32KHZ-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

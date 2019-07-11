@@ -93,14 +93,14 @@ The SparkFun ESP8266 Thing is a relatively simple board. The pins are broken out
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>C11</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: 0.1UF-25V(+80/-20%)(0603)</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: 0.1UF-25V(+80/-20%)(0603)  eaglePackage: 0603-CAP</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>C12</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: 0.1UF-25V(+80/-20%)(0603)</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: 0.1UF-25V(+80/-20%)(0603)  eaglePackage: 0603-CAP</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -121,7 +121,7 @@ The SparkFun ESP8266 Thing is a relatively simple board. The pins are broken out
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  Value: BAT20J  Device: DIODE-SCHOTTKY-BAT20J</compID>
+		<compID>NOT OOMP  eagleValue: BAT20J  eagleDevice: DIODE-SCHOTTKY-BAT20J  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -135,42 +135,42 @@ The SparkFun ESP8266 Thing is a relatively simple board. The pins are broken out
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>D5</compIden>
-		<compID>NOT OOMP  Value:   Device: DIODEBAS16</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: DIODEBAS16  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>E1</compIden>
-		<compID>NOT OOMP  Value: ANTENNATRACE  Device: ANTENNATRACE</compID>
+		<compID>NOT OOMP  eagleValue: ANTENNATRACE  eagleDevice: ANTENNATRACE  eaglePackage: TRACE_ANTENNA_2.4GHZ_25.7MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: U.FL</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: U.FL  eaglePackage: U.FL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>L1</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: INDUCTOR0603</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: INDUCTOR0603  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>L2</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: INDUCTOR0603</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: INDUCTOR0603  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: 2.5A/30V  Device: MOSFET-PCHANNELDMG2307L</compID>
+		<compID>NOT OOMP  eagleValue: 2.5A/30V  eagleDevice: MOSFET-PCHANNELDMG2307L  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -240,7 +240,7 @@ The SparkFun ESP8266 Thing is a relatively simple board. The pins are broken out
 	<component>
 		<compIndex>32</compIndex>
 		<compIden>R10</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: RESISTOR0603-RES</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: RESISTOR0603-RES  eaglePackage: 0603-RES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -282,63 +282,63 @@ The SparkFun ESP8266 Thing is a relatively simple board. The pins are broken out
 	<component>
 		<compIndex>38</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-SPDT-SMD-A</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPDT-SMD-A  eaglePackage: SWITCH-SPST-SMD-A</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>39</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: ESP8266  Device: ESP8266</compID>
+		<compID>NOT OOMP  eagleValue: ESP8266  eagleDevice: ESP8266  eaglePackage: QFN32</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>40</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: MCP73831  Device: MCP73831</compID>
+		<compID>NOT OOMP  eagleValue: MCP73831  eagleDevice: MCP73831  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>41</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: AT25SF041-SOIC8  Device: AT25SF041-SOIC8</compID>
+		<compID>NOT OOMP  eagleValue: AT25SF041-SOIC8  eagleDevice: AT25SF041-SOIC8  eaglePackage: SO08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>42</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: AP2112K-3.3V  Device: V_REG_LDOSMD</compID>
+		<compID>NOT OOMP  eagleValue: AP2112K-3.3V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>43</compIndex>
 		<compIden>U5</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: ATECC108-MAHDA</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: ATECC108-MAHDA  eaglePackage: UDFN8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>44</compIndex>
 		<compIden>U6</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: TMP1021:1</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: TMP1021:1  eaglePackage: SOT563-2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>45</compIndex>
 		<compIden>U7</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: TSL2561FN</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: TSL2561FN  eaglePackage: FN-6</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>46</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  Value: 26MHz  Device: CRYSTAL-GROUNDED3.2X2.5</compID>
+		<compID>NOT OOMP  eagleValue: 26MHz  eagleDevice: CRYSTAL-GROUNDED3.2X2.5  eaglePackage: CRYSTAL-SMD-3.2X2.5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

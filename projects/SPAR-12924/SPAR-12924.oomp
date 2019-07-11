@@ -92,21 +92,21 @@ Note: A MicroView OLED Arduino Module is NOT included with this USB Programmer. 
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  Value: 500mA  Device: PTCSMD-W</compID>
+		<compID>NOT OOMP  eagleValue: 500mA  eagleDevice: PTCSMD-W  eaglePackage: PTC-1206-WIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: MICROVIEW-16ND  Device: MICROVIEW-16ND</compID>
+		<compID>NOT OOMP  eagleValue: MICROVIEW-16ND  eagleDevice: MICROVIEW-16ND  eaglePackage: MV-DIP16-NODIMENSION</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: 2N7002PW  Device: MOSFET-NCHANNEL2N7002PW</compID>
+		<compID>NOT OOMP  eagleValue: 2N7002PW  eagleDevice: MOSFET-NCHANNEL2N7002PW  eaglePackage: SOT323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -162,7 +162,7 @@ Note: A MicroView OLED Arduino Module is NOT included with this USB Programmer. 
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: FT231XS  Device: FT231XS</compID>
+		<compID>NOT OOMP  eagleValue: FT231XS  eagleDevice: FT231XS  eaglePackage: SSOP20_L</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

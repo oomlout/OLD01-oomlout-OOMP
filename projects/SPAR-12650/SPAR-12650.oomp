@@ -198,7 +198,7 @@ Note: This product is NOT a medical device and is not intended to be used as suc
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>R18</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: 0OHM1/10W5%(0603)</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: 0OHM1/10W5%(0603)  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -212,14 +212,14 @@ Note: This product is NOT a medical device and is not intended to be used as suc
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>R20</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: 0OHM1/10W5%(0603)</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: 0OHM1/10W5%(0603)  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: AD8232  Device: AD8232</compID>
+		<compID>NOT OOMP  eagleValue: AD8232  eagleDevice: AD8232  eaglePackage: LFCSP_20</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

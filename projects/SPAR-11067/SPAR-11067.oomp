@@ -37,14 +37,14 @@ Not sure which GPS module is right for you? Check out our GPS Buying Guide!
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>L1</compIden>
-		<compID>NOT OOMP  Value: 33nH  Device: INDUCTOR0603</compID>
+		<compID>NOT OOMP  eagleValue: 33nH  eagleDevice: INDUCTOR0603  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: COPERNICUS  Device: COPERNICUSSMD</compID>
+		<compID>NOT OOMP  eagleValue: COPERNICUS  eagleDevice: COPERNICUSSMD  eaglePackage: COPERNICUS</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

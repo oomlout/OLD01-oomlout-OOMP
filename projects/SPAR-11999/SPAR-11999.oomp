@@ -30,14 +30,14 @@ Note: Our RedBot tutorials utilize two of these Mechanical Bumper Sensors. Pleas
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: STANDOFF_ELECTRICAL  Device: STANDOFF_ELECTRICAL</compID>
+		<compID>NOT OOMP  eagleValue: STANDOFF_ELECTRICAL  eagleDevice: STANDOFF_ELECTRICAL  eaglePackage: STANDOFF-ELECTRICAL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value: STANDOFF_ELECTRICAL  Device: STANDOFF_ELECTRICAL</compID>
+		<compID>NOT OOMP  eagleValue: STANDOFF_ELECTRICAL  eagleDevice: STANDOFF_ELECTRICAL  eaglePackage: STANDOFF-ELECTRICAL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

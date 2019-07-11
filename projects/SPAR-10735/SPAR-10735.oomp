@@ -22,14 +22,14 @@ Each Big Easy Driver can drive up to a max of 2A per phase of a bi-polar stepper
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>3/5V</compIden>
-		<compID>NOT OOMP  Value: SOLDERJUMPERNO  Device: SOLDERJUMPERNO</compID>
+		<compID>NOT OOMP  eagleValue: SOLDERJUMPERNO  eagleDevice: SOLDERJUMPERNO  eaglePackage: SJ_2S-NO</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>APWR</compIden>
-		<compID>NOT OOMP  Value: SOLDERJUMPERTRACE  Device: SOLDERJUMPERTRACE</compID>
+		<compID>NOT OOMP  eagleValue: SOLDERJUMPERTRACE  eagleDevice: SOLDERJUMPERTRACE  eaglePackage: SJ_2S-TRACE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -99,28 +99,28 @@ Each Big Easy Driver can drive up to a max of 2A per phase of a bi-polar stepper
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: B340A-13-F  Device: DIODE-DO-214AC</compID>
+		<compID>NOT OOMP  eagleValue: B340A-13-F  eagleDevice: DIODE-DO-214AC  eaglePackage: DO-214AC</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>IC1</compIden>
-		<compID>NOT OOMP  Value: A4988ALT1  Device: A4988ALT1</compID>
+		<compID>NOT OOMP  eagleValue: A4988ALT1  eagleDevice: A4988ALT1  eaglePackage: QFN-28-5MM_ALT1</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>IC2</compIden>
-		<compID>NOT OOMP  Value: LM317L  Device: SPARKFUN03_30_09_V_REG_317SOT89SOT89</compID>
+		<compID>NOT OOMP  eagleValue: LM317L  eagleDevice: SPARKFUN03_30_09_V_REG_317SOT89SOT89  eaglePackage: SCHMALZHAUS_SOT89</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>PWR_LED</compIden>
-		<compID>NOT OOMP  Value: YELLOW  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: YELLOW  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -232,21 +232,21 @@ Each Big Easy Driver can drive up to a max of 2A per phase of a bi-polar stepper
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>R16</compIden>
-		<compID>NOT OOMP  Value: 10K  Device: TRIMPOT3MM-2</compID>
+		<compID>NOT OOMP  eagleValue: 10K  eagleDevice: TRIMPOT3MM-2  eaglePackage: TRIMPOT-3MM-2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>32</compIndex>
 		<compIden>R18</compIden>
-		<compID>NOT OOMP  Value: .11  Device: 0.11OHM1/2W1%(2010)</compID>
+		<compID>NOT OOMP  eagleValue: .11  eagleDevice: 0.11OHM1/2W1%(2010)  eaglePackage: R2010</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>33</compIndex>
 		<compIden>R19</compIden>
-		<compID>NOT OOMP  Value: .11  Device: 0.11OHM1/2W1%(2010)</compID>
+		<compID>NOT OOMP  eagleValue: .11  eagleDevice: 0.11OHM1/2W1%(2010)  eaglePackage: R2010</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

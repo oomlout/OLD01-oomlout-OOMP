@@ -143,21 +143,21 @@ Note: This kit will need to be assembled before use, so a beginner's knowledge o
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>D6</compIden>
-		<compID>NOT OOMP  Value: 1A/23V/620mV  Device: DIODE-SCHOTTKY-BAT20J</compID>
+		<compID>NOT OOMP  eagleValue: 1A/23V/620mV  eagleDevice: DIODE-SCHOTTKY-BAT20J  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  Value: 500mA  Device: PTCSMD</compID>
+		<compID>NOT OOMP  eagleValue: 500mA  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value:   Device: USB-ABCONN-11794</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: USB-ABCONN-11794  eaglePackage: USB-AB-MICRO-SMD_V03</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -178,7 +178,7 @@ Note: This kit will need to be assembled before use, so a beginner's knowledge o
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  Value:   Device: I2C_STANDARD_NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: I2C_STANDARD_NO_SILK  eaglePackage: 1X04_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -192,28 +192,28 @@ Note: This kit will need to be assembled before use, so a beginner's knowledge o
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>J6</compIden>
-		<compID>NOT OOMP  Value:   Device: M021X02_NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: M021X02_NO_SILK  eaglePackage: 1X02_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>J7</compIden>
-		<compID>NOT OOMP  Value: CORTEX_DEBUGPTH  Device: CORTEX_DEBUGPTH</compID>
+		<compID>NOT OOMP  eagleValue: CORTEX_DEBUGPTH  eagleDevice: CORTEX_DEBUGPTH  eaglePackage: 2X5-PTH-1.27MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>L1</compIden>
-		<compID>NOT OOMP  Value: FB - 30 Ohm  Device: INDUCTOR30OHM,1.8A</compID>
+		<compID>NOT OOMP  eagleValue: FB - 30 Ohm  eagleDevice: INDUCTOR30OHM,1.8A  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: 2.5A/30V  Device: MOSFET-PCHANNELDMG2307L</compID>
+		<compID>NOT OOMP  eagleValue: 2.5A/30V  eagleDevice: MOSFET-PCHANNELDMG2307L  eaglePackage: SOT23-3@1</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -276,7 +276,7 @@ Note: This kit will need to be assembled before use, so a beginner's knowledge o
 	<component>
 		<compIndex>37</compIndex>
 		<compIden>R9</compIden>
-		<compID>NOT OOMP  Value: R_PROG  Device: RESISTORPTH-1/4W</compID>
+		<compID>NOT OOMP  eagleValue: R_PROG  eagleDevice: RESISTORPTH-1/4W  eaglePackage: AXIAL-0.4</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -332,119 +332,119 @@ Note: This kit will need to be assembled before use, so a beginner's knowledge o
 	<component>
 		<compIndex>45</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-MOMENTARY-212MM</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-MOMENTARY-212MM  eaglePackage: TACTILE-PTH-12MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>46</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-MOMENTARY-212MM</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-MOMENTARY-212MM  eaglePackage: TACTILE-PTH-12MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>47</compIndex>
 		<compIden>S3</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-MOMENTARY-212MM</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-MOMENTARY-212MM  eaglePackage: TACTILE-PTH-12MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>48</compIndex>
 		<compIden>S4</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-MOMENTARY-212MM</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-MOMENTARY-212MM  eaglePackage: TACTILE-PTH-12MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>49</compIndex>
 		<compIden>S5</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-MOMENTARY-2SIDE_EZ</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-MOMENTARY-2SIDE_EZ  eaglePackage: TACTILE-PTH-SIDEEZ</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>50</compIndex>
 		<compIden>S6</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-MOMENTARY-2SIDE_EZ</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-MOMENTARY-2SIDE_EZ  eaglePackage: TACTILE-PTH-SIDEEZ</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>51</compIndex>
 		<compIden>S7</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH_SPDT</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH_SPDT  eaglePackage: KPS-1290</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>52</compIndex>
 		<compIden>S8</compIden>
-		<compID>NOT OOMP  Value:   Device: MOMENTARY-SWITCH-SPST-SMD-4.6X2.8MM</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: MOMENTARY-SWITCH-SPST-SMD-4.6X2.8MM  eaglePackage: TACTILE_SWITCH_SMD_4.6X2.8MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>53</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: JOYSTICKPTH  Device: JOYSTICKPTH</compID>
+		<compID>NOT OOMP  eagleValue: JOYSTICKPTH  eagleDevice: JOYSTICKPTH  eaglePackage: JOYSTICK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>54</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: JOYSTICKPTH  Device: JOYSTICKPTH</compID>
+		<compID>NOT OOMP  eagleValue: JOYSTICKPTH  eagleDevice: JOYSTICKPTH  eaglePackage: JOYSTICK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>55</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: 74AHC1G125  Device: 74AHC1G125</compID>
+		<compID>NOT OOMP  eagleValue: 74AHC1G125  eagleDevice: 74AHC1G125  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>56</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: AP2112K-3.3V  Device: V_REG_LDOSMD</compID>
+		<compID>NOT OOMP  eagleValue: AP2112K-3.3V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>57</compIndex>
 		<compIden>U5</compIden>
-		<compID>NOT OOMP  Value: XBEE-2B3  Device: XBEE-2B3</compID>
+		<compID>NOT OOMP  eagleValue: XBEE-2B3  eagleDevice: XBEE-2B3  eaglePackage: XBEE-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>58</compIndex>
 		<compIden>U6</compIden>
-		<compID>NOT OOMP  Value: MAX1704X  Device: MAX1704X</compID>
+		<compID>NOT OOMP  eagleValue: MAX1704X  eagleDevice: MAX1704X  eaglePackage: TDFN-8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>59</compIndex>
 		<compIden>U7</compIden>
-		<compID>NOT OOMP  Value: MCP73831  Device: MCP73831</compID>
+		<compID>NOT OOMP  eagleValue: MCP73831  eagleDevice: MCP73831  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>60</compIndex>
 		<compIden>U8</compIden>
-		<compID>NOT OOMP  Value: ATSAMD21G-A  Device: ATSAMD21G-A</compID>
+		<compID>NOT OOMP  eagleValue: ATSAMD21G-A  eagleDevice: ATSAMD21G-A  eaglePackage: TQFP-48</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>61</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  Value: 32.768kHz  Device: CRYSTAL3.2X1.5MM</compID>
+		<compID>NOT OOMP  eagleValue: 32.768kHz  eagleDevice: CRYSTAL3.2X1.5MM  eaglePackage: CRYSTAL-SMD-3.2X1.5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -100,42 +100,42 @@ This shield comes populated with all components as shown in the images and schem
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  Value: BAS16  Device: DIODEBAS16</compID>
+		<compID>NOT OOMP  eagleValue: BAS16  eagleDevice: DIODEBAS16  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>E1</compIden>
-		<compID>NOT OOMP  Value: ANTENNATRACE  Device: ANTENNATRACE</compID>
+		<compID>NOT OOMP  eagleValue: ANTENNATRACE  eagleDevice: ANTENNATRACE  eaglePackage: TRACE_ANTENNA_2.4GHZ_25.7MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>L1</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: INDUCTOR0603</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: INDUCTOR0603  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>L2</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: INDUCTOR0603</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: INDUCTOR0603  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: BSS138  Device: MOSFET-NCHANNELBSS138</compID>
+		<compID>NOT OOMP  eagleValue: BSS138  eagleDevice: MOSFET-NCHANNELBSS138  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  Value: BSS138  Device: MOSFET-NCHANNELBSS138</compID>
+		<compID>NOT OOMP  eagleValue: BSS138  eagleDevice: MOSFET-NCHANNELBSS138  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -212,7 +212,7 @@ This shield comes populated with all components as shown in the images and schem
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>R11</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: RESISTOR0603-RES</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: RESISTOR0603-RES  eaglePackage: 0603-RES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -240,7 +240,7 @@ This shield comes populated with all components as shown in the images and schem
 	<component>
 		<compIndex>32</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: DPDT  Device: SWITCH-DPDTAYZ0202</compID>
+		<compID>NOT OOMP  eagleValue: DPDT  eagleDevice: SWITCH-DPDTAYZ0202  eaglePackage: AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -254,28 +254,28 @@ This shield comes populated with all components as shown in the images and schem
 	<component>
 		<compIndex>34</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: AP2112K-3.3V  Device: V_REG_LDOSMD</compID>
+		<compID>NOT OOMP  eagleValue: AP2112K-3.3V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>35</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: ESP8266  Device: ESP8266</compID>
+		<compID>NOT OOMP  eagleValue: ESP8266  eagleDevice: ESP8266  eaglePackage: QFN32</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>36</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: AT25SF041-SOIC8  Device: AT25SF041-SOIC8</compID>
+		<compID>NOT OOMP  eagleValue: AT25SF041-SOIC8  eagleDevice: AT25SF041-SOIC8  eaglePackage: SO08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>37</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  Value: 26MHz  Device: CRYSTAL-GROUNDED3.2X2.5</compID>
+		<compID>NOT OOMP  eagleValue: 26MHz  eagleDevice: CRYSTAL-GROUNDED3.2X2.5  eaglePackage: CRYSTAL-SMD-3.2X2.5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

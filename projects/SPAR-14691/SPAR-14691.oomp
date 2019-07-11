@@ -103,21 +103,21 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  Value: 1A/23V/620mV  Device: DIODE-SCHOTTKY-BAT20J</compID>
+		<compID>NOT OOMP  eagleValue: 1A/23V/620mV  eagleDevice: DIODE-SCHOTTKY-BAT20J  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_01PTH_NO_SILK_YES_STOP</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value:   Device: I2C_STANDARD_NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: I2C_STANDARD_NO_SILK  eaglePackage: 1X04_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -131,7 +131,7 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  Value: WISECHIP_HUD_FPC  Device: WISECHIP_HUD_FPC</compID>
+		<compID>NOT OOMP  eagleValue: WISECHIP_HUD_FPC  eagleDevice: WISECHIP_HUD_FPC  eaglePackage: SERIES6288</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -145,7 +145,7 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>L1</compIden>
-		<compID>NOT OOMP  Value: 10uH  Device: INDUCTOR-CDRH-10UH</compID>
+		<compID>NOT OOMP  eagleValue: 10uH  eagleDevice: INDUCTOR-CDRH-10UH  eaglePackage: INDUCTOR_4.7UH</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -194,7 +194,7 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: AP3012  Device: AP3012</compID>
+		<compID>NOT OOMP  eagleValue: AP3012  eagleDevice: AP3012  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

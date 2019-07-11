@@ -28,49 +28,49 @@ In addition to the benefit of being controlled via I2C, which frees up data line
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: M02PTH3  Device: M02PTH3</compID>
+		<compID>NOT OOMP  eagleValue: M02PTH3  eagleDevice: M02PTH3  eaglePackage: 1X02_LONGPADS</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value: M023.5MM  Device: M023.5MM</compID>
+		<compID>NOT OOMP  eagleValue: M023.5MM  eagleDevice: M023.5MM  eaglePackage: SCREWTERMINAL-3.5MM-2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  Value: M02PTH3  Device: M02PTH3</compID>
+		<compID>NOT OOMP  eagleValue: M02PTH3  eagleDevice: M02PTH3  eaglePackage: 1X02_LONGPADS</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  Value: M023.5MM  Device: M023.5MM</compID>
+		<compID>NOT OOMP  eagleValue: M023.5MM  eagleDevice: M023.5MM  eaglePackage: SCREWTERMINAL-3.5MM-2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  Value: M02PTH3  Device: M02PTH3</compID>
+		<compID>NOT OOMP  eagleValue: M02PTH3  eagleDevice: M02PTH3  eaglePackage: 1X02_LONGPADS</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>J6</compIden>
-		<compID>NOT OOMP  Value: M023.5MM  Device: M023.5MM</compID>
+		<compID>NOT OOMP  eagleValue: M023.5MM  eagleDevice: M023.5MM  eaglePackage: SCREWTERMINAL-3.5MM-2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>J7</compIden>
-		<compID>NOT OOMP  Value: M04X2  Device: M04X2</compID>
+		<compID>NOT OOMP  eagleValue: M04X2  eagleDevice: M04X2  eaglePackage: 2X4</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -91,7 +91,7 @@ In addition to the benefit of being controlled via I2C, which frees up data line
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>R3</compIden>
-		<compID>NOT OOMP  Value: 0.22  Device: 0.22OHM1/4W1%(0805)</compID>
+		<compID>NOT OOMP  eagleValue: 0.22  eagleDevice: 0.22OHM1/4W1%(0805)  eaglePackage: 0805</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -112,7 +112,7 @@ In addition to the benefit of being controlled via I2C, which frees up data line
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: DRV8830  Device: DRV8830</compID>
+		<compID>NOT OOMP  eagleValue: DRV8830  eagleDevice: DRV8830  eaglePackage: MSOP-10-GNDPAD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

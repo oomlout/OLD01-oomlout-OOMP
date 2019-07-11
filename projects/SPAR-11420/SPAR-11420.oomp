@@ -99,7 +99,7 @@ The MiniGen offers two out put sources for you to utilize: a 2-pin 0.1" spaced h
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value:   Device: U.FL</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: U.FL  eaglePackage: U.FL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -127,7 +127,7 @@ The MiniGen offers two out put sources for you to utilize: a 2-pin 0.1" spaced h
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>R5</compIden>
-		<compID>NOT OOMP  Value: 2.55K  Device: 2.55KOHM-1/10W-1%(0603)</compID>
+		<compID>NOT OOMP  eagleValue: 2.55K  eagleDevice: 2.55KOHM-1/10W-1%(0603)  eaglePackage: 0603-RES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -148,7 +148,7 @@ The MiniGen offers two out put sources for you to utilize: a 2-pin 0.1" spaced h
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>R8</compIden>
-		<compID>NOT OOMP  Value: 787  Device: 787-1%</compID>
+		<compID>NOT OOMP  eagleValue: 787  eagleDevice: 787-1%  eaglePackage: 0603-RES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -169,28 +169,28 @@ The MiniGen offers two out put sources for you to utilize: a 2-pin 0.1" spaced h
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: 16MHz  Device: OSCILLATORXTAL-11225</compID>
+		<compID>NOT OOMP  eagleValue: 16MHz  eagleDevice: OSCILLATORXTAL-11225  eaglePackage: CRYSTAL-SMD-7X5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: 3.3V  Device: MIC52053.3V</compID>
+		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: MIC52053.3V  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: AD9837  Device: AD9837</compID>
+		<compID>NOT OOMP  eagleValue: AD9837  eagleDevice: AD9837  eaglePackage: AD9837</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value:   Device: ADC8045</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: ADC8045  eaglePackage: SO08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

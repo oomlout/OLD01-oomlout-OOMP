@@ -106,7 +106,7 @@ The Photon RedBoard has all of the hardware peripherals you know and love: 8 Dig
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: MBRA140  Device: DIODE-SCHOTTKY-MBRA140</compID>
+		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: DIODE-SCHOTTKY-MBRA140  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -127,7 +127,7 @@ The Photon RedBoard has all of the hardware peripherals you know and love: 8 Dig
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>LED3</compIden>
-		<compID>NOT OOMP  Value: RGB LED  Device: LED-TRICOLOR-NO-COMPLCC-6-SMD</compID>
+		<compID>NOT OOMP  eagleValue: RGB LED  eagleDevice: LED-TRICOLOR-NO-COMPLCC-6-SMD  eaglePackage: PLCC-6-LED</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -204,28 +204,28 @@ The Photon RedBoard has all of the hardware peripherals you know and love: 8 Dig
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: RESET  Device: SWITCH-MOMENTARY-2PTH</compID>
+		<compID>NOT OOMP  eagleValue: RESET  eagleDevice: SWITCH-MOMENTARY-2PTH  eaglePackage: TACTILE-PTH</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value: MODE  Device: SWITCH-MOMENTARY-2PTH</compID>
+		<compID>NOT OOMP  eagleValue: MODE  eagleDevice: SWITCH-MOMENTARY-2PTH  eaglePackage: TACTILE-PTH</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: WM-N-BM-14  Device: WM-N-BM-14</compID>
+		<compID>NOT OOMP  eagleValue: WM-N-BM-14  eagleDevice: WM-N-BM-14  eaglePackage: WM-N-BM-14</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value:   Device: V_REG_LM1117SOT223</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: V_REG_LM1117SOT223  eaglePackage: SOT223</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

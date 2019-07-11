@@ -92,112 +92,112 @@
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>IC1</compIden>
-		<compID>NOT OOMP  Value: PIC24FJ64GA002  Device: PIC24FJ64GA002</compID>
+		<compID>NOT OOMP  eagleValue: PIC24FJ64GA002  eagleDevice: PIC24FJ64GA002  eaglePackage: SSOP28</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>IC2</compIden>
-		<compID>NOT OOMP  Value: FT232RL  Device: FT232RL</compID>
+		<compID>NOT OOMP  eagleValue: FT232RL  eagleDevice: FT232RL  eaglePackage: SSOP28</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>IC3</compIden>
-		<compID>NOT OOMP  Value: 4066  Device: 4066</compID>
+		<compID>NOT OOMP  eagleValue: 4066  eagleDevice: 4066  eaglePackage: TSSOP14</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>ICSP</compIden>
-		<compID>NOT OOMP  Value:   Device: PINHD-1X5</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PINHD-1X5  eaglePackage: 1X05</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>IO</compIden>
-		<compID>NOT OOMP  Value: CON_HEADER_2X05-PTH+SHROUDED_B  Device: CON_HEADER_2X05-PTH+SHROUDED_B</compID>
+		<compID>NOT OOMP  eagleValue: CON_HEADER_2X05-PTH+SHROUDED_B  eagleDevice: CON_HEADER_2X05-PTH+SHROUDED_B  eaglePackage: PINSHRD_PTH_2X05B</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: CON-USB-MINI-BUSB1  Device: CON-USB-MINI-BUSB1</compID>
+		<compID>NOT OOMP  eagleValue: CON-USB-MINI-BUSB1  eagleDevice: CON-USB-MINI-BUSB1  eaglePackage: CONN_USB_MINI-B</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>L1</compIden>
-		<compID>NOT OOMP  Value: 700mA+ ferrite  Device: WE-KIL_0805</compID>
+		<compID>NOT OOMP  eagleValue: 700mA+ ferrite  eagleDevice: WE-KIL_0805  eaglePackage: WE-KI_0805_B</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value:   Device: LEDCHIP-LED0805</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LEDCHIP-LED0805  eaglePackage: CHIP-LED0805</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>LED1A</compIden>
-		<compID>NOT OOMP  Value:   Device: LEDCHIP-LED0805</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LEDCHIP-LED0805  eaglePackage: CHIP-LED0805</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  Value:   Device: LEDCHIP-LED0805</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LEDCHIP-LED0805  eaglePackage: CHIP-LED0805</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>LED2A</compIden>
-		<compID>NOT OOMP  Value:   Device: LEDCHIP-LED0805</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LEDCHIP-LED0805  eaglePackage: CHIP-LED0805</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>LED3</compIden>
-		<compID>NOT OOMP  Value:   Device: LEDCHIP-LED0805</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LEDCHIP-LED0805  eaglePackage: CHIP-LED0805</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>LED3A</compIden>
-		<compID>NOT OOMP  Value:   Device: LEDCHIP-LED0805</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LEDCHIP-LED0805  eaglePackage: CHIP-LED0805</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>LED4</compIden>
-		<compID>NOT OOMP  Value:   Device: LEDCHIP-LED0805</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LEDCHIP-LED0805  eaglePackage: CHIP-LED0805</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>LED4A</compIden>
-		<compID>NOT OOMP  Value:   Device: LEDCHIP-LED0805</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LEDCHIP-LED0805  eaglePackage: CHIP-LED0805</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>PCB1</compIden>
-		<compID>NOT OOMP  Value: PCB_DP_RECTANGLE-37X60  Device: PCB_DP_RECTANGLE-37X60</compID>
+		<compID>NOT OOMP  eagleValue: PCB_DP_RECTANGLE-37X60  eagleDevice: PCB_DP_RECTANGLE-37X60  eaglePackage: DP6037_V1</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -246,42 +246,42 @@
 	<component>
 		<compIndex>34</compIndex>
 		<compIden>RN1</compIden>
-		<compID>NOT OOMP  Value: 10k  Device: RNETWORK</compID>
+		<compID>NOT OOMP  eagleValue: 10k  eagleDevice: RNETWORK  eaglePackage: RN8P-4R-CRA06S</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>35</compIndex>
 		<compIden>RN2</compIden>
-		<compID>NOT OOMP  Value: 10k  Device: RNETWORK</compID>
+		<compID>NOT OOMP  eagleValue: 10k  eagleDevice: RNETWORK  eaglePackage: RN8P-4R-CRA06S</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>36</compIndex>
 		<compIden>RN3</compIden>
-		<compID>NOT OOMP  Value: 10k  Device: RNETWORK</compID>
+		<compID>NOT OOMP  eagleValue: 10k  eagleDevice: RNETWORK  eaglePackage: RN8P-4R-CRA06S</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>37</compIndex>
 		<compIden>VR1</compIden>
-		<compID>NOT OOMP  Value: MCP1801T-3302I/OT  Device: MIC5205</compID>
+		<compID>NOT OOMP  eagleValue: MCP1801T-3302I/OT  eagleDevice: MIC5205  eaglePackage: SOT-23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>38</compIndex>
 		<compIden>VR2</compIden>
-		<compID>NOT OOMP  Value: MCP1801T-3302I/OT  Device: MIC5205</compID>
+		<compID>NOT OOMP  eagleValue: MCP1801T-3302I/OT  eagleDevice: MIC5205  eaglePackage: SOT-23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>39</compIndex>
 		<compIden>VR3</compIden>
-		<compID>NOT OOMP  Value: MCP1801T-5002I/OT  Device: MIC5205</compID>
+		<compID>NOT OOMP  eagleValue: MCP1801T-5002I/OT  eagleDevice: MIC5205  eaglePackage: SOT-23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

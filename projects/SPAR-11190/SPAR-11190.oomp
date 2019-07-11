@@ -23,14 +23,14 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>+</compIden>
-		<compID>NOT OOMP  Value: SEWTAP9  Device: SEWTAP9</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP9  eagleDevice: SEWTAP9  eaglePackage: PETAL-LONG-1-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>-</compIden>
-		<compID>NOT OOMP  Value: SEWTAP9  Device: SEWTAP9</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP9  eagleDevice: SEWTAP9  eaglePackage: PETAL-LONG-1-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -93,42 +93,42 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: B340A  Device: DIODE-SCHOTTKY_</compID>
+		<compID>NOT OOMP  eagleValue: B340A  eagleDevice: DIODE-SCHOTTKY_  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>D5</compIden>
-		<compID>NOT OOMP  Value: SEWTAP9  Device: SEWTAP9</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP9  eagleDevice: SEWTAP9  eaglePackage: PETAL-LONG-1-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>D6</compIden>
-		<compID>NOT OOMP  Value: SEWTAP9  Device: SEWTAP9</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP9  eagleDevice: SEWTAP9  eaglePackage: PETAL-LONG-1-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>D9</compIden>
-		<compID>NOT OOMP  Value: SEWTAP9  Device: SEWTAP9</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP9  eagleDevice: SEWTAP9  eaglePackage: PETAL-LONG-1-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>D10</compIden>
-		<compID>NOT OOMP  Value: SEWTAP9  Device: SEWTAP9</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP9  eagleDevice: SEWTAP9  eaglePackage: PETAL-LONG-1-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>D11</compIden>
-		<compID>NOT OOMP  Value: SEWTAP9  Device: SEWTAP9</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP9  eagleDevice: SEWTAP9  eaglePackage: PETAL-LONG-1-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -219,7 +219,7 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: SWITCH-DPDTSMD  Device: SWITCH-DPDTSMD</compID>
+		<compID>NOT OOMP  eagleValue: SWITCH-DPDTSMD  eagleDevice: SWITCH-DPDTSMD  eaglePackage: AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -233,14 +233,14 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: MCP73831  Device: MCP73831</compID>
+		<compID>NOT OOMP  eagleValue: MCP73831  eagleDevice: MCP73831  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>32</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: MIC5219  Device: V_REG_MIC5219SMD</compID>
+		<compID>NOT OOMP  eagleValue: MIC5219  eagleDevice: V_REG_MIC5219SMD  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -254,14 +254,14 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 	<component>
 		<compIndex>34</compIndex>
 		<compIden>X1</compIden>
-		<compID>NOT OOMP  Value: USB-MICROB  Device: USB-MICROB</compID>
+		<compID>NOT OOMP  eagleValue: USB-MICROB  eagleDevice: USB-MICROB  eaglePackage: USB-MICROB</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>35</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  Value: 8MHz  Device: RESONATORSMD</compID>
+		<compID>NOT OOMP  eagleValue: 8MHz  eagleDevice: RESONATORSMD  eaglePackage: RESONATOR-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

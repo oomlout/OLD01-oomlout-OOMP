@@ -36,7 +36,7 @@ The SparkFun I2S Audio Breakout board is fairly simple, requiring only a few pin
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>IC1</compIden>
-		<compID>NOT OOMP  Value: MAX98357A  Device: MAX98357A</compID>
+		<compID>NOT OOMP  eagleValue: MAX98357A  eagleDevice: MAX98357A  eaglePackage: TQFN-16</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -50,7 +50,7 @@ The SparkFun I2S Audio Breakout board is fairly simple, requiring only a few pin
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_07NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_07NO_SILK  eaglePackage: 1X07_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

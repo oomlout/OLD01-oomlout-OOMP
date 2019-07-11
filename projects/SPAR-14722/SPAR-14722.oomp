@@ -47,14 +47,14 @@ Note: CLASS 1 LASER PRODUCT CLASSIFIED IEC 60825-1 2014.
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>I2C</compIden>
-		<compID>NOT OOMP  Value:   Device: JUMPER-SMT_3_2-NC_TRACE_SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: JUMPER-SMT_3_2-NC_TRACE_SILK  eaglePackage: SMT-JUMPER_3_2-NC_TRACE_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_01PTH_NO_SILK_YES_STOP</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -68,7 +68,7 @@ Note: CLASS 1 LASER PRODUCT CLASSIFIED IEC 60825-1 2014.
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  Value: PTH  Device: I2C_STANDARD_NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue: PTH  eagleDevice: I2C_STANDARD_NO_SILK  eaglePackage: 1X04_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -82,7 +82,7 @@ Note: CLASS 1 LASER PRODUCT CLASSIFIED IEC 60825-1 2014.
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_01PTH_NO_SILK_YES_STOP</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -124,7 +124,7 @@ Note: CLASS 1 LASER PRODUCT CLASSIFIED IEC 60825-1 2014.
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: VL53L1X  Device: VL53L1XSMD</compID>
+		<compID>NOT OOMP  eagleValue: VL53L1X  eagleDevice: VL53L1XSMD  eaglePackage: VL53L1X</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

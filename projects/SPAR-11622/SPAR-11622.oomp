@@ -78,14 +78,14 @@ Check out the entire RedBot family of products!
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value:   Device: B340A</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: B340A  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  Value:   Device: B340A</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: B340A  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -120,21 +120,21 @@ Check out the entire RedBot family of products!
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  Value: PTCSMD  Device: PTCSMD</compID>
+		<compID>NOT OOMP  eagleValue: PTCSMD  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>MOD1</compIden>
-		<compID>NOT OOMP  Value: XBEE-1B3  Device: XBEE-1B3</compID>
+		<compID>NOT OOMP  eagleValue: XBEE-1B3  eagleDevice: XBEE-1B3  eaglePackage: XBEE-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value:   Device: IRF7509</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: IRF7509  eaglePackage: MSOP8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -232,21 +232,21 @@ Check out the entire RedBot family of products!
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: DPDT  Device: SWITCH-DPDTAYZ0202</compID>
+		<compID>NOT OOMP  eagleValue: DPDT  eagleDevice: SWITCH-DPDTAYZ0202  eaglePackage: AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>32</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value: DPDT  Device: SWITCH-DPDTAYZ0202</compID>
+		<compID>NOT OOMP  eagleValue: DPDT  eagleDevice: SWITCH-DPDTAYZ0202  eaglePackage: AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>33</compIndex>
 		<compIden>S3</compIden>
-		<compID>NOT OOMP  Value: DPDT  Device: SWITCH-DPDTAYZ0202</compID>
+		<compID>NOT OOMP  eagleValue: DPDT  eagleDevice: SWITCH-DPDTAYZ0202  eaglePackage: AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -267,7 +267,7 @@ Check out the entire RedBot family of products!
 	<component>
 		<compIndex>36</compIndex>
 		<compIden>SFE-LOGO1</compIden>
-		<compID>NOT OOMP  Value: LOGO-SFENEW  Device: LOGO-SFENEW</compID>
+		<compID>NOT OOMP  eagleValue: LOGO-SFENEW  eagleDevice: LOGO-SFENEW  eaglePackage: SFE-NEW-WEBLOGO</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -281,21 +281,21 @@ Check out the entire RedBot family of products!
 	<component>
 		<compIndex>38</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: TB6612FNG  Device: TB6621FNG</compID>
+		<compID>NOT OOMP  eagleValue: TB6612FNG  eagleDevice: TB6621FNG  eaglePackage: SSOP24</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>39</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: MIC5219 5V  Device: V_REG_MIC52195V</compID>
+		<compID>NOT OOMP  eagleValue: MIC5219 5V  eagleDevice: V_REG_MIC52195V  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>40</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: MIC5219 3.3V  Device: V_REG_MIC52193.3V</compID>
+		<compID>NOT OOMP  eagleValue: MIC5219 3.3V  eagleDevice: V_REG_MIC52193.3V  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -309,14 +309,14 @@ Check out the entire RedBot family of products!
 	<component>
 		<compIndex>42</compIndex>
 		<compIden>U6</compIden>
-		<compID>NOT OOMP  Value: 7408SE  Device: 7408SE</compID>
+		<compID>NOT OOMP  eagleValue: 7408SE  eagleDevice: 7408SE  eaglePackage: SOT353</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>43</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  Value: 16MHz  Device: RESONATOR16MHZ</compID>
+		<compID>NOT OOMP  eagleValue: 16MHz  eagleDevice: RESONATOR16MHZ  eaglePackage: RESONATOR-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -86,28 +86,28 @@ Not sure which Arduino or Arduino-compatible board is right for you? Check out o
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  Value: PTCSMD  Device: PTCSMD</compID>
+		<compID>NOT OOMP  eagleValue: PTCSMD  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: ISP  Device: AVR_SPI_PRG_6PTH</compID>
+		<compID>NOT OOMP  eagleValue: ISP  eagleDevice: AVR_SPI_PRG_6PTH  eaglePackage: 2X3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: yellow  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: yellow  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  Value: green  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: green  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -149,28 +149,28 @@ Not sure which Arduino or Arduino-compatible board is right for you? Check out o
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: SWITCH-MOMENTARY-2SMD  Device: SWITCH-MOMENTARY-2SMD</compID>
+		<compID>NOT OOMP  eagleValue: SWITCH-MOMENTARY-2SMD  eagleDevice: SWITCH-MOMENTARY-2SMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: ATMEGA2560AU  Device: ATMEGA2560AU</compID>
+		<compID>NOT OOMP  eagleValue: ATMEGA2560AU  eagleDevice: ATMEGA2560AU  eaglePackage: TQFP100</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: V_REG_3.3V  Device: V_REG_LDOSMD</compID>
+		<compID>NOT OOMP  eagleValue: V_REG_3.3V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  Value: RESONATORSMD  Device: RESONATORSMD</compID>
+		<compID>NOT OOMP  eagleValue: RESONATORSMD  eagleDevice: RESONATORSMD  eaglePackage: RESONATOR-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -23,14 +23,14 @@ Each Proto Pedal comes as an easy-to-assemble PTH soldering kit, and it’s up to 
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>C1</compIden>
-		<compID>NOT OOMP  Value: C in  Device: DUAL_FOOTPRINT_CAP</compID>
+		<compID>NOT OOMP  eagleValue: C in  eagleDevice: DUAL_FOOTPRINT_CAP  eaglePackage: DUAL-CAP</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>C2</compIden>
-		<compID>NOT OOMP  Value: C out  Device: DUAL_FOOTPRINT_CAP</compID>
+		<compID>NOT OOMP  eagleValue: C out  eagleDevice: DUAL_FOOTPRINT_CAP  eaglePackage: DUAL-CAP</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -44,7 +44,7 @@ Each Proto Pedal comes as an easy-to-assemble PTH soldering kit, and it’s up to 
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: 2.5A/30V  Device: MOSFET-PCHANNELDMG2307L</compID>
+		<compID>NOT OOMP  eagleValue: 2.5A/30V  eagleDevice: MOSFET-PCHANNELDMG2307L  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -72,7 +72,7 @@ Each Proto Pedal comes as an easy-to-assemble PTH soldering kit, and it’s up to 
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>R4</compIden>
-		<compID>NOT OOMP  Value: BRT  Device: RESISTORAXIAL-0.3</compID>
+		<compID>NOT OOMP  eagleValue: BRT  eagleDevice: RESISTORAXIAL-0.3  eaglePackage: AXIAL-0.3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -86,7 +86,7 @@ Each Proto Pedal comes as an easy-to-assemble PTH soldering kit, and it’s up to 
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: SWITCH-3PDT  Device: SWITCH-3PDT</compID>
+		<compID>NOT OOMP  eagleValue: SWITCH-3PDT  eagleDevice: SWITCH-3PDT  eaglePackage: STOMP-SWITCH-3PDT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

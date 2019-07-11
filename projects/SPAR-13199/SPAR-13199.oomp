@@ -23,7 +23,7 @@ The shield also includes the footprint for a 12mm coin cell battery holder to pr
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>BAT1</compIden>
-		<compID>NOT OOMP  Value: 12mm  Device: BATTERY12MM</compID>
+		<compID>NOT OOMP  eagleValue: 12mm  eagleDevice: BATTERY12MM  eaglePackage: BATTCON_12MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -72,14 +72,14 @@ The shield also includes the footprint for a 12mm coin cell battery holder to pr
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: ARDUINO_R3_SHIELD  Device: ARDUINO_R3_SHIELD_ICSP-NO_LABELS</compID>
+		<compID>NOT OOMP  eagleValue: ARDUINO_R3_SHIELD  eagleDevice: ARDUINO_R3_SHIELD_ICSP-NO_LABELS  eaglePackage: UNO_R3_SHIELD_ICSP_NOLABELS</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value: USD_CONNECTOR  Device: USD_CONNECTOR</compID>
+		<compID>NOT OOMP  eagleValue: USD_CONNECTOR  eagleDevice: USD_CONNECTOR  eaglePackage: MICRO-SD-SOCKET-PP</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -121,28 +121,28 @@ The shield also includes the footprint for a 12mm coin cell battery holder to pr
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value: DPDT  Device: SWITCH-DPDTAYZ0202</compID>
+		<compID>NOT OOMP  eagleValue: DPDT  eagleDevice: SWITCH-DPDTAYZ0202  eaglePackage: AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: APK2112-3.3V  Device: V_REG_AP2112K-3.3V</compID>
+		<compID>NOT OOMP  eagleValue: APK2112-3.3V  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: GP3906-TLP  Device: GP3906-TLP</compID>
+		<compID>NOT OOMP  eagleValue: GP3906-TLP  eagleDevice: GP3906-TLP  eaglePackage: GP3906-TLP</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: TXB0108  Device: TXB0108</compID>
+		<compID>NOT OOMP  eagleValue: TXB0108  eagleDevice: TXB0108  eaglePackage: UFDFN-20</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

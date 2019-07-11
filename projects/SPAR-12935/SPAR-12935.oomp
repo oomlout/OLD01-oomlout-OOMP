@@ -64,7 +64,7 @@ The SmartBasic uses the venerable FT232RL chip used on the original FTDI Basic b
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>CLIENT</compIden>
-		<compID>NOT OOMP  Value:   Device: FTDI_BASICPTH</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: FTDI_BASICPTH  eaglePackage: FTDI_BASIC</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -92,7 +92,7 @@ The SmartBasic uses the venerable FT232RL chip used on the original FTDI Basic b
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>HOST</compIden>
-		<compID>NOT OOMP  Value:   Device: FTDI_DEVICE</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: FTDI_DEVICE  eaglePackage: FTDI_DEVICE_SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -141,14 +141,14 @@ The SmartBasic uses the venerable FT232RL chip used on the original FTDI Basic b
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: MIC5219 3.3V  Device: V_REG_MIC52193.3V</compID>
+		<compID>NOT OOMP  eagleValue: MIC5219 3.3V  eagleDevice: V_REG_MIC52193.3V  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: TS3USB221A  Device: TS3USB221A</compID>
+		<compID>NOT OOMP  eagleValue: TS3USB221A  eagleDevice: TS3USB221A  eaglePackage: QFN-10-RSE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

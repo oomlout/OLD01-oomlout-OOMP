@@ -72,7 +72,7 @@ With the SparkFun Noisy Cricket Amplifier, you will be provided with a board tha
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>POT1</compIden>
-		<compID>NOT OOMP  Value: 20k  Device: POTENTIOMETER_DUAL_W/SWITCH</compID>
+		<compID>NOT OOMP  eagleValue: 20k  eagleDevice: POTENTIOMETER_DUAL_W/SWITCH  eaglePackage: POT-DUAL-SWITCH-PTH</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -121,21 +121,21 @@ With the SparkFun Noisy Cricket Amplifier, you will be provided with a board tha
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>R7</compIden>
-		<compID>NOT OOMP  Value:    Device: RESISTORAXIAL-0.3-KIT</compID>
+		<compID>NOT OOMP  eagleValue:    eagleDevice: RESISTORAXIAL-0.3-KIT  eaglePackage: AXIAL-0.3-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>R8</compIden>
-		<compID>NOT OOMP  Value:    Device: RESISTORAXIAL-0.3-KIT</compID>
+		<compID>NOT OOMP  eagleValue:    eagleDevice: RESISTORAXIAL-0.3-KIT  eaglePackage: AXIAL-0.3-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: LM4853  Device: LM4853</compID>
+		<compID>NOT OOMP  eagleValue: LM4853  eagleDevice: LM4853  eaglePackage: TFSOP-10</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

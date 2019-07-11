@@ -22,35 +22,35 @@ The N-Channel MOSFET used in this design is rated for up to 30V and 6.5A althoug
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>BH1</compIden>
-		<compID>NOT OOMP  Value: TRIG+  Device: BUTTONHOLELARGE</compID>
+		<compID>NOT OOMP  eagleValue: TRIG+  eagleDevice: BUTTONHOLELARGE  eaglePackage: BUTTONHOLE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>BH2</compIden>
-		<compID>NOT OOMP  Value: TRIG-  Device: BUTTONHOLELARGE</compID>
+		<compID>NOT OOMP  eagleValue: TRIG-  eagleDevice: BUTTONHOLELARGE  eaglePackage: BUTTONHOLE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>BH3</compIden>
-		<compID>NOT OOMP  Value: OUT+  Device: BUTTONHOLELARGE</compID>
+		<compID>NOT OOMP  eagleValue: OUT+  eagleDevice: BUTTONHOLELARGE  eaglePackage: BUTTONHOLE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>BH4</compIden>
-		<compID>NOT OOMP  Value: OUT-  Device: BUTTONHOLELARGE</compID>
+		<compID>NOT OOMP  eagleValue: OUT-  eagleDevice: BUTTONHOLELARGE  eaglePackage: BUTTONHOLE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: FDS6630A  Device: MOSFET-NCHANNELFDS6630A</compID>
+		<compID>NOT OOMP  eagleValue: FDS6630A  eagleDevice: MOSFET-NCHANNELFDS6630A  eaglePackage: SO08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -519,14 +519,14 @@ Note: This kit does NOT come with a power cable to connect the power supply to y
 	<component>
 		<compIndex>72</compIndex>
 		<compIden>D16</compIden>
-		<compID>NOT OOMP  Value: MBRA140  Device: DIODE-SCHOTTKY-MBRA140</compID>
+		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: DIODE-SCHOTTKY-MBRA140  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>73</compIndex>
 		<compIden>D17</compIden>
-		<compID>NOT OOMP  Value: MBRA140  Device: DIODE-SCHOTTKY-MBRA140</compID>
+		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: DIODE-SCHOTTKY-MBRA140  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -540,56 +540,56 @@ Note: This kit does NOT come with a power cable to connect the power supply to y
 	<component>
 		<compIndex>75</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  Value: PTCSMD  Device: PTCSMD</compID>
+		<compID>NOT OOMP  eagleValue: PTCSMD  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>76</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: AVR ISP  Device: AVR_SPI_PRG_6PTH</compID>
+		<compID>NOT OOMP  eagleValue: AVR ISP  eagleDevice: AVR_SPI_PRG_6PTH  eaglePackage: 2X3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>77</compIndex>
 		<compIden>L1</compIden>
-		<compID>NOT OOMP  Value: 27uH  Device: INDUCTORSDR13-7-270ML</compID>
+		<compID>NOT OOMP  eagleValue: 27uH  eagleDevice: INDUCTORSDR13-7-270ML  eaglePackage: INDUCTOR_SDR1307</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>78</compIndex>
 		<compIden>POT1</compIden>
-		<compID>NOT OOMP  Value: 10K_LINEAR_POT_SMD  Device: 10K_LINEAR_POT_SMD</compID>
+		<compID>NOT OOMP  eagleValue: 10K_LINEAR_POT_SMD  eagleDevice: 10K_LINEAR_POT_SMD  eaglePackage: TC33X</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>79</compIndex>
 		<compIden>POT2</compIden>
-		<compID>NOT OOMP  Value: 10K_LINEAR_POT_SMD  Device: 10K_LINEAR_POT_SMD</compID>
+		<compID>NOT OOMP  eagleValue: 10K_LINEAR_POT_SMD  eagleDevice: 10K_LINEAR_POT_SMD  eaglePackage: TC33X</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>80</compIndex>
 		<compIden>POT3</compIden>
-		<compID>NOT OOMP  Value: 10K_LINEAR_POT_SMD  Device: 10K_LINEAR_POT_SMD</compID>
+		<compID>NOT OOMP  eagleValue: 10K_LINEAR_POT_SMD  eagleDevice: 10K_LINEAR_POT_SMD  eaglePackage: TC33X</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>81</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: 16MHZ  Device: RESONATOR16MHZ</compID>
+		<compID>NOT OOMP  eagleValue: 16MHZ  eagleDevice: RESONATOR16MHZ  eaglePackage: RESONATOR-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>82</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  Value: 100A/100V  Device: MOSFET-NCHANNELPSMN7R0</compID>
+		<compID>NOT OOMP  eagleValue: 100A/100V  eagleDevice: MOSFET-NCHANNELPSMN7R0  eaglePackage: TO-263/D2PAK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -960,21 +960,21 @@ Note: This kit does NOT come with a power cable to connect the power supply to y
 	<component>
 		<compIndex>135</compIndex>
 		<compIden>R53</compIden>
-		<compID>NOT OOMP  Value: 9.76K  Device: 9.76KOHM-1/10W-1%(0603)</compID>
+		<compID>NOT OOMP  eagleValue: 9.76K  eagleDevice: 9.76KOHM-1/10W-1%(0603)  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>136</compIndex>
 		<compIden>R54</compIden>
-		<compID>NOT OOMP  Value: 50.0m  Device: 0.05OHM-1/5W-1%(0603)</compID>
+		<compID>NOT OOMP  eagleValue: 50.0m  eagleDevice: 0.05OHM-1/5W-1%(0603)  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>137</compIndex>
 		<compIden>R55</compIden>
-		<compID>NOT OOMP  Value: 348K  Device: 348KOHM-1/10W-1%(0603)</compID>
+		<compID>NOT OOMP  eagleValue: 348K  eagleDevice: 348KOHM-1/10W-1%(0603)  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -1002,21 +1002,21 @@ Note: This kit does NOT come with a power cable to connect the power supply to y
 	<component>
 		<compIndex>141</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: 2-POS-DIPCTS-THRU-HOLE  Device: 2-POS-DIPCTS-THRU-HOLE</compID>
+		<compID>NOT OOMP  eagleValue: 2-POS-DIPCTS-THRU-HOLE  eagleDevice: 2-POS-DIPCTS-THRU-HOLE  eaglePackage: 209-2LPST</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>142</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value: 2-POS-DIPCTS-THRU-HOLE  Device: 2-POS-DIPCTS-THRU-HOLE</compID>
+		<compID>NOT OOMP  eagleValue: 2-POS-DIPCTS-THRU-HOLE  eagleDevice: 2-POS-DIPCTS-THRU-HOLE  eaglePackage: 209-2LPST</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>143</compIndex>
 		<compIden>S3</compIden>
-		<compID>NOT OOMP  Value: 2-POS-DIPCTS-THRU-HOLE  Device: 2-POS-DIPCTS-THRU-HOLE</compID>
+		<compID>NOT OOMP  eagleValue: 2-POS-DIPCTS-THRU-HOLE  eagleDevice: 2-POS-DIPCTS-THRU-HOLE  eaglePackage: 209-2LPST</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -1030,7 +1030,7 @@ Note: This kit does NOT come with a power cable to connect the power supply to y
 	<component>
 		<compIndex>145</compIndex>
 		<compIden>S5</compIden>
-		<compID>NOT OOMP  Value: DPDT  Device: SWITCH-DPDTAYZ0202</compID>
+		<compID>NOT OOMP  eagleValue: DPDT  eagleDevice: SWITCH-DPDTAYZ0202  eaglePackage: AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -1051,56 +1051,56 @@ Note: This kit does NOT come with a power cable to connect the power supply to y
 	<component>
 		<compIndex>148</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: 74LVC1G04  Device: INVERTER_SOT353-5</compID>
+		<compID>NOT OOMP  eagleValue: 74LVC1G04  eagleDevice: INVERTER_SOT353-5  eaglePackage: SOT353</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>149</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: LM25011  Device: LM25011</compID>
+		<compID>NOT OOMP  eagleValue: LM25011  eagleDevice: LM25011  eaglePackage: HVSS0P-10</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>150</compIndex>
 		<compIden>U5</compIden>
-		<compID>NOT OOMP  Value: DRV8811  Device: DRV8811</compID>
+		<compID>NOT OOMP  eagleValue: DRV8811  eagleDevice: DRV8811  eaglePackage: HTSSOP28</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>151</compIndex>
 		<compIden>U6</compIden>
-		<compID>NOT OOMP  Value: 74HC7014D  Device: 74HC7014D</compID>
+		<compID>NOT OOMP  eagleValue: 74HC7014D  eagleDevice: 74HC7014D  eaglePackage: SOIC-14</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>152</compIndex>
 		<compIden>U7</compIden>
-		<compID>NOT OOMP  Value: 7432SE  Device: 7432SE</compID>
+		<compID>NOT OOMP  eagleValue: 7432SE  eagleDevice: 7432SE  eaglePackage: SOT353</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>153</compIndex>
 		<compIden>U8</compIden>
-		<compID>NOT OOMP  Value: DRV8811  Device: DRV8811</compID>
+		<compID>NOT OOMP  eagleValue: DRV8811  eagleDevice: DRV8811  eaglePackage: HTSSOP28</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>154</compIndex>
 		<compIden>U9</compIden>
-		<compID>NOT OOMP  Value: DRV8811  Device: DRV8811</compID>
+		<compID>NOT OOMP  eagleValue: DRV8811  eagleDevice: DRV8811  eaglePackage: HTSSOP28</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>155</compIndex>
 		<compIden>U10</compIden>
-		<compID>NOT OOMP  Value: +12v  Device: V_REG_78XX7812</compID>
+		<compID>NOT OOMP  eagleValue: +12v  eagleDevice: V_REG_78XX7812  eaglePackage: TO-252</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

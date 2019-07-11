@@ -157,42 +157,42 @@ Note: Speakers are required for the Papa Soundie, not headphones. Headphones won
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: Audio Jack  Device: AUDIO-JACKSMD2</compID>
+		<compID>NOT OOMP  eagleValue: Audio Jack  eagleDevice: AUDIO-JACKSMD2  eaglePackage: AUDIO-JACK-3.5MM-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value: MICRO-SD_CARD_SOCKET  Device: MICRO-SD_CARD_SOCKET</compID>
+		<compID>NOT OOMP  eagleValue: MICRO-SD_CARD_SOCKET  eagleDevice: MICRO-SD_CARD_SOCKET  eaglePackage: MICRO-SD-SOCKET</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_02</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_02  eaglePackage: 1X02</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  Value:   Device: 6_PIN_SERIAL_TARGETSILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: 6_PIN_SERIAL_TARGETSILK  eaglePackage: 6_PIN_SERIAL_TARGET_SIDE_W_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_02</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_02  eaglePackage: 1X02</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>J6</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_05</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_05  eaglePackage: 1X05</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -206,35 +206,35 @@ Note: Speakers are required for the Papa Soundie, not headphones. Headphones won
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>J8</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_02</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_02  eaglePackage: 1X02</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>J9</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_02</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_02  eaglePackage: 1X02</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>J10</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_02</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_02  eaglePackage: 1X02</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>J11</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_02</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_02  eaglePackage: 1X02</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>J12</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_01</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01  eaglePackage: 1X01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -465,35 +465,35 @@ Note: Speakers are required for the Papa Soundie, not headphones. Headphones won
 	<component>
 		<compIndex>64</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: VS1000D  Device: VS1000</compID>
+		<compID>NOT OOMP  eagleValue: VS1000D  eagleDevice: VS1000  eaglePackage: LQFP-48</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>65</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: 3.3V  Device: V_REG_AP2112K-3.3V</compID>
+		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>66</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: 4MB Flash  Device: AT25SF041</compID>
+		<compID>NOT OOMP  eagleValue: 4MB Flash  eagleDevice: AT25SF041  eaglePackage: SO08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>67</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  Value: 12MHz  Device: CRYSTALCRYSTAL-SMD-5X3-12MHZ</compID>
+		<compID>NOT OOMP  eagleValue: 12MHz  eagleDevice: CRYSTALCRYSTAL-SMD-5X3-12MHZ  eaglePackage: CRYSTAL-SMD-5X3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>68</compIndex>
 		<compIden>Y2</compIden>
-		<compID>NOT OOMP  Value: 8MHz  Device: RESONATOR-8MHZSMD_3.2X1.3</compID>
+		<compID>NOT OOMP  eagleValue: 8MHz  eagleDevice: RESONATOR-8MHZSMD_3.2X1.3  eaglePackage: RESONATOR-SMD-3.2X1.3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

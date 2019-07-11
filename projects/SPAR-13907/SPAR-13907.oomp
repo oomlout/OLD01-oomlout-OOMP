@@ -205,7 +205,7 @@ The SparkFun ESP32 Thing equips the ESP32 with everything necessary to program, 
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>C27</compIden>
-		<compID>NOT OOMP  Value: 3.0nF  Device: 3.0NF-0603-50V-5%</compID>
+		<compID>NOT OOMP  eagleValue: 3.0nF  eagleDevice: 3.0NF-0603-50V-5%  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -219,7 +219,7 @@ The SparkFun ESP32 Thing equips the ESP32 with everything necessary to program, 
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  Value: BAT20J  Device: DIODE-SCHOTTKY-BAT20J</compID>
+		<compID>NOT OOMP  eagleValue: BAT20J  eagleDevice: DIODE-SCHOTTKY-BAT20J  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -240,56 +240,56 @@ The SparkFun ESP32 Thing equips the ESP32 with everything necessary to program, 
 	<component>
 		<compIndex>32</compIndex>
 		<compIden>E1</compIden>
-		<compID>NOT OOMP  Value: ANTENNA  Device: ANTENNATRACE-TUNED</compID>
+		<compID>NOT OOMP  eagleValue: ANTENNA  eagleDevice: ANTENNATRACE-TUNED  eaglePackage: TRACE_ANTENNA_2.4GHZ_25.7MM_TUNED</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>33</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  Value: 500mA  Device: PTCSMD</compID>
+		<compID>NOT OOMP  eagleValue: 500mA  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>34</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value:   Device: M20NOSILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: M20NOSILK  eaglePackage: 1X20_NOSILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>35</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value:   Device: M20NOSILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: M20NOSILK  eaglePackage: 1X20_NOSILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>36</compIndex>
 		<compIden>L1</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: INDUCTOR0603</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: INDUCTOR0603  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>37</compIndex>
 		<compIden>L2</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: INDUCTOR0603</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: INDUCTOR0603  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>38</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: 2.5A/30V  Device: MOSFET-PCHANNELDMG2307L</compID>
+		<compID>NOT OOMP  eagleValue: 2.5A/30V  eagleDevice: MOSFET-PCHANNELDMG2307L  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>39</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  Value: MBT3904DW1T1  Device: MBT3904DW1T1</compID>
+		<compID>NOT OOMP  eagleValue: MBT3904DW1T1  eagleDevice: MBT3904DW1T1  eaglePackage: SC70-6</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -324,7 +324,7 @@ The SparkFun ESP32 Thing equips the ESP32 with everything necessary to program, 
 	<component>
 		<compIndex>44</compIndex>
 		<compIden>R5</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: RESISTORPTH-1/6W</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: RESISTORPTH-1/6W  eaglePackage: 1/6W-RES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -387,63 +387,63 @@ The SparkFun ESP32 Thing equips the ESP32 with everything necessary to program, 
 	<component>
 		<compIndex>53</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: RESET  Device: SWITCH-MOMENTARY-2SMD-4.6X2.8MM</compID>
+		<compID>NOT OOMP  eagleValue: RESET  eagleDevice: SWITCH-MOMENTARY-2SMD-4.6X2.8MM  eaglePackage: TACTILE_SWITCH_SMD_4.6X2.8MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>54</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value: BTN-0  Device: SWITCH-MOMENTARY-2SMD-4.6X2.8MM</compID>
+		<compID>NOT OOMP  eagleValue: BTN-0  eagleDevice: SWITCH-MOMENTARY-2SMD-4.6X2.8MM  eaglePackage: TACTILE_SWITCH_SMD_4.6X2.8MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>55</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: MCP73831  Device: MCP73831</compID>
+		<compID>NOT OOMP  eagleValue: MCP73831  eagleDevice: MCP73831  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>56</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: ESP3212  Device: ESP3212</compID>
+		<compID>NOT OOMP  eagleValue: ESP3212  eagleDevice: ESP3212  eaglePackage: QFN48-0.4MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>57</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: AP2112K-3.3V  Device: V_REG_LDOSMD</compID>
+		<compID>NOT OOMP  eagleValue: AP2112K-3.3V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>58</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: FT231XS  Device: FT231XS</compID>
+		<compID>NOT OOMP  eagleValue: FT231XS  eagleDevice: FT231XS  eaglePackage: SSOP20_L</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>59</compIndex>
 		<compIden>U5</compIden>
-		<compID>NOT OOMP  Value: W25Q32FVSS  Device: W25Q32FVSS</compID>
+		<compID>NOT OOMP  eagleValue: W25Q32FVSS  eagleDevice: W25Q32FVSS  eaglePackage: SOIC-8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>60</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  Value: 26MHz  Device: CRYSTAL-GROUNDED3.2X2.5</compID>
+		<compID>NOT OOMP  eagleValue: 26MHz  eagleDevice: CRYSTAL-GROUNDED3.2X2.5  eaglePackage: CRYSTAL-SMD-3.2X2.5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>61</compIndex>
 		<compIden>Y2</compIden>
-		<compID>NOT OOMP  Value: 32.768kHz  Device: CRYSTAL-32.768KHZSMD-3.2X1.5</compID>
+		<compID>NOT OOMP  eagleValue: 32.768kHz  eagleDevice: CRYSTAL-32.768KHZSMD-3.2X1.5  eaglePackage: CRYSTAL-SMD-3.2X1.5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

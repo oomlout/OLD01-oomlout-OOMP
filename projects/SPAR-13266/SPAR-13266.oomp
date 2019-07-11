@@ -36,14 +36,14 @@ The Thermocouple Breakout is designed to accept a standard thermocouple connecto
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>L1</compIden>
-		<compID>NOT OOMP  Value: 470OHM  Device: INDUCTOR0603</compID>
+		<compID>NOT OOMP  eagleValue: 470OHM  eagleDevice: INDUCTOR0603  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>L2</compIden>
-		<compID>NOT OOMP  Value: 470OHM  Device: INDUCTOR0603</compID>
+		<compID>NOT OOMP  eagleValue: 470OHM  eagleDevice: INDUCTOR0603  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -57,7 +57,7 @@ The Thermocouple Breakout is designed to accept a standard thermocouple connecto
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: MAX31855K  Device: MAX31855K</compID>
+		<compID>NOT OOMP  eagleValue: MAX31855K  eagleDevice: MAX31855K  eaglePackage: SOIC8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

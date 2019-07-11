@@ -47,7 +47,7 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>I2C</compIden>
-		<compID>NOT OOMP  Value:   Device: JUMPER-SMT_3_2-NC_TRACE_SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: JUMPER-SMT_3_2-NC_TRACE_SILK  eaglePackage: SMT-JUMPER_3_2-NC_TRACE_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -61,7 +61,7 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  Value: PTH  Device: I2C_STANDARD_NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue: PTH  eagleDevice: I2C_STANDARD_NO_SILK  eaglePackage: 1X04_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -75,7 +75,7 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_01PTH_NO_SILK_YES_STOP</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -110,7 +110,7 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: VCNL4040  Device: VCNL4040</compID>
+		<compID>NOT OOMP  eagleValue: VCNL4040  eagleDevice: VCNL4040  eaglePackage: SPARKX_VCNL4040</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

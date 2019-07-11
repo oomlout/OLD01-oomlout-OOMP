@@ -99,7 +99,7 @@ The charging circuit is configured to charge the LiPo at 100mA but by adding a r
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>L1</compIden>
-		<compID>NOT OOMP  Value: 4.7uH, 1.2A  Device: INDUCTORINDUCTOR_4.7UH</compID>
+		<compID>NOT OOMP  eagleValue: 4.7uH, 1.2A  eagleDevice: INDUCTORINDUCTOR_4.7UH  eaglePackage: INDUCTOR_4.7UH</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -169,7 +169,7 @@ The charging circuit is configured to charge the LiPo at 100mA but by adding a r
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>R10</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: RESISTORPTH-1/6W</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: RESISTORPTH-1/6W  eaglePackage: 1/6W-RES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -190,42 +190,42 @@ The charging circuit is configured to charge the LiPo at 100mA but by adding a r
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-SPDT-SMD-A</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPDT-SMD-A  eaglePackage: SWITCH-SPST-SMD-A</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: MAX17043G+U  Device: MAX1704X</compID>
+		<compID>NOT OOMP  eagleValue: MAX17043G+U  eagleDevice: MAX1704X  eaglePackage: TDFN-8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: TPS61200  Device: TPS61200</compID>
+		<compID>NOT OOMP  eagleValue: TPS61200  eagleDevice: TPS61200  eaglePackage: QFN-10_PAD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: MCP73831  Device: MCP73831</compID>
+		<compID>NOT OOMP  eagleValue: MCP73831  eagleDevice: MCP73831  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: ARDUINO_R3_SHIELD  Device: ARDUINO_R3_SHIELD</compID>
+		<compID>NOT OOMP  eagleValue: ARDUINO_R3_SHIELD  eagleDevice: ARDUINO_R3_SHIELD  eaglePackage: UNO_R3_SHIELD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>VREG</compIden>
-		<compID>NOT OOMP  Value: MIC5205-3.3V  Device: MIC52053.3V</compID>
+		<compID>NOT OOMP  eagleValue: MIC5205-3.3V  eagleDevice: MIC52053.3V  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

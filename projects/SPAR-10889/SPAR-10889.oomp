@@ -95,42 +95,42 @@ Included on the Board:
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  Value: Green  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: Green  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: Red  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  Value: Red  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>LED3</compIden>
-		<compID>NOT OOMP  Value: Green  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: Green  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>LED4</compIden>
-		<compID>NOT OOMP  Value: LED-TRICOLOR  Device: LED-TRICOLOR</compID>
+		<compID>NOT OOMP  eagleValue: LED-TRICOLOR  eagleDevice: LED-TRICOLOR  eaglePackage: LED-TRICOLOR-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: 16MHz  Device: RESONATORSMD</compID>
+		<compID>NOT OOMP  eagleValue: 16MHz  eagleDevice: RESONATORSMD  eaglePackage: RESONATOR-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -207,56 +207,56 @@ Included on the Board:
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: Reset  Device: TAC_SWITCHSMD</compID>
+		<compID>NOT OOMP  eagleValue: Reset  eagleDevice: TAC_SWITCHSMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value: SWITCH-MOMENTARY-2SMD  Device: SWITCH-MOMENTARY-2SMD</compID>
+		<compID>NOT OOMP  eagleValue: SWITCH-MOMENTARY-2SMD  eagleDevice: SWITCH-MOMENTARY-2SMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>SG1</compIden>
-		<compID>NOT OOMP  Value: BUZZERSMD2  Device: BUZZERSMD2</compID>
+		<compID>NOT OOMP  eagleValue: BUZZERSMD2  eagleDevice: BUZZERSMD2  eaglePackage: BUZZER-CCV</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: ATMEGA328  Device: ATMEGA168</compID>
+		<compID>NOT OOMP  eagleValue: ATMEGA328  eagleDevice: ATMEGA168  eaglePackage: TQFP32-08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: MIC5205  Device: V_REG_LDOSMD</compID>
+		<compID>NOT OOMP  eagleValue: MIC5205  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: FT232RLSSOP  Device: FT232RLSSOP</compID>
+		<compID>NOT OOMP  eagleValue: FT232RLSSOP  eagleDevice: FT232RLSSOP  eaglePackage: SSOP28DB</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>32</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: TEMT6000  Device: TEMT6000</compID>
+		<compID>NOT OOMP  eagleValue: TEMT6000  eagleDevice: TEMT6000  eaglePackage: TEMT6000-SEN</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>33</compIndex>
 		<compIden>X2</compIden>
-		<compID>NOT OOMP  Value: USB-SMD-NS  Device: USB-SMD-NS</compID>
+		<compID>NOT OOMP  eagleValue: USB-SMD-NS  eagleDevice: USB-SMD-NS  eaglePackage: USB-MINIB-NOSTOP</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

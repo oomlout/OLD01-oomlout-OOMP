@@ -122,21 +122,21 @@ Not sure which Arduino or Arduino-compatible board is right for you? Check out o
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: MBRA140  Device: MBRA140</compID>
+		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: MBRA140  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  Value: 6V/0.5A  Device: PTC-HALF_AMP</compID>
+		<compID>NOT OOMP  eagleValue: 6V/0.5A  eagleDevice: PTC-HALF_AMP  eaglePackage: 1206</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>IC3</compIden>
-		<compID>NOT OOMP  Value: LM1117  Device: V_REG_LM1117ALT1</compID>
+		<compID>NOT OOMP  eagleValue: LM1117  eagleDevice: V_REG_LM1117ALT1  eaglePackage: SOT223-ALT1</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -150,7 +150,7 @@ Not sure which Arduino or Arduino-compatible board is right for you? Check out o
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  Value: POWER_JACKSUPER_BOMB_DIGITY  Device: POWER_JACKSUPER_BOMB_DIGITY</compID>
+		<compID>NOT OOMP  eagleValue: POWER_JACKSUPER_BOMB_DIGITY  eagleDevice: POWER_JACKSUPER_BOMB_DIGITY  eaglePackage: POWER_JACK_SMD_OVERPASTE_SUPER_BOMB_DIGITY</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -185,14 +185,14 @@ Not sure which Arduino or Arduino-compatible board is right for you? Check out o
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: 1A/60V/500mO  Device: MOSFET-PCH-ZXMP6A13F</compID>
+		<compID>NOT OOMP  eagleValue: 1A/60V/500mO  eagleDevice: MOSFET-PCH-ZXMP6A13F  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  Value: 2N7002PW  Device: MOSFET-NCH-2N7002PW</compID>
+		<compID>NOT OOMP  eagleValue: 2N7002PW  eagleDevice: MOSFET-NCH-2N7002PW  eaglePackage: SOT323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -283,7 +283,7 @@ Not sure which Arduino or Arduino-compatible board is right for you? Check out o
 	<component>
 		<compIndex>38</compIndex>
 		<compIden>R14</compIden>
-		<compID>NOT OOMP  Value: 715  Device: 715OHM-0603-1/10W-1%</compID>
+		<compID>NOT OOMP  eagleValue: 715  eagleDevice: 715OHM-0603-1/10W-1%  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -304,14 +304,14 @@ Not sure which Arduino or Arduino-compatible board is right for you? Check out o
 	<component>
 		<compIndex>41</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: FT231XS  Device: FT231XS</compID>
+		<compID>NOT OOMP  eagleValue: FT231XS  eagleDevice: FT231XS  eaglePackage: SSOP20_L</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>42</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: MIC5205  Device: MIC52053.3V</compID>
+		<compID>NOT OOMP  eagleValue: MIC5205  eagleDevice: MIC52053.3V  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -325,7 +325,7 @@ Not sure which Arduino or Arduino-compatible board is right for you? Check out o
 	<component>
 		<compIndex>44</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  Value: 16MHz  Device: RESONATOR-16MHZSMD_3.2X1.3</compID>
+		<compID>NOT OOMP  eagleValue: 16MHz  eagleDevice: RESONATOR-16MHZSMD_3.2X1.3  eaglePackage: RESONATOR-SMD-3.2X1.3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

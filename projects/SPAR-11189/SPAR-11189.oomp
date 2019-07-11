@@ -56,7 +56,7 @@ We've taken the SOIC package MAX3232 and broken out all the pins you need to set
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: MAX3232  Device: MAX232SOIC16</compID>
+		<compID>NOT OOMP  eagleValue: MAX3232  eagleDevice: MAX232SOIC16  eaglePackage: SO016</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

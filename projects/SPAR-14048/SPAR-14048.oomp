@@ -64,21 +64,21 @@ The TeensyView comes with everything you need except the headers. Additionally, 
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: CONN_14NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: CONN_14NO_SILK  eaglePackage: 1X14_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: CONN_14NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: CONN_14NO_SILK  eaglePackage: 1X14_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>OLED1</compIden>
-		<compID>NOT OOMP  Value: 32x128 OLED  Device: OLED128X64SIDEREAR-MOUNT</compID>
+		<compID>NOT OOMP  eagleValue: 32x128 OLED  eagleDevice: OLED128X64SIDEREAR-MOUNT  eaglePackage: OLED-UG-2832TSWGG01-REAR</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

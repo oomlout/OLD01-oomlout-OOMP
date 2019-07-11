@@ -21,14 +21,14 @@ Each Binary Blaster comes as an easy to assemble PTH soldering kit, and it’s up 
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>BAT1</compIden>
-		<compID>NOT OOMP  Value: AA  Device: BATTERYAA-KIT</compID>
+		<compID>NOT OOMP  eagleValue: AA  eagleDevice: BATTERYAA-KIT  eaglePackage: BATTERY-AA-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>BAT2</compIden>
-		<compID>NOT OOMP  Value: AA  Device: BATTERYAA-KIT</compID>
+		<compID>NOT OOMP  eagleValue: AA  eagleDevice: BATTERYAA-KIT  eaglePackage: BATTERY-AA-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -56,49 +56,49 @@ Each Binary Blaster comes as an easy to assemble PTH soldering kit, and it’s up 
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: Power  Device: SWITCH-SPDTKIT</compID>
+		<compID>NOT OOMP  eagleValue: Power  eagleDevice: SWITCH-SPDTKIT  eaglePackage: SWITCH-SPDT_KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-SPDTKIT</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPDTKIT  eaglePackage: SWITCH-SPDT_KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>S3</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-MOMENTARY-LEDEZ</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-MOMENTARY-LEDEZ  eaglePackage: TACTILE-PTH-LED-12MM-EZ</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>S4</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-MOMENTARY-LEDEZ</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-MOMENTARY-LEDEZ  eaglePackage: TACTILE-PTH-LED-12MM-EZ</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>S5</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-MOMENTARY-LEDEZ</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-MOMENTARY-LEDEZ  eaglePackage: TACTILE-PTH-LED-12MM-EZ</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>S6</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-MOMENTARY-LEDEZ</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-MOMENTARY-LEDEZ  eaglePackage: TACTILE-PTH-LED-12MM-EZ</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>SG1</compIden>
-		<compID>NOT OOMP  Value: BUZZER  Device: BUZZERPTH-KIT</compID>
+		<compID>NOT OOMP  eagleValue: BUZZER  eagleDevice: BUZZERPTH-KIT  eaglePackage: BUZZER-12MM-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

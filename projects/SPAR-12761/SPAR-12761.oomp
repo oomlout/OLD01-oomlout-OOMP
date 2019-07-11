@@ -44,14 +44,14 @@ This shield comes populated with a microSD socket, red power indicator LED, and 
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: AVR_SPI_PRG_6NS  Device: AVR_SPI_PRG_6NS</compID>
+		<compID>NOT OOMP  eagleValue: AVR_SPI_PRG_6NS  eagleDevice: AVR_SPI_PRG_6NS  eaglePackage: 2X3-NS</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: Red  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -65,28 +65,28 @@ This shield comes populated with a microSD socket, red power indicator LED, and 
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value:   Device: TAC_SWITCHSMD</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TAC_SWITCHSMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: USD-SOCKETNEW  Device: USD-SOCKETNEW</compID>
+		<compID>NOT OOMP  eagleValue: USD-SOCKETNEW  eagleDevice: USD-SOCKETNEW  eaglePackage: MICRO-SD-SOCKET-PP</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: ARDUINO_R3_SHIELDNOLABELS  Device: ARDUINO_R3_SHIELDNOLABELS</compID>
+		<compID>NOT OOMP  eagleValue: ARDUINO_R3_SHIELDNOLABELS  eagleDevice: ARDUINO_R3_SHIELDNOLABELS  eaglePackage: UNO_R3_SHIELD_NOLABELS</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: HEX_CONVERTER  Device: HEX_CONVERTER</compID>
+		<compID>NOT OOMP  eagleValue: HEX_CONVERTER  eagleDevice: HEX_CONVERTER  eaglePackage: SO016</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

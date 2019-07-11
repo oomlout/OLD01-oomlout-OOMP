@@ -101,14 +101,14 @@ Note: This product is a collaboration with Ytai Ben-Tsvi. A portion of each sale
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: B340A  Device: DIODE-SCHOTTKY-B340A</compID>
+		<compID>NOT OOMP  eagleValue: B340A  eagleDevice: DIODE-SCHOTTKY-B340A  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  Value: DZ2J160M0L  Device: DIODE-ZENERDZ2J150M0L</compID>
+		<compID>NOT OOMP  eagleValue: DZ2J160M0L  eagleDevice: DIODE-ZENERDZ2J150M0L  eaglePackage: PANASONIC_SMINI2-F5-B</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -122,49 +122,49 @@ Note: This product is a collaboration with Ytai Ben-Tsvi. A portion of each sale
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>D5</compIden>
-		<compID>NOT OOMP  Value: Red  Device: LED-RED0603-SMART</compID>
+		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED-RED0603-SMART  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  Value: 0.75A  Device: PTCSMD</compID>
+		<compID>NOT OOMP  eagleValue: 0.75A  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>L1</compIden>
-		<compID>NOT OOMP  Value: 30Ohm,1.8A  Device: INDUCTOR30OHM,1.8A</compID>
+		<compID>NOT OOMP  eagleValue: 30Ohm,1.8A  eagleDevice: INDUCTOR30OHM,1.8A  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>L2</compIden>
-		<compID>NOT OOMP  Value: VLC5045T-3R3N  Device: INDUCTORCR54-3.3UH</compID>
+		<compID>NOT OOMP  eagleValue: VLC5045T-3R3N  eagleDevice: INDUCTORCR54-3.3UH  eaglePackage: CR54</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: IRLML2244  Device: MOSFET-PCHANNELIRLML2244</compID>
+		<compID>NOT OOMP  eagleValue: IRLML2244  eagleDevice: MOSFET-PCHANNELIRLML2244  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  Value: 2N7002PW  Device: MOSFET-NCHANNEL2N7002PW</compID>
+		<compID>NOT OOMP  eagleValue: 2N7002PW  eagleDevice: MOSFET-NCHANNEL2N7002PW  eaglePackage: SOT323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>Q3</compIden>
-		<compID>NOT OOMP  Value: MOSFET-NCHANNELAO3404A  Device: MOSFET-NCHANNELAO3404A</compID>
+		<compID>NOT OOMP  eagleValue: MOSFET-NCHANNELAO3404A  eagleDevice: MOSFET-NCHANNELAO3404A  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -185,7 +185,7 @@ Note: This product is a collaboration with Ytai Ben-Tsvi. A portion of each sale
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>R3</compIden>
-		<compID>NOT OOMP  Value: TS53YL502MR10  Device: TRIMPOTRES-11156</compID>
+		<compID>NOT OOMP  eagleValue: TS53YL502MR10  eagleDevice: TRIMPOTRES-11156  eaglePackage: TRIMPOT_5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -220,28 +220,28 @@ Note: This product is a collaboration with Ytai Ben-Tsvi. A portion of each sale
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: SWITCH_SPDT  Device: SWITCH_SPDT</compID>
+		<compID>NOT OOMP  eagleValue: SWITCH_SPDT  eagleDevice: SWITCH_SPDT  eaglePackage: KPS-1290</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: PIC24FJ256GB206  Device: PIC24FXXXGPX06</compID>
+		<compID>NOT OOMP  eagleValue: PIC24FJ256GB206  eagleDevice: PIC24FXXXGPX06  eaglePackage: PIC24FXXX_TQFP64</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: TPS62133RGTT  Device: TPS62133RGTT</compID>
+		<compID>NOT OOMP  eagleValue: TPS62133RGTT  eagleDevice: TPS62133RGTT  eaglePackage: QFN16-3X3MM_1:1_V03</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>32</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: MIC5216  Device: V_REG_MIC5216</compID>
+		<compID>NOT OOMP  eagleValue: MIC5216  eagleDevice: V_REG_MIC5216  eaglePackage: MSOP8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

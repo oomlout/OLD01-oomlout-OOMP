@@ -59,14 +59,14 @@ Note: This product is a collaboration with Brian Schmalz. A portion of each sale
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>IC1</compIden>
-		<compID>NOT OOMP  Value: A3967SLB  Device: A3967SLB</compID>
+		<compID>NOT OOMP  eagleValue: A3967SLB  eagleDevice: A3967SLB  eaglePackage: SO24W</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>IC2</compIden>
-		<compID>NOT OOMP  Value: V_REG_317SMD  Device: V_REG_317SMD</compID>
+		<compID>NOT OOMP  eagleValue: V_REG_317SMD  eagleDevice: V_REG_317SMD  eaglePackage: SOT223</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -80,14 +80,14 @@ Note: This product is a collaboration with Brian Schmalz. A portion of each sale
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>R1</compIden>
-		<compID>NOT OOMP  Value: .75  Device: RESISTOR0805-RES</compID>
+		<compID>NOT OOMP  eagleValue: .75  eagleDevice: RESISTOR0805-RES  eaglePackage: 0805</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>R2</compIden>
-		<compID>NOT OOMP  Value: .75  Device: RESISTOR0805-RES</compID>
+		<compID>NOT OOMP  eagleValue: .75  eagleDevice: RESISTOR0805-RES  eaglePackage: 0805</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -108,7 +108,7 @@ Note: This product is a collaboration with Brian Schmalz. A portion of each sale
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>R5</compIden>
-		<compID>NOT OOMP  Value: 2.49K  Device: RESISTOR0603</compID>
+		<compID>NOT OOMP  eagleValue: 2.49K  eagleDevice: RESISTOR0603  eaglePackage: 0603-RES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -185,7 +185,7 @@ Note: This product is a collaboration with Brian Schmalz. A portion of each sale
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>R16</compIden>
-		<compID>NOT OOMP  Value: 10K  Device: TRIMPOT3MM-2</compID>
+		<compID>NOT OOMP  eagleValue: 10K  eagleDevice: TRIMPOT3MM-2  eaglePackage: TRIMPOT-3MM-2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

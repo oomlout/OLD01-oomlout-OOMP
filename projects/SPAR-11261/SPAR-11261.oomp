@@ -46,49 +46,49 @@ Replaces:RTL-11052
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>1</compIden>
-		<compID>NOT OOMP  Value: SEWTAP-NOHOLE2  Device: SEWTAP-NOHOLE2</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP-NOHOLE2  eagleDevice: SEWTAP-NOHOLE2  eaglePackage: PETAL-NOHOLE-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>2</compIden>
-		<compID>NOT OOMP  Value: SEWTAP-NOHOLE2  Device: SEWTAP-NOHOLE2</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP-NOHOLE2  eagleDevice: SEWTAP-NOHOLE2  eaglePackage: PETAL-NOHOLE-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>3</compIden>
-		<compID>NOT OOMP  Value: SEWTAP-NOHOLE2  Device: SEWTAP-NOHOLE2</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP-NOHOLE2  eagleDevice: SEWTAP-NOHOLE2  eaglePackage: PETAL-NOHOLE-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>4</compIden>
-		<compID>NOT OOMP  Value: SEWTAP-NOHOLE2  Device: SEWTAP-NOHOLE2</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP-NOHOLE2  eagleDevice: SEWTAP-NOHOLE2  eaglePackage: PETAL-NOHOLE-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>B1</compIden>
-		<compID>NOT OOMP  Value: Buzzer  Device: BUZZERSMD2</compID>
+		<compID>NOT OOMP  eagleValue: Buzzer  eagleDevice: BUZZERSMD2  eaglePackage: BUZZER-CCV</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>BUTTON-</compIden>
-		<compID>NOT OOMP  Value: SEWTAP8  Device: SEWTAP4</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP8  eagleDevice: SEWTAP4  eaglePackage: PETAL-SMALL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>BUTTONS</compIden>
-		<compID>NOT OOMP  Value: SEWTAP8  Device: SEWTAP4</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP8  eagleDevice: SEWTAP4  eaglePackage: PETAL-SMALL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -144,210 +144,210 @@ Replaces:RTL-11052
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: Status  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: Status  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  Value: LED-TRICOLOR  Device: LED-TRICOLOR</compID>
+		<compID>NOT OOMP  eagleValue: LED-TRICOLOR  eagleDevice: LED-TRICOLOR  eaglePackage: LED-TRICOLOR-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  Value:   Device: DIODESOD</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: DIODESOD  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>D4</compIden>
-		<compID>NOT OOMP  Value: Yellow  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: Yellow  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>LED</compIden>
-		<compID>NOT OOMP  Value: White  Device: LED1206</compID>
+		<compID>NOT OOMP  eagleValue: White  eagleDevice: LED1206  eaglePackage: LED-1206</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>LED+</compIden>
-		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP6  eagleDevice: SEWTAP6  eaglePackage: PETAL-SMALL-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>LED+1</compIden>
-		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP6  eagleDevice: SEWTAP6  eaglePackage: PETAL-SMALL-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>LED+2</compIden>
-		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP6  eagleDevice: SEWTAP6  eaglePackage: PETAL-SMALL-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>LED+3</compIden>
-		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP6  eagleDevice: SEWTAP6  eaglePackage: PETAL-SMALL-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>LED+4</compIden>
-		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP6  eagleDevice: SEWTAP6  eaglePackage: PETAL-SMALL-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>LED-</compIden>
-		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP6  eagleDevice: SEWTAP6  eaglePackage: PETAL-SMALL-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>LED-1</compIden>
-		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP6  eagleDevice: SEWTAP6  eaglePackage: PETAL-SMALL-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>LED-2</compIden>
-		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP6  eagleDevice: SEWTAP6  eaglePackage: PETAL-SMALL-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>LED-3</compIden>
-		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP6  eagleDevice: SEWTAP6  eaglePackage: PETAL-SMALL-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>LED-4</compIden>
-		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP6</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP6  eagleDevice: SEWTAP6  eaglePackage: PETAL-SMALL-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: White  Device: LED1206</compID>
+		<compID>NOT OOMP  eagleValue: White  eagleDevice: LED1206  eaglePackage: LED-1206</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  Value: White  Device: LED1206</compID>
+		<compID>NOT OOMP  eagleValue: White  eagleDevice: LED1206  eaglePackage: LED-1206</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>32</compIndex>
 		<compIden>LED3</compIden>
-		<compID>NOT OOMP  Value: White  Device: LED1206</compID>
+		<compID>NOT OOMP  eagleValue: White  eagleDevice: LED1206  eaglePackage: LED-1206</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>33</compIndex>
 		<compIden>LED4</compIden>
-		<compID>NOT OOMP  Value: White  Device: LED1206</compID>
+		<compID>NOT OOMP  eagleValue: White  eagleDevice: LED1206  eaglePackage: LED-1206</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>34</compIndex>
 		<compIden>LIGHT+</compIden>
-		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP4</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP6  eagleDevice: SEWTAP4  eaglePackage: PETAL-SMALL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>35</compIndex>
 		<compIden>LIGHT-</compIden>
-		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP4</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP6  eagleDevice: SEWTAP4  eaglePackage: PETAL-SMALL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>36</compIndex>
 		<compIden>LIGHT1</compIden>
-		<compID>NOT OOMP  Value: SEWTAP-NOHOLE2  Device: SEWTAP-NOHOLE2</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP-NOHOLE2  eagleDevice: SEWTAP-NOHOLE2  eaglePackage: PETAL-NOHOLE-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>37</compIndex>
 		<compIden>LIGHT2</compIden>
-		<compID>NOT OOMP  Value: SEWTAP-NOHOLE2  Device: SEWTAP-NOHOLE2</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP-NOHOLE2  eagleDevice: SEWTAP-NOHOLE2  eaglePackage: PETAL-NOHOLE-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>38</compIndex>
 		<compIden>LIGHT3</compIden>
-		<compID>NOT OOMP  Value: SEWTAP-NOHOLE2  Device: SEWTAP-NOHOLE2</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP-NOHOLE2  eagleDevice: SEWTAP-NOHOLE2  eaglePackage: PETAL-NOHOLE-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>39</compIndex>
 		<compIden>LIGHTS</compIden>
-		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP4</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP6  eagleDevice: SEWTAP4  eaglePackage: PETAL-SMALL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>40</compIndex>
 		<compIden>M1</compIden>
-		<compID>NOT OOMP  Value: MOTORSMD  Device: MOTORSMD</compID>
+		<compID>NOT OOMP  eagleValue: MOTORSMD  eagleDevice: MOTORSMD  eaglePackage: VIBE-MOTOR-10MM-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>41</compIndex>
 		<compIden>PP-GND</compIden>
-		<compID>NOT OOMP  Value:   Device: TEST-POINT3X5</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TEST-POINT3X5  eaglePackage: PAD.03X.05</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>42</compIndex>
 		<compIden>PP-MISO</compIden>
-		<compID>NOT OOMP  Value:   Device: TEST-POINT3X5</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TEST-POINT3X5  eaglePackage: PAD.03X.05</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>43</compIndex>
 		<compIden>PP-RST</compIden>
-		<compID>NOT OOMP  Value:   Device: TEST-POINT3X5</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TEST-POINT3X5  eaglePackage: PAD.03X.05</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>44</compIndex>
 		<compIden>PP-SCK</compIden>
-		<compID>NOT OOMP  Value:   Device: TEST-POINT3X5</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TEST-POINT3X5  eaglePackage: PAD.03X.05</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -452,161 +452,161 @@ Replaces:RTL-11052
 	<component>
 		<compIndex>59</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: On/Off  Device: AYZ0202</compID>
+		<compID>NOT OOMP  eagleValue: On/Off  eagleDevice: AYZ0202  eaglePackage: AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>60</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value: AYZ0202  Device: AYZ0202</compID>
+		<compID>NOT OOMP  eagleValue: AYZ0202  eagleDevice: AYZ0202  eaglePackage: AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>61</compIndex>
 		<compIden>S3</compIden>
-		<compID>NOT OOMP  Value:   Device: TAC_SWITCHSMD</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TAC_SWITCHSMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>62</compIndex>
 		<compIden>S4</compIden>
-		<compID>NOT OOMP  Value: Reset  Device: SWITCH-MOMENTARY-2SMD</compID>
+		<compID>NOT OOMP  eagleValue: Reset  eagleDevice: SWITCH-MOMENTARY-2SMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>63</compIndex>
 		<compIden>SLIDEOFF</compIden>
-		<compID>NOT OOMP  Value: SEWTAP8  Device: SEWTAP4</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP8  eagleDevice: SEWTAP4  eaglePackage: PETAL-SMALL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>64</compIndex>
 		<compIden>SLIDEON</compIden>
-		<compID>NOT OOMP  Value: SEWTAP8  Device: SEWTAP4</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP8  eagleDevice: SEWTAP4  eaglePackage: PETAL-SMALL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>65</compIndex>
 		<compIden>TEMP+</compIden>
-		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP4</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP6  eagleDevice: SEWTAP4  eaglePackage: PETAL-SMALL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>66</compIndex>
 		<compIden>TEMP-</compIden>
-		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP4</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP6  eagleDevice: SEWTAP4  eaglePackage: PETAL-SMALL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>67</compIndex>
 		<compIden>TEMP1</compIden>
-		<compID>NOT OOMP  Value: SEWTAP-NOHOLE2  Device: SEWTAP-NOHOLE2</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP-NOHOLE2  eagleDevice: SEWTAP-NOHOLE2  eaglePackage: PETAL-NOHOLE-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>68</compIndex>
 		<compIden>TEMP2</compIden>
-		<compID>NOT OOMP  Value: SEWTAP-NOHOLE2  Device: SEWTAP-NOHOLE2</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP-NOHOLE2  eagleDevice: SEWTAP-NOHOLE2  eaglePackage: PETAL-NOHOLE-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>69</compIndex>
 		<compIden>TEMP3</compIden>
-		<compID>NOT OOMP  Value: SEWTAP-NOHOLE2  Device: SEWTAP-NOHOLE2</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP-NOHOLE2  eagleDevice: SEWTAP-NOHOLE2  eaglePackage: PETAL-NOHOLE-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>70</compIndex>
 		<compIden>TEMPS</compIden>
-		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP4</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP6  eagleDevice: SEWTAP4  eaglePackage: PETAL-SMALL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>71</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: ATMEGA328  Device: ATMEGA168</compID>
+		<compID>NOT OOMP  eagleValue: ATMEGA328  eagleDevice: ATMEGA168  eaglePackage: TQFP32-08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>72</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: MCP9700  Device: MCP9700SMD</compID>
+		<compID>NOT OOMP  eagleValue: MCP9700  eagleDevice: MCP9700SMD  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>73</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: TEMT6000  Device: TEMT6000</compID>
+		<compID>NOT OOMP  eagleValue: TEMT6000  eagleDevice: TEMT6000  eaglePackage: TEMT6000-SEN</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>74</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: MCP73831  Device: MCP73831</compID>
+		<compID>NOT OOMP  eagleValue: MCP73831  eagleDevice: MCP73831  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>75</compIndex>
 		<compIden>VIBE+</compIden>
-		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP4</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP6  eagleDevice: SEWTAP4  eaglePackage: PETAL-SMALL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>76</compIndex>
 		<compIden>VIBE-</compIden>
-		<compID>NOT OOMP  Value: SEWTAP6  Device: SEWTAP4</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP6  eagleDevice: SEWTAP4  eaglePackage: PETAL-SMALL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>77</compIndex>
 		<compIden>VIBE1</compIden>
-		<compID>NOT OOMP  Value: SEWTAP-NOHOLE2  Device: SEWTAP-NOHOLE2</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP-NOHOLE2  eagleDevice: SEWTAP-NOHOLE2  eaglePackage: PETAL-NOHOLE-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>78</compIndex>
 		<compIden>VIBE2</compIden>
-		<compID>NOT OOMP  Value: SEWTAP-NOHOLE2  Device: SEWTAP-NOHOLE2</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP-NOHOLE2  eagleDevice: SEWTAP-NOHOLE2  eaglePackage: PETAL-NOHOLE-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>79</compIndex>
 		<compIden>VIBE3</compIden>
-		<compID>NOT OOMP  Value: SEWTAP-NOHOLE2  Device: SEWTAP-NOHOLE2</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP-NOHOLE2  eagleDevice: SEWTAP-NOHOLE2  eaglePackage: PETAL-NOHOLE-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>80</compIndex>
 		<compIden>VIBE4</compIden>
-		<compID>NOT OOMP  Value: SEWTAP-NOHOLE2  Device: SEWTAP-NOHOLE2</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP-NOHOLE2  eagleDevice: SEWTAP-NOHOLE2  eaglePackage: PETAL-NOHOLE-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>81</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  Value: 8MHz  Device: RESONATORSMD</compID>
+		<compID>NOT OOMP  eagleValue: 8MHz  eagleDevice: RESONATORSMD  eaglePackage: RESONATOR-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

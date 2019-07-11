@@ -64,70 +64,70 @@ The THAT 1206 InGenius Breakout and its sibling, the THAT 1646 OutSmarts Breakou
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: 12V  Device: 12V-ZENER-DIODE</compID>
+		<compID>NOT OOMP  eagleValue: 12V  eagleDevice: 12V-ZENER-DIODE  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  Value: BAV99  Device: BAV99</compID>
+		<compID>NOT OOMP  eagleValue: BAV99  eagleDevice: BAV99  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  Value: BAV99  Device: BAV99</compID>
+		<compID>NOT OOMP  eagleValue: BAV99  eagleDevice: BAV99  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>D4</compIden>
-		<compID>NOT OOMP  Value: 12V  Device: 12V-ZENER-DIODE</compID>
+		<compID>NOT OOMP  eagleValue: 12V  eagleDevice: 12V-ZENER-DIODE  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>IC1</compIden>
-		<compID>NOT OOMP  Value: THAT1206  Device: THAT1206</compID>
+		<compID>NOT OOMP  eagleValue: THAT1206  eagleDevice: THAT1206  eaglePackage: SO08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: INPUT  Device: AUDIO_JACK_TRS_0.25_PTH_RA</compID>
+		<compID>NOT OOMP  eagleValue: INPUT  eagleDevice: AUDIO_JACK_TRS_0.25_PTH_RA  eaglePackage: AUDIO_JACK_0.25_TRS_PTH_RA</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value: S  Device: M01PTH_NO_SILK_YES_STOP</compID>
+		<compID>NOT OOMP  eagleValue: S  eagleDevice: M01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  Value: RN  Device: M01PTH_NO_SILK_YES_STOP</compID>
+		<compID>NOT OOMP  eagleValue: RN  eagleDevice: M01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  Value: TN  Device: M01PTH_NO_SILK_YES_STOP</compID>
+		<compID>NOT OOMP  eagleValue: TN  eagleDevice: M01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  Value: SN  Device: M01PTH_NO_SILK_YES_STOP</compID>
+		<compID>NOT OOMP  eagleValue: SN  eagleDevice: M01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -141,21 +141,21 @@ The THAT 1206 InGenius Breakout and its sibling, the THAT 1646 OutSmarts Breakou
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>J7</compIden>
-		<compID>NOT OOMP  Value: R  Device: M01PTH_NO_SILK_YES_STOP</compID>
+		<compID>NOT OOMP  eagleValue: R  eagleDevice: M01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>J8</compIden>
-		<compID>NOT OOMP  Value: T  Device: M01PTH_NO_SILK_YES_STOP</compID>
+		<compID>NOT OOMP  eagleValue: T  eagleDevice: M01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>J9</compIden>
-		<compID>NOT OOMP  Value: Chassis  Device: M01PTH_NO_SILK_YES_STOP</compID>
+		<compID>NOT OOMP  eagleValue: Chassis  eagleDevice: M01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

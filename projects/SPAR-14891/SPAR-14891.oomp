@@ -23,7 +23,7 @@ There are also power tabs available on the two sensors and the LED if you choose
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: XZM2CRKM2DGFBB45SCCB  Device: SUNLEDSMD1</compID>
+		<compID>NOT OOMP  eagleValue: XZM2CRKM2DGFBB45SCCB  eagleDevice: SUNLEDSMD1  eaglePackage: PLCC4SMDLED</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -58,14 +58,14 @@ There are also power tabs available on the two sensors and the LED if you choose
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: LIGHT_SENSORTEMT6000  Device: LIGHT_SENSORTEMT6000</compID>
+		<compID>NOT OOMP  eagleValue: LIGHT_SENSORTEMT6000  eagleDevice: LIGHT_SENSORTEMT6000  eaglePackage: TEMT6000</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: MCP9700TT  Device: MCP9700TT</compID>
+		<compID>NOT OOMP  eagleValue: MCP9700TT  eagleDevice: MCP9700TT  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

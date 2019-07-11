@@ -65,21 +65,21 @@ Note: The 3.3V FTDI breakout will NOT work with this block, but the 5V version w
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>E1</compIden>
-		<compID>NOT OOMP  Value: EDISON_CONNECTOR_FULLMOUNTING_HOLES  Device: EDISON_CONNECTOR_FULLMOUNTING_HOLES</compID>
+		<compID>NOT OOMP  eagleValue: EDISON_CONNECTOR_FULLMOUNTING_HOLES  eagleDevice: EDISON_CONNECTOR_FULLMOUNTING_HOLES  eaglePackage: EDISON_DAUGHTER</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>L1</compIden>
-		<compID>NOT OOMP  Value:   Device: INDUCTOR</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: INDUCTOR  eaglePackage: INDUCTOR-SRP4020</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: BSS138  Device: MOSFET-NCHANNELBSS138</compID>
+		<compID>NOT OOMP  eagleValue: BSS138  eagleDevice: MOSFET-NCHANNELBSS138  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -128,28 +128,28 @@ Note: The 3.3V FTDI breakout will NOT work with this block, but the 5V version w
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: POWER  Device: SWITCH-MOMENTARY-2TACTILE-SWITCH-SMD-RIGHT-ANGLE</compID>
+		<compID>NOT OOMP  eagleValue: POWER  eagleDevice: SWITCH-MOMENTARY-2TACTILE-SWITCH-SMD-RIGHT-ANGLE  eaglePackage: TACTILE_SWITCH-SMD-RIGHT-ANGLE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value: DPDT  Device: SWITCH-DPDTAYZ0202</compID>
+		<compID>NOT OOMP  eagleValue: DPDT  eagleDevice: SWITCH-DPDTAYZ0202  eaglePackage: AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value:   Device: TXB0104PWRSOIC14</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TXB0104PWRSOIC14  eaglePackage: SO14</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: TPS62065  Device: TPS62065</compID>
+		<compID>NOT OOMP  eagleValue: TPS62065  eagleDevice: TPS62065  eaglePackage: WSON-8-PAD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

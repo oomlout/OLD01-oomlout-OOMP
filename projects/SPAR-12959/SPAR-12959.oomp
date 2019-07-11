@@ -22,7 +22,7 @@ Note: While the MOSFET is rated to 60V 30A, the circuit board traces are only ra
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: RFP30N6LE  Device: MOSFET-NCHANNELPTH2</compID>
+		<compID>NOT OOMP  eagleValue: RFP30N6LE  eagleDevice: MOSFET-NCHANNELPTH2  eaglePackage: TO220V</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

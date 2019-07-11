@@ -25,7 +25,7 @@ Replaces:KIT-11178
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>BAT</compIden>
-		<compID>NOT OOMP  Value:   Device: BATTERYFOB</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: BATTERYFOB  eaglePackage: BATTERY_20MM_PTH_COMPACT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -46,7 +46,7 @@ Replaces:KIT-11178
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: 7-SEGMENT-4DIGIT-YOUNGSUNKIT  Device: 7-SEGMENT-4DIGIT-YOUNGSUNKIT</compID>
+		<compID>NOT OOMP  eagleValue: 7-SEGMENT-4DIGIT-YOUNGSUNKIT  eagleDevice: 7-SEGMENT-4DIGIT-YOUNGSUNKIT  eaglePackage: 7-SEGMENT-4DIGIT-YOUNGSUN-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -60,21 +60,21 @@ Replaces:KIT-11178
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: BUTTON  Device: SWITCH-MOMENTARY-2SIDE_EZ</compID>
+		<compID>NOT OOMP  eagleValue: BUTTON  eagleDevice: SWITCH-MOMENTARY-2SIDE_EZ  eaglePackage: TACTILE-PTH-SIDEEZ</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: ATMEGA328P_PDIP_EZ  Device: ATMEGA328P_PDIP_EZ</compID>
+		<compID>NOT OOMP  eagleValue: ATMEGA328P_PDIP_EZ  eagleDevice: ATMEGA328P_PDIP_EZ  eaglePackage: DIL28-EZ</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  Value: 32.768kHz  Device: CRYSTALTC26H_EZ</compID>
+		<compID>NOT OOMP  eagleValue: 32.768kHz  eagleDevice: CRYSTALTC26H_EZ  eaglePackage: TC26HEZ</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

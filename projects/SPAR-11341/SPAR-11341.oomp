@@ -94,7 +94,7 @@ Not sure which gyro is right for you? Our Accelerometer and Gyro Buying Guide mi
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>R5</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: RESISTOR0402-RES</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: RESISTOR0402-RES  eaglePackage: 0402-RES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -115,7 +115,7 @@ Not sure which gyro is right for you? Our Accelerometer and Gyro Buying Guide mi
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>R8</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: RESISTOR0402-RES</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: RESISTOR0402-RES  eaglePackage: 0402-RES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -136,7 +136,7 @@ Not sure which gyro is right for you? Our Accelerometer and Gyro Buying Guide mi
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: LPY5XXX  Device: ST-GYRO-PYSMD</compID>
+		<compID>NOT OOMP  eagleValue: LPY5XXX  eagleDevice: ST-GYRO-PYSMD  eaglePackage: ST-GYRO</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

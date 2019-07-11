@@ -26,14 +26,14 @@ The SparkFun Qwiic connect system is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>BT1</compIden>
-		<compID>NOT OOMP  Value:   Device: BATTERY-12MM_PTH</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: BATTERY-12MM_PTH  eaglePackage: BATTCON_12MM_PTH</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>C1</compIden>
-		<compID>NOT OOMP  Value: .22F-SUPERCAP  Device: .22F-SUPERCAP</compID>
+		<compID>NOT OOMP  eagleValue: .22F-SUPERCAP  eagleDevice: .22F-SUPERCAP  eaglePackage: DSK-RADIAL-6.8MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -82,7 +82,7 @@ The SparkFun Qwiic connect system is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_031X03_NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_031X03_NO_SILK  eaglePackage: 1X03_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -138,7 +138,7 @@ The SparkFun Qwiic connect system is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: RV-1805  Device: RV-1805</compID>
+		<compID>NOT OOMP  eagleValue: RV-1805  eagleDevice: RV-1805  eaglePackage: RV-1805</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

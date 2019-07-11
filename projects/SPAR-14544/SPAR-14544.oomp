@@ -72,28 +72,28 @@ Note: Although the chip itself is rated for up to 2.4kV (RMS) of isolation, the 
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>R3</compIden>
-		<compID>NOT OOMP  Value: TRIMPOTSMD  Device: TRIMPOTSMD</compID>
+		<compID>NOT OOMP  eagleValue: TRIMPOTSMD  eagleDevice: TRIMPOTSMD  eaglePackage: TRIMPOT-3MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>R4</compIden>
-		<compID>NOT OOMP  Value: TRIMPOTSMD  Device: TRIMPOTSMD</compID>
+		<compID>NOT OOMP  eagleValue: TRIMPOTSMD  eagleDevice: TRIMPOTSMD  eaglePackage: TRIMPOT-3MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: ACS712  Device: ACS712</compID>
+		<compID>NOT OOMP  eagleValue: ACS712  eagleDevice: ACS712  eaglePackage: SO08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: OPA344  Device: OPA344</compID>
+		<compID>NOT OOMP  eagleValue: OPA344  eagleDevice: OPA344  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

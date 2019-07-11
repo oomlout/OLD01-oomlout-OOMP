@@ -68,7 +68,7 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  Value: 1A/23V/620mV  Device: DIODE-SCHOTTKY-BAT20J</compID>
+		<compID>NOT OOMP  eagleValue: 1A/23V/620mV  eagleDevice: DIODE-SCHOTTKY-BAT20J  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -82,7 +82,7 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_12SM_SQ_NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_12SM_SQ_NO_SILK  eaglePackage: 1X12_SM_SQ_NOSILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -96,28 +96,28 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_161X16_SM_SQ_NOSILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_161X16_SM_SQ_NOSILK  eaglePackage: 1X16_SM_SQ_NOSILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  Value:   Device: USB_MICRO-B_HALF_PTH_MILL</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: USB_MICRO-B_HALF_PTH_MILL  eaglePackage: USB-MICROB-PTH-MILL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: 2.5A/30V  Device: MOSFET-PCHANNELDMG2307L</compID>
+		<compID>NOT OOMP  eagleValue: 2.5A/30V  eagleDevice: MOSFET-PCHANNELDMG2307L  eaglePackage: SOT23-3@1</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  Value: MBT3904DW1T1  Device: TRANS_NPN_DUAL-MBT3904DW1T1</compID>
+		<compID>NOT OOMP  eagleValue: MBT3904DW1T1  eagleDevice: TRANS_NPN_DUAL-MBT3904DW1T1  eaglePackage: SC70-6</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -187,42 +187,42 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: RESET  Device: MOMENTARY-SWITCH-SPST-2-SMD-4.6X2.8MM</compID>
+		<compID>NOT OOMP  eagleValue: RESET  eagleDevice: MOMENTARY-SWITCH-SPST-2-SMD-4.6X2.8MM  eaglePackage: TACTILE_SWITCH_SMD_4.6X2.8MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value: 0  Device: MOMENTARY-SWITCH-SPST-2-SMD-4.6X2.8MM</compID>
+		<compID>NOT OOMP  eagleValue: 0  eagleDevice: MOMENTARY-SWITCH-SPST-2-SMD-4.6X2.8MM  eaglePackage: TACTILE_SWITCH_SMD_4.6X2.8MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: MCP73831  Device: MCP73831</compID>
+		<compID>NOT OOMP  eagleValue: MCP73831  eagleDevice: MCP73831  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: ESP-WROOM-32NARROW  Device: ESP-WROOM-32NARROW</compID>
+		<compID>NOT OOMP  eagleValue: ESP-WROOM-32NARROW  eagleDevice: ESP-WROOM-32NARROW  eaglePackage: ESP-WROOM-32-NARROW</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: AP2112K-3.3V  Device: V_REG_LDOSMD</compID>
+		<compID>NOT OOMP  eagleValue: AP2112K-3.3V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: CP2102N  Device: CP2102N</compID>
+		<compID>NOT OOMP  eagleValue: CP2102N  eagleDevice: CP2102N  eaglePackage: QFN24</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -35,21 +35,21 @@ The breakout board includes all of the necessary peripheral components. The inpu
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: MBRA140  Device: DIODESMA</compID>
+		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: DIODESMA  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>L1</compIden>
-		<compID>NOT OOMP  Value: 47uH  Device: INDUCTORCR54</compID>
+		<compID>NOT OOMP  eagleValue: 47uH  eagleDevice: INDUCTORCR54  eaglePackage: CR54</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: NCP1402  Device: V_REG_NCP1400SOT23-5</compID>
+		<compID>NOT OOMP  eagleValue: NCP1402  eagleDevice: V_REG_NCP1400SOT23-5  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

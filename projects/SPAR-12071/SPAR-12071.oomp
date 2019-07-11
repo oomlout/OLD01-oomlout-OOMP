@@ -22,7 +22,7 @@ Note: The CC3000 WiFi Shield comes as a stand-alone board. Headers will need to 
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>AE1</compIden>
-		<compID>NOT OOMP  Value: ANTENNA22500AT44M0400  Device: ANTENNA22500AT44M0400</compID>
+		<compID>NOT OOMP  eagleValue: ANTENNA22500AT44M0400  eagleDevice: ANTENNA22500AT44M0400  eaglePackage: ANTENNA-CHIP_2500AT44M0400</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -78,7 +78,7 @@ Note: The CC3000 WiFi Shield comes as a stand-alone board. Headers will need to 
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>C8</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: CAP0603-CAP</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: CAP0603-CAP  eaglePackage: 0603-CAP</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -92,21 +92,21 @@ Note: The CC3000 WiFi Shield comes as a stand-alone board. Headers will need to 
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: U.FL  Device: U.FL</compID>
+		<compID>NOT OOMP  eagleValue: U.FL  eagleDevice: U.FL  eaglePackage: U.FL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>L1</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: INDUCTOR0603</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: INDUCTOR0603  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>L2</compIden>
-		<compID>NOT OOMP  Value: 2.2nH  Device: INDUCTOR0603</compID>
+		<compID>NOT OOMP  eagleValue: 2.2nH  eagleDevice: INDUCTOR0603  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -155,42 +155,42 @@ Note: The CC3000 WiFi Shield comes as a stand-alone board. Headers will need to 
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: LM1117  Device: V_REG_LM1117SOT223</compID>
+		<compID>NOT OOMP  eagleValue: LM1117  eagleDevice: V_REG_LM1117SOT223  eaglePackage: SOT223</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: ARDUINO_R3_SHIELDNOLABELS  Device: ARDUINO_R3_SHIELDNOLABELS</compID>
+		<compID>NOT OOMP  eagleValue: ARDUINO_R3_SHIELDNOLABELS  eagleDevice: ARDUINO_R3_SHIELDNOLABELS  eaglePackage: UNO_R3_SHIELD_NOLABELS</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: 74HC4050  Device: HEX_CONVERTER</compID>
+		<compID>NOT OOMP  eagleValue: 74HC4050  eagleDevice: HEX_CONVERTER  eaglePackage: SO016</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: USD-SOCKETNEW  Device: USD-SOCKETNEW</compID>
+		<compID>NOT OOMP  eagleValue: USD-SOCKETNEW  eagleDevice: USD-SOCKETNEW  eaglePackage: MICRO-SD-SOCKET-PP</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>U5</compIden>
-		<compID>NOT OOMP  Value: CC3000  Device: CC3000</compID>
+		<compID>NOT OOMP  eagleValue: CC3000  eagleDevice: CC3000  eaglePackage: QFN-46_CC3000</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>U6</compIden>
-		<compID>NOT OOMP  Value: 74AHC1G125  Device: 74AHC1G125</compID>
+		<compID>NOT OOMP  eagleValue: 74AHC1G125  eagleDevice: 74AHC1G125  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

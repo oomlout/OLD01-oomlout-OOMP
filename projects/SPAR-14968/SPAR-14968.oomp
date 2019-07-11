@@ -23,28 +23,28 @@ The pads on either side of the button or switch will be connected while attached
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: MOMENTARY-SWITCH-SPST-SMD-12MM  Device: MOMENTARY-SWITCH-SPST-SMD-12MM</compID>
+		<compID>NOT OOMP  eagleValue: MOMENTARY-SWITCH-SPST-SMD-12MM  eagleDevice: MOMENTARY-SWITCH-SPST-SMD-12MM  eaglePackage: TACTILE_SWITCH_SMD_12MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value: REED_SWITCH-PTH-INSULATED  Device: REED_SWITCH-PTH-INSULATED</compID>
+		<compID>NOT OOMP  eagleValue: REED_SWITCH-PTH-INSULATED  eagleDevice: REED_SWITCH-PTH-INSULATED  eaglePackage: REED_SWITCH_PLASTIC</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>S3</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-SPDT-SMD-AYZ0202</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPDT-SMD-AYZ0202  eaglePackage: SWITCH_DPDT_SMD_AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>S4</compIden>
-		<compID>NOT OOMP  Value: MOMENTARY-SWITCH-SPST-SMD-12MM  Device: MOMENTARY-SWITCH-SPST-SMD-12MM</compID>
+		<compID>NOT OOMP  eagleValue: MOMENTARY-SWITCH-SPST-SMD-12MM  eagleDevice: MOMENTARY-SWITCH-SPST-SMD-12MM  eaglePackage: TACTILE_SWITCH_SMD_12MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

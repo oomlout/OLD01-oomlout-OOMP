@@ -78,21 +78,21 @@ Originally designed to be used in mobile device and automotive applications, it 
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: TRICOLOR-5050  Device: LED-TRICOLOR-5050NO_IC</compID>
+		<compID>NOT OOMP  eagleValue: TRICOLOR-5050  eagleDevice: LED-TRICOLOR-5050NO_IC  eaglePackage: LED-TRICOLOR-5050</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  Value: TRICOLOR-5050  Device: LED-TRICOLOR-5050NO_IC</compID>
+		<compID>NOT OOMP  eagleValue: TRICOLOR-5050  eagleDevice: LED-TRICOLOR-5050NO_IC  eaglePackage: LED-TRICOLOR-5050</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>LED3</compIden>
-		<compID>NOT OOMP  Value: TRICOLOR-5050  Device: LED-TRICOLOR-5050NO_IC</compID>
+		<compID>NOT OOMP  eagleValue: TRICOLOR-5050  eagleDevice: LED-TRICOLOR-5050NO_IC  eaglePackage: LED-TRICOLOR-5050</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -134,7 +134,7 @@ Originally designed to be used in mobile device and automotive applications, it 
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: LP55231WQFN  Device: LP55231WQFN</compID>
+		<compID>NOT OOMP  eagleValue: LP55231WQFN  eagleDevice: LP55231WQFN  eaglePackage: WQFN-24</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

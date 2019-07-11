@@ -43,7 +43,7 @@ With this version, we've corrected a few issues found with the board. These chan
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  Value: 500mA  Device: PTCSMD</compID>
+		<compID>NOT OOMP  eagleValue: 500mA  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -78,14 +78,14 @@ With this version, we've corrected a few issues found with the board. These chan
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-SPDTSMD</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPDTSMD  eaglePackage: AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: FT232R  Device: FT232RLSSOP</compID>
+		<compID>NOT OOMP  eagleValue: FT232R  eagleDevice: FT232RLSSOP  eaglePackage: SSOP28DB</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

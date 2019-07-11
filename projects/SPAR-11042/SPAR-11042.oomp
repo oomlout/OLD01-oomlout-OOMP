@@ -24,14 +24,14 @@ Note: Please keep in mind that this board is really meant for someone with exper
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: 1N4148  Device: DIODEKIT</compID>
+		<compID>NOT OOMP  eagleValue: 1N4148  eagleDevice: DIODEKIT  eaglePackage: DIODE-1N4148-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  Value: Zener  Device: DIODE-ZENER</compID>
+		<compID>NOT OOMP  eagleValue: Zener  eagleDevice: DIODE-ZENER  eaglePackage: DIODE-1N4148-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -52,21 +52,21 @@ Note: Please keep in mind that this board is really meant for someone with exper
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>K1</compIden>
-		<compID>NOT OOMP  Value: JQX-15F  Device: RELAYPTH5</compID>
+		<compID>NOT OOMP  eagleValue: JQX-15F  eagleDevice: RELAYPTH5  eaglePackage: RELAY-T90</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value:   Device: LED5MM-KIT</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LED5MM-KIT  eaglePackage: LED5MM-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: 2N3904  Device: TRANSISTOR_NPN2N3904-EZ</compID>
+		<compID>NOT OOMP  eagleValue: 2N3904  eagleDevice: TRANSISTOR_NPN2N3904-EZ  eaglePackage: TO-92-EZ</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

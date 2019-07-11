@@ -23,14 +23,14 @@ Note: Be sure to check out the Hookup Guide in the Documents section below for h
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>BAT1</compIden>
-		<compID>NOT OOMP  Value: AA  Device: BATTERYAA-KIT</compID>
+		<compID>NOT OOMP  eagleValue: AA  eagleDevice: BATTERYAA-KIT  eaglePackage: BATTERY-AA-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>BAT2</compIden>
-		<compID>NOT OOMP  Value: AA  Device: BATTERYAA-KIT</compID>
+		<compID>NOT OOMP  eagleValue: AA  eagleDevice: BATTERYAA-KIT  eaglePackage: BATTERY-AA-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -51,42 +51,42 @@ Note: Be sure to check out the Hookup Guide in the Documents section below for h
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>LED0</compIden>
-		<compID>NOT OOMP  Value:   Device: LED5MM-KIT</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LED5MM-KIT  eaglePackage: LED5MM-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value:   Device: LED5MM-KIT</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LED5MM-KIT  eaglePackage: LED5MM-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  Value:   Device: LED5MM-KIT</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LED5MM-KIT  eaglePackage: LED5MM-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>LED3</compIden>
-		<compID>NOT OOMP  Value:   Device: LED5MM-KIT</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LED5MM-KIT  eaglePackage: LED5MM-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>LED4</compIden>
-		<compID>NOT OOMP  Value:   Device: LED5MM-KIT</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LED5MM-KIT  eaglePackage: LED5MM-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>LED5</compIden>
-		<compID>NOT OOMP  Value:   Device: LED5MM-KIT</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LED5MM-KIT  eaglePackage: LED5MM-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -128,21 +128,21 @@ Note: Be sure to check out the Hookup Guide in the Documents section below for h
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: Power  Device: SWITCH-SPDTKIT</compID>
+		<compID>NOT OOMP  eagleValue: Power  eagleDevice: SWITCH-SPDTKIT  eaglePackage: SWITCH-SPDT_KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-SPDTKIT</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPDTKIT  eaglePackage: SWITCH-SPDT_KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>SG1</compIden>
-		<compID>NOT OOMP  Value: BUZZER  Device: BUZZERPTH-KIT</compID>
+		<compID>NOT OOMP  eagleValue: BUZZER  eagleDevice: BUZZERPTH-KIT  eaglePackage: BUZZER-12MM-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

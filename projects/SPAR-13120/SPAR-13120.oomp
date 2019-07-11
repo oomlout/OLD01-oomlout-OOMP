@@ -24,7 +24,7 @@ Note: The SparkFun Cellular Shield requires a passive GPS antenna with a short l
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>BAT1</compIden>
-		<compID>NOT OOMP  Value: 12mm coincell  Device: BATTERY12MM</compID>
+		<compID>NOT OOMP  eagleValue: 12mm coincell  eagleDevice: BATTERY12MM  eaglePackage: BATTCON_12MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -129,7 +129,7 @@ Note: The SparkFun Cellular Shield requires a passive GPS antenna with a short l
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: MMBT2222A  Device: TRANSISTOR_NPNMMBT2222A</compID>
+		<compID>NOT OOMP  eagleValue: MMBT2222A  eagleDevice: TRANSISTOR_NPNMMBT2222A  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -227,21 +227,21 @@ Note: The SparkFun Cellular Shield requires a passive GPS antenna with a short l
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: SPX29302  Device: SPX29302</compID>
+		<compID>NOT OOMP  eagleValue: SPX29302  eagleDevice: SPX29302  eaglePackage: Q5-DD_SPX29300</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: TXB0104  Device: TXB0104PWRSOIC14</compID>
+		<compID>NOT OOMP  eagleValue: TXB0104  eagleDevice: TXB0104PWRSOIC14  eaglePackage: SO14</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>32</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: MG2639V3  Device: MG2639V3</compID>
+		<compID>NOT OOMP  eagleValue: MG2639V3  eagleDevice: MG2639V3  eaglePackage: MG2639</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
