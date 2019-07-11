@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __SMD (0402) 11 nF Capacitor (Ceramic) 50v__    
+Name: __SMD (0402) 10 nF Capacitor (Ceramic) 50v__    
 ID: __CAPC-0402-X-NF10-V50__   
 Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0402-X-NF10-V50__   

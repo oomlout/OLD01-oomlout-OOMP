@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __SMD (0603) 23 nF Capacitor (Ceramic) 50v__    
+Name: __SMD (0603) 22 nF Capacitor (Ceramic) 50v__    
 ID: __CAPC-0603-X-NF22-V50__   
 Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0603-X-NF22-V50__   

@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __SMD (0603) 11 uF Capacitor (Ceramic) 6.3v__    
+Name: __SMD (0603) 10 uF Capacitor (Ceramic) 6.3v__    
 ID: __CAPC-0603-X-UF10-V63D__   
 Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0603-X-UF10-V63D__   

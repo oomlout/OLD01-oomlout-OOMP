@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __SMD (0402) 48 nF Capacitor (Ceramic) 25v__    
+Name: __SMD (0402) 47 nF Capacitor (Ceramic) 25v__    
 ID: __CAPC-0402-X-NF47-V25__   
 Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0402-X-NF47-V25__   

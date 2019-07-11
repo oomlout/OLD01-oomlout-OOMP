@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __SMD (0603) 230 nF Capacitor (Ceramic) 25v__    
+Name: __SMD (0603) 220 nF Capacitor (Ceramic) 25v__    
 ID: __CAPC-0603-X-NF220-V25__   
 Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0603-X-NF220-V25__   

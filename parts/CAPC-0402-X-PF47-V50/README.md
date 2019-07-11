@@ -3,7 +3,7 @@
 Summary
 =================
   
-Name: __SMD (0402) 48 pF Capacitor (Ceramic) 50v__    
+Name: __SMD (0402) 47 pF Capacitor (Ceramic) 50v__    
 ID: __CAPC-0402-X-PF47-V50__   
 Hex ID: ____   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0402-X-PF47-V50__   
