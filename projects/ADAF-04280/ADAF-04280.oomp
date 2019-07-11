@@ -39,7 +39,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>A0</compIden>
-		<compID>NOT OOMP  Value:   Device: SOLDERJUMPERREFLOW_NOPASTE</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SOLDERJUMPERREFLOW_NOPASTE  eaglePackage: SOLDERJUMPER_REFLOW_NOPASTE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -88,35 +88,35 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>CONN1</compIden>
-		<compID>NOT OOMP  Value: HEADER-1X25  Device: HEADER-1X25</compID>
+		<compID>NOT OOMP  eagleValue: HEADER-1X25  eagleDevice: HEADER-1X25  eaglePackage: 1X25_ROUND_70MIL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>IC1</compIden>
-		<compID>NOT OOMP  Value: TB6612FNG  Device: TB6612FNG</compID>
+		<compID>NOT OOMP  eagleValue: TB6612FNG  eagleDevice: TB6612FNG  eaglePackage: SSOP24</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>IC3</compIden>
-		<compID>NOT OOMP  Value: TB6612FNG  Device: TB6612FNG</compID>
+		<compID>NOT OOMP  eagleValue: TB6612FNG  eagleDevice: TB6612FNG  eaglePackage: SSOP24</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: 1X5  Device: 1X5</compID>
+		<compID>NOT OOMP  eagleValue: 1X5  eagleDevice: 1X5  eaglePackage: 1X05-3.5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  Value: 1X5  Device: 1X5</compID>
+		<compID>NOT OOMP  eagleValue: 1X5  eagleDevice: 1X5  eaglePackage: 1X05-3.5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -130,14 +130,14 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>MPOWER</compIden>
-		<compID>NOT OOMP  Value: 1X2-3.5MM  Device: 1X2-3.5MM</compID>
+		<compID>NOT OOMP  eagleValue: 1X2-3.5MM  eagleDevice: 1X2-3.5MM  eaglePackage: 1X2-3.5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: AOD417  Device: IRFR5305</compID>
+		<compID>NOT OOMP  eagleValue: AOD417  eagleDevice: IRFR5305  eaglePackage: D-PAK_TO252AA</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -207,21 +207,21 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>RPI1</compIden>
-		<compID>NOT OOMP  Value: RASPBERRYPI_BPLUS_HATSLOTS  Device: RASPBERRYPI_BPLUS_HATSLOTS</compID>
+		<compID>NOT OOMP  eagleValue: RASPBERRYPI_BPLUS_HATSLOTS  eagleDevice: RASPBERRYPI_BPLUS_HATSLOTS  eaglePackage: PI_HAT_SLOTS</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: CAT24C32  Device: EEPROM_I2C_SOIC8_GENERIC</compID>
+		<compID>NOT OOMP  eagleValue: CAT24C32  eagleDevice: EEPROM_I2C_SOIC8_GENERIC  eaglePackage: SOIC8_150MIL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: PCA9685  Device: PCA9685</compID>
+		<compID>NOT OOMP  eagleValue: PCA9685  eagleDevice: PCA9685  eaglePackage: TSSOP28</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

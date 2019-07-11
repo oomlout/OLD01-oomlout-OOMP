@@ -66,35 +66,35 @@ Note: Because of the added battery charging circuitry the Simple is unable to po
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  Value: Status  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: Status  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>D4</compIden>
-		<compID>NOT OOMP  Value: Yellow  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: Yellow  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>PP-MISO</compIden>
-		<compID>NOT OOMP  Value:   Device: TEST-POINT3X5</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TEST-POINT3X5  eaglePackage: PAD.03X.05</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>PP-RST</compIden>
-		<compID>NOT OOMP  Value:   Device: TEST-POINT3X5</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TEST-POINT3X5  eaglePackage: PAD.03X.05</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>PP-SCK</compIden>
-		<compID>NOT OOMP  Value:   Device: TEST-POINT3X5</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TEST-POINT3X5  eaglePackage: PAD.03X.05</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -129,35 +129,35 @@ Note: Because of the added battery charging circuitry the Simple is unable to po
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value: On/Off  Device: AYZ0202</compID>
+		<compID>NOT OOMP  eagleValue: On/Off  eagleDevice: AYZ0202  eaglePackage: AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>S3</compIden>
-		<compID>NOT OOMP  Value: Reset  Device: SWITCH-MOMENTARY-2SMD</compID>
+		<compID>NOT OOMP  eagleValue: Reset  eagleDevice: SWITCH-MOMENTARY-2SMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: ATMEGA328  Device: ATMEGA168</compID>
+		<compID>NOT OOMP  eagleValue: ATMEGA328  eagleDevice: ATMEGA168  eaglePackage: TQFP32-08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: MCP73831  Device: MCP73831</compID>
+		<compID>NOT OOMP  eagleValue: MCP73831  eagleDevice: MCP73831  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  Value: 8MHz  Device: RESONATORSMD</compID>
+		<compID>NOT OOMP  eagleValue: 8MHz  eagleDevice: RESONATORSMD  eaglePackage: RESONATOR-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

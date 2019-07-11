@@ -72,14 +72,14 @@ This board seems to get decent reception compared to other stereos around the of
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>L1</compIden>
-		<compID>NOT OOMP  Value: 180nH  Device: INDUCTOR0402</compID>
+		<compID>NOT OOMP  eagleValue: 180nH  eagleDevice: INDUCTOR0402  eaglePackage: C0402</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>L2</compIden>
-		<compID>NOT OOMP  Value: 4.7uH  Device: INDUCTOR0402</compID>
+		<compID>NOT OOMP  eagleValue: 4.7uH  eagleDevice: INDUCTOR0402  eaglePackage: C0402</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -93,49 +93,49 @@ This board seems to get decent reception compared to other stereos around the of
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-SPSTSMD</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPSTSMD  eaglePackage: AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value: Reset Switch  Device: SWITCH-MOMENTARY-2SMD</compID>
+		<compID>NOT OOMP  eagleValue: Reset Switch  eagleDevice: SWITCH-MOMENTARY-2SMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: ARDUINO_SHIELDLABEL  Device: ARDUINO_SHIELDLABEL</compID>
+		<compID>NOT OOMP  eagleValue: ARDUINO_SHIELDLABEL  eagleDevice: ARDUINO_SHIELDLABEL  eaglePackage: DUEMILANOVE_SHIELD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: SI4735  Device: SI4735</compID>
+		<compID>NOT OOMP  eagleValue: SI4735  eagleDevice: SI4735  eaglePackage: SSOP24_NARROW</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value:   Device: AUDIO-JACKSMD2</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: AUDIO-JACKSMD2  eaglePackage: AUDIO-JACK-3.5MM-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: HEX_CONVERTER  Device: HEX_CONVERTER</compID>
+		<compID>NOT OOMP  eagleValue: HEX_CONVERTER  eagleDevice: HEX_CONVERTER  eaglePackage: SO016</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  Value: 32.768kHz  Device: CRYSTAL32-SMD</compID>
+		<compID>NOT OOMP  eagleValue: 32.768kHz  eagleDevice: CRYSTAL32-SMD  eaglePackage: CRYSTAL-32KHZ-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

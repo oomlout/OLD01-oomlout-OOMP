@@ -23,7 +23,7 @@ Board comes as shown, with all components (aside from the trim resistor) populat
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>C1</compIden>
-		<compID>NOT OOMP  Value: 100uF-25V  Device: CAP_POL</compID>
+		<compID>NOT OOMP  eagleValue: 100uF-25V  eagleDevice: CAP_POL  eaglePackage: NIPPON_F80</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -44,21 +44,21 @@ Board comes as shown, with all components (aside from the trim resistor) populat
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>IN</compIden>
-		<compID>NOT OOMP  Value:   Device: M05PTH</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: M05PTH  eaglePackage: 1X05</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>OUT</compIden>
-		<compID>NOT OOMP  Value:   Device: M03PTH</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: M03PTH  eaglePackage: 1X03</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: MOSFET-NCHANNELSMD  Device: MOSFET-NCHANNELSMD</compID>
+		<compID>NOT OOMP  eagleValue: MOSFET-NCHANNELSMD  eagleDevice: MOSFET-NCHANNELSMD  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -79,7 +79,7 @@ Board comes as shown, with all components (aside from the trim resistor) populat
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: DC-DC_CONVERTER  Device: DC-DC_CONVERTER</compID>
+		<compID>NOT OOMP  eagleValue: DC-DC_CONVERTER  eagleDevice: DC-DC_CONVERTER  eaglePackage: DC-DC_CONVERTER</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -1,7 +1,7 @@
 <xml>
 <oompProject>
 	<oompID>ADAF-01400</oompID>
-	<name></name>
+	<name>Adafruit Push-button Power Switch Breakout</name>
 	<hexID></hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
@@ -42,21 +42,21 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>CN1</compIden>
-		<compID>NOT OOMP  Value: 1X4-CLEANBIG  Device: 1X4-CLEANBIG</compID>
+		<compID>NOT OOMP  eagleValue: 1X4-CLEANBIG  eagleDevice: 1X4-CLEANBIG  eaglePackage: 1X04-CLEANBIG</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>CN2</compIden>
-		<compID>NOT OOMP  Value: 1X4-CLEANBIG  Device: 1X4-CLEANBIG</compID>
+		<compID>NOT OOMP  eagleValue: 1X4-CLEANBIG  eagleDevice: 1X4-CLEANBIG  eaglePackage: 1X04-CLEANBIG</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>IC1</compIden>
-		<compID>NOT OOMP  Value: 4093DT  Device: 4093DT</compID>
+		<compID>NOT OOMP  eagleValue: 4093DT  eagleDevice: 4093DT  eaglePackage: MC14093B-TSSOP14</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -70,14 +70,14 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: 2N2222  Device: MMBT2222ALT1-NPN-SOT23-BEC</compID>
+		<compID>NOT OOMP  eagleValue: 2N2222  eagleDevice: MMBT2222ALT1-NPN-SOT23-BEC  eaglePackage: SOT23-BEC</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  Value: POWER PFET  Device: MOSFET-PWIDE</compID>
+		<compID>NOT OOMP  eagleValue: POWER PFET  eagleDevice: MOSFET-PWIDE  eaglePackage: SOT23-WIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -112,7 +112,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value:   Device: 40-XX-ROUND</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: 40-XX-ROUND  eaglePackage: B3F-40XX-ROUND</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -107,21 +107,21 @@ Note: The accelerometer on this board is connected to the auxiliary I2C input of
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: IMU3000  Device: IMU3000</compID>
+		<compID>NOT OOMP  eagleValue: IMU3000  eagleDevice: IMU3000  eaglePackage: QFN-24</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: ADXL345  Device: ADXL345</compID>
+		<compID>NOT OOMP  eagleValue: ADXL345  eagleDevice: ADXL345  eaglePackage: LGA14</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: 3.3V  Device: V_REG_LDOSMD</compID>
+		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -95,63 +95,63 @@ Note: This shield was designed for the SparkFun RedBoard and Arduino Uno and wil
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>D5</compIden>
-		<compID>NOT OOMP  Value: 250mA/100V  Device: DIODEBAS16</compID>
+		<compID>NOT OOMP  eagleValue: 250mA/100V  eagleDevice: DIODEBAS16  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>D6</compIden>
-		<compID>NOT OOMP  Value: 250mA/100V  Device: DIODEBAS16</compID>
+		<compID>NOT OOMP  eagleValue: 250mA/100V  eagleDevice: DIODEBAS16  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>D7</compIden>
-		<compID>NOT OOMP  Value: 250mA/100V  Device: DIODEBAS16</compID>
+		<compID>NOT OOMP  eagleValue: 250mA/100V  eagleDevice: DIODEBAS16  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>D8</compIden>
-		<compID>NOT OOMP  Value: 250mA/100V  Device: DIODEBAS16</compID>
+		<compID>NOT OOMP  eagleValue: 250mA/100V  eagleDevice: DIODEBAS16  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>D9</compIden>
-		<compID>NOT OOMP  Value: 250mA/100V  Device: DIODEBAS16</compID>
+		<compID>NOT OOMP  eagleValue: 250mA/100V  eagleDevice: DIODEBAS16  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>D10</compIden>
-		<compID>NOT OOMP  Value: 250mA/100V  Device: DIODEBAS16</compID>
+		<compID>NOT OOMP  eagleValue: 250mA/100V  eagleDevice: DIODEBAS16  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: GP-735  Device: GP-635TSMD</compID>
+		<compID>NOT OOMP  eagleValue: GP-735  eagleDevice: GP-635TSMD  eaglePackage: GP-635T</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: 200mA/50V  Device: MOSFET-NCHANNELBSS138</compID>
+		<compID>NOT OOMP  eagleValue: 200mA/50V  eagleDevice: MOSFET-NCHANNELBSS138  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  Value: 200mA/50V  Device: MOSFET-NCHANNELBSS138</compID>
+		<compID>NOT OOMP  eagleValue: 200mA/50V  eagleDevice: MOSFET-NCHANNELBSS138  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -277,42 +277,42 @@ Note: This shield was designed for the SparkFun RedBoard and Arduino Uno and wil
 	<component>
 		<compIndex>37</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value: DPDT  Device: SWITCH-DPDTAYZ0202</compID>
+		<compID>NOT OOMP  eagleValue: DPDT  eagleDevice: SWITCH-DPDTAYZ0202  eaglePackage: AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>38</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: ARDUINO_R3_SHIELD  Device: ARDUINO_R3_SHIELD</compID>
+		<compID>NOT OOMP  eagleValue: ARDUINO_R3_SHIELD  eagleDevice: ARDUINO_R3_SHIELD  eaglePackage: UNO_R3_SHIELD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>39</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: ALS-PT19  Device: LIGHTSENSORALS</compID>
+		<compID>NOT OOMP  eagleValue: ALS-PT19  eagleDevice: LIGHTSENSORALS  eaglePackage: ALS-PT19</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>40</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: MPL3115A2LGA8  Device: MPL3115A2LGA8</compID>
+		<compID>NOT OOMP  eagleValue: MPL3115A2LGA8  eagleDevice: MPL3115A2LGA8  eaglePackage: LGA8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>41</compIndex>
 		<compIden>U5</compIden>
-		<compID>NOT OOMP  Value: SI7021  Device: SI7021</compID>
+		<compID>NOT OOMP  eagleValue: SI7021  eagleDevice: SI7021  eaglePackage: SI7021</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>42</compIndex>
 		<compIden>U6</compIden>
-		<compID>NOT OOMP  Value: 3.3V/150mA  Device: V_REG_MIC52053.3V</compID>
+		<compID>NOT OOMP  eagleValue: 3.3V/150mA  eagleDevice: V_REG_MIC52053.3V  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

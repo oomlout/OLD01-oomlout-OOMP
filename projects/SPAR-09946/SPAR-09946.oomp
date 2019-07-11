@@ -43,14 +43,14 @@ Four output voltages (1.8V, 2.5V, 3.3V and 3.6V) are pin selectable with up to 1
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: LTC3588  Device: LTC3588_</compID>
+		<compID>NOT OOMP  eagleValue: LTC3588  eagleDevice: LTC3588_  eaglePackage: MSOP-10-GNDPAD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: 10uH  Device: INDUCTOR-</compID>
+		<compID>NOT OOMP  eagleValue: 10uH  eagleDevice: INDUCTOR-  eaglePackage: CDRH3D28</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

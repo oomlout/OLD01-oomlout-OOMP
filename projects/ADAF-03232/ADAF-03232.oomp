@@ -49,7 +49,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>MS1</compIden>
-		<compID>NOT OOMP  Value: FEATHERWING_NOHOLES  Device: FEATHERWING_NOHOLES</compID>
+		<compID>NOT OOMP  eagleValue: FEATHERWING_NOHOLES  eagleDevice: FEATHERWING_NOHOLES  eaglePackage: FEATHERWING_NOHOLES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -70,21 +70,21 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>SW1</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH_TACT_SMT4.6X2.8</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH_TACT_SMT4.6X2.8  eaglePackage: BTN_KMR2_4.6X2.8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: RFM69/9x  Device: RFM69HCW_SMT</compID>
+		<compID>NOT OOMP  eagleValue: RFM69/9x  eagleDevice: RFM69HCW_SMT  eaglePackage: RFMHCW_SMT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>X1</compIden>
-		<compID>NOT OOMP  Value: uFL/SMA  Device: SMACONNECTOR_EDGE_UFL</compID>
+		<compID>NOT OOMP  eagleValue: uFL/SMA  eagleDevice: SMACONNECTOR_EDGE_UFL  eaglePackage: SMA_EDGELAUNCH_UFL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

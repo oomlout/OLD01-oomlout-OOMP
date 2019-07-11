@@ -41,7 +41,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>B1</compIden>
-		<compID>NOT OOMP  Value: CR1220  Device: BATTERYCR1220_SMT</compID>
+		<compID>NOT OOMP  eagleValue: CR1220  eagleDevice: BATTERYCR1220_SMT  eaglePackage: CR1220</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -69,14 +69,14 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>CN2</compIden>
-		<compID>NOT OOMP  Value:   Device: MICROSD</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: MICROSD  eaglePackage: MICROSD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>FB1</compIden>
-		<compID>NOT OOMP  Value: Ferrite  Device: FERRITE0805</compID>
+		<compID>NOT OOMP  eagleValue: Ferrite  eagleDevice: FERRITE0805  eaglePackage: 0805@1</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -132,42 +132,42 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>RESET</compIden>
-		<compID>NOT OOMP  Value: Reset  Device: SPST_TACT-EVQQ2</compID>
+		<compID>NOT OOMP  eagleValue: Reset  eagleDevice: SPST_TACT-EVQQ2  eaglePackage: EVQ-Q2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>SW1</compIden>
-		<compID>NOT OOMP  Value:   Device: DPDT-EG1390</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: DPDT-EG1390  eaglePackage: EG1390</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: FGPMMOPA6H  Device: GPS_FGPMMOPA6H</compID>
+		<compID>NOT OOMP  eagleValue: FGPMMOPA6H  eagleDevice: GPS_FGPMMOPA6H  eaglePackage: FGPMMOPA6H</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: MIC5225-3.3  Device: VREG_SOT23-5</compID>
+		<compID>NOT OOMP  eagleValue: MIC5225-3.3  eagleDevice: VREG_SOT23-5  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: ARDUINOR3-DIMENSION  Device: ARDUINOR3-DIMENSION</compID>
+		<compID>NOT OOMP  eagleValue: ARDUINOR3-DIMENSION  eagleDevice: ARDUINOR3-DIMENSION  eaglePackage: ARDUINOR3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: 4050  Device: 74HC4050D</compID>
+		<compID>NOT OOMP  eagleValue: 4050  eagleDevice: 74HC4050D  eaglePackage: SOIC16</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

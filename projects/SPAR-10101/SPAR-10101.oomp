@@ -29,35 +29,35 @@ This also frees up an ADC for another sensor that may require more than a voltag
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>IC1</compIden>
-		<compID>NOT OOMP  Value: LMV358  Device: OPAMP-DUALU</compID>
+		<compID>NOT OOMP  eagleValue: LMV358  eagleDevice: OPAMP-DUALU  eaglePackage: SO08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: mmbt2222  Device: TRANSISTOR_NPNSOT23-3</compID>
+		<compID>NOT OOMP  eagleValue: mmbt2222  eagleDevice: TRANSISTOR_NPNSOT23-3  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  Value: mmbt2222  Device: TRANSISTOR_NPNSOT23-3</compID>
+		<compID>NOT OOMP  eagleValue: mmbt2222  eagleDevice: TRANSISTOR_NPNSOT23-3  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>R1</compIden>
-		<compID>NOT OOMP  Value: 10K  Device: TRIMPOTSMD</compID>
+		<compID>NOT OOMP  eagleValue: 10K  eagleDevice: TRIMPOTSMD  eaglePackage: TRIMPOT-3MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>R2</compIden>
-		<compID>NOT OOMP  Value: 10K  Device: TRIMPOTSMD</compID>
+		<compID>NOT OOMP  eagleValue: 10K  eagleDevice: TRIMPOTSMD  eaglePackage: TRIMPOT-3MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -99,7 +99,7 @@ This also frees up an ADC for another sensor that may require more than a voltag
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>STAT</compIden>
-		<compID>NOT OOMP  Value:   Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

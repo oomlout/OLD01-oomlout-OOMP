@@ -27,14 +27,14 @@ Note: If using metal mounting hardware, please be aware that the top side of the
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>2MM1</compIden>
-		<compID>NOT OOMP  Value:   Device: SCHMALZHAUS_M04</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SCHMALZHAUS_M04  eaglePackage: SCHMALZHAUS_SCREWTERMINAL-3.5MM-4_LOCK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>2MM2</compIden>
-		<compID>NOT OOMP  Value:   Device: SCHMALZHAUS_M04</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SCHMALZHAUS_M04  eaglePackage: SCHMALZHAUS_SCREWTERMINAL-3.5MM-4_LOCK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -188,161 +188,161 @@ Note: If using metal mounting hardware, please be aware that the top side of the
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value:   Device: DIODE-DO214AC</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: DIODE-DO214AC  eaglePackage: DO214AC</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  Value:   Device: DIODESMA</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: DIODESMA  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  Value:   Device: DIODESMA</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: DIODESMA  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>D4</compIden>
-		<compID>NOT OOMP  Value:   Device: CGRM4001-G</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CGRM4001-G  eaglePackage: SOD-123_MINI-SMA</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  Value: PTCSMD  Device: PTCSMD</compID>
+		<compID>NOT OOMP  eagleValue: PTCSMD  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>IC1</compIden>
-		<compID>NOT OOMP  Value: A4983ALT1  Device: A4983ALT1</compID>
+		<compID>NOT OOMP  eagleValue: A4983ALT1  eagleDevice: A4983ALT1  eaglePackage: QFN-28-5MM_ALT1</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>IC2</compIden>
-		<compID>NOT OOMP  Value: A4983ALT1  Device: A4983ALT1</compID>
+		<compID>NOT OOMP  eagleValue: A4983ALT1  eagleDevice: A4983ALT1  eaglePackage: QFN-28-5MM_ALT1</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>IC3</compIden>
-		<compID>NOT OOMP  Value: PIC18F46J50-I/PT  Device: PIC18F4J50</compID>
+		<compID>NOT OOMP  eagleValue: PIC18F46J50-I/PT  eagleDevice: PIC18F4J50  eaglePackage: TQFP44</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>32</compIndex>
 		<compIden>IC4</compIden>
-		<compID>NOT OOMP  Value: LM317MABDT  Device: LM317MABDT</compID>
+		<compID>NOT OOMP  eagleValue: LM317MABDT  eagleDevice: LM317MABDT  eaglePackage: DPACK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>33</compIndex>
 		<compIden>IC5</compIden>
-		<compID>NOT OOMP  Value: LM317MABDT  Device: LM317MABDT</compID>
+		<compID>NOT OOMP  eagleValue: LM317MABDT  eagleDevice: LM317MABDT  eaglePackage: DPACK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>34</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  Value: USBSMD  Device: USBSMD</compID>
+		<compID>NOT OOMP  eagleValue: USBSMD  eagleDevice: USBSMD  eaglePackage: USB-MINIB</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>35</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  Value: IO  Device: M12PTH</compID>
+		<compID>NOT OOMP  eagleValue: IO  eagleDevice: M12PTH  eaglePackage: 1X12</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>36</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  Value: IO  Device: M12PTH</compID>
+		<compID>NOT OOMP  eagleValue: IO  eagleDevice: M12PTH  eaglePackage: 1X12</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>37</compIndex>
 		<compIden>J6</compIden>
-		<compID>NOT OOMP  Value: POWER_JACKSMD  Device: POWER_JACKSMD</compID>
+		<compID>NOT OOMP  eagleValue: POWER_JACKSMD  eagleDevice: POWER_JACKSMD  eaglePackage: POWER_JACK_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>38</compIndex>
 		<compIden>J7</compIden>
-		<compID>NOT OOMP  Value: POWER_JACKSMD  Device: POWER_JACKSMD</compID>
+		<compID>NOT OOMP  eagleValue: POWER_JACKSMD  eagleDevice: POWER_JACKSMD  eaglePackage: POWER_JACK_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>39</compIndex>
 		<compIden>J8</compIden>
-		<compID>NOT OOMP  Value: ICSP  Device: M05_WIDENOSILK</compID>
+		<compID>NOT OOMP  eagleValue: ICSP  eagleDevice: M05_WIDENOSILK  eaglePackage: 1X05_NOSILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>40</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: DIR1_RED  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: DIR1_RED  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>41</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  Value: DIR2_RED  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: DIR2_RED  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>42</compIndex>
 		<compIden>PWR</compIden>
-		<compID>NOT OOMP  Value: GREEN  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: GREEN  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>43</compIndex>
 		<compIden>R1</compIden>
-		<compID>NOT OOMP  Value: .22  Device: R-US_R0805</compID>
+		<compID>NOT OOMP  eagleValue: .22  eagleDevice: R-US_R0805  eaglePackage: R0805</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>44</compIndex>
 		<compIden>R2</compIden>
-		<compID>NOT OOMP  Value: .22  Device: R-US_R0805</compID>
+		<compID>NOT OOMP  eagleValue: .22  eagleDevice: R-US_R0805  eaglePackage: R0805</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>45</compIndex>
 		<compIden>R3</compIden>
-		<compID>NOT OOMP  Value: .22  Device: R-US_R0805</compID>
+		<compID>NOT OOMP  eagleValue: .22  eagleDevice: R-US_R0805  eaglePackage: R0805</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>46</compIndex>
 		<compIden>R4</compIden>
-		<compID>NOT OOMP  Value: .22  Device: R-US_R0805</compID>
+		<compID>NOT OOMP  eagleValue: .22  eagleDevice: R-US_R0805  eaglePackage: R0805</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -391,7 +391,7 @@ Note: If using metal mounting hardware, please be aware that the top side of the
 	<component>
 		<compIndex>53</compIndex>
 		<compIden>R11</compIden>
-		<compID>NOT OOMP  Value: TRIMPOTSMD - 10K  Device: TRIMPOTSMD</compID>
+		<compID>NOT OOMP  eagleValue: TRIMPOTSMD - 10K  eagleDevice: TRIMPOTSMD  eaglePackage: TRIMPOT-3MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -433,7 +433,7 @@ Note: If using metal mounting hardware, please be aware that the top side of the
 	<component>
 		<compIndex>59</compIndex>
 		<compIden>R17</compIden>
-		<compID>NOT OOMP  Value: 68.1K  Device: R-US_R0603</compID>
+		<compID>NOT OOMP  eagleValue: 68.1K  eagleDevice: R-US_R0603  eaglePackage: R0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -447,7 +447,7 @@ Note: If using metal mounting hardware, please be aware that the top side of the
 	<component>
 		<compIndex>61</compIndex>
 		<compIden>R19</compIden>
-		<compID>NOT OOMP  Value: 715  Device: R-US_R0603</compID>
+		<compID>NOT OOMP  eagleValue: 715  eagleDevice: R-US_R0603  eaglePackage: R0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -510,28 +510,28 @@ Note: If using metal mounting hardware, please be aware that the top side of the
 	<component>
 		<compIndex>70</compIndex>
 		<compIden>SW1</compIden>
-		<compID>NOT OOMP  Value: PRG  Device: TAC_SWITCHSND</compID>
+		<compID>NOT OOMP  eagleValue: PRG  eagleDevice: TAC_SWITCHSND  eaglePackage: TACTILE_SWITCH_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>71</compIndex>
 		<compIden>SW2</compIden>
-		<compID>NOT OOMP  Value: RST  Device: TAC_SWITCHSND</compID>
+		<compID>NOT OOMP  eagleValue: RST  eagleDevice: TAC_SWITCHSND  eaglePackage: TACTILE_SWITCH_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>72</compIndex>
 		<compIden>USB</compIden>
-		<compID>NOT OOMP  Value: GREEN  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: GREEN  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>73</compIndex>
 		<compIden>USR</compIden>
-		<compID>NOT OOMP  Value: RED  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: RED  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -23,49 +23,49 @@ The fabrickit White LED brick incorporates a white SMD LED and is an easy way to
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: FKIT-RIBBON_CONNECTOR-2MM_L_REV2  Device: FKIT-RIBBON_CONNECTOR-2MM_L_REV2</compID>
+		<compID>NOT OOMP  eagleValue: FKIT-RIBBON_CONNECTOR-2MM_L_REV2  eagleDevice: FKIT-RIBBON_CONNECTOR-2MM_L_REV2  eaglePackage: FKIT-RIBBON_CONNECTOR_03_2MM_L</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value: FKIT-RIBBON_CONNECTOR-2MM_L_REV2  Device: FKIT-RIBBON_CONNECTOR-2MM_L_REV2</compID>
+		<compID>NOT OOMP  eagleValue: FKIT-RIBBON_CONNECTOR-2MM_L_REV2  eagleDevice: FKIT-RIBBON_CONNECTOR-2MM_L_REV2  eaglePackage: FKIT-RIBBON_CONNECTOR_03_2MM_L</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  Value: FKIT-RIBBON_CONNECTOR-2MM_R_REV2  Device: FKIT-RIBBON_CONNECTOR-2MM_R_REV2</compID>
+		<compID>NOT OOMP  eagleValue: FKIT-RIBBON_CONNECTOR-2MM_R_REV2  eagleDevice: FKIT-RIBBON_CONNECTOR-2MM_R_REV2  eaglePackage: FKIT-RIBBON_CONNECTOR_03_2MM_R</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  Value: FKIT-RIBBON_CONNECTOR-2MM_R_REV2  Device: FKIT-RIBBON_CONNECTOR-2MM_R_REV2</compID>
+		<compID>NOT OOMP  eagleValue: FKIT-RIBBON_CONNECTOR-2MM_R_REV2  eagleDevice: FKIT-RIBBON_CONNECTOR-2MM_R_REV2  eaglePackage: FKIT-RIBBON_CONNECTOR_03_2MM_R</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value:   Device: LED</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LED  eaglePackage: FKIT-LED-1206_NO_CREAM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  Value:   Device: LED-3MM-NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LED-3MM-NO_SILK  eaglePackage: LED3MM-NS</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>R1</compIden>
-		<compID>NOT OOMP  Value:   Device: RESISTOR0603</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: RESISTOR0603  eaglePackage: 0603-RES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

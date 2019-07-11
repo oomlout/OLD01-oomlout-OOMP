@@ -23,14 +23,14 @@ Checkout the assembly instructions - we're pretty proud of them. The kit even in
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>BAT1</compIden>
-		<compID>NOT OOMP  Value: AA  Device: BATTERYAA-KIT</compID>
+		<compID>NOT OOMP  eagleValue: AA  eagleDevice: BATTERYAA-KIT  eaglePackage: BATTERY-AA-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>BAT2</compIden>
-		<compID>NOT OOMP  Value: AA  Device: BATTERYAA-KIT</compID>
+		<compID>NOT OOMP  eagleValue: AA  eagleDevice: BATTERYAA-KIT  eaglePackage: BATTERY-AA-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -51,14 +51,14 @@ Checkout the assembly instructions - we're pretty proud of them. The kit even in
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>IC1</compIden>
-		<compID>NOT OOMP  Value: AVR-MEGA8-P  Device: AVR-MEGA8-PKIT</compID>
+		<compID>NOT OOMP  eagleValue: AVR-MEGA8-P  eagleDevice: AVR-MEGA8-PKIT  eaglePackage: DIL28-3-SIMON-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>P1-</compIden>
-		<compID>NOT OOMP  Value: BUTTONPAD-2X2SINGLEKIT  Device: BUTTONPAD-2X2SINGLEKIT</compID>
+		<compID>NOT OOMP  eagleValue: BUTTONPAD-2X2SINGLEKIT  eagleDevice: BUTTONPAD-2X2SINGLEKIT  eaglePackage: BUTTONPAD-2X2SINGLE-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -72,21 +72,21 @@ Checkout the assembly instructions - we're pretty proud of them. The kit even in
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: Power  Device: SWITCH-SPSTKIT</compID>
+		<compID>NOT OOMP  eagleValue: Power  eagleDevice: SWITCH-SPSTKIT  eaglePackage: SWITCH-SPDT_KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-SPSTKIT</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPSTKIT  eaglePackage: SWITCH-SPDT_KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>SG1</compIden>
-		<compID>NOT OOMP  Value: BUZZER  Device: BUZZERKIT</compID>
+		<compID>NOT OOMP  eagleValue: BUZZER  eagleDevice: BUZZERKIT  eaglePackage: BUZZER-12MM-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

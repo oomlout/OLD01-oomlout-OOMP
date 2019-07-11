@@ -23,28 +23,28 @@ Note: The MIDI Shield does not come with all parts soldered on. Two MIDI connect
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: MBRA140  Device: MBRA140</compID>
+		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: MBRA140  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: MIDI IN  Device: 5-PIN-CIRCULAR-DINNEW</compID>
+		<compID>NOT OOMP  eagleValue: MIDI IN  eagleDevice: 5-PIN-CIRCULAR-DINNEW  eaglePackage: 5-PIN-DIN-RA-PCB-NEW</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value: MIDI OUT  Device: 5-PIN-CIRCULAR-DINNEW</compID>
+		<compID>NOT OOMP  eagleValue: MIDI OUT  eagleDevice: 5-PIN-CIRCULAR-DINNEW  eaglePackage: 5-PIN-DIN-RA-PCB-NEW</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  Value: UNO_R3_SHIELD  Device: ARDUINO_R3_SHIELD</compID>
+		<compID>NOT OOMP  eagleValue: UNO_R3_SHIELD  eagleDevice: ARDUINO_R3_SHIELD  eaglePackage: UNO_R3_SHIELD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -107,14 +107,14 @@ Note: The MIDI Shield does not come with all parts soldered on. Two MIDI connect
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>RV1</compIden>
-		<compID>NOT OOMP  Value: 10k  Device: POT</compID>
+		<compID>NOT OOMP  eagleValue: 10k  eagleDevice: POT  eaglePackage: ALPS_POT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>RV2</compIden>
-		<compID>NOT OOMP  Value: 10k  Device: POT</compID>
+		<compID>NOT OOMP  eagleValue: 10k  eagleDevice: POT  eaglePackage: ALPS_POT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -128,42 +128,42 @@ Note: The MIDI Shield does not come with all parts soldered on. Two MIDI connect
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value: RUN/PROGRAM  Device: SWITCH-SPDTSMD</compID>
+		<compID>NOT OOMP  eagleValue: RUN/PROGRAM  eagleDevice: SWITCH-SPDTSMD  eaglePackage: AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>S3</compIden>
-		<compID>NOT OOMP  Value: SWITCH-MOMENTARY-212MM  Device: SWITCH-MOMENTARY-212MM</compID>
+		<compID>NOT OOMP  eagleValue: SWITCH-MOMENTARY-212MM  eagleDevice: SWITCH-MOMENTARY-212MM  eaglePackage: TACTILE-PTH-12MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>S4</compIden>
-		<compID>NOT OOMP  Value: SWITCH-MOMENTARY-212MM  Device: SWITCH-MOMENTARY-212MM</compID>
+		<compID>NOT OOMP  eagleValue: SWITCH-MOMENTARY-212MM  eagleDevice: SWITCH-MOMENTARY-212MM  eaglePackage: TACTILE-PTH-12MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>S5</compIden>
-		<compID>NOT OOMP  Value: SWITCH-MOMENTARY-212MM  Device: SWITCH-MOMENTARY-212MM</compID>
+		<compID>NOT OOMP  eagleValue: SWITCH-MOMENTARY-212MM  eagleDevice: SWITCH-MOMENTARY-212MM  eaglePackage: TACTILE-PTH-12MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: 6N138M  Device: OPTO_DARL_6N138S</compID>
+		<compID>NOT OOMP  eagleValue: 6N138M  eagleDevice: OPTO_DARL_6N138S  eaglePackage: 8-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: 74AHC1G125  Device: 74AHC1G125</compID>
+		<compID>NOT OOMP  eagleValue: 74AHC1G125  eagleDevice: 74AHC1G125  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

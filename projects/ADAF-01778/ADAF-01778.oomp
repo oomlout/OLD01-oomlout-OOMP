@@ -1,7 +1,7 @@
 <xml>
 <oompProject>
 	<oompID>ADAF-01778</oompID>
-	<name></name>
+	<name>Analog Output K-Type Thermocouple Amplifier - AD8495 Breakout</name>
 	<hexID></hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
@@ -64,14 +64,14 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: TLVH431  Device: SHUNT-VREF</compID>
+		<compID>NOT OOMP  eagleValue: TLVH431  eagleDevice: SHUNT-VREF  eaglePackage: SOT23-R</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>FB1</compIden>
-		<compID>NOT OOMP  Value: ferrite  Device: FERRITE0805</compID>
+		<compID>NOT OOMP  eagleValue: ferrite  eagleDevice: FERRITE0805  eaglePackage: 0805</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -106,14 +106,14 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: AD8495ARMZ   Device: AD849X</compID>
+		<compID>NOT OOMP  eagleValue: AD8495ARMZ   eagleDevice: AD849X  eaglePackage: MSOP8_0.65MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>X1</compIden>
-		<compID>NOT OOMP  Value: 3.5mm terminal  Device: TERMBLOCK_1X2</compID>
+		<compID>NOT OOMP  eagleValue: 3.5mm terminal  eagleDevice: TERMBLOCK_1X2  eaglePackage: TERMBLOCK_1X2-3.5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -35,7 +35,7 @@ Note: When using this board in extreme high-demand applications it may be necess
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>C3</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: CAP_POLPTH4</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: CAP_POLPTH4  eaglePackage: CPOL-RADIAL-1000UF-25V</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -56,63 +56,63 @@ Note: When using this board in extreme high-demand applications it may be necess
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>C6</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: CAP_POLPTH4</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: CAP_POLPTH4  eaglePackage: CPOL-RADIAL-1000UF-25V</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: BZT52  Device: DIODE-ZENER-BZT52</compID>
+		<compID>NOT OOMP  eagleValue: BZT52  eagleDevice: DIODE-ZENER-BZT52  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: RED  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: RED  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  Value: GREEN  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: GREEN  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>LED3</compIden>
-		<compID>NOT OOMP  Value: GREEN  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: GREEN  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>LED4</compIden>
-		<compID>NOT OOMP  Value: GREEN  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: GREEN  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>LED5</compIden>
-		<compID>NOT OOMP  Value: GREEN  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: GREEN  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: FDD8580  Device: MOSFET-NCHANNELFDD8580</compID>
+		<compID>NOT OOMP  eagleValue: FDD8580  eagleDevice: MOSFET-NCHANNELFDD8580  eaglePackage: DPAK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  Value: FDD8580  Device: MOSFET-NCHANNELFDD8580</compID>
+		<compID>NOT OOMP  eagleValue: FDD8580  eagleDevice: MOSFET-NCHANNELFDD8580  eaglePackage: DPAK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -259,21 +259,21 @@ Note: When using this board in extreme high-demand applications it may be necess
 	<component>
 		<compIndex>35</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: VNH2SP30  Device: VNH2SP30</compID>
+		<compID>NOT OOMP  eagleValue: VNH2SP30  eagleDevice: VNH2SP30  eaglePackage: VNH2SP30</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>36</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: VNH2SP30  Device: VNH2SP30</compID>
+		<compID>NOT OOMP  eagleValue: VNH2SP30  eagleDevice: VNH2SP30  eaglePackage: VNH2SP30</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>37</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: ARDUINO_SHIELDLABEL  Device: ARDUINO_SHIELDLABEL</compID>
+		<compID>NOT OOMP  eagleValue: ARDUINO_SHIELDLABEL  eagleDevice: ARDUINO_SHIELDLABEL  eaglePackage: DUEMILANOVE_SHIELD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

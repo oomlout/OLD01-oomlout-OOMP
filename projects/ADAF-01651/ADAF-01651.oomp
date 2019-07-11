@@ -75,77 +75,77 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: 1N4148  Device: DIODESOD-323F</compID>
+		<compID>NOT OOMP  eagleValue: 1N4148  eagleDevice: DIODESOD-323F  eaglePackage: SOD-323F</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>IC4</compIden>
-		<compID>NOT OOMP  Value: MIC5225-3.3  Device: LP298XS</compID>
+		<compID>NOT OOMP  eagleValue: MIC5225-3.3  eagleDevice: LP298XS  eaglePackage: SOT23-5L</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>IC5</compIden>
-		<compID>NOT OOMP  Value: AXP803  Device: AXP083-SAG</compID>
+		<compID>NOT OOMP  eagleValue: AXP803  eagleDevice: AXP083-SAG  eaglePackage: SOT23</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>ICSP_CLK</compIden>
-		<compID>NOT OOMP  Value:   Device: SOLDERJUMPERREFLOW_NOPASTE</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SOLDERJUMPERREFLOW_NOPASTE  eaglePackage: SOLDERJUMPER_REFLOW_NOPASTE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>ICSP_SI</compIden>
-		<compID>NOT OOMP  Value:   Device: SOLDERJUMPERREFLOW_NOPASTE</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SOLDERJUMPERREFLOW_NOPASTE  eaglePackage: SOLDERJUMPER_REFLOW_NOPASTE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>ICSP_SI1</compIden>
-		<compID>NOT OOMP  Value:   Device: SOLDERJUMPERREFLOW_NOPASTE</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SOLDERJUMPERREFLOW_NOPASTE  eaglePackage: SOLDERJUMPER_REFLOW_NOPASTE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>ICSP_SO</compIden>
-		<compID>NOT OOMP  Value:   Device: SOLDERJUMPERREFLOW_NOPASTE</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SOLDERJUMPERREFLOW_NOPASTE  eaglePackage: SOLDERJUMPER_REFLOW_NOPASTE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>PIN5</compIden>
-		<compID>NOT OOMP  Value:   Device: SOLDERJUMPERREFLOW_NOPASTE</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SOLDERJUMPERREFLOW_NOPASTE  eaglePackage: SOLDERJUMPER_REFLOW_NOPASTE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  Value: BSS138  Device: MOSFET-NWIDE</compID>
+		<compID>NOT OOMP  eagleValue: BSS138  eagleDevice: MOSFET-NWIDE  eaglePackage: SOT23-WIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>Q3</compIden>
-		<compID>NOT OOMP  Value: BSS138  Device: MOSFET-NWIDE</compID>
+		<compID>NOT OOMP  eagleValue: BSS138  eagleDevice: MOSFET-NWIDE  eaglePackage: SOT23-WIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>Q4</compIden>
-		<compID>NOT OOMP  Value: BSS138  Device: MOSFET-NWIDE</compID>
+		<compID>NOT OOMP  eagleValue: BSS138  eagleDevice: MOSFET-NWIDE  eaglePackage: SOT23-WIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -229,28 +229,28 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>SCL_A5</compIden>
-		<compID>NOT OOMP  Value:   Device: SOLDERJUMPERREFLOW_NOPASTE</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SOLDERJUMPERREFLOW_NOPASTE  eaglePackage: SOLDERJUMPER_REFLOW_NOPASTE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>SDA_A4</compIden>
-		<compID>NOT OOMP  Value:   Device: SOLDERJUMPERREFLOW_NOPASTE</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SOLDERJUMPERREFLOW_NOPASTE  eaglePackage: SOLDERJUMPER_REFLOW_NOPASTE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>SW1</compIden>
-		<compID>NOT OOMP  Value: SPST_TACT-EVQQ2  Device: SPST_TACT-EVQQ2</compID>
+		<compID>NOT OOMP  eagleValue: SPST_TACT-EVQQ2  eagleDevice: SPST_TACT-EVQQ2  eaglePackage: EVQ-Q2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: 74HC4050  Device: 74HC4050D</compID>
+		<compID>NOT OOMP  eagleValue: 74HC4050  eagleDevice: 74HC4050D  eaglePackage: SOIC16</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

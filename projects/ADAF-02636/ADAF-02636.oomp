@@ -124,77 +124,77 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>CHRG</compIden>
-		<compID>NOT OOMP  Value: ORANGE  Device: LED0805_NOOUTLINE</compID>
+		<compID>NOT OOMP  eagleValue: ORANGE  eagleDevice: LED0805_NOOUTLINE  eaglePackage: CHIPLED_0805_NOOUTLINE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>CN2</compIden>
-		<compID>NOT OOMP  Value: JSTPH  Device: JST_2PIN</compID>
+		<compID>NOT OOMP  eagleValue: JSTPH  eagleDevice: JST_2PIN  eaglePackage: JSTPH2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: MMSZ5231BT1G  Device: DIODE-ZENERSOD123</compID>
+		<compID>NOT OOMP  eagleValue: MMSZ5231BT1G  eagleDevice: DIODE-ZENERSOD123  eaglePackage: SOD-123</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  Value: SMF05C  Device: TVSARRAY_5LANE</compID>
+		<compID>NOT OOMP  eagleValue: SMF05C  eagleDevice: TVSARRAY_5LANE  eaglePackage: SOT363</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  Value: 1N4148  Device: DIODESOD-323</compID>
+		<compID>NOT OOMP  eagleValue: 1N4148  eagleDevice: DIODESOD-323  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>D4</compIden>
-		<compID>NOT OOMP  Value: 1N4148  Device: DIODESOD-323</compID>
+		<compID>NOT OOMP  eagleValue: 1N4148  eagleDevice: DIODESOD-323  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>D5</compIden>
-		<compID>NOT OOMP  Value: 1N4148  Device: DIODESOD-323</compID>
+		<compID>NOT OOMP  eagleValue: 1N4148  eagleDevice: DIODESOD-323  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>D6</compIden>
-		<compID>NOT OOMP  Value: 1N4148  Device: DIODESOD-323</compID>
+		<compID>NOT OOMP  eagleValue: 1N4148  eagleDevice: DIODESOD-323  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>D7</compIden>
-		<compID>NOT OOMP  Value: 1N4148  Device: DIODESOD-323</compID>
+		<compID>NOT OOMP  eagleValue: 1N4148  eagleDevice: DIODESOD-323  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>D8</compIden>
-		<compID>NOT OOMP  Value: MBR120  Device: DIODE-SCHOTTKYSOD-123</compID>
+		<compID>NOT OOMP  eagleValue: MBR120  eagleDevice: DIODE-SCHOTTKYSOD-123  eaglePackage: SOD-123</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>D9</compIden>
-		<compID>NOT OOMP  Value: 1N4148  Device: DIODESOD-323</compID>
+		<compID>NOT OOMP  eagleValue: 1N4148  eagleDevice: DIODESOD-323  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -208,49 +208,49 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>DTR</compIden>
-		<compID>NOT OOMP  Value:   Device: PINHD-1X1CB</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PINHD-1X1CB  eaglePackage: 1X01-CLEANBIG</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>IC1</compIden>
-		<compID>NOT OOMP  Value: 74VHCT125PW  Device: 74ABT125PW</compID>
+		<compID>NOT OOMP  eagleValue: 74VHCT125PW  eagleDevice: 74ABT125PW  eaglePackage: TSSOP14</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>L2</compIden>
-		<compID>NOT OOMP  Value: 33nH  Device: INDUCTOR_0805MP</compID>
+		<compID>NOT OOMP  eagleValue: 33nH  eagleDevice: INDUCTOR_0805MP  eaglePackage: _0805MP</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>M1</compIden>
-		<compID>NOT OOMP  Value: ARDUINO_R3_ICSP_NODIM  Device: ARDUINO_R3_ICSP_NODIM</compID>
+		<compID>NOT OOMP  eagleValue: ARDUINO_R3_ICSP_NODIM  eagleDevice: ARDUINO_R3_ICSP_NODIM  eaglePackage: ARDUINOR3_ICSP_NODIM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>NETSTAT</compIden>
-		<compID>NOT OOMP  Value: BLUE  Device: LED0805_NOOUTLINE</compID>
+		<compID>NOT OOMP  eagleValue: BLUE  eagleDevice: LED0805_NOOUTLINE  eaglePackage: CHIPLED_0805_NOOUTLINE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>PPS</compIden>
-		<compID>NOT OOMP  Value:   Device: PINHD-1X1CB</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PINHD-1X1CB  eaglePackage: 1X01-CLEANBIG</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>PWM</compIden>
-		<compID>NOT OOMP  Value:   Device: PINHD-1X1CB</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PINHD-1X1CB  eaglePackage: 1X01-CLEANBIG</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -264,7 +264,7 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 	<component>
 		<compIndex>32</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: DTC143ZUAT106  Device: MUN2211T1-NPN_DRIVER-SC59-BEC</compID>
+		<compID>NOT OOMP  eagleValue: DTC143ZUAT106  eagleDevice: MUN2211T1-NPN_DRIVER-SC59-BEC  eaglePackage: SC59-BEC</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -313,56 +313,56 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 	<component>
 		<compIndex>39</compIndex>
 		<compIden>SW1</compIden>
-		<compID>NOT OOMP  Value: EVQQ2  Device: SWITCH_TACT_SMT</compID>
+		<compID>NOT OOMP  eagleValue: EVQQ2  eagleDevice: SWITCH_TACT_SMT  eaglePackage: EVQ-Q2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>40</compIndex>
 		<compIden>SW2</compIden>
-		<compID>NOT OOMP  Value: EG1390  Device: SWITCH_DPDTEG1390</compID>
+		<compID>NOT OOMP  eagleValue: EG1390  eagleDevice: SWITCH_DPDTEG1390  eaglePackage: EG1390</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>41</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: MCP73831T-2ACI/OT  Device: MCP73831/2</compID>
+		<compID>NOT OOMP  eagleValue: MCP73831T-2ACI/OT  eagleDevice: MCP73831/2  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>42</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: SIM808  Device: GSM_SIM808_LITERAL</compID>
+		<compID>NOT OOMP  eagleValue: SIM808  eagleDevice: GSM_SIM808_LITERAL  eaglePackage: SIM900_SMT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>43</compIndex>
 		<compIden>X1</compIden>
-		<compID>NOT OOMP  Value: uFL  Device: SMACONNECTOR_EDGE_UFL</compID>
+		<compID>NOT OOMP  eagleValue: uFL  eagleDevice: SMACONNECTOR_EDGE_UFL  eaglePackage: SMA_EDGELAUNCH_UFL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>44</compIndex>
 		<compIden>X3</compIden>
-		<compID>NOT OOMP  Value: uFL  Device: ANTENNA_U.FL</compID>
+		<compID>NOT OOMP  eagleValue: uFL  eagleDevice: ANTENNA_U.FL  eaglePackage: U.FL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>45</compIndex>
 		<compIden>X4</compIden>
-		<compID>NOT OOMP  Value: 4UCONN_18510  Device: AUDIO_3.5MMJACK_4POL</compID>
+		<compID>NOT OOMP  eagleValue: 4UCONN_18510  eagleDevice: AUDIO_3.5MMJACK_4POL  eaglePackage: 4UCONN_18510</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>46</compIndex>
 		<compIden>X6</compIden>
-		<compID>NOT OOMP  Value: SIM_LOCKAMPHENOL  Device: SIM_LOCKAMPHENOL</compID>
+		<compID>NOT OOMP  eagleValue: SIM_LOCKAMPHENOL  eagleDevice: SIM_LOCKAMPHENOL  eaglePackage: C707_10M006_512_2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

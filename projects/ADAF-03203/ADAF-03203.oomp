@@ -1,7 +1,7 @@
 <xml>
 <oompProject>
 	<oompID>ADAF-03203</oompID>
-	<name></name>
+	<name>Adafruit Perma Proto Bonnet Mini Kit</name>
 	<hexID></hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
@@ -28,14 +28,14 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>CONN1</compIden>
-		<compID>NOT OOMP  Value: HEADER-1X25  Device: HEADER-1X25</compID>
+		<compID>NOT OOMP  eagleValue: HEADER-1X25  eagleDevice: HEADER-1X25  eaglePackage: 1X25_ROUND_70MIL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>RPI1</compIden>
-		<compID>NOT OOMP  Value: RASPBERRYPI_BPLUS_BONNETNODIM  Device: RASPBERRYPI_BPLUS_BONNETNODIM</compID>
+		<compID>NOT OOMP  eagleValue: RASPBERRYPI_BPLUS_BONNETNODIM  eagleDevice: RASPBERRYPI_BPLUS_BONNETNODIM  eaglePackage: PI_BONNET_NODIM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

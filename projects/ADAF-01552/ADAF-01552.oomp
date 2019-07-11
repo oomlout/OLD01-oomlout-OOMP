@@ -91,28 +91,28 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>FB1</compIden>
-		<compID>NOT OOMP  Value: ferrite  Device: FERRITE_0805MP</compID>
+		<compID>NOT OOMP  eagleValue: ferrite  eagleDevice: FERRITE_0805MP  eaglePackage: _0805MP</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>FB2</compIden>
-		<compID>NOT OOMP  Value: ferrite  Device: FERRITE_0805MP</compID>
+		<compID>NOT OOMP  eagleValue: ferrite  eagleDevice: FERRITE_0805MP  eaglePackage: _0805MP</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value:   Device: TERMBLOCK_1X2</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TERMBLOCK_1X2  eaglePackage: TERMBLOCK_1X2-3.5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value:   Device: TERMBLOCK_1X2</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TERMBLOCK_1X2  eaglePackage: TERMBLOCK_1X2-3.5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -147,14 +147,14 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>SW1</compIden>
-		<compID>NOT OOMP  Value:   Device: DIPSWITCH_2PIN</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: DIPSWITCH_2PIN  eaglePackage: DIPSWITCH_2PIN</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: TS2012  Device: AUDIOAMP_TPA2012D2</compID>
+		<compID>NOT OOMP  eagleValue: TS2012  eagleDevice: AUDIOAMP_TPA2012D2  eaglePackage: WQFN20</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

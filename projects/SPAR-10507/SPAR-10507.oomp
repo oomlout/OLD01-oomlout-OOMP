@@ -226,56 +226,56 @@ Note: The Arduino Library currently only works with an Arduino Mega or Mega 2560
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: B340A  Device: DIODESMA</compID>
+		<compID>NOT OOMP  eagleValue: B340A  eagleDevice: DIODESMA  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  Value: PTC  Device: PTCSMD</compID>
+		<compID>NOT OOMP  eagleValue: PTC  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>32</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: Barrel Jack  Device: POWER_JACKSMD</compID>
+		<compID>NOT OOMP  eagleValue: Barrel Jack  eagleDevice: POWER_JACKSMD  eaglePackage: POWER_JACK_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>33</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: green  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: green  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>34</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  Value: green  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: green  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>35</compIndex>
 		<compIden>LED3</compIden>
-		<compID>NOT OOMP  Value: green  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: green  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>36</compIndex>
 		<compIden>LED4</compIden>
-		<compID>NOT OOMP  Value: green  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: green  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>37</compIndex>
 		<compIden>LED5</compIden>
-		<compID>NOT OOMP  Value: red  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: red  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -296,21 +296,21 @@ Note: The Arduino Library currently only works with an Arduino Mega or Mega 2560
 	<component>
 		<compIndex>40</compIndex>
 		<compIden>R3</compIden>
-		<compID>NOT OOMP  Value: Trimpot  Device: TRIMPOTSMD</compID>
+		<compID>NOT OOMP  eagleValue: Trimpot  eagleDevice: TRIMPOTSMD  eaglePackage: TRIMPOT-3MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>41</compIndex>
 		<compIden>R4</compIden>
-		<compID>NOT OOMP  Value: 0.22  Device: RESISTOR0805-RES</compID>
+		<compID>NOT OOMP  eagleValue: 0.22  eagleDevice: RESISTOR0805-RES  eaglePackage: 0805</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>42</compIndex>
 		<compIden>R5</compIden>
-		<compID>NOT OOMP  Value: 0.22  Device: RESISTOR0805-RES</compID>
+		<compID>NOT OOMP  eagleValue: 0.22  eagleDevice: RESISTOR0805-RES  eaglePackage: 0805</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -345,21 +345,21 @@ Note: The Arduino Library currently only works with an Arduino Mega or Mega 2560
 	<component>
 		<compIndex>47</compIndex>
 		<compIden>R10</compIden>
-		<compID>NOT OOMP  Value: Trimpot  Device: TRIMPOTSMD</compID>
+		<compID>NOT OOMP  eagleValue: Trimpot  eagleDevice: TRIMPOTSMD  eaglePackage: TRIMPOT-3MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>48</compIndex>
 		<compIden>R11</compIden>
-		<compID>NOT OOMP  Value: 0.22  Device: RESISTOR0805-RES</compID>
+		<compID>NOT OOMP  eagleValue: 0.22  eagleDevice: RESISTOR0805-RES  eaglePackage: 0805</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>49</compIndex>
 		<compIden>R12</compIden>
-		<compID>NOT OOMP  Value: 0.22  Device: RESISTOR0805-RES</compID>
+		<compID>NOT OOMP  eagleValue: 0.22  eagleDevice: RESISTOR0805-RES  eaglePackage: 0805</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -394,21 +394,21 @@ Note: The Arduino Library currently only works with an Arduino Mega or Mega 2560
 	<component>
 		<compIndex>54</compIndex>
 		<compIden>R17</compIden>
-		<compID>NOT OOMP  Value: Trimpot  Device: TRIMPOTSMD</compID>
+		<compID>NOT OOMP  eagleValue: Trimpot  eagleDevice: TRIMPOTSMD  eaglePackage: TRIMPOT-3MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>55</compIndex>
 		<compIden>R18</compIden>
-		<compID>NOT OOMP  Value: 0.22  Device: RESISTOR0805-RES</compID>
+		<compID>NOT OOMP  eagleValue: 0.22  eagleDevice: RESISTOR0805-RES  eaglePackage: 0805</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>56</compIndex>
 		<compIden>R19</compIden>
-		<compID>NOT OOMP  Value: 0.22  Device: RESISTOR0805-RES</compID>
+		<compID>NOT OOMP  eagleValue: 0.22  eagleDevice: RESISTOR0805-RES  eaglePackage: 0805</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -443,21 +443,21 @@ Note: The Arduino Library currently only works with an Arduino Mega or Mega 2560
 	<component>
 		<compIndex>61</compIndex>
 		<compIden>R24</compIden>
-		<compID>NOT OOMP  Value: Trimpot  Device: TRIMPOTSMD</compID>
+		<compID>NOT OOMP  eagleValue: Trimpot  eagleDevice: TRIMPOTSMD  eaglePackage: TRIMPOT-3MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>62</compIndex>
 		<compIden>R25</compIden>
-		<compID>NOT OOMP  Value: 0.22  Device: RESISTOR0805-RES</compID>
+		<compID>NOT OOMP  eagleValue: 0.22  eagleDevice: RESISTOR0805-RES  eaglePackage: 0805</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>63</compIndex>
 		<compIden>R26</compIden>
-		<compID>NOT OOMP  Value: 0.22  Device: RESISTOR0805-RES</compID>
+		<compID>NOT OOMP  eagleValue: 0.22  eagleDevice: RESISTOR0805-RES  eaglePackage: 0805</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -618,35 +618,35 @@ Note: The Arduino Library currently only works with an Arduino Mega or Mega 2560
 	<component>
 		<compIndex>86</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: A4983  Device: A4983</compID>
+		<compID>NOT OOMP  eagleValue: A4983  eagleDevice: A4983  eaglePackage: QFN-28-5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>87</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: LM317  Device: V_REG_MC33269DT</compID>
+		<compID>NOT OOMP  eagleValue: LM317  eagleDevice: V_REG_MC33269DT  eaglePackage: DPAK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>88</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: A4983  Device: A4983</compID>
+		<compID>NOT OOMP  eagleValue: A4983  eagleDevice: A4983  eaglePackage: QFN-28-5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>89</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: A4983  Device: A4983</compID>
+		<compID>NOT OOMP  eagleValue: A4983  eagleDevice: A4983  eaglePackage: QFN-28-5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>90</compIndex>
 		<compIden>U5</compIden>
-		<compID>NOT OOMP  Value: A4983  Device: A4983</compID>
+		<compID>NOT OOMP  eagleValue: A4983  eagleDevice: A4983  eaglePackage: QFN-28-5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -21,14 +21,14 @@ All necessary pins are broken out to an 8-pin 0.1" pitch header.
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: MICRO-SDCARD  Device: MICRO-SDCARD</compID>
+		<compID>NOT OOMP  eagleValue: MICRO-SDCARD  eagleDevice: MICRO-SDCARD  eaglePackage: MICRO-SDCARD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: microSD Socket  Device: USD-SOCKET</compID>
+		<compID>NOT OOMP  eagleValue: microSD Socket  eagleDevice: USD-SOCKET  eaglePackage: MICROSD_1:1</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

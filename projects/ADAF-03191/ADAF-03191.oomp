@@ -35,7 +35,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: 1N4148  Device: DIODESOD-323</compID>
+		<compID>NOT OOMP  eagleValue: 1N4148  eagleDevice: DIODESOD-323  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -49,14 +49,14 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>MS2</compIden>
-		<compID>NOT OOMP  Value: FEATHERWING  Device: FEATHERWING</compID>
+		<compID>NOT OOMP  eagleValue: FEATHERWING  eagleDevice: FEATHERWING  eaglePackage: FEATHERWING</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: MMBT2222  Device: TRANSISTOR_NPN</compID>
+		<compID>NOT OOMP  eagleValue: MMBT2222  eagleDevice: TRANSISTOR_NPN  eaglePackage: SOT23-R</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -84,7 +84,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>SW1</compIden>
-		<compID>NOT OOMP  Value: KMR2  Device: SWITCH_TACT_SMT4.6X2.8</compID>
+		<compID>NOT OOMP  eagleValue: KMR2  eagleDevice: SWITCH_TACT_SMT4.6X2.8  eaglePackage: BTN_KMR2_4.6X2.8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -33,7 +33,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>A0</compIden>
-		<compID>NOT OOMP  Value:   Device: SOLDERJUMPERREFLOW_NOPASTE</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SOLDERJUMPERREFLOW_NOPASTE  eaglePackage: SOLDERJUMPER_REFLOW_NOPASTE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -75,14 +75,14 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>IC1</compIden>
-		<compID>NOT OOMP  Value: TB6612FNG  Device: TB6612FNG</compID>
+		<compID>NOT OOMP  eagleValue: TB6612FNG  eagleDevice: TB6612FNG  eaglePackage: SSOP24</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>IC3</compIden>
-		<compID>NOT OOMP  Value: TB6612FNG  Device: TB6612FNG</compID>
+		<compID>NOT OOMP  eagleValue: TB6612FNG  eagleDevice: TB6612FNG  eaglePackage: SSOP24</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -96,21 +96,21 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>MPOWER</compIden>
-		<compID>NOT OOMP  Value: 1X2-3.5MM  Device: 1X2-3.5MM</compID>
+		<compID>NOT OOMP  eagleValue: 1X2-3.5MM  eagleDevice: 1X2-3.5MM  eaglePackage: 1X2-3.5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>MS1</compIden>
-		<compID>NOT OOMP  Value: FEATHERWING  Device: FEATHERWING</compID>
+		<compID>NOT OOMP  eagleValue: FEATHERWING  eagleDevice: FEATHERWING  eaglePackage: FEATHERWING</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: AON7401  Device: MOSFET-P-POWERDI3333</compID>
+		<compID>NOT OOMP  eagleValue: AON7401  eagleDevice: MOSFET-P-POWERDI3333  eaglePackage: POWERDI3333</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -138,42 +138,42 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>SW1</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH_TACT_SMT4.6X2.8</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH_TACT_SMT4.6X2.8  eaglePackage: BTN_KMR2_4.6X2.8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: PCA9685  Device: PCA9685</compID>
+		<compID>NOT OOMP  eagleValue: PCA9685  eagleDevice: PCA9685  eaglePackage: TSSOP28</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>X1</compIden>
-		<compID>NOT OOMP  Value:   Device: TERMBLOCK_1X2</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TERMBLOCK_1X2  eaglePackage: TERMBLOCK_1X2-3.5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>X2</compIden>
-		<compID>NOT OOMP  Value:   Device: TERMBLOCK_1X2</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TERMBLOCK_1X2  eaglePackage: TERMBLOCK_1X2-3.5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>X4</compIden>
-		<compID>NOT OOMP  Value:   Device: TERMBLOCK_1X2</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TERMBLOCK_1X2  eaglePackage: TERMBLOCK_1X2-3.5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>X6</compIden>
-		<compID>NOT OOMP  Value:   Device: TERMBLOCK_1X2</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TERMBLOCK_1X2  eaglePackage: TERMBLOCK_1X2-3.5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

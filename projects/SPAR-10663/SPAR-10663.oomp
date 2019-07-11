@@ -99,21 +99,21 @@ Keep in mind, by plugging headphones into the 3.5mm audio jack, you effectively 
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>L1</compIden>
-		<compID>NOT OOMP  Value: 270nH  Device: INDUCTOR0603</compID>
+		<compID>NOT OOMP  eagleValue: 270nH  eagleDevice: INDUCTOR0603  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>L2</compIden>
-		<compID>NOT OOMP  Value: Ferrite 2.5k  Device: INDUCTOR0603</compID>
+		<compID>NOT OOMP  eagleValue: Ferrite 2.5k  eagleDevice: INDUCTOR0603  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>L3</compIden>
-		<compID>NOT OOMP  Value: Ferrite 2.5k  Device: INDUCTOR0603</compID>
+		<compID>NOT OOMP  eagleValue: Ferrite 2.5k  eagleDevice: INDUCTOR0603  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -204,28 +204,28 @@ Keep in mind, by plugging headphones into the 3.5mm audio jack, you effectively 
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: SI4703  Device: SI470X</compID>
+		<compID>NOT OOMP  eagleValue: SI4703  eagleDevice: SI470X  eaglePackage: SI470X</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: TPA6111  Device: TPA6111SMD-T</compID>
+		<compID>NOT OOMP  eagleValue: TPA6111  eagleDevice: TPA6111SMD-T  eaglePackage: SO08-TIGHT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value:   Device: AUDIO-JACKSMD2</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: AUDIO-JACKSMD2  eaglePackage: AUDIO-JACK-3.5MM-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  Value: 32.768kHz  Device: CRYSTAL32-SMD</compID>
+		<compID>NOT OOMP  eagleValue: 32.768kHz  eagleDevice: CRYSTAL32-SMD  eaglePackage: CRYSTAL-32KHZ-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

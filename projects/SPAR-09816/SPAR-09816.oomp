@@ -55,7 +55,7 @@
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>IC1</compIden>
-		<compID>NOT OOMP  Value: LMV358  Device: OPAMP-DUALU</compID>
+		<compID>NOT OOMP  eagleValue: LMV358  eagleDevice: OPAMP-DUALU  eaglePackage: SO08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -104,7 +104,7 @@
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>R7</compIden>
-		<compID>NOT OOMP  Value: 100K  Device: TRIMPOTSMD</compID>
+		<compID>NOT OOMP  eagleValue: 100K  eagleDevice: TRIMPOTSMD  eaglePackage: TRIMPOT-3MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -57,21 +57,21 @@ This revision corrects the silkscreen error on the FTDI header. We've also added
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: AVR_SPI_PRG_6PTH  Device: AVR_SPI_PRG_6PTH</compID>
+		<compID>NOT OOMP  eagleValue: AVR_SPI_PRG_6PTH  eagleDevice: AVR_SPI_PRG_6PTH  eaglePackage: 2X3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: red  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: red  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  Value: green  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: green  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -113,28 +113,28 @@ This revision corrects the silkscreen error on the FTDI header. We've also added
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: Reset  Device: TAC_SWITCHSMD</compID>
+		<compID>NOT OOMP  eagleValue: Reset  eagleDevice: TAC_SWITCHSMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: MLX90614_  Device: MLX90614_</compID>
+		<compID>NOT OOMP  eagleValue: MLX90614_  eagleDevice: MLX90614_  eaglePackage: TO-39</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: ATMEGA328  Device: ATMEGA168</compID>
+		<compID>NOT OOMP  eagleValue: ATMEGA328  eagleDevice: ATMEGA168  eaglePackage: TQFP32-08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: 3.3V_REG  Device: V_REG_LDOSMD</compID>
+		<compID>NOT OOMP  eagleValue: 3.3V_REG  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

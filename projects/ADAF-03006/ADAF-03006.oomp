@@ -63,14 +63,14 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>FB1</compIden>
-		<compID>NOT OOMP  Value: Ferrite  Device: FERRITE-0805NO</compID>
+		<compID>NOT OOMP  eagleValue: Ferrite  eagleDevice: FERRITE-0805NO  eaglePackage: 0805-NO</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>FB2</compIden>
-		<compID>NOT OOMP  Value: Ferrite  Device: FERRITE-0805NO</compID>
+		<compID>NOT OOMP  eagleValue: Ferrite  eagleDevice: FERRITE-0805NO  eaglePackage: 0805-NO</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -84,14 +84,14 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: MAX98357A  Device: AUDIOAMP_MAX98357</compID>
+		<compID>NOT OOMP  eagleValue: MAX98357A  eagleDevice: AUDIOAMP_MAX98357  eaglePackage: QFN16_3MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>X1</compIden>
-		<compID>NOT OOMP  Value:   Device: TERMBLOCK_1X2</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TERMBLOCK_1X2  eaglePackage: TERMBLOCK_1X2-3.5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

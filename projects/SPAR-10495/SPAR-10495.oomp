@@ -22,14 +22,14 @@ Note: You will get just the bare PCB. Check below for the coin cell holder that 
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>BAT1</compIden>
-		<compID>NOT OOMP  Value:   Device: BATTERY245PTH</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: BATTERY245PTH  eaglePackage: BATTCON_245MM_PTH</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  Value:   Device: M02PTH</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: M02PTH  eaglePackage: 1X02</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

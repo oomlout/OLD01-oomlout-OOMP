@@ -1,7 +1,7 @@
 <xml>
 <oompProject>
 	<oompID>ADAF-02716</oompID>
-	<name></name>
+	<name>Adafruit Silicon MEMS Microphone Breakout - SPW2430</name>
 	<hexID></hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
@@ -62,14 +62,14 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: SPW2430HR5H-B  Device: SPW2430HR5H-B</compID>
+		<compID>NOT OOMP  eagleValue: SPW2430HR5H-B  eagleDevice: SPW2430HR5H-B  eaglePackage: SPW2430HR5H-B</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: MIC5225-3.3  Device: VREG_SOT23-5</compID>
+		<compID>NOT OOMP  eagleValue: MIC5225-3.3  eagleDevice: VREG_SOT23-5  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -1,7 +1,7 @@
 <xml>
 <oompProject>
 	<oompID>ADAF-01164</oompID>
-	<name></name>
+	<name>INA169 Analog DC Current Sensor Breakout - 60V 5A Max</name>
 	<hexID></hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
@@ -40,7 +40,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value:   Device: TERMBLOCK_1X2</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TERMBLOCK_1X2  eaglePackage: TERMBLOCK_1X2-3.5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -54,14 +54,14 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>RSHUNT</compIden>
-		<compID>NOT OOMP  Value: 0.1/1% (PT2512FK-070R1L)  Device: RESISTOR2512</compID>
+		<compID>NOT OOMP  eagleValue: 0.1/1% (PT2512FK-070R1L)  eagleDevice: RESISTOR2512  eaglePackage: 2512</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: INA169  Device: INA169</compID>
+		<compID>NOT OOMP  eagleValue: INA169  eagleDevice: INA169  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

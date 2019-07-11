@@ -21,7 +21,7 @@ Note: The power circuit chip is only rated to drive 0.6 amps. However, we've suc
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>2.2UH</compIden>
-		<compID>NOT OOMP  Value: 2.2uH  Device: VLF4012A</compID>
+		<compID>NOT OOMP  eagleValue: 2.2uH  eagleDevice: VLF4012A  eaglePackage: VLF4012A</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -49,28 +49,28 @@ Note: The power circuit chip is only rated to drive 0.6 amps. However, we've suc
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: FDMA1024NZ  Device: FDMA1024NZ</compID>
+		<compID>NOT OOMP  eagleValue: FDMA1024NZ  eagleDevice: FDMA1024NZ  eaglePackage: MICROFET_2X2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  Value: FDMA1024NZ  Device: FDMA1024NZ</compID>
+		<compID>NOT OOMP  eagleValue: FDMA1024NZ  eagleDevice: FDMA1024NZ  eaglePackage: MICROFET_2X2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>Q3</compIden>
-		<compID>NOT OOMP  Value: FDMA1024NZ  Device: FDMA1024NZ</compID>
+		<compID>NOT OOMP  eagleValue: FDMA1024NZ  eagleDevice: FDMA1024NZ  eaglePackage: MICROFET_2X2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>Q4</compIden>
-		<compID>NOT OOMP  Value: FDMA1024NZ  Device: FDMA1024NZ</compID>
+		<compID>NOT OOMP  eagleValue: FDMA1024NZ  eagleDevice: FDMA1024NZ  eaglePackage: MICROFET_2X2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -147,14 +147,14 @@ Note: The power circuit chip is only rated to drive 0.6 amps. However, we've suc
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: TPS61200  Device: TPS61200</compID>
+		<compID>NOT OOMP  eagleValue: TPS61200  eagleDevice: TPS61200  eaglePackage: DRC-S-PVSON-N10</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: ARDUINO_MINI  Device: ARDUINO_MINI</compID>
+		<compID>NOT OOMP  eagleValue: ARDUINO_MINI  eagleDevice: ARDUINO_MINI  eaglePackage: ARDUINO_MINI</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

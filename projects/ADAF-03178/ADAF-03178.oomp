@@ -112,21 +112,21 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>CHG</compIden>
-		<compID>NOT OOMP  Value: ORANGE  Device: LED0805_NOOUTLINE</compID>
+		<compID>NOT OOMP  eagleValue: ORANGE  eagleDevice: LED0805_NOOUTLINE  eaglePackage: CHIPLED_0805_NOOUTLINE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: MBR120  Device: DIODE-SCHOTTKYSOD-123</compID>
+		<compID>NOT OOMP  eagleValue: MBR120  eagleDevice: DIODE-SCHOTTKYSOD-123  eaglePackage: SOD-123</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>L</compIden>
-		<compID>NOT OOMP  Value: RED  Device: LED0805_NOOUTLINE</compID>
+		<compID>NOT OOMP  eagleValue: RED  eagleDevice: LED0805_NOOUTLINE  eaglePackage: CHIPLED_0805_NOOUTLINE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -175,56 +175,56 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>SW1</compIden>
-		<compID>NOT OOMP  Value: SPST_TACT-KMR2  Device: SPST_TACT-KMR2</compID>
+		<compID>NOT OOMP  eagleValue: SPST_TACT-KMR2  eagleDevice: SPST_TACT-KMR2  eaglePackage: KMR2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: AP2112K-3.3  Device: VREG_SOT23-5</compID>
+		<compID>NOT OOMP  eagleValue: AP2112K-3.3  eagleDevice: VREG_SOT23-5  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: MCP73831T-2ACI/OT  Device: MCP73831/2</compID>
+		<compID>NOT OOMP  eagleValue: MCP73831T-2ACI/OT  eagleDevice: MCP73831/2  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: RFM69HCW  Device: RFM69HCW_SMT</compID>
+		<compID>NOT OOMP  eagleValue: RFM69HCW  eagleDevice: RFM69HCW_SMT  eaglePackage: RFMHCW_SMT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>X1</compIden>
-		<compID>NOT OOMP  Value: JSTPH  Device: CON_JST_PH_2PIN</compID>
+		<compID>NOT OOMP  eagleValue: JSTPH  eagleDevice: CON_JST_PH_2PIN  eaglePackage: JSTPH2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>X2</compIden>
-		<compID>NOT OOMP  Value: 32.768  Device: XTAL-3.2X1.5</compID>
+		<compID>NOT OOMP  eagleValue: 32.768  eagleDevice: XTAL-3.2X1.5  eaglePackage: XTAL3215</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>X3</compIden>
-		<compID>NOT OOMP  Value: microUSB  Device: USB_MICRO_20329_V2</compID>
+		<compID>NOT OOMP  eagleValue: microUSB  eagleDevice: USB_MICRO_20329_V2  eaglePackage: 4UCONN_20329_V2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>X4</compIden>
-		<compID>NOT OOMP  Value: uFL  Device: ANTENNA_U.FL</compID>
+		<compID>NOT OOMP  eagleValue: uFL  eagleDevice: ANTENNA_U.FL  eaglePackage: U.FL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

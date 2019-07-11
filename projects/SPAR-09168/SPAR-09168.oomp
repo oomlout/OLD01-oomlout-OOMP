@@ -77,14 +77,14 @@
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: POWER_JACKRCA_LOCK  Device: POWER_JACKRCA_LOCK</compID>
+		<compID>NOT OOMP  eagleValue: POWER_JACKRCA_LOCK  eagleDevice: POWER_JACKRCA_LOCK  eaglePackage: RCA_LOCK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value: POWER_JACKRCA_LOCK  Device: POWER_JACKRCA_LOCK</compID>
+		<compID>NOT OOMP  eagleValue: POWER_JACKRCA_LOCK  eagleDevice: POWER_JACKRCA_LOCK  eaglePackage: RCA_LOCK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -105,28 +105,28 @@
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: MAX7456  Device: MAX7456</compID>
+		<compID>NOT OOMP  eagleValue: MAX7456  eagleDevice: MAX7456  eaglePackage: TSSOP28</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>V_IN</compIden>
-		<compID>NOT OOMP  Value: TEST-POINT3X5  Device: TEST-POINT3X5</compID>
+		<compID>NOT OOMP  eagleValue: TEST-POINT3X5  eagleDevice: TEST-POINT3X5  eaglePackage: PAD.03X.05</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>V_OUT</compIden>
-		<compID>NOT OOMP  Value: TEST-POINT3X5  Device: TEST-POINT3X5</compID>
+		<compID>NOT OOMP  eagleValue: TEST-POINT3X5  eagleDevice: TEST-POINT3X5  eaglePackage: PAD.03X.05</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>Y2</compIden>
-		<compID>NOT OOMP  Value: 27MHz  Device: CRYSTAL5X3</compID>
+		<compID>NOT OOMP  eagleValue: 27MHz  eagleDevice: CRYSTAL5X3  eaglePackage: CRYSTAL-SMD-5X3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

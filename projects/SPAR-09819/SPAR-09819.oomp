@@ -144,21 +144,21 @@ Note: This board cannot source the power required for the Cellular XBee line. It
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: XBEE-1B3  Device: XBEE-1B3</compID>
+		<compID>NOT OOMP  eagleValue: XBEE-1B3  eagleDevice: XBEE-1B3  eaglePackage: XBEE-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: MIC5219 3.3V  Device: V_REG_MIC52193.3V</compID>
+		<compID>NOT OOMP  eagleValue: MIC5219 3.3V  eagleDevice: V_REG_MIC52193.3V  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: FTS31XS-U  Device: FT231XS</compID>
+		<compID>NOT OOMP  eagleValue: FTS31XS-U  eagleDevice: FT231XS  eaglePackage: SSOP20_L</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -1,7 +1,7 @@
 <xml>
 <oompProject>
 	<oompID>ADAF-02590</oompID>
-	<name></name>
+	<name>Adafruit Metro Mini 328 - Arduino-Compatible - 5V 16MHz</name>
 	<hexID></hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
@@ -30,14 +30,14 @@ All text above must be included in any redistribution
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>AD</compIden>
-		<compID>NOT OOMP  Value: 20609  Device: HEADER-1X6ROUND</compID>
+		<compID>NOT OOMP  eagleValue: 20609  eagleDevice: HEADER-1X6ROUND  eaglePackage: 1X06_ROUND</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>AD1</compIden>
-		<compID>NOT OOMP  Value: 20609  Device: HEADER-1X6ROUND</compID>
+		<compID>NOT OOMP  eagleValue: 20609  eagleDevice: HEADER-1X6ROUND  eaglePackage: 1X06_ROUND</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -107,35 +107,35 @@ All text above must be included in any redistribution
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  Value: MBR120  Device: DIODE-SCHOTTKYSOD-123</compID>
+		<compID>NOT OOMP  eagleValue: MBR120  eagleDevice: DIODE-SCHOTTKYSOD-123  eaglePackage: SOD-123</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>IOL</compIden>
-		<compID>NOT OOMP  Value: 20610  Device: HEADER-1X8ROUND</compID>
+		<compID>NOT OOMP  eagleValue: 20610  eagleDevice: HEADER-1X8ROUND  eaglePackage: 1X08_ROUND</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>L</compIden>
-		<compID>NOT OOMP  Value: RED  Device: LED0805_NOOUTLINE</compID>
+		<compID>NOT OOMP  eagleValue: RED  eagleDevice: LED0805_NOOUTLINE  eaglePackage: CHIPLED_0805_NOOUTLINE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>ON</compIden>
-		<compID>NOT OOMP  Value: GREEN  Device: LED0805_NOOUTLINE</compID>
+		<compID>NOT OOMP  eagleValue: GREEN  eagleDevice: LED0805_NOOUTLINE  eaglePackage: CHIPLED_0805_NOOUTLINE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>POWER1</compIden>
-		<compID>NOT OOMP  Value: 20610  Device: HEADER-1X870MIL</compID>
+		<compID>NOT OOMP  eagleValue: 20610  eagleDevice: HEADER-1X870MIL  eaglePackage: 1X08_ROUND_70</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -177,63 +177,63 @@ All text above must be included in any redistribution
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>RESET</compIden>
-		<compID>NOT OOMP  Value: KMR2  Device: SWITCH_TACT_SMT4.6X2.8</compID>
+		<compID>NOT OOMP  eagleValue: KMR2  eagleDevice: SWITCH_TACT_SMT4.6X2.8  eaglePackage: BTN_KMR2_4.6X2.8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>RXLED</compIden>
-		<compID>NOT OOMP  Value: YELLOW  Device: LED0805_NOOUTLINE</compID>
+		<compID>NOT OOMP  eagleValue: YELLOW  eagleDevice: LED0805_NOOUTLINE  eaglePackage: CHIPLED_0805_NOOUTLINE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>TXLED</compIden>
-		<compID>NOT OOMP  Value: YELLOW  Device: LED0805_NOOUTLINE</compID>
+		<compID>NOT OOMP  eagleValue: YELLOW  eagleDevice: LED0805_NOOUTLINE  eaglePackage: CHIPLED_0805_NOOUTLINE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: MIC5225-5.0  Device: VREG_SOT23-5</compID>
+		<compID>NOT OOMP  eagleValue: MIC5225-5.0  eagleDevice: VREG_SOT23-5  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: ATmega328P-MU  Device: ATMEGA328P</compID>
+		<compID>NOT OOMP  eagleValue: ATmega328P-MU  eagleDevice: ATMEGA328P  eaglePackage: MLF32-TH</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: FT231XQ-x   Device: FT231X</compID>
+		<compID>NOT OOMP  eagleValue: FT231XQ-x   eagleDevice: FT231X  eaglePackage: QFN20_4MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>VSELECT</compIden>
-		<compID>NOT OOMP  Value:   Device: SOLDERJUMPER_2WAY</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SOLDERJUMPER_2WAY  eaglePackage: SOLDERJUMPER_2WAY_OPEN_NOPASTE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>X3</compIden>
-		<compID>NOT OOMP  Value: 20329  Device: USB_W_SHIELD_20329</compID>
+		<compID>NOT OOMP  eagleValue: 20329  eagleDevice: USB_W_SHIELD_20329  eaglePackage: 4UCONN_20329</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>Y2</compIden>
-		<compID>NOT OOMP  Value: CSTCE16M0V53-R0 16MHZ  Device: RESONATORMU</compID>
+		<compID>NOT OOMP  eagleValue: CSTCE16M0V53-R0 16MHZ  eagleDevice: RESONATORMU  eaglePackage: RESONATOR</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

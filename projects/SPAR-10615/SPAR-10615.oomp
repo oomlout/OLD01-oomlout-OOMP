@@ -43,7 +43,7 @@ Use this board to increase the number of PWM pins available to your microcontrol
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>J9</compIden>
-		<compID>NOT OOMP  Value: OUT  Device: M03PTH</compID>
+		<compID>NOT OOMP  eagleValue: OUT  eagleDevice: M03PTH  eaglePackage: 1X03</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -57,7 +57,7 @@ Use this board to increase the number of PWM pins available to your microcontrol
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>R2</compIden>
-		<compID>NOT OOMP  Value: R2  Device: RESISTORAXIAL-0.3</compID>
+		<compID>NOT OOMP  eagleValue: R2  eagleDevice: RESISTORAXIAL-0.3  eaglePackage: AXIAL-0.3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -78,7 +78,7 @@ Use this board to increase the number of PWM pins available to your microcontrol
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>R5</compIden>
-		<compID>NOT OOMP  Value: 715  Device: RESISTOR0402-RES</compID>
+		<compID>NOT OOMP  eagleValue: 715  eagleDevice: RESISTOR0402-RES  eaglePackage: 0402-RES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -197,28 +197,28 @@ Use this board to increase the number of PWM pins available to your microcontrol
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: DPDT  Device: SWITCH-SPSTSMD</compID>
+		<compID>NOT OOMP  eagleValue: DPDT  eagleDevice: SWITCH-SPSTSMD  eaglePackage: AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: ARDUINO_SHIELDNOLABELS  Device: ARDUINO_SHIELDNOLABELS</compID>
+		<compID>NOT OOMP  eagleValue: ARDUINO_SHIELDNOLABELS  eagleDevice: ARDUINO_SHIELDNOLABELS  eaglePackage: DUEMILANOVE_SHIELD_NOLABELS</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: V_REG_LD1085D2  Device: V_REG_LD1085D2</compID>
+		<compID>NOT OOMP  eagleValue: V_REG_LD1085D2  eagleDevice: V_REG_LD1085D2  eaglePackage: D2PACK/A</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: TLC5940-RHB  Device: TLC5940-RHB</compID>
+		<compID>NOT OOMP  eagleValue: TLC5940-RHB  eagleDevice: TLC5940-RHB  eaglePackage: QFN-32</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

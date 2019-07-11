@@ -22,42 +22,42 @@ This kit is simple to put together and shouldn't take more than 30-45 minutes fo
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  Value: FUSEX20MM  Device: FUSEX20MM</compID>
+		<compID>NOT OOMP  eagleValue: FUSEX20MM  eagleDevice: FUSEX20MM  eaglePackage: FUSE_5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>F2</compIden>
-		<compID>NOT OOMP  Value: FUSEX20MM  Device: FUSEX20MM</compID>
+		<compID>NOT OOMP  eagleValue: FUSEX20MM  eagleDevice: FUSEX20MM  eaglePackage: FUSE_5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>F3</compIden>
-		<compID>NOT OOMP  Value: FUSEX20MM  Device: FUSEX20MM</compID>
+		<compID>NOT OOMP  eagleValue: FUSEX20MM  eagleDevice: FUSEX20MM  eaglePackage: FUSE_5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>F4</compIden>
-		<compID>NOT OOMP  Value: FUSEX20MM  Device: FUSEX20MM</compID>
+		<compID>NOT OOMP  eagleValue: FUSEX20MM  eagleDevice: FUSEX20MM  eaglePackage: FUSE_5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: ATX24RH  Device: ATX24RH</compID>
+		<compID>NOT OOMP  eagleValue: ATX24RH  eagleDevice: ATX24RH  eaglePackage: ATX24_RIGHT_ANGLE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: RED  Device: LED5MM</compID>
+		<compID>NOT OOMP  eagleValue: RED  eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -71,63 +71,63 @@ This kit is simple to put together and shouldn't take more than 30-45 minutes fo
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: BINDING_POST  Device: BINDING_POST</compID>
+		<compID>NOT OOMP  eagleValue: BINDING_POST  eagleDevice: BINDING_POST  eaglePackage: BINDING_POST</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value: BINDING_POST  Device: BINDING_POST</compID>
+		<compID>NOT OOMP  eagleValue: BINDING_POST  eagleDevice: BINDING_POST  eaglePackage: BINDING_POST</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>S3</compIden>
-		<compID>NOT OOMP  Value: BINDING_POST  Device: BINDING_POST</compID>
+		<compID>NOT OOMP  eagleValue: BINDING_POST  eagleDevice: BINDING_POST  eaglePackage: BINDING_POST</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>S4</compIden>
-		<compID>NOT OOMP  Value: BINDING_POST  Device: BINDING_POST</compID>
+		<compID>NOT OOMP  eagleValue: BINDING_POST  eagleDevice: BINDING_POST  eaglePackage: BINDING_POST</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>S5</compIden>
-		<compID>NOT OOMP  Value: BINDING_POST  Device: BINDING_POST</compID>
+		<compID>NOT OOMP  eagleValue: BINDING_POST  eagleDevice: BINDING_POST  eaglePackage: BINDING_POST</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>S6</compIden>
-		<compID>NOT OOMP  Value: BINDING_POST  Device: BINDING_POST</compID>
+		<compID>NOT OOMP  eagleValue: BINDING_POST  eagleDevice: BINDING_POST  eaglePackage: BINDING_POST</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>S7</compIden>
-		<compID>NOT OOMP  Value: BINDING_POST  Device: BINDING_POST</compID>
+		<compID>NOT OOMP  eagleValue: BINDING_POST  eagleDevice: BINDING_POST  eaglePackage: BINDING_POST</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>S8</compIden>
-		<compID>NOT OOMP  Value: BINDING_POST  Device: BINDING_POST</compID>
+		<compID>NOT OOMP  eagleValue: BINDING_POST  eagleDevice: BINDING_POST  eaglePackage: BINDING_POST</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>S9</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-SPDTKIT</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPDTKIT  eaglePackage: SWITCH-SPDT_KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

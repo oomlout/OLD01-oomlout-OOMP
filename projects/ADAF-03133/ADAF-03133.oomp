@@ -33,7 +33,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>B1</compIden>
-		<compID>NOT OOMP  Value: CR1220  Device: BATTERYCR1220_2</compID>
+		<compID>NOT OOMP  eagleValue: CR1220  eagleDevice: BATTERYCR1220_2  eaglePackage: CR1220-2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -54,7 +54,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>FB1</compIden>
-		<compID>NOT OOMP  Value: Ferrite  Device: FERRITE-0805NO</compID>
+		<compID>NOT OOMP  eagleValue: Ferrite  eagleDevice: FERRITE-0805NO  eaglePackage: 0805-NO</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -68,14 +68,14 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>MS1</compIden>
-		<compID>NOT OOMP  Value: FEATHERWING  Device: FEATHERWING</compID>
+		<compID>NOT OOMP  eagleValue: FEATHERWING  eagleDevice: FEATHERWING  eaglePackage: FEATHERWING</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: DMG3415U-7   Device: MOSFET-PWIDE</compID>
+		<compID>NOT OOMP  eagleValue: DMG3415U-7   eagleDevice: MOSFET-PWIDE  eaglePackage: SOT23-WIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -96,21 +96,21 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>SW1</compIden>
-		<compID>NOT OOMP  Value: KMR2  Device: SWITCH_TACT_SMT4.6X2.8</compID>
+		<compID>NOT OOMP  eagleValue: KMR2  eagleDevice: SWITCH_TACT_SMT4.6X2.8  eaglePackage: BTN_KMR2_4.6X2.8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: FGPMMOPA6H  Device: GPS_FGPMMOPA6H</compID>
+		<compID>NOT OOMP  eagleValue: FGPMMOPA6H  eagleDevice: GPS_FGPMMOPA6H  eaglePackage: FGPMMOPA6H</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>X1</compIden>
-		<compID>NOT OOMP  Value: uFL  Device: ANTENNA_U.FL</compID>
+		<compID>NOT OOMP  eagleValue: uFL  eagleDevice: ANTENNA_U.FL  eaglePackage: U.FL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

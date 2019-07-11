@@ -52,49 +52,49 @@ Note: The drivers link has been updated below to be Windows 7 compatible.
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: Blue  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: Blue  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  Value: Red  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  Value: Blue  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: Blue  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  Value: 500mA  Device: PTCSMD-W</compID>
+		<compID>NOT OOMP  eagleValue: 500mA  eagleDevice: PTCSMD-W  eaglePackage: PTC-1206-WIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: Blue  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: Blue  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  Value: Blue  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: Blue  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: 12 MHz  Device: CRYSTAL5X3</compID>
+		<compID>NOT OOMP  eagleValue: 12 MHz  eagleDevice: CRYSTAL5X3  eaglePackage: CRYSTAL-SMD-5X3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -171,28 +171,28 @@ Note: The drivers link has been updated below to be Windows 7 compatible.
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: Power Select  Device: SWITCH-SPSTSMD</compID>
+		<compID>NOT OOMP  eagleValue: Power Select  eagleDevice: SWITCH-SPSTSMD  eaglePackage: AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: ATTINY2313-20S  Device: ATTINY2313-20S</compID>
+		<compID>NOT OOMP  eagleValue: ATTINY2313-20S  eagleDevice: ATTINY2313-20S  eaglePackage: SO20L</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: 74ACT125D  Device: 74ACT125D</compID>
+		<compID>NOT OOMP  eagleValue: 74ACT125D  eagleDevice: 74ACT125D  eaglePackage: SO014</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>X2</compIden>
-		<compID>NOT OOMP  Value: USBSMD  Device: USBSMD</compID>
+		<compID>NOT OOMP  eagleValue: USBSMD  eagleDevice: USBSMD  eaglePackage: USB-MINIB</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

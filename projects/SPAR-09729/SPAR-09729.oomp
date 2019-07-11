@@ -22,7 +22,7 @@ Note: This product is a collaboration with Tod Kurt, John Edgar Park, and Brian 
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value:   Device: LED5MM</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -36,21 +36,21 @@ Note: This product is a collaboration with Tod Kurt, John Edgar Park, and Brian 
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: Reset  Device: SWITCH-MOMENTARY-2PTH</compID>
+		<compID>NOT OOMP  eagleValue: Reset  eagleDevice: SWITCH-MOMENTARY-2PTH  eaglePackage: TACTILE-PTH</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value: General  Device: SWITCH-MOMENTARY-2PTH</compID>
+		<compID>NOT OOMP  eagleValue: General  eagleDevice: SWITCH-MOMENTARY-2PTH  eaglePackage: TACTILE-PTH</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: ARDUINO_SHIELD  Device: ARDUINO_SHIELDNOHOLES</compID>
+		<compID>NOT OOMP  eagleValue: ARDUINO_SHIELD  eagleDevice: ARDUINO_SHIELDNOHOLES  eaglePackage: DUEMILANOVE_SHIELD_NOHOLES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

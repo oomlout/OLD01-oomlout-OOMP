@@ -49,14 +49,14 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>CN1</compIden>
-		<compID>NOT OOMP  Value:   Device: USB_TYPEAPCB</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: USB_TYPEAPCB  eaglePackage: USBA_PCB</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>CN2</compIden>
-		<compID>NOT OOMP  Value: JSTPH  Device: JST_2PIN</compID>
+		<compID>NOT OOMP  eagleValue: JSTPH  eagleDevice: JST_2PIN  eaglePackage: JSTPH2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -105,7 +105,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: MCP73831T-2ACI/OT  Device: MCP73831/2</compID>
+		<compID>NOT OOMP  eagleValue: MCP73831T-2ACI/OT  eagleDevice: MCP73831/2  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

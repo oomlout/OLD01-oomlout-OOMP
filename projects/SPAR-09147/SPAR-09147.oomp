@@ -36,35 +36,35 @@ This thing is meant to be hacked! Visit the Objective Development website to lea
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>IC1</compIden>
-		<compID>NOT OOMP  Value: TINY85S  Device: TINY85S</compID>
+		<compID>NOT OOMP  eagleValue: TINY85S  eagleDevice: TINY85S  eaglePackage: SOIC8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: Blue  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: Blue  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  Value: Blue  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: Blue  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>LED3</compIden>
-		<compID>NOT OOMP  Value: White?  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: White?  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>LED4</compIden>
-		<compID>NOT OOMP  Value: Yellow  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: Yellow  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -106,7 +106,7 @@ This thing is meant to be hacked! Visit the Objective Development website to lea
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>X1</compIden>
-		<compID>NOT OOMP  Value: USBPCB  Device: USBPCB</compID>
+		<compID>NOT OOMP  eagleValue: USBPCB  eagleDevice: USBPCB  eaglePackage: USB-A-PCB</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

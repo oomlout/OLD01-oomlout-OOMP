@@ -37,7 +37,7 @@ The SM5100B cellular module is included with this product, however an antenna is
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: Red  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -72,35 +72,35 @@ The SM5100B cellular module is included with this product, however an antenna is
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value:   Device: TAC_SWITCHSMD</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TAC_SWITCHSMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: ARDUINO_SHIELDNOHOLES  Device: ARDUINO_SHIELDNOHOLES</compID>
+		<compID>NOT OOMP  eagleValue: ARDUINO_SHIELDNOHOLES  eagleDevice: ARDUINO_SHIELDNOHOLES  eaglePackage: DUEMILANOVE_SHIELD_NOHOLES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: SPX29302  Device: SPX29302</compID>
+		<compID>NOT OOMP  eagleValue: SPX29302  eagleDevice: SPX29302  eaglePackage: Q5-DD_SPX29300</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: SM5100B  Device: SM5100B</compID>
+		<compID>NOT OOMP  eagleValue: SM5100B  eagleDevice: SM5100B  eaglePackage: SM5100B</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: SIMHOLDER3  Device: SIMHOLDER3</compID>
+		<compID>NOT OOMP  eagleValue: SIMHOLDER3  eagleDevice: SIMHOLDER3  eaglePackage: SIMHOLDER3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

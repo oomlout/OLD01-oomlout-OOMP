@@ -78,21 +78,21 @@ This board comes populated with the switches, resistors and LEDs, but does not i
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: yellow  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: yellow  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  Value: green  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: green  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>LED3</compIden>
-		<compID>NOT OOMP  Value: red  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: red  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -155,28 +155,28 @@ This board comes populated with the switches, resistors and LEDs, but does not i
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: Reset  Device: SWITCH-MOMENTARY-2SMD</compID>
+		<compID>NOT OOMP  eagleValue: Reset  eagleDevice: SWITCH-MOMENTARY-2SMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value: Reset  Device: SWITCH-MOMENTARY-2SMD</compID>
+		<compID>NOT OOMP  eagleValue: Reset  eagleDevice: SWITCH-MOMENTARY-2SMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: DNP_SM130  Device: SM130</compID>
+		<compID>NOT OOMP  eagleValue: DNP_SM130  eagleDevice: SM130  eaglePackage: SM130</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: ARDUINO_SHIELDNOLABELS  Device: ARDUINO_SHIELDNOLABELS</compID>
+		<compID>NOT OOMP  eagleValue: ARDUINO_SHIELDNOLABELS  eagleDevice: ARDUINO_SHIELDNOLABELS  eaglePackage: DUEMILANOVE_SHIELD_NOLABELS</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -22,14 +22,14 @@ No programmer required. The ATmega comes with firmware installed!
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>C1</compIden>
-		<compID>NOT OOMP  Value:   Device: CAPCAP-PTH-SMALL-KIT</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CAPCAP-PTH-SMALL-KIT  eaglePackage: CAP-PTH-SMALL-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>C2</compIden>
-		<compID>NOT OOMP  Value:   Device: CAPCAP-PTH-SMALL-KIT</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CAPCAP-PTH-SMALL-KIT  eaglePackage: CAP-PTH-SMALL-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -50,21 +50,21 @@ No programmer required. The ATmega comes with firmware installed!
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: POWER_JACKKIT  Device: POWER_JACKKIT</compID>
+		<compID>NOT OOMP  eagleValue: POWER_JACKKIT  eagleDevice: POWER_JACKKIT  eaglePackage: POWER-BARRELJACK-PTH-LOCK-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: 7-SEGMENT-4DIGIT-YOUNGSUNKIT  Device: 7-SEGMENT-4DIGIT-YOUNGSUNKIT</compID>
+		<compID>NOT OOMP  eagleValue: 7-SEGMENT-4DIGIT-YOUNGSUNKIT  eagleDevice: 7-SEGMENT-4DIGIT-YOUNGSUNKIT  eaglePackage: 7-SEGMENT-4DIGIT-YOUNGSUN-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: 16MHz  Device: CRYSTALHC49US-KIT</compID>
+		<compID>NOT OOMP  eagleValue: 16MHz  eagleDevice: CRYSTALHC49US-KIT  eaglePackage: HC49US-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -78,42 +78,42 @@ No programmer required. The ATmega comes with firmware installed!
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: SWITCH-MOMENTARY-2TACTILE-PTH-KIT  Device: SWITCH-MOMENTARY-2TACTILE-PTH-KIT</compID>
+		<compID>NOT OOMP  eagleValue: SWITCH-MOMENTARY-2TACTILE-PTH-KIT  eagleDevice: SWITCH-MOMENTARY-2TACTILE-PTH-KIT  eaglePackage: TACTILE-PTH-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value: SWITCH-MOMENTARY-2TACTILE-PTH-KIT  Device: SWITCH-MOMENTARY-2TACTILE-PTH-KIT</compID>
+		<compID>NOT OOMP  eagleValue: SWITCH-MOMENTARY-2TACTILE-PTH-KIT  eagleDevice: SWITCH-MOMENTARY-2TACTILE-PTH-KIT  eaglePackage: TACTILE-PTH-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>S3</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-SPSTKIT</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPSTKIT  eaglePackage: SWITCH-SPDT_KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>S4</compIden>
-		<compID>NOT OOMP  Value: SWITCH-MOMENTARY-2TACTILE-PTH-KIT  Device: SWITCH-MOMENTARY-2TACTILE-PTH-KIT</compID>
+		<compID>NOT OOMP  eagleValue: SWITCH-MOMENTARY-2TACTILE-PTH-KIT  eagleDevice: SWITCH-MOMENTARY-2TACTILE-PTH-KIT  eaglePackage: TACTILE-PTH-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>SG2</compIden>
-		<compID>NOT OOMP  Value: BUZZERKIT  Device: BUZZERKIT</compID>
+		<compID>NOT OOMP  eagleValue: BUZZERKIT  eagleDevice: BUZZERKIT  eaglePackage: BUZZER-12MM-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: AVR-MEGA8-PKIT  Device: AVR-MEGA8-PKIT</compID>
+		<compID>NOT OOMP  eagleValue: AVR-MEGA8-PKIT  eagleDevice: AVR-MEGA8-PKIT  eaglePackage: DIL28-3-KIT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

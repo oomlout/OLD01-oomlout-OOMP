@@ -64,7 +64,7 @@ All data logged by the OpenLog is stored on the microSD card. Any 512MB to 32GB 
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: 16MHZ  Device: RESONATOR16MHZ</compID>
+		<compID>NOT OOMP  eagleValue: 16MHZ  eagleDevice: RESONATOR16MHZ  eaglePackage: RESONATOR-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -99,14 +99,14 @@ All data logged by the OpenLog is stored on the microSD card. Any 512MB to 32GB 
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: 3.3V MIC5205  Device: MIC52053.3V</compID>
+		<compID>NOT OOMP  eagleValue: 3.3V MIC5205  eagleDevice: MIC52053.3V  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: microSD Socket  Device: USD-SOCKET</compID>
+		<compID>NOT OOMP  eagleValue: microSD Socket  eagleDevice: USD-SOCKET  eaglePackage: MICROSD_1:1</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

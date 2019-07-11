@@ -47,7 +47,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: 1N4148  Device: DIODESOD-323</compID>
+		<compID>NOT OOMP  eagleValue: 1N4148  eagleDevice: DIODESOD-323  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -61,7 +61,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  Value: 1N4148  Device: DIODESOD-323</compID>
+		<compID>NOT OOMP  eagleValue: 1N4148  eagleDevice: DIODESOD-323  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -75,21 +75,21 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>MS1</compIden>
-		<compID>NOT OOMP  Value: MICROSHIELD  Device: MICROSHIELD</compID>
+		<compID>NOT OOMP  eagleValue: MICROSHIELD  eagleDevice: MICROSHIELD  eaglePackage: MICROSHIELD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: MMBT2222  Device: TRANSISTOR_NPN</compID>
+		<compID>NOT OOMP  eagleValue: MMBT2222  eagleDevice: TRANSISTOR_NPN  eaglePackage: SOT23-R</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  Value: MMBT2222  Device: TRANSISTOR_NPN</compID>
+		<compID>NOT OOMP  eagleValue: MMBT2222  eagleDevice: TRANSISTOR_NPN  eaglePackage: SOT23-R</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -138,42 +138,42 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>SET</compIden>
-		<compID>NOT OOMP  Value:   Device: HEADER-1X1ROUND</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: HEADER-1X1ROUND  eaglePackage: 1X01_ROUND</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>SW1</compIden>
-		<compID>NOT OOMP  Value: kmr2  Device: SWITCH_TACT_SMT4.6X2.8</compID>
+		<compID>NOT OOMP  eagleValue: kmr2  eagleDevice: SWITCH_TACT_SMT4.6X2.8  eaglePackage: BTN_KMR2_4.6X2.8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>UNSET</compIden>
-		<compID>NOT OOMP  Value:   Device: HEADER-1X1ROUND</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: HEADER-1X1ROUND  eaglePackage: 1X01_ROUND</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>VBAT</compIden>
-		<compID>NOT OOMP  Value:   Device: HEADER-1X1ROUND</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: HEADER-1X1ROUND  eaglePackage: 1X01_ROUND</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>X2</compIden>
-		<compID>NOT OOMP  Value: 3.5mm  Device: TERMBLOCK_1X3</compID>
+		<compID>NOT OOMP  eagleValue: 3.5mm  eagleDevice: TERMBLOCK_1X3  eaglePackage: TERMBLOCK_1X3-3.5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>X3</compIden>
-		<compID>NOT OOMP  Value: RELAY_LATCHINGEE2NUH  Device: RELAY_LATCHINGEE2NUH</compID>
+		<compID>NOT OOMP  eagleValue: RELAY_LATCHINGEE2NUH  eagleDevice: RELAY_LATCHINGEE2NUH  eaglePackage: RELAY_EE2_LATCH</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

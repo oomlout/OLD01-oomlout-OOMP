@@ -78,14 +78,14 @@ The amplifier on the breakout has a gain of 67 and more than meets the bandwidth
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: OPA344  Device: OPA344</compID>
+		<compID>NOT OOMP  eagleValue: OPA344  eagleDevice: OPA344  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: ADMP401  Device: ADMP401</compID>
+		<compID>NOT OOMP  eagleValue: ADMP401  eagleDevice: ADMP401  eaglePackage: ADMP401</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

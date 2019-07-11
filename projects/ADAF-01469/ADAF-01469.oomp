@@ -96,21 +96,21 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>FB1</compIden>
-		<compID>NOT OOMP  Value:   Device: FERRITE_0805MP</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: FERRITE_0805MP  eaglePackage: _0805MP</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>L1</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: INDUCTOR_0402</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: INDUCTOR_0402  eaglePackage: _0402</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>L2</compIden>
-		<compID>NOT OOMP  Value: 2.2nH  Device: INDUCTOR_0402</compID>
+		<compID>NOT OOMP  eagleValue: 2.2nH  eagleDevice: INDUCTOR_0402  eaglePackage: _0402</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -145,28 +145,28 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: CC3000MOD  Device: CC3000MOD</compID>
+		<compID>NOT OOMP  eagleValue: CC3000MOD  eagleDevice: CC3000MOD  eaglePackage: CC3000MOD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value:   Device: VREG_SOT223</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: VREG_SOT223  eaglePackage: SOT223-R</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: 74HC4050D  Device: 74HC4050D</compID>
+		<compID>NOT OOMP  eagleValue: 74HC4050D  eagleDevice: 74HC4050D  eaglePackage: SOIC16</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>X1</compIden>
-		<compID>NOT OOMP  Value: 2500AT44M0400E  Device: ANTENNA_JOHANSON_2500AT44M0400</compID>
+		<compID>NOT OOMP  eagleValue: 2500AT44M0400E  eagleDevice: ANTENNA_JOHANSON_2500AT44M0400  eaglePackage: ANT_2500AT44M0400</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

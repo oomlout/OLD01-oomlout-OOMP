@@ -22,7 +22,7 @@ Note: If you are concerned about soldering this board directly to the RFID reade
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: RFID  Device: RFIDALL</compID>
+		<compID>NOT OOMP  eagleValue: RFID  eagleDevice: RFIDALL  eaglePackage: ID_PACKAGE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

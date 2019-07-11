@@ -23,70 +23,70 @@ Note: If you want to stack another shield on top of this one, you will want to d
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: 1N4001  Device: DIODEPTH</compID>
+		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODEPTH  eaglePackage: DIODE-1N4001</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value: ATX24RH  Device: ATX24RH</compID>
+		<compID>NOT OOMP  eagleValue: ATX24RH  eagleDevice: ATX24RH  eaglePackage: ATX24_RIGHT_ANGLE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: Red  Device: LED5MM</compID>
+		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  Value: Yellow  Device: LED5MM</compID>
+		<compID>NOT OOMP  eagleValue: Yellow  eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: IRF  Device: MOSFET-NCHANNELPTH2</compID>
+		<compID>NOT OOMP  eagleValue: IRF  eagleDevice: MOSFET-NCHANNELPTH2  eaglePackage: TO220V</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  Value: IRF  Device: MOSFET-NCHANNELPTH2</compID>
+		<compID>NOT OOMP  eagleValue: IRF  eagleDevice: MOSFET-NCHANNELPTH2  eaglePackage: TO220V</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>Q3</compIden>
-		<compID>NOT OOMP  Value: IRF  Device: MOSFET-NCHANNELPTH2</compID>
+		<compID>NOT OOMP  eagleValue: IRF  eagleDevice: MOSFET-NCHANNELPTH2  eaglePackage: TO220V</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>Q4</compIden>
-		<compID>NOT OOMP  Value: IRF  Device: MOSFET-NCHANNELPTH2</compID>
+		<compID>NOT OOMP  eagleValue: IRF  eagleDevice: MOSFET-NCHANNELPTH2  eaglePackage: TO220V</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>Q5</compIden>
-		<compID>NOT OOMP  Value: IRF  Device: MOSFET-NCHANNELPTH2</compID>
+		<compID>NOT OOMP  eagleValue: IRF  eagleDevice: MOSFET-NCHANNELPTH2  eaglePackage: TO220V</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>Q6</compIden>
-		<compID>NOT OOMP  Value: IRF  Device: MOSFET-NCHANNELPTH2</compID>
+		<compID>NOT OOMP  eagleValue: IRF  eagleDevice: MOSFET-NCHANNELPTH2  eaglePackage: TO220V</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -149,14 +149,14 @@ Note: If you want to stack another shield on top of this one, you will want to d
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-SPSTPTH</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPSTPTH  eaglePackage: SWITCH-SPDT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: Arduino  Device: ARDUINO_SHIELDLABEL</compID>
+		<compID>NOT OOMP  eagleValue: Arduino  eagleDevice: ARDUINO_SHIELDLABEL  eaglePackage: DUEMILANOVE_SHIELD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

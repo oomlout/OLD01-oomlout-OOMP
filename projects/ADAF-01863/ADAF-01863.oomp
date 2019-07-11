@@ -1,7 +1,7 @@
 <xml>
 <oompProject>
 	<oompID>ADAF-01863</oompID>
-	<name></name>
+	<name>Switched JST-PH 2-Pin SMT Right Angle Breakout Board</name>
 	<hexID></hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
@@ -53,7 +53,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>CN1</compIden>
-		<compID>NOT OOMP  Value: 1X4FPC0.5  Device: 1X4FPC0.5</compID>
+		<compID>NOT OOMP  eagleValue: 1X4FPC0.5  eagleDevice: 1X4FPC0.5  eaglePackage: FPC_0.5MM-4</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

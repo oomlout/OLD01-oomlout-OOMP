@@ -107,14 +107,14 @@ Also included on the shield are a grid of 0.1" pitch through-holes for prototypi
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>IC1</compIden>
-		<compID>NOT OOMP  Value: OPAMP-DUALU  Device: OPAMP-DUALU</compID>
+		<compID>NOT OOMP  eagleValue: OPAMP-DUALU  eagleDevice: OPAMP-DUALU  eaglePackage: SO08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: Green  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: Green  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -170,7 +170,7 @@ Also included on the shield are a grid of 0.1" pitch through-holes for prototypi
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>R8</compIden>
-		<compID>NOT OOMP  Value: 10K Trimpot  Device: TRIMPOTSMD</compID>
+		<compID>NOT OOMP  eagleValue: 10K Trimpot  eagleDevice: TRIMPOTSMD  eaglePackage: TRIMPOT-3MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -219,21 +219,21 @@ Also included on the shield are a grid of 0.1" pitch through-holes for prototypi
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: Reset Switch  Device: SWITCH-MOMENTARY-2SMD</compID>
+		<compID>NOT OOMP  eagleValue: Reset Switch  eagleDevice: SWITCH-MOMENTARY-2SMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: ARDUINO_SHIELDLABEL  Device: ARDUINO_SHIELDLABEL</compID>
+		<compID>NOT OOMP  eagleValue: ARDUINO_SHIELDLABEL  eagleDevice: ARDUINO_SHIELDLABEL  eaglePackage: DUEMILANOVE_SHIELD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: SPEAKJETSMD_WIDE  Device: SPEAKJETSMD_WIDE</compID>
+		<compID>NOT OOMP  eagleValue: SPEAKJETSMD_WIDE  eagleDevice: SPEAKJETSMD_WIDE  eaglePackage: SO-18W</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

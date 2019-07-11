@@ -1,7 +1,7 @@
 <xml>
 <oompProject>
 	<oompID>ADAF-03246</oompID>
-	<name></name>
+	<name>Analog Mini Thumbstick Breakout Board</name>
 	<hexID></hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
@@ -37,7 +37,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>JOY1</compIden>
-		<compID>NOT OOMP  Value: JOYSTICK_ANALOG_XY  Device: JOYSTICK_ANALOG_XY</compID>
+		<compID>NOT OOMP  eagleValue: JOYSTICK_ANALOG_XY  eagleDevice: JOYSTICK_ANALOG_XY  eaglePackage: JOYSTICK_ANALOG_MINITHM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -92,28 +92,28 @@ This board includes a number of the necessary components you'll need to get the 
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: 5V_REG  Device: V_REG_LDOSMD</compID>
+		<compID>NOT OOMP  eagleValue: 5V_REG  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: 3.3V_REG  Device: V_REG_LDOSMD</compID>
+		<compID>NOT OOMP  eagleValue: 3.3V_REG  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: PCM1803SMD  Device: PCM1803SMD</compID>
+		<compID>NOT OOMP  eagleValue: PCM1803SMD  eagleDevice: PCM1803SMD  eaglePackage: SSOP20</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: 24.576MHz OSCILLATOR  Device: OSCILLATORSMD6</compID>
+		<compID>NOT OOMP  eagleValue: 24.576MHz OSCILLATOR  eagleDevice: OSCILLATORSMD6  eaglePackage: CRYSTAL-SMD-7.5X5.2-6PIN</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

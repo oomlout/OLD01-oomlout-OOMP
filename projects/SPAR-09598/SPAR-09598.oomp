@@ -22,7 +22,7 @@ The SparkFun MIDI Breakout provides both MIDI-IN and MIDI-OUT connections, as we
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value:   Device: DIODESMA</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: DIODESMA  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -71,14 +71,14 @@ The SparkFun MIDI Breakout provides both MIDI-IN and MIDI-OUT connections, as we
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>S3</compIden>
-		<compID>NOT OOMP  Value:   Device: TAC_SWITCHSMD</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TAC_SWITCHSMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>S5</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-SPSTSMD</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPSTSMD  eaglePackage: AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

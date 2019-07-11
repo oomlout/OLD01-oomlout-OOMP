@@ -43,7 +43,7 @@ Check our serial graphic LCD tutorial!
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: TRANSISTOR_PNPSMD  Device: TRANSISTOR_PNPSMD</compID>
+		<compID>NOT OOMP  eagleValue: TRANSISTOR_PNPSMD  eagleDevice: TRANSISTOR_PNPSMD  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -64,7 +64,7 @@ Check our serial graphic LCD tutorial!
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>R3</compIden>
-		<compID>NOT OOMP  Value: TRIMPOTSMD  Device: TRIMPOTSMD</compID>
+		<compID>NOT OOMP  eagleValue: TRIMPOTSMD  eagleDevice: TRIMPOTSMD  eaglePackage: TRIMPOT-3MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -78,21 +78,21 @@ Check our serial graphic LCD tutorial!
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: V_REG_LDOSMD  Device: V_REG_LDOSMD</compID>
+		<compID>NOT OOMP  eagleValue: V_REG_LDOSMD  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: ATMEGA168  Device: ATMEGA168</compID>
+		<compID>NOT OOMP  eagleValue: ATMEGA168  eagleDevice: ATMEGA168  eaglePackage: TQFP32-08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  Value: RESONATORSMD  Device: RESONATORSMD</compID>
+		<compID>NOT OOMP  eagleValue: RESONATORSMD  eagleDevice: RESONATORSMD  eaglePackage: RESONATOR-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -43,21 +43,21 @@ The breakout board includes the HMC5883L sensor and all filtering capacitors as 
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>R1</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: RESISTOR0402-RES</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: RESISTOR0402-RES  eaglePackage: 0402-RES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>R2</compIden>
-		<compID>NOT OOMP  Value: DNP  Device: RESISTOR0402-RES</compID>
+		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: RESISTOR0402-RES  eaglePackage: 0402-RES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: HMC5883LSMD  Device: HMC5883LSMD</compID>
+		<compID>NOT OOMP  eagleValue: HMC5883LSMD  eagleDevice: HMC5883LSMD  eaglePackage: 16LPCC</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -35,7 +35,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>B1</compIden>
-		<compID>NOT OOMP  Value: CR1220  Device: BATTERYCR1220_SMT</compID>
+		<compID>NOT OOMP  eagleValue: CR1220  eagleDevice: BATTERYCR1220_SMT  eaglePackage: CR1220</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -49,7 +49,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>IC1</compIden>
-		<compID>NOT OOMP  Value: DS3231/SO  Device: DS3231/SO</compID>
+		<compID>NOT OOMP  eagleValue: DS3231/SO  eagleDevice: DS3231/SO  eaglePackage: SO16W</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

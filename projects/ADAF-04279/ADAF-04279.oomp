@@ -41,7 +41,7 @@ Adafruit Ultimate GPS.sch	updated!	2 years ago
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>B1</compIden>
-		<compID>NOT OOMP  Value: CR1220  Device: BATTERYCR1220_SMT</compID>
+		<compID>NOT OOMP  eagleValue: CR1220  eagleDevice: BATTERYCR1220_SMT  eaglePackage: CR1220</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -97,7 +97,7 @@ Adafruit Ultimate GPS.sch	updated!	2 years ago
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  Value: CUS520  Device: DIODESOD-323</compID>
+		<compID>NOT OOMP  eagleValue: CUS520  eagleDevice: DIODESOD-323  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -118,7 +118,7 @@ Adafruit Ultimate GPS.sch	updated!	2 years ago
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>FB1</compIden>
-		<compID>NOT OOMP  Value: Ferrite  Device: FERRITE-0805NO</compID>
+		<compID>NOT OOMP  eagleValue: Ferrite  eagleDevice: FERRITE-0805NO  eaglePackage: 0805-NO</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -153,28 +153,28 @@ Adafruit Ultimate GPS.sch	updated!	2 years ago
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: FGPMMOPA6H  Device: GPS_FGPMMOPA6H</compID>
+		<compID>NOT OOMP  eagleValue: FGPMMOPA6H  eagleDevice: GPS_FGPMMOPA6H  eaglePackage: FGPMMOPA6H</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: AP2112-3.3K  Device: VREG_SOT23-5</compID>
+		<compID>NOT OOMP  eagleValue: AP2112-3.3K  eagleDevice: VREG_SOT23-5  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: CP2104  Device: CP2104</compID>
+		<compID>NOT OOMP  eagleValue: CP2104  eagleDevice: CP2104  eaglePackage: QFN24_4MM_SMSC</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>X1</compIden>
-		<compID>NOT OOMP  Value: 20329  Device: USB_MICRO_20329_V2</compID>
+		<compID>NOT OOMP  eagleValue: 20329  eagleDevice: USB_MICRO_20329_V2  eaglePackage: 4UCONN_20329_V2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

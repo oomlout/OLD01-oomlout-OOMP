@@ -21,7 +21,7 @@ Note: Populate the board according to the polarity of the LED on the switch. The
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: SWITCH-MOMENTARY-LEDPTH  Device: SWITCH-MOMENTARY-LEDPTH</compID>
+		<compID>NOT OOMP  eagleValue: SWITCH-MOMENTARY-LEDPTH  eagleDevice: SWITCH-MOMENTARY-LEDPTH  eaglePackage: TACTILE-PTH-LED-12MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

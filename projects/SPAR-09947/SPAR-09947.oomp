@@ -99,28 +99,28 @@ The Host Shield takes its power from the 'Vin' pin on your Arduino. Power from t
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  Value: PTCSMD  Device: PTCSMD</compID>
+		<compID>NOT OOMP  eagleValue: PTCSMD  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>IC1</compIden>
-		<compID>NOT OOMP  Value: lm1117  Device: V_REG_LM1117SOT223</compID>
+		<compID>NOT OOMP  eagleValue: lm1117  eagleDevice: V_REG_LM1117SOT223  eaglePackage: SOT223</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: red  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: red  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  Value: 12MHz  Device: CRYSTAL5X3</compID>
+		<compID>NOT OOMP  eagleValue: 12MHz  eagleDevice: CRYSTAL5X3  eaglePackage: CRYSTAL-SMD-5X3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -155,7 +155,7 @@ The Host Shield takes its power from the 'Vin' pin on your Arduino. Power from t
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>R9</compIden>
-		<compID>NOT OOMP  Value: 715  Device: RESISTOR0402-RES</compID>
+		<compID>NOT OOMP  eagleValue: 715  eagleDevice: RESISTOR0402-RES  eaglePackage: 0402-RES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -169,49 +169,49 @@ The Host Shield takes its power from the 'Vin' pin on your Arduino. Power from t
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: SWITCH-DPDTSMD  Device: SWITCH-DPDTSMD</compID>
+		<compID>NOT OOMP  eagleValue: SWITCH-DPDTSMD  eagleDevice: SWITCH-DPDTSMD  eaglePackage: AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value: SWITCH-SMD  Device: SWITCH-MOMENTARY-2SMD</compID>
+		<compID>NOT OOMP  eagleValue: SWITCH-SMD  eagleDevice: SWITCH-MOMENTARY-2SMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: ARDUINO_SHIELD  Device: ARDUINO_SHIELDLABEL</compID>
+		<compID>NOT OOMP  eagleValue: ARDUINO_SHIELD  eagleDevice: ARDUINO_SHIELDLABEL  eaglePackage: DUEMILANOVE_SHIELD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: MAX3421E  Device: MAX3421ESMD</compID>
+		<compID>NOT OOMP  eagleValue: MAX3421E  eagleDevice: MAX3421ESMD  eaglePackage: TQFP32-5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: 3.3V_REG  Device: V_REG_LDOSMD</compID>
+		<compID>NOT OOMP  eagleValue: 3.3V_REG  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: HEX_CONVERTER  Device: HEX_CONVERTER</compID>
+		<compID>NOT OOMP  eagleValue: HEX_CONVERTER  eagleDevice: HEX_CONVERTER  eaglePackage: SO016</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>X2</compIden>
-		<compID>NOT OOMP  Value: USB_  Device: USB_</compID>
+		<compID>NOT OOMP  eagleValue: USB_  eagleDevice: USB_  eaglePackage: USB-A-S-SILK-FEMALE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

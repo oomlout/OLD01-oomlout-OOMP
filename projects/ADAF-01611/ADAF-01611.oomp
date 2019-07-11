@@ -1,7 +1,7 @@
 <xml>
 <oompProject>
 	<oompID>ADAF-01611</oompID>
-	<name></name>
+	<name>Silicone Elastomer 4x4 Button Keypad - for 3mm LEDs</name>
 	<hexID></hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
@@ -37,35 +37,35 @@ GNU Public License v2 All text above must be included in any redistribution
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>A0</compIden>
-		<compID>NOT OOMP  Value:   Device: SOLDERJUMPERREFLOW_NOPASTE</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SOLDERJUMPERREFLOW_NOPASTE  eaglePackage: SOLDERJUMPER_REFLOW_NOPASTE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>C1</compIden>
-		<compID>NOT OOMP  Value:   Device: CAP_CERAMIC_0805</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CAP_CERAMIC_0805  eaglePackage: _0805</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>C2</compIden>
-		<compID>NOT OOMP  Value:   Device: CAP_CERAMIC_0805</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CAP_CERAMIC_0805  eaglePackage: _0805</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>C3</compIden>
-		<compID>NOT OOMP  Value:   Device: CAP_CERAMIC_0805</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CAP_CERAMIC_0805  eaglePackage: _0805</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>C4</compIden>
-		<compID>NOT OOMP  Value:   Device: CAP_CERAMIC_0805</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CAP_CERAMIC_0805  eaglePackage: _0805</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -79,91 +79,91 @@ GNU Public License v2 All text above must be included in any redistribution
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: 1N4148  Device: DIODESOD-323</compID>
+		<compID>NOT OOMP  eagleValue: 1N4148  eagleDevice: DIODESOD-323  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  Value: 1N4148  Device: DIODESOD-323</compID>
+		<compID>NOT OOMP  eagleValue: 1N4148  eagleDevice: DIODESOD-323  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>D4</compIden>
-		<compID>NOT OOMP  Value: 1N4148  Device: DIODESOD-323F</compID>
+		<compID>NOT OOMP  eagleValue: 1N4148  eagleDevice: DIODESOD-323F  eaglePackage: SOD-323F</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>D5</compIden>
-		<compID>NOT OOMP  Value: 1N4148  Device: DIODESOD-323</compID>
+		<compID>NOT OOMP  eagleValue: 1N4148  eagleDevice: DIODESOD-323  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>D6</compIden>
-		<compID>NOT OOMP  Value: 1N4148  Device: DIODESOD-323</compID>
+		<compID>NOT OOMP  eagleValue: 1N4148  eagleDevice: DIODESOD-323  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>D7</compIden>
-		<compID>NOT OOMP  Value: 1N4148  Device: DIODESOD-323</compID>
+		<compID>NOT OOMP  eagleValue: 1N4148  eagleDevice: DIODESOD-323  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>D8</compIden>
-		<compID>NOT OOMP  Value: 1N4148  Device: DIODESOD-323</compID>
+		<compID>NOT OOMP  eagleValue: 1N4148  eagleDevice: DIODESOD-323  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>D9</compIden>
-		<compID>NOT OOMP  Value: 1N4148  Device: DIODESOD-323</compID>
+		<compID>NOT OOMP  eagleValue: 1N4148  eagleDevice: DIODESOD-323  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>D10</compIden>
-		<compID>NOT OOMP  Value: 1N4148  Device: DIODESOD-323</compID>
+		<compID>NOT OOMP  eagleValue: 1N4148  eagleDevice: DIODESOD-323  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>D11</compIden>
-		<compID>NOT OOMP  Value: 1N4148  Device: DIODESOD-323</compID>
+		<compID>NOT OOMP  eagleValue: 1N4148  eagleDevice: DIODESOD-323  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>D12</compIden>
-		<compID>NOT OOMP  Value: 1N4148  Device: DIODESOD-323</compID>
+		<compID>NOT OOMP  eagleValue: 1N4148  eagleDevice: DIODESOD-323  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>D13</compIden>
-		<compID>NOT OOMP  Value: 1N4148  Device: DIODESOD-323</compID>
+		<compID>NOT OOMP  eagleValue: 1N4148  eagleDevice: DIODESOD-323  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: TBD  Device: LED-3MM-4X4GRID-3MM</compID>
+		<compID>NOT OOMP  eagleValue: TBD  eagleDevice: LED-3MM-4X4GRID-3MM  eaglePackage: LED3MM-4X4GRID</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -205,14 +205,14 @@ GNU Public License v2 All text above must be included in any redistribution
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>SW1</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-SILICON-4X4GRID-10MM-5.4MM</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SILICON-4X4GRID-10MM-5.4MM  eaglePackage: ELAST_PAD_SQUARE_10MM_5.4MM_4X4GRID</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: HT16K33 28SOP  Device: HT16K33_SOP28</compID>
+		<compID>NOT OOMP  eagleValue: HT16K33 28SOP  eagleDevice: HT16K33_SOP28  eaglePackage: SOP28_300MIL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

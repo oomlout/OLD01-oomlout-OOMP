@@ -40,14 +40,14 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>C2</compIden>
-		<compID>NOT OOMP  Value:   Device: CPOL-USE3.5-8</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CPOL-USE3.5-8  eaglePackage: E3,5-8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  Value:   Device: TERMBLOCK_1X2</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TERMBLOCK_1X2  eaglePackage: TERMBLOCK_1X2-3.5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -61,14 +61,14 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>MS1</compIden>
-		<compID>NOT OOMP  Value: FEATHERWING  Device: FEATHERWING</compID>
+		<compID>NOT OOMP  eagleValue: FEATHERWING  eagleDevice: FEATHERWING  eaglePackage: FEATHERWING</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: AON7401  Device: MOSFET-P-POWERDI3333</compID>
+		<compID>NOT OOMP  eagleValue: AON7401  eagleDevice: MOSFET-P-POWERDI3333  eaglePackage: POWERDI3333</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -117,14 +117,14 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>SW1</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH_TACT_SMT4.6X2.8</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH_TACT_SMT4.6X2.8  eaglePackage: BTN_KMR2_4.6X2.8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: PCA9685  Device: PCA9685</compID>
+		<compID>NOT OOMP  eagleValue: PCA9685  eagleDevice: PCA9685  eaglePackage: TSSOP28</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

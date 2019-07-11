@@ -44,56 +44,56 @@ Note: The motors included with this kit are not compatible with the Wheel Encode
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: 1A/40V/500mV  Device: DIODE-SCHOTTKY-SS14</compID>
+		<compID>NOT OOMP  eagleValue: 1A/40V/500mV  eagleDevice: DIODE-SCHOTTKY-SS14  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  Value: 1A/40V/500mV  Device: DIODE-SCHOTTKY-SS14</compID>
+		<compID>NOT OOMP  eagleValue: 1A/40V/500mV  eagleDevice: DIODE-SCHOTTKY-SS14  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  Value: 1A/40V/500mV  Device: DIODE-SCHOTTKY-SS14</compID>
+		<compID>NOT OOMP  eagleValue: 1A/40V/500mV  eagleDevice: DIODE-SCHOTTKY-SS14  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>D4</compIden>
-		<compID>NOT OOMP  Value: 1A/40V/500mV  Device: DIODE-SCHOTTKY-SS14</compID>
+		<compID>NOT OOMP  eagleValue: 1A/40V/500mV  eagleDevice: DIODE-SCHOTTKY-SS14  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>D5</compIden>
-		<compID>NOT OOMP  Value: 1A/40V/500mV  Device: DIODE-SCHOTTKY-SS14</compID>
+		<compID>NOT OOMP  eagleValue: 1A/40V/500mV  eagleDevice: DIODE-SCHOTTKY-SS14  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>D6</compIden>
-		<compID>NOT OOMP  Value: 1A/40V/500mV  Device: DIODE-SCHOTTKY-SS14</compID>
+		<compID>NOT OOMP  eagleValue: 1A/40V/500mV  eagleDevice: DIODE-SCHOTTKY-SS14  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>D7</compIden>
-		<compID>NOT OOMP  Value: 1A/40V/500mV  Device: DIODE-SCHOTTKY-SS14</compID>
+		<compID>NOT OOMP  eagleValue: 1A/40V/500mV  eagleDevice: DIODE-SCHOTTKY-SS14  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>D8</compIden>
-		<compID>NOT OOMP  Value: 1A/40V/500mV  Device: DIODE-SCHOTTKY-SS14</compID>
+		<compID>NOT OOMP  eagleValue: 1A/40V/500mV  eagleDevice: DIODE-SCHOTTKY-SS14  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -135,7 +135,7 @@ Note: The motors included with this kit are not compatible with the Wheel Encode
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_01PTH_NO_SILK_YES_STOP</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -149,7 +149,7 @@ Note: The motors included with this kit are not compatible with the Wheel Encode
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_07NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_07NO_SILK  eaglePackage: 1X07_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -163,7 +163,7 @@ Note: The motors included with this kit are not compatible with the Wheel Encode
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>J6</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_01PTH_NO_SILK_YES_STOP</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -184,7 +184,7 @@ Note: The motors included with this kit are not compatible with the Wheel Encode
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>J9</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_02</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_02  eaglePackage: 1X02</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -198,35 +198,35 @@ Note: The motors included with this kit are not compatible with the Wheel Encode
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>J11</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_01PTH_NO_SILK_YES_STOP</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>J12</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_01PTH_NO_SILK_YES_STOP</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>J13</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_01PTH_NO_SILK_YES_STOP</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>J14</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_01PTH_NO_SILK_YES_STOP</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>J15</compIden>
-		<compID>NOT OOMP  Value:   Device: CONN_021X02_NO_SILK</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_021X02_NO_SILK  eaglePackage: 1X02_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -317,28 +317,28 @@ Note: The motors included with this kit are not compatible with the Wheel Encode
 	<component>
 		<compIndex>43</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: ARDUINO  Device: ARDUINO_UNO_R3_SHIELDNOLABELS</compID>
+		<compID>NOT OOMP  eagleValue: ARDUINO  eagleDevice: ARDUINO_UNO_R3_SHIELDNOLABELS  eaglePackage: UNO_R3_SHIELD_NOLABELS</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>44</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: L298  Device: L298_SMD_W_PAD</compID>
+		<compID>NOT OOMP  eagleValue: L298  eagleDevice: L298_SMD_W_PAD  eaglePackage: POWERSO20_L298_PAD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>45</compIndex>
 		<compIden>U5</compIden>
-		<compID>NOT OOMP  Value: 74HC1G04  Device: 74HC1G04</compID>
+		<compID>NOT OOMP  eagleValue: 74HC1G04  eagleDevice: 74HC1G04  eaglePackage: SOT353</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>46</compIndex>
 		<compIden>U6</compIden>
-		<compID>NOT OOMP  Value: 74HC1G04  Device: 74HC1G04</compID>
+		<compID>NOT OOMP  eagleValue: 74HC1G04  eagleDevice: 74HC1G04  eaglePackage: SOT353</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

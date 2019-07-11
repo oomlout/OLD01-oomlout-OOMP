@@ -1,7 +1,7 @@
 <xml>
 <oompProject>
 	<oompID>ADAF-04078</oompID>
-	<name></name>
+	<name>nRF52840 Bluetooth Low Energy Module with USB [MDBT50Q-1M]</name>
 	<hexID></hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
@@ -120,7 +120,7 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>CHG</compIden>
-		<compID>NOT OOMP  Value: ORANGE  Device: LED0805_NOOUTLINE</compID>
+		<compID>NOT OOMP  eagleValue: ORANGE  eagleDevice: LED0805_NOOUTLINE  eaglePackage: CHIPLED_0805_NOOUTLINE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -141,35 +141,35 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>D4</compIden>
-		<compID>NOT OOMP  Value: 1N4148  Device: DIODESOD-323</compID>
+		<compID>NOT OOMP  eagleValue: 1N4148  eagleDevice: DIODESOD-323  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>D5</compIden>
-		<compID>NOT OOMP  Value: MBR120  Device: DIODE-SCHOTTKYSOD-123</compID>
+		<compID>NOT OOMP  eagleValue: MBR120  eagleDevice: DIODE-SCHOTTKYSOD-123  eaglePackage: SOD-123</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>L2</compIden>
-		<compID>NOT OOMP  Value: 10uH  Device: INDUCTOR0805-NO</compID>
+		<compID>NOT OOMP  eagleValue: 10uH  eagleDevice: INDUCTOR0805-NO  eaglePackage: 0805-NO</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>MS1</compIden>
-		<compID>NOT OOMP  Value: FEATHERWING_NODIM  Device: FEATHERWING_NODIM</compID>
+		<compID>NOT OOMP  eagleValue: FEATHERWING_NODIM  eagleDevice: FEATHERWING_NODIM  eaglePackage: FEATHERWING_NODIM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>Q3</compIden>
-		<compID>NOT OOMP  Value: DMG3415U-7  Device: MOSFET-P</compID>
+		<compID>NOT OOMP  eagleValue: DMG3415U-7  eagleDevice: MOSFET-P  eaglePackage: SOT23-R</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -246,70 +246,70 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 	<component>
 		<compIndex>32</compIndex>
 		<compIden>SW1</compIden>
-		<compID>NOT OOMP  Value: KMR2  Device: SWITCH_TACT_SMT4.6X2.8</compID>
+		<compID>NOT OOMP  eagleValue: KMR2  eagleDevice: SWITCH_TACT_SMT4.6X2.8  eaglePackage: BTN_KMR2_4.6X2.8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>33</compIndex>
 		<compIden>SW2</compIden>
-		<compID>NOT OOMP  Value: KMR2  Device: SWITCH_TACT_SMT4.6X2.8</compID>
+		<compID>NOT OOMP  eagleValue: KMR2  eagleDevice: SWITCH_TACT_SMT4.6X2.8  eaglePackage: BTN_KMR2_4.6X2.8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>34</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: MDBT42  Device: NRF52832_MODULE_MDBT42</compID>
+		<compID>NOT OOMP  eagleValue: MDBT42  eagleDevice: NRF52832_MODULE_MDBT42  eaglePackage: BLE_MODULE_RAYTAC_MDBT42</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>35</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: AP2112(3.3V)  Device: VREG_SOT23-5</compID>
+		<compID>NOT OOMP  eagleValue: AP2112(3.3V)  eagleDevice: VREG_SOT23-5  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>36</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: MCP73831T-2ACI/OT  Device: MCP73831/2</compID>
+		<compID>NOT OOMP  eagleValue: MCP73831T-2ACI/OT  eagleDevice: MCP73831/2  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>37</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: CP2104  Device: CP2104</compID>
+		<compID>NOT OOMP  eagleValue: CP2104  eagleDevice: CP2104  eaglePackage: QFN24_4MM_SMSC</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>38</compIndex>
 		<compIden>X1</compIden>
-		<compID>NOT OOMP  Value: 4u20317  Device: JTAG-CORTEXBOXPOSTS</compID>
+		<compID>NOT OOMP  eagleValue: 4u20317  eagleDevice: JTAG-CORTEXBOXPOSTS  eaglePackage: 2X05_1.27MM_BOX_POSTS</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>39</compIndex>
 		<compIden>X2</compIden>
-		<compID>NOT OOMP  Value: JSTPH  Device: CON_JST_PH_2PIN</compID>
+		<compID>NOT OOMP  eagleValue: JSTPH  eagleDevice: CON_JST_PH_2PIN  eaglePackage: JSTPH2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>40</compIndex>
 		<compIden>X3</compIden>
-		<compID>NOT OOMP  Value: 4u20329  Device: USB_MICRO_20329_V2</compID>
+		<compID>NOT OOMP  eagleValue: 4u20329  eagleDevice: USB_MICRO_20329_V2  eaglePackage: 4UCONN_20329_V2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>41</compIndex>
 		<compIden>X4</compIden>
-		<compID>NOT OOMP  Value: 32.768  Device: XTAL-3.2X1.5</compID>
+		<compID>NOT OOMP  eagleValue: 32.768  eagleDevice: XTAL-3.2X1.5  eaglePackage: XTAL3215</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

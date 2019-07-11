@@ -87,21 +87,21 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>CHG</compIden>
-		<compID>NOT OOMP  Value: ORANGE  Device: LED0805_NOOUTLINE</compID>
+		<compID>NOT OOMP  eagleValue: ORANGE  eagleDevice: LED0805_NOOUTLINE  eaglePackage: CHIPLED_0805_NOOUTLINE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: MBR120  Device: DIODE-SCHOTTKYSOD-123</compID>
+		<compID>NOT OOMP  eagleValue: MBR120  eagleDevice: DIODE-SCHOTTKYSOD-123  eaglePackage: SOD-123</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>L</compIden>
-		<compID>NOT OOMP  Value: RED  Device: LED0805_NOOUTLINE</compID>
+		<compID>NOT OOMP  eagleValue: RED  eagleDevice: LED0805_NOOUTLINE  eaglePackage: CHIPLED_0805_NOOUTLINE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -157,56 +157,56 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>SW1</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH_TACT_SMT4.6X2.8</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH_TACT_SMT4.6X2.8  eaglePackage: BTN_KMR2_4.6X2.8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value:   Device: USI_WM-N-BM-09</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: USI_WM-N-BM-09  eaglePackage: USI_WM-N-BM-09</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: AP2112(3.3V)  Device: VREG_SOT23-5</compID>
+		<compID>NOT OOMP  eagleValue: AP2112(3.3V)  eagleDevice: VREG_SOT23-5  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: MCP73831T-2ACI/OT  Device: MCP73831/2</compID>
+		<compID>NOT OOMP  eagleValue: MCP73831T-2ACI/OT  eagleDevice: MCP73831/2  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: S25FL216K  Device: SPIFLASH_SOIC8</compID>
+		<compID>NOT OOMP  eagleValue: S25FL216K  eagleDevice: SPIFLASH_SOIC8  eaglePackage: SOIC8_150MIL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>X1</compIden>
-		<compID>NOT OOMP  Value: JSTPH  Device: CON_JST_PH_2PIN</compID>
+		<compID>NOT OOMP  eagleValue: JSTPH  eagleDevice: CON_JST_PH_2PIN  eaglePackage: JSTPH2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>X2</compIden>
-		<compID>NOT OOMP  Value: 2500AT44M0400  Device: ANTENNA_JOHANSON_2500AT44M0400</compID>
+		<compID>NOT OOMP  eagleValue: 2500AT44M0400  eagleDevice: ANTENNA_JOHANSON_2500AT44M0400  eaglePackage: ANT_2500AT44M0400</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>X3</compIden>
-		<compID>NOT OOMP  Value: 20329  Device: USB_MICRO_20329_V2</compID>
+		<compID>NOT OOMP  eagleValue: 20329  eagleDevice: USB_MICRO_20329_V2  eaglePackage: 4UCONN_20329_V2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

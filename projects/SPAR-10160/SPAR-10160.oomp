@@ -24,7 +24,7 @@ Note: These do not include a battery. See the related products below for a batte
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>BAT1</compIden>
-		<compID>NOT OOMP  Value: 3V  Device: BATTERY</compID>
+		<compID>NOT OOMP  eagleValue: 3V  eagleDevice: BATTERY  eaglePackage: BATTCON_12MM_CURVED</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -45,7 +45,7 @@ Note: These do not include a battery. See the related products below for a batte
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: DS3234  Device: DS3234</compID>
+		<compID>NOT OOMP  eagleValue: DS3234  eagleDevice: DS3234  eaglePackage: DS3234</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

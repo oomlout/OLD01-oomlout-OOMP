@@ -22,7 +22,7 @@ Note: This product does not come with the RFID reader. Check below for compatibl
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>BUZZ</compIden>
-		<compID>NOT OOMP  Value: buzz  Device: SOLDERJUMPERNC2</compID>
+		<compID>NOT OOMP  eagleValue: buzz  eagleDevice: SOLDERJUMPERNC2  eaglePackage: SJ_2S-NOTRACE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -57,14 +57,14 @@ Note: This product does not come with the RFID reader. Check below for compatibl
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: GRN  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: GRN  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: MMBT2222  Device: TRANSISTOR_NPNSOT23-3</compID>
+		<compID>NOT OOMP  eagleValue: MMBT2222  eagleDevice: TRANSISTOR_NPNSOT23-3  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -85,42 +85,42 @@ Note: This product does not come with the RFID reader. Check below for compatibl
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>SG1</compIden>
-		<compID>NOT OOMP  Value: BUZZERSMD2  Device: BUZZERSMD2</compID>
+		<compID>NOT OOMP  eagleValue: BUZZERSMD2  eagleDevice: BUZZERSMD2  eaglePackage: BUZZER-CCV</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>TUNE</compIden>
-		<compID>NOT OOMP  Value: SOLDERJUMPERNC2  Device: SOLDERJUMPERNC2</compID>
+		<compID>NOT OOMP  eagleValue: SOLDERJUMPERNC2  eagleDevice: SOLDERJUMPERNC2  eaglePackage: SJ_2S-NOTRACE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: FT232RL-BASICSSOP  Device: FT232RL-BASICSSOP</compID>
+		<compID>NOT OOMP  eagleValue: FT232RL-BASICSSOP  eagleDevice: FT232RL-BASICSSOP  eaglePackage: SSOP28DB</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: 33nH  Device: INDUCTOR0402</compID>
+		<compID>NOT OOMP  eagleValue: 33nH  eagleDevice: INDUCTOR0402  eaglePackage: C0402</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: ID-12/20SMD  Device: ID-12/20SMD</compID>
+		<compID>NOT OOMP  eagleValue: ID-12/20SMD  eagleDevice: ID-12/20SMD  eaglePackage: ID-12_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>X1</compIden>
-		<compID>NOT OOMP  Value: USBSMD  Device: USBSMD</compID>
+		<compID>NOT OOMP  eagleValue: USBSMD  eagleDevice: USBSMD  eaglePackage: USB-MINIB</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

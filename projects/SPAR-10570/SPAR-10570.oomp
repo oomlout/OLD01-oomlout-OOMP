@@ -46,21 +46,21 @@ Replaces:DEV-10115
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: Red  Device: LED5MM</compID>
+		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  Value: Yellow  Device: LED5MM</compID>
+		<compID>NOT OOMP  eagleValue: Yellow  eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>LED3</compIden>
-		<compID>NOT OOMP  Value: Yellow  Device: LED5MM</compID>
+		<compID>NOT OOMP  eagleValue: Yellow  eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -95,28 +95,28 @@ Replaces:DEV-10115
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>R5</compIden>
-		<compID>NOT OOMP  Value: CdS  Device: PHOTOCELLPTH</compID>
+		<compID>NOT OOMP  eagleValue: CdS  eagleDevice: PHOTOCELLPTH  eaglePackage: PHOTOCELL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>R6</compIden>
-		<compID>NOT OOMP  Value: Slider3  Device: SLIDER</compID>
+		<compID>NOT OOMP  eagleValue: Slider3  eagleDevice: SLIDER  eaglePackage: SLIDER</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>R7</compIden>
-		<compID>NOT OOMP  Value: Slider2  Device: SLIDER</compID>
+		<compID>NOT OOMP  eagleValue: Slider2  eagleDevice: SLIDER  eaglePackage: SLIDER</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>R8</compIden>
-		<compID>NOT OOMP  Value: Slider1  Device: SLIDER</compID>
+		<compID>NOT OOMP  eagleValue: Slider1  eagleDevice: SLIDER  eaglePackage: SLIDER</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -186,63 +186,63 @@ Replaces:DEV-10115
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value: Button1  Device: SWITCH-MOMENTARY-212MM</compID>
+		<compID>NOT OOMP  eagleValue: Button1  eagleDevice: SWITCH-MOMENTARY-212MM  eaglePackage: TACTILE-PTH-12MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value: Button2  Device: SWITCH-MOMENTARY-212MM</compID>
+		<compID>NOT OOMP  eagleValue: Button2  eagleDevice: SWITCH-MOMENTARY-212MM  eaglePackage: TACTILE-PTH-12MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>S3</compIden>
-		<compID>NOT OOMP  Value: Button3  Device: SWITCH-MOMENTARY-212MM</compID>
+		<compID>NOT OOMP  eagleValue: Button3  eagleDevice: SWITCH-MOMENTARY-212MM  eaglePackage: TACTILE-PTH-12MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>S4</compIden>
-		<compID>NOT OOMP  Value: Reset  Device: SWITCH-MOMENTARY-2PTH</compID>
+		<compID>NOT OOMP  eagleValue: Reset  eagleDevice: SWITCH-MOMENTARY-2PTH  eaglePackage: TACTILE-PTH</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>SG1</compIden>
-		<compID>NOT OOMP  Value: BUZZER  Device: BUZZERPTH</compID>
+		<compID>NOT OOMP  eagleValue: BUZZER  eagleDevice: BUZZERPTH  eaglePackage: BUZZER-12MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: ARDUINO_SHIELD  Device: ARDUINO_SHIELDNO_SILK</compID>
+		<compID>NOT OOMP  eagleValue: ARDUINO_SHIELD  eagleDevice: ARDUINO_SHIELDNO_SILK  eaglePackage: DUEMILANOVE_VIAS</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: 74LS595N  Device: 74LS595N</compID>
+		<compID>NOT OOMP  eagleValue: 74LS595N  eagleDevice: 74LS595N  eaglePackage: DIL16</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: TMP36  Device: TMP36GT9</compID>
+		<compID>NOT OOMP  eagleValue: TMP36  eagleDevice: TMP36GT9  eaglePackage: TO-92</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>U6</compIden>
-		<compID>NOT OOMP  Value: 7-SEGMENT-DISPLAY-1-RED  Device: 7-SEGMENT-DISPLAY-1-RED</compID>
+		<compID>NOT OOMP  eagleValue: 7-SEGMENT-DISPLAY-1-RED  eagleDevice: 7-SEGMENT-DISPLAY-1-RED  eaglePackage: 7-SEGMENT-1PTH</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

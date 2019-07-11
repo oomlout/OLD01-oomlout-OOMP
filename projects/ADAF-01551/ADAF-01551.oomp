@@ -1,7 +1,7 @@
 <xml>
 <oompProject>
 	<oompID>ADAF-01551</oompID>
-	<name></name>
+	<name>DS2413 1-Wire Two GPIO Controller Breakout</name>
 	<hexID></hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
@@ -33,14 +33,14 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>CN1</compIden>
-		<compID>NOT OOMP  Value: 1X4-CLEANBIG  Device: 1X4-CLEANBIG</compID>
+		<compID>NOT OOMP  eagleValue: 1X4-CLEANBIG  eagleDevice: 1X4-CLEANBIG  eaglePackage: 1X04-CLEANBIG</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: DS2413  Device: DS2413TSOC</compID>
+		<compID>NOT OOMP  eagleValue: DS2413  eagleDevice: DS2413TSOC  eaglePackage: DS2413_TSOC6L</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

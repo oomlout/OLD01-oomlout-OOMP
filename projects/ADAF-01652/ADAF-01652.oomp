@@ -146,42 +146,42 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  Value: PDS560-13  Device: DIODEPOWERDI</compID>
+		<compID>NOT OOMP  eagleValue: PDS560-13  eagleDevice: DIODEPOWERDI  eaglePackage: POWERDI-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  Value: 1N4148  Device: DIODESOD-323</compID>
+		<compID>NOT OOMP  eagleValue: 1N4148  eagleDevice: DIODESOD-323  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>IC1</compIden>
-		<compID>NOT OOMP  Value: ATTINY85-20S  Device: ATTINY85-20S</compID>
+		<compID>NOT OOMP  eagleValue: ATTINY85-20S  eagleDevice: ATTINY85-20S  eaglePackage: SOIC8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>ISP1</compIden>
-		<compID>NOT OOMP  Value: AVRISP-6  Device: AVRISP-6</compID>
+		<compID>NOT OOMP  eagleValue: AVRISP-6  eagleDevice: AVRISP-6  eaglePackage: AVRISP</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>L1</compIden>
-		<compID>NOT OOMP  Value: 22uH  Device: INDUCTORCDRH5D28</compID>
+		<compID>NOT OOMP  eagleValue: 22uH  eagleDevice: INDUCTORCDRH5D28  eaglePackage: INDUCTOR_6X6MM_SUMIDA_CDRH5D28</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>L2</compIden>
-		<compID>NOT OOMP  Value: 4.7uH (445-6526-1-ND)  Device: INDUCTORTDK_VLC5045</compID>
+		<compID>NOT OOMP  eagleValue: 4.7uH (445-6526-1-ND)  eagleDevice: INDUCTORTDK_VLC5045  eaglePackage: INDUCTOR_5X5MM_TDK_VLC5045</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -195,14 +195,14 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>ON/OFF</compIden>
-		<compID>NOT OOMP  Value: EG1390  Device: DPDT-EG1390</compID>
+		<compID>NOT OOMP  eagleValue: EG1390  eagleDevice: DPDT-EG1390  eaglePackage: EG1390</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: IRLR024NTRPBF  Device: MOSFET-NDPAK</compID>
+		<compID>NOT OOMP  eagleValue: IRLR024NTRPBF  eagleDevice: MOSFET-NDPAK  eaglePackage: DPAK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -293,7 +293,7 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 	<component>
 		<compIndex>38</compIndex>
 		<compIden>R13</compIden>
-		<compID>NOT OOMP  Value: 0.058  Device: RESISTOR2512</compID>
+		<compID>NOT OOMP  eagleValue: 0.058  eagleDevice: RESISTOR2512  eaglePackage: 2512</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -307,70 +307,70 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 	<component>
 		<compIndex>40</compIndex>
 		<compIden>SW1</compIden>
-		<compID>NOT OOMP  Value: SPST_TACT-EVQQ2  Device: SPST_TACT-EVQQ2</compID>
+		<compID>NOT OOMP  eagleValue: SPST_TACT-EVQQ2  eagleDevice: SPST_TACT-EVQQ2  eaglePackage: EVQ-Q2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>41</compIndex>
 		<compIden>SW2</compIden>
-		<compID>NOT OOMP  Value: SPST_TACT-EVQQ2  Device: SPST_TACT-EVQQ2</compID>
+		<compID>NOT OOMP  eagleValue: SPST_TACT-EVQQ2  eagleDevice: SPST_TACT-EVQQ2  eaglePackage: EVQ-Q2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>42</compIndex>
 		<compIden>SW3</compIden>
-		<compID>NOT OOMP  Value: SPST_TACT-EVQQ2  Device: SPST_TACT-EVQQ2</compID>
+		<compID>NOT OOMP  eagleValue: SPST_TACT-EVQQ2  eagleDevice: SPST_TACT-EVQQ2  eaglePackage: EVQ-Q2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>43</compIndex>
 		<compIden>T1</compIden>
-		<compID>NOT OOMP  Value: IRLML2246  Device: PMOSSOT23</compID>
+		<compID>NOT OOMP  eagleValue: IRLML2246  eagleDevice: PMOSSOT23  eaglePackage: SOT-23</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>44</compIndex>
 		<compIden>T2</compIden>
-		<compID>NOT OOMP  Value: IRLML2246  Device: PMOSSOT23</compID>
+		<compID>NOT OOMP  eagleValue: IRLML2246  eagleDevice: PMOSSOT23  eaglePackage: SOT-23</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>45</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: LT3754  Device: VREG_LT3754</compID>
+		<compID>NOT OOMP  eagleValue: LT3754  eagleDevice: VREG_LT3754  eaglePackage: QFN32_5MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>46</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: MCP16321T-330E/NG   Device: VREG_MCP16321/2</compID>
+		<compID>NOT OOMP  eagleValue: MCP16321T-330E/NG   eagleDevice: VREG_MCP16321/2  eaglePackage: QFN16_3MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>47</compIndex>
 		<compIden>X1</compIden>
-		<compID>NOT OOMP  Value: 0472720001  Device: DISPLAYPORTSINKSIDE</compID>
+		<compID>NOT OOMP  eagleValue: 0472720001  eagleDevice: DISPLAYPORTSINKSIDE  eaglePackage: DISPLAYPORT_0472720001</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>48</compIndex>
 		<compIden>X2</compIden>
-		<compID>NOT OOMP  Value: 502250-5191  Device: DISP_DISPLAYPORT_LP097QX1-SPA1HANDSOLDERING</compID>
+		<compID>NOT OOMP  eagleValue: 502250-5191  eagleDevice: DISP_DISPLAYPORT_LP097QX1-SPA1HANDSOLDERING  eaglePackage: FPC_51PIN_502250-5191_EXT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>49</compIndex>
 		<compIden>X3</compIden>
-		<compID>NOT OOMP  Value: 2.1mm  Device: DCBARRELSMT_CORRECT</compID>
+		<compID>NOT OOMP  eagleValue: 2.1mm  eagleDevice: DCBARRELSMT_CORRECT  eaglePackage: DCJACK_2MM_SMT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

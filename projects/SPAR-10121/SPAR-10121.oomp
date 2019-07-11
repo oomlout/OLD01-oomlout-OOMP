@@ -70,14 +70,14 @@ Having a hard time picking an IMU? Our Accelerometer, Gyro, and IMU Buying Guide
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: ADXL3451:1  Device: ADXL3451:1</compID>
+		<compID>NOT OOMP  eagleValue: ADXL3451:1  eagleDevice: ADXL3451:1  eaglePackage: LGA14</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: ITG-32001:1  Device: ITG-32001:1</compID>
+		<compID>NOT OOMP  eagleValue: ITG-32001:1  eagleDevice: ITG-32001:1  eaglePackage: QFN-24_ITG3200_1:1</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

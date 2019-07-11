@@ -92,7 +92,7 @@ The board breaks out all pins of the ISD1932 to 0.1" spaced headers. This produc
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: Red  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -127,28 +127,28 @@ The board breaks out all pins of the ISD1932 to 0.1" spaced headers. This produc
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH-SPSTSMD</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPSTSMD  eaglePackage: AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: ISD1900ISD1932  Device: ISD1900ISD1932</compID>
+		<compID>NOT OOMP  eagleValue: ISD1900ISD1932  eagleDevice: ISD1900ISD1932  eaglePackage: SO-28W</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: MICELECTRET_SMD  Device: MICELECTRET_SMD</compID>
+		<compID>NOT OOMP  eagleValue: MICELECTRET_SMD  eagleDevice: MICELECTRET_SMD  eaglePackage: MIC_ELECTRET_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: AUDIO-JACK2SMD  Device: AUDIO-JACK2SMD</compID>
+		<compID>NOT OOMP  eagleValue: AUDIO-JACK2SMD  eagleDevice: AUDIO-JACK2SMD  eaglePackage: AUDIO-JACK-3.5MM-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

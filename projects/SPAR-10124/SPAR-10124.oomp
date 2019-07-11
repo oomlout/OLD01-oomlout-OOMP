@@ -49,7 +49,7 @@ This breakout board includes the SP3485 RS-485 transceiver, filter capacitor, an
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: RS485SOIC  Device: RS485SOIC</compID>
+		<compID>NOT OOMP  eagleValue: RS485SOIC  eagleDevice: RS485SOIC  eaglePackage: SO08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -35,7 +35,7 @@ The sensor outputs both temperature and pressure readings on the SPI bus. See pa
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: MPL115A  Device: MPL115A</compID>
+		<compID>NOT OOMP  eagleValue: MPL115A  eagleDevice: MPL115A  eaglePackage: LGA8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

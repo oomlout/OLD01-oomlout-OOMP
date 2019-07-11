@@ -39,35 +39,35 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>3V3</compIden>
-		<compID>NOT OOMP  Value: SEWTAP-2.0IN  Device: SEWTAP-2.0IN</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP-2.0IN  eagleDevice: SEWTAP-2.0IN  eaglePackage: SEWINGTAP_2.0</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>B0</compIden>
-		<compID>NOT OOMP  Value: SEWTAP-2.0IN  Device: SEWTAP-2.0IN</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP-2.0IN  eagleDevice: SEWTAP-2.0IN  eaglePackage: SEWINGTAP_2.0</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>B1</compIden>
-		<compID>NOT OOMP  Value: SEWTAP-2.0IN  Device: SEWTAP-2.0IN</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP-2.0IN  eagleDevice: SEWTAP-2.0IN  eaglePackage: SEWINGTAP_2.0</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>B2</compIden>
-		<compID>NOT OOMP  Value: SEWTAP-2.0IN  Device: SEWTAP-2.0IN</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP-2.0IN  eagleDevice: SEWTAP-2.0IN  eaglePackage: SEWINGTAP_2.0</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>BOOT</compIden>
-		<compID>NOT OOMP  Value: red  Device: LED0805_NOOUTLINE</compID>
+		<compID>NOT OOMP  eagleValue: red  eagleDevice: LED0805_NOOUTLINE  eaglePackage: CHIPLED_0805_NOOUTLINE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -88,35 +88,35 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>CN1</compIden>
-		<compID>NOT OOMP  Value: JST-PH  Device: CON_JST_PH_2PIN</compID>
+		<compID>NOT OOMP  eagleValue: JST-PH  eagleDevice: CON_JST_PH_2PIN  eaglePackage: JSTPH2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  Value: SCHOTTKY  Device: DIODE_SOD-123FL</compID>
+		<compID>NOT OOMP  eagleValue: SCHOTTKY  eagleDevice: DIODE_SOD-123FL  eaglePackage: SOD-123FL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  Value: SCHOTTKY  Device: DIODE_SOD-123FL</compID>
+		<compID>NOT OOMP  eagleValue: SCHOTTKY  eagleDevice: DIODE_SOD-123FL  eaglePackage: SOD-123FL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>GND</compIden>
-		<compID>NOT OOMP  Value: SEWTAP-2.0IN  Device: SEWTAP-2.0IN</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP-2.0IN  eagleDevice: SEWTAP-2.0IN  eaglePackage: SEWINGTAP_2.0</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>IC2</compIden>
-		<compID>NOT OOMP  Value: MIC5225-3.3v  Device: LP298XS</compID>
+		<compID>NOT OOMP  eagleValue: MIC5225-3.3v  eagleDevice: LP298XS  eaglePackage: SOT23-5L</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -130,7 +130,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: reset  Device: SWITCH_TACT_SMT4.6X2.8</compID>
+		<compID>NOT OOMP  eagleValue: reset  eagleDevice: SWITCH_TACT_SMT4.6X2.8  eaglePackage: BTN_KMR2_4.6X2.8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -172,28 +172,28 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>SW1</compIden>
-		<compID>NOT OOMP  Value:   Device: SWITCH_DPDTEG1390</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH_DPDTEG1390  eaglePackage: EG1390</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: ATTINY85  Device: ATTINY85</compID>
+		<compID>NOT OOMP  eagleValue: ATTINY85  eagleDevice: ATTINY85  eaglePackage: MLF20_4X4MM_0.5MM_ATMEL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>VBAT</compIden>
-		<compID>NOT OOMP  Value: SEWTAP-2.0IN  Device: SEWTAP-2.0IN</compID>
+		<compID>NOT OOMP  eagleValue: SEWTAP-2.0IN  eagleDevice: SEWTAP-2.0IN  eaglePackage: SEWINGTAP_2.0</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>X2</compIden>
-		<compID>NOT OOMP  Value: MicroUSB  Device: USBMICRO_20329</compID>
+		<compID>NOT OOMP  eagleValue: MicroUSB  eagleDevice: USBMICRO_20329  eaglePackage: 4UCONN_20329</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

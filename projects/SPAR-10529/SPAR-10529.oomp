@@ -127,14 +127,14 @@ In this version, we're using a better regulator, corrected the speaker connector
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  Value: Power  Device: LED0603</compID>
+		<compID>NOT OOMP  eagleValue: Power  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  Value: 12.288MHz  Device: CRYSTAL5X3</compID>
+		<compID>NOT OOMP  eagleValue: 12.288MHz  eagleDevice: CRYSTAL5X3  eaglePackage: CRYSTAL-SMD-5X3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -239,42 +239,42 @@ In this version, we're using a better regulator, corrected the speaker connector
 	<component>
 		<compIndex>32</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  Value: Reset  Device: SWITCH-MOMENTARY-2SMD</compID>
+		<compID>NOT OOMP  eagleValue: Reset  eagleDevice: SWITCH-MOMENTARY-2SMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>33</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: 3.3V  Device: V_REG_LDOSMD</compID>
+		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>34</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: ARDUINO_SHIELD  Device: ARDUINO_SHIELDLABEL</compID>
+		<compID>NOT OOMP  eagleValue: ARDUINO_SHIELD  eagleDevice: ARDUINO_SHIELDLABEL  eaglePackage: DUEMILANOVE_SHIELD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>35</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: VS1053  Device: VS1033</compID>
+		<compID>NOT OOMP  eagleValue: VS1053  eagleDevice: VS1033  eaglePackage: LQFP-48</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>36</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  Value: 1.8V  Device: V_REG_LDOSMD2</compID>
+		<compID>NOT OOMP  eagleValue: 1.8V  eagleDevice: V_REG_LDOSMD2  eaglePackage: SC70</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>37</compIndex>
 		<compIden>U5</compIden>
-		<compID>NOT OOMP  Value:   Device: AUDIO-JACKSMD2</compID>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: AUDIO-JACKSMD2  eaglePackage: AUDIO-JACK-3.5MM-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -22,7 +22,7 @@ The Spectrum Shield features the MSGEQ7 graphic equalizer display filter. Two of
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>AUDIO_IN</compIden>
-		<compID>NOT OOMP  Value: JUMPER-3PTH  Device: JUMPER-3PTH</compID>
+		<compID>NOT OOMP  eagleValue: JUMPER-3PTH  eagleDevice: JUMPER-3PTH  eaglePackage: 1X03</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -120,21 +120,21 @@ The Spectrum Shield features the MSGEQ7 graphic equalizer display filter. Two of
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  Value: ARDUINO_R3_SHIELD  Device: ARDUINO_R3_SHIELD</compID>
+		<compID>NOT OOMP  eagleValue: ARDUINO_R3_SHIELD  eagleDevice: ARDUINO_R3_SHIELD  eaglePackage: UNO_R3_SHIELD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  Value: MSGEQ7SOIC  Device: MSGEQ7SOIC</compID>
+		<compID>NOT OOMP  eagleValue: MSGEQ7SOIC  eagleDevice: MSGEQ7SOIC  eaglePackage: SOIC8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  Value: MSGEQ7SOIC  Device: MSGEQ7SOIC</compID>
+		<compID>NOT OOMP  eagleValue: MSGEQ7SOIC  eagleDevice: MSGEQ7SOIC  eaglePackage: SOIC8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
