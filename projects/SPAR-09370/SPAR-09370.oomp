@@ -2,7 +2,7 @@
 <oompProject>
 	<oompID>SPAR-09370</oompID>
 	<name>SparkFun DC/DC Converter Breakout</name>
-	<hexID></hexID>
+	<hexID>SPAR09370</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
 	<oompAbout>
@@ -30,7 +30,7 @@ Board comes as shown, with all components (aside from the trim resistor) populat
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>C2</compIden>
-		<compID>CAPE-S5-X-UF47-V25</compID>
+		<compID>CAPE-S05-X-UF47-V25</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
