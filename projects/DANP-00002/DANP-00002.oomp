@@ -1,11 +1,15 @@
 <xml>
 <oompProject>
 	<oompID>DANP-00002</oompID>
-	<name></name>
+	<name>Bus Pirate v4</name>
 	<hexID>DANP00002</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout></oompAbout>
+	<oompAbout>(image and text from seeedstudio.com)
+
+Bus Pirate v4 is a universal bus interface that talks to electronics from a computer serial terminal. Get to know a chip without writing code. Eliminates a ton of early prototyping effort with new or unknown chips. Seeed Studio is the official manufacturer and supporter of the Bus Pirate project. Version 4 is the next generation Bus Pirate hardware, but it's not as stable as Bus Pirate v3.
+
+If you're just starting out with the Bus Pirate we still recommend v3 - it's cheaper, more reliable, and has all the same major features. See a Bus Pirate v4 vs v3 comparison. Protocols 1-Wire, I2C, SPI, JTAG, asynchronous serial (UART), MIDI, PC keyboard, HD44780 LCDs, and generic 2- and 3-wire libraries for custom protocols.</oompAbout>
 	<oompOfficialLink>http://dangerousprototypes.com/docs/Bus_Pirate</oompOfficialLink>
 	<company>Dangerous Prototypes</company>
 	<companyCode>C-DANP</companyCode>

@@ -1,11 +1,13 @@
 <xml>
 <oompProject>
 	<oompID>ARDU-00005</oompID>
-	<name></name>
+	<name>Arduino Mega</name>
 	<hexID>ARDU00005</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout></oompAbout>
+	<oompAbout>(from arduino.cc)
+
+The Arduino Mega 2560 is a microcontroller board based on the ATmega2560. It has 54 digital input/output pins (of which 15 can be used as PWM outputs), 16 analog inputs, 4 UARTs (hardware serial ports), a 16 MHz crystal oscillator, a USB connection, a power jack, an ICSP header, and a reset button. It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with a AC-to-DC adapter or battery to get started. The Mega 2560 board is compatible with most shields designed for the Uno and the former boards Duemilanove or Diecimila. The Mega 2560 is an update to the Arduino Mega, which it replaces. You can find here your board warranty informations.</oompAbout>
 	<oompOfficialLink>https://store.arduino.cc/mega-2560-r3</oompOfficialLink>
 	<company>Arduino</company>
 	<companyCode>C-ARDU</companyCode>

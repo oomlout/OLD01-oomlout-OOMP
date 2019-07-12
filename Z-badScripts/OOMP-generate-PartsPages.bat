@@ -7,7 +7,7 @@ REM Test Directory
 REM set OOBBpartsDirectory=C:\GH\oomlout-OOMPTEST\parts\
 
 set OOMPwikiDirectory=C:\GH\oomlout-OOMP.wiki\
-set OOMPwikiDirectoryParts=C:\GH\oomlout-OOMP.wiki\parts\
+set OOMPwikiDirectoryParts=C:\GH\oomlout-OOMP.wiki\
 set OOMPprojectsDirectory=C:\GH\oomlout-OOMP\projects\
 set OOMPDirectory=C:\GH\oomlout-OOMP\
 set INKSdirectory=C:\GH\oomlout-INKS\

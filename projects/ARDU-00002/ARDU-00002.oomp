@@ -1,11 +1,14 @@
 <xml>
 <oompProject>
 	<oompID>ARDU-00002</oompID>
-	<name></name>
+	<name>Arduino Leonardo</name>
 	<hexID>ARDU00002</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout></oompAbout>
+	<oompAbout>(from arduino.cc)
+
+The Arduino Leonardo is a microcontroller board based on the ATmega32u4 (datasheet). It has 20 digital input/output pins (of which 7 can be used as PWM outputs and 12 as analog inputs), a 16 MHz crystal oscillator, a micro USB connection, a power jack, an ICSP header, and a reset button. It contains everything needed to support the microcontroller; simply connect it to a computer with a USB cable or power it with a AC-to-DC adapter or battery to get started. 
+The Leonardo differs from all preceding boards in that the ATmega32u4 has built-in USB communication, eliminating the need for a secondary processor. This allows the Leonardo to appear to a connected computer as a mouse and keyboard, in addition to a virtual (CDC) serial / COM port. It also has other implications for the behavior of the board; these are detailed on the getting started page.</oompAbout>
 	<oompOfficialLink>https://store.arduino.cc/leonardo</oompOfficialLink>
 	<company>Arduino</company>
 	<companyCode>C-ARDU</companyCode>

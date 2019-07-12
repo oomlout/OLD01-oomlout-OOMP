@@ -1,11 +1,15 @@
 <xml>
 <oompProject>
 	<oompID>DANP-00001</oompID>
-	<name></name>
+	<name>Bus Pirate v3.6</name>
 	<hexID>DANP00001</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout></oompAbout>
+	<oompAbout>(image and text from seeedstudio.com)
+
+Bus Pirate v3 is a universal bus interface that talks to electronics from a PC serial terminal. Get to know a chip without writing code. Eliminates a ton of early prototyping effort with new or unknown chips. A laser cut acrylic case for Bus Pirate v3.6 is also available.
+
+This board provides 1-Wire, I2C, SPI, JTAG, asynchronous serial (UART), MIDI, PC keyboard, HD44780 LCDs, and generic 2- and 3-wire libraries for custom protocols.</oompAbout>
 	<oompOfficialLink>http://dangerousprototypes.com/docs/Bus_Pirate</oompOfficialLink>
 	<company>Dangerous Prototypes</company>
 	<companyCode>C-DANP</companyCode>
