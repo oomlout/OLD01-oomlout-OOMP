@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0402) 22 pF Capacitor (Ceramic) 50v__    
 ID: __CAPC-0402-X-PF22-V50__   
-Hex ID: ____   
+Hex ID: __C42P022__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0402-X-PF22-V50__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/C42P022__   
 
 Full Details
 ==========================

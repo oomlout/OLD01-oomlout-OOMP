@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0402) 1.5 pF Capacitor (Ceramic) 50v__    
 ID: __CAPC-0402-X-PF15D-V50__   
-Hex ID: ____   
+Hex ID: __C42P0015D__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0402-X-PF15D-V50__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/C42P0015D__   
 
 Full Details
 ==========================

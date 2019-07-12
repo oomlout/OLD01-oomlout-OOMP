@@ -5,9 +5,9 @@ Summary
   
 Name: __SMD (0603) 1 nF Capacitor (Ceramic) 50v__    
 ID: __CAPC-0603-X-NF1-V50__   
-Hex ID: ____   
+Hex ID: __C6N001__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0603-X-NF1-V50__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/C6N001__   
 
 Full Details
 ==========================
