@@ -24,6 +24,12 @@ Note: Not all types of addressable LEDs are compatible with the Spectacle Light 
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>32</numComponents>
+	<numOompComponents>18</numOompComponents>
+	<oompCompletion>56</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -251,6 +257,15 @@ Note: Not all types of addressable LEDs are compatible with the Spectacle Light 
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>Spectacle Light Board</name>
+		<partID>14052</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14052]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

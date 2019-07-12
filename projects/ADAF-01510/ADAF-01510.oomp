@@ -35,6 +35,12 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 	<company>Adafruit</company>
 	<companyCode>C-ADAF</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>19</numComponents>
+	<numOompComponents>12</numOompComponents>
+	<oompCompletion>63</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -171,6 +177,14 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Adafruit</company>
+		<companyCode>C-ADAF</companyCode>
+		<name>Adafruit CC3000 WiFi Breakout with uFL Connector for Ext Antenna [v1.1]</name>
+		<partID>1510</partID>
+	</manufacturer>
+</sourceList>
 
 
 

@@ -12,6 +12,12 @@ Arduino Uno is a microcontroller board based on the ATmega328P (datasheet). It h
 	<company>Arduino</company>
 	<companyCode>C-ARDU</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>53</numComponents>
+	<numOompComponents>20</numOompComponents>
+	<oompCompletion>38</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -386,6 +392,15 @@ Arduino Uno is a microcontroller board based on the ATmega328P (datasheet). It h
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Arduino</company>
+		<companyCode>C-ARDU</companyCode>
+		<name>Arduino Uno</name>
+		<partID>1</partID>
+		<link><![CDATA[https://store.arduino.cc/arduino-uno-rev3]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

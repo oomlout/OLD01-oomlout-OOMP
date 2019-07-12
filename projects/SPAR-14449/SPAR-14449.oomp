@@ -19,6 +19,12 @@ Note: This kit will need to be assembled before use, so knowledge of soldering w
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>41</numComponents>
+	<numOompComponents>29</numOompComponents>
+	<oompCompletion>71</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -309,6 +315,15 @@ Note: This kit will need to be assembled before use, so knowledge of soldering w
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Variable Load Kit</name>
+		<partID>14449</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14449]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

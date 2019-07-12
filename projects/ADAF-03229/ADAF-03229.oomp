@@ -37,6 +37,12 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<company>Adafruit</company>
 	<companyCode>C-ADAF</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>7</numComponents>
+	<numOompComponents>3</numOompComponents>
+	<oompCompletion>43</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -89,6 +95,15 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Adafruit</company>
+		<companyCode>C-ADAF</companyCode>
+		<name>Adafruit Radio FeatherWing - RFM69HCW 900MHz [RadioFruit]</name>
+		<partID>3229</partID>
+		<link><![CDATA[https://www.adafruit.com/product/3229]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

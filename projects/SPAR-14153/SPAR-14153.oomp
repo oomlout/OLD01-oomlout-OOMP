@@ -17,6 +17,12 @@ The ESP32 Thing Environment Sensor Shield utilizes the BME280 pressure/humidity/
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>33</numComponents>
+	<numOompComponents>17</numOompComponents>
+	<oompCompletion>52</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -251,6 +257,15 @@ The ESP32 Thing Environment Sensor Shield utilizes the BME280 pressure/humidity/
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun ESP32 Thing Environment Sensor Shield</name>
+		<partID>14153</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14153]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

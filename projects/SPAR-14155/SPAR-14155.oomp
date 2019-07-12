@@ -19,6 +19,12 @@ Note: This product only includes the SparkFun ESP32 Thing Power Control Shield. 
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>53</numComponents>
+	<numOompComponents>29</numOompComponents>
+	<oompCompletion>55</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -393,6 +399,15 @@ Note: This product only includes the SparkFun ESP32 Thing Power Control Shield. 
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun ESP32 Thing Power Control Shield</name>
+		<partID>14155</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14155]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

@@ -17,6 +17,12 @@ The OLED display is 1.81" long with 160x32 4-bit grayscale pixels with a 3-wire 
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>20</numComponents>
+	<numOompComponents>13</numOompComponents>
+	<oompCompletion>65</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -160,6 +166,15 @@ The OLED display is 1.81" long with 160x32 4-bit grayscale pixels with a 3-wire 
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Flexible Grayscale OLED Breakout - 1.81andquot;</name>
+		<partID>14606</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14606]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

@@ -18,6 +18,12 @@ Note: Please be aware that the CCS811 datasheet recommends a burn-in of 48 hours
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>10</numComponents>
+	<numOompComponents>8</numOompComponents>
+	<oompCompletion>80</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -91,6 +97,15 @@ Note: Please be aware that the CCS811 datasheet recommends a burn-in of 48 hours
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Air Quality Breakout - CCS811</name>
+		<partID>14193</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14193]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

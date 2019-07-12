@@ -21,6 +21,12 @@ Note: This shield includes Photon stackable headers, but they are not pre-solder
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>4</numComponents>
+	<numOompComponents>3</numOompComponents>
+	<oompCompletion>75</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -52,6 +58,15 @@ Note: This shield includes Photon stackable headers, but they are not pre-solder
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Qwiic Shield for Photon</name>
+		<partID>14477</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14477]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

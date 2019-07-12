@@ -35,6 +35,12 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<company>Adafruit</company>
 	<companyCode>C-ADAF</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>14</numComponents>
+	<numOompComponents>12</numOompComponents>
+	<oompCompletion>86</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -136,6 +142,15 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Adafruit</company>
+		<companyCode>C-ADAF</companyCode>
+		<name>Adafruit ATWINC1500 WiFi Breakout</name>
+		<partID>2999</partID>
+		<link><![CDATA[https://www.adafruit.com/product/2999]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

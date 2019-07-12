@@ -19,6 +19,12 @@ Note: Speakers are required for the Papa Soundie, not headphones. Headphones won
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>68</numComponents>
+	<numOompComponents>52</numOompComponents>
+	<oompCompletion>76</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -498,6 +504,15 @@ Note: Speakers are required for the Papa Soundie, not headphones. Headphones won
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Papa Soundie Audio Player</name>
+		<partID>14554</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14554]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

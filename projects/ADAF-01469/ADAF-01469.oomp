@@ -35,6 +35,12 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 	<company>Adafruit</company>
 	<companyCode>C-ADAF</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>19</numComponents>
+	<numOompComponents>12</numOompComponents>
+	<oompCompletion>63</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -171,6 +177,15 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Adafruit</company>
+		<companyCode>C-ADAF</companyCode>
+		<name>Adafruit HUZZAH CC3000 WiFi Breakout with Onboard Antenna [v1.1]</name>
+		<partID>1469</partID>
+		<link><![CDATA[https://www.adafruit.com/product/1469]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

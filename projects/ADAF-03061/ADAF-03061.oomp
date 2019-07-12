@@ -23,6 +23,12 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 	<company>Adafruit</company>
 	<companyCode>C-ADAF</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>32</numComponents>
+	<numOompComponents>21</numOompComponents>
+	<oompCompletion>66</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -250,6 +256,15 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Adafruit</company>
+		<companyCode>C-ADAF</companyCode>
+		<name>Adafruit Feather M0 WiFi with uFL - ATSAMD21 + ATWINC1500</name>
+		<partID>3061</partID>
+		<link><![CDATA[https://www.adafruit.com/product/3061]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

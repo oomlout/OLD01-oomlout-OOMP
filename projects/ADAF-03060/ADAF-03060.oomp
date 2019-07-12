@@ -10,6 +10,12 @@
 	<company>Adafruit</company>
 	<companyCode>C-ADAF</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>14</numComponents>
+	<numOompComponents>12</numOompComponents>
+	<oompCompletion>86</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -111,6 +117,15 @@
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Adafruit</company>
+		<companyCode>C-ADAF</companyCode>
+		<name>Adafruit ATWINC1500 WiFi Breakout with uFL Connector [fw 19.4.4]</name>
+		<partID>3060</partID>
+		<link><![CDATA[https://www.adafruit.com/product/3060]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

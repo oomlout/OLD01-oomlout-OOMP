@@ -13,6 +13,12 @@ The Leonardo differs from all preceding boards in that the ATmega32u4 has built-
 	<company>Arduino</company>
 	<companyCode>C-ARDU</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>51</numComponents>
+	<numOompComponents>22</numOompComponents>
+	<oompCompletion>43</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -373,6 +379,15 @@ The Leonardo differs from all preceding boards in that the ATmega32u4 has built-
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Arduino</company>
+		<companyCode>C-ARDU</companyCode>
+		<name>Arduino Leonardo</name>
+		<partID>2</partID>
+		<link><![CDATA[https://store.arduino.cc/leonardo]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

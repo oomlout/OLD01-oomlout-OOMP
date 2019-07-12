@@ -30,6 +30,12 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<company>Adafruit</company>
 	<companyCode>C-ADAF</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>9</numComponents>
+	<numOompComponents>5</numOompComponents>
+	<oompCompletion>56</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -96,6 +102,15 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Adafruit</company>
+		<companyCode>C-ADAF</companyCode>
+		<name>Adafruit I2S 3W Class D Amplifier Breakout - MAX98357A</name>
+		<partID>3006</partID>
+		<link><![CDATA[https://www.adafruit.com/product/3006]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

@@ -23,6 +23,12 @@ Spectacle is a product ecosystem centered around a simple idea: creative people 
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>47</numComponents>
+	<numOompComponents>23</numOompComponents>
+	<oompCompletion>49</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -355,6 +361,15 @@ Spectacle is a product ecosystem centered around a simple idea: creative people 
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>Spectacle Button Board</name>
+		<partID>14044</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14044]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

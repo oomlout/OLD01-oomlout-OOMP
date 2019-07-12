@@ -22,6 +22,12 @@ Note: This includes R3 Arduino headers, but they are not pre-soldered onto the b
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>15</numComponents>
+	<numOompComponents>11</numOompComponents>
+	<oompCompletion>73</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -130,6 +136,15 @@ Note: This includes R3 Arduino headers, but they are not pre-soldered onto the b
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Qwiic Shield for Arduino</name>
+		<partID>14201</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14201]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

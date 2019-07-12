@@ -26,6 +26,12 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 	<company>Adafruit</company>
 	<companyCode>C-ADAF</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>29</numComponents>
+	<numOompComponents>16</numOompComponents>
+	<oompCompletion>55</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -232,6 +238,15 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Adafruit</company>
+		<companyCode>C-ADAF</companyCode>
+		<name>Adafruit Feather 32u4 with RFM69HCW Packet Radio - 433MHz [RadioFruit]</name>
+		<partID>3077</partID>
+		<link><![CDATA[https://www.adafruit.com/product/3077]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

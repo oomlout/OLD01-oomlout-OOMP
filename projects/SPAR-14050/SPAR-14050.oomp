@@ -17,6 +17,12 @@ The pinout of the Serial Basic mimics the common DTR/RX/TX/VCC/CTS/GND pinout fo
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>16</numComponents>
+	<numOompComponents>10</numOompComponents>
+	<oompCompletion>63</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -132,6 +138,15 @@ The pinout of the Serial Basic mimics the common DTR/RX/TX/VCC/CTS/GND pinout fo
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Serial Basic Breakout - CH340G</name>
+		<partID>14050</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14050]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

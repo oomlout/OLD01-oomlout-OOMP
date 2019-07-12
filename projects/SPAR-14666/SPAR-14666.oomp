@@ -20,6 +20,12 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>15</numComponents>
+	<numOompComponents>9</numOompComponents>
+	<oompCompletion>60</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -128,6 +134,15 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Qwiic Flex Glove Controller</name>
+		<partID>14666</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14666]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

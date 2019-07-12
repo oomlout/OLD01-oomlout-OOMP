@@ -25,6 +25,12 @@ All text above must be included in any redistribution
 	<company>Adafruit</company>
 	<companyCode>C-ADAF</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>30</numComponents>
+	<numOompComponents>14</numOompComponents>
+	<oompCompletion>47</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -238,6 +244,15 @@ All text above must be included in any redistribution
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Adafruit</company>
+		<companyCode>C-ADAF</companyCode>
+		<name>Adafruit Metro Mini 328 - Arduino-Compatible - 5V 16MHz</name>
+		<partID>2590</partID>
+		<link><![CDATA[https://www.adafruit.com/product/2590]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

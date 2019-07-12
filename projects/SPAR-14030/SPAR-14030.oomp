@@ -18,6 +18,12 @@ The shield comes with a 6-pin JST connector to connect the GP-735 module. If you
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>13</numComponents>
+	<numOompComponents>5</numOompComponents>
+	<oompCompletion>38</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -112,6 +118,15 @@ The shield comes with a 6-pin JST connector to connect the GP-735 module. If you
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Mini GPS Shield</name>
+		<partID>14030</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14030]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

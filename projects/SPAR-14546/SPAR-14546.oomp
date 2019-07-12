@@ -19,6 +19,12 @@ Note: Due to the requirements of shipping the included battery, orders may take 
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>24</numComponents>
+	<numOompComponents>7</numOompComponents>
+	<oompCompletion>29</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -190,6 +196,15 @@ Note: Due to the requirements of shipping the included battery, orders may take 
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>LilyPad E-Sewing ProtoSnap</name>
+		<partID>14546</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14546]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

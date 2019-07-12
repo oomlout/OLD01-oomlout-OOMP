@@ -18,6 +18,12 @@ Note: Although the chip itself is rated for up to 2.4kV (RMS) of isolation, the 
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>11</numComponents>
+	<numOompComponents>7</numOompComponents>
+	<oompCompletion>64</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -98,6 +104,15 @@ Note: Although the chip itself is rated for up to 2.4kV (RMS) of isolation, the 
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Current Sensor Breakout - ACS723 (Low Current)</name>
+		<partID>14544</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14544]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

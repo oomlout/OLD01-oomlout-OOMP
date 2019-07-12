@@ -18,6 +18,12 @@ There are also power tabs available on the two sensors and the LED if you choose
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>7</numComponents>
+	<numOompComponents>4</numOompComponents>
+	<oompCompletion>57</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -70,6 +76,15 @@ There are also power tabs available on the two sensors and the LED if you choose
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun gator:starter ProtoSnap</name>
+		<partID>14891</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14891]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

@@ -22,6 +22,12 @@ Important: The silkscreen indicates an input voltage range of 3V to 17V but we h
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>32</numComponents>
+	<numOompComponents>21</numOompComponents>
+	<oompCompletion>66</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -249,6 +255,15 @@ Important: The silkscreen indicates an input voltage range of 3V to 17V but we h
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun moto:bit</name>
+		<partID>14213</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14213]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

@@ -25,6 +25,12 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 	<company>Adafruit</company>
 	<companyCode>C-ADAF</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>2</numComponents>
+	<numOompComponents>0</numOompComponents>
+	<oompCompletion>0</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -42,6 +48,15 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Adafruit</company>
+		<companyCode>C-ADAF</companyCode>
+		<name>FeatherWing Doubler - Prototyping Add-on For All Feather Boards</name>
+		<partID>2890</partID>
+		<link><![CDATA[https://www.adafruit.com/product/2890]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

@@ -37,6 +37,12 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<company>Adafruit</company>
 	<companyCode>C-ADAF</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>27</numComponents>
+	<numOompComponents>16</numOompComponents>
+	<oompCompletion>59</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -229,6 +235,15 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Adafruit</company>
+		<companyCode>C-ADAF</companyCode>
+		<name>Adafruit Feather M0 with RFM95 LoRa Radio - 900MHz [RadioFruit]</name>
+		<partID>3178</partID>
+		<link><![CDATA[https://www.adafruit.com/product/3178]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

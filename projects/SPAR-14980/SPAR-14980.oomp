@@ -23,6 +23,12 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>36</numComponents>
+	<numOompComponents>26</numOompComponents>
+	<oompCompletion>72</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -278,6 +284,15 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun GPS-RTK Board - NEO-M8P-2 (Qwiic)</name>
+		<partID>14980</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14980]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

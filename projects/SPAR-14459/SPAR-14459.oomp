@@ -21,6 +21,12 @@ Note: There is a small silk error that has reversed the SDA and SCL. This is sim
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>13</numComponents>
+	<numOompComponents>9</numOompComponents>
+	<oompCompletion>69</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -115,6 +121,15 @@ Note: There is a small silk error that has reversed the SDA and SCL. This is sim
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Qwiic HAT for Raspberry Pi</name>
+		<partID>14459</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14459]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

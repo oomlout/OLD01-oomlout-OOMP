@@ -18,6 +18,12 @@ This logic level converter provides 5V to the high side of the TXB0104 and the l
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>22</numComponents>
+	<numOompComponents>15</numOompComponents>
+	<oompCompletion>68</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -175,6 +181,15 @@ This logic level converter provides 5V to the high side of the TXB0104 and the l
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Logic Level Converter - Single Supply</name>
+		<partID>14765</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14765]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

@@ -26,6 +26,12 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<company>Adafruit</company>
 	<companyCode>C-ADAF</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>26</numComponents>
+	<numOompComponents>15</numOompComponents>
+	<oompCompletion>58</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -211,6 +217,15 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Adafruit</company>
+		<companyCode>C-ADAF</companyCode>
+		<name>Adafruit WICED WiFi Feather - STM32F205 with Cypress WICED WiFi</name>
+		<partID>3056</partID>
+		<link><![CDATA[https://www.adafruit.com/product/3056]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

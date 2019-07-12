@@ -20,6 +20,12 @@ The SparkFun Qwiic connect system is an ecosystem of I2C sensors, actuators, shi
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>26</numComponents>
+	<numOompComponents>18</numOompComponents>
+	<oompCompletion>69</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -205,6 +211,15 @@ The SparkFun Qwiic connect system is an ecosystem of I2C sensors, actuators, shi
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun VR IMU Breakout - BNO080 (Qwiic)</name>
+		<partID>14686</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14686]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

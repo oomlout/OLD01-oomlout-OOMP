@@ -20,6 +20,12 @@ Note: Be sure to check the Hardware Overview section in the Hookup Guide for com
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>61</numComponents>
+	<numOompComponents>32</numOompComponents>
+	<oompCompletion>52</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -450,6 +456,15 @@ Note: Be sure to check the Hardware Overview section in the Hookup Guide for com
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun LTE CAT M1/NB-IoT Shield - SARA-R4</name>
+		<partID>14997</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14997]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

@@ -17,6 +17,12 @@ The THAT 1206 InGenius Breakout and its sibling, the THAT 1646 OutSmarts Breakou
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>23</numComponents>
+	<numOompComponents>10</numOompComponents>
+	<oompCompletion>43</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -181,6 +187,15 @@ The THAT 1206 InGenius Breakout and its sibling, the THAT 1646 OutSmarts Breakou
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun THAT 1206 InGenius Breakout</name>
+		<partID>14002</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14002]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

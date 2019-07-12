@@ -21,6 +21,12 @@ Note: CLASS 1 LASER PRODUCT CLASSIFIED IEC 60825-1 2014.
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>15</numComponents>
+	<numOompComponents>10</numOompComponents>
+	<oompCompletion>67</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -129,6 +135,15 @@ Note: CLASS 1 LASER PRODUCT CLASSIFIED IEC 60825-1 2014.
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Distance Sensor Breakout - 4 Meter, VL53L1X (Qwiic)</name>
+		<partID>14667</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14667]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

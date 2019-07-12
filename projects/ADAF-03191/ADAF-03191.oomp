@@ -30,6 +30,12 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<company>Adafruit</company>
 	<companyCode>C-ADAF</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>8</numComponents>
+	<numOompComponents>4</numOompComponents>
+	<oompCompletion>50</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -89,6 +95,15 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Adafruit</company>
+		<companyCode>C-ADAF</companyCode>
+		<name>Adafruit Power Relay FeatherWing</name>
+		<partID>3191</partID>
+		<link><![CDATA[https://www.adafruit.com/product/3191]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

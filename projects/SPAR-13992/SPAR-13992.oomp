@@ -22,6 +22,12 @@ Spectacle is a product ecosystem centered around a simple idea: creative people 
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>34</numComponents>
+	<numOompComponents>20</numOompComponents>
+	<oompCompletion>59</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -263,6 +269,15 @@ Spectacle is a product ecosystem centered around a simple idea: creative people 
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>Spectacle Inertia Board</name>
+		<partID>13992</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/13992]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

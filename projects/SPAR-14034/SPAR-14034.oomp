@@ -23,6 +23,12 @@ Note: The “Out” jack is not for audio signals. Plugging an audio device into one
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>71</numComponents>
+	<numOompComponents>53</numOompComponents>
+	<oompCompletion>75</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -523,6 +529,15 @@ Note: The “Out” jack is not for audio signals. Plugging an audio device into one
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>Spectacle Audio Board</name>
+		<partID>14034</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14034]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

@@ -20,6 +20,12 @@ The SparkFun Qwiic connect system is an ecosystem of I2C sensors, actuators, shi
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>14</numComponents>
+	<numOompComponents>10</numOompComponents>
+	<oompCompletion>71</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -121,6 +127,15 @@ The SparkFun Qwiic connect system is an ecosystem of I2C sensors, actuators, shi
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Environmental Combo Breakout - CCS811/BME280 (Qwiic)</name>
+		<partID>14348</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14348]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

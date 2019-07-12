@@ -20,6 +20,12 @@ Note: If you are looking to pick up a SparkFun Pro RF while we are out of stock,
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>52</numComponents>
+	<numOompComponents>33</numOompComponents>
+	<oompCompletion>63</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -387,6 +393,15 @@ Note: If you are looking to pick up a SparkFun Pro RF while we are out of stock,
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Pro RF - LoRa, 915MHz (SAMD21)</name>
+		<partID>14916</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14916]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

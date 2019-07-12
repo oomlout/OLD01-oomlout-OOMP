@@ -28,6 +28,12 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<company>Adafruit</company>
 	<companyCode>C-ADAF</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>7</numComponents>
+	<numOompComponents>6</numOompComponents>
+	<oompCompletion>86</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -80,6 +86,15 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Adafruit</company>
+		<companyCode>C-ADAF</companyCode>
+		<name>MCP9808 High Accuracy I2C Temperature Sensor Breakout Board</name>
+		<partID>1782</partID>
+		<link><![CDATA[https://www.adafruit.com/product/1782]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

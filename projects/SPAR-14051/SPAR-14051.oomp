@@ -19,6 +19,12 @@ Note: This kit will need to be assembled before use, so a beginner's knowledge o
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>61</numComponents>
+	<numOompComponents>35</numOompComponents>
+	<oompCompletion>57</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -449,6 +455,15 @@ Note: This kit will need to be assembled before use, so a beginner's knowledge o
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Wireless Joystick Kit</name>
+		<partID>14051</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14051]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

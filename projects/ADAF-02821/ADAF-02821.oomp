@@ -23,6 +23,12 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 	<company>Adafruit</company>
 	<companyCode>C-ADAF</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>28</numComponents>
+	<numOompComponents>17</numOompComponents>
+	<oompCompletion>61</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -222,6 +228,15 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Adafruit</company>
+		<companyCode>C-ADAF</companyCode>
+		<name>Adafruit Feather HUZZAH with ESP8266 - Loose Headers</name>
+		<partID>2821</partID>
+		<link><![CDATA[https://www.adafruit.com/product/2821]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

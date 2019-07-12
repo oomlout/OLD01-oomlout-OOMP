@@ -23,6 +23,12 @@ Note: The SparkFun gator:bit does NOT include a micro:bit board. The micro:bit w
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>83</numComponents>
+	<numOompComponents>38</numOompComponents>
+	<oompCompletion>46</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -607,6 +613,15 @@ Note: The SparkFun gator:bit does NOT include a micro:bit board. The micro:bit w
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun gator:bit</name>
+		<partID>14484</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14484]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

@@ -12,6 +12,12 @@ The Arduino Mega 2560 is a microcontroller board based on the ATmega2560. It has
 	<company>Arduino</company>
 	<companyCode>C-ARDU</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>58</numComponents>
+	<numOompComponents>25</numOompComponents>
+	<oompCompletion>43</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -421,6 +427,15 @@ The Arduino Mega 2560 is a microcontroller board based on the ATmega2560. It has
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Arduino</company>
+		<companyCode>C-ARDU</companyCode>
+		<name>Arduino Mega</name>
+		<partID>5</partID>
+		<link><![CDATA[https://store.arduino.cc/mega-2560-r3]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

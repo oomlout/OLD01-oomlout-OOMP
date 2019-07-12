@@ -17,6 +17,12 @@ Inside each Basic Flashlight Soldering Kit bag is a PCB, a small coin cell batte
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>4</numComponents>
+	<numOompComponents>1</numOompComponents>
+	<oompCompletion>25</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -48,6 +54,15 @@ Inside each Basic Flashlight Soldering Kit bag is a PCB, a small coin cell batte
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Basic Flashlight Soldering Kit</name>
+		<partID>14877</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14877]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

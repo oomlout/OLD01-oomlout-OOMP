@@ -18,6 +18,12 @@ The LEDs can be powered one of two ways. The first simply turns the LED on, and 
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>12</numComponents>
+	<numOompComponents>12</numOompComponents>
+	<oompCompletion>100</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -105,6 +111,15 @@ The LEDs can be powered one of two ways. The first simply turns the LED on, and 
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun gator:color ProtoSnap</name>
+		<partID>14890</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14890]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

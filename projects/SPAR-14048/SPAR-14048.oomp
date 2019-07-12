@@ -17,6 +17,12 @@ The TeensyView comes with everything you need except the headers. Additionally, 
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>11</numComponents>
+	<numOompComponents>8</numOompComponents>
+	<oompCompletion>73</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -97,6 +103,15 @@ The TeensyView comes with everything you need except the headers. Additionally, 
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun TeensyView</name>
+		<partID>14048</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14048]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

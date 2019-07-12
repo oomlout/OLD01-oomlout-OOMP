@@ -17,6 +17,12 @@ This breakout offers an adjustable output range of 100, 200 or 400g, and an adju
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>9</numComponents>
+	<numOompComponents>7</numOompComponents>
+	<oompCompletion>78</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -83,6 +89,15 @@ This breakout offers an adjustable output range of 100, 200 or 400g, and an adju
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Triple Axis Accelerometer Breakout - H3LIS331DL</name>
+		<partID>14480</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14480]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

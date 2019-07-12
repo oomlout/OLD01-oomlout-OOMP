@@ -19,6 +19,12 @@ Note: If you don't have a scoreboard available to reset the play counter, you ca
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>30</numComponents>
+	<numOompComponents>14</numOompComponents>
+	<oompCompletion>47</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -232,6 +238,15 @@ Note: If you don't have a scoreboard available to reset the play counter, you ca
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Roshamglo Badge Kit</name>
+		<partID>14130</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14130]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

@@ -22,6 +22,12 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 	<company>Adafruit</company>
 	<companyCode>C-ADAF</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>19</numComponents>
+	<numOompComponents>7</numOompComponents>
+	<oompCompletion>37</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -158,6 +164,15 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Adafruit</company>
+		<companyCode>C-ADAF</companyCode>
+		<name>Adafruit Assembled Data Logging shield for Arduino</name>
+		<partID>1141</partID>
+		<link><![CDATA[https://www.adafruit.com/product/1141]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

@@ -36,6 +36,12 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<company>Adafruit</company>
 	<companyCode>C-ADAF</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>111</numComponents>
+	<numOompComponents>4</numOompComponents>
+	<oompCompletion>4</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -816,6 +822,15 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Adafruit</company>
+		<companyCode>C-ADAF</companyCode>
+		<name>Adafruit 15x7 CharliePlex LED Matrix FeatherWing - Warm White</name>
+		<partID>3163</partID>
+		<link><![CDATA[https://www.adafruit.com/product/3163]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

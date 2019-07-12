@@ -36,6 +36,12 @@ Adafruit Ultimate GPS.sch	updated!	2 years ago
 	<company>Adafruit</company>
 	<companyCode>C-ADAF</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>20</numComponents>
+	<numOompComponents>13</numOompComponents>
+	<oompCompletion>65</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -179,6 +185,15 @@ Adafruit Ultimate GPS.sch	updated!	2 years ago
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Adafruit</company>
+		<companyCode>C-ADAF</companyCode>
+		<name>Adafruit Ultimate GPS with USB - 66 channel w/10 Hz updates</name>
+		<partID>4279</partID>
+		<link><![CDATA[https://www.adafruit.com/product/4279]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

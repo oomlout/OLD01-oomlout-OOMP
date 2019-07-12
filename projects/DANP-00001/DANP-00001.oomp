@@ -14,6 +14,12 @@ This board provides 1-Wire, I2C, SPI, JTAG, asynchronous serial (UART), MIDI, PC
 	<company>Dangerous Prototypes</company>
 	<companyCode>C-DANP</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>39</numComponents>
+	<numOompComponents>17</numOompComponents>
+	<oompCompletion>44</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -290,6 +296,15 @@ This board provides 1-Wire, I2C, SPI, JTAG, asynchronous serial (UART), MIDI, PC
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Dangerous Prototypes</company>
+		<companyCode>C-DANP</companyCode>
+		<name>Bus Pirate v3.6</name>
+		<partID>1</partID>
+		<link><![CDATA[http://dangerousprototypes.com/docs/Bus_Pirate]]></link>
+	</manufacturer>
+</sourceList>
 
 
 
