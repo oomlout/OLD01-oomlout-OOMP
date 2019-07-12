@@ -22,9 +22,9 @@ Note: Due to the requirements of shipping the included battery, orders may take 
 
 
 
-	<numComponents>24</numComponents>
+	<numComponents>10</numComponents>
 	<numOompComponents>7</numOompComponents>
-	<oompCompletion>29</oompCompletion>
+	<oompCompletion>70</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -36,162 +36,64 @@ Note: Due to the requirements of shipping the included battery, orders may take 
 	</component>
 	<component>
 		<compIndex>2</compIndex>
-		<compIden>BATB-</compIden>
-		<compID>NOT OOMP  eagleValue: SEWTAP6  eagleDevice: SEWTAP6  eaglePackage: PETAL-SMALL-2SIDE</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>3</compIndex>
-		<compIden>BATB-2</compIden>
-		<compID>NOT OOMP  eagleValue: SEWTAP6  eagleDevice: SEWTAP6  eaglePackage: PETAL-SMALL-2SIDE</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>4</compIndex>
-		<compIden>BATT+</compIden>
-		<compID>NOT OOMP  eagleValue: SEWTAP6  eagleDevice: SEWTAP6  eaglePackage: PETAL-SMALL-2SIDE</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>5</compIndex>
-		<compIden>BATT+2</compIden>
-		<compID>NOT OOMP  eagleValue: SEWTAP6  eagleDevice: SEWTAP6  eaglePackage: PETAL-SMALL-2SIDE</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>6</compIndex>
-		<compIden>BUTTON-</compIden>
-		<compID>NOT OOMP  eagleValue: SEWTAP8  eagleDevice: SEWTAP8  eaglePackage: PETAL-MEDIUM-2SIDE</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>7</compIndex>
-		<compIden>BUTTONS</compIden>
-		<compID>NOT OOMP  eagleValue: SEWTAP8  eagleDevice: SEWTAP8  eaglePackage: PETAL-MEDIUM-2SIDE</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>8</compIndex>
-		<compIden>LED+1</compIden>
-		<compID>NOT OOMP  eagleValue: SEWTAP6  eagleDevice: SEWTAP6  eaglePackage: PETAL-SMALL-2SIDE</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>9</compIndex>
-		<compIden>LED+2</compIden>
-		<compID>NOT OOMP  eagleValue: SEWTAP6  eagleDevice: SEWTAP6  eaglePackage: PETAL-SMALL-2SIDE</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>10</compIndex>
-		<compIden>LED+3</compIden>
-		<compID>NOT OOMP  eagleValue: SEWTAP6  eagleDevice: SEWTAP6  eaglePackage: PETAL-SMALL-2SIDE</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>11</compIndex>
-		<compIden>LED-1</compIden>
-		<compID>NOT OOMP  eagleValue: SEWTAP6  eagleDevice: SEWTAP6  eaglePackage: PETAL-SMALL-2SIDE</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>12</compIndex>
-		<compIden>LED-2</compIden>
-		<compID>NOT OOMP  eagleValue: SEWTAP6  eagleDevice: SEWTAP6  eaglePackage: PETAL-SMALL-2SIDE</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>13</compIndex>
-		<compIden>LED-3</compIden>
-		<compID>NOT OOMP  eagleValue: SEWTAP6  eagleDevice: SEWTAP6  eaglePackage: PETAL-SMALL-2SIDE</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>14</compIndex>
 		<compIden>LED1</compIden>
 		<compID>LEDS-1206-W-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>15</compIndex>
+		<compIndex>3</compIndex>
 		<compIden>LED2</compIden>
 		<compID>LEDS-1206-W-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>16</compIndex>
+		<compIndex>4</compIndex>
 		<compIden>LED3</compIden>
 		<compID>LEDS-1206-W-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>17</compIndex>
+		<compIndex>5</compIndex>
 		<compIden>R1</compIden>
 		<compID>RESE-0603-X-O151-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>18</compIndex>
+		<compIndex>6</compIndex>
 		<compIden>R2</compIden>
 		<compID>RESE-0603-X-O151-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>19</compIndex>
+		<compIndex>7</compIndex>
 		<compIden>R3</compIden>
 		<compID>RESE-0603-X-O151-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>20</compIndex>
+		<compIndex>8</compIndex>
 		<compIden>S1</compIden>
 		<compID>NOT OOMP  eagleValue: S1  eagleDevice: SWITCH-SPDTSMD  eaglePackage: AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>21</compIndex>
+		<compIndex>9</compIndex>
 		<compIden>S2</compIden>
 		<compID>BUTA-52D-X-SMDS-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>22</compIndex>
+		<compIndex>10</compIndex>
 		<compIden>S3</compIden>
 		<compID>NOT OOMP  eagleValue: S3  eagleDevice: SWITCH-SPDTSMD  eaglePackage: AYZ0202</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>23</compIndex>
-		<compIden>SLIDEOFF</compIden>
-		<compID>NOT OOMP  eagleValue: SEWTAP8  eagleDevice: SEWTAP8  eaglePackage: PETAL-MEDIUM-2SIDE</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>24</compIndex>
-		<compIden>SLIDEON</compIden>
-		<compID>NOT OOMP  eagleValue: SEWTAP8  eagleDevice: SEWTAP8  eaglePackage: PETAL-MEDIUM-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

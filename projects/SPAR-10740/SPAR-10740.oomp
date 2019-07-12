@@ -21,8 +21,8 @@ This revision corrects the silkscreen error on the FTDI header. We've also added
 
 
 	<numComponents>17</numComponents>
-	<numOompComponents>10</numOompComponents>
-	<oompCompletion>59</oompCompletion>
+	<numOompComponents>12</numOompComponents>
+	<oompCompletion>71</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -70,14 +70,14 @@ This revision corrects the silkscreen error on the FTDI header. We've also added
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue: red  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  eagleValue: green  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-G-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

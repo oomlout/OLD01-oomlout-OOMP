@@ -21,8 +21,8 @@ The Tiny AVR Programmer plugs directly into your USB port and provides a program
 
 
 	<numComponents>15</numComponents>
-	<numOompComponents>9</numOompComponents>
-	<oompCompletion>60</oompCompletion>
+	<numOompComponents>10</numOompComponents>
+	<oompCompletion>67</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -70,7 +70,7 @@ The Tiny AVR Programmer plugs directly into your USB port and provides a program
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue: Yellow  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-Y-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

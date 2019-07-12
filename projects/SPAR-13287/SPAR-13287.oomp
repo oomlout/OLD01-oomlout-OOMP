@@ -21,9 +21,9 @@ This shield comes populated with all components as shown in the images and schem
 
 
 
-	<numComponents>37</numComponents>
+	<numComponents>34</numComponents>
 	<numOompComponents>25</numOompComponents>
-	<oompCompletion>68</oompCompletion>
+	<oompCompletion>74</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -119,167 +119,146 @@ This shield comes populated with all components as shown in the images and schem
 	</component>
 	<component>
 		<compIndex>14</compIndex>
-		<compIden>L1</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: INDUCTOR0603  eaglePackage: 0603</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>15</compIndex>
-		<compIden>L2</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: INDUCTOR0603  eaglePackage: 0603</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>16</compIndex>
 		<compIden>Q1</compIden>
 		<compID>NOT OOMP  eagleValue: BSS138  eagleDevice: MOSFET-NCHANNELBSS138  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>17</compIndex>
+		<compIndex>15</compIndex>
 		<compIden>Q2</compIden>
 		<compID>NOT OOMP  eagleValue: BSS138  eagleDevice: MOSFET-NCHANNELBSS138  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>18</compIndex>
+		<compIndex>16</compIndex>
 		<compIden>R1</compIden>
 		<compID>RESE-0603-X-O123-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>19</compIndex>
+		<compIndex>17</compIndex>
 		<compIden>R2</compIden>
 		<compID>RESE-0603-X-O201-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>20</compIndex>
+		<compIndex>18</compIndex>
 		<compIden>R3</compIden>
 		<compID>RESE-0603-X-O103-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>21</compIndex>
+		<compIndex>19</compIndex>
 		<compIden>R4</compIden>
 		<compID>RESE-0603-X-O201-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>22</compIndex>
+		<compIndex>20</compIndex>
 		<compIden>R5</compIden>
 		<compID>RESE-0603-X-O103-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>23</compIndex>
+		<compIndex>21</compIndex>
 		<compIden>R6</compIden>
 		<compID>RESE-0603-X-O201-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>24</compIndex>
+		<compIndex>22</compIndex>
 		<compIden>R7</compIden>
 		<compID>RESE-0603-X-O103-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>25</compIndex>
+		<compIndex>23</compIndex>
 		<compIden>R8</compIden>
 		<compID>RESE-0603-X-O103-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>26</compIndex>
+		<compIndex>24</compIndex>
 		<compIden>R9</compIden>
 		<compID>RESE-0603-X-O103-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>27</compIndex>
+		<compIndex>25</compIndex>
 		<compIden>R10</compIden>
 		<compID>RESE-0603-X-O000-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>28</compIndex>
-		<compIden>R11</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: RESISTOR0603-RES  eaglePackage: 0603-RES</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>29</compIndex>
+		<compIndex>26</compIndex>
 		<compIden>R12</compIden>
 		<compID>RESE-0603-X-O103-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>30</compIndex>
+		<compIndex>27</compIndex>
 		<compIden>R13</compIden>
 		<compID>RESE-0603-X-O103-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>31</compIndex>
+		<compIndex>28</compIndex>
 		<compIden>R14</compIden>
 		<compID>RESE-0603-X-O102-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>32</compIndex>
+		<compIndex>29</compIndex>
 		<compIden>S1</compIden>
 		<compID>NOT OOMP  eagleValue: DPDT  eagleDevice: SWITCH-DPDTAYZ0202  eaglePackage: AYZ0202</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>33</compIndex>
+		<compIndex>30</compIndex>
 		<compIden>S2</compIden>
 		<compID>BUTA-52D-X-SMDS-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>34</compIndex>
+		<compIndex>31</compIndex>
 		<compIden>U1</compIden>
 		<compID>NOT OOMP  eagleValue: AP2112K-3.3V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>35</compIndex>
+		<compIndex>32</compIndex>
 		<compIden>U2</compIden>
 		<compID>NOT OOMP  eagleValue: ESP8266  eagleDevice: ESP8266  eaglePackage: QFN32</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>36</compIndex>
+		<compIndex>33</compIndex>
 		<compIden>U3</compIden>
 		<compID>NOT OOMP  eagleValue: AT25SF041-SOIC8  eagleDevice: AT25SF041-SOIC8  eaglePackage: SO08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>37</compIndex>
+		<compIndex>34</compIndex>
 		<compIden>Y1</compIden>
 		<compID>NOT OOMP  eagleValue: 26MHz  eagleDevice: CRYSTAL-GROUNDED3.2X2.5  eaglePackage: CRYSTAL-SMD-3.2X2.5</compID>
 		<compWhy></compWhy>

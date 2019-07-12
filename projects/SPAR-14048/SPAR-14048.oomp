@@ -20,9 +20,9 @@ The TeensyView comes with everything you need except the headers. Additionally, 
 
 
 
-	<numComponents>11</numComponents>
+	<numComponents>9</numComponents>
 	<numOompComponents>8</numOompComponents>
-	<oompCompletion>73</oompCompletion>
+	<oompCompletion>89</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -69,34 +69,20 @@ The TeensyView comes with everything you need except the headers. Additionally, 
 	</component>
 	<component>
 		<compIndex>7</compIndex>
-		<compIden>J1</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: CONN_14NO_SILK  eaglePackage: 1X14_NO_SILK</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>8</compIndex>
-		<compIden>J2</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: CONN_14NO_SILK  eaglePackage: 1X14_NO_SILK</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>9</compIndex>
 		<compIden>OLED1</compIden>
 		<compID>NOT OOMP  eagleValue: 32x128 OLED  eagleDevice: OLED128X64SIDEREAR-MOUNT  eaglePackage: OLED-UG-2832TSWGG01-REAR</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>10</compIndex>
+		<compIndex>8</compIndex>
 		<compIden>R1</compIden>
 		<compID>RESE-0603-X-O394-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>11</compIndex>
+		<compIndex>9</compIndex>
 		<compIden>R4</compIden>
 		<compID>RESE-0603-X-O472-67</compID>
 		<compWhy></compWhy>

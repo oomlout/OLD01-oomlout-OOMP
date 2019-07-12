@@ -21,314 +21,307 @@ Note: In larger installations you may need to add a decoupling capacitor between
 
 
 
-	<numComponents>44</numComponents>
-	<numOompComponents>0</numOompComponents>
-	<oompCompletion>0</oompCompletion>
+	<numComponents>43</numComponents>
+	<numOompComponents>40</numOompComponents>
+	<oompCompletion>93</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
 		<compIndex>1</compIndex>
-		<compIden>C1</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: 4.7UF-1206-16V-(+80/-20%)  eaglePackage: 1206</compID>
+		<compIden>D1</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
-		<compIden>D1</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D2</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>3</compIndex>
-		<compIden>D2</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D3</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>4</compIndex>
-		<compIden>D3</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D4</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
-		<compIden>D4</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D5</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
-		<compIden>D5</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D6</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
-		<compIden>D6</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D7</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
-		<compIden>D7</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D8</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
-		<compIden>D8</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D9</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
-		<compIden>D9</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D10</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
-		<compIden>D10</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D11</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
-		<compIden>D11</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D12</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
-		<compIden>D12</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D13</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
-		<compIden>D13</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D14</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
-		<compIden>D14</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D15</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
-		<compIden>D15</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D16</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
-		<compIden>D16</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D17</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
-		<compIden>D17</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D18</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
-		<compIden>D18</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D19</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
-		<compIden>D19</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D20</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
-		<compIden>D20</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D21</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>22</compIndex>
-		<compIden>D21</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D22</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>23</compIndex>
-		<compIden>D22</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D23</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>24</compIndex>
-		<compIden>D23</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D24</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>25</compIndex>
-		<compIden>D24</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D25</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>26</compIndex>
-		<compIden>D25</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D26</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>27</compIndex>
-		<compIden>D26</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D27</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
-		<compIden>D27</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D28</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>29</compIndex>
-		<compIden>D28</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D29</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>30</compIndex>
-		<compIden>D29</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D30</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>31</compIndex>
-		<compIden>D30</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D31</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>32</compIndex>
-		<compIden>D31</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D32</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>33</compIndex>
-		<compIden>D32</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D33</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>34</compIndex>
-		<compIden>D33</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D34</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>35</compIndex>
-		<compIden>D34</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D35</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>36</compIndex>
-		<compIden>D35</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D36</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>37</compIndex>
-		<compIden>D36</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D37</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>38</compIndex>
-		<compIden>D37</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D38</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>39</compIndex>
-		<compIden>D38</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D39</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>40</compIndex>
-		<compIden>D39</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
+		<compIden>D40</compIden>
+		<compID>LEDS-2020-X-K102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>41</compIndex>
-		<compIden>D40</compIden>
-		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: APA102-2020  eaglePackage: APA102-2020</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>42</compIndex>
 		<compIden>J1</compIden>
 		<compID>NOT OOMP  eagleValue: SOLDER_PAD_2  eagleDevice: SOLDER_PAD_2  eaglePackage: SOLDER_PAD_2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>43</compIndex>
+		<compIndex>42</compIndex>
 		<compIden>J2</compIden>
 		<compID>NOT OOMP  eagleValue: SOLDER_PAD_2  eagleDevice: SOLDER_PAD_2  eaglePackage: SOLDER_PAD_2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>44</compIndex>
+		<compIndex>43</compIndex>
 		<compIden>J3</compIden>
 		<compID>NOT OOMP  eagleValue: SOLDER_PAD_2  eagleDevice: SOLDER_PAD_2  eaglePackage: SOLDER_PAD_2</compID>
 		<compWhy></compWhy>

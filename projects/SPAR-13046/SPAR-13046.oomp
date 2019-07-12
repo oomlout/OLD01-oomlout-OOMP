@@ -21,9 +21,9 @@ If you are looking to add a little more stability to your Intel® Edison stack, c
 
 
 
-	<numComponents>15</numComponents>
+	<numComponents>13</numComponents>
 	<numOompComponents>9</numOompComponents>
-	<oompCompletion>60</oompCompletion>
+	<oompCompletion>69</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -84,48 +84,34 @@ If you are looking to add a little more stability to your Intel® Edison stack, c
 	</component>
 	<component>
 		<compIndex>9</compIndex>
-		<compIden>R4</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: 2.2KOHM-1/10W-1%(0603)  eaglePackage: 0603-RES</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>10</compIndex>
-		<compIden>R5</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: 2.2KOHM-1/10W-1%(0603)  eaglePackage: 0603-RES</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>11</compIndex>
 		<compIden>R6</compIden>
 		<compID>RESE-0603-X-O222-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>12</compIndex>
+		<compIndex>10</compIndex>
 		<compIden>R7</compIden>
 		<compID>NOT OOMP  eagleValue: 0.27  eagleDevice: 0.27OHM-1/10W-1%(0603)  eaglePackage: 0603-RES</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>13</compIndex>
+		<compIndex>11</compIndex>
 		<compIden>U1</compIden>
 		<compID>NOT OOMP  eagleValue: ADS1015  eagleDevice: ADS1015  eaglePackage: MSOP10</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>14</compIndex>
+		<compIndex>12</compIndex>
 		<compIden>U2</compIden>
 		<compID>NOT OOMP  eagleValue: PCA9306  eagleDevice: PCA9306PCA9306DC-1:1  eaglePackage: PCA9306DC-1:1</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>15</compIndex>
+		<compIndex>13</compIndex>
 		<compIden>U3</compIden>
 		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: MIC52053.3V  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>

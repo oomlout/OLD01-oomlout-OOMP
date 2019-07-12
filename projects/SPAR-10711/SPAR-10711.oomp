@@ -22,9 +22,9 @@ Note: There is a known hardware bug that will allow the LiPo to discharge below 
 
 
 
-	<numComponents>30</numComponents>
+	<numComponents>29</numComponents>
 	<numOompComponents>22</numOompComponents>
-	<oompCompletion>73</oompCompletion>
+	<oompCompletion>76</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -176,62 +176,55 @@ Note: There is a known hardware bug that will allow the LiPo to discharge below 
 	</component>
 	<component>
 		<compIndex>22</compIndex>
-		<compIden>R10</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: RESISTORPTH-1/6W  eaglePackage: 1/6W-RES</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>23</compIndex>
 		<compIden>R11</compIden>
 		<compID>RESE-0603-X-O103-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>24</compIndex>
+		<compIndex>23</compIndex>
 		<compIden>R12</compIden>
 		<compID>RESE-0603-X-O331-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>25</compIndex>
+		<compIndex>24</compIndex>
 		<compIden>S2</compIden>
 		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPDT-SMD-A  eaglePackage: SWITCH-SPST-SMD-A</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>26</compIndex>
+		<compIndex>25</compIndex>
 		<compIden>U1</compIden>
 		<compID>NOT OOMP  eagleValue: MAX17043G+U  eagleDevice: MAX1704X  eaglePackage: TDFN-8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>27</compIndex>
+		<compIndex>26</compIndex>
 		<compIden>U2</compIden>
 		<compID>NOT OOMP  eagleValue: TPS61200  eagleDevice: TPS61200  eaglePackage: QFN-10_PAD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>28</compIndex>
+		<compIndex>27</compIndex>
 		<compIden>U3</compIden>
 		<compID>NOT OOMP  eagleValue: MCP73831  eagleDevice: MCP73831  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>29</compIndex>
+		<compIndex>28</compIndex>
 		<compIden>U4</compIden>
 		<compID>NOT OOMP  eagleValue: ARDUINO_R3_SHIELD  eagleDevice: ARDUINO_R3_SHIELD  eaglePackage: UNO_R3_SHIELD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>30</compIndex>
+		<compIndex>29</compIndex>
 		<compIden>VREG</compIden>
 		<compID>NOT OOMP  eagleValue: MIC5205-3.3V  eagleDevice: MIC52053.3V  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>

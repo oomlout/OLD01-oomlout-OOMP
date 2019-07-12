@@ -22,9 +22,9 @@ Not sure which gyro is right for you? Our Accelerometer and Gyro Buying Guide mi
 
 
 
-	<numComponents>17</numComponents>
+	<numComponents>15</numComponents>
 	<numOompComponents>14</numOompComponents>
-	<oompCompletion>82</oompCompletion>
+	<oompCompletion>93</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -99,48 +99,34 @@ Not sure which gyro is right for you? Our Accelerometer and Gyro Buying Guide mi
 	</component>
 	<component>
 		<compIndex>11</compIndex>
-		<compIden>R5</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: RESISTOR0402-RES  eaglePackage: 0402-RES</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>12</compIndex>
 		<compIden>R6</compIden>
 		<compID>RESE-0402-X-O283-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>13</compIndex>
+		<compIndex>12</compIndex>
 		<compIden>R7</compIden>
 		<compID>RESE-0402-X-O283-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>14</compIndex>
-		<compIden>R8</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: RESISTOR0402-RES  eaglePackage: 0402-RES</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>15</compIndex>
+		<compIndex>13</compIndex>
 		<compIden>R9</compIden>
 		<compID>RESE-0402-X-O000-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>16</compIndex>
+		<compIndex>14</compIndex>
 		<compIden>R10</compIden>
 		<compID>RESE-0402-X-O000-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>17</compIndex>
+		<compIndex>15</compIndex>
 		<compIden>U1</compIden>
 		<compID>NOT OOMP  eagleValue: LPY5XXX  eagleDevice: ST-GYRO-PYSMD  eaglePackage: ST-GYRO</compID>
 		<compWhy></compWhy>

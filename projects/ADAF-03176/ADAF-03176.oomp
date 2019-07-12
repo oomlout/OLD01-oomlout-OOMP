@@ -41,8 +41,8 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 
 
 	<numComponents>27</numComponents>
-	<numOompComponents>16</numOompComponents>
-	<oompCompletion>59</oompCompletion>
+	<numOompComponents>18</numOompComponents>
+	<oompCompletion>67</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -118,7 +118,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>CHG</compIden>
-		<compID>NOT OOMP  eagleValue: ORANGE  eagleDevice: LED0805_NOOUTLINE  eaglePackage: CHIPLED_0805_NOOUTLINE</compID>
+		<compID>LEDS-0805-O-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -132,7 +132,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>L</compIden>
-		<compID>NOT OOMP  eagleValue: RED  eagleDevice: LED0805_NOOUTLINE  eaglePackage: CHIPLED_0805_NOOUTLINE</compID>
+		<compID>LEDS-0805-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

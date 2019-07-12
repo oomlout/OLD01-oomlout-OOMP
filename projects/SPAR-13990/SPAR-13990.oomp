@@ -21,9 +21,9 @@ Nordic’s nRF52832 is an SoC that combines an ARM Cortex-M4F microprocessor with 
 
 
 
-	<numComponents>34</numComponents>
+	<numComponents>32</numComponents>
 	<numOompComponents>19</numOompComponents>
-	<oompCompletion>56</oompCompletion>
+	<oompCompletion>59</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -49,216 +49,202 @@ Nordic’s nRF52832 is an SoC that combines an ARM Cortex-M4F microprocessor with 
 	</component>
 	<component>
 		<compIndex>4</compIndex>
-		<compIden>C4</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: CAP0402  eaglePackage: 0402</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>5</compIndex>
 		<compIden>C5</compIden>
 		<compID>CAPC-0402-X-PF100-V50</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>6</compIndex>
+		<compIndex>5</compIndex>
 		<compIden>C6</compIden>
 		<compID>CAPC-0402-X-UF1-V16</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>7</compIndex>
+		<compIndex>6</compIndex>
 		<compIden>C7</compIden>
 		<compID>CAPC-0603-X-PF180-V50</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>8</compIndex>
+		<compIndex>7</compIndex>
 		<compIden>C8</compIden>
 		<compID>CAPC-0603-X-PF180-V50</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>9</compIndex>
+		<compIndex>8</compIndex>
 		<compIden>C9</compIden>
 		<compID>CAPC-0402-X-PF6-V50</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>10</compIndex>
+		<compIndex>9</compIndex>
 		<compIden>C10</compIden>
 		<compID>CAPC-0402-X-PF6-V50</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>11</compIndex>
+		<compIndex>10</compIndex>
 		<compIden>C11</compIden>
 		<compID>CAPC-0402-X-PF8D-V50</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>12</compIndex>
-		<compIden>C12</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: CAP0402  eaglePackage: 0402</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>13</compIndex>
+		<compIndex>11</compIndex>
 		<compIden>C13</compIden>
 		<compID>CAPC-0402-X-PF15-V50</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>14</compIndex>
+		<compIndex>12</compIndex>
 		<compIden>C14</compIden>
 		<compID>CAPC-0402-X-PF15-V50</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>15</compIndex>
+		<compIndex>13</compIndex>
 		<compIden>C15</compIden>
 		<compID>CAPC-0402-X-NF100-V16</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>16</compIndex>
+		<compIndex>14</compIndex>
 		<compIden>C16</compIden>
 		<compID>CAPC-0402-X-NF100-V16</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>17</compIndex>
+		<compIndex>15</compIndex>
 		<compIden>C17</compIden>
 		<compID>CAPC-0603-X-UF47D-V63D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>18</compIndex>
+		<compIndex>16</compIndex>
 		<compIden>D1</compIden>
 		<compID>LEDS-0603-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>19</compIndex>
+		<compIndex>17</compIndex>
 		<compIden>D2</compIden>
 		<compID>LEDS-0603-L-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>20</compIndex>
+		<compIndex>18</compIndex>
 		<compIden>E1</compIden>
 		<compID>NOT OOMP  eagleValue: ANT  eagleDevice: ANTENNA-GROUNDEDTRACE-15.2MM  eaglePackage: TRACE_ANTENNA_2.4GHZ_15.2MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>21</compIndex>
+		<compIndex>19</compIndex>
 		<compIden>J1</compIden>
 		<compID>NOT OOMP  eagleValue:   eagleDevice: ARDUINO_SERIAL_PROGRAMPTH  eaglePackage: 1X06</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>22</compIndex>
+		<compIndex>20</compIndex>
 		<compIden>J2</compIden>
 		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_02PTH  eaglePackage: 1X02</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>23</compIndex>
+		<compIndex>21</compIndex>
 		<compIden>J3</compIden>
 		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_17  eaglePackage: 1X17</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>24</compIndex>
+		<compIndex>22</compIndex>
 		<compIden>J4</compIden>
 		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_17  eaglePackage: 1X17</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>25</compIndex>
+		<compIndex>23</compIndex>
 		<compIden>J5</compIden>
 		<compID>NOT OOMP  eagleValue: CORTEX_DEBUGPTH  eagleDevice: CORTEX_DEBUGPTH  eaglePackage: 2X5-PTH-1.27MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>26</compIndex>
+		<compIndex>24</compIndex>
 		<compIden>L1</compIden>
 		<compID>NOT OOMP  eagleValue: 3.9nH  eagleDevice: INDUCTOR-0402-3.9NH  eaglePackage: 0402</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>27</compIndex>
+		<compIndex>25</compIndex>
 		<compIden>R1</compIden>
 		<compID>RESE-0603-X-O102-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>28</compIndex>
+		<compIndex>26</compIndex>
 		<compIden>R2</compIden>
 		<compID>RESE-0603-X-O102-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>29</compIndex>
+		<compIndex>27</compIndex>
 		<compIden>SW1</compIden>
 		<compID>NOT OOMP  eagleValue: TACTILE_SWITCH_SMD_4_6X2_8MM  eagleDevice: SWITCH_SPST_4_PINRECT  eaglePackage: TACTILE_SWITCH_SMD_4.6X2.8MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>30</compIndex>
+		<compIndex>28</compIndex>
 		<compIden>SW2</compIden>
 		<compID>NOT OOMP  eagleValue: TACTILE_SWITCH_SMD_4_6X2_8MM  eagleDevice: SWITCH_SPST_4_PINRECT  eaglePackage: TACTILE_SWITCH_SMD_4.6X2.8MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>31</compIndex>
+		<compIndex>29</compIndex>
 		<compIden>U1</compIden>
 		<compID>NOT OOMP  eagleValue: AP2112K-3.3V  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>32</compIndex>
+		<compIndex>30</compIndex>
 		<compIden>U2</compIden>
 		<compID>NOT OOMP  eagleValue: NRF52832  eagleDevice: NRF52832  eaglePackage: QFN48-6X6MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>33</compIndex>
+		<compIndex>31</compIndex>
 		<compIden>Y1</compIden>
 		<compID>NOT OOMP  eagleValue: 32MHz  eagleDevice: CRYSTAL-32MHZ-SMD-2.0X1.6MM  eaglePackage: CRYSTAL-SMD-2.0X1.6MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>34</compIndex>
+		<compIndex>32</compIndex>
 		<compIden>Y2</compIden>
 		<compID>NOT OOMP  eagleValue: 32.768kHz  eagleDevice: CRYSTAL-32.768KHZSMD-3.2X1.5  eaglePackage: CRYSTAL-SMD-3.2X1.5MM</compID>
 		<compWhy></compWhy>

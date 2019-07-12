@@ -28,9 +28,9 @@ Note: The LilyPad LilyMini ProtoSnap does NOT include sewing needles or conducti
 
 
 
-	<numComponents>41</numComponents>
+	<numComponents>32</numComponents>
 	<numOompComponents>19</numOompComponents>
-	<oompCompletion>46</oompCompletion>
+	<oompCompletion>59</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -210,111 +210,48 @@ Note: The LilyPad LilyMini ProtoSnap does NOT include sewing needles or conducti
 	</component>
 	<component>
 		<compIndex>26</compIndex>
-		<compIden>SEWTAP+</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SEWTAP8  eaglePackage: PETAL-MEDIUM-2SIDE</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>27</compIndex>
-		<compIden>SEWTAP-</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SEWTAP8  eaglePackage: PETAL-MEDIUM-2SIDE</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>28</compIndex>
-		<compIden>SEWTAP1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SEWTAP8  eaglePackage: PETAL-MEDIUM-2SIDE</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>29</compIndex>
-		<compIden>SEWTAP2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SEWTAP8  eaglePackage: PETAL-MEDIUM-2SIDE</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>30</compIndex>
-		<compIden>SEWTAP3</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SEWTAP8  eaglePackage: PETAL-MEDIUM-2SIDE</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>31</compIndex>
-		<compIden>SEWTAP4</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SEWTAP8  eaglePackage: PETAL-MEDIUM-2SIDE</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>32</compIndex>
-		<compIden>SEWTAPLS+</compIden>
-		<compID>NOT OOMP  eagleValue: PLUS  eagleDevice: SEWTAP6  eaglePackage: PETAL-SMALL-2SIDE</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>33</compIndex>
-		<compIden>SEWTAPLS-</compIden>
-		<compID>NOT OOMP  eagleValue: MINUS  eagleDevice: SEWTAP6  eaglePackage: PETAL-SMALL-2SIDE</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>34</compIndex>
-		<compIden>SEWTAPLSOUT</compIden>
-		<compID>NOT OOMP  eagleValue: OUT  eagleDevice: SEWTAP6  eaglePackage: PETAL-SMALL-2SIDE</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>35</compIndex>
 		<compIden>ST1</compIden>
 		<compID>NOT OOMP  eagleValue:   eagleDevice: SEWTAP-NOHOLE2  eaglePackage: PETAL-NOHOLE-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>36</compIndex>
+		<compIndex>27</compIndex>
 		<compIden>ST2</compIden>
 		<compID>NOT OOMP  eagleValue:   eagleDevice: SEWTAP-NOHOLE2  eaglePackage: PETAL-NOHOLE-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>37</compIndex>
+		<compIndex>28</compIndex>
 		<compIden>ST3</compIden>
 		<compID>NOT OOMP  eagleValue:   eagleDevice: SEWTAP-NOHOLE2  eaglePackage: PETAL-NOHOLE-2SIDE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>38</compIndex>
+		<compIndex>29</compIndex>
 		<compIden>U1</compIden>
 		<compID>NOT OOMP  eagleValue: SAMD11D14A-M  eagleDevice: SAMD11D14A-M  eaglePackage: QFN-24_ALT2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>39</compIndex>
+		<compIndex>30</compIndex>
 		<compIden>U2</compIden>
 		<compID>NOT OOMP  eagleValue: AP2112K-3.3V  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>40</compIndex>
+		<compIndex>31</compIndex>
 		<compIden>U3</compIden>
 		<compID>NOT OOMP  eagleValue: ALS-PT19  eagleDevice: LIGHTSENSORALS  eaglePackage: ALS-PT19</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>41</compIndex>
+		<compIndex>32</compIndex>
 		<compIden>Y1</compIden>
 		<compID>NOT OOMP  eagleValue: 32.768kHz  eagleDevice: CRYSTAL3.2X1.5MM  eaglePackage: CRYSTAL-SMD-3.2X1.5MM</compID>
 		<compWhy></compWhy>

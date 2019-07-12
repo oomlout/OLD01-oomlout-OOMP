@@ -37,167 +37,125 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 
 
 
-	<numComponents>23</numComponents>
-	<numOompComponents>8</numOompComponents>
-	<oompCompletion>35</oompCompletion>
+	<numComponents>17</numComponents>
+	<numOompComponents>9</numOompComponents>
+	<oompCompletion>53</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
 		<compIndex>1</compIndex>
-		<compIden>3V3</compIden>
-		<compID>NOT OOMP  eagleValue: SEWTAP-2.0IN  eagleDevice: SEWTAP-2.0IN  eaglePackage: SEWINGTAP_2.0</compID>
+		<compIden>BOOT</compIden>
+		<compID>LEDS-0805-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
-		<compIden>B0</compIden>
-		<compID>NOT OOMP  eagleValue: SEWTAP-2.0IN  eagleDevice: SEWTAP-2.0IN  eaglePackage: SEWINGTAP_2.0</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>3</compIndex>
-		<compIden>B1</compIden>
-		<compID>NOT OOMP  eagleValue: SEWTAP-2.0IN  eagleDevice: SEWTAP-2.0IN  eaglePackage: SEWINGTAP_2.0</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>4</compIndex>
-		<compIden>B2</compIden>
-		<compID>NOT OOMP  eagleValue: SEWTAP-2.0IN  eagleDevice: SEWTAP-2.0IN  eaglePackage: SEWINGTAP_2.0</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>5</compIndex>
-		<compIden>BOOT</compIden>
-		<compID>NOT OOMP  eagleValue: red  eagleDevice: LED0805_NOOUTLINE  eaglePackage: CHIPLED_0805_NOOUTLINE</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>6</compIndex>
 		<compIden>C1</compIden>
 		<compID>CAPC-0805-X-UF10-V10</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>7</compIndex>
+		<compIndex>3</compIndex>
 		<compIden>C8</compIden>
 		<compID>CAPC-0805-X-UF10-V10</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>8</compIndex>
+		<compIndex>4</compIndex>
 		<compIden>CN1</compIden>
 		<compID>NOT OOMP  eagleValue: JST-PH  eagleDevice: CON_JST_PH_2PIN  eaglePackage: JSTPH2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>9</compIndex>
+		<compIndex>5</compIndex>
 		<compIden>D2</compIden>
 		<compID>NOT OOMP  eagleValue: SCHOTTKY  eagleDevice: DIODE_SOD-123FL  eaglePackage: SOD-123FL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>10</compIndex>
+		<compIndex>6</compIndex>
 		<compIden>D3</compIden>
 		<compID>NOT OOMP  eagleValue: SCHOTTKY  eagleDevice: DIODE_SOD-123FL  eaglePackage: SOD-123FL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>11</compIndex>
-		<compIden>GND</compIden>
-		<compID>NOT OOMP  eagleValue: SEWTAP-2.0IN  eagleDevice: SEWTAP-2.0IN  eaglePackage: SEWINGTAP_2.0</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>12</compIndex>
+		<compIndex>7</compIndex>
 		<compIden>IC2</compIden>
 		<compID>NOT OOMP  eagleValue: MIC5225-3.3v  eagleDevice: LP298XS  eaglePackage: SOT23-5L</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>13</compIndex>
+		<compIndex>8</compIndex>
 		<compIden>PWR</compIden>
 		<compID>LEDS-0805-G-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>14</compIndex>
+		<compIndex>9</compIndex>
 		<compIden>Q1</compIden>
 		<compID>NOT OOMP  eagleValue: reset  eagleDevice: SWITCH_TACT_SMT4.6X2.8  eaglePackage: BTN_KMR2_4.6X2.8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>15</compIndex>
+		<compIndex>10</compIndex>
 		<compIden>R1</compIden>
 		<compID>RESE-0603-X-O680-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>16</compIndex>
+		<compIndex>11</compIndex>
 		<compIden>R2</compIden>
 		<compID>RESE-0603-X-O680-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>17</compIndex>
+		<compIndex>12</compIndex>
 		<compIden>R3</compIden>
 		<compID>RESE-0603-X-O152-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>18</compIndex>
+		<compIndex>13</compIndex>
 		<compIden>R4</compIden>
 		<compID>RESE-0603-X-O471-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>19</compIndex>
+		<compIndex>14</compIndex>
 		<compIden>R5</compIden>
 		<compID>RESE-0603-X-O471-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>20</compIndex>
+		<compIndex>15</compIndex>
 		<compIden>SW1</compIden>
 		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH_DPDTEG1390  eaglePackage: EG1390</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>21</compIndex>
+		<compIndex>16</compIndex>
 		<compIden>U1</compIden>
 		<compID>NOT OOMP  eagleValue: ATTINY85  eagleDevice: ATTINY85  eaglePackage: MLF20_4X4MM_0.5MM_ATMEL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>22</compIndex>
-		<compIden>VBAT</compIden>
-		<compID>NOT OOMP  eagleValue: SEWTAP-2.0IN  eagleDevice: SEWTAP-2.0IN  eaglePackage: SEWINGTAP_2.0</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>23</compIndex>
+		<compIndex>17</compIndex>
 		<compIden>X2</compIden>
 		<compID>NOT OOMP  eagleValue: MicroUSB  eagleDevice: USBMICRO_20329  eaglePackage: 4UCONN_20329</compID>
 		<compWhy></compWhy>

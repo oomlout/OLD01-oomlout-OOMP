@@ -22,8 +22,8 @@ Note: This product does not come with a microSD card. These cards change in size
 
 
 	<numComponents>10</numComponents>
-	<numOompComponents>4</numOompComponents>
-	<oompCompletion>40</oompCompletion>
+	<numOompComponents>5</numOompComponents>
+	<oompCompletion>50</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -57,7 +57,7 @@ Note: This product does not come with a microSD card. These cards change in size
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

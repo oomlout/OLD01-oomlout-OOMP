@@ -13,7 +13,7 @@ Note: We had a manufacturing error on about 60 of the first run of EiBotBoards. 
 To check your EBB, look at the small numbers on top of R27. To locate R27, hold the EBB so the stepper motor terminal blocks are on the top of the board, then look at the voltage regulator at the bottom right hand corner of the board. R27 is the resistor directly above the regulator, centered between the two pins of the regulator. The text on top of the resistor should read 391. If it does not, then you have one of the EBBs with the wrong resistor.
 We have currently fixed the problem and all future boards ordered after 11/29/2010 will not have this issue. Thank you for your understanding, and please feel free to contact customer service if you have any questions.
 Note: If using metal mounting hardware, please be aware that the top side of the board has a 3.3V copper pour and the bottom side has a ground copper pour around the lower right hand mounting hole. You will want to use plastic washers to prevent a short.
-Note: This product is a collaboration with Brian Schmalz. A portion of each sales goes back to them for product support and continued development.              
+**Note: **This product is a collaboration with Brian Schmalz. A portion of each sales goes back to them for product support and continued development.              
             
                       
               
@@ -22,6 +22,12 @@ Note: This product is a collaboration with Brian Schmalz. A portion of each sale
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>73</numComponents>
+	<numOompComponents>46</numOompComponents>
+	<oompCompletion>63</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -300,21 +306,21 @@ Note: This product is a collaboration with Brian Schmalz. A portion of each sale
 	<component>
 		<compIndex>40</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue: DIR1_RED  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>41</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  eagleValue: DIR2_RED  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>42</compIndex>
 		<compIden>PWR</compIden>
-		<compID>NOT OOMP  eagleValue: GREEN  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-G-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -524,18 +530,27 @@ Note: This product is a collaboration with Brian Schmalz. A portion of each sale
 	<component>
 		<compIndex>72</compIndex>
 		<compIden>USB</compIden>
-		<compID>NOT OOMP  eagleValue: GREEN  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-G-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>73</compIndex>
 		<compIden>USR</compIden>
-		<compID>NOT OOMP  eagleValue: RED  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>EiBotBoard</name>
+		<partID>10025</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/10025]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

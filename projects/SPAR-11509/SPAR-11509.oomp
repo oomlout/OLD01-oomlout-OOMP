@@ -21,35 +21,35 @@ Note: This product is a collaboration with Jack Gasset. A portion of each sale g
 
 
 	<numComponents>16</numComponents>
-	<numOompComponents>8</numOompComponents>
-	<oompCompletion>50</oompCompletion>
+	<numOompComponents>12</numOompComponents>
+	<oompCompletion>75</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  eagleValue: Yellow  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-Y-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>LED3</compIden>
-		<compID>NOT OOMP  eagleValue: Green  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-G-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>LED4</compIden>
-		<compID>NOT OOMP  eagleValue: Blue  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-L-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

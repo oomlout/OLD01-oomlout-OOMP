@@ -21,8 +21,8 @@ This board comes populated with the switches, resistors and LEDs, but does not i
 
 
 	<numComponents>23</numComponents>
-	<numOompComponents>16</numOompComponents>
-	<oompCompletion>70</oompCompletion>
+	<numOompComponents>19</numOompComponents>
+	<oompCompletion>83</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -84,21 +84,21 @@ This board comes populated with the switches, resistors and LEDs, but does not i
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue: yellow  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-Y-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  eagleValue: green  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-G-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>LED3</compIden>
-		<compID>NOT OOMP  eagleValue: red  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

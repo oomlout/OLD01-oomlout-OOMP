@@ -22,9 +22,9 @@ Note: We've broken out the pins for the Venus638FLPx's second serial port (RX1,T
 
 
 
-	<numComponents>16</numComponents>
-	<numOompComponents>10</numOompComponents>
-	<oompCompletion>63</oompCompletion>
+	<numComponents>15</numComponents>
+	<numOompComponents>11</numOompComponents>
+	<oompCompletion>73</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -64,76 +64,69 @@ Note: We've broken out the pins for the Venus638FLPx's second serial port (RX1,T
 	</component>
 	<component>
 		<compIndex>6</compIndex>
-		<compIden>C7</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: CAP_POLEN_J2  eaglePackage: EN_J2</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>7</compIndex>
 		<compIden>D1</compIden>
 		<compID>NOT OOMP  eagleValue: BAS16  eagleDevice: DIODESOD  eaglePackage: SOD-323</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>8</compIndex>
+		<compIndex>7</compIndex>
 		<compIden>L1</compIden>
 		<compID>NOT OOMP  eagleValue: 33nH  eagleDevice: INDUCTOR0402  eaglePackage: C0402</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>9</compIndex>
+		<compIndex>8</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>10</compIndex>
+		<compIndex>9</compIndex>
 		<compIden>R1</compIden>
 		<compID>RESE-0402-X-O283-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>11</compIndex>
+		<compIndex>10</compIndex>
 		<compIden>R2</compIden>
 		<compID>RESE-0402-X-O103-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>12</compIndex>
+		<compIndex>11</compIndex>
 		<compIden>R3</compIden>
 		<compID>RESE-0402-X-O331-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>13</compIndex>
+		<compIndex>12</compIndex>
 		<compIden>R4</compIden>
 		<compID>RESE-0402-X-O331-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>14</compIndex>
+		<compIndex>13</compIndex>
 		<compIden>R6</compIden>
 		<compID>RESE-0402-X-O103-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>15</compIndex>
+		<compIndex>14</compIndex>
 		<compIden>R7</compIden>
 		<compID>NOT OOMP  eagleValue: 0  eagleDevice: GND-JUMP  eaglePackage: GND-JUMP</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>16</compIndex>
+		<compIndex>15</compIndex>
 		<compIden>U1</compIden>
 		<compID>NOT OOMP  eagleValue: VENUS638FLPX-L  eagleDevice: VENUS638FLPX-L  eaglePackage: VENUS638FLPX</compID>
 		<compWhy></compWhy>

@@ -21,8 +21,8 @@ Replaces:SEN-08663
 
 
 	<numComponents>15</numComponents>
-	<numOompComponents>10</numOompComponents>
-	<oompCompletion>67</oompCompletion>
+	<numOompComponents>11</numOompComponents>
+	<oompCompletion>73</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -42,7 +42,7 @@ Replaces:SEN-08663
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue: WHITE  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-W-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -8,7 +8,7 @@
 	<oompAbout>
                 The Big Easy Driver, designed by Brian Schmalz, is a stepper motor driver board for bi-polar stepper motors up to a max 2A/phase. It is based on the Allegro A4988 stepper driver chip. It's the next version of the popular Easy Driver board.
 Each Big Easy Driver can drive up to a max of 2A per phase of a bi-polar stepper motor. It is a chopper microstepping driver which defaults to 16 step microstepping mode. It can take a maximum motor drive voltage of around 30V, and includes on-board 5V/3.3V regulation, so only one supply is necessary. Although this board should be able to run most systems without active cooling while operating at 1.4-1.7A/phase, a heatsink is required for loads approaching 2A/phase. You can find the recommended heatsink in the related items below.
-Note: This product is a collaboration with Brian Schmalz. A portion of each sales goes back to him for product support and continued development.              
+**Note: **This product is a collaboration with Brian Schmalz. A portion of each sales goes back to him for product support and continued development.              
             
                       
               
@@ -17,6 +17,12 @@ Note: This product is a collaboration with Brian Schmalz. A portion of each sale
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>34</numComponents>
+	<numOompComponents>26</numOompComponents>
+	<oompCompletion>76</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -120,7 +126,7 @@ Note: This product is a collaboration with Brian Schmalz. A portion of each sale
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>PWR_LED</compIden>
-		<compID>NOT OOMP  eagleValue: YELLOW  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-Y-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -258,6 +264,15 @@ Note: This product is a collaboration with Brian Schmalz. A portion of each sale
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>Big Easy Driver</name>
+		<partID>11699</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/11699]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

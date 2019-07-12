@@ -21,8 +21,8 @@ In this version, we're using a better regulator, corrected the speaker connector
 
 
 	<numComponents>37</numComponents>
-	<numOompComponents>29</numOompComponents>
-	<oompCompletion>78</oompCompletion>
+	<numOompComponents>30</numOompComponents>
+	<oompCompletion>81</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -133,7 +133,7 @@ In this version, we're using a better regulator, corrected the speaker connector
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue: Power  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

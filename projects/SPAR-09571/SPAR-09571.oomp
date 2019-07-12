@@ -20,9 +20,9 @@ The serial command interface used to control the motors is very straightforward.
 
 
 
-	<numComponents>31</numComponents>
+	<numComponents>24</numComponents>
 	<numOompComponents>21</numOompComponents>
-	<oompCompletion>68</oompCompletion>
+	<oompCompletion>88</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -118,125 +118,76 @@ The serial command interface used to control the motors is very straightforward.
 	</component>
 	<component>
 		<compIndex>14</compIndex>
-		<compIden>J1</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: CONN_021X02_NO_SILK  eaglePackage: 1X02_NO_SILK</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>15</compIndex>
-		<compIden>J2</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: M05PTH  eaglePackage: 1X05</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>16</compIndex>
-		<compIden>J3</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: CONN_021X02_NO_SILK  eaglePackage: 1X02_NO_SILK</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>17</compIndex>
-		<compIden>J4</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: M05PTH  eaglePackage: 1X05</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>18</compIndex>
-		<compIden>J5</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: M02PTH  eaglePackage: 1X02at1REPLACE</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>19</compIndex>
-		<compIden>J6</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: M02PTH  eaglePackage: 1X02at1REPLACE</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>20</compIndex>
-		<compIden>J7</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: CONN_01PTH  eaglePackage: 1X01</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>21</compIndex>
 		<compIden>J8</compIden>
 		<compID>NOT OOMP  eagleValue: CORTEX_DEBUGPTH  eagleDevice: CORTEX_DEBUGPTH  eaglePackage: 2X5-PTH-1.27MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>22</compIndex>
+		<compIndex>15</compIndex>
 		<compIden>R1</compIden>
 		<compID>RESE-0603-X-O10X-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>23</compIndex>
+		<compIndex>16</compIndex>
 		<compIden>R2</compIden>
 		<compID>RESE-0603-X-O10X-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>24</compIndex>
+		<compIndex>17</compIndex>
 		<compIden>R3</compIden>
 		<compID>RESE-0603-X-O472-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>25</compIndex>
+		<compIndex>18</compIndex>
 		<compIden>R4</compIden>
 		<compID>RESE-0603-X-O472-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>26</compIndex>
+		<compIndex>19</compIndex>
 		<compIden>R5</compIden>
 		<compID>RESE-0603-X-O472-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>27</compIndex>
+		<compIndex>20</compIndex>
 		<compIden>R6</compIden>
 		<compID>RESE-0603-X-O471-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>28</compIndex>
+		<compIndex>21</compIndex>
 		<compIden>R7</compIden>
 		<compID>RESE-0603-X-O472-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>29</compIndex>
+		<compIndex>22</compIndex>
 		<compIden>R8</compIden>
 		<compID>RESE-0603-X-O472-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>30</compIndex>
+		<compIndex>23</compIndex>
 		<compIden>U1</compIden>
 		<compID>NOT OOMP  eagleValue: CY8C4245LQI-483  eagleDevice: CY8C4245LQI  eaglePackage: QFN-40</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>31</compIndex>
+		<compIndex>24</compIndex>
 		<compIden>U2</compIden>
 		<compID>NOT OOMP  eagleValue: DRV8835  eagleDevice: DRV883X  eaglePackage: WSON-12</compID>
 		<compWhy></compWhy>

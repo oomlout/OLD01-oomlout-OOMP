@@ -23,9 +23,9 @@ Replaces:SEN-9801
 
 
 
-	<numComponents>8</numComponents>
+	<numComponents>6</numComponents>
 	<numOompComponents>5</numOompComponents>
-	<oompCompletion>63</oompCompletion>
+	<oompCompletion>83</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -58,27 +58,13 @@ Replaces:SEN-9801
 	</component>
 	<component>
 		<compIndex>5</compIndex>
-		<compIden>R1</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: RESISTOR0603-RES  eaglePackage: 0603-RES</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>6</compIndex>
-		<compIden>R2</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: RESISTOR0603-RES  eaglePackage: 0603-RES</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>7</compIndex>
 		<compIden>R3</compIden>
 		<compID>RESE-0603-X-O103-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>8</compIndex>
+		<compIndex>6</compIndex>
 		<compIden>U1</compIden>
 		<compID>NOT OOMP  eagleValue: ITG-32001:1  eagleDevice: ITG-32001:1  eaglePackage: QFN-24_ITG3200_1:1</compID>
 		<compWhy></compWhy>

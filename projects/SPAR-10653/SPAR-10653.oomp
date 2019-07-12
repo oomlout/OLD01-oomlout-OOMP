@@ -21,8 +21,8 @@ The board breaks out all pins of the ISD1932 to 0.1" spaced headers. This produc
 
 
 	<numComponents>19</numComponents>
-	<numOompComponents>14</numOompComponents>
-	<oompCompletion>74</oompCompletion>
+	<numOompComponents>15</numOompComponents>
+	<oompCompletion>79</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -98,7 +98,7 @@ The board breaks out all pins of the ISD1932 to 0.1" spaced headers. This produc
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

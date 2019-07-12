@@ -21,8 +21,8 @@ This thing is meant to be hacked! Visit the Objective Development website to lea
 
 
 	<numComponents>13</numComponents>
-	<numOompComponents>7</numOompComponents>
-	<oompCompletion>54</oompCompletion>
+	<numOompComponents>11</numOompComponents>
+	<oompCompletion>85</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -49,28 +49,28 @@ This thing is meant to be hacked! Visit the Objective Development website to lea
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue: Blue  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-L-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  eagleValue: Blue  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-L-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>LED3</compIden>
-		<compID>NOT OOMP  eagleValue: White?  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>LED4</compIden>
-		<compID>NOT OOMP  eagleValue: Yellow  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-Y-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

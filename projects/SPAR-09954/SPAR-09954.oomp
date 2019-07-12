@@ -22,8 +22,8 @@ The shield includes the RN-131C, SC16IS750 and their supporting components. The 
 
 
 	<numComponents>24</numComponents>
-	<numOompComponents>14</numOompComponents>
-	<oompCompletion>58</oompCompletion>
+	<numOompComponents>18</numOompComponents>
+	<oompCompletion>75</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -57,28 +57,28 @@ The shield includes the RN-131C, SC16IS750 and their supporting components. The 
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue: BLUE  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-L-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  eagleValue: YELLOW  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-Y-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>LED3</compIden>
-		<compID>NOT OOMP  eagleValue: RED  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>LED4</compIden>
-		<compID>NOT OOMP  eagleValue: GREEN  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-G-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

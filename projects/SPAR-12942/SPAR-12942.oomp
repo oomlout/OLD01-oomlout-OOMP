@@ -23,9 +23,9 @@ Note: This product is a collaboration with Ian Lesnet. A portion of each sales g
 
 
 
-	<numComponents>40</numComponents>
+	<numComponents>36</numComponents>
 	<numOompComponents>22</numOompComponents>
-	<oompCompletion>55</oompCompletion>
+	<oompCompletion>61</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -128,181 +128,153 @@ Note: This product is a collaboration with Ian Lesnet. A portion of each sales g
 	</component>
 	<component>
 		<compIndex>15</compIndex>
-		<compIden>LED2</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: LED-RED0603  eaglePackage: LED-0603</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>16</compIndex>
 		<compIden>LED3</compIden>
 		<compID>LEDS-0603-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>17</compIndex>
-		<compIden>LED4</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: LED-RED0603  eaglePackage: LED-0603</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>18</compIndex>
+		<compIndex>16</compIndex>
 		<compIden>LED5</compIden>
 		<compID>LEDS-0603-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>19</compIndex>
-		<compIden>LED6</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: LED-RED0603  eaglePackage: LED-0603</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>20</compIndex>
+		<compIndex>17</compIndex>
 		<compIden>LED7</compIden>
 		<compID>LEDS-0603-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>21</compIndex>
-		<compIden>LED8</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: LED-RED0603  eaglePackage: LED-0603</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>22</compIndex>
+		<compIndex>18</compIndex>
 		<compIden>PCB1</compIden>
 		<compID>NOT OOMP  eagleValue: PCB_DP_RECTANGLE-37X60  eagleDevice: PCB_DP_RECTANGLE-37X60  eaglePackage: DP6037_V1</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>23</compIndex>
+		<compIndex>19</compIndex>
 		<compIden>R1</compIden>
 		<compID>NOT OOMP  eagleValue: 0.27  eagleDevice: 0OHM-1/10W-5%(0603)  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>24</compIndex>
+		<compIndex>20</compIndex>
 		<compIden>R2</compIden>
 		<compID>NOT OOMP  eagleValue: 10k  eagleDevice: CAY16-F4  eaglePackage: 4XARRAY</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>25</compIndex>
+		<compIndex>21</compIndex>
 		<compIden>R3</compIden>
 		<compID>NOT OOMP  eagleValue: 10k  eagleDevice: CAY16-F4  eaglePackage: 4XARRAY</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>26</compIndex>
+		<compIndex>22</compIndex>
 		<compIden>R4</compIden>
 		<compID>RESE-0603-X-O102-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>27</compIndex>
+		<compIndex>23</compIndex>
 		<compIden>R5</compIden>
 		<compID>NOT OOMP  eagleValue: 0.27  eagleDevice: 0OHM-1/10W-5%(0603)  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>28</compIndex>
+		<compIndex>24</compIndex>
 		<compIden>R6</compIden>
 		<compID>RESE-0603-X-O102-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>29</compIndex>
+		<compIndex>25</compIndex>
 		<compIden>R7</compIden>
 		<compID>RESE-0603-X-O102-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>30</compIndex>
+		<compIndex>26</compIndex>
 		<compIden>R8</compIden>
 		<compID>NOT OOMP  eagleValue: 0.27  eagleDevice: 0OHM-1/10W-5%(0603)  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>31</compIndex>
+		<compIndex>27</compIndex>
 		<compIden>R9</compIden>
 		<compID>RESE-0603-X-O102-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>32</compIndex>
+		<compIndex>28</compIndex>
 		<compIden>R10</compIden>
 		<compID>RESE-0603-X-O202-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>33</compIndex>
+		<compIndex>29</compIndex>
 		<compIden>R11</compIden>
 		<compID>RESE-0603-X-O202-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>34</compIndex>
+		<compIndex>30</compIndex>
 		<compIden>R12</compIden>
 		<compID>NOT OOMP  eagleValue: 10k  eagleDevice: CAY16-F4  eaglePackage: 4XARRAY</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>35</compIndex>
+		<compIndex>31</compIndex>
 		<compIden>U1</compIden>
 		<compID>NOT OOMP  eagleValue: MIC5205 3V3  eagleDevice: MIC52053.3V  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>36</compIndex>
+		<compIndex>32</compIndex>
 		<compIden>U2</compIden>
 		<compID>NOT OOMP  eagleValue: MIC5205 3V3  eagleDevice: MIC52053.3V  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>37</compIndex>
+		<compIndex>33</compIndex>
 		<compIden>U3</compIden>
 		<compID>NOT OOMP  eagleValue: PIC24FJ64GA002  eagleDevice: PIC24FJ64GA002  eaglePackage: SSOP28</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>38</compIndex>
+		<compIndex>34</compIndex>
 		<compIden>U4</compIden>
 		<compID>NOT OOMP  eagleValue: MIC5205 5V0  eagleDevice: MIC52055V  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>39</compIndex>
+		<compIndex>35</compIndex>
 		<compIden>U5</compIden>
 		<compID>ICIC-SS28-X-KFT232-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>40</compIndex>
+		<compIndex>36</compIndex>
 		<compIden>U6</compIden>
 		<compID>NOT OOMP  eagleValue: 4066  eagleDevice: 4066  eaglePackage: TSSOP14</compID>
 		<compWhy></compWhy>

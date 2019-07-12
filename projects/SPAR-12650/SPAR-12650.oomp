@@ -21,9 +21,9 @@ Note: This product is NOT a medical device and is not intended to be used as suc
 
 
 
-	<numComponents>29</numComponents>
+	<numComponents>27</numComponents>
 	<numOompComponents>26</numOompComponents>
-	<oompCompletion>90</oompCompletion>
+	<oompCompletion>96</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -203,27 +203,13 @@ Note: This product is NOT a medical device and is not intended to be used as suc
 	</component>
 	<component>
 		<compIndex>26</compIndex>
-		<compIden>R18</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: 0OHM1/10W5%(0603)  eaglePackage: 0603</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>27</compIndex>
 		<compIden>R19</compIden>
 		<compID>RESE-0603-X-O000-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>28</compIndex>
-		<compIden>R20</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: 0OHM1/10W5%(0603)  eaglePackage: 0603</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>29</compIndex>
+		<compIndex>27</compIndex>
 		<compIden>U1</compIden>
 		<compID>NOT OOMP  eagleValue: AD8232  eagleDevice: AD8232  eaglePackage: LFCSP_20</compID>
 		<compWhy></compWhy>

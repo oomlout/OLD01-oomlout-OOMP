@@ -23,8 +23,8 @@ Note: This item may take longer to process due to battery installed in the equip
 
 
 	<numComponents>24</numComponents>
-	<numOompComponents>10</numOompComponents>
-	<oompCompletion>42</oompCompletion>
+	<numOompComponents>12</numOompComponents>
+	<oompCompletion>50</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -79,14 +79,14 @@ Note: This item may take longer to process due to battery installed in the equip
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  eagleValue: Status  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>D4</compIden>
-		<compID>NOT OOMP  eagleValue: Yellow  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-Y-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

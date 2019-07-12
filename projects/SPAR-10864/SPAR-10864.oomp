@@ -21,8 +21,8 @@ Note: This is not 802.3af-compatible PoE, it's more of a home-brew Power-over-Et
 
 
 	<numComponents>54</numComponents>
-	<numOompComponents>36</numOompComponents>
-	<oompCompletion>67</oompCompletion>
+	<numOompComponents>41</numOompComponents>
+	<oompCompletion>76</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -175,35 +175,35 @@ Note: This is not 802.3af-compatible PoE, it's more of a home-brew Power-over-Et
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue: BLUE  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-L-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  eagleValue: GREEN  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-G-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>LED3</compIden>
-		<compID>NOT OOMP  eagleValue: YELLOW  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-Y-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>LED4</compIden>
-		<compID>NOT OOMP  eagleValue: RED  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>LED5</compIden>
-		<compID>NOT OOMP  eagleValue: GREEN  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-G-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

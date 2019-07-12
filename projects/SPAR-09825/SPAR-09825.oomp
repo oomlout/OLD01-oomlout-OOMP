@@ -23,8 +23,8 @@ Note: The drivers link has been updated below to be Windows 7 compatible.
 
 
 	<numComponents>25</numComponents>
-	<numOompComponents>14</numOompComponents>
-	<oompCompletion>56</oompCompletion>
+	<numOompComponents>19</numOompComponents>
+	<oompCompletion>76</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -58,21 +58,21 @@ Note: The drivers link has been updated below to be Windows 7 compatible.
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  eagleValue: Blue  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-L-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  eagleValue: Blue  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-L-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -86,14 +86,14 @@ Note: The drivers link has been updated below to be Windows 7 compatible.
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue: Blue  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-L-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  eagleValue: Blue  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-L-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

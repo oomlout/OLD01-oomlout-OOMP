@@ -21,8 +21,8 @@ Note: This version uses a mini-USB cable. We also have this charger with a micro
 
 
 	<numComponents>7</numComponents>
-	<numOompComponents>4</numOompComponents>
-	<oompCompletion>57</oompCompletion>
+	<numOompComponents>5</numOompComponents>
+	<oompCompletion>71</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -42,7 +42,7 @@ Note: This version uses a mini-USB cable. We also have this charger with a micro
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>D11</compIden>
-		<compID>NOT OOMP  eagleValue: RED  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

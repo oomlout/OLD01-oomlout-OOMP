@@ -8,7 +8,7 @@
 	<oompAbout>
                 The Spectrum Shield enables your Arduino with the capability of splitting a stereo audio input into 7-bands per channel. You can then read the amplitude of each channel using the ADC on your Arduino allowing you to control everything from LEDs to motors, pumps to relays, or even fire, all with sound. With this shield you will be able to have almost any project be able to react to music or sound!
 The Spectrum Shield features the MSGEQ7 graphic equalizer display filter. Two of these ICs allow you to split a stereo audio input into 7-bands (per channel) and read the amplitude of each using the ADC on your Arduino. The shield is populated with two 1/8" stereo jacks (like you would find on a pair of headphones). One serves as a stereo input and the other is a pass-through output which allows you to connect the Spectrum Shield in-line between your audio source and your stereo system without interruption. This revision of the Spectrum Shield has been updated to the Arduino R3 layout but still requires you to solder on your own headers (check the Recommended Products section below). This shield can be used to create sound visualizers, detect patterns in music or add sound activation to your microcontroller projects.
-Note: This product is a collaboration with Ben Moyes of Bliptronics. A portion of each sales goes back to them for product support and continued development.              
+**Note: **This product is a collaboration with Ben Moyes of Bliptronics. A portion of each sales goes back to them for product support and continued development.              
             
                       
               
@@ -17,6 +17,12 @@ Note: This product is a collaboration with Ben Moyes of Bliptronics. A portion o
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>17</numComponents>
+	<numOompComponents>13</numOompComponents>
+	<oompCompletion>76</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -139,6 +145,15 @@ Note: This product is a collaboration with Ben Moyes of Bliptronics. A portion o
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Spectrum Shield</name>
+		<partID>13116</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/13116]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

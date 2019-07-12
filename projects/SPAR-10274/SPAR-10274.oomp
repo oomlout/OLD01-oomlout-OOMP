@@ -23,8 +23,8 @@ Note: Because of the added battery charging circuitry the Simple is unable to po
 
 
 	<numComponents>20</numComponents>
-	<numOompComponents>10</numOompComponents>
-	<oompCompletion>50</oompCompletion>
+	<numOompComponents>12</numOompComponents>
+	<oompCompletion>60</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -72,14 +72,14 @@ Note: Because of the added battery charging circuitry the Simple is unable to po
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  eagleValue: Status  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>D4</compIden>
-		<compID>NOT OOMP  eagleValue: Yellow  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-Y-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

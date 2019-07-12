@@ -22,8 +22,8 @@ Note: The Arduino Library currently only works with an Arduino Mega or Mega 2560
 
 
 	<numComponents>90</numComponents>
-	<numOompComponents>65</numOompComponents>
-	<oompCompletion>72</oompCompletion>
+	<numOompComponents>70</numOompComponents>
+	<oompCompletion>78</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -253,35 +253,35 @@ Note: The Arduino Library currently only works with an Arduino Mega or Mega 2560
 	<component>
 		<compIndex>33</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue: green  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-G-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>34</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  eagleValue: green  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-G-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>35</compIndex>
 		<compIden>LED3</compIden>
-		<compID>NOT OOMP  eagleValue: green  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-G-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>36</compIndex>
 		<compIden>LED4</compIden>
-		<compID>NOT OOMP  eagleValue: green  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-G-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>37</compIndex>
 		<compIden>LED5</compIden>
-		<compID>NOT OOMP  eagleValue: red  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

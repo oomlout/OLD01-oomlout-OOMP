@@ -19,9 +19,9 @@ The APDS-9960 is a serious little piece of hardware with built in UV and IR bloc
 
 
 
-	<numComponents>8</numComponents>
+	<numComponents>7</numComponents>
 	<numOompComponents>6</numOompComponents>
-	<oompCompletion>75</oompCompletion>
+	<oompCompletion>86</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -68,13 +68,6 @@ The APDS-9960 is a serious little piece of hardware with built in UV and IR bloc
 	</component>
 	<component>
 		<compIndex>7</compIndex>
-		<compIden>R4</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: RESISTOR0603  eaglePackage: 0603-RES</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>8</compIndex>
 		<compIden>U1</compIden>
 		<compID>NOT OOMP  eagleValue: APDS-9960  eagleDevice: APDS-9960  eaglePackage: APDS-9960</compID>
 		<compWhy></compWhy>

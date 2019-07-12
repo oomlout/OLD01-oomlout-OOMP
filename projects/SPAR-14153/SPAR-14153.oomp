@@ -20,9 +20,9 @@ The ESP32 Thing Environment Sensor Shield utilizes the BME280 pressure/humidity/
 
 
 
-	<numComponents>33</numComponents>
+	<numComponents>32</numComponents>
 	<numOompComponents>17</numOompComponents>
-	<oompCompletion>52</oompCompletion>
+	<oompCompletion>53</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -223,34 +223,27 @@ The ESP32 Thing Environment Sensor Shield utilizes the BME280 pressure/humidity/
 	</component>
 	<component>
 		<compIndex>29</compIndex>
-		<compIden>R12</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: NTC-THERMISTOR-AXIAL-0.1  eaglePackage: AXIAL-0.1</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>30</compIndex>
 		<compIden>R13</compIden>
 		<compID>RESE-0603-X-O472-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>31</compIndex>
+		<compIndex>30</compIndex>
 		<compIden>R14</compIden>
 		<compID>RESE-0603-X-O472-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>32</compIndex>
+		<compIndex>31</compIndex>
 		<compIden>U3</compIden>
 		<compID>NOT OOMP  eagleValue: APDS-9301  eagleDevice: APDS-9301  eaglePackage: CHIPLED-6</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>33</compIndex>
+		<compIndex>32</compIndex>
 		<compIden>U4</compIden>
 		<compID>NOT OOMP  eagleValue: TVS Diode  eagleDevice: TVS_DIODE_ARRAYSMD  eaglePackage: SOT-23-6</compID>
 		<compWhy></compWhy>

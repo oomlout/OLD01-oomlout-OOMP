@@ -21,8 +21,8 @@ The Host Shield takes its power from the 'Vin' pin on your Arduino. Power from t
 
 
 	<numComponents>28</numComponents>
-	<numOompComponents>16</numOompComponents>
-	<oompCompletion>57</oompCompletion>
+	<numOompComponents>17</numOompComponents>
+	<oompCompletion>61</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -119,7 +119,7 @@ The Host Shield takes its power from the 'Vin' pin on your Arduino. Power from t
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue: red  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -23,8 +23,8 @@ Note: The barrel jack connection on the RedBoard Turbo has a lower input voltage
 
 
 	<numComponents>47</numComponents>
-	<numOompComponents>32</numOompComponents>
-	<oompCompletion>68</oompCompletion>
+	<numOompComponents>33</numOompComponents>
+	<oompCompletion>70</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -184,14 +184,14 @@ Note: The barrel jack connection on the RedBoard Turbo has a lower input voltage
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_02JST-PTH-2  eaglePackage: JST-2-PTH</compID>
+		<compID>JSTS-02-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>J2</compIden>
-		<compID>JSTS-01-X-04PI-RS</compID>
+		<compID>JSTS-01-X-PI04-RS</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

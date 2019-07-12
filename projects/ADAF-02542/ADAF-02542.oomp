@@ -31,8 +31,8 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 
 
 	<numComponents>40</numComponents>
-	<numOompComponents>18</numOompComponents>
-	<oompCompletion>45</oompCompletion>
+	<numOompComponents>25</numOompComponents>
+	<oompCompletion>63</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -115,7 +115,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>CHRG</compIden>
-		<compID>NOT OOMP  eagleValue: ORANGE  eagleDevice: LED0805_NOOUTLINE  eaglePackage: CHIPLED_0805_NOOUTLINE</compID>
+		<compID>LEDS-0805-O-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -143,35 +143,35 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  eagleValue: 1N4148  eagleDevice: DIODESOD-323  eaglePackage: SOD-323</compID>
+		<compID>DIOD-S323-X-A03D-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>D4</compIden>
-		<compID>NOT OOMP  eagleValue: 1N4148  eagleDevice: DIODESOD-323  eaglePackage: SOD-323</compID>
+		<compID>DIOD-S323-X-A03D-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>D5</compIden>
-		<compID>NOT OOMP  eagleValue: 1N4148  eagleDevice: DIODESOD-323  eaglePackage: SOD-323</compID>
+		<compID>DIOD-S323-X-A03D-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>D6</compIden>
-		<compID>NOT OOMP  eagleValue: 1N4148  eagleDevice: DIODESOD-323  eaglePackage: SOD-323</compID>
+		<compID>DIOD-S323-X-A03D-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>D7</compIden>
-		<compID>NOT OOMP  eagleValue: 1N4148  eagleDevice: DIODESOD-323  eaglePackage: SOD-323</compID>
+		<compID>DIOD-S323-X-A03D-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -192,7 +192,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>NETSTAT</compIden>
-		<compID>NOT OOMP  eagleValue: RED  eagleDevice: LED0805_NOOUTLINE  eaglePackage: CHIPLED_0805_NOOUTLINE</compID>
+		<compID>LEDS-0805-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

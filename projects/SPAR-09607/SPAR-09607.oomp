@@ -22,8 +22,8 @@ The SM5100B cellular module is included with this product, however an antenna is
 
 
 	<numComponents>12</numComponents>
-	<numOompComponents>6</numOompComponents>
-	<oompCompletion>50</oompCompletion>
+	<numOompComponents>7</numOompComponents>
+	<oompCompletion>58</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -43,7 +43,7 @@ The SM5100B cellular module is included with this product, however an antenna is
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

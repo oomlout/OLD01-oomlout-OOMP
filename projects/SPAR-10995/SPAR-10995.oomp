@@ -22,8 +22,8 @@ This board does not come with the GP-2106 GPS module or the connecting ribbon ca
 
 
 	<numComponents>21</numComponents>
-	<numOompComponents>12</numOompComponents>
-	<oompCompletion>57</oompCompletion>
+	<numOompComponents>13</numOompComponents>
+	<oompCompletion>62</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -57,7 +57,7 @@ This board does not come with the GP-2106 GPS module or the connecting ribbon ca
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue: red  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

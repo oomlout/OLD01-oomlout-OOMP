@@ -20,9 +20,9 @@ Note: Check out the Hookup Guide in the Documents section below to learn how to,
 
 
 
-	<numComponents>23</numComponents>
+	<numComponents>22</numComponents>
 	<numOompComponents>14</numOompComponents>
-	<oompCompletion>61</oompCompletion>
+	<oompCompletion>64</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -76,111 +76,104 @@ Note: Check out the Hookup Guide in the Documents section below to learn how to,
 	</component>
 	<component>
 		<compIndex>8</compIndex>
-		<compIden>C8</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: CAP0603-CAP  eaglePackage: 0603-CAP</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>9</compIndex>
 		<compIden>D1</compIden>
 		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: DIODE-SCHOTTKY-MBRA140  eaglePackage: SMA-DIODE</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>10</compIndex>
+		<compIndex>9</compIndex>
 		<compIden>D2</compIden>
 		<compID>NOT OOMP  eagleValue: LED-RGLTST-C195KGJRKT  eagleDevice: LED-RGLTST-C195KGJRKT  eaglePackage: LTST-C195KGJRKT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>11</compIndex>
+		<compIndex>10</compIndex>
 		<compIden>L1</compIden>
 		<compID>NOT OOMP  eagleValue: 2.2uH  eagleDevice: INDUCTORVLF4012A  eaglePackage: VLF4012A</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>12</compIndex>
+		<compIndex>11</compIndex>
 		<compIden>Q1</compIden>
 		<compID>NOT OOMP  eagleValue: DMG2307L  eagleDevice: MOSFET-PCHANNELDMG2307L  eaglePackage: SOT23-3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>13</compIndex>
+		<compIndex>12</compIndex>
 		<compIden>Q2</compIden>
 		<compID>NOT OOMP  eagleValue: PT17-21C-L41-TR8  eagleDevice: PHOTOTRANSISTORPT17-21C-L41-TR8  eaglePackage: PT17-21C-L41-TR8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>14</compIndex>
+		<compIndex>13</compIndex>
 		<compIden>R1</compIden>
 		<compID>RESE-0603-X-O104-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>15</compIndex>
+		<compIndex>14</compIndex>
 		<compIden>R2</compIden>
 		<compID>RESE-0603-X-O331-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>16</compIndex>
+		<compIndex>15</compIndex>
 		<compIden>R3</compIden>
 		<compID>RESE-0603-X-O331-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>17</compIndex>
+		<compIndex>16</compIndex>
 		<compIden>R4</compIden>
 		<compID>RESE-0603-X-O283-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>18</compIndex>
+		<compIndex>17</compIndex>
 		<compIden>R5</compIden>
 		<compID>RESE-0603-X-O283-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>19</compIndex>
+		<compIndex>18</compIndex>
 		<compIden>R6</compIden>
 		<compID>RESE-0603-X-O623-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>20</compIndex>
+		<compIndex>19</compIndex>
 		<compIden>R7</compIden>
 		<compID>RESE-0603-X-O103-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>21</compIndex>
+		<compIndex>20</compIndex>
 		<compIden>U1</compIden>
 		<compID>NOT OOMP  eagleValue: imp002  eagleDevice: ELECTRIC_IMP_IMP002  eaglePackage: ELECTRIC_IMP_IMP002</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>22</compIndex>
+		<compIndex>21</compIndex>
 		<compIden>U2</compIden>
 		<compID>NOT OOMP  eagleValue: TPS62172  eagleDevice: TPS62172  eaglePackage: WSON-8-PAD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>23</compIndex>
+		<compIndex>22</compIndex>
 		<compIden>X1</compIden>
 		<compID>NOT OOMP  eagleValue: USBSMD  eagleDevice: USBSMD  eaglePackage: USB-MINIB</compID>
 		<compWhy></compWhy>

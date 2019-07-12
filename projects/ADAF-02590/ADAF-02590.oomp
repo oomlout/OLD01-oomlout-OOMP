@@ -29,8 +29,8 @@ All text above must be included in any redistribution
 
 
 	<numComponents>30</numComponents>
-	<numOompComponents>14</numOompComponents>
-	<oompCompletion>47</oompCompletion>
+	<numOompComponents>18</numOompComponents>
+	<oompCompletion>60</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -127,14 +127,14 @@ All text above must be included in any redistribution
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>L</compIden>
-		<compID>NOT OOMP  eagleValue: RED  eagleDevice: LED0805_NOOUTLINE  eaglePackage: CHIPLED_0805_NOOUTLINE</compID>
+		<compID>LEDS-0805-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>ON</compIden>
-		<compID>NOT OOMP  eagleValue: GREEN  eagleDevice: LED0805_NOOUTLINE  eaglePackage: CHIPLED_0805_NOOUTLINE</compID>
+		<compID>LEDS-0805-G-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -190,14 +190,14 @@ All text above must be included in any redistribution
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>RXLED</compIden>
-		<compID>NOT OOMP  eagleValue: YELLOW  eagleDevice: LED0805_NOOUTLINE  eaglePackage: CHIPLED_0805_NOOUTLINE</compID>
+		<compID>LEDS-0805-Y-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>TXLED</compIden>
-		<compID>NOT OOMP  eagleValue: YELLOW  eagleDevice: LED0805_NOOUTLINE  eaglePackage: CHIPLED_0805_NOOUTLINE</compID>
+		<compID>LEDS-0805-Y-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

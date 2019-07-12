@@ -21,9 +21,9 @@ Also included is a 850mAh LiPo battery. This is the highest energy density curre
 
 
 
-	<numComponents>15</numComponents>
+	<numComponents>14</numComponents>
 	<numOompComponents>6</numOompComponents>
-	<oompCompletion>40</oompCompletion>
+	<oompCompletion>43</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -77,55 +77,48 @@ Also included is a 850mAh LiPo battery. This is the highest energy density curre
 	</component>
 	<component>
 		<compIndex>8</compIndex>
-		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: LED3MM  eaglePackage: LED3MM</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>9</compIndex>
 		<compIden>LED2</compIden>
 		<compID>LEDS-0603-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>10</compIndex>
+		<compIndex>9</compIndex>
 		<compIden>PROG</compIden>
 		<compID>NOT OOMP  eagleValue:   eagleDevice: RESISTORAXIAL-0.3  eaglePackage: AXIAL-0.3</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>11</compIndex>
+		<compIndex>10</compIndex>
 		<compIden>R-PROG1</compIden>
 		<compID>RESE-0603-X-O202-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>12</compIndex>
+		<compIndex>11</compIndex>
 		<compIden>R-PROG2</compIden>
 		<compID>RESE-0603-X-O103-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>13</compIndex>
+		<compIndex>12</compIndex>
 		<compIden>R1</compIden>
 		<compID>RESE-0603-X-O331-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>14</compIndex>
+		<compIndex>13</compIndex>
 		<compIden>U1</compIden>
 		<compID>NOT OOMP  eagleValue: MCP73831  eagleDevice: MCP73831  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>15</compIndex>
+		<compIndex>14</compIndex>
 		<compIden>X1</compIden>
 		<compID>NOT OOMP  eagleValue: USBSMD  eagleDevice: USBSMD  eaglePackage: USB-MINIB</compID>
 		<compWhy></compWhy>

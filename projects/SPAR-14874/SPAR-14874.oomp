@@ -21,9 +21,9 @@ On the back of the board you’ll find 10 solder jumpers that can be used to chang
 
 
 
-	<numComponents>22</numComponents>
+	<numComponents>20</numComponents>
 	<numOompComponents>18</numOompComponents>
-	<oompCompletion>82</oompCompletion>
+	<oompCompletion>90</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -49,132 +49,118 @@ On the back of the board you’ll find 10 solder jumpers that can be used to chang
 	</component>
 	<component>
 		<compIndex>4</compIndex>
-		<compIden>C4</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: 1.0PF-0603-50V-25%  eaglePackage: 0603</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>5</compIndex>
-		<compIden>C5</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: 1.0PF-0603-50V-25%  eaglePackage: 0603</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>6</compIndex>
 		<compIden>C6</compIden>
 		<compID>CAPC-0603-X-UF1-V16</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>7</compIndex>
+		<compIndex>5</compIndex>
 		<compIden>C7</compIden>
 		<compID>CAPC-0603-X-UF1-V16</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>8</compIndex>
+		<compIndex>6</compIndex>
 		<compIden>C8</compIden>
 		<compID>CAPC-0603-X-UF1-V16</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>9</compIndex>
+		<compIndex>7</compIndex>
 		<compIden>C9</compIden>
 		<compID>CAPC-0603-X-UF1-V16</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>10</compIndex>
+		<compIndex>8</compIndex>
 		<compIden>C10</compIden>
 		<compID>CAPC-0603-X-NF100-V25</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>11</compIndex>
+		<compIndex>9</compIndex>
 		<compIden>J1</compIden>
 		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_09NO_SILK  eaglePackage: 1X09_NO_SILK</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>12</compIndex>
+		<compIndex>10</compIndex>
 		<compIden>R1</compIden>
 		<compID>RESE-0603-X-O222-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>13</compIndex>
+		<compIndex>11</compIndex>
 		<compIden>R2</compIden>
 		<compID>RESE-0603-X-O222-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>14</compIndex>
+		<compIndex>12</compIndex>
 		<compIden>R3</compIden>
 		<compID>RESE-0603-X-O103-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>15</compIndex>
+		<compIndex>13</compIndex>
 		<compIden>R4</compIden>
 		<compID>RESE-0603-X-O103-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>16</compIndex>
+		<compIndex>14</compIndex>
 		<compIden>R5</compIden>
 		<compID>RESE-0603-X-O103-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>17</compIndex>
+		<compIndex>15</compIndex>
 		<compIden>R6</compIden>
 		<compID>RESE-0603-X-O103-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>18</compIndex>
+		<compIndex>16</compIndex>
 		<compIden>R7</compIden>
 		<compID>RESE-0603-X-O473-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>19</compIndex>
+		<compIndex>17</compIndex>
 		<compIden>R8</compIden>
 		<compID>RESE-0603-X-O473-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>20</compIndex>
+		<compIndex>18</compIndex>
 		<compIden>R9</compIden>
 		<compID>RESE-0603-X-O473-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>21</compIndex>
+		<compIndex>19</compIndex>
 		<compIden>R10</compIden>
 		<compID>RESE-0603-X-O473-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>22</compIndex>
+		<compIndex>20</compIndex>
 		<compIden>U1</compIden>
 		<compID>NOT OOMP  eagleValue: TSH82  eagleDevice: TSH82  eaglePackage: SO08</compID>
 		<compWhy></compWhy>

@@ -33,8 +33,8 @@ This board ships without headers, you can find break away headers in the related
 
 
 	<numComponents>18</numComponents>
-	<numOompComponents>12</numOompComponents>
-	<oompCompletion>67</oompCompletion>
+	<numOompComponents>14</numOompComponents>
+	<oompCompletion>78</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -61,14 +61,14 @@ This board ships without headers, you can find break away headers in the related
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  eagleValue: Green  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-G-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

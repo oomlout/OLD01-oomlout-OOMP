@@ -22,8 +22,8 @@ Note: We have fixed the silkscreen error on this board; the FTDI "black" and "gr
 
 
 	<numComponents>78</numComponents>
-	<numOompComponents>40</numOompComponents>
-	<oompCompletion>51</oompCompletion>
+	<numOompComponents>42</numOompComponents>
+	<oompCompletion>54</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -155,14 +155,14 @@ Note: We have fixed the silkscreen error on this board; the FTDI "black" and "gr
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue: Power  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  eagleValue: Status  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

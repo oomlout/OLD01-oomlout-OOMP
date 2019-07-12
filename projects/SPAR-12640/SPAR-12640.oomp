@@ -22,8 +22,8 @@ Not sure which Arduino or Arduino-compatible board is right for you? Check out o
 
 
 	<numComponents>24</numComponents>
-	<numOompComponents>15</numOompComponents>
-	<oompCompletion>63</oompCompletion>
+	<numOompComponents>18</numOompComponents>
+	<oompCompletion>75</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -92,7 +92,7 @@ Not sure which Arduino or Arduino-compatible board is right for you? Check out o
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  eagleValue: Yellow  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-Y-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -106,7 +106,7 @@ Not sure which Arduino or Arduino-compatible board is right for you? Check out o
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  eagleValue: Green  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-G-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -120,7 +120,7 @@ Not sure which Arduino or Arduino-compatible board is right for you? Check out o
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

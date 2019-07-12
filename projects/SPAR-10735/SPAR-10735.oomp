@@ -21,8 +21,8 @@ Each Big Easy Driver can drive up to a max of 2A per phase of a bi-polar stepper
 
 
 	<numComponents>34</numComponents>
-	<numOompComponents>25</numOompComponents>
-	<oompCompletion>74</oompCompletion>
+	<numOompComponents>26</numOompComponents>
+	<oompCompletion>76</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -126,7 +126,7 @@ Each Big Easy Driver can drive up to a max of 2A per phase of a bi-polar stepper
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>PWR_LED</compIden>
-		<compID>NOT OOMP  eagleValue: YELLOW  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-Y-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

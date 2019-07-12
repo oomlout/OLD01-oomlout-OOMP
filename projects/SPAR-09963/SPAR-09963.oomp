@@ -21,8 +21,8 @@ Note: This product does not come with the RFID reader. Check below for compatibl
 
 
 	<numComponents>15</numComponents>
-	<numOompComponents>6</numOompComponents>
-	<oompCompletion>40</oompCompletion>
+	<numOompComponents>7</numOompComponents>
+	<oompCompletion>47</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -63,7 +63,7 @@ Note: This product does not come with the RFID reader. Check below for compatibl
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue: GRN  eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -7,7 +7,7 @@
 	<oompVersion>99</oompVersion>
 	<oompAbout>
                 This is a breakout board for the Maxim MAX7456 monochrome on-screen display chip. The board is set up with all supporting circuitry and RCA connectors to allow the user to easily interrupt and overlay text and/or graphics onto a video signal (PAL or NTSC). Just plug in your video signal to "Video In", plug your TV into "Video Out", connect a microcontroller to the SPI interface and supply the board with 5V@100mA (worst case) and you're good to go. Supplied sample code runs on an ATMega168/328 (16MHz) and compiles with WinAVR, so it's just about "plug-and-play" with an Arduino board.
-Weight: 0.30 ounces, 8.6 grams              
+**Weight: **0.30 ounces, 8.6 grams              
             
                       
               
@@ -16,6 +16,12 @@ Weight: 0.30 ounces, 8.6 grams
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>16</numComponents>
+	<numOompComponents>10</numOompComponents>
+	<oompCompletion>63</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -131,6 +137,15 @@ Weight: 0.30 ounces, 8.6 grams
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun On Screen Display Breakout - MAX7456</name>
+		<partID>9168</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/9168]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

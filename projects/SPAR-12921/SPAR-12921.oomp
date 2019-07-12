@@ -22,9 +22,9 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 
 
 
-	<numComponents>12</numComponents>
+	<numComponents>11</numComponents>
 	<numOompComponents>9</numOompComponents>
-	<oompCompletion>75</oompCompletion>
+	<oompCompletion>82</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -71,41 +71,34 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 	</component>
 	<component>
 		<compIndex>7</compIndex>
-		<compIden>GND</compIden>
-		<compID>NOT OOMP  eagleValue: SEWTAP9  eagleDevice: SEWTAP9  eaglePackage: PETAL-LONG-1-2SIDE</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>8</compIndex>
 		<compIden>R1</compIden>
 		<compID>RESE-0603-X-O331-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>9</compIndex>
+		<compIndex>8</compIndex>
 		<compIden>R2</compIden>
 		<compID>RESE-0603-X-O331-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>10</compIndex>
+		<compIndex>9</compIndex>
 		<compIden>S1</compIden>
 		<compID>BUTA-52D-X-SMDS-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>11</compIndex>
+		<compIndex>10</compIndex>
 		<compIden>U1</compIden>
 		<compID>NOT OOMP  eagleValue: XBEE-1B3  eagleDevice: XBEE-1B3  eaglePackage: XBEE-SMD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>12</compIndex>
+		<compIndex>11</compIndex>
 		<compIden>U2</compIden>
 		<compID>NOT OOMP  eagleValue: V_REG_LDOSMD  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
 		<compWhy></compWhy>

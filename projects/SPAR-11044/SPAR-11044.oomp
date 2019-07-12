@@ -20,9 +20,9 @@ Note: The amplifier's class-D design outputs a 250kHz PWM-like signal that is re
 
 
 
-	<numComponents>14</numComponents>
-	<numOompComponents>9</numOompComponents>
-	<oompCompletion>64</oompCompletion>
+	<numComponents>12</numComponents>
+	<numOompComponents>10</numOompComponents>
+	<oompCompletion>83</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -56,7 +56,7 @@ Note: The amplifier's class-D design outputs a 250kHz PWM-like signal that is re
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: LED0603  eaglePackage: LED-0603</compID>
+		<compID>LEDS-0603-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -76,48 +76,34 @@ Note: The amplifier's class-D design outputs a 250kHz PWM-like signal that is re
 	</component>
 	<component>
 		<compIndex>8</compIndex>
-		<compIden>R1A</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: RESISTORAXIAL-0.3  eaglePackage: AXIAL-0.3</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>9</compIndex>
 		<compIden>R2</compIden>
 		<compID>RESE-0603-X-O154-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>10</compIndex>
-		<compIden>R2A</compIden>
-		<compID>NOT OOMP  eagleValue: DNP  eagleDevice: RESISTORAXIAL-0.3  eaglePackage: AXIAL-0.3</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>11</compIndex>
+		<compIndex>9</compIndex>
 		<compIden>R3</compIden>
 		<compID>RESE-0603-X-O103-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>12</compIndex>
+		<compIndex>10</compIndex>
 		<compIden>R4</compIden>
 		<compID>RESE-0603-X-O331-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>13</compIndex>
+		<compIndex>11</compIndex>
 		<compIden>R5</compIden>
 		<compID>RESE-0603-X-O103-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>14</compIndex>
+		<compIndex>12</compIndex>
 		<compIden>U1</compIden>
 		<compID>NOT OOMP  eagleValue: TPA2005D1DRB  eagleDevice: TPA2005D1DRB  eaglePackage: QFN-8_PAD</compID>
 		<compWhy></compWhy>
