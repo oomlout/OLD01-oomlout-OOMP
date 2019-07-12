@@ -18,6 +18,12 @@ Note: The Ardumoto does not include screw terminals or stackable headers; you wi
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>46</numComponents>
+	<numOompComponents>25</numOompComponents>
+	<oompCompletion>54</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -343,6 +349,15 @@ Note: The Ardumoto does not include screw terminals or stackable headers; you wi
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Ardumoto - Motor Driver Shield</name>
+		<partID>9815</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/9815]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

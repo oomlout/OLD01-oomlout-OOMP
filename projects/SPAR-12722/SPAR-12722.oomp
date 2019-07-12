@@ -18,6 +18,12 @@ Also included is a 850mAh LiPo battery. This is the highest energy density curre
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>15</numComponents>
+	<numOompComponents>6</numOompComponents>
+	<oompCompletion>40</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -126,6 +132,15 @@ Also included is a 850mAh LiPo battery. This is the highest energy density curre
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>Lithium Polymer USB Charger and Battery - Retail</name>
+		<partID>12722</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/12722]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

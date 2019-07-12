@@ -17,6 +17,12 @@ The Electret Mic Breakout translates amplitude (not volume) by capturing sound w
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>11</numComponents>
+	<numOompComponents>9</numOompComponents>
+	<oompCompletion>82</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -97,6 +103,15 @@ The Electret Mic Breakout translates amplitude (not volume) by capturing sound w
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Electret Microphone Breakout</name>
+		<partID>9964</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/9964]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

@@ -17,6 +17,12 @@ Note: The CC3000 WiFi Shield comes as a stand-alone board. Headers will need to 
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>25</numComponents>
+	<numOompComponents>14</numOompComponents>
+	<oompCompletion>56</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -195,6 +201,15 @@ Note: The CC3000 WiFi Shield comes as a stand-alone board. Headers will need to 
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun WiFi Shield - CC3000</name>
+		<partID>12071</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/12071]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

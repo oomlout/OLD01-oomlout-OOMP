@@ -17,6 +17,12 @@ Each pin has been broken out on the LSM303C, with 10 plated through-hole connect
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>11</numComponents>
+	<numOompComponents>9</numOompComponents>
+	<oompCompletion>82</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -97,6 +103,15 @@ Each pin has been broken out on the LSM303C, with 10 plated through-hole connect
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun 6 Degrees of Freedom Breakout - LSM303C</name>
+		<partID>13303</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/13303]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

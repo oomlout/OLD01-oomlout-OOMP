@@ -19,6 +19,12 @@ The Logomatic v2 ships with basic serial text and analog logging. Users can easi
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>52</numComponents>
+	<numOompComponents>41</numOompComponents>
+	<oompCompletion>79</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -386,6 +392,15 @@ The Logomatic v2 ships with basic serial text and analog logging. Users can easi
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Logomatic v2 - Serial SD Datalogger (FAT32)</name>
+		<partID>12772</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/12772]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

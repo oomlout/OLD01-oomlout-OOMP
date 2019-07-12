@@ -17,6 +17,12 @@ Replaces:SEN-08663
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>15</numComponents>
+	<numOompComponents>10</numOompComponents>
+	<oompCompletion>67</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -125,6 +131,15 @@ Replaces:SEN-08663
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>Color Light Sensor Evaluation Board</name>
+		<partID>10701</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/10701]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

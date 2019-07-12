@@ -18,6 +18,12 @@ Not sure which GPS module is right for you? Check out our GPS Buying Guide!
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>4</numComponents>
+	<numOompComponents>2</numOompComponents>
+	<oompCompletion>50</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -49,6 +55,15 @@ Not sure which GPS module is right for you? Check out our GPS Buying Guide!
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun GPS Module - Copernicus II DIP (12 Channel)</name>
+		<partID>11067</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/11067]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

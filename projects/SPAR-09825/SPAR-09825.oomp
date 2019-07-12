@@ -19,6 +19,12 @@ Note: The drivers link has been updated below to be Windows 7 compatible.
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>25</numComponents>
+	<numOompComponents>14</numOompComponents>
+	<oompCompletion>56</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -197,6 +203,15 @@ Note: The drivers link has been updated below to be Windows 7 compatible.
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>Pocket AVR Programmer</name>
+		<partID>9825</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/9825]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

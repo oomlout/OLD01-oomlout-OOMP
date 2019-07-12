@@ -17,6 +17,12 @@ Since the I/O banks can operate between 1.2V and 3.6V (5.5V tolerant) independen
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>10</numComponents>
+	<numOompComponents>9</numOompComponents>
+	<oompCompletion>90</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -90,6 +96,15 @@ Since the I/O banks can operate between 1.2V and 3.6V (5.5V tolerant) independen
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun 16 Output I/O Expander Breakout - SX1509</name>
+		<partID>11502</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/11502]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

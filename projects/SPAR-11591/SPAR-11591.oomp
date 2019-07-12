@@ -17,6 +17,12 @@ This adapter does come as a kit and assembly will be required.
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>4</numComponents>
+	<numOompComponents>0</numOompComponents>
+	<oompCompletion>0</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -48,6 +54,15 @@ This adapter does come as a kit and assembly will be required.
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun ISP Pogo Adapter</name>
+		<partID>11591</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/11591]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

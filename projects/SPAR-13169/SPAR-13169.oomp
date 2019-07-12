@@ -18,6 +18,12 @@ Note: Put your screwdriver away, the SparkFun Blackberry Trackballer Breakout co
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>24</numComponents>
+	<numOompComponents>17</numOompComponents>
+	<oompCompletion>71</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -189,6 +195,15 @@ Note: Put your screwdriver away, the SparkFun Blackberry Trackballer Breakout co
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Blackberry Trackballer Breakout</name>
+		<partID>13169</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/13169]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

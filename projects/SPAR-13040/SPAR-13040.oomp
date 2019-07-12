@@ -18,6 +18,12 @@ Note: The 3.3V FTDI breakout will NOT work with this block, but the 5V version w
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>19</numComponents>
+	<numOompComponents>12</numOompComponents>
+	<oompCompletion>63</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -154,6 +160,15 @@ Note: The 3.3V FTDI breakout will NOT work with this block, but the 5V version w
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Block for Intel® Edison - UART</name>
+		<partID>13040</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/13040]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

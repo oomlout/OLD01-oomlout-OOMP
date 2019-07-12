@@ -17,6 +17,12 @@ Because the Electric Imp can draw up to 400mA on the 3.3V line, this shield has 
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>21</numComponents>
+	<numOompComponents>15</numOompComponents>
+	<oompCompletion>71</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -167,6 +173,15 @@ Because the Electric Imp can draw up to 400mA on the 3.3V line, this shield has 
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>Electric Imp Shield</name>
+		<partID>11401</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/11401]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

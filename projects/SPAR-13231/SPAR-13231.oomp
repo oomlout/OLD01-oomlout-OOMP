@@ -18,6 +18,12 @@ The SparkFun ESP8266 Thing is a relatively simple board. The pins are broken out
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>46</numComponents>
+	<numOompComponents>27</numOompComponents>
+	<oompCompletion>59</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -343,6 +349,15 @@ The SparkFun ESP8266 Thing is a relatively simple board. The pins are broken out
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun ESP8266 Thing</name>
+		<partID>13231</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/13231]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

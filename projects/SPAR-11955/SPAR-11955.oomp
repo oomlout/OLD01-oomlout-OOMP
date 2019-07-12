@@ -17,6 +17,12 @@ Replaces:BOB-10403
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>6</numComponents>
+	<numOompComponents>6</numOompComponents>
+	<oompCompletion>100</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -62,6 +68,15 @@ Replaces:BOB-10403
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Level Translator Breakout - PCA9306</name>
+		<partID>11955</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/11955]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

@@ -18,6 +18,12 @@ Note: This board cannot source the power required for the Cellular XBee line. It
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>19</numComponents>
+	<numOompComponents>11</numOompComponents>
+	<oompCompletion>58</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -154,6 +160,15 @@ Note: This board cannot source the power required for the Cellular XBee line. It
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun XBee Explorer Regulated</name>
+		<partID>11373</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/11373]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

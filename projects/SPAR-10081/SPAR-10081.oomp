@@ -17,6 +17,12 @@ Note: A portion of this sale is given back to Dr. Buechley for continued develop
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>20</numComponents>
+	<numOompComponents>10</numOompComponents>
+	<oompCompletion>50</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -160,6 +166,15 @@ Note: A portion of this sale is given back to Dr. Buechley for continued develop
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>LilyPad LED White (5pcs)</name>
+		<partID>10081</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/10081]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

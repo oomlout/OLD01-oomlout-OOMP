@@ -17,6 +17,12 @@ The breakout board includes the HMC5883L sensor and all filtering capacitors as 
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>6</numComponents>
+	<numOompComponents>3</numOompComponents>
+	<oompCompletion>50</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -62,6 +68,15 @@ The breakout board includes the HMC5883L sensor and all filtering capacitors as 
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Triple Axis Magnetometer Breakout - HMC5883L</name>
+		<partID>10530</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/10530]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

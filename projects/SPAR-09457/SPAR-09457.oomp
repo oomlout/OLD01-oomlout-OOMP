@@ -19,6 +19,12 @@ Note: If you are looking for the SparkFun Motor Driver with headers, it can be f
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>4</numComponents>
+	<numOompComponents>3</numOompComponents>
+	<oompCompletion>75</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -50,6 +56,15 @@ Note: If you are looking for the SparkFun Motor Driver with headers, it can be f
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Motor Driver - Dual TB6612FNG (1A)</name>
+		<partID>9457</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/9457]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

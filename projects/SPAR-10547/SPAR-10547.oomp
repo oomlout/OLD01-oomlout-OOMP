@@ -18,6 +18,12 @@ Checkout the assembly instructions - we're pretty proud of them. The kit even in
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>10</numComponents>
+	<numOompComponents>3</numOompComponents>
+	<oompCompletion>30</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -91,6 +97,15 @@ Checkout the assembly instructions - we're pretty proud of them. The kit even in
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Simon Says - Through-Hole Soldering Kit</name>
+		<partID>10547</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/10547]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

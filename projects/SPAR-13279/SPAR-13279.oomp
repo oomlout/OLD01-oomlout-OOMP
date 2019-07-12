@@ -18,6 +18,12 @@ We used the SparkFun Large Digit Driver in our AVC Battle-Bot Arena to display t
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>9</numComponents>
+	<numOompComponents>8</numOompComponents>
+	<oompCompletion>89</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -84,6 +90,15 @@ We used the SparkFun Large Digit Driver in our AVC Battle-Bot Arena to display t
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Large Digit Driver</name>
+		<partID>13279</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/13279]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

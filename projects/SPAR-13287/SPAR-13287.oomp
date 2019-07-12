@@ -18,6 +18,12 @@ This shield comes populated with all components as shown in the images and schem
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>37</numComponents>
+	<numOompComponents>25</numOompComponents>
+	<oompCompletion>68</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -280,6 +286,15 @@ This shield comes populated with all components as shown in the images and schem
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun WiFi Shield - ESP8266</name>
+		<partID>13287</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/13287]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

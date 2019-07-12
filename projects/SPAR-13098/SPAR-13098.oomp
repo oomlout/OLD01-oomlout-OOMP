@@ -17,6 +17,12 @@ Note: A 10-position rotary switch is NOT included with this breakout. Check the 
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>1</numComponents>
+	<numOompComponents>0</numOompComponents>
+	<oompCompletion>0</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -27,6 +33,15 @@ Note: A 10-position rotary switch is NOT included with this breakout. Check the 
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Rotary Switch Breakout</name>
+		<partID>13098</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/13098]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

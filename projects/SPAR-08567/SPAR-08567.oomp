@@ -17,6 +17,12 @@ All data logged by the OpenLog is stored on the microSD card. Any 512MB to 32GB 
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>13</numComponents>
+	<numOompComponents>10</numOompComponents>
+	<oompCompletion>77</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -111,6 +117,15 @@ All data logged by the OpenLog is stored on the microSD card. Any 512MB to 32GB 
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun OpenLog</name>
+		<partID>8567</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/8567]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

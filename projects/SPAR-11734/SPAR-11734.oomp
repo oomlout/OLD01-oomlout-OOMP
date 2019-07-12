@@ -20,6 +20,12 @@ Replaces:KIT-11178
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>8</numComponents>
+	<numOompComponents>3</numOompComponents>
+	<oompCompletion>38</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -79,6 +85,15 @@ Replaces:KIT-11178
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun BigTime Watch Kit</name>
+		<partID>11734</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/11734]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

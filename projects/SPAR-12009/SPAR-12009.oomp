@@ -17,6 +17,12 @@ The level converter is very easy to use. The board needs to be powered from the 
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>12</numComponents>
+	<numOompComponents>8</numOompComponents>
+	<oompCompletion>67</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -104,6 +110,15 @@ The level converter is very easy to use. The board needs to be powered from the 
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Logic Level Converter - Bi-Directional</name>
+		<partID>12009</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/12009]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

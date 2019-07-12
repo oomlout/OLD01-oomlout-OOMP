@@ -18,6 +18,12 @@ Note: We have fixed the silkscreen error on this board; the FTDI "black" and "gr
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>78</numComponents>
+	<numOompComponents>40</numOompComponents>
+	<oompCompletion>51</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -567,6 +573,15 @@ Note: We have fixed the silkscreen error on this board; the FTDI "black" and "gr
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun EL Sequencer</name>
+		<partID>12781</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/12781]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

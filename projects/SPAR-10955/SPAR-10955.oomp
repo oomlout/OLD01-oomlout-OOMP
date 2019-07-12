@@ -10,6 +10,12 @@
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>7</numComponents>
+	<numOompComponents>6</numOompComponents>
+	<oompCompletion>86</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -62,6 +68,15 @@
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name></name>
+		<partID>10955</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/10955]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

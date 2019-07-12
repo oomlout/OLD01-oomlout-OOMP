@@ -17,6 +17,12 @@ In this version, we're using a better regulator, corrected the speaker connector
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>37</numComponents>
+	<numOompComponents>29</numOompComponents>
+	<oompCompletion>78</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -279,6 +285,15 @@ In this version, we're using a better regulator, corrected the speaker connector
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Music Instrument Shield</name>
+		<partID>10529</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/10529]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

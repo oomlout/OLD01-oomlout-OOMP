@@ -16,6 +16,12 @@ Note: The power circuit chip is only rated to drive 0.6 amps. However, we've suc
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>20</numComponents>
+	<numOompComponents>13</numOompComponents>
+	<oompCompletion>65</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -159,6 +165,15 @@ Note: The power circuit chip is only rated to drive 0.6 amps. However, we've suc
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Mini FET Shield</name>
+		<partID>9627</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/9627]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

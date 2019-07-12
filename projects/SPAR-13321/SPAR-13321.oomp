@@ -17,6 +17,12 @@ The Photon RedBoard has all of the hardware peripherals you know and love: 8 Dig
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>30</numComponents>
+	<numOompComponents>24</numOompComponents>
+	<oompCompletion>80</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -230,6 +236,15 @@ The Photon RedBoard has all of the hardware peripherals you know and love: 8 Dig
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Photon RedBoard</name>
+		<partID>13321</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/13321]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

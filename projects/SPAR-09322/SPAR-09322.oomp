@@ -17,6 +17,12 @@ Assembled picture is for reference only, board comes bare; photo interrupter and
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>3</numComponents>
+	<numOompComponents>1</numOompComponents>
+	<oompCompletion>33</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -41,6 +47,15 @@ Assembled picture is for reference only, board comes bare; photo interrupter and
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Photo Interrupter Breakout Board - GP1A57HRJ00F</name>
+		<partID>9322</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/9322]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

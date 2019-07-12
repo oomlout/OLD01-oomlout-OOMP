@@ -16,6 +16,12 @@ The breakout board includes all of the necessary peripheral components. The inpu
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>5</numComponents>
+	<numOompComponents>2</numOompComponents>
+	<oompCompletion>40</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -54,6 +60,15 @@ The breakout board includes all of the necessary peripheral components. The inpu
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun 5V Step-Up Breakout - NCP1402</name>
+		<partID>10968</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/10968]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

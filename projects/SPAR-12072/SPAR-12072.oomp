@@ -16,6 +16,12 @@ This breakout even provides an optional feature that allows you to attach an ext
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>20</numComponents>
+	<numOompComponents>12</numOompComponents>
+	<oompCompletion>60</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -159,6 +165,15 @@ This breakout even provides an optional feature that allows you to attach an ext
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun WiFi Breakout - CC3000</name>
+		<partID>12072</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/12072]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

@@ -18,6 +18,12 @@ Note: This product is NOT a medical device and is not intended to be used as suc
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>29</numComponents>
+	<numOompComponents>26</numOompComponents>
+	<oompCompletion>90</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -224,6 +230,15 @@ Note: This product is NOT a medical device and is not intended to be used as suc
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Single Lead Heart Rate Monitor - AD8232</name>
+		<partID>12650</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/12650]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

@@ -16,6 +16,12 @@ We have broken out all the pins you need including GND and 3.3V for power, SDA/S
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>6</numComponents>
+	<numOompComponents>5</numOompComponents>
+	<oompCompletion>83</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -61,6 +67,15 @@ We have broken out all the pins you need including GND and 3.3V for power, SDA/S
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Pressure Sensor Breakout - MS5803-14BA</name>
+		<partID>12909</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/12909]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

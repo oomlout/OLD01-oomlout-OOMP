@@ -16,6 +16,12 @@ The VCNL4000 can detect its proximity to an object using IR within a range of ab
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>4</numComponents>
+	<numOompComponents>3</numOompComponents>
+	<oompCompletion>75</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -47,6 +53,15 @@ The VCNL4000 can detect its proximity to an object using IR within a range of ab
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Infrared Proximity Breakout - VCNL4000</name>
+		<partID>10901</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/10901]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

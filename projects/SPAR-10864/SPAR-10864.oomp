@@ -17,6 +17,12 @@ Note: This is not 802.3af-compatible PoE, it's more of a home-brew Power-over-Et
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>54</numComponents>
+	<numOompComponents>36</numOompComponents>
+	<oompCompletion>67</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -398,6 +404,15 @@ Note: This is not 802.3af-compatible PoE, it's more of a home-brew Power-over-Et
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun PoEthernet Shield</name>
+		<partID>10864</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/10864]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

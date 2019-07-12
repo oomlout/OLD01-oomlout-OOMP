@@ -17,6 +17,12 @@ Note: This product is a collaboration with Tod Kurt, John Edgar Park, and Brian 
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>5</numComponents>
+	<numOompComponents>1</numOompComponents>
+	<oompCompletion>20</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -55,6 +61,15 @@ Note: This product is a collaboration with Tod Kurt, John Edgar Park, and Brian 
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>ProtoScrewShield</name>
+		<partID>9729</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/9729]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

@@ -16,6 +16,12 @@ Like the Arduino Pro Mini, the MiP ProMini-Pack utilizes SparkFun's minimal desi
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>26</numComponents>
+	<numOompComponents>20</numOompComponents>
+	<oompCompletion>77</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -201,6 +207,15 @@ Like the Arduino Pro Mini, the MiP ProMini-Pack utilizes SparkFun's minimal desi
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun MiP ProMini-Pack</name>
+		<partID>13058</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/13058]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

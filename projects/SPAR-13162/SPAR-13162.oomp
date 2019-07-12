@@ -17,6 +17,12 @@ The ZX Sensor works by bouncing infrared (IR) beams of light from the two LEDs o
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>30</numComponents>
+	<numOompComponents>21</numOompComponents>
+	<oompCompletion>70</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -230,6 +236,15 @@ The ZX Sensor works by bouncing infrared (IR) beams of light from the two LEDs o
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>ZX Distance and Gesture Sensor</name>
+		<partID>13162</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/13162]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

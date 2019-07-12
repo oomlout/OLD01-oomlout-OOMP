@@ -18,6 +18,12 @@ Note: The Arduino Library currently only works with an Arduino Mega or Mega 2560
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>90</numComponents>
+	<numOompComponents>65</numOompComponents>
+	<oompCompletion>72</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -651,6 +657,15 @@ Note: The Arduino Library currently only works with an Arduino Mega or Mega 2560
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Quadstepper Motor Driver Board</name>
+		<partID>10507</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/10507]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

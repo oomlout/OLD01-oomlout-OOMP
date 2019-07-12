@@ -16,6 +16,12 @@ The APDS-9960 is a serious little piece of hardware with built in UV and IR bloc
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>8</numComponents>
+	<numOompComponents>6</numOompComponents>
+	<oompCompletion>75</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -75,6 +81,15 @@ The APDS-9960 is a serious little piece of hardware with built in UV and IR bloc
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun RGB and Gesture Sensor - APDS-9960</name>
+		<partID>12787</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/12787]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

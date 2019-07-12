@@ -17,6 +17,12 @@ The internal switches are bidirectional, support voltages between ground and VCC
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>3</numComponents>
+	<numOompComponents>2</numOompComponents>
+	<oompCompletion>67</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -41,6 +47,15 @@ The internal switches are bidirectional, support voltages between ground and VCC
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Analog/Digital MUX Breakout - CD74HC4067</name>
+		<partID>9056</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/9056]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

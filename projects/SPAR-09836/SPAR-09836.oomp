@@ -18,6 +18,12 @@ Several special sensing functions are provided. Activity and inactivity sensing 
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>4</numComponents>
+	<numOompComponents>3</numOompComponents>
+	<oompCompletion>75</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -49,6 +55,15 @@ Several special sensing functions are provided. Activity and inactivity sensing 
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Triple Axis Accelerometer Breakout - ADXL345</name>
+		<partID>9836</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/9836]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

@@ -17,6 +17,12 @@ No programmer required. The ATmega comes with firmware installed!
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>14</numComponents>
+	<numOompComponents>3</numOompComponents>
+	<oompCompletion>21</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -118,6 +124,15 @@ No programmer required. The ATmega comes with firmware installed!
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun ClockIt</name>
+		<partID>9004</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/9004]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

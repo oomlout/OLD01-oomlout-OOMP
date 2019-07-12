@@ -17,6 +17,12 @@ Note: The amplifier's class-D design outputs a 250kHz PWM-like signal that is re
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>14</numComponents>
+	<numOompComponents>9</numOompComponents>
+	<oompCompletion>64</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -118,6 +124,15 @@ Note: The amplifier's class-D design outputs a 250kHz PWM-like signal that is re
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Mono Audio Amp Breakout - TPA2005D1</name>
+		<partID>11044</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/11044]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

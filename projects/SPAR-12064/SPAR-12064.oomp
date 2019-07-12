@@ -16,6 +16,12 @@ There are only four pins that need to be hooked up in order to start using this 
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>4</numComponents>
+	<numOompComponents>3</numOompComponents>
+	<oompCompletion>75</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -47,6 +53,15 @@ There are only four pins that need to be hooked up in order to start using this 
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Humidity and Temperature Sensor Breakout - Si7021</name>
+		<partID>12064</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/12064]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

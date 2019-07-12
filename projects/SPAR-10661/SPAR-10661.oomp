@@ -18,6 +18,12 @@ Also included on the shield are a grid of 0.1" pitch through-holes for prototypi
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>31</numComponents>
+	<numOompComponents>25</numOompComponents>
+	<oompCompletion>81</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -238,6 +244,15 @@ Also included on the shield are a grid of 0.1" pitch through-holes for prototypi
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun VoiceBox Shield</name>
+		<partID>10661</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/10661]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

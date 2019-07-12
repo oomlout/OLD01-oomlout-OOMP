@@ -17,6 +17,12 @@ Note: This product is a collaboration with Jack Gasset. A portion of each sale g
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>16</numComponents>
+	<numOompComponents>8</numOompComponents>
+	<oompCompletion>50</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -132,6 +138,15 @@ Note: This product is a collaboration with Jack Gasset. A portion of each sale g
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>Papilio Button LED Wing</name>
+		<partID>11509</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/11509]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

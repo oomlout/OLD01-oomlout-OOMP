@@ -18,6 +18,12 @@ Note: Our RedBot tutorials utilize two of these Mechanical Bumper Sensors. Pleas
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>3</numComponents>
+	<numOompComponents>1</numOompComponents>
+	<oompCompletion>33</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -42,6 +48,15 @@ Note: Our RedBot tutorials utilize two of these Mechanical Bumper Sensors. Pleas
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun RedBot Sensor - Mechanical Bumper</name>
+		<partID>11999</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/11999]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

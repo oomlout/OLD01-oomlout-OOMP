@@ -19,6 +19,12 @@ Note: This product is a collaboration with Brian Schmalz. A portion of each sale
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>29</numComponents>
+	<numOompComponents>23</numOompComponents>
+	<oompCompletion>79</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -225,6 +231,15 @@ Note: This product is a collaboration with Brian Schmalz. A portion of each sale
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>EasyDriver - Stepper Motor Driver</name>
+		<partID>9402</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/9402]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

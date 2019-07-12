@@ -20,6 +20,12 @@ Note: This product is a collaboration with Ian Lesnet. A portion of each sales g
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>40</numComponents>
+	<numOompComponents>22</numOompComponents>
+	<oompCompletion>55</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -303,6 +309,15 @@ Note: This product is a collaboration with Ian Lesnet. A portion of each sales g
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>Bus Pirate - v3.6a</name>
+		<partID>12942</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/12942]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

@@ -24,6 +24,12 @@ This product is only the Joystick Shield PCB - you'll need to purchase the butto
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>7</numComponents>
+	<numOompComponents>0</numOompComponents>
+	<oompCompletion>0</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -76,6 +82,15 @@ This product is only the Joystick Shield PCB - you'll need to purchase the butto
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Joystick Shield - Bare PCB</name>
+		<partID>9824</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/9824]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

@@ -17,6 +17,12 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>2</numComponents>
+	<numOompComponents>1</numOompComponents>
+	<oompCompletion>50</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -34,6 +40,15 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>LilyPad Pixel Board</name>
+		<partID>11891</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/11891]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

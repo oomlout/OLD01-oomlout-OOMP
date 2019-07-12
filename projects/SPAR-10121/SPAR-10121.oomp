@@ -16,6 +16,12 @@ Having a hard time picking an IMU? Our Accelerometer, Gyro, and IMU Buying Guide
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>9</numComponents>
+	<numOompComponents>7</numOompComponents>
+	<oompCompletion>78</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -82,6 +88,15 @@ Having a hard time picking an IMU? Our Accelerometer, Gyro, and IMU Buying Guide
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun 6 Degrees of Freedom IMU Digital Combo Board - ITG3200/ADXL3</name>
+		<partID>10121</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/10121]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

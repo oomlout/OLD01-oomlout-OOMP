@@ -15,6 +15,12 @@
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>7</numComponents>
+	<numOompComponents>2</numOompComponents>
+	<oompCompletion>29</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -67,6 +73,15 @@
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun WiFly GSX Breakout</name>
+		<partID>10050</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/10050]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

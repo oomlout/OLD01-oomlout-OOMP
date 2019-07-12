@@ -17,6 +17,12 @@ The amplifier on the breakout has a gain of 67 and more than meets the bandwidth
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>10</numComponents>
+	<numOompComponents>8</numOompComponents>
+	<oompCompletion>80</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -90,6 +96,15 @@ The amplifier on the breakout has a gain of 67 and more than meets the bandwidth
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun MEMS Microphone Breakout - INMP401 (ADMP401)</name>
+		<partID>9868</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/9868]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

@@ -16,6 +16,12 @@ Dimensions: 1.02 x 0.9" (26.06 x 22.93mm)
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>1</numComponents>
+	<numOompComponents>1</numOompComponents>
+	<oompCompletion>100</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -26,6 +32,15 @@ Dimensions: 1.02 x 0.9" (26.06 x 22.93mm)
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun USB Type A Female Breakout</name>
+		<partID>12700</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/12700]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

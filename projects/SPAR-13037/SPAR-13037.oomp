@@ -19,6 +19,12 @@ Note: This item may take longer to process due to battery installed in the equip
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>11</numComponents>
+	<numOompComponents>7</numOompComponents>
+	<oompCompletion>64</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -99,6 +105,15 @@ Note: This item may take longer to process due to battery installed in the equip
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Block for Intel® Edison - Battery</name>
+		<partID>13037</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/13037]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

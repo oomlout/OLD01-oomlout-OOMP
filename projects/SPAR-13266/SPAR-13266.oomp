@@ -17,6 +17,12 @@ The Thermocouple Breakout is designed to accept a standard thermocouple connecto
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>6</numComponents>
+	<numOompComponents>3</numOompComponents>
+	<oompCompletion>50</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -62,6 +68,15 @@ The Thermocouple Breakout is designed to accept a standard thermocouple connecto
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Thermocouple Breakout - MAX31855K</name>
+		<partID>13266</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/13266]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

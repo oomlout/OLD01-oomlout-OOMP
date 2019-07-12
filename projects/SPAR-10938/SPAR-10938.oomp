@@ -11,7 +11,7 @@ The remote unit can be powered from 3.3V up to 6V for easy battery attachment. A
 Note: This is a single unit only. We recommend the purchase a USB dongle to interface to a computer if you do not already have access to a computer with Bluetooth connectivity.
 Specifications:
 
-FCC Approved Class 2 BluetoothRadio Modem
+FCC Approved Class 2 Bluetooth****Radio Modem
 Extremely small radio - 0.15x0.6x1.9"
 Very robust link both in integrity and transmission distance (18m)
 Hardy frequency hopping scheme - operates in harsh RF environments like WiFi, 802.11g, and Zigbee
@@ -30,6 +30,12 @@ Built-in antenna
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>18</numComponents>
+	<numOompComponents>12</numOompComponents>
+	<oompCompletion>67</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -159,6 +165,15 @@ Built-in antenna
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Bluetooth Modem - BlueSMiRF HID</name>
+		<partID>10938</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/10938]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

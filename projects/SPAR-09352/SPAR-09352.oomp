@@ -18,6 +18,12 @@ Check out this tutorial!
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>11</numComponents>
+	<numOompComponents>6</numOompComponents>
+	<oompCompletion>55</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -98,6 +104,15 @@ Check out this tutorial!
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Graphic LCD Serial Backpack</name>
+		<partID>9352</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/9352]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

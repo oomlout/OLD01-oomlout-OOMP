@@ -19,6 +19,12 @@ Note: A portion of each sale is given back to Josh Datko for continued developme
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>34</numComponents>
+	<numOompComponents>25</numOompComponents>
+	<oompCompletion>74</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -260,6 +266,15 @@ Note: A portion of each sale is given back to Josh Datko for continued developme
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>CryptoCape</name>
+		<partID>12773</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/12773]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

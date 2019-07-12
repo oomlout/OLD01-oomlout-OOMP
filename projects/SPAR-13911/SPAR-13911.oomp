@@ -17,6 +17,12 @@ This driver board was designed to be affordable, compact and have more features 
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>31</numComponents>
+	<numOompComponents>21</numOompComponents>
+	<oompCompletion>68</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -237,6 +243,15 @@ This driver board was designed to be affordable, compact and have more features 
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Serial Controlled Motor Driver</name>
+		<partID>13911</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/13911]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

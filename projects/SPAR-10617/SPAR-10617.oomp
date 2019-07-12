@@ -15,6 +15,12 @@
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>9</numComponents>
+	<numOompComponents>8</numOompComponents>
+	<oompCompletion>89</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -81,6 +87,15 @@
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun LiPo Fuel Gauge</name>
+		<partID>10617</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/10617]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

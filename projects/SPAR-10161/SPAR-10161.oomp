@@ -17,6 +17,12 @@ There is also a 'SYS OUT' with a pre-installed JST connector which allows you to
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>15</numComponents>
+	<numOompComponents>6</numOompComponents>
+	<oompCompletion>40</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -125,6 +131,15 @@ There is also a 'SYS OUT' with a pre-installed JST connector which allows you to
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun USB LiPoly Charger - Single Cell</name>
+		<partID>10161</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/10161]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

@@ -17,6 +17,12 @@ This 4-bit noninverting translator uses two separate configurable power-supply r
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>3</numComponents>
+	<numOompComponents>2</numOompComponents>
+	<oompCompletion>67</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -41,6 +47,15 @@ This 4-bit noninverting translator uses two separate configurable power-supply r
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Voltage-Level Translator Breakout - TXB0104</name>
+		<partID>11771</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/11771]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

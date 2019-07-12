@@ -19,6 +19,12 @@ Note: If you are looking for the SparkFun Triple Axis Accelerometer Breakout wit
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>7</numComponents>
+	<numOompComponents>6</numOompComponents>
+	<oompCompletion>86</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -71,6 +77,15 @@ Note: If you are looking for the SparkFun Triple Axis Accelerometer Breakout wit
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Triple Axis Accelerometer Breakout - MMA8452Q</name>
+		<partID>12756</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/12756]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

@@ -9,7 +9,7 @@
                 Replacement: None. We are no longer carrying this Fabrickit brick in our catalog. This page is for reference only.
 fabrickit is a collection of wearable electronic modules, or “bricks”, that make it easy to construct simple or complex wearable projects. Bricks connect to each other with a flexible, 3-wire conductive fabric ribbon. The fabrickit-bricks-and-ribbon approach streamlines the construction of wearable projects, making them more reliable, attractive and ready-to-wear.
 The fabrickit White LED brick incorporates a white SMD LED and is an easy way to add some light your fabrickit project. Use this in conjunction with other fabrickit products, listed below.
-Note: This product is a collaboration with fabrickit. A portion of each sales goes back to them for product support and continued development.              
+**Note: **This product is a collaboration with fabrickit. A portion of each sales goes back to them for product support and continued development.              
             
                       
               
@@ -18,6 +18,12 @@ Note: This product is a collaboration with fabrickit. A portion of each sales go
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>7</numComponents>
+	<numOompComponents>0</numOompComponents>
+	<oompCompletion>0</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -70,6 +76,15 @@ Note: This product is a collaboration with fabrickit. A portion of each sales go
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>Fabrickit LED Brick - White</name>
+		<partID>10412</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/10412]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

@@ -18,6 +18,12 @@ Note: The pinout on these bar graphs may vary from what is listed on the datashe
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>23</numComponents>
+	<numOompComponents>6</numOompComponents>
+	<oompCompletion>26</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -182,6 +188,15 @@ Note: The pinout on these bar graphs may vary from what is listed on the datashe
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Bar Graph Breakout Kit</name>
+		<partID>10936</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/10936]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

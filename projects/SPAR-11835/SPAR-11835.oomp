@@ -17,6 +17,12 @@ Note: Be sure to check out the Quickstart Guide in the Documents section below f
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>31</numComponents>
+	<numOompComponents>21</numOompComponents>
+	<oompCompletion>68</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -237,6 +243,15 @@ Note: Be sure to check out the Quickstart Guide in the Documents section below f
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Gram Piano Kit</name>
+		<partID>11835</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/11835]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

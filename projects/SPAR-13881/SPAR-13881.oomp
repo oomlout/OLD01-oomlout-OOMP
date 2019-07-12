@@ -17,6 +17,12 @@ Note: This kit does NOT come with a power cable to connect the power supply to y
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>162</numComponents>
+	<numOompComponents>137</numOompComponents>
+	<oompCompletion>85</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -1154,6 +1160,15 @@ Note: This kit does NOT come with a power cable to connect the power supply to y
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Stepoko Motion Control Add-On Kit</name>
+		<partID>13881</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/13881]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

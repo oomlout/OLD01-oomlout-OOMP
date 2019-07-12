@@ -15,6 +15,12 @@
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>2</numComponents>
+	<numOompComponents>0</numOompComponents>
+	<oompCompletion>0</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -32,6 +38,15 @@
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Rotary Encoder Breakout - Illuminated (RG/RGB)</name>
+		<partID>10954</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/10954]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

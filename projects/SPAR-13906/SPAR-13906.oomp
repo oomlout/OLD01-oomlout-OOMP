@@ -18,6 +18,12 @@ One half of the board breaks out the control signals (E, S0-S2) and common input
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>5</numComponents>
+	<numOompComponents>3</numOompComponents>
+	<oompCompletion>60</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -56,6 +62,15 @@ One half of the board breaks out the control signals (E, S0-S2) and common input
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Multiplexer Breakout - 8 Channel (74HC4051)</name>
+		<partID>13906</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/13906]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

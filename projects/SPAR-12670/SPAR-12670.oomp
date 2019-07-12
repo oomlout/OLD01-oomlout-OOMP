@@ -17,6 +17,12 @@ Note:  You will need to use a logic level converter if you are using an Arduino 
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>8</numComponents>
+	<numOompComponents>7</numOompComponents>
+	<oompCompletion>88</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -76,6 +82,15 @@ Note:  You will need to use a logic level converter if you are using an Arduino 
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Triple Axis Magnetometer Breakout - MAG3110</name>
+		<partID>12670</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/12670]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

@@ -17,6 +17,12 @@ Note: While the MOSFET is rated to 60V 30A, the circuit board traces are only ra
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>2</numComponents>
+	<numOompComponents>1</numOompComponents>
+	<oompCompletion>50</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -34,6 +40,15 @@ Note: While the MOSFET is rated to 60V 30A, the circuit board traces are only ra
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun MOSFET Power Control Kit</name>
+		<partID>10256</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/10256]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

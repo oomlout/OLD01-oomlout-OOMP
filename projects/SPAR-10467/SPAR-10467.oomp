@@ -16,6 +16,12 @@ Note: Populate the board according to the polarity of the LED on the switch. The
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>1</numComponents>
+	<numOompComponents>0</numOompComponents>
+	<oompCompletion>0</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -26,6 +32,15 @@ Note: Populate the board according to the polarity of the LED on the switch. The
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>LED Tactile Button Breakout</name>
+		<partID>10467</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/10467]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

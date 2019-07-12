@@ -18,6 +18,12 @@ Each Proto Pedal comes as an easy-to-assemble PTH soldering kit, and it’s up to 
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>10</numComponents>
+	<numOompComponents>5</numOompComponents>
+	<oompCompletion>50</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -91,6 +97,15 @@ Each Proto Pedal comes as an easy-to-assemble PTH soldering kit, and it’s up to 
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Proto Pedal</name>
+		<partID>13124</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/13124]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

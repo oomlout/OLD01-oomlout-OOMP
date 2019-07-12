@@ -17,6 +17,12 @@ Do not attach this device directly to a serial port. You will need an RS232 to T
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>3</numComponents>
+	<numOompComponents>2</numOompComponents>
+	<oompCompletion>67</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -41,6 +47,15 @@ Do not attach this device directly to a serial port. You will need an RS232 to T
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Bluetooth Module Breakout - Roving Networks (RN-41 v6.15)</name>
+		<partID>12579</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/12579]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

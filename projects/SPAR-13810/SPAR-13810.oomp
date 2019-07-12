@@ -21,6 +21,12 @@ Note: The Tsunami was developed in collaboration with Robertsonics. A portion of
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>136</numComponents>
+	<numOompComponents>103</numOompComponents>
+	<oompCompletion>76</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -976,6 +982,15 @@ Note: The Tsunami was developed in collaboration with Robertsonics. A portion of
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>Tsunami Super WAV Trigger</name>
+		<partID>13810</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/13810]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

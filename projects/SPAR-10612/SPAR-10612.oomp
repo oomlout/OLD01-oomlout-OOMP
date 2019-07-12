@@ -16,6 +16,12 @@ Not sure which gyro is right for you? Our Accelerometer and Gyro Buying Guide mi
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>8</numComponents>
+	<numOompComponents>7</numOompComponents>
+	<oompCompletion>88</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -75,6 +81,15 @@ Not sure which gyro is right for you? Our Accelerometer and Gyro Buying Guide mi
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Tri-Axis Gyro Breakout - L3G4200D</name>
+		<partID>10612</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/10612]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

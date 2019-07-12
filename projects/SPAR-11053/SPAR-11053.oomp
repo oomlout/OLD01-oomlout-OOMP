@@ -27,6 +27,12 @@ Included on the Board:
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>33</numComponents>
+	<numOompComponents>19</numOompComponents>
+	<oompCompletion>58</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -261,6 +267,15 @@ Included on the Board:
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>ProtoSnap - Pro Mini Retail</name>
+		<partID>11053</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/11053]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

@@ -15,6 +15,12 @@
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>2</numComponents>
+	<numOompComponents>2</numOompComponents>
+	<oompCompletion>100</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -32,6 +38,15 @@
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun RGB LED Breakout - WS2812B</name>
+		<partID>13282</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/13282]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

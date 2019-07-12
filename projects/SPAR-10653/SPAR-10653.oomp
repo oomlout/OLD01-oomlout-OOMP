@@ -17,6 +17,12 @@ The board breaks out all pins of the ISD1932 to 0.1" spaced headers. This produc
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>19</numComponents>
+	<numOompComponents>14</numOompComponents>
+	<oompCompletion>74</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -153,6 +159,15 @@ The board breaks out all pins of the ISD1932 to 0.1" spaced headers. This produc
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Voice Recorder Breakout - ISD1932</name>
+		<partID>10653</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/10653]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

@@ -17,6 +17,12 @@ The SmartBasic uses the venerable FT232RL chip used on the original FTDI Basic b
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>19</numComponents>
+	<numOompComponents>15</numOompComponents>
+	<oompCompletion>79</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -153,6 +159,15 @@ The SmartBasic uses the venerable FT232RL chip used on the original FTDI Basic b
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun FTDI SmartBasic</name>
+		<partID>12935</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/12935]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

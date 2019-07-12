@@ -19,6 +19,12 @@ Note: Due to the requirements of shipping the batteries in this kit, orders may 
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>3</numComponents>
+	<numOompComponents>1</numOompComponents>
+	<oompCompletion>33</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -43,6 +49,15 @@ Note: Due to the requirements of shipping the batteries in this kit, orders may 
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>Teensy Arduino Shield Adapter</name>
+		<partID>13288</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/13288]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

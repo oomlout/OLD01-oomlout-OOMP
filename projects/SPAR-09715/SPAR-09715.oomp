@@ -20,6 +20,12 @@ Note: This product is a collaboration with Robertsonics. A portion of each sales
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>70</numComponents>
+	<numOompComponents>55</numOompComponents>
+	<oompCompletion>79</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -513,6 +519,15 @@ Note: This product is a collaboration with Robertsonics. A portion of each sales
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>MP3 Trigger</name>
+		<partID>9715</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/9715]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

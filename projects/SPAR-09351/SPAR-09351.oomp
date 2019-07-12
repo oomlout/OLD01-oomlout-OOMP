@@ -17,6 +17,12 @@ Check our serial graphic LCD tutorial!
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>11</numComponents>
+	<numOompComponents>6</numOompComponents>
+	<oompCompletion>55</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -97,6 +103,15 @@ Check our serial graphic LCD tutorial!
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Serial Graphic LCD 128x64</name>
+		<partID>9351</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/9351]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

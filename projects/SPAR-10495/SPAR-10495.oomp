@@ -17,6 +17,12 @@ Note: You will get just the bare PCB. Check below for the coin cell holder that 
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>2</numComponents>
+	<numOompComponents>0</numOompComponents>
+	<oompCompletion>0</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -34,6 +40,15 @@ Note: You will get just the bare PCB. Check below for the coin cell holder that 
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>Coin Cell Battery Holder Breakout - 24.5mm (PTH)</name>
+		<partID>10495</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/10495]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

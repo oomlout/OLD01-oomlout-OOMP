@@ -17,6 +17,12 @@ We've made a minor change to the hardware, the new version has a new voltage reg
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>23</numComponents>
+	<numOompComponents>10</numOompComponents>
+	<oompCompletion>43</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -181,6 +187,15 @@ We've made a minor change to the hardware, the new version has a new voltage reg
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>Mr. Roboto Kit</name>
+		<partID>11257</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/11257]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

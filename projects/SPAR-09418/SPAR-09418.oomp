@@ -17,6 +17,12 @@ The TMP102 is capable of reading temperatures to a resolution of 0.0625°C, and i
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>5</numComponents>
+	<numOompComponents>4</numOompComponents>
+	<oompCompletion>80</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -55,6 +61,15 @@ The TMP102 is capable of reading temperatures to a resolution of 0.0625°C, and i
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Digital Temperature Sensor Breakout - TMP102</name>
+		<partID>9418</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/9418]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

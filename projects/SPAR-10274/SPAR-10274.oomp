@@ -19,6 +19,12 @@ Note: Because of the added battery charging circuitry the Simple is unable to po
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>20</numComponents>
+	<numOompComponents>10</numOompComponents>
+	<oompCompletion>50</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -162,6 +168,15 @@ Note: Because of the added battery charging circuitry the Simple is unable to po
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>LilyPad Arduino Simple Board</name>
+		<partID>10274</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/10274]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

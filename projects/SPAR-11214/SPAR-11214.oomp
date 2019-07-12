@@ -17,6 +17,12 @@ The N-Channel MOSFET used in this design is rated for up to 30V and 6.5A althoug
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>7</numComponents>
+	<numOompComponents>2</numOompComponents>
+	<oompCompletion>29</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -69,6 +75,15 @@ The N-Channel MOSFET used in this design is rated for up to 30V and 6.5A althoug
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun MOSFET Power Controller</name>
+		<partID>11214</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/11214]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

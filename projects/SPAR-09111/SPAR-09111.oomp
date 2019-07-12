@@ -18,6 +18,12 @@ Not sure which XBee module or accessory is right for you? Check out ourXBee Buyi
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>28</numComponents>
+	<numOompComponents>21</numOompComponents>
+	<oompCompletion>75</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -217,6 +223,15 @@ Not sure which XBee module or accessory is right for you? Check out ourXBee Buyi
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun XBee Explorer Serial</name>
+		<partID>9111</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/9111]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

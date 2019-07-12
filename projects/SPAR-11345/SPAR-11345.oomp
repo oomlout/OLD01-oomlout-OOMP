@@ -32,6 +32,12 @@ Arduino bootloader included. Use board type “Arduino Pro or Pro Mini, ATmega328 
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>42</numComponents>
+	<numOompComponents>22</numOompComponents>
+	<oompCompletion>52</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -329,6 +335,15 @@ Arduino bootloader included. Use board type “Arduino Pro or Pro Mini, ATmega328 
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Geiger Counter</name>
+		<partID>11345</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/11345]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

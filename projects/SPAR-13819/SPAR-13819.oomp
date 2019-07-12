@@ -19,6 +19,12 @@ We have also moved the prototype testing components (those used to make sure you
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>15</numComponents>
+	<numOompComponents>6</numOompComponents>
+	<oompCompletion>40</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -127,6 +133,15 @@ We have also moved the prototype testing components (those used to make sure you
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Arduino ProtoShield - Bare PCB</name>
+		<partID>13819</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/13819]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

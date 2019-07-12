@@ -16,6 +16,12 @@ The Particle Photon is a tiny WiFi development kit for creating connected projec
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>24</numComponents>
+	<numOompComponents>0</numOompComponents>
+	<oompCompletion>0</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -187,6 +193,15 @@ The Particle Photon is a tiny WiFi development kit for creating connected projec
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Photon Wearable Shield</name>
+		<partID>13328</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/13328]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

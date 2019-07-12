@@ -16,6 +16,12 @@ The breakout board includes the necessary peripheral components. The input, outp
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>5</numComponents>
+	<numOompComponents>2</numOompComponents>
+	<oompCompletion>40</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -54,6 +60,15 @@ The breakout board includes the necessary peripheral components. The input, outp
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun 3.3V Step-Up Breakout - NCP1402</name>
+		<partID>9216</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/9216]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

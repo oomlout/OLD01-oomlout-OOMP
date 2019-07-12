@@ -17,6 +17,12 @@ Check out the entire RedBot family of products!
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>43</numComponents>
+	<numOompComponents>29</numOompComponents>
+	<oompCompletion>67</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -321,6 +327,15 @@ Check out the entire RedBot family of products!
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun RedBot Mainboard</name>
+		<partID>11954</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/11954]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

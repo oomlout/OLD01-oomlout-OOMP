@@ -18,6 +18,12 @@ The SparkFun ESP32 Thing equips the ESP32 with everything necessary to program, 
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>61</numComponents>
+	<numOompComponents>41</numOompComponents>
+	<oompCompletion>67</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -448,6 +454,15 @@ The SparkFun ESP32 Thing equips the ESP32 with everything necessary to program, 
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun ESP32 Thing</name>
+		<partID>13907</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/13907]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

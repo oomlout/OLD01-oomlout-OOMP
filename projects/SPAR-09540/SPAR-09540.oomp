@@ -16,6 +16,12 @@ All pins of the L298N are broken out to a 15-pin 0.1" pitch header. Two mounting
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>1</numComponents>
+	<numOompComponents>0</numOompComponents>
+	<oompCompletion>0</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -26,6 +32,15 @@ All pins of the L298N are broken out to a 15-pin 0.1" pitch header. Two mounting
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Full-Bridge Motor Driver Breakout - L298N</name>
+		<partID>9540</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/9540]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

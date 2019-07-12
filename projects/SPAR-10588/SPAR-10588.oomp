@@ -7,7 +7,7 @@
 	<oompVersion>99</oompVersion>
 	<oompAbout>
                 Simple breakout board for the 3.5mm audio jack. Use this breakout (shipped bare) to allow breadboard or SIP access to the super-common 3.5mm audio jack. All five pins are broken out.
-Note: You get the bare PCB only, check below for the Audio Jack.              
+****Note: ****You get the bare PCB only, check below for the Audio Jack.              
             
                       
               
@@ -16,6 +16,12 @@ Note: You get the bare PCB only, check below for the Audio Jack.
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>1</numComponents>
+	<numOompComponents>0</numOompComponents>
+	<oompCompletion>0</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -26,6 +32,15 @@ Note: You get the bare PCB only, check below for the Audio Jack.
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Audio Jack Breakout</name>
+		<partID>10588</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/10588]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

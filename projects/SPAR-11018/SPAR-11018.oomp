@@ -27,6 +27,12 @@ GitHub (Library)
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>12</numComponents>
+	<numOompComponents>6</numOompComponents>
+	<oompCompletion>50</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -114,6 +120,15 @@ GitHub (Library)
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun RFM22 Shield - 434MHz</name>
+		<partID>11018</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/11018]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

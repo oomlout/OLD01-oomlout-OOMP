@@ -19,6 +19,12 @@ Note: The FreeSoC2 Develpment Board is a collaboration with Jon Moeller. A porti
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>73</numComponents>
+	<numOompComponents>54</numOompComponents>
+	<oompCompletion>74</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -533,6 +539,15 @@ Note: The FreeSoC2 Develpment Board is a collaboration with Jon Moeller. A porti
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>FreeSoC2 Development Board - PSoC5LP</name>
+		<partID>13229</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/13229]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

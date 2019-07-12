@@ -17,6 +17,12 @@ Having a hard time picking an IMU? Our Accelerometer, Gyro, and IMU Buying Guide
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>7</numComponents>
+	<numOompComponents>6</numOompComponents>
+	<oompCompletion>86</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -69,6 +75,15 @@ Having a hard time picking an IMU? Our Accelerometer, Gyro, and IMU Buying Guide
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Triple Axis Accelerometer and Gyro Breakout - MPU-6050</name>
+		<partID>11028</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/11028]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

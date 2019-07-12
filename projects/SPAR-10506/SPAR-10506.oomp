@@ -21,6 +21,12 @@ Note: Due to the requirements of shipping the battery in this kit, orders may ta
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>86</numComponents>
+	<numOompComponents>54</numOompComponents>
+	<oompCompletion>63</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -626,6 +632,15 @@ Note: Due to the requirements of shipping the battery in this kit, orders may ta
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>LilyPad ProtoSnap Plus Kit</name>
+		<partID>10506</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/10506]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

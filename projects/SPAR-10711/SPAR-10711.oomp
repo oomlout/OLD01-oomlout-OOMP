@@ -19,6 +19,12 @@ Note: There is a known hardware bug that will allow the LiPo to discharge below 
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>30</numComponents>
+	<numOompComponents>22</numOompComponents>
+	<oompCompletion>73</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -232,6 +238,15 @@ Note: There is a known hardware bug that will allow the LiPo to discharge below 
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun LiPower Shield</name>
+		<partID>10711</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/10711]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

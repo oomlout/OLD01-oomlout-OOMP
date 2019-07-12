@@ -17,6 +17,12 @@ The serial command interface used to control the motors is very straightforward.
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>31</numComponents>
+	<numOompComponents>21</numOompComponents>
+	<oompCompletion>68</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -237,6 +243,15 @@ The serial command interface used to control the motors is very straightforward.
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Serial Controlled Motor Driver</name>
+		<partID>9571</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/9571]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

@@ -16,6 +16,12 @@ This shield, once assembled, gives your Arduino a 28-pin ZIF (Zero Insertion For
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>17</numComponents>
+	<numOompComponents>6</numOompComponents>
+	<oompCompletion>35</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -138,6 +144,15 @@ This shield, once assembled, gives your Arduino a 28-pin ZIF (Zero Insertion For
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun AVR ISP Shield - PTH Kit</name>
+		<partID>11168</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/11168]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

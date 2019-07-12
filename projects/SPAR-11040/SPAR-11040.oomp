@@ -17,6 +17,12 @@ Note: This is the breakout board only, you will need to populate your own rotary
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>26</numComponents>
+	<numOompComponents>22</numOompComponents>
+	<oompCompletion>85</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -202,6 +208,15 @@ Note: This is the breakout board only, you will need to populate your own rotary
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun LED RingCoder Breakout - RGB</name>
+		<partID>11040</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/11040]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

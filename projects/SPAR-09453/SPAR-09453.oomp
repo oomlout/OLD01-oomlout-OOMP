@@ -19,6 +19,12 @@ We also have a digital version of this board.
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>4</numComponents>
+	<numOompComponents>2</numOompComponents>
+	<oompCompletion>50</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -50,6 +56,15 @@ We also have a digital version of this board.
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Line Sensor Breakout - QRE1113 (Analog)</name>
+		<partID>9453</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/9453]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

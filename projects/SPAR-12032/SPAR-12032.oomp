@@ -18,6 +18,12 @@ Note: The Experiment Guide in the Documents section below includes full example 
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>43</numComponents>
+	<numOompComponents>29</numOompComponents>
+	<oompCompletion>67</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -322,6 +328,15 @@ Note: The Experiment Guide in the Documents section below includes full example 
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Inventor's Kit for RedBot</name>
+		<partID>12032</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/12032]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

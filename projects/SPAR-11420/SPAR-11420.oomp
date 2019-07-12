@@ -17,6 +17,12 @@ The MiniGen offers two out put sources for you to utilize: a 2-pin 0.1" spaced h
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>25</numComponents>
+	<numOompComponents>18</numOompComponents>
+	<oompCompletion>72</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -195,6 +201,15 @@ The MiniGen offers two out put sources for you to utilize: a 2-pin 0.1" spaced h
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun MiniGen - Pro Mini Signal Generator Shield</name>
+		<partID>11420</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/11420]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

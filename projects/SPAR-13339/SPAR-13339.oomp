@@ -17,6 +17,12 @@ Each pin has been broken out on the LSM6DS3, with one side of the board featurin
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>7</numComponents>
+	<numOompComponents>5</numOompComponents>
+	<oompCompletion>71</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -69,6 +75,15 @@ Each pin has been broken out on the LSM6DS3, with one side of the board featurin
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun 6 Degrees of Freedom Breakout - LSM6DS3</name>
+		<partID>13339</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/13339]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

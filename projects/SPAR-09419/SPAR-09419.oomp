@@ -16,6 +16,12 @@ All necessary pins are broken out to an 8-pin 0.1" pitch header.
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>2</numComponents>
+	<numOompComponents>0</numOompComponents>
+	<oompCompletion>0</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -33,6 +39,15 @@ All necessary pins are broken out to an 8-pin 0.1" pitch header.
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun microSD Sniffer</name>
+		<partID>9419</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/9419]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

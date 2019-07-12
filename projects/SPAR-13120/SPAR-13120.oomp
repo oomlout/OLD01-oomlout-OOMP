@@ -19,6 +19,12 @@ Note: The SparkFun Cellular Shield requires a passive GPS antenna with a short l
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>32</numComponents>
+	<numOompComponents>27</numOompComponents>
+	<oompCompletion>84</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -246,6 +252,15 @@ Note: The SparkFun Cellular Shield requires a passive GPS antenna with a short l
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Cellular Shield - MG2639</name>
+		<partID>13120</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/13120]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

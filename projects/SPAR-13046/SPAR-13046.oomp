@@ -18,6 +18,12 @@ If you are looking to add a little more stability to your Intel® Edison stack, c
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>15</numComponents>
+	<numOompComponents>9</numOompComponents>
+	<oompCompletion>60</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -126,6 +132,15 @@ If you are looking to add a little more stability to your Intel® Edison stack, c
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Block for Intel® Edison - ADC</name>
+		<partID>13046</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/13046]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

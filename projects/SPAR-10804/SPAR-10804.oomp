@@ -18,6 +18,12 @@ Note: Headers are not supplied. You will need to supply your own headers to conn
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>14</numComponents>
+	<numOompComponents>7</numOompComponents>
+	<oompCompletion>50</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -119,6 +125,15 @@ Note: Headers are not supplied. You will need to supply your own headers to conn
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Breadboard Power Supply Stick - 5V/3.3V</name>
+		<partID>10804</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/10804]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

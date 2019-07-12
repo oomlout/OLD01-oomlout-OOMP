@@ -39,6 +39,12 @@ Project 14: Status Emails
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>60</numComponents>
+	<numOompComponents>43</numOompComponents>
+	<oompCompletion>72</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -462,6 +468,15 @@ Project 14: Status Emails
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun IoT Starter Kit with Blynk Board</name>
+		<partID>13865</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/13865]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

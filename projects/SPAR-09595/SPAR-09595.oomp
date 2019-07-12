@@ -18,6 +18,12 @@ Note: The MIDI Shield does not come with all parts soldered on. Two MIDI connect
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>21</numComponents>
+	<numOompComponents>9</numOompComponents>
+	<oompCompletion>43</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -168,6 +174,15 @@ Note: The MIDI Shield does not come with all parts soldered on. Two MIDI connect
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun MIDI Shield</name>
+		<partID>9595</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/9595]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

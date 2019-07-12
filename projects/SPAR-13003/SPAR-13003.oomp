@@ -18,6 +18,12 @@ In total, the Micro OLED Breakout provides access to 16 of the OLED’s pins. Fort
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>9</numComponents>
+	<numOompComponents>8</numOompComponents>
+	<oompCompletion>89</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -84,6 +90,15 @@ In total, the Micro OLED Breakout provides access to 16 of the OLED’s pins. Fort
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Micro OLED Breakout</name>
+		<partID>13003</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/13003]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

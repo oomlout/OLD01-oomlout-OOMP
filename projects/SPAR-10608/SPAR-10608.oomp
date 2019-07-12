@@ -15,6 +15,12 @@
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>45</numComponents>
+	<numOompComponents>41</numOompComponents>
+	<oompCompletion>91</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -333,6 +339,15 @@
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun MP3 Breakout - VS1033D</name>
+		<partID>10608</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/10608]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

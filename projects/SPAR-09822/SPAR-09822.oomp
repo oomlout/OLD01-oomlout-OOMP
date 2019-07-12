@@ -17,6 +17,12 @@ This breakout board includes the SP3485, FT232, TX/RX/RTS LEDs, Mini-B USB conne
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>15</numComponents>
+	<numOompComponents>8</numOompComponents>
+	<oompCompletion>53</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -125,6 +131,15 @@ This breakout board includes the SP3485, FT232, TX/RX/RTS LEDs, Mini-B USB conne
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun USB to RS-485 Converter</name>
+		<partID>9822</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/9822]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

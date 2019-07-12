@@ -16,6 +16,12 @@ Vernier Software and Technology has been a leader in data collection and analysi
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>27</numComponents>
+	<numOompComponents>22</numOompComponents>
+	<oompCompletion>81</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -208,6 +214,15 @@ Vernier Software and Technology has been a leader in data collection and analysi
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Vernier Interface Shield</name>
+		<partID>12858</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/12858]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

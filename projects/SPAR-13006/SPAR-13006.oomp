@@ -17,6 +17,12 @@ Note: The rotary switches included with the Decade Resistance Box can be very di
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>50</numComponents>
+	<numOompComponents>45</numOompComponents>
+	<oompCompletion>90</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -370,6 +376,15 @@ Note: The rotary switches included with the Decade Resistance Box can be very di
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Decade Resistance Box</name>
+		<partID>13006</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/13006]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

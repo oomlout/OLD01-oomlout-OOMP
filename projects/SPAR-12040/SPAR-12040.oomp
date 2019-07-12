@@ -16,6 +16,12 @@ Input common-mode and power supply voltages are independent and can range from 2
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>6</numComponents>
+	<numOompComponents>3</numOompComponents>
+	<oompCompletion>50</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -61,6 +67,15 @@ Input common-mode and power supply voltages are independent and can range from 2
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Current Sensor Breakout - INA169</name>
+		<partID>12040</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/12040]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

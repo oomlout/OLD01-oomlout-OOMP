@@ -17,6 +17,12 @@ Note: The shield does not come with headers installed; we recommend the Arduino 
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>18</numComponents>
+	<numOompComponents>11</numOompComponents>
+	<oompCompletion>61</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -146,6 +152,15 @@ Note: The shield does not come with headers installed; we recommend the Arduino 
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun GPS Logger Shield</name>
+		<partID>10102</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/10102]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

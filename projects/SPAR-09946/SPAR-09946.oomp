@@ -17,6 +17,12 @@ Four output voltages (1.8V, 2.5V, 3.3V and 3.6V) are pin selectable with up to 1
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>5</numComponents>
+	<numOompComponents>3</numOompComponents>
+	<oompCompletion>60</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -55,6 +61,15 @@ Four output voltages (1.8V, 2.5V, 3.3V and 3.6V) are pin selectable with up to 1
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Energy Harvester Breakout - LTC3588</name>
+		<partID>9946</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/9946]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

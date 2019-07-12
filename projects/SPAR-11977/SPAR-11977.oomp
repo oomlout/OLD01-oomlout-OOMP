@@ -20,6 +20,12 @@ Replaces:SEN-9801
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>8</numComponents>
+	<numOompComponents>5</numOompComponents>
+	<oompCompletion>63</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -79,6 +85,15 @@ Replaces:SEN-9801
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Triple-Axis Digital-Output Gyro Breakout - ITG-3200</name>
+		<partID>11977</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/11977]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

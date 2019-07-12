@@ -17,6 +17,12 @@ Along with allowing you to use classic SPI/I2C based shields like the RF22 Shiel
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>1</numComponents>
+	<numOompComponents>0</numOompComponents>
+	<oompCompletion>0</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -27,6 +33,15 @@ Along with allowing you to use classic SPI/I2C based shields like the RF22 Shiel
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun TransmogriShield</name>
+		<partID>11469</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/11469]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

@@ -18,6 +18,12 @@ Note: Check the Hookup Guide below for assembly and weatherproofing instructions
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>3</numComponents>
+	<numOompComponents>2</numOompComponents>
+	<oompCompletion>67</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -42,6 +48,15 @@ Note: Check the Hookup Guide below for assembly and weatherproofing instructions
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Soil Moisture Sensor</name>
+		<partID>13322</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/13322]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

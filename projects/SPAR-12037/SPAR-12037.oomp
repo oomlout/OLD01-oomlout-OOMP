@@ -16,6 +16,12 @@ Each Binary Blaster comes as an easy to assemble PTH soldering kit, and it’s up 
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>12</numComponents>
+	<numOompComponents>3</numOompComponents>
+	<oompCompletion>25</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -103,6 +109,15 @@ Each Binary Blaster comes as an easy to assemble PTH soldering kit, and it’s up 
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Binary Blaster Kit</name>
+		<partID>12037</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/12037]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

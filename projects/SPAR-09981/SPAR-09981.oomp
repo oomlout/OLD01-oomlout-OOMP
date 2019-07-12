@@ -18,6 +18,12 @@ Replaces:BOB-09745. The reason for the replacement is the 12.288MHz crystal on B
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>10</numComponents>
+	<numOompComponents>7</numOompComponents>
+	<oompCompletion>70</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -91,6 +97,15 @@ Replaces:BOB-09745. The reason for the replacement is the 12.288MHz crystal on B
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun I2C/SPI-to-UART Breakout - SC16IS750</name>
+		<partID>9981</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/9981]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

@@ -19,6 +19,12 @@ Note: There are three additional circuit experiments included in the DS Guide th
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>69</numComponents>
+	<numOompComponents>50</numOompComponents>
+	<oompCompletion>72</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -505,6 +511,15 @@ Note: There are three additional circuit experiments included in the DS Guide th
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Digital Sandbox</name>
+		<partID>12651</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/12651]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

@@ -17,6 +17,12 @@ Note: A MicroView OLED Arduino Module is NOT included with this USB Programmer. 
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>21</numComponents>
+	<numOompComponents>17</numOompComponents>
+	<oompCompletion>81</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -167,6 +173,15 @@ Note: A MicroView OLED Arduino Module is NOT included with this USB Programmer. 
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun MicroView - USB Programmer</name>
+		<partID>12924</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/12924]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

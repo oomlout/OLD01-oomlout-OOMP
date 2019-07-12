@@ -19,6 +19,12 @@ Note: We've broken out the pins for the Venus638FLPx's second serial port (RX1,T
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>16</numComponents>
+	<numOompComponents>10</numOompComponents>
+	<oompCompletion>63</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -134,6 +140,15 @@ Note: We've broken out the pins for the Venus638FLPx's second serial port (RX1,T
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Venus GPS with SMA Connector</name>
+		<partID>11058</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/11058]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

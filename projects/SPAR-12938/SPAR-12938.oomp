@@ -17,6 +17,12 @@ Keep in mind, by plugging headphones into the 3.5mm audio jack, you effectively 
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>30</numComponents>
+	<numOompComponents>23</numOompComponents>
+	<oompCompletion>77</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -230,6 +236,15 @@ Keep in mind, by plugging headphones into the 3.5mm audio jack, you effectively 
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun FM Tuner Evaluation Board - Si4703</name>
+		<partID>12938</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/12938]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

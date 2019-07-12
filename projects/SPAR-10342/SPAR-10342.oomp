@@ -18,6 +18,12 @@ This board seems to get decent reception compared to other stereos around the of
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>17</numComponents>
+	<numOompComponents>8</numOompComponents>
+	<oompCompletion>47</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -140,6 +146,15 @@ This board seems to get decent reception compared to other stereos around the of
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SI4735 AM &amp; FM Receiver Shield</name>
+		<partID>10342</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/10342]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

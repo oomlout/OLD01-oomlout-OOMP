@@ -18,6 +18,12 @@ This breadboard friendly board breaks out every necessary pin of the AD5330 to 0
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>3</numComponents>
+	<numOompComponents>2</numOompComponents>
+	<oompCompletion>67</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -42,6 +48,15 @@ This breadboard friendly board breaks out every necessary pin of the AD5330 to 0
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Parallel DAC Breakout - AD5330 (8-Bit)</name>
+		<partID>12082</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/12082]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

@@ -19,6 +19,12 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>12</numComponents>
+	<numOompComponents>9</numOompComponents>
+	<oompCompletion>75</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -106,6 +112,15 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>LilyPad XBee</name>
+		<partID>12921</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/12921]]></link>
+	</manufacturer>
+</sourceList>
 
 
 

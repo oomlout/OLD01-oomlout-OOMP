@@ -16,6 +16,12 @@ The sensor outputs both temperature and pressure readings on the SPI bus. See pa
 	<company>Sparkfun</company>
 	<companyCode>C-SPAR</companyCode>
 	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>3</numComponents>
+	<numOompComponents>2</numOompComponents>
+	<oompCompletion>67</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -40,6 +46,15 @@ The sensor outputs both temperature and pressure readings on the SPI bus. See pa
 		<compDesc></compDesc>
 	</component>
 </componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Barometric Pressure Sensor Breakout - MPL115A1</name>
+		<partID>9721</partID>
+		<link>![CDATA[https://www.sparkfun.com/products/9721]]></link>
+	</manufacturer>
+</sourceList>
 
 
 
