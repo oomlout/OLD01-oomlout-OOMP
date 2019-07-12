@@ -12,12 +12,12 @@ This unit ships with an RN-42 class 2 bluetooth module, a very easy-to-use and w
 The Bluetooth Mate has on-board voltage regulators, so it can be powered from any 3.3 to 6VDC power supply. We've got level shifting all set up so the RX and TX pins on the remote unit are 3-6VDC tolerant. Do not attach this device directly to a serial port. You will need an RS232 to TTL converter circuit if you need to attach this to a computer.
 Unit comes without a connector; if you want to connect it to an Arduino Pro, we'd suggest the 6-pin right-angle female header.
 Note: If you are looking for the ability to use the FTDI directly with your Bluetooth Mate check out our Crossover Breakout for FTDI!
-**Note: **The hardware reset pin of the RN-42 module is broken out on the bottom side of the board. This pin is mislabeled as 'PIO6', it is actually PIO4. Should you need to reset the Mate, pull this pin high upon power-up, and then toggle it 3 times.
-Features****:
+Note: The hardware reset pin of the RN-42 module is broken out on the bottom side of the board. This pin is mislabeled as 'PIO6', it is actually PIO4. Should you need to reset the Mate, pull this pin high upon power-up, and then toggle it 3 times.
+Features:
 
 v6.15 Firmware
 Designed to work directly with Arduino Pro's and LilyPad main boards
-FCC Approved Class 2 Bluetooth****Radio Modem
+FCC Approved Class 2 BluetoothRadio Modem
 Very robust link both in integrity and transmission distance (100m) - no more buffer overruns!
 Low power consumption : 25mA avg
 Hardy frequency hopping scheme - operates in harsh RF environments like WiFi, 802.11g, and Zigbee

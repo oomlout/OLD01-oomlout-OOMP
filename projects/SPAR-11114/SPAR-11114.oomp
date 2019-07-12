@@ -10,7 +10,7 @@
 We really wanted to minimize the cost of an Arduino. In order to accomplish this we used all SMD components, made it two layer, etc. This board connects directly to the FTDI Basic Breakout board and supports auto-reset. The Arduino Pro Mini also works with the FTDI cable but the FTDI cable does not bring out the DTR pin so the auto-reset feature will not work. There is a voltage regulator on board so it can accept voltage up to 12VDC. If you're supplying unregulated power to the board, be sure to connect to the "RAW" pin on not VCC.
 The latest and greatest version of this board breaks out the ADC6 and ADC7 pins as well as adds footprints for optional I2C pull-up resistors! We also took the opportunity to slap it with the OSHW logo.
 Can't decide which Arduino is right for you? Arduino buying guide!
-**Note: **A portion of this sale is given back to Arduino LLC to help fund continued development of new tools and new IDE features.              
+Note: A portion of this sale is given back to Arduino LLC to help fund continued development of new tools and new IDE features.              
             
                       
               

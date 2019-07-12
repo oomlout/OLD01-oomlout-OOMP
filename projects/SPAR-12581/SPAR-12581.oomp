@@ -6,7 +6,7 @@
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
 	<oompAbout>
-                A cable-less solution developed for controlling your Roomba. The SparkFun RooTooth v2 communicates with any Bluetooth**® **enabled device using the Serial Port Profile (SPP). You can now tell the Roomba when to wake up, when to clean, and when to shut off. You can even remotely drive your Roomba from your computer or from the WiTilt!
+                A cable-less solution developed for controlling your Roomba. The SparkFun RooTooth v2 communicates with any Bluetooth® enabled device using the Serial Port Profile (SPP). You can now tell the Roomba when to wake up, when to clean, and when to shut off. You can even remotely drive your Roomba from your computer or from the WiTilt!
 This product requires that the SCI (serial command interface) has been installed on your Roomba. SCI has been installed on all Roombas manufactured after October 24th, 2005. Please verify that your Roomba is compatible by checking here.
 The new RooTooths are based on the Roving Network bluetooth module. The command set has changed from the original user guide written by Roomba Dev Tools. The new datasheet is below. The Rootooths are configured to 57600bps to work at the Roomba's default communication rate.
 Replaces:DEV-10980              

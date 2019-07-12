@@ -8,7 +8,7 @@
 	<oompAbout>
                 The ATtiny45 and 85 are a couple of really cool little MCUs but did you know you can program them in Arduino? That's right, now you can shrink your Arduino projects down to "tiny size" by moving your code straight over to these small but capable ICs. The standard method for programming the ATtiny ICs involves a breadboard, lots of jumper wires and a hardware programmer, but David Mellis over at MIT Media Lab has simplified the process by laying out this handy USB programmer.
 The Tiny AVR Programmer plugs directly into your USB port and provides a programming socket for the ATTiny45 and 85. Just slot an ATtiny with a DIP footprint into the socket, plug the programmer into your USB port and start up the Arduino IDE. After installing the proper board definitions, you simply program it the same way you would any other Arduino board. The programmer even breaks out the IC pins to female headers so you can easily prototype around the ATtiny without pulling and plugging it over and over. There are two ISP headers that have also been broken out so you can use the programmer or solder in a 6-pin header for other AVR microcontrollers!
-**Note: **You'll need to install the USBTinyISP drivers if you don't have them yet, you can find them in the documents tab!              
+Note: You'll need to install the USBTinyISP drivers if you don't have them yet, you can find them in the documents tab!              
             
                       
               
