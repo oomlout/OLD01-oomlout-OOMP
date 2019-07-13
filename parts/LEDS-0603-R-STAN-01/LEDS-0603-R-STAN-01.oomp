@@ -1,4 +1,4 @@
-﻿<xml>
+<xml>
 	<oompPart>
 		<index>4181</index>
 		<oompID>LEDS-0603-R-STAN-01</oompID>
@@ -58,5 +58,7 @@
 			<drawItem>template;XXXX-0603-X-XXXX-XX-simp</drawItem>
 		</oompSimp>
 		<ooDesignator>D1</ooDesignator>
-	</oompPart>
+		<oompStatCount>2</oompStatCount>
+	<oompStatPercent>4.0</oompStatPercent>
+</oompPart>
 </xml>

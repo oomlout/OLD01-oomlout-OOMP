@@ -122,6 +122,23 @@
 	<!-- Part Details -->
 	<!-- Dimensions -->
 	<oompTag>
+		<tagName>oompStatCount</tagName>
+		<tagReadable>OOMP Occurence Count</tagReadable>
+		<tagLabel>oompstatcount</tagLabel>
+		<tagType>OOMP</tagType>
+		<tagDescription>The number of times the part occurs in OOMP projects</tagDescription>
+		<tagSort>110</tagSort>
+	</oompTag>
+	<oompTag>
+		<tagName>oompStatPercent</tagName>
+		<tagReadable>OOMP Occurence Percent</tagReadable>
+		<tagLabel>oompstatpercent</tagLabel>
+		<tagType>OOMP</tagType>
+		<tagDescription>The percent the part occurs in OOMP projects</tagDescription>
+		<tagSort>110</tagSort>
+	</oompTag>
+	
+	<oompTag>
 		<tagName>ooPitch</tagName>
 		<tagReadable>Pitch</tagReadable>
 		<tagLabel>pitch</tagLabel>

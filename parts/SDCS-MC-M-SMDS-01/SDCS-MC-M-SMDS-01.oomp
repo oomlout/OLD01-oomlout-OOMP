@@ -1,4 +1,4 @@
-﻿<xml>
+<xml>
 	<oompPart>
 		<index>4284</index>
 		<oompID>SDCS-MC-M-SMDS-01</oompID>
@@ -40,5 +40,7 @@
 		<oompClass>Surface Mount</oompClass>
 		<oompClassCode>SMDS</oompClassCode>
 		<ooDesignator>J1</ooDesignator>
-	</oompPart>
+		<oompStatCount>0</oompStatCount>
+	<oompStatPercent>0.0</oompStatPercent>
+</oompPart>
 </xml>

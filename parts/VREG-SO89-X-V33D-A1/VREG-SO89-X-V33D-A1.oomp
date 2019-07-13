@@ -1,4 +1,4 @@
-﻿<xml>
+<xml>
 	<oompPart>
 		<index>4328</index>
 		<oompID>VREG-SO89-X-V33D-A1</oompID>
@@ -40,5 +40,7 @@
 		<oompClass>Surface Mount</oompClass>
 		<oompClassCode>SMDS</oompClassCode>
 		<ooDesignator>U1</ooDesignator>
-	</oompPart>
+		<oompStatCount>0</oompStatCount>
+	<oompStatPercent>0.0</oompStatPercent>
+</oompPart>
 </xml>

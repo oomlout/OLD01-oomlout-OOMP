@@ -1,4 +1,4 @@
-﻿<xml>
+<xml>
 	<oompPart>
 		<index>4321</index>
 		<oompID>ICIC-DI28-X-K328-01</oompID>
@@ -144,5 +144,7 @@
 		</oompDiag>
 		<ooPackageMarking>ATMEGA328</ooPackageMarking>
 		<ooDesignator>U1</ooDesignator>
-	</oompPart>
+		<oompStatCount>0</oompStatCount>
+	<oompStatPercent>0.0</oompStatPercent>
+</oompPart>
 </xml>

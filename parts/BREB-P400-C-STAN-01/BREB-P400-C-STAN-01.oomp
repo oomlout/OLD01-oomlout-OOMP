@@ -1,4 +1,4 @@
-﻿<xml>
+<xml>
 	<oompPart>
 		<index>4128</index>
 			<oompID>BREB-P400-C-STAN-01</oompID>
@@ -111,5 +111,7 @@
 			<oompBbls>
 				<drawItem>template;BREB-P400-C-STAN-01-bbls</drawItem>
 			</oompBbls>
-		</oompPart>
+			<oompStatCount>0</oompStatCount>
+	<oompStatPercent>0.0</oompStatPercent>
+</oompPart>
 </xml>		
