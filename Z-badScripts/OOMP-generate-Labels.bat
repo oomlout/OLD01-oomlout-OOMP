@@ -16,21 +16,21 @@ REM
 set extra=label-inventory
 
  python %TPGEdirectory%TPGEmain.py -rm A -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp -tm %OOMPdirectory%template/OOMP-%extra%.tmpl.svg -of %OOBBpartsDirectory%%%%%ID%%%%\%%%%ID%%%%-%extra%.svg
- python %INKSdirectory%INKSmain.py -id C:\Program Files\Inkscape\inkscape.exe -bd %OOMPDirectory% -fi %extra%
+ python %INKSdirectory%INKSmain.py -id inkscape.exe" -bd %OOMPDirectory% -fi %extra%
 
 set extra=label-front
 
  python %TPGEdirectory%TPGEmain.py -rm A -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp -tm %OOMPdirectory%template/OOMP-%extra%.tmpl.svg -of %OOBBpartsDirectory%%%%%ID%%%%\%%%%ID%%%%-%extra%.svg
- python %INKSdirectory%INKSmain.py -id C:\Program Files\Inkscape\inkscape.exe -bd %OOMPDirectory% -fi %extra%
+ python %INKSdirectory%INKSmain.py -id inkscape.exe" -bd %OOMPDirectory% -fi %extra%
 
 
 set extra=label-spec
 
  python %TPGEdirectory%TPGEmain.py -rm A -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp -tm %OOMPdirectory%template/OOMP-%extra%.tmpl.svg -of %OOBBpartsDirectory%%%%%ID%%%%\%%%%ID%%%%-%extra%.svg
- python %INKSdirectory%INKSmain.py -id C:\Program Files\Inkscape\inkscape.exe -bd %OOMPDirectory% -fi %extra%
+ python %INKSdirectory%INKSmain.py -id inkscape.exe" -bd %OOMPDirectory% -fi %extra%
 
 
 set extra=label-smdBox
 
  python %TPGEdirectory%TPGEmain.py -rm A -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp -tm %OOMPdirectory%template/OOMP-%extra%.tmpl.svg -of %OOBBpartsDirectory%%%%%ID%%%%\%%%%ID%%%%-%extra%.svg
- python %INKSdirectory%INKSmain.py -id C:\Program Files\Inkscape\inkscape.exe -bd %OOMPDirectory% -fi %extra%
+ python %INKSdirectory%INKSmain.py -id inkscape.exe" -bd %OOMPDirectory% -fi %extra%
