@@ -1,0 +1,463 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-13865</oompID>
+	<name>SparkFun IoT Starter Kit with Blynk Board</name>
+	<hexID>SPAR13865</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                Blynk is an easy to use app builder that allows users to add a variety of buttons, sliders, graphical displays and even RGB controllers to their phone. The SparkFun Blynk Board is specially designed to work with the ‘widgets’ within the Blynk mobile app to create your next IoT project. Monitor local weather conditions, control LEDs from your phone, even send a tweet when it’s time to water your plants!
+The SparkFun IoT Starter Kit with Blynk Board is a great way to gain a solid introduction to the world of Internet of Things (IoT) technology without any difficult programming. With this kit you will be able to get your Blynk Board connected and, by utilizing the pre-loaded projects, use diverse set of components to build an array of web- and phone-connected projects.
+Every Blynk Board comes fully programmed and also includes a Blynk subscription code card (15k Energy at a $10 value), which will be needed to connect the Blynk Board to your Blynk account. Simply connect to a Wi-Fi signal and you are ready to use this starter kit! Getting started with your Blynk Board and getting it connected to the Blynk App on your iOS or Android device is a breeze. Once you’ve played with the ZeRGBa (a festively colored zebra 'widget' that can change the color of the on-board RGB LED) checkout our step-by-step project guide with detailed images on how to add and control the large selection of widgets within Blynk.
+The kit does not require any soldering and is recommended for anyone with a drive to learn more about Blynk and its uses. So if you are looking for a new challenge or a way to get in on the IoT craze, check out the SparkFun IoT Starter Kit with Blynk Board!
+Note: The Blynk app is compatible with iDevices running iOS 7.0+, and Android’s running any version above or equal to 4.0.
+Note: Customers who initially order this Starter Kit may receive a white USB wall wart instead of the one listed below and seen in the image above. The included wall wart will be capable of 5V and 1A regardless of what it looks like.
+ Get Started with the Blynk Board Project Guide 
+ Blynk iOS Download Blynk Android Download 
+Project Examples:
+
+Project 1: Blynk Button, Physical LED
+Project 2: Physical Button, Blynk LED
+Project 3: Slide-Dimming LEDs
+Project 4: Temperature and Humidity Values
+Project 5: Gauging the Analog-to-Digital Converter
+Project 6: Automating With the Timer
+Project 7: The LCD's Wealth of Information
+Project 8: Joystick Joyride
+Project 9: Graphing Voltage
+Project 10: Charting Lighting History
+Project 11: Terminal Chat
+Project 12: BotaniTweeting
+Project 13: Push Door, Push Phone
+Project 14: Status Emails
+              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/13865</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>57</numComponents>
+	<numOompComponents>43</numOompComponents>
+	<oompCompletion>75</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-UF10-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-PF10-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0603-X-PF10-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-0603-X-UF47D-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C7</compIden>
+		<compID>CAPC-0805-X-UF1-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>C8</compIden>
+		<compID>CAPC-0603-X-PF56D-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>C9</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>C10</compIden>
+		<compID>CAPC-0603-X-UF22D-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>C11</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>C12</compIden>
+		<compID>CAPC-0603-X-PF47-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>C13</compIden>
+		<compID>CAPC-0603-X-PF47-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>C14</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>C15</compIden>
+		<compID>CAPC-0603-X-UF47D-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>C16</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>C17</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>C18</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>C19</compIden>
+		<compID>CAPC-0603-X-UF47D-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>D1</compIden>
+		<compID>LEDS-0603-Y-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>D2</compIden>
+		<compID>NOT OOMP  eagleValue: BAT20J  eagleDevice: DIODE-SCHOTTKY-BAT20J  eaglePackage: SOD-323</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>D3</compIden>
+		<compID>LEDS-0603-L-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>D4</compIden>
+		<compID>LEDS-5050-X-K2812-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>D5</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>E1</compIden>
+		<compID>NOT OOMP  eagleValue: ANTENNATRACE  eagleDevice: ANTENNATRACE  eaglePackage: TRACE_ANTENNA_2.4GHZ_25.7MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>F1</compIden>
+		<compID>NOT OOMP  eagleValue: 500mA  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>IC1</compIden>
+		<compID>NOT OOMP  eagleValue: LMV358  eagleDevice: OPAMP-DUALU  eaglePackage: SO08</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  eagleValue: 2.5A/30V  eagleDevice: MOSFET-PCHANNELDMG2307L  eaglePackage: SOT23-3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>29</compIndex>
+		<compIden>Q2</compIden>
+		<compID>NOT OOMP  eagleValue: MMBT2222A  eagleDevice: TRANSISTOR_NPNMMBT2222A  eaglePackage: SOT23-3at1REPLACE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>30</compIndex>
+		<compIden>Q3</compIden>
+		<compID>NOT OOMP  eagleValue: MMBT2222A  eagleDevice: TRANSISTOR_NPNMMBT2222A  eaglePackage: SOT23-3at1REPLACE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>31</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O123-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>32</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>33</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O223-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>34</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>35</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O202-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>36</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>37</compIndex>
+		<compIden>R8</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>38</compIndex>
+		<compIden>R9</compIden>
+		<compID>RESE-0603-X-O201-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>39</compIndex>
+		<compIden>R10</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>40</compIndex>
+		<compIden>R11</compIden>
+		<compID>RESE-0603-X-O331-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>41</compIndex>
+		<compIden>R12</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>42</compIndex>
+		<compIden>R13</compIden>
+		<compID>RESE-0603-X-O270-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>43</compIndex>
+		<compIden>R14</compIden>
+		<compID>RESE-0603-X-O270-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>44</compIndex>
+		<compIden>R15</compIden>
+		<compID>RESE-0603-X-O472-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>45</compIndex>
+		<compIden>R16</compIden>
+		<compID>RESE-0603-X-O472-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>46</compIndex>
+		<compIden>R17</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>47</compIndex>
+		<compIden>R18</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>48</compIndex>
+		<compIden>R19</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>49</compIndex>
+		<compIden>R20</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>50</compIndex>
+		<compIden>S1</compIden>
+		<compID>BUTA-52D-X-SMDS-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>51</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: MCP73831  eagleDevice: MCP73831  eaglePackage: SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>52</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: ESP8266  eagleDevice: ESP8266  eaglePackage: QFN32</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>53</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  eagleValue: AP2112K-3.3V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>54</compIndex>
+		<compIden>U4</compIden>
+		<compID>NOT OOMP  eagleValue: FT231XS-U  eagleDevice: FT231XS  eaglePackage: SSOP20_L</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>55</compIndex>
+		<compIden>U5</compIden>
+		<compID>NOT OOMP  eagleValue: W25Q32FVSS  eagleDevice: W25Q32FVSS  eaglePackage: SOIC-8</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>56</compIndex>
+		<compIden>U6</compIden>
+		<compID>NOT OOMP  eagleValue: SI7021  eagleDevice: SI7021  eaglePackage: SI7021</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>57</compIndex>
+		<compIden>Y1</compIden>
+		<compID>NOT OOMP  eagleValue: 26MHz  eagleDevice: CRYSTAL-GROUNDED3.2X2.5  eaglePackage: CRYSTAL-SMD-3.2X2.5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun IoT Starter Kit with Blynk Board</name>
+		<partID>13865</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/13865]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

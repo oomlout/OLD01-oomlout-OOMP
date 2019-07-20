@@ -1,10 +1,12 @@
 <xml>
 <oompPart>
 	<oompID>CAPC-0603-X-PF12-V50</oompID>
-	<name>SMD (0603) 13 pF Capacitor (Ceramic) 50v</name>
+	<name>SMD (0603) 12 pF Capacitor (Ceramic) 50v</name>
+	<hexID>C6P012</hexID>
 	<oompType>CAPC</oompType>
 	<oompSize>0603</oompSize>
 	<oompColor>X</oompColor>
+	<oompDesc>PF12</oompDesc>
 	<oompIndex>V50</oompIndex>
 	<oompVersion>999</oompVersion>
 	<ooWidth>0.8mm</ooWidth>
@@ -90,5 +92,7 @@
 			<drawItem>template;XXXX-0603-X-XXXX-XX-simp</drawItem>
 		</oompSimp>
 		<ooDesignator>C1</ooDesignator>
+	<oompStatCount>2</oompStatCount>
+	<oompStatPercent>0.02</oompStatPercent>
 </oompPart>
 </xml>

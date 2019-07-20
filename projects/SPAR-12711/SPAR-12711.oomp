@@ -1,0 +1,140 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-12711</oompID>
+	<name>SparkFun USB LiPoly Charger - Single Cell</name>
+	<hexID>SPAR12711</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                If you need to charge LiPo batteries, this simple charger will do just that, and do it fast! The SparkFun USB LiPo Charger is a basic charging circuit that allows you to charge 3.7V LiPo cells at a rate of 500mA or 100mA. It is designed to charge single-cell Li-Ion or Li-Polymer batteries.
+The board incorporates a charging circuit, status LED, selectable solder jumper for 500mA or 100mA charging current, external LED footprint, USB input, two pre-installed JST connectors for SYS OUT and BATT IN, and (back by popular demand) a barrel jack connector.
+There is also a 'SYS OUT' with a pre-installed JST connector which allows you to connect the charging circuit directly to your project so you don't need to disconnect the charger each time you want to use it.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/12711</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>14</numComponents>
+	<numOompComponents>6</numOompComponents>
+	<oompCompletion>43</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-UF47D-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-UF47D-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: MBRA140  eaglePackage: SMA-DIODE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>D2</compIden>
+		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: MBRA140  eaglePackage: SMA-DIODE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  eagleValue: POWER_JACKSMD  eagleDevice: POWER_JACKSMD  eaglePackage: POWER_JACK_SMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>J2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: JST_2MM_MALE  eaglePackage: JST-2-SMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>J3</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: JST_2MM_MALE  eaglePackage: JST-2-SMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>LED2</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>PROG</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: RESISTORAXIAL-0.3  eaglePackage: AXIAL-0.3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>R-PROG1</compIden>
+		<compID>RESE-0603-X-O202-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>R-PROG2</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O331-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: MCP73831  eagleDevice: MCP73831  eaglePackage: SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>X1</compIden>
+		<compID>NOT OOMP  eagleValue: USBSMD  eagleDevice: USBSMD  eaglePackage: USB-MINIB</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun USB LiPoly Charger - Single Cell</name>
+		<partID>12711</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/12711]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

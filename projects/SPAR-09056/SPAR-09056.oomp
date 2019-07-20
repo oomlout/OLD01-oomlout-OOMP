@@ -1,0 +1,63 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-09056</oompID>
+	<name>SparkFun Analog/Digital MUX Breakout - CD74HC4067</name>
+	<hexID>SPAR09056</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is a breakout board for the very handy 16-Channel Analog/Digital Multiplexer/Demultiplexer CD74HC4067. This chip is like a rotary switch - it internally routes the common pin (COM in the schematic, SIG on the board) to one of 16 channel pins (CHANxx). It works with both digital and analog signals (the voltage can't be higher than VCC), and the connections function in either direction. To control it, connect 4 digital outputs to the chip's address select pins (S0-S3), and send it the binary address of the channel you want (see the datasheet for details). This allows you to connect up to 16 sensors to your system using only 5 pins!
+Since the mux/demux also works with digital signals, you can use it to pipe TTL-level serial data to or from multiple devices. For example, you could use it to connect the TX pins of 16 devices to one RX pin on your microcontroller. You can then select any one of those 16 devices to listen to. If you want two-way communications, you can add a second board to route your microcontroller's TX line to 16 device's RX lines. By using multiple boards, you can create similar arrangements for I2C, SPI, etc.
+The internal switches are bidirectional, support voltages between ground and VCC, have low "on" resistance and low "off" leakage, and to prevent crosstalk, perform "break-before-make" switching. The board also breaks out the chip's "enable" pin, which when driven high, will completely disconnect the common pin (all switches "off").              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/9056</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>3</numComponents>
+	<numOompComponents>2</numOompComponents>
+	<oompCompletion>67</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: MUX-74HC4067  eagleDevice: MUX-74HC4067SMD  eaglePackage: SSOP24</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Analog/Digital MUX Breakout - CD74HC4067</name>
+		<partID>9056</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/9056]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

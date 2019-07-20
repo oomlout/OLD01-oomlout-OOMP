@@ -1,0 +1,175 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-10653</oompID>
+	<name>SparkFun Voice Recorder Breakout - ISD1932</name>
+	<hexID>SPAR10653</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is a breakout board for the ISD1932, a multiple-message record/playback device. This single chip can record up to 64 seconds worth of voice messages. Microphone inputs and speaker outputs are all handled by the ISD1932.
+A switch is connected to allow selection of the ISD1932's operating mode - address trigger or direct trigger. You must cycle the power after switching the mode. An LED is also populated on the board and will illuminate when the device is recording. An external resistor is necessary to select the record duration and sampling frequency, which can range from 21.2 - 64 seconds (4-12kHz sampling frequency).
+The board breaks out all pins of the ISD1932 to 0.1" spaced headers. This product comes as shown in the pictures with filtering capacitors, an LED, mode selecting switch and the ISD1932 IC. The new version of this board also includes a microphone and a 3.5mm audio jack.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/10653</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>19</numComponents>
+	<numOompComponents>15</numOompComponents>
+	<oompCompletion>79</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C7</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>C8</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>C9</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>C10</compIden>
+		<compID>CAPC-0603-X-UF47D-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>LED1</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O472-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O472-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O472-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPSTSMD  eaglePackage: AYZ0202</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: ISD1900ISD1932  eagleDevice: ISD1900ISD1932  eaglePackage: SO-28W</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: MICELECTRET_SMD  eagleDevice: MICELECTRET_SMD  eaglePackage: MIC_ELECTRET_SMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  eagleValue: AUDIO-JACK2SMD  eagleDevice: AUDIO-JACK2SMD  eaglePackage: AUDIO-JACK-3.5MM-SMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Voice Recorder Breakout - ISD1932</name>
+		<partID>10653</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/10653]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

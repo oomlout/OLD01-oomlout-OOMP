@@ -1,0 +1,125 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-12037</oompID>
+	<name>SparkFun Binary Blaster Kit</name>
+	<hexID>SPAR12037</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                Binary Blaster is a game designed to help teach what binary numbers are and how to convert from decimal (and hexadecimal) to binary quickly. The game displays a value on the dual 7-segment displays, and the player is challenged to press the buttons in a way that represents the binary equivalent. Pressing a specific button allows a player to “set” that bit while leaving a button alone leaves the bit “clear”. There are four buttons on the Binary Blaster, each one represents a bit giving the player 15 different binary number possibilities. If the player gets all 15 correct, they win! Additionally, each blaster also displays a time score after each game, giving the player the ability to keep track of their fastest speed and practice to get even faster!
+Each Binary Blaster comes as an easy to assemble PTH soldering kit, and it’s up to you to solder it all together! If you’re new to soldering and looking to learn about the wonderful world of binary, then the Binary Blaster Kit is a great place to start!              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/12037</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>12</numComponents>
+	<numOompComponents>3</numOompComponents>
+	<oompCompletion>25</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>BAT1</compIden>
+		<compID>NOT OOMP  eagleValue: AA  eagleDevice: BATTERYAA-KIT  eaglePackage: BATTERY-AA-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>BAT2</compIden>
+		<compID>NOT OOMP  eagleValue: AA  eagleDevice: BATTERYAA-KIT  eaglePackage: BATTERY-AA-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-36D-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-36D-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-W04-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  eagleValue: Power  eagleDevice: SWITCH-SPDTKIT  eaglePackage: SWITCH-SPDT_KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>S2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPDTKIT  eaglePackage: SWITCH-SPDT_KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>S3</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-MOMENTARY-LEDEZ  eaglePackage: TACTILE-PTH-LED-12MM-EZ</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>S4</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-MOMENTARY-LEDEZ  eaglePackage: TACTILE-PTH-LED-12MM-EZ</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>S5</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-MOMENTARY-LEDEZ  eaglePackage: TACTILE-PTH-LED-12MM-EZ</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>S6</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-MOMENTARY-LEDEZ  eaglePackage: TACTILE-PTH-LED-12MM-EZ</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>SG1</compIden>
+		<compID>NOT OOMP  eagleValue: BUZZER  eagleDevice: BUZZERPTH-KIT  eaglePackage: BUZZER-12MM-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Binary Blaster Kit</name>
+		<partID>12037</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/12037]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

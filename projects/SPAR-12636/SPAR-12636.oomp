@@ -1,0 +1,118 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-12636</oompID>
+	<name>SparkFun 9 Degrees of Freedom IMU Breakout - LSM9DS0</name>
+	<hexID>SPAR12636</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is the LSM9DS0, a versatile motion-sensing system-in-a-chip that houses a 3-axis accelerometer, 3-axis gyroscope, and 3-axis magnetometer. That's right, 9 degrees of freedom (9dof) from a single IC!
+Each sensor in the LSM9DS0 supports a wide range of, well, ranges: the accelerometer’s scale can be set to ± 2, 4, 6, 8, or 16 g, the gyroscope supports ± 245, 500, and 2000 °/s, and the magnetometer has full-scale ranges of ± 2, 4, 8, or 12 gauss. Additionally, the LSM9DS0 includes an I2C serial bus interface supporting standard and fast mode (100 kHz and 400 kHz) and an SPI serial standard interface.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/12636</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>11</numComponents>
+	<numOompComponents>10</numOompComponents>
+	<oompCompletion>91</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-UF47D-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF220-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPT-3216-X-UF10-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: LSM9DS0  eagleDevice: LSM9DS0  eaglePackage: LGA-24</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun 9 Degrees of Freedom IMU Breakout - LSM9DS0</name>
+		<partID>12636</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/12636]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

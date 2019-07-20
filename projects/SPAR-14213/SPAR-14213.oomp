@@ -1,0 +1,271 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14213</oompID>
+	<name>SparkFun moto:bit</name>
+	<hexID>SPAR14213</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun moto:bit is a fully loaded "carrier" board for the micro:bit that, when combined with the micro:bit, provides you with a fully functional robotics platform. The moto:bit offers a simple, beginner-friendly robotics controller capable of operating a basic robotics chassis. Onboard each moto:bit are multiple I/O pins capable of hooking up servos, sensors and other circuits. At the flip of the switch you can get your micro:bit moving!
+The moto:bit connects to the micro:bit via an edge connector at the top of the board, making setup easy. This creates a handy way to swap out micro:bits for programming, while still providing reliable connections to all of the different pins on the micro:bit. We have also included a basic barrel jack on the moto:bit that is capable of providing power to anything you connect to the carrier board.
+
+The micro:bit is a pocket-sized computer that lets you get creative with digital technology. Between the micro:bit and our shield-like bit boards you can do almost anything while coding, customizing and controlling your micro:bit from almost anywhere! You can use your micro:bit for all sorts of unique creations, from robots to musical instruments and more. At half the size of a credit card, this versatile board has vast potential!
+
+Note: The SparkFun moto:bit does NOT include a micro:bit board. The micro:bit will need to be purchased separately.
+Important: The silkscreen indicates an input voltage range of 3V to 17V but we have found that the actual range is 3V to 11V. Please do not apply more than 11V to the power jack on the moto:bit. We are currently updating our boards to resolve this issue.
+ Get started with the moto:bit Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14213</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>32</numComponents>
+	<numOompComponents>21</numOompComponents>
+	<oompCompletion>66</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-1210-X-UF10-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C7</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>C8</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>C9</compIden>
+		<compID>CAPC-0805-X-UF47-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>C10</compIden>
+		<compID>CAPC-1210-X-UF10-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>C11</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>D1</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  eagleValue: POWER_JACKPTH_LOCK  eagleDevice: POWER_JACKPTH_LOCK  eaglePackage: POWER_JACK_PTH_LOCK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>J2</compIden>
+		<compID>NOT OOMP  eagleValue: CORTEX_DEBUGPTH  eagleDevice: CORTEX_DEBUGPTH  eaglePackage: 2X5-PTH-1.27MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>J3</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_04SMD_STRAIGHT_COMBO  eaglePackage: 1X04_SMD_VERTICAL_COMBO</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>J4</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_02PTH_RA_FEMALE  eaglePackage: 1X02_RA_FEMALE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>J5</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_02PTH_RA_FEMALE  eaglePackage: 1X02_RA_FEMALE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>J6</compIden>
+		<compID>HEAD-I01-X-PI2X03-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>J7</compIden>
+		<compID>HEAD-I01-X-PI2X03-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>J8</compIden>
+		<compID>HEAD-I01-X-PI2X03-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>J9</compIden>
+		<compID>HEAD-I01-X-PI2X03-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>L1</compIden>
+		<compID>NOT OOMP  eagleValue: 2.2uH  eagleDevice: INDUCTOR-VLF4012AT-2.2UH  eaglePackage: INDUCTOR_2.2UH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O10X-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O471-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O10X-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O472-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O472-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPDT-PTH-11.6X4.0MM  eaglePackage: SWITCH_SPDT_PTH_11.6X4.0MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>29</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: CY8C4245LQI-483  eagleDevice: PSOC4_4200_40QFN  eaglePackage: QFN-40</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>30</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: TPS62172  eagleDevice: TPS62172  eaglePackage: WSON-8-PAD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>31</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  eagleValue: micro:bit  eagleDevice: MICRO:BITLEDS_UP  eaglePackage: MICRO:BIT_RA_PTH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>32</compIndex>
+		<compIden>U4</compIden>
+		<compID>NOT OOMP  eagleValue: DRV8835  eagleDevice: DRV883X  eaglePackage: WSON-12</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun moto:bit</name>
+		<partID>14213</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14213]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

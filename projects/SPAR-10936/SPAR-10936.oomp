@@ -1,0 +1,204 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-10936</oompID>
+	<name>SparkFun Bar Graph Breakout Kit</name>
+	<hexID>SPAR10936</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                Got too much data for 10 measly segments? This kit contains a PCB and all the parts needed to build a 30-LED bargraph that can be driven by an Arduino or other microcontroller.
+This kit uses our 74HC595 shift registers and 10-Segment bargraph modules to create the display. We supply one green, one yellow, and one red module for 'safe / caution / DANGER!' displays. The display is easily driven by a microcontroller using an SSI interface, and you have individual control over every LED.
+Note: This kit comes unassembled and requires basic soldering skills. The included resistors may vary in color depending on our supplier.
+Note: The pinout on these bar graphs may vary from what is listed on the datasheet. Before soldering your kit into place, we recommend testing the polarity on the LED bar graph to confirm its orientation.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/10936</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>23</numComponents>
+	<numOompComponents>6</numOompComponents>
+	<oompCompletion>26</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-36D-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-36D-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-36D-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-36D-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-05-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LED_BARGRAPH_10  eaglePackage: LED_BARGAPH_10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>D2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LED_BARGRAPH_10  eaglePackage: LED_BARGAPH_10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>D3</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LED_BARGRAPH_10  eaglePackage: LED_BARGAPH_10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>IC1</compIden>
+		<compID>NOT OOMP  eagleValue: 74LS595N  eagleDevice: 74LS595N  eaglePackage: DIL16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>IC2</compIden>
+		<compID>NOT OOMP  eagleValue: 74LS595N  eagleDevice: 74LS595N  eaglePackage: DIL16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>IC3</compIden>
+		<compID>NOT OOMP  eagleValue: 74LS595N  eagleDevice: 74LS595N  eaglePackage: DIL16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>IC4</compIden>
+		<compID>NOT OOMP  eagleValue: 74LS595N  eagleDevice: 74LS595N  eaglePackage: DIL16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-W04-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R2</compIden>
+		<compID>NOT OOMP  eagleValue: 330  eagleDevice: RPACK-BUSSED-SIP-PTH-5  eaglePackage: RPACK-SIP-PTH-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>R3</compIden>
+		<compID>NOT OOMP  eagleValue: 330  eagleDevice: RPACK-BUSSED-SIP-PTH-5  eaglePackage: RPACK-SIP-PTH-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R4</compIden>
+		<compID>NOT OOMP  eagleValue: 330  eagleDevice: RPACK-BUSSED-SIP-PTH-5  eaglePackage: RPACK-SIP-PTH-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R5</compIden>
+		<compID>NOT OOMP  eagleValue: 330  eagleDevice: RPACK-BUSSED-SIP-PTH-5  eaglePackage: RPACK-SIP-PTH-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>R6</compIden>
+		<compID>NOT OOMP  eagleValue: 330  eagleDevice: RPACK-BUSSED-SIP-PTH-5  eaglePackage: RPACK-SIP-PTH-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>R7</compIden>
+		<compID>NOT OOMP  eagleValue: 330  eagleDevice: RPACK-BUSSED-SIP-PTH-5  eaglePackage: RPACK-SIP-PTH-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>SO1</compIden>
+		<compID>NOT OOMP  eagleValue: STAND-OFF  eagleDevice: STAND-OFF  eaglePackage: STAND-OFF</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>SO2</compIden>
+		<compID>NOT OOMP  eagleValue: STAND-OFF  eagleDevice: STAND-OFF  eaglePackage: STAND-OFF</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>SO3</compIden>
+		<compID>NOT OOMP  eagleValue: STAND-OFF  eagleDevice: STAND-OFF  eaglePackage: STAND-OFF</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>SO4</compIden>
+		<compID>NOT OOMP  eagleValue: STAND-OFF  eagleDevice: STAND-OFF  eaglePackage: STAND-OFF</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Bar Graph Breakout Kit</name>
+		<partID>10936</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/10936]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

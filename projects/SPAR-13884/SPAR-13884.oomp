@@ -1,0 +1,161 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-13884</oompID>
+	<name>SparkFun LED Driver Breakout - LP55231</name>
+	<hexID>SPAR13884</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun LP55231 LED Driver Breakout is a self-contained solution for developing and deploying the nine-channel I2C LED controller. Remarkably simple, the breakout is equipped primarily with just the LP55231 LED controller IC, plus three RGB LEDs. It also features pads and jumpers for replacing the onboard LEDs with external ones, and configuring the I2C bus, which allows you to daisy-chain up to four LP55231s. This breakout drives the LEDs using Pulse Width Modulation (PWM), so it is well-suited for variable intensity and color-mixing applications!
+Originally designed to be used in mobile device and automotive applications, it isn't meant to be overwhelmingly bright, and it has some unique qualities. First, there is an onboard charge-pump power supply, which allows it to drive LEDs with a forward voltage that’s higher than the power supply voltage. Second, the LP55231 has an LED offload engine. This is an LED-specific microcontroller, which allows it to perform LED operations without requiring assistance from the host microcontroller. It can independently perform LED operations like chases, blinks and fades.
+ Get Started with the LP55231 Breakout Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/13884</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>17</numComponents>
+	<numOompComponents>13</numOompComponents>
+	<oompCompletion>76</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-UF47-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-UF47-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>J1</compIden>
+		<compID>HEAD-I01-X-PI08-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>J2</compIden>
+		<compID>HEAD-I01-X-PI04-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>J3</compIden>
+		<compID>HEAD-I01-X-PI04-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>J4</compIden>
+		<compID>HEAD-I01-X-PI04-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>LED1</compIden>
+		<compID>NOT OOMP  eagleValue: TRICOLOR-5050  eagleDevice: LED-TRICOLOR-5050NO_IC  eaglePackage: LED-TRICOLOR-5050</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>LED2</compIden>
+		<compID>NOT OOMP  eagleValue: TRICOLOR-5050  eagleDevice: LED-TRICOLOR-5050NO_IC  eaglePackage: LED-TRICOLOR-5050</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>LED3</compIden>
+		<compID>NOT OOMP  eagleValue: TRICOLOR-5050  eagleDevice: LED-TRICOLOR-5050NO_IC  eaglePackage: LED-TRICOLOR-5050</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O154-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O154-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O154-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O472-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O472-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: LP55231WQFN  eagleDevice: LP55231WQFN  eaglePackage: WQFN-24</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun LED Driver Breakout - LP55231</name>
+		<partID>13884</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/13884]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

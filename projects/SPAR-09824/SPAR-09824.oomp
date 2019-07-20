@@ -1,0 +1,98 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-09824</oompID>
+	<name>SparkFun Joystick Shield - Bare PCB</name>
+	<hexID>SPAR09824</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The Joystick Shield sits on top of your Arduino and turns it into a simple controller. Five momentary push buttons (4+ joystick select button) and a two-axis thumb joystick gives your Arduino functionality on the level of old Nintendo controllers.
+The momentary push buttons are connected to Arduino digital pins 2-6; when pressed they will pull the pin low. Vertical movement of the joystick will produce a proportional analog voltage on analog pin 0, likewise, horizontal movement of the joystick can be tracked on analog pin 1.
+This product is only the Joystick Shield PCB - you'll need to purchase the buttons and joystick separately, and assemble the controller yourself. Here's what you'll need in addition to the shield:
+
+4x Momentary Push Button Switch - 12mm Square
+1x Thumb Joystick
+1x Mini Push Button Switch (breaks out Arduino's reset switch)
+2x 6-pin Arduino Stackable Header
+2x 8-pin Arduino Stackable Header
+              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/9824</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>7</numComponents>
+	<numOompComponents>0</numOompComponents>
+	<oompCompletion>0</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-MOMENTARY-212MM  eaglePackage: TACTILE-PTH-12MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>S2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-MOMENTARY-212MM  eaglePackage: TACTILE-PTH-12MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>S3</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-MOMENTARY-212MM  eaglePackage: TACTILE-PTH-12MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>S4</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-MOMENTARY-212MM  eaglePackage: TACTILE-PTH-12MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>S6</compIden>
+		<compID>NOT OOMP  eagleValue: Reset  eagleDevice: SWITCH-MOMENTARY-2PTH  eaglePackage: TACTILE-PTH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: ARDUINO_SHIELD  eagleDevice: ARDUINO_SHIELDLABEL  eaglePackage: DUEMILANOVE_SHIELD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: JOYSTICK  eagleDevice: JOYSTICKPTH  eaglePackage: JOYSTICK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Joystick Shield - Bare PCB</name>
+		<partID>9824</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/9824]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

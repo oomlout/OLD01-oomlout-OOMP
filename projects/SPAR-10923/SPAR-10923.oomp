@@ -1,0 +1,71 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-10923</oompID>
+	<name>SparkFun GPS Module - Copernicus II DIP (12 Channel)</name>
+	<hexID>SPAR10923</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The Copernicus II is a great GPS module from Trimble, but the SMD module prohibits immediate gratification. This DIP allows the customer to gain direct access to the pins on the SMD module. Simply provide 2.7 - 3.3VDC. The Copernicus II DIP breakout has an impedance-matched, end-launch, standard SMA connector that will mate with our SMA GPS antennas listed below.
+This revision of the board fixes a few silkscreen errors and adds a jumper between the VCC and XSTBY pins.
+Not sure which GPS module is right for you? Check out our GPS Buying Guide!
+ Get Started with the Copernicus II Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/10923</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>4</numComponents>
+	<numOompComponents>2</numOompComponents>
+	<oompCompletion>50</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-PF22-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>L1</compIden>
+		<compID>NOT OOMP  eagleValue: 33nH  eagleDevice: INDUCTOR0603  eaglePackage: 0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: COPERNICUS  eagleDevice: COPERNICUSSMD  eaglePackage: COPERNICUS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun GPS Module - Copernicus II DIP (12 Channel)</name>
+		<partID>10923</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/10923]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

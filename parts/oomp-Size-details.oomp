@@ -872,8 +872,28 @@
 		<name>7 mm</name>
 	</oompSize>
 	<oompSize>
-		<code>07S</code>
+		<code>S05</code>
+		<name>5 mm (SMD)</name>
+	</oompSize>
+	<oompSize>
+		<code>S06</code>
+		<name>6 mm (SMD)</name>
+	</oompSize>
+	<oompSize>
+		<code>S07</code>
 		<name>7 mm (SMD)</name>
+	</oompSize>
+	<oompSize>
+		<code>S08</code>
+		<name>8 mm (SMD)</name>
+	</oompSize>
+	<oompSize>
+		<code>S09</code>
+		<name>9 mm (SMD)</name>
+	</oompSize>
+	<oompSize>
+		<code>S10</code>
+		<name>10 mm (SMD)</name>
 	</oompSize>
 	<oompSize>
 		<code>08</code>

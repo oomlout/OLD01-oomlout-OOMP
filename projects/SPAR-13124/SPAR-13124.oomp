@@ -1,0 +1,113 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-13124</oompID>
+	<name>SparkFun Proto Pedal</name>
+	<hexID>SPAR13124</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun Proto Pedal is an easy-to-assemble kit that makes building guitar effect pedals easier. Let's face it, most guitar pedals start with all-too-similar circuitry – you need the input and output jacks, the bypass switch, and a barrel jack for power input. In some pedals, there may be as much wiring involved in the jacks and switch as there is in the effect itself. The SparkFun Proto Pedal takes care of the hard part and provides you with a simple infrastructure; all you need to do is decide what simple circuit to make to gain your desired effect, and you'll be ready to rock!
+With the SparkFun Proto Pedal you'll find all the problems of a guitar pedal's complex framework solved with true bypass and LED switching; a large, open prototyping area equivalent to a standard solderless breadboard; a small prototyping area for power regulation or reference voltages; and six positions to help organize potentiometer wiring. To make your life even easier, not only have we written a complete assembly guide for the Proto Pedal; we have also written two effect circuit guides that utilize the board's large prototyping area. All of these guides can be found in the Documents section below.
+Each Proto Pedal comes as an easy-to-assemble PTH soldering kit, and it’s up to you to solder it all together! Additionally, we highly recommend using the Proto Pedal Enclosure with this kit. It’s a standard-size cast aluminum box, which does double duty as an assembly jig to help get the jacks and switch aligned correctly. We did NOT include the enclosure with the Proto Pedal to help keep the kit affordable -- and in case you already had an enclosure you wanted to use or create yourself.
+ Get Started with the Proto Pedal Assembly Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/13124</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>10</numComponents>
+	<numOompComponents>5</numOompComponents>
+	<oompCompletion>50</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>NOT OOMP  eagleValue: C in  eagleDevice: DUAL_FOOTPRINT_CAP  eaglePackage: DUAL-CAP</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>NOT OOMP  eagleValue: C out  eagleDevice: DUAL_FOOTPRINT_CAP  eaglePackage: DUAL-CAP</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>D1</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  eagleValue: 2.5A/30V  eagleDevice: MOSFET-PCHANNELDMG2307L  eaglePackage: SOT23-3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O105-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O105-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O105-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R4</compIden>
+		<compID>NOT OOMP  eagleValue: BRT  eagleDevice: RESISTORAXIAL-0.3  eaglePackage: AXIAL-0.3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  eagleValue: SWITCH-3PDT  eagleDevice: SWITCH-3PDT  eaglePackage: STOMP-SWITCH-3PDT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Proto Pedal</name>
+		<partID>13124</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/13124]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

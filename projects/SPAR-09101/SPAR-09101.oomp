@@ -1,0 +1,49 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-09101</oompID>
+	<name>LilyPad Protoboard Large</name>
+	<hexID>SPAR09101</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is a large board for prototyping through-hole components with the LilyPad system. There are an array of pins all shorted together with 10mil traces. This allows for quick and easy prototyping - all you have to do is cut the traces between holes you don't want connected! Standard 0.1" array. Check rear photo for trace configuration.
+LilyPad is a wearable e-textile technology developed by Leah Buechley and cooperatively designed by Leah and SparkFun. Each LilyPad was creatively designed to have large connecting pads to allow them to be sewn into clothing. Various input, output, power, and sensor boards are available. They're even washable!
+Note: A portion of this sale is given back to Dr. Leah Buechley for continued development and education of e-textiles and to Kate Hartman for product support and continued development.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/9101</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>1</numComponents>
+	<numOompComponents>0</numOompComponents>
+	<oompCompletion>0</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>GND</compIden>
+		<compID>NOT OOMP  eagleValue: SEWTAP9  eagleDevice: SEWTAP9  eaglePackage: PETAL-LONG-1-2SIDE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>LilyPad Protoboard Large</name>
+		<partID>9101</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/9101]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

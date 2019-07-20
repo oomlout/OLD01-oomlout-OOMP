@@ -1,0 +1,106 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-09370</oompID>
+	<name>SparkFun DC/DC Converter Breakout</name>
+	<hexID>SPAR09370</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is a breakout board for our non-isolated, 6A DC-to-DC Converter Module. The module can convert any DC voltage between 4.5-14VDC to a selectable voltage between 0.59 and 5.5VDC.
+To set the output voltage to the desired level, a resistor must be added between the Trim and GND pins. For example, to set the module to output 5V use a 1.34kO resistor, or to get 3.3V use a 2.182kO. See table 1 in the module's datasheet for more resistor values.
+The ON/OFF pin on the board can be pulled high to turn the converter module on and low to turn it off.
+Board comes as shown, with all components (aside from the trim resistor) populated. Access to all pins of the converter module is provided by two, 0.1" pitch headers.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/9370</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>9</numComponents>
+	<numOompComponents>4</numOompComponents>
+	<oompCompletion>44</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>NOT OOMP  eagleValue: 100uF-25V  eagleDevice: CAP_POL  eaglePackage: NIPPON_F80</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPE-S05-X-UF47-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>IN</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: M05PTH  eaglePackage: 1X05</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>OUT</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: M03PTH  eaglePackage: 1X03</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  eagleValue: MOSFET-NCHANNELSMD  eagleDevice: MOSFET-NCHANNELSMD  eaglePackage: SOT23-3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O223-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O104-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: DC-DC_CONVERTER  eagleDevice: DC-DC_CONVERTER  eaglePackage: DC-DC_CONVERTER</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun DC/DC Converter Breakout</name>
+		<partID>9370</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/9370]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

@@ -1,0 +1,179 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14712</oompID>
+	<name>SparkFun Qwiic Single Relay</name>
+	<hexID>SPAR14712</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                Have you ever wanted to control something powerful or have you ever needed to turn on/off a high power device from your Arduino or another low powered microcontroller? The SparkFun Qwiic Single Relay provides you with the easiest to use relay yet. The Single Relay board can handle up to 5.5A at 240VAC for long periods of time and allows you to control large power loads with simple I2C commands. Utilizing our handy Qwiic system, and on-board screw terminals, no soldering is required to connect it to the rest of your system!
+The Qwiic Relay comes with a default I2C address of 0x18 but can be changed with a simple command allowing you to control over 100 Qwiic Relays on a single bus (but please be aware that toggling lots of relays on a 3.3V bus can cause voltage spikes so an external power supply will be required)! In addition, there is an address jumper on the back of the board. Closing this jumper with solder will change the address to 0x19.
+We've included many safety precautions onto the PCB including, ground isolation between the load and the low voltage control has been increased and an air-gap has been added around the common pin. The traces between the relay and the NC/NO/COM terminals have been doubled to increase the maximum current. But if you aren't comfortable playing with high voltage AC, that's understandable. Please consider using the IoT Power Relay, instead. It's not I2C supported but the IoT Power Relay contains shielding to prevent accidental shock and is great for learning how to use relay power accessories.
+
+The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shields and cables that make prototyping faster and less prone to error. All Qwiic-enabled boards use a common 1mm pitch, 4-pin JST connector. This reduces the amount of required PCB space, and polarized connections mean you can’t hook it up wrong.
+
+ Get Started with the SparkFun Qwiic Single Relay Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14712</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>19</numComponents>
+	<numOompComponents>14</numOompComponents>
+	<oompCompletion>74</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-UF10-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  eagleValue: 1A/23V/620mV  eagleDevice: DIODE-SCHOTTKY-BAT20J  eaglePackage: SOD-323</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>D2</compIden>
+		<compID>LEDS-0603-L-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>D3</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>J1</compIden>
+		<compID>HEAD-I01-X-PI04-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>J2</compIden>
+		<compID>JSTS-01-X-PI04-RS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>J3</compIden>
+		<compID>JSTS-01-X-PI04-RS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>J4</compIden>
+		<compID>NOT OOMP  eagleValue: AVR_SPI_PROG_3X2TESTPOINTS  eagleDevice: AVR_SPI_PROG_3X2TESTPOINTS  eaglePackage: 2X3_TEST_POINTS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>J5</compIden>
+		<compID>TERS-05-X-PI03-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>K1</compIden>
+		<compID>NOT OOMP  eagleValue: RELAY-SPDT  eagleDevice: RELAY-SPDT  eaglePackage: RELAY_G5LE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>Q4</compIden>
+		<compID>NOT OOMP  eagleValue: 600mA/40V  eagleDevice: TRANS_NPN-MMBT2222AL  eaglePackage: SOT23-3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O100-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O331-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O331-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O222-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0603-X-O222-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R8</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>R9</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  eagleValue: ATTINY85  eagleDevice: ATTINY85  eaglePackage: ATTINY85</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Qwiic Single Relay</name>
+		<partID>14712</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14712]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

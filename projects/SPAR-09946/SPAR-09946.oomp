@@ -1,0 +1,77 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-09946</oompID>
+	<name>SparkFun Energy Harvester Breakout - LTC3588</name>
+	<hexID>SPAR09946</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This breakout board uses the LTC3588 Piezoelectric Energy Harvester from Linear Technologies. This board can be used not only for harvesting piezoelectric energy, but solar energy as well. There is a bridge rectified input for piezo elements (PZ1 and PZ2) and a direct input (VIN) for DC sources. Both are clamped to 20V. In addition, the board can simply be used as a standalone nanopower buck regulator.
+An ultralow quiescent current undervoltage lockout (UVLO) mode with a wide hysteresis window allows charge to accumulate on an input capacitor until the buck converter can efficiently transfer a portion of the stored charge to the output. In regulation, the LTC3588 enters a sleep state in which both input and output quiescent currents are minimal. The buck converter turns on and off as needed to maintain regulation.
+Four output voltages (1.8V, 2.5V, 3.3V and 3.6V) are pin selectable with up to 100mA of continuous output current and comes pre-configured for an output of 3.3V. However, the output capacitor may be sized to service a higher output current burst. An input protective shunt set at 20V enables greater energy storage for a given amount of input capacitance.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/9946</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>5</numComponents>
+	<numOompComponents>3</numOompComponents>
+	<oompCompletion>60</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0402-X-UF47D-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0402-X-UF1-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C7</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: LTC3588  eagleDevice: LTC3588_  eaglePackage: MSOP-10-GNDPAD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: 10uH  eagleDevice: INDUCTOR-  eaglePackage: CDRH3D28</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Energy Harvester Breakout - LTC3588</name>
+		<partID>9946</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/9946]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

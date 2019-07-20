@@ -1,0 +1,269 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-13964</oompID>
+	<name>IOIO-OTG - V2 (with Headers)</name>
+	<hexID>SPAR13964</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                Are you a Java developer looking to add advanced hardware I/O capabilities to your Android or PC application? Well, then the IOIO-OTG is for you! The IOIO-OTG (pronounced “yo-yo-O-T-G”) is a development board specially designed to do just that. It features a PIC microcontroller, which acts as a bridge connecting an app on your PC or Android device to low-level peripherals like GPIO, PWM, ADC, I2C, SPI and UART. An app-level library helps you write control code for these low-level peripherals in the same way you'd write any other Java app! This special version of our older Version 2 of the IOIO-OTG comes with female headers already soldered onto the board!
+What separates the IOIO-OTG from previous IOIO boards is the ability to leverage the USB On-The-Go specification to connect as a host *or *an accessory. There are several ways to connect the IOIO to your Java app. If the app is running on your Android device, the IOIO-OTG will act as a USB host and supply charging current to your device (meaning the IOIO-OTG will need its own power source). If your app is running on a Windows, Linux or OSX machine, the IOIO-OTG will assume device mode and present itself as a virtual serial port. When in device mode, the IOIO-OTG can be powered by the host! Connecting a USB Bluetooth dongle will cause the IOIO-OTG to show up as a Bluetooth serial connection so you can go wireless!
+A switch on the board can be used to force the IOIO-OTG into host mode, but most of the time the board can be left in "auto" mode, and it will detect its role in the connection. We're now shipping the IOIO-OTG board loaded with the V4.00 bootloader and the V3.30 application firmware. New application firmware is frequently released, and can be upgraded without needing a programmer using the IOIODude application.
+The board includes a JST connector for attaching a barrel jack and there are several pin headers broken out for voltage and ground access. A trimpot on the board allows you to adjust the charge current used when the IOIO-OTG is acting as a host. Unlike in the newer version of the IOIO-OTG, a USB-A to micro-A OTG cable is NOT included. The V2 IOIO-OTG was found in our old IOIO SIK, and once we are out of stock of this product we will not be restocking it.
+Note: Please do not power your IOIO-OTG with 10V over longer wires. This may cause your board to fail.
+Note: This product is a collaboration with Ytai Ben-Tsvi. A portion of each sale goes back to him for product support and continued development.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/13964</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>32</numComponents>
+	<numOompComponents>19</numOompComponents>
+	<oompCompletion>59</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C7</compIden>
+		<compID>CAPT-3216-X-UF10-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>C8</compIden>
+		<compID>CAPC-0603-X-NF33D-V100</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>C9</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>C10</compIden>
+		<compID>CAPT-3216-X-UF10-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>C11</compIden>
+		<compID>CAPC-1210-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  eagleValue: B340A  eagleDevice: DIODE-SCHOTTKY-B340A  eaglePackage: SMA-DIODE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>D2</compIden>
+		<compID>NOT OOMP  eagleValue: DZ2J160M0L  eagleDevice: DIODE-ZENERDZ2J150M0L  eaglePackage: PANASONIC_SMINI2-F5-B</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>D3</compIden>
+		<compID>LEDS-0603-Y-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>D5</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>F1</compIden>
+		<compID>NOT OOMP  eagleValue: 0.75A  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>L1</compIden>
+		<compID>NOT OOMP  eagleValue: 30Ohm,1.8A  eagleDevice: INDUCTOR30OHM,1.8A  eaglePackage: 0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>L2</compIden>
+		<compID>NOT OOMP  eagleValue: VLC5045T-3R3N  eagleDevice: INDUCTORCR54-3.3UH  eaglePackage: CR54</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  eagleValue: IRLML2244  eagleDevice: MOSFET-PCHANNELIRLML2244  eaglePackage: SOT23-3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>Q2</compIden>
+		<compID>NOT OOMP  eagleValue: 2N7002PW  eagleDevice: MOSFET-NCHANNEL2N7002PW  eaglePackage: SOT323</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>Q3</compIden>
+		<compID>NOT OOMP  eagleValue: MOSFET-NCHANNELAO3404A  eagleDevice: MOSFET-NCHANNELAO3404A  eaglePackage: SOT23-3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O104-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>R3</compIden>
+		<compID>NOT OOMP  eagleValue: TS53YL502MR10  eagleDevice: TRIMPOTRES-11156  eaglePackage: TRIMPOT_5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O332-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0603-X-O751-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>R8</compIden>
+		<compID>RESE-0603-X-O471-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>R9</compIden>
+		<compID>RESE-0603-X-O162-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>29</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  eagleValue: SWITCH_SPDT  eagleDevice: SWITCH_SPDT  eaglePackage: KPS-1290</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>30</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: PIC24FJ256GB206  eagleDevice: PIC24FXXXGPX06  eaglePackage: PIC24FXXX_TQFP64</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>31</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: TPS62133RGTT  eagleDevice: TPS62133RGTT  eaglePackage: QFN16-3X3MM_1:1_V03</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>32</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  eagleValue: MIC5216  eagleDevice: V_REG_MIC5216  eaglePackage: MSOP8</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>IOIO-OTG - V2 (with Headers)</name>
+		<partID>13964</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/13964]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

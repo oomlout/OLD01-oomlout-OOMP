@@ -1,0 +1,83 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-12040</oompID>
+	<name>SparkFun Current Sensor Breakout - INA169</name>
+	<hexID>SPAR12040</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The INA169 is a “high-side current monitor,” which means that you place a resistor (a “shunt resistor”) on the positive power rail and the INA169 measures the voltage drop across that resistor. The INA169 outputs a small current based on the measured voltage drop. If you place a resistor from the output of the INA169 to ground, you can measure the voltage at the output.
+Input common-mode and power supply voltages are independent and can range from 2.7V to 60V on the INA169 and quiescent (sleep) current is only 60uA.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/12040</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>6</numComponents>
+	<numOompComponents>3</numOompComponents>
+	<oompCompletion>50</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-1206-X-O100-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>R3</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: RESISTORPTH-2W  eaglePackage: AXIAL-0.8</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R4</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: RESISTORPTH-1/4W  eaglePackage: AXIAL-0.4</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: INA169  eagleDevice: INA169  eaglePackage: SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Current Sensor Breakout - INA169</name>
+		<partID>12040</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/12040]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

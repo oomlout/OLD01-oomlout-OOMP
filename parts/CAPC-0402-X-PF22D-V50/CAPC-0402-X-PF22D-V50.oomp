@@ -1,10 +1,12 @@
 <xml>
 <oompPart>
 	<oompID>CAPC-0402-X-PF22D-V50</oompID>
-	<name>SMD (0402) 3 pF Capacitor (Ceramic) 50v</name>
+	<name>SMD (0402) 2.2 pF Capacitor (Ceramic) 50v</name>
+	<hexID>C42P0022D</hexID>
 	<oompType>CAPC</oompType>
 	<oompSize>0402</oompSize>
 	<oompColor>X</oompColor>
+	<oompDesc>PF22D</oompDesc>
 	<oompIndex>V50</oompIndex>
 	<oompVersion>999</oompVersion>
 	<ooWidth>0.5mm</ooWidth>
@@ -88,5 +90,7 @@
 			<drawItem>template;XXXX-0402-X-XXXX-XX-simp</drawItem>
 		</oompSimp>
 		<ooDesignator>C1</ooDesignator>
+	<oompStatCount>4</oompStatCount>
+	<oompStatPercent>0.04</oompStatPercent>
 </oompPart>
 </xml>

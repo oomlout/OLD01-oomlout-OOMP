@@ -1,0 +1,49 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-13021</oompID>
+	<name>SparkFun RJ45 MagJack Breakout</name>
+	<hexID>SPAR13021</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is the SparkFun RJ45 MagJack Breakout, a simple board that will provide you with a way to put an ethernet port into your breadboard. The SparkFun RJ45 MagJack Breakout is the same one found in our very own mbed Starter Kit and breaks out each pin from the ethernet jack. This rev of the breakout is equipped with the RJ45 MagJack connector already soldered to the board which mean you no longer need to solder the connector to the board yourself or worrying about buying them separately!
+The on-board RJ45 ethernet jack has a built in transformer (magnetics), status LEDs, and shielding all for better reliability when you use it. As stated before, each pin from the RJ45 MagJack has been broken out, including: P1-P8 (Pins 1-8), Y+ (Yellow LED Positive), Y- (Yellow LED Negative), G+ (Green LED Positive), G- (Green LED Negative), and SH (Shield).
+Note: Please keep in mind that this RJ45 MagJack Breakout is for Ethernet networks only. If all you need is a simple RJ45 breakout, we recommend soldering an RJ45 8-Pin Connector to our SparkFun RJ45 Breakout as a solution.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/13021</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>1</numComponents>
+	<numOompComponents>0</numOompComponents>
+	<oompCompletion>0</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  eagleValue: MAGJACK-NOLABELS  eagleDevice: MAGJACK-NOLABELS  eaglePackage: MAGJACK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun RJ45 MagJack Breakout</name>
+		<partID>13021</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/13021]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

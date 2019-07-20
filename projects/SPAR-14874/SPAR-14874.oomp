@@ -1,0 +1,183 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14874</oompID>
+	<name>SparkFun Configurable OpAmp Board - TSH82</name>
+	<hexID>SPAR14874</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun TSH82 Configurable OpAmp Board was designed to give you the best combination of performance and flexibility that we could achieve by giving you two gain stages, each one independently accessible on the header pins. Each stage is natively configured as an inverting amplifier that can also be strung together to expand the capabilities of the OpAmp. With the use of the jumpers on the back of the board, you can configure each stage for non-inverting operation, differential input, and DC input coupling.
+Electrically speaking, both stages on this board are identical. The default configuration is inverting with a gain of -4.7 with a bandwidth of almost 10MHz. Input signals are AC coupled, possess an input impedance of 10K with a low frequency cutoff of 15.9Hz. Outputs are also DC coupled, so don’t forget to add a capacitor to the output if you’re running a single-ended supply and need to strip out the DC component. The board will also operate with a single-ended DC power supply of 4.5V to 12V, or a bipolar supply from +/-2.25V to +/-6V.
+On the back of the board you’ll find 10 solder jumpers that can be used to change the board’s performance, but nothing there needs to be changed to use it in it’s default state.
+ Get Started With the Configurable OpAmp Board Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14874</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>20</numComponents>
+	<numOompComponents>18</numOompComponents>
+	<oompCompletion>90</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPT-3216-X-UF10-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPT-3216-X-UF10-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C7</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C8</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C9</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>C10</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_09NO_SILK  eaglePackage: 1X09_NO_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O222-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O222-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0603-X-O473-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R8</compIden>
+		<compID>RESE-0603-X-O473-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>R9</compIden>
+		<compID>RESE-0603-X-O473-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>R10</compIden>
+		<compID>RESE-0603-X-O473-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: TSH82  eagleDevice: TSH82  eaglePackage: SO08</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Configurable OpAmp Board - TSH82</name>
+		<partID>14874</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14874]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

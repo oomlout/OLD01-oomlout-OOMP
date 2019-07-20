@@ -1,0 +1,183 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-10305</oompID>
+	<name>SparkFun Power Driver Shield Kit</name>
+	<hexID>SPAR10305</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This shield allows you to use a computer power supply (or other power source) to use your Arduino to switch high current. With RFP30N06LE MOSFETS, you can easily control a lot of current directly from your Arduino.
+The board provides 6 PWM outputs via screw terminals. Check the datasheet for the MOSFET below for full specifications on how much current this board can handle.This board is a very easy way to start using MOSFETS for your next high current project.
+A protection diode has been added to the power input of this version of the board.
+Note: If you want to stack another shield on top of this one, you will want to double-up on the stackable headers to clear the MOSFETs.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/10305</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>20</numComponents>
+	<numOompComponents>8</numOompComponents>
+	<oompCompletion>40</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODEPTH  eaglePackage: DIODE-1N4001</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  eagleValue: ATX24RH  eagleDevice: ATX24RH  eaglePackage: ATX24_RIGHT_ANGLE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>LED1</compIden>
+		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>LED2</compIden>
+		<compID>NOT OOMP  eagleValue: Yellow  eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  eagleValue: IRF  eagleDevice: MOSFET-NCHANNELPTH2  eaglePackage: TO220V</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>Q2</compIden>
+		<compID>NOT OOMP  eagleValue: IRF  eagleDevice: MOSFET-NCHANNELPTH2  eaglePackage: TO220V</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>Q3</compIden>
+		<compID>NOT OOMP  eagleValue: IRF  eagleDevice: MOSFET-NCHANNELPTH2  eaglePackage: TO220V</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>Q4</compIden>
+		<compID>NOT OOMP  eagleValue: IRF  eagleDevice: MOSFET-NCHANNELPTH2  eaglePackage: TO220V</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>Q5</compIden>
+		<compID>NOT OOMP  eagleValue: IRF  eagleDevice: MOSFET-NCHANNELPTH2  eaglePackage: TO220V</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>Q6</compIden>
+		<compID>NOT OOMP  eagleValue: IRF  eagleDevice: MOSFET-NCHANNELPTH2  eaglePackage: TO220V</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-W04-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-W04-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-W04-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-W04-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-W04-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-W04-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-W04-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>R8</compIden>
+		<compID>RESE-W04-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPSTPTH  eaglePackage: SWITCH-SPDT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: Arduino  eagleDevice: ARDUINO_SHIELDLABEL  eaglePackage: DUEMILANOVE_SHIELD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Power Driver Shield Kit</name>
+		<partID>10305</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/10305]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

@@ -1,0 +1,49 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-10705</oompID>
+	<name>SparkFun myDAQ Protoboard Kit</name>
+	<hexID>SPAR10705</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This kit is designed to connect directly to the National Instruments myDAQ measurement and control tool. The board consists of a prototyping space with GND and 5V rails as well as each I/O line from the myDAQ broken out to standard 0.1" pitched headers. In addition, a breadboard is included with adhesive backing which can be mounted over the prototyping area for solderless prototyping. All of the myDAQ I/O lines are also broken out to female headers to make breadboarding with jumper wires simpler.
+The National Instruments myDAQ is an affordable measurement and control tool that allows students to perform experiments anywhere. If you aren't familiar with it, have a look at the NI myDAQ website below.
+Note: This kit does not ship assembled and will need to be put together before use, so knowledge of soldering will be required.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/10705</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>1</numComponents>
+	<numOompComponents>0</numOompComponents>
+	<oompCompletion>0</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: BREADBOARDCLEAR  eagleDevice: BREADBOARDCLEAR  eaglePackage: BREADBOARD_CLEAR</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun myDAQ Protoboard Kit</name>
+		<partID>10705</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/10705]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

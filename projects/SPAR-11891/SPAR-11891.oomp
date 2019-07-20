@@ -1,0 +1,56 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-11891</oompID>
+	<name>LilyPad Pixel Board</name>
+	<hexID>SPAR11891</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                We know you love adding color to your e-textiles, adding the LilyPad Pixel Board to your project will only make it better. The pixel board is compatible with a WS2812B (or "NeoPixel") which is actually an RGB LED with a WS2811 built right into the LED! Several of these breakouts can be chained together to form a display or an addressable string.
+LilyPad is a wearable technology developed by Leah Buechley and cooperatively designed by Leah and SparkFun. Each LilyPad was creatively designed to have large connecting pads to allow them to be sewn into clothing. Various input, output, power, and sensor boards are available. They're even washable!
+Note: A portion of this sale is given back to Dr. Leah Buechley for continued development and education of e-textiles.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/11891</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>2</numComponents>
+	<numOompComponents>1</numOompComponents>
+	<oompCompletion>50</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  eagleValue: WS2812B  eagleDevice: WS2812B  eaglePackage: WS2812B</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>LilyPad Pixel Board</name>
+		<partID>11891</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/11891]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

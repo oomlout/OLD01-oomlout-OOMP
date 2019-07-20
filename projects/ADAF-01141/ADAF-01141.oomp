@@ -1,0 +1,180 @@
+<xml>
+<oompProject>
+	<oompID>ADAF-01141</oompID>
+	<name>Adafruit Assembled Data Logging shield for Arduino</name>
+	<hexID>ADAF01141</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+Adafruit Data Logger Shield PCB
+PCB files for Adafruit's Data Logger Shield for Arduino
+
+For more details, check out the product page at
+
+-----> https://www.adafruit.com/product/1141
+
+Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from Adafruit!
+
+Designed by Adafruit Industries.
+Creative Commons Attribution, Share-Alike license, check license.txt for more information All text above must be included in any redistribution
+</oompAbout>
+	<oompOfficialLink>https://www.adafruit.com/product/1141</oompOfficialLink>
+	<company>Adafruit</company>
+	<companyCode>C-ADAF</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>19</numComponents>
+	<numOompComponents>7</numOompComponents>
+	<oompCompletion>37</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>BAT</compIden>
+		<compID>NOT OOMP  eagleValue: CR1220  eagleDevice: CR1220THM  eaglePackage: CR1220-THM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-05-X-UF100-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C2</compIden>
+		<compID>NOT OOMP  eagleValue: 0.1uF  eagleDevice: C-US025-025X050  eaglePackage: C025-025X050</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C3</compIden>
+		<compID>NOT OOMP  eagleValue: 0.1uF  eagleDevice: C-US025-025X050  eaglePackage: C025-025X050</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-05-X-UF100-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>I2C</compIden>
+		<compID>NOT OOMP  eagleValue: rtc pins  eagleDevice: PINHD-1X2  eaglePackage: 1X02</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>IC1</compIden>
+		<compID>NOT OOMP  eagleValue: MCP1700-330  eagleDevice: MCP1700TRI  eaglePackage: TO92</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>IC2</compIden>
+		<compID>NOT OOMP  eagleValue: DS1307  eagleDevice: DS1307  eaglePackage: DIL08</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>IC3</compIden>
+		<compID>NOT OOMP  eagleValue: 74125N-LARDO  eagleDevice: 74125N-LARDO  eaglePackage: DIL14-LARDO</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>ICSP</compIden>
+		<compID>NOT OOMP  eagleValue: ICSP  eagleDevice: PINHD-2X3  eaglePackage: 2X03</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>L1</compIden>
+		<compID>NOT OOMP  eagleValue: red  eagleDevice: LED3MM  eaglePackage: LED3MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>L2</compIden>
+		<compID>NOT OOMP  eagleValue: green  eagleDevice: LED3MM  eaglePackage: LED3MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  eagleValue: 32.768Khz  eagleDevice: CRYSTALTC38H  eaglePackage: TC38H</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-W04-X-O222-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-W04-X-O222-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-W04-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-W04-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-W04-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>RESET</compIden>
+		<compID>NOT OOMP  eagleValue: Reset  eagleDevice: 10-XX  eaglePackage: B3F-10XX</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Adafruit</company>
+		<companyCode>C-ADAF</companyCode>
+		<name>Adafruit Assembled Data Logging shield for Arduino</name>
+		<partID>1141</partID>
+		<link><![CDATA[https://www.adafruit.com/product/1141]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

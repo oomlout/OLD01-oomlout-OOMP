@@ -1,0 +1,344 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-13166</oompID>
+	<name>SparkFun Inventor's Kit for RedBot</name>
+	<hexID>SPAR13166</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun Inventor’s Kit for RedBot is a great way to get started with two motor robotics and sensor integration using the Arduino programming language. The SIK for RedBot includes everything you need to complete nine circuits that will teach you how to drive your RedBot, have it follow lines, control it remotely, and more. This kit doesn't require previous programming or electronics experience but it is recommended that you possess an understanding of or desire to learn about robotics.
+The SparkFun RedBot is a great way to get your feet wet in the world of robotics. However, once you have assembled your RedBot, you may be at a loss as to where to go from there. The on-line SIK for RedBot Digital Guide (in the Documents section below) contains step by step instructions of how to connect each circuit and assemble the kit into a full-fledged robot with all of the included parts. Full example code is provided and explained and even includes troubleshooting tips if something goes wrong. Once you’ve mastered each experiment, you can take what you’ve learned and apply it to creating your own robot platform.
+The kit does not require any soldering and is recommended for anyone curious about robotics or if you have used the original SparkFun Inventor's Kit and are looking for the next step in programming education.
+Note: The Experiment Guide in the Documents section below includes full example to code to get your RedBot functioning and moving as quickly as possible.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/13166</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>43</numComponents>
+	<numOompComponents>29</numOompComponents>
+	<oompCompletion>67</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C7</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C8</compIden>
+		<compID>CAPT-3216-X-UF10-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>C9</compIden>
+		<compID>CAPT-3216-X-UF10-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: B340A  eaglePackage: SMA-DIODE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>D2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: B340A  eaglePackage: SMA-DIODE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>D3</compIden>
+		<compID>LEDS-0603-G-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>D4</compIden>
+		<compID>LEDS-0603-G-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>D5</compIden>
+		<compID>LEDS-0603-G-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>D6</compIden>
+		<compID>LEDS-0603-G-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>F1</compIden>
+		<compID>NOT OOMP  eagleValue: PTCSMD  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>MOD1</compIden>
+		<compID>NOT OOMP  eagleValue: XBEE-1B3  eagleDevice: XBEE-1B3  eaglePackage: XBEE-SMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: IRF7509  eaglePackage: MSOP8</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>R8</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>R9</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>R10</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>R11</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>29</compIndex>
+		<compIden>R12</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>30</compIndex>
+		<compIden>R13</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>31</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  eagleValue: DPDT  eagleDevice: SWITCH-DPDTAYZ0202  eaglePackage: AYZ0202</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>32</compIndex>
+		<compIden>S2</compIden>
+		<compID>NOT OOMP  eagleValue: DPDT  eagleDevice: SWITCH-DPDTAYZ0202  eaglePackage: AYZ0202</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>33</compIndex>
+		<compIden>S3</compIden>
+		<compID>NOT OOMP  eagleValue: DPDT  eagleDevice: SWITCH-DPDTAYZ0202  eaglePackage: AYZ0202</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>34</compIndex>
+		<compIden>S4</compIden>
+		<compID>BUTA-52D-X-SMDS-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>35</compIndex>
+		<compIden>S5</compIden>
+		<compID>BUTA-52D-X-SMDS-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>36</compIndex>
+		<compIden>SFE-LOGO1</compIden>
+		<compID>NOT OOMP  eagleValue: LOGO-SFENEW  eagleDevice: LOGO-SFENEW  eaglePackage: SFE-NEW-WEBLOGO</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>37</compIndex>
+		<compIden>U1</compIden>
+		<compID>ICIC-TQ32-X-K328-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>38</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: TB6612FNG  eagleDevice: TB6621FNG  eaglePackage: SSOP24</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>39</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  eagleValue: MIC5219 5V  eagleDevice: V_REG_MIC52195V  eaglePackage: SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>40</compIndex>
+		<compIden>U4</compIden>
+		<compID>NOT OOMP  eagleValue: MIC5219 3.3V  eagleDevice: V_REG_MIC52193.3V  eaglePackage: SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>41</compIndex>
+		<compIden>U5</compIden>
+		<compID>ICIC-SS28-X-KFT232-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>42</compIndex>
+		<compIden>U6</compIden>
+		<compID>NOT OOMP  eagleValue: 7408SE  eagleDevice: 7408SE  eaglePackage: SOT353</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>43</compIndex>
+		<compIden>Y1</compIden>
+		<compID>NOT OOMP  eagleValue: 16MHz  eagleDevice: RESONATOR16MHZ  eaglePackage: RESONATOR-SMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Inventor's Kit for RedBot</name>
+		<partID>13166</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/13166]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

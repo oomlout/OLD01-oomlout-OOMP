@@ -1,0 +1,127 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-09607</oompID>
+	<name>SparkFun Cellular Shield - SM5100B</name>
+	<hexID>SPAR09607</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                **D****escription: **The Cellular Shield for Arduino includes all the parts needed to interface your Arduino with an SM5100B cellular module. This allows you to easily add SMS, GSM/GPRS, and TCP/IP functionalities to your Arduino-based project. All you need to add cellular functionality to your Arduino project is a SIM card (pre-paid or straight from your phone) and an antenna and you can start sending Serial.print statements to make calls, send texts and serve web pages!
+The main components of the Cellular Shield are a 60-pin SM5100B connector, a SIM card socket, and an SPX29302 voltage regulator configured to regulate the Arduino's raw voltage to 3.8V. The board's red LED indicates power. The Arduino's reset button is also brought out on the shield.
+Two solder jumpers on the board allow you to select which serial pins interface with the cellular module - software (D2, D3) or hardware (D0, D1). There is also a 5-pin, 0.1" spaced header with connections for microphone inputs and speaker outputs. Headers are not soldered on, we recommend the 6 and 8-pin stackable headers.
+The SM5100B cellular module is included with this product, however an antenna is not. It is pre-configured to 9600bps.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/9607</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>12</numComponents>
+	<numOompComponents>7</numOompComponents>
+	<oompCompletion>58</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPT-7343-X-UF100-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>LED1</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O223-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TAC_SWITCHSMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: ARDUINO_SHIELDNOHOLES  eagleDevice: ARDUINO_SHIELDNOHOLES  eaglePackage: DUEMILANOVE_SHIELD_NOHOLES</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: SPX29302  eagleDevice: SPX29302  eaglePackage: Q5-DD_SPX29300</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  eagleValue: SM5100B  eagleDevice: SM5100B  eaglePackage: SM5100B</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>U4</compIden>
+		<compID>NOT OOMP  eagleValue: SIMHOLDER3  eagleDevice: SIMHOLDER3  eaglePackage: SIMHOLDER3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Cellular Shield - SM5100B</name>
+		<partID>9607</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/9607]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

@@ -1,0 +1,105 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-09598</oompID>
+	<name>SparkFun MIDI Breakout</name>
+	<hexID>SPAR09598</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun MIDI Breakout board gives your Arduino or any other microcontroller access to the powerful MIDI communication protocol. The MIDI protocol shares many similarities with standard asynchronous serial interfaces, so you can use the UART pins of your microcontroller to send and receive MIDI's event messages.
+The SparkFun MIDI Breakout provides both MIDI-IN and MIDI-OUT connections, as well as a MIDI-THRU port. The MIDI-IN port is opto-isolated to prevent ground loops. The MIDI Breakout board can be mounted directly on top of an Arduino like a shield, connecting the MIDI-IN/THRU to the Arduino's hardware RX pin and the MIDI-OUT to TX. All of the Arduino's digital and analog pins, as well as power and ground busses, are broken out as well. The RUN/PGM switch allows you to program the Arduino over serial without having to remove the shield.
+**Note: **The MIDI Breakout does not come with the three through-hole MIDI connectors soldered; these connectors are included with the product, however.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/9598</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>9</numComponents>
+	<numOompComponents>6</numOompComponents>
+	<oompCompletion>67</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: DIODESMA  eaglePackage: SMA-DIODE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0402-X-O221-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0402-X-O221-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0402-X-O221-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0402-X-O221-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0402-X-O221-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0402-X-O221-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>S3</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TAC_SWITCHSMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>S5</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPSTSMD  eaglePackage: AYZ0202</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun MIDI Breakout</name>
+		<partID>9598</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/9598]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

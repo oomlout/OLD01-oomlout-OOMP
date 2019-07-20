@@ -1,4 +1,4 @@
-﻿<xml>
+<xml>
 	<oompPart>
 		<index>4300</index>
 		<oompID>USBS-MN-M-SMDS-02</oompID>
@@ -43,5 +43,7 @@
 			<drawItem>template;USBS-XXXX-X-XXXX-XX-schem</drawItem>
 		</oompSchem>
 		<ooDesignator>J1</ooDesignator>
-	</oompPart>
+		<oompStatCount>0</oompStatCount>
+	<oompStatPercent>0.00</oompStatPercent>
+</oompPart>
 </xml>

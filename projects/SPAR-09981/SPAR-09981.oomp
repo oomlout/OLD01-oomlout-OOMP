@@ -1,0 +1,113 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-09981</oompID>
+	<name>SparkFun I2C/SPI-to-UART Breakout - SC16IS750</name>
+	<hexID>SPAR09981</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is a breakout board for the SC16IS750, a handy chip used to convert I2C or SPI serial signals to a single-channel, high-performance UART. As an application example: we use this chip on our WiFly Shield to allow an Arduino to communicate with the WiFly RN-131G module - which is normally controlled via a UART - using an SPI interface. This allows for greater communication speeds and frees up the Arduino's UART for other purposes.
+Power applied to the 'VIN' pin is sent through a 3.3V LDO regulator before powering the IC. The input pins of the SC16IS750 are 5.5V tolerant, so this board should work with both 3.3V and 5V controllers. Also populated on the board is a 14.7456MHz crystal, to serve as a clock input to the chip, and other supporting components.
+This board breaks out all pins of the SC16IS750 to two breadboard friendly 11-pin, 0.1" pitch headers.
+Replaces:BOB-09745. The reason for the replacement is the 12.288MHz crystal on BOB-09745 did not allow for the full range of baud rates. The 14.7456MHz crystal on this board increases the functionality to include all of the common baud rates from 9600 up to 921600.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/9981</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>10</numComponents>
+	<numOompComponents>7</numOompComponents>
+	<oompCompletion>70</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0402-X-PF18-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0402-X-PF18-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>IC1</compIden>
+		<compID>NOT OOMP  eagleValue: SC16IS750  eagleDevice: SC16IS750  eaglePackage: QFN-24</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  eagleValue: 14.7456MHz  eagleDevice: CRYSTAL5X3  eaglePackage: CRYSTAL-SMD-5X3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0402-X-O105-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0402-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0402-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun I2C/SPI-to-UART Breakout - SC16IS750</name>
+		<partID>9981</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/9981]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

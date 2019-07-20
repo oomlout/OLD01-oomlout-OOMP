@@ -1,0 +1,63 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-11771</oompID>
+	<name>SparkFun Voltage-Level Translator Breakout - TXB0104</name>
+	<hexID>SPAR11771</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is a breakout board for the Texas Instruments TXB0104 module. The TXB0104 is a 4-bit bidirectional voltage-level translator with automatic direction sensing.
+This 4-bit noninverting translator uses two separate configurable power-supply rails. The A port is designed to track VCCA. VCCA accepts any supply voltage from 1.2V to 3.6V. The B port is designed to track VCCB. VCCB accepts any supply voltage from 1.65V to 5.5V. This allows for universal low-voltage bidirectional translation between any of the 1.2-V, 1.5-V, 1.8-V, 2.5-V, 3.3-V, and 5-V voltage nodes. VCCA should not exceed VCCB.  We have broken out each pin on this module for you to easily access both the A and B ports.
+ Get started with theVoltage-Level Translator Breakout Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/11771</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>3</numComponents>
+	<numOompComponents>2</numOompComponents>
+	<oompCompletion>67</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TXB0104PWRSOIC14  eaglePackage: SO14</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Voltage-Level Translator Breakout - TXB0104</name>
+		<partID>11771</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/11771]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

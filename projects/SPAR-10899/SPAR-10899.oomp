@@ -1,0 +1,71 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-10899</oompID>
+	<name>LilyTiny</name>
+	<hexID>SPAR10899</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The LilyTiny is a tiny little LilyPad board designed to add flashy functionality to your project without taking up a lot of room. Even though it's as small as some of the LilyPad sensors, this board actually has an ATtiny microcontroller on it so it's actually pretty smart! Simply sew on 4 LEDs and connect a battery and the LEDs will each blink or fade differently. One will blink on and off (2), another will flash a heartbeat pattern (1), another will do a "breathing" fade (0) and the other will do a random fade (3). LilyTiny is a quick and easy way to add twinkling lights to a project without any programming or a bulky Main Board. It's also a great educational tool for showing a range of functionality without having to get out the computers.
+If you're an advanced user and want to re-program the LilyTiny, the ICSP programming connectors are broken out on the back.
+LilyPad is a wearable e-textile technology developed by Leah Buechley and cooperatively designed by Leah and SparkFun. Each LilyPad was creatively designed to have large connecting pads to allow them to be sewn into clothing. Various input, output, power, and sensor boards are available.
+Note: A portion of this sale is given back to Dr. Leah Buechley for continued development and education of e-textiles.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/10899</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>4</numComponents>
+	<numOompComponents>2</numOompComponents>
+	<oompCompletion>50</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: AVR_SPI_PRG_6TESTPOINTS  eaglePackage: 2X3_TEST_POINTS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: ATTINY85  eagleDevice: ATTINY45  eaglePackage: SO08-EIAJ</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>LilyTiny</name>
+		<partID>10899</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/10899]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

@@ -1,0 +1,211 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-13169</oompID>
+	<name>SparkFun Blackberry Trackballer Breakout</name>
+	<hexID>SPAR13169</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun BlackBerry Trackballer Breakout gives you easy access to a trackball which measures up, down, left, and right movements, clicks on the board, as well as adding a bit of flair to your project with four built-in LEDs. The trackballer breakout can be hooked into an Arduino compatible device to provide you with an intuitive direction controller.
+As you can see (and probably gather from the name), the BlackBerry trackball is the main feature of this board. Four tiny spindles on the trackball each have small magnets on their ends that each trigger a paired SMD hall effect sensor, giving the user the ability to track up, down, left, and right movement of the trackball. Underneath the trackball, there is a small SMD momentary switch. This allows the user to trigger events or make selections with a simple ‘click’. Also underneath the trackball are four LED which include white, red, green, and blue that can light up the clear trackball any color desired by the user. Combinations of the four LEDs lit up can also be used to customize the trackball color. In order to properly run the hall effect sensors, momentary switch, and LEDs, you will need to supply power on two headers broken out, labeled VCC and GND. Power supplied to the board should be regulated, but can vary anywhere from 2.5 - 5.25V.
+The final feature of the trackballer breakout is the mounting PCB. The PCB, included to mechanically stabilize the trackball, is mounted to the breakout board using four Phillips 4-40 screws and four nylon 4-40 standoffs and is included to prevent the trackball from being ripped off of the breakout board. This mounting board can be replaced with other types of mechanical stabilization if you so choose. For example, if the trackballer breakout is mounted into a project enclosure, the top mounting PCB may be removed.
+Note: Put your screwdriver away, the SparkFun Blackberry Trackballer Breakout comes fully assembled!              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/13169</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>24</numComponents>
+	<numOompComponents>17</numOompComponents>
+	<oompCompletion>71</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>D1</compIden>
+		<compID>LEDS-0603-X-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>D2</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>D3</compIden>
+		<compID>LEDS-0603-X-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>D4</compIden>
+		<compID>LEDS-0603-X-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>E$1</compIden>
+		<compID>NOT OOMP  eagleValue: FIDUCIAL1X2  eagleDevice: FIDUCIAL1X2  eaglePackage: FIDUCIAL-1X2</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>E$2</compIden>
+		<compID>NOT OOMP  eagleValue: FIDUCIAL1X2  eagleDevice: FIDUCIAL1X2  eaglePackage: FIDUCIAL-1X2</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O181-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O181-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O181-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O181-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>R8</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>R9</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  eagleValue: SWITCH-MOMENTARY-2SMD-2  eagleDevice: SWITCH-MOMENTARY-2SMD-2  eaglePackage: TACTILE_SWITCH_SMD-2</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: HALL-EFFECTSMD  eagleDevice: HALL-EFFECTSMD  eaglePackage: SC70</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: HALL-EFFECTSMD  eagleDevice: HALL-EFFECTSMD  eaglePackage: SC70</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  eagleValue: HALL-EFFECTSMD  eagleDevice: HALL-EFFECTSMD  eaglePackage: SC70</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>U4</compIden>
+		<compID>NOT OOMP  eagleValue: HALL-EFFECTSMD  eagleDevice: HALL-EFFECTSMD  eaglePackage: SC70</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Blackberry Trackballer Breakout</name>
+		<partID>13169</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/13169]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

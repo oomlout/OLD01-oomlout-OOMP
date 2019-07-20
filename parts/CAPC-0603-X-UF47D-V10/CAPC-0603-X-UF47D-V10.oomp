@@ -1,10 +1,12 @@
 <xml>
 <oompPart>
 	<oompID>CAPC-0603-X-UF47D-V10</oompID>
-	<name>SMD (0603) 5 uF Capacitor (Ceramic) 10v</name>
+	<name>SMD (0603) 4.7 uF Capacitor (Ceramic) 10v</name>
+	<hexID>C6U004</hexID>
 	<oompType>CAPC</oompType>
 	<oompSize>0603</oompSize>
 	<oompColor>X</oompColor>
+	<oompDesc>UF47D</oompDesc>
 	<oompIndex>V10</oompIndex>
 	<oompVersion>999</oompVersion>
 	<ooWidth>0.8mm</ooWidth>
@@ -90,5 +92,7 @@
 			<drawItem>template;XXXX-0603-X-XXXX-XX-simp</drawItem>
 		</oompSimp>
 		<ooDesignator>C1</ooDesignator>
+	<oompStatCount>1</oompStatCount>
+	<oompStatPercent>0.01</oompStatPercent>
 </oompPart>
 </xml>

@@ -1,0 +1,149 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-11341</oompID>
+	<name>SparkFun Gyro Breakout - LPY503AL (Dual 30°/s)</name>
+	<hexID>SPAR11341</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is a breakout board for the ST's dual-axis LPY503AL gyro.  The LPY503AL is a MEMS motion sensor that measures angular velocity along the pitch and yaw axes with a full scale of ±30°/s. Two different analog outputs are provided for both the x- and z- axes - one 1x amplified and the other 4x amplified.
+A regulated voltage between 2.7 and 3.6VDC should be supplied to the power pins. We have the filtering circuits all set up; you'll just need to connect the outputs to an ADC, and you're ready to go.
+This breakout board includes the gyro and all necessary filtering capacitors as shown. The 1x and 4x amplified outputs of both axes are connected to the 0.1" pitch headers, along with the power-down, self-test, high-pass filter reset, and power pins.
+We've revised this board to correct errors with the high-pass filter, so the output should settle when the unit stops moving.
+Not sure which gyro is right for you? Our Accelerometer and Gyro Buying Guide might help!              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/11341</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>15</numComponents>
+	<numOompComponents>14</numOompComponents>
+	<oompCompletion>93</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0402-X-NF470-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-0402-X-NF22-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C7</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C8</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0402-X-O283-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0402-X-O283-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R9</compIden>
+		<compID>RESE-0402-X-O000-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R10</compIden>
+		<compID>RESE-0402-X-O000-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: LPY5XXX  eagleDevice: ST-GYRO-PYSMD  eaglePackage: ST-GYRO</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Gyro Breakout - LPY503AL (Dual 30°/s)</name>
+		<partID>11341</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/11341]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

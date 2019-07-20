@@ -1,4 +1,4 @@
-﻿<xml>
+<xml>
 	<oompPart>
 		<index>4173</index>
 		<oompID>WIRS-G28-O-STAN-01</oompID>
@@ -12,5 +12,7 @@
 		<oompIndex>01</oompIndex>
 		<oompVersion>28</oompVersion>
 		<oompClass>Wiring</oompClass>
-	<oompClassCode>WIRE</oompClassCode></oompPart>
+	<oompClassCode>WIRE</oompClassCode>	<oompStatCount>0</oompStatCount>
+	<oompStatPercent>0.00</oompStatPercent>
+</oompPart>
 </xml>

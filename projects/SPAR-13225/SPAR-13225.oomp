@@ -1,0 +1,239 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-13225</oompID>
+	<name>SparkFun XBee Explorer Serial</name>
+	<hexID>SPAR13225</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun XBee Explorer Serial is a simple to use, RS232 to serial base unit for the XBee line. This unit works with all XBee modules including the Series 1 and Series 2.5, standard and Pro version. Just plug the unit into the XBee Explorer, attach a RS232 cable, and you will have direct access to the serial and programming pins on the XBee unit. The board also supports DTR communication so you can reprogram and configure the XBee unit.
+XBee modules, RS232 cable, and power supplies can be found in the Recommended Products section below.
+Not sure which XBee module or accessory is right for you? Check out ourXBee Buying Guide!
+ Get Started with the Exploring XBees and XCTU Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/13225</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>28</numComponents>
+	<numOompComponents>21</numOompComponents>
+	<oompCompletion>75</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPT-3216-X-UF10-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C7</compIden>
+		<compID>CAPT-3216-X-UF10-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>C8</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: DIODE-SCHOTTKY-MBRA140  eaglePackage: SMA-DIODE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>D2</compIden>
+		<compID>LEDS-1206-Y-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>D3</compIden>
+		<compID>LEDS-1206-G-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>D4</compIden>
+		<compID>LEDS-1206-G-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>D5</compIden>
+		<compID>LEDS-1206-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>F1</compIden>
+		<compID>NOT OOMP  eagleValue: PTCTHERMISTOR1206  eagleDevice: PTCTHERMISTOR1206  eaglePackage: PTC-1206</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  eagleValue: MBT2222  eagleDevice: TRANSISTOR_NPNSOT23-3  eaglePackage: SOT23-3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O391-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O241-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>R11</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  eagleValue: AYZ0202  eagleDevice: AYZ0202  eaglePackage: AYZ0202</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>S3</compIden>
+		<compID>BUTA-52D-X-SMDS-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: MAX232SOIC16  eagleDevice: MAX232SOIC16  eaglePackage: SO016</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: XBEE-1B3  eagleDevice: XBEE-1B3  eaglePackage: XBEE-SMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  eagleValue: LM117  eagleDevice: V_REG_LM1117SOT223  eaglePackage: SOT223</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun XBee Explorer Serial</name>
+		<partID>13225</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/13225]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

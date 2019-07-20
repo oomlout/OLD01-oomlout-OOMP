@@ -1,0 +1,203 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-11257</oompID>
+	<name>Mr. Roboto Kit</name>
+	<hexID>SPAR11257</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                Meet Mr. Roboto! He's an Arduino-compatible development board designed to be used as a teaching tool for Arduino programming. All of the surface mount components come pre-soldered so a few minutes of simple through-hole soldering is all it takes to get him up and running. After the kit is put together, the on board sensors, buzzer and LCD screen make an excellent platform for learning how to write code for physical computing.
+Mr. Roboto's "hair" is an FTDI programming header. Simply connect an FTDI breakout board and select "Arduino Pro or Pro Mini (5V, 16MHz) w/ ATMega328" under the boards menu in Arduino 1.0. Below, you'll find an archive of well-commented educational example sketches and an accompanying "readme" file describing what each one does in order of complexity. This board, combined with the example code which you can download below, is a great way to introduce students (or yourself) to physical computing and get started writing code. Thank you *very *much, Mr. Roboto!
+We've made a minor change to the hardware, the new version has a new voltage regulator. This doesn't change the way the kit works, though, no worries.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/11257</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>23</numComponents>
+	<numOompComponents>10</numOompComponents>
+	<oompCompletion>43</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPT-3528-X-UF68-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C10</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: DIODESMA  eaglePackage: SMA-DIODE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>IC1</compIden>
+		<compID>NOT OOMP  eagleValue: NCP1402  eagleDevice: V_REG_NCP1400SOT23-5  eaglePackage: SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>L1</compIden>
+		<compID>NOT OOMP  eagleValue: 47uH  eagleDevice: INDUCTORCR54  eaglePackage: CR54</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>LED2</compIden>
+		<compID>NOT OOMP  eagleValue: RED  eagleDevice: LED5MM-KIT  eaglePackage: LED5MM-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>LED3</compIden>
+		<compID>NOT OOMP  eagleValue: RED  eagleDevice: LED5MM-KIT  eaglePackage: LED5MM-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TRANSISTOR_NPNSOT23  eaglePackage: SOT23</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-W04-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-W04-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R4</compIden>
+		<compID>NOT OOMP  eagleValue: TRIMPOT-2  eagleDevice: TRIMPOT-2  eaglePackage: TRIMPOT_TC33</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R5</compIden>
+		<compID>NOT OOMP  eagleValue: PHOTOCELLPTH  eagleDevice: PHOTOCELLPTH-KIT  eaglePackage: PHOTOCELL-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>SG1</compIden>
+		<compID>NOT OOMP  eagleValue: BUZZER  eagleDevice: BUZZERPTH-NS-KIT  eaglePackage: BUZZER-12MM-NS-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: ATmega328  eagleDevice: ATMEGA168  eaglePackage: TQFP32-08</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  eagleValue: LCD-8x2  eagleDevice: LCD-16X28X2-KIT  eaglePackage: LCD-8X2-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>U4</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TMP36TO-92-KIT  eaglePackage: TO-92-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>Y1</compIden>
+		<compID>NOT OOMP  eagleValue: 16mhz  eagleDevice: RESONATORSMD  eaglePackage: RESONATOR-SMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>Mr. Roboto Kit</name>
+		<partID>11257</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/11257]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

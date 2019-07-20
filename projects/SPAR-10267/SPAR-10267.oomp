@@ -1,0 +1,247 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-10267</oompID>
+	<name>EasyDriver - Stepper Motor Driver</name>
+	<hexID>SPAR10267</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The EasyDriver is a simple to use stepper motor driver, compatible with anything that can output a digital 0 to 5V pulse (or 0 to 3.3V pulse if you solder SJ2 closed on the EasyDriver). The EasyDriver requires a 6V to 30V supply to power the motor and can power any voltage of stepper motor. The EasyDriver has an on board voltage regulator for the digital interface that can be set to 5V or 3.3V. Connect a 4-wire stepper motor and a microcontroller and you've got precision motor control! EasyDriver drives bi-polar motors, and motors wired as bi-polar. I.e. 4,6, or 8 wire stepper motors.
+This EasyDriver V4.5 has been co-designed with Brian Schmalz. It provides much more flexibility and control over your stepper motor, when compared to older versions. The microstep select (MS1 and MS2) pins of the A3967 are broken out allowing adjustments to the microstepping resolution. The sleep and enable pins are also broken out for further control.
+Note: Do not connect or disconnect a motor while the driver is energized. This will cause permanent damage to the A3967 IC.
+Note: This product is a collaboration with Brian Schmalz. A portion of each sales goes back to them for product support and continued development.
+ Get Started With the EasyDriver Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/10267</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>29</numComponents>
+	<numOompComponents>23</numOompComponents>
+	<oompCompletion>79</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-UF1-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPE-S63D-X-UF47-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0603-X-PF680-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0603-X-PF680-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>IC1</compIden>
+		<compID>NOT OOMP  eagleValue: A3967SLB  eagleDevice: A3967SLB  eaglePackage: SO24W</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>IC2</compIden>
+		<compID>NOT OOMP  eagleValue: V_REG_317SMD  eagleDevice: V_REG_317SMD  eaglePackage: SOT223</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>PWR_LED</compIden>
+		<compID>LEDS-0603-Y-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R1</compIden>
+		<compID>NOT OOMP  eagleValue: .75  eagleDevice: RESISTOR0805-RES  eaglePackage: 0805</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>R2</compIden>
+		<compID>NOT OOMP  eagleValue: .75  eagleDevice: RESISTOR0805-RES  eaglePackage: 0805</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O203-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O203-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R5</compIden>
+		<compID>NOT OOMP  eagleValue: 2.49K  eagleDevice: RESISTOR0603  eaglePackage: 0603-RES</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O391-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0603-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R8</compIden>
+		<compID>RESE-0603-X-O241-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R9</compIden>
+		<compID>RESE-0603-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>R10</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>R11</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>R12</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>R13</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>R14</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>R15</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>R16</compIden>
+		<compID>NOT OOMP  eagleValue: 10K  eagleDevice: TRIMPOT3MM-2  eaglePackage: TRIMPOT-3MM-2</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>R17</compIden>
+		<compID>RESE-0603-X-O682-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>R18</compIden>
+		<compID>RESE-0603-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>R19</compIden>
+		<compID>RESE-0603-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>R20</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>29</compIndex>
+		<compIden>R21</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>EasyDriver - Stepper Motor Driver</name>
+		<partID>10267</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/10267]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

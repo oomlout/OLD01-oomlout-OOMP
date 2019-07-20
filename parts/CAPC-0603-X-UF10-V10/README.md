@@ -1,12 +1,13 @@
 
+![CAPC-0603-X-UF10-V10](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/CAPC-0603-X-UF10-V10/CAPC-0603-X-UF10-V10_420.jpg)   
 Summary
 =================
   
-Name: __SMD (0603) 11 uF Capacitor (Ceramic) 10v__    
+Name: __SMD (0603) 10 uF Capacitor (Ceramic) 10v__    
 ID: __CAPC-0603-X-UF10-V10__   
-Hex ID: ____   
+Hex ID: __C6U010__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0603-X-UF10-V10__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/C6U010__   
 
 Full Details
 ==========================

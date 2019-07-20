@@ -1,10 +1,12 @@
 <xml>
 <oompPart>
 	<oompID>CAPC-0603-X-UF1-V25</oompID>
-	<name>SMD (0603) 2 uF Capacitor (Ceramic) 25v</name>
+	<name>SMD (0603) 1 uF Capacitor (Ceramic) 25v</name>
+	<hexID>C6U001</hexID>
 	<oompType>CAPC</oompType>
 	<oompSize>0603</oompSize>
 	<oompColor>X</oompColor>
+	<oompDesc>UF1</oompDesc>
 	<oompIndex>V25</oompIndex>
 	<oompVersion>999</oompVersion>
 	<ooWidth>0.8mm</ooWidth>
@@ -83,5 +85,7 @@
 			<drawItem>template;XXXX-0603-X-XXXX-XX-simp</drawItem>
 		</oompSimp>
 		<ooDesignator>C1</ooDesignator>
+	<oompStatCount>103</oompStatCount>
+	<oompStatPercent>1.15</oompStatPercent>
 </oompPart>
 </xml>

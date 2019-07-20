@@ -1,0 +1,182 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14003</oompID>
+	<name>SparkFun THAT 1646 OutSmarts Breakout</name>
+	<hexID>SPAR14003</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The THAT 1646 OutSmarts Breakout Board offers an easy solution to adding a balanced audio output to your circuits. The THAT OutSmarts technology has been designed as a high-grade analog line driver and offers a low distortion and high common mode rejection in real-world audio applications. Each breakout board combines the THAT 1646 IC, its supporting components and a ¼" TRS (Tip Ring Sleeve) socket. With these powers combined, you will find it very easy to use the output drivers on breadboards and in projects!
+The THAT 1646 OutSmarts Breakout and its sibling, the THAT 1206 InGenius Breakout, perform mirror-image signal conversion. While the InGenius is a balanced-to-unbalanced input receiver, this OutSmarts is an unbalanced-to-balanced output driver. We have made sure to break out each pin you need to utilize the OutSmarts board including the unbalanced input (IN), the positive and negative power supply rails (V+, V-) and, of course, ground (GND). Additionally, adjacent to each leg of the socket are test points for the signal (T, R, S) and normal (TN, RN, SN) contacts.
+ Get Started with the THAT 1646 OutSmarts Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14003</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>20</numComponents>
+	<numOompComponents>7</numOompComponents>
+	<oompCompletion>35</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPE-S63D-X-UF10-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPE-S63D-X-UF10-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0603-X-PF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-0603-X-PF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  eagleValue: BAV99  eagleDevice: BAV99  eaglePackage: SOT23-3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>D2</compIden>
+		<compID>NOT OOMP  eagleValue: BAV99  eagleDevice: BAV99  eaglePackage: SOT23-3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>IC1</compIden>
+		<compID>NOT OOMP  eagleValue: THAT1646  eagleDevice: THAT1646  eaglePackage: SO08</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>J1</compIden>
+		<compID>HEAD-I01-X-PI04-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>J2</compIden>
+		<compID>NOT OOMP  eagleValue: SN  eagleDevice: M01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>J3</compIden>
+		<compID>NOT OOMP  eagleValue: S  eagleDevice: M01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>J4</compIden>
+		<compID>NOT OOMP  eagleValue: TN  eagleDevice: M01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>J5</compIden>
+		<compID>NOT OOMP  eagleValue: RN  eagleDevice: M01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>J6</compIden>
+		<compID>NOT OOMP  eagleValue: OUTPUT  eagleDevice: AUDIO_JACK_TRS_0.25_PTH_RA  eaglePackage: AUDIO_JACK_0.25_TRS_PTH_RA</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>J7</compIden>
+		<compID>NOT OOMP  eagleValue: T  eagleDevice: M01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>J8</compIden>
+		<compID>NOT OOMP  eagleValue: R  eagleDevice: M01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>J9</compIden>
+		<compID>NOT OOMP  eagleValue: Chassis  eagleDevice: M01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>L1</compIden>
+		<compID>NOT OOMP  eagleValue: 27uH  eagleDevice: INDUCTOR0603  eaglePackage: 0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>L2</compIden>
+		<compID>NOT OOMP  eagleValue: 27uH  eagleDevice: INDUCTOR0603  eaglePackage: 0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun THAT 1646 OutSmarts Breakout</name>
+		<partID>14003</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14003]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

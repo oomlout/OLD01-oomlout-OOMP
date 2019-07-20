@@ -1,0 +1,49 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-11469</oompID>
+	<name>SparkFun TransmogriShield</name>
+	<hexID>SPAR11469</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The Arduino Leonardo arrived on the scene to great applause. This was followed by the creeping realization that, because of the new microcontroller, all of our favorite SPI or I2C-based Arduino shields would be incompatible.
+Fear not, the SparkFun TransmogriShield will transform your beloved classic shields into Leonardo-compatible shields (apparently "in a surprising or magical manner"? Really?* Transmogrify*?) By using an arrangement of surface-mount headers to "intercept" the incoming pins and shift them around, the TransmogriShield takes the SPI and I2C lines from their new, less convenient, homes at the ICSP header and D2/3 pins, and moves them back into classic Arduino position: SPI on D11-13 and I2C on A4/A5. Any shield placed above the TransmogriShield in the stack will "see" those lines in their old positions. If you can't work around the weird wiring in firmware, this shield might be a good quick-fix.
+Along with allowing you to use classic SPI/I2C based shields like the RF22 Shield, the Touch Shield or the SD Shield, the TransmogriShield also provides plenty of prototyping space, so it makes a pretty good protoshield for the Leonardo!              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/11469</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>1</numComponents>
+	<numOompComponents>0</numOompComponents>
+	<oompCompletion>0</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>J2</compIden>
+		<compID>NOT OOMP  eagleValue: Female  eagleDevice: M03X2  eaglePackage: 2X3_SMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun TransmogriShield</name>
+		<partID>11469</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/11469]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

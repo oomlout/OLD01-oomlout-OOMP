@@ -1,0 +1,83 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-11189</oompID>
+	<name>SparkFun Transceiver Breakout - MAX3232</name>
+	<hexID>SPAR11189</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The 'must have' IC for TTL/CMOS projects finally has its own breakout board! This is the RS232 converter IC that is capable of running at 3V and communicating with 5V logic.
+We've taken the SOIC package MAX3232 and broken out all the pins you need to set up your RS232 to TTL connection. We've also included the necessary 0.1uF charge pump capacitors. Also remember that because the MAX3232 operates at a broader voltage range than the 232 (3 - 5.5V) you can use this on both your 3.3 and 5V projects!              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/11189</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>6</numComponents>
+	<numOompComponents>5</numOompComponents>
+	<oompCompletion>83</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: MAX3232  eagleDevice: MAX232SOIC16  eaglePackage: SO016</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Transceiver Breakout - MAX3232</name>
+		<partID>11189</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/11189]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

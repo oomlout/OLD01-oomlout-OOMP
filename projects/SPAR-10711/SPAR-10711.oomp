@@ -1,0 +1,247 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-10711</oompID>
+	<name>SparkFun LiPower Shield</name>
+	<hexID>SPAR10711</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                Is there anything an Arduino can't do? Well, for one, most of them can't be powered directly from a 3.7V LiPo battery; much less charge and monitor that battery. The SparkFun LiPower Shield takes care of this by combining the functionality of two of our favorite battery power boards: the Power Cell and the Fuel Gauge.
+The LiPower Shield allows you to connect a 3.7V single cell Lithium polymer battery which it will boost up to 5V and connect to the Arduino board's 5V pin. The on-board MAX17043G+U IC is connected to the I2C lines (A4 and A5) so that your project can monitor it's own power supply. The configurable alert interrupt pin on the MAX17043G+U IC is broken out to D3 which will activate when the LiPo gets to 32% or lower.
+The charging circuit is configured to charge the LiPo at 100mA but by adding a resistor to the supplied through-holes you can boost this to 500mA. There is a mini-USB port on the shield which allows you to charge the battery from a USB power source or you can supply a separate regulated 5V source on the "charge" header.
+Note: We've decided to leave the power indicator LED (LED1) and its current limiting resistor (R3) off this board, as they were producing a significant drain on the battery. Please be aware that your board will have a few, shiny, unpopulated pads.
+Note: There is a known hardware bug that will allow the LiPo to discharge below the point where the charging circuit will revive it. Thanks to the on-board fuel gauge, however, some clever programming could keep your project from draining the battery as it gets too low.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/10711</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>29</numComponents>
+	<numOompComponents>22</numOompComponents>
+	<oompCompletion>76</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF22-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0805-X-UF47-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-1206-X-UF10-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C7</compIden>
+		<compID>CAPT-3216-X-UF10-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>C8</compIden>
+		<compID>CAPC-0603-X-UF47D-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>C9</compIden>
+		<compID>CAPC-0603-X-UF47D-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>D1</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>D2</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>L1</compIden>
+		<compID>NOT OOMP  eagleValue: 4.7uH, 1.2A  eagleDevice: INDUCTORINDUCTOR_4.7UH  eaglePackage: INDUCTOR_4.7UH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O472-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O331-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O205-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O224-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0603-X-O205-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>R8</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>R9</compIden>
+		<compID>RESE-0603-X-O204-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>R11</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>R12</compIden>
+		<compID>RESE-0603-X-O331-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>S2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPDT-SMD-A  eaglePackage: SWITCH-SPST-SMD-A</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: MAX17043G+U  eagleDevice: MAX1704X  eaglePackage: TDFN-8</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: TPS61200  eagleDevice: TPS61200  eaglePackage: QFN-10_PAD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  eagleValue: MCP73831  eagleDevice: MCP73831  eaglePackage: SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>U4</compIden>
+		<compID>NOT OOMP  eagleValue: ARDUINO_R3_SHIELD  eagleDevice: ARDUINO_R3_SHIELD  eaglePackage: UNO_R3_SHIELD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>29</compIndex>
+		<compIden>VREG</compIden>
+		<compID>NOT OOMP  eagleValue: MIC5205-3.3V  eagleDevice: MIC52053.3V  eaglePackage: SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun LiPower Shield</name>
+		<partID>10711</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/10711]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

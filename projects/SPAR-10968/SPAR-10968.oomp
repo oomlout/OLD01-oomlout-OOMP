@@ -1,0 +1,76 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-10968</oompID>
+	<name>SparkFun 5V Step-Up Breakout - NCP1402</name>
+	<hexID>SPAR10968</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The NCP1402 is a 5V DC-DC converter. This breakout board will accept voltage inputs between 1 and 4 Volts and output a constant, low ripple 5V output capable of sourcing up to 200 mA. This board is great for supplying power to 5V sensors on a 3.3V board, or providing 5V from a AA battery.
+The breakout board includes all of the necessary peripheral components. The input, output and ground pins are broken out on a 0.1" grid to allow easy access on a breadboard.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/10968</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>5</numComponents>
+	<numOompComponents>2</numOompComponents>
+	<oompCompletion>40</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPT-3528-X-UF68-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: DIODESMA  eaglePackage: SMA-DIODE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>L1</compIden>
+		<compID>NOT OOMP  eagleValue: 47uH  eagleDevice: INDUCTORCR54  eaglePackage: CR54</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: NCP1402  eagleDevice: V_REG_NCP1400SOT23-5  eaglePackage: SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun 5V Step-Up Breakout - NCP1402</name>
+		<partID>10968</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/10968]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

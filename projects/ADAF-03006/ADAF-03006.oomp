@@ -1,0 +1,118 @@
+<xml>
+<oompProject>
+	<oompID>ADAF-03006</oompID>
+	<name>Adafruit I2S 3W Class D Amplifier Breakout - MAX98357A</name>
+	<hexID>ADAF03006</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+Adafruit MAX98357 I2S Amp Breakout PCB
+
+Click here to purchase one from the Adafruit shop
+
+The all in one digital audio amp breakout board that works incredibly well with the Raspberry Pi! If you're looking for an easy and low cost way to get you digital sound files bumpin' then the MAX98357 I2S Amp Breakout is for you. It takes standard I2S digital audio input and, not only decodes it into analog, but also amplifies it directly into a speaker. Perfect for adding compact amplified sound, it takes 2 breakouts (I2S DAC + Amp) and combines them into one.
+
+I2S (not to be confused with I2C) in a digital sound protocol that is used on circuit boards to pass audio data around. Many high end chips and processors manage all of the audio in digital I2S format. Then, to input or output data, three or four pins are used (data in, data out, bit clock and left-right channel select). Usually, for audio devices, there's a DAC chip that will take I2S in and convert it to analog that can drive a headphone.
+
+This small mono amplifier is surprisingly powerful - able to deliver 3.2 Watts of power into a 4 ohm impedance speaker (5V power @ 10% THD). Inside the miniature chip is a class D controller, able to run from 2.7V-5.5VDC. Since the amp is a class D, it's incredibly efficient - making it perfect for portable and battery-powered projects. It has built in thermal and over-current protection but we could barely tell it got hot.
+
+PCB files for the Adafruit MAX98357 I2S Amp Breakout
+
+https://www.adafruit.com/product/3006
+License
+Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from Adafruit!
+
+All text above must be included in any redistribution
+
+Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. See license.txt for additional information.
+</oompAbout>
+	<oompOfficialLink>https://www.adafruit.com/product/3006</oompOfficialLink>
+	<company>Adafruit</company>
+	<companyCode>C-ADAF</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>9</numComponents>
+	<numOompComponents>5</numOompComponents>
+	<oompCompletion>56</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0805-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0805-X-PF220-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0805-X-PF220-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>FB1</compIden>
+		<compID>NOT OOMP  eagleValue: Ferrite  eagleDevice: FERRITE-0805NO  eaglePackage: 0805-NO</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>FB2</compIden>
+		<compID>NOT OOMP  eagleValue: Ferrite  eagleDevice: FERRITE-0805NO  eaglePackage: 0805-NO</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0805-X-O105-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: MAX98357A  eagleDevice: AUDIOAMP_MAX98357  eaglePackage: QFN16_3MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>X1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TERMBLOCK_1X2  eaglePackage: TERMBLOCK_1X2-3.5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Adafruit</company>
+		<companyCode>C-ADAF</companyCode>
+		<name>Adafruit I2S 3W Class D Amplifier Breakout - MAX98357A</name>
+		<partID>3006</partID>
+		<link><![CDATA[https://www.adafruit.com/product/3006]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

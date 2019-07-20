@@ -1,0 +1,48 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-10141</oompID>
+	<name>SparkFun GPS Receiver Breakout - LS20126</name>
+	<hexID>SPAR10141</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                Here is a breakout board for the LS20126 GPS receiver. The board allows you to access all the pins on the GPS module through 0.1" spaced holes. Buy a header, solder everything up and you're ready to go!
+The GPS module is not included.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/10141</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>1</numComponents>
+	<numOompComponents>0</numOompComponents>
+	<oompCompletion>0</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: LS20126  eagleDevice: LS20126  eaglePackage: LS20126</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun GPS Receiver Breakout - LS20126</name>
+		<partID>10141</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/10141]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

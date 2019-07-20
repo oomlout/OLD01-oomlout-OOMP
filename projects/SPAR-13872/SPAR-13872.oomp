@@ -1,0 +1,115 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-13872</oompID>
+	<name>SparkFun Servo Trigger - Continuous Rotation</name>
+	<hexID>SPAR13872</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun Continuous Rotation (CR) Servo Trigger is a small robotics board that simplifies the control of hobby RC servo motors. When an external switch or logic signal changes state, the CR Servo Trigger is able to tell an attached servo motor to move from position A to position B. To use the CR Servo Trigger, you simply connect a hobby servo and a switch, then use the on-board potentiometers to adjust the start/stop positions and the transition time. You can use a hobby servo in your projects without having to do any programming!
+When we introduced the original Servo Trigger, we mentioned that it could be reprogrammed to be more useful with continuous rotation servo motors. But reprogramming the firmware is somewhat tedious, and users asked for a Servo Trigger preprogrammed with the continuous rotation logic. With this little board you will be provided an easy way to deploy continuous rotation servos into your projects!
+The heart of the CR Servo Trigger is an Atmel ATtiny84 microcontroller, running a small program that implements the servo control features designed for continuous rotation servos. On board each  of these CR Servo Triggers you will find three potentiometers: "A" sets the position the servo sits in while the switch is open, "B" sets the position the servo moves to when the switch is closed, and "T" sets the time it takes to get from A to B and back.
+Compared with a servo motor, the CR Servo Trigger board draws very little current, roughly 5mA at 5V. Be sure to note that if you’re using the CR Servo Trigger to control your motor, the absolute maximum supply voltage that should be applied is 5.5 VDC. Additionally, the SparkFun CR Servo Trigger is designed to make it easy to daisy chain boards – you can simply connect the VCC and GND pads on adjacent boards to each other.
+Note: This idea originally came from our friend in the Oakland area, CTP. If you see him, please give him a high-five for us.
+ SparkFun CR Servo Trigger Hookup Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/13872</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>10</numComponents>
+	<numOompComponents>5</numOompComponents>
+	<oompCompletion>50</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPT-3216-X-UF10-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>R1</compIden>
+		<compID>NOT OOMP  eagleValue: 10k  eagleDevice: TRIMPOTRES-11156  eaglePackage: TRIMPOT_5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>R2</compIden>
+		<compID>NOT OOMP  eagleValue: 10k  eagleDevice: TRIMPOTRES-11156  eaglePackage: TRIMPOT_5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R3</compIden>
+		<compID>NOT OOMP  eagleValue: 10k  eagleDevice: TRIMPOTRES-11156  eaglePackage: TRIMPOT_5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: ATTINY84  eagleDevice: ATTINY84  eaglePackage: SO14</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>Y1</compIden>
+		<compID>NOT OOMP  eagleValue: 16MHZ  eagleDevice: RESONATOR16MHZ  eaglePackage: RESONATOR-SMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Servo Trigger - Continuous Rotation</name>
+		<partID>13872</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/13872]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

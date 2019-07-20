@@ -1,0 +1,94 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-13926</oompID>
+	<name>SparkFun Triple Axis Accelerometer Breakout - MMA8452Q (with Headers)</name>
+	<hexID>SPAR13926</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This breakout board makes it easy to use the tiny MMA8452Q accelerometer in your project. The MMA8452Q is a smart, low-power, three-axis, capacitive MEMS accelerometer with 12 bits of resolution. This accelerometer is packed with embedded functions with flexible user-programmable options, configurable to two interrupt pins. Embedded interrupt functions allow for overall power savings relieving the host processor from continuously polling data. Due to popular demand, this version of the SparkFun Triple Axis Accelerometer Breakout includes pre-soldered male headers for better ease of use. With the headers already soldered on, you can jump right into using this little board without any assembly!
+The MMA8452Q has user-selectable full scales of ±2g/±4g/±8g with high pass filtered data as well as unfiltered data available in real time. The device can be configured to generate inertial wake-up interrupt signals from any combination of the configurable embedded functions, allowing the MMA8452Q to monitor events and remain in a low power mode during periods of inactivity.
+This board breaks out the ground, power, I2C and two external interrupt pins.
+Not sure which accelerometer is right for you? Our Accelerometer, Gyro and IMU Buying Guide might help!
+Note: If you are looking for the SparkFun Triple Axis Accelerometer Breakout without headers, it can be found here or in the Recommended Products below.
+ Get Started with the MMA8452Q Breakout Hookup Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/13926</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>7</numComponents>
+	<numOompComponents>6</numOompComponents>
+	<oompCompletion>86</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0402-X-UF47D-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: MMA8452Q  eagleDevice: MMA8452Q  eaglePackage: QFN-16_0.5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Triple Axis Accelerometer Breakout - MMA8452Q (with Headers)</name>
+		<partID>13926</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/13926]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

@@ -1,0 +1,194 @@
+<xml>
+<oompProject>
+	<oompID>ADAF-01272</oompID>
+	<name>Adafruit Ultimate GPS Logger Shield - Includes GPS Module</name>
+	<hexID>ADAF01272</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+Adafruit GPS Logger Shield PCB
+
+Click here to purchase one from the Adafruit shop
+
+Better than ever, our Adafruit assembled GPS shield comes with an Ultimate GPS module. This GPS shield works great with either Adafruit Metro, Arduino UNO or Leonardo and is designed to log data to an SD card. Or you can leave the SD card out and use the GPS for a geocaching project, or maybe a music player that changes tunes depending on where you are in the city.
+
+-165 dBm sensitivity, 10 Hz updates, 66 channels
+Low power module - only 20mA current draw, half of most GPS's
+Assembled and tested shield for Arduino Uno/Duemilanove/Diecimila/Leonardo (not for use with Mega/ADK/Due)
+MicroSD card slot for datalogging onto a removable card
+RTC battery included, for up to 7 years backup
+Built-in datalogging to flash
+PPS output on fix
+Internal patch antenna + u.FL connector for external active antenna
+Power, Pin #13 and Fix status LED
+Big prototyping area
+PCB files for Adafruit GPS Logger Shield. The format is EagleCAD schematic and board layout
+
+https://www.adafruit.com/products/1272
+License
+Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from Adafruit!
+
+All text above must be included in any redistribution
+
+Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. See license.txt for additional information.
+</oompAbout>
+	<oompOfficialLink>https://www.adafruit.com/product/1272</oompOfficialLink>
+	<company>Adafruit</company>
+	<companyCode>C-ADAF</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>19</numComponents>
+	<numOompComponents>10</numOompComponents>
+	<oompCompletion>53</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>B1</compIden>
+		<compID>NOT OOMP  eagleValue: CR1220  eagleDevice: BATTERYCR1220_SMT  eaglePackage: CR1220</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0805-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>CN2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: MICROSD  eaglePackage: MICROSD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>FB1</compIden>
+		<compID>NOT OOMP  eagleValue: Ferrite  eagleDevice: FERRITE0805  eaglePackage: 0805at1REPLACE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>LED1</compIden>
+		<compID>LEDS-0805-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>LED4</compIden>
+		<compID>LEDS-0805-Y-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>LED5</compIden>
+		<compID>LEDS-0805-G-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0805-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0805-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>R9</compIden>
+		<compID>RESE-0805-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R10</compIden>
+		<compID>RESE-0805-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>RESET</compIden>
+		<compID>NOT OOMP  eagleValue: Reset  eagleDevice: SPST_TACT-EVQQ2  eaglePackage: EVQ-Q2</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>SW1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: DPDT-EG1390  eaglePackage: EG1390</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: FGPMMOPA6H  eagleDevice: GPS_FGPMMOPA6H  eaglePackage: FGPMMOPA6H</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: MIC5225-3.3  eagleDevice: VREG_SOT23-5  eaglePackage: SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  eagleValue: ARDUINOR3-DIMENSION  eagleDevice: ARDUINOR3-DIMENSION  eaglePackage: ARDUINOR3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>U4</compIden>
+		<compID>NOT OOMP  eagleValue: 4050  eagleDevice: 74HC4050D  eaglePackage: SOIC16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Adafruit</company>
+		<companyCode>C-ADAF</companyCode>
+		<name>Adafruit Ultimate GPS Logger Shield - Includes GPS Module</name>
+		<partID>1272</partID>
+		<link><![CDATA[https://www.adafruit.com/product/1272]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

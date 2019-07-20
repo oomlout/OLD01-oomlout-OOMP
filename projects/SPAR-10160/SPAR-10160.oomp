@@ -1,0 +1,72 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-10160</oompID>
+	<name>SparkFun DeadOn RTC Breakout - DS3234</name>
+	<hexID>SPAR10160</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                Here is a real time clock based on the DS3234 Real Time Clock IC. The DS3234 is a low-cost, extremely accurate SPI bus real-time clock with an integrated temperature-compensated crystal oscillator and crystal.
+The RTC maintains seconds, minutes, hours, day, date, month, and year information. The date at the end of the month is automatically adjusted for months with fewer than 31 days, including corrections of leap year. The clock operates in either the 24-hour or 12-hour format with AM/PM indicator. Two programmable time-of-day alarms and a programmable square-wave output are provided.
+The underside of the board holds a 12mm coin-cell battery holder for battery backup.
+Note: These do not include a battery. See the related products below for a battery.
+ Get Started with the DeadOn RTC Module Hookup Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/10160</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>4</numComponents>
+	<numOompComponents>2</numOompComponents>
+	<oompCompletion>50</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>BAT1</compIden>
+		<compID>NOT OOMP  eagleValue: 3V  eagleDevice: BATTERY  eaglePackage: BATTCON_12MM_CURVED</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0402-X-PF22-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: DS3234  eagleDevice: DS3234  eaglePackage: DS3234</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun DeadOn RTC Breakout - DS3234</name>
+		<partID>10160</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/10160]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

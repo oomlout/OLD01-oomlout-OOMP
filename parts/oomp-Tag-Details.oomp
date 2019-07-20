@@ -122,6 +122,23 @@
 	<!-- Part Details -->
 	<!-- Dimensions -->
 	<oompTag>
+		<tagName>oompStatCount</tagName>
+		<tagReadable>OOMP Occurence Count</tagReadable>
+		<tagLabel>oompstatcount</tagLabel>
+		<tagType>OOMP</tagType>
+		<tagDescription>The number of times the part occurs in OOMP projects</tagDescription>
+		<tagSort>110</tagSort>
+	</oompTag>
+	<oompTag>
+		<tagName>oompStatPercent</tagName>
+		<tagReadable>OOMP Occurence Percent</tagReadable>
+		<tagLabel>oompstatpercent</tagLabel>
+		<tagType>OOMP</tagType>
+		<tagDescription>The percent the part occurs in OOMP projects</tagDescription>
+		<tagSort>110</tagSort>
+	</oompTag>
+	
+	<oompTag>
 		<tagName>ooPitch</tagName>
 		<tagReadable>Pitch</tagReadable>
 		<tagLabel>pitch</tagLabel>
@@ -479,10 +496,25 @@
 		<tagDescription></tagDescription>
 		<tagType>Hidden</tagType>
 		<tagSort></tagSort>
-		</oompTag>    <oompTag>
+		</oompTag>
+	<oompTag>
 		<tagName>numComponents</tagName>
 		<tagReadable>Number of Components</tagReadable>
 		<tagDescription>The total number of components in a project</tagDescription>
+		<tagType>Project</tagType>
+		<tagSort></tagSort>
+	</oompTag>
+		<oompTag>
+		<tagName>numOompComponents</tagName>
+		<tagReadable>Number of Components in the OOMP System</tagReadable>
+		<tagDescription>The total number of components in a project with an OOMP ID.</tagDescription>
+		<tagType>Project</tagType>
+		<tagSort></tagSort>
+	</oompTag>
+		<oompTag>
+		<tagName>oompCompletion</tagName>
+		<tagReadable>OOMP Components / Number of Components (0-100)</tagReadable>
+		<tagDescription>The percentage of components in the OOMP System</tagDescription>
 		<tagType>Project</tagType>
 		<tagSort></tagSort>
 	</oompTag>

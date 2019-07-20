@@ -1,10 +1,12 @@
 <xml>
 <oompPart>
 	<oompID>CAPC-0402-X-UF1-V63D</oompID>
-	<name>SMD (0402) 2 uF Capacitor (Ceramic) 6.3v</name>
+	<name>SMD (0402) 1 uF Capacitor (Ceramic) 6.3v</name>
+	<hexID>C42U001V63D</hexID>
 	<oompType>CAPC</oompType>
 	<oompSize>0402</oompSize>
 	<oompColor>X</oompColor>
+	<oompDesc>UF1</oompDesc>
 	<oompIndex>V63D</oompIndex>
 	<oompVersion>999</oompVersion>
 	<ooWidth>0.5mm</ooWidth>
@@ -88,5 +90,7 @@
 			<drawItem>template;XXXX-0402-X-XXXX-XX-simp</drawItem>
 		</oompSimp>
 		<ooDesignator>C1</ooDesignator>
+	<oompStatCount>18</oompStatCount>
+	<oompStatPercent>0.20</oompStatPercent>
 </oompPart>
 </xml>

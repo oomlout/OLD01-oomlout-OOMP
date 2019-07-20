@@ -1,0 +1,168 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-12577</oompID>
+	<name>SparkFun Bluetooth Modem - BlueSMiRF Silver</name>
+	<hexID>SPAR12577</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The BlueSMiRF Silver is the latest Bluetooth wireless serial cable replacement from SparkFun Electronics! This version of the popular BlueSMiRF uses the RN-42 module which has a bit less range than the RN-41 module used in the BlueSMiRF Gold. These modems work as a serial (RX/TX) pipe. Any serial stream from 2400 to 115200bps can be passed seamlessly from your computer to your target.
+The remote unit can be powered from 3.3V up to 6V for easy battery attachment. All signal pins on the remote unit are 3V-6V tolerant. No level shifting is required. Do not attach this device directly to a serial port. You will need an RS232 to TTL converter circuit if you need to attach this to a computer.
+Unit comes without a connector. Please see related male and female pins below.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/12577</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>18</numComponents>
+	<numOompComponents>14</numOompComponents>
+	<oompCompletion>78</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0603-X-UF1-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>D1</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>D2</compIden>
+		<compID>LEDS-0603-G-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  eagleValue: MOSFET-NCHANNELSMD  eagleDevice: MOSFET-NCHANNELSMD  eaglePackage: SOT23-3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>Q2</compIden>
+		<compID>NOT OOMP  eagleValue: MOSFET-NCHANNELSMD  eagleDevice: MOSFET-NCHANNELSMD  eaglePackage: SOT23-3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>R8</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R9</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: BLUETOOTH-RN41  eagleDevice: BLUETOOTH-RN41  eaglePackage: RN41</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Bluetooth Modem - BlueSMiRF Silver</name>
+		<partID>12577</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/12577]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

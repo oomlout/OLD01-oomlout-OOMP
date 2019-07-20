@@ -1,0 +1,140 @@
+<xml>
+<oompProject>
+	<oompID>ADAF-01778</oompID>
+	<name>Analog Output K-Type Thermocouple Amplifier - AD8495 Breakout</name>
+	<hexID>ADAF01778</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+PCB files for Adafruit Analog K-Type Thermocouple Amplifier AD8495 Breakout
+
+
+Thermocouples are very sensitive, requiring a good amplifier with a cold-compensation reference. We have a couple digital thermocouple amplifiers in the shop already from Maxim. Now we're happy to introduce an excellent analog-output amplifier. This is a very simple sensor to use, and if your microcontroller has analog input capability, you'll be ready to go really fast!
+
+The AD8495 K-type thermocouple amplifier from Analog Devices is so easy to use, we documented the whole thing on the back of the tiny PCB. Power the board with 3-18VDC and measure the output voltage on the OUT pin. You can easily convert the voltage to temperature with the following equation: Temperature = (Vout - 1.25) / 0.005 V. So for example, if the voltage is 1.5VDC, the temperature is (1.5 - 1.25) / 0.005 = 50¡C
+
+Each order comes with a 2 pin terminal block (for connecting to the thermocouple), a fully assembled PCB with the AD8495 + TLVH431 1.25V precision voltage reference, and pin header (to plug into any breadboard or perfboard). Goes great with our 1m K-type thermocouple (not included). Not for use with any other kind of thermocouple, K type only!
+
+Works with any K type thermocouple
+Will not work with any other kind of thermocouple other than K type
+Easy to use analog output
+Temp range with 5V power: -250¡C to +750¡C output (0 to 5VDC) as long as the thermocouple can handle that range
+Temp range with 3.3V power: -250¡C to +410¡C output (0 to 3.3VDC) as long as the thermocouple can handle that range
+Note: The terminal blocks included with your product may be blue or black.
+
+License
+Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from Adafruit!
+
+Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attribution, Share-Alike license, check license.txt for more information All text above must be included in any redistribution
+</oompAbout>
+	<oompOfficialLink>https://www.adafruit.com/product/1778</oompOfficialLink>
+	<company>Adafruit</company>
+	<companyCode>C-ADAF</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>12</numComponents>
+	<numOompComponents>8</numOompComponents>
+	<oompCompletion>67</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0805-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0805-X-NF10-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0805-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0805-X-NF10-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  eagleValue: TLVH431  eagleDevice: SHUNT-VREF  eaglePackage: SOT23-R</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>FB1</compIden>
+		<compID>NOT OOMP  eagleValue: ferrite  eagleDevice: FERRITE0805  eaglePackage: 0805</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0805-X-O101-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0805-X-O101-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0805-X-O105-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0805-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: AD8495ARMZ   eagleDevice: AD849X  eaglePackage: MSOP8_0.65MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>X1</compIden>
+		<compID>NOT OOMP  eagleValue: 3.5mm terminal  eagleDevice: TERMBLOCK_1X2  eaglePackage: TERMBLOCK_1X2-3.5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Adafruit</company>
+		<companyCode>C-ADAF</companyCode>
+		<name>Analog Output K-Type Thermocouple Amplifier - AD8495 Breakout</name>
+		<partID>1778</partID>
+		<link><![CDATA[https://www.adafruit.com/product/1778]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

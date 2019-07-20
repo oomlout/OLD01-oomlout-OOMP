@@ -19,4 +19,4 @@ set extra=projectIndex
 	REM All Parts
 python %TPGEdirectory%TPGEmain.py -bd %OOBBpartsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp,%OOMPprojectsDirectory% -tm %OOMPdirectory%template/OOMP-%extra%.tmpl.md -of %OOMPwikiDirectory%%extra%.md
 
-python %TPGEdirectory%TPGEmain.py -rm A -bd %OOMPprojectsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp,%OOBBpartsDirectory% -tm %OOMPdirectory%template/OOMP-projectPage.tmpl.md -of %OOMPwikiDirectory%\projects\%%%%ID%%%%.md
+python %TPGEdirectory%TPGEmain.py -rm A -bd %OOMPprojectsDirectory% -xa .oomp -ex C:\GH\oomlout-OOMP\OOMP-helpers.oomp,%OOBBpartsDirectory% -tm %OOMPdirectory%template/OOMP-projectPage.tmpl.md -of %OOMPwikiDirectory%%%%%ID%%%%.md

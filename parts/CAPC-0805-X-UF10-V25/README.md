@@ -1,12 +1,13 @@
 
+![CAPC-0805-X-UF10-V25](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/CAPC-0805-X-UF10-V25/CAPC-0805-X-UF10-V25_420.jpg)   
 Summary
 =================
   
-Name: __SMD (0805) 11 uF Capacitor (Ceramic) 25v__    
+Name: __SMD (0805) 10 uF Capacitor (Ceramic) 25v__    
 ID: __CAPC-0805-X-UF10-V25__   
-Hex ID: ____   
+Hex ID: __C85U010__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0805-X-UF10-V25__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/C85U010__   
 
 Full Details
 ==========================

@@ -1,0 +1,238 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-09628</oompID>
+	<name>SparkFun USB Host Shield</name>
+	<hexID>SPAR09628</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This new version corrects the pin out for the GPX and RESET pins. The SparkFun USB Host Shield contains all of the digital logic and analog circuitry necessary to implement a full-speed USB peripheral/host controller with your Arduino. This means you could use your Arduino to interface with and control any USB slave device - thumbdrives, digital cameras, bluetooth dongles, and much more!
+A four-wire serial interface is used to communicate with the host controller chip, so the shield connects the Arduino's hardware SPI pins (D10-13) to the MAX3421E. A USB type A female connector is wired up to the IC, and it also supplies 5V as any normal USB port would.
+The Host Shield takes its power from the 'Vin' pin on your Arduino. Power from that pin is regulated to both 5V and 3.3V on the shield. All SPI signals are sent through a hex converter to step them down to 3.3V.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/9628</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>28</numComponents>
+	<numOompComponents>17</numOompComponents>
+	<oompCompletion>61</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0402-X-PF18-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-0402-X-PF18-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C7</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>C8</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>C9</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>C10</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>C11</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>F1</compIden>
+		<compID>NOT OOMP  eagleValue: PTCSMD  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>IC1</compIden>
+		<compID>NOT OOMP  eagleValue: lm1117  eagleDevice: V_REG_LM1117SOT223  eaglePackage: SOT223</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>LED1</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>Q2</compIden>
+		<compID>NOT OOMP  eagleValue: 12MHz  eagleDevice: CRYSTAL5X3  eaglePackage: CRYSTAL-SMD-5X3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0402-X-O330-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0402-X-O330-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0402-X-O222-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>R8</compIden>
+		<compID>RESE-0402-X-O241-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>R9</compIden>
+		<compID>NOT OOMP  eagleValue: 715  eagleDevice: RESISTOR0402-RES  eaglePackage: 0402-RES</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>R14</compIden>
+		<compID>RESE-0402-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  eagleValue: SWITCH-DPDTSMD  eagleDevice: SWITCH-DPDTSMD  eaglePackage: AYZ0202</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>S2</compIden>
+		<compID>NOT OOMP  eagleValue: SWITCH-SMD  eagleDevice: SWITCH-MOMENTARY-2SMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: ARDUINO_SHIELD  eagleDevice: ARDUINO_SHIELDLABEL  eaglePackage: DUEMILANOVE_SHIELD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: MAX3421E  eagleDevice: MAX3421ESMD  eaglePackage: TQFP32-5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  eagleValue: 3.3V_REG  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>U4</compIden>
+		<compID>NOT OOMP  eagleValue: HEX_CONVERTER  eagleDevice: HEX_CONVERTER  eaglePackage: SO016</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>X2</compIden>
+		<compID>NOT OOMP  eagleValue: USB_  eagleDevice: USB_  eaglePackage: USB-A-S-SILK-FEMALE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun USB Host Shield</name>
+		<partID>9628</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/9628]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

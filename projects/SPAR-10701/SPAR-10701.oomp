@@ -1,0 +1,147 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-10701</oompID>
+	<name>Color Light Sensor Evaluation Board</name>
+	<hexID>SPAR10701</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                Replacement: None. The ADJD-S311 is no longer in production so we can no longer carry this sensor in our catalog. This page is for reference only.
+The ADJD-S311-CR999 is a great little color light sensor. In fact, it's so little that it can be pretty difficult to play with, so we made this evaluation board! It provides all the necessary support circuitry to discern the smallest differences between visible colors.
+Replaces:SEN-08663              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/10701</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>15</numComponents>
+	<numOompComponents>11</numOompComponents>
+	<oompCompletion>73</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0402-X-UF47D-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0402-X-UF47D-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>LED1</compIden>
+		<compID>LEDS-0603-W-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>Q2</compIden>
+		<compID>NOT OOMP  eagleValue: MMBT2222  eagleDevice: TRANSISTOR_NPNSOT23-3  eaglePackage: SOT23-3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0402-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0402-X-O101-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0402-X-O301-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>R8</compIden>
+		<compID>RESE-0402-X-O301-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: ADJD-S311-CR999  eagleDevice: ADJD-S311-CR999  eaglePackage: CSP-9</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: 2.8V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  eagleValue: 2.8V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>Color Light Sensor Evaluation Board</name>
+		<partID>10701</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/10701]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

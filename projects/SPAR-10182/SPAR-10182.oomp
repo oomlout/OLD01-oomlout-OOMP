@@ -1,0 +1,286 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-10182</oompID>
+	<name>SparkFun Monster Moto Shield</name>
+	<hexID>SPAR10182</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is essentially a ramped up version of our Ardumoto motor driver shield. For this SparkFun Monster Moto Shield we've replaced the L298 H-bridge with a pair of VNH2SP30 full-bridge motor drivers. We've also beefed up the support circuitry so this board is capable of driving a pair of high-current motors! The VIN and motor out are pitched for our 5mm screw terminals (not included), making it easy to connect larger gauge wires.
+Note: When using this board in extreme high-demand applications it may be necessary to improve thermal performance with a heat-sink or fan and to solder the wires directly to the board instead of using a screw terminal (in addition to the myriad other complications present in a high-current system) However, when using the board at currents up to 6A the chips will barely become noticeably warm.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/10182</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>35</numComponents>
+	<numOompComponents>29</numOompComponents>
+	<oompCompletion>83</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0402-X-NF33-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPE-S10-X-UF560-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0402-X-NF33-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPE-S10-X-UF560-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  eagleValue: BZT52  eagleDevice: DIODE-ZENER-BZT52  eaglePackage: SOD-323</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>LED1</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>LED2</compIden>
+		<compID>LEDS-0603-G-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>LED3</compIden>
+		<compID>LEDS-0603-G-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>LED4</compIden>
+		<compID>LEDS-0603-G-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>LED5</compIden>
+		<compID>LEDS-0603-G-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  eagleValue: FDD8580  eagleDevice: MOSFET-NCHANNELFDD8580  eaglePackage: DPAK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>Q2</compIden>
+		<compID>NOT OOMP  eagleValue: FDD8580  eagleDevice: MOSFET-NCHANNELFDD8580  eaglePackage: DPAK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0402-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0402-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0402-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0402-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0402-X-O152-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0402-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>R8</compIden>
+		<compID>RESE-0402-X-O472-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>R9</compIden>
+		<compID>RESE-0402-X-O104-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>R10</compIden>
+		<compID>RESE-0402-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>R11</compIden>
+		<compID>RESE-0402-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>R12</compIden>
+		<compID>RESE-0402-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>R13</compIden>
+		<compID>RESE-0402-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>R14</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>R15</compIden>
+		<compID>RESE-0402-X-O152-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>R16</compIden>
+		<compID>RESE-0402-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>29</compIndex>
+		<compIden>R17</compIden>
+		<compID>RESE-0402-X-O472-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>30</compIndex>
+		<compIden>R18</compIden>
+		<compID>RESE-0402-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>31</compIndex>
+		<compIden>R19</compIden>
+		<compID>RESE-0402-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>32</compIndex>
+		<compIden>R20</compIden>
+		<compID>RESE-0402-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>33</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: VNH2SP30  eagleDevice: VNH2SP30  eaglePackage: VNH2SP30</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>34</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: VNH2SP30  eagleDevice: VNH2SP30  eaglePackage: VNH2SP30</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>35</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  eagleValue: ARDUINO_SHIELDLABEL  eagleDevice: ARDUINO_SHIELDLABEL  eaglePackage: DUEMILANOVE_SHIELD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Monster Moto Shield</name>
+		<partID>10182</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/10182]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

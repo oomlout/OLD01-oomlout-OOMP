@@ -1,0 +1,114 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14546</oompID>
+	<name>LilyPad E-Sewing ProtoSnap</name>
+	<hexID>SPAR14546</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The LilyPad E-Sewing ProtoSnap is a great way to explore how buttons and switches behave in simple e-sewing circuits before crafting your project. Like other LilyPad ProtoSnap series boards, the individual pieces of the board are pre-wired --- allowing you to try out the function of the circuit before sewing. There is no programming required to use this ProtoSnap, and it can be used right away!
+The E-Sewing ProtoSnap includes three white LilyPad LEDs: two connected to a LilyPad Slide Switch and one connected to a LilyPad Button Board. A LilyPad Coin Cell Battery Holder with a CR2032 coin cell battery provides all the power you need for the circuit. All you need to do is design how you want your project to be laid out, and then snap everything apart!
+Note: A portion of this sale is given back to Dr. Leah Buechley for continued development and education in e-textiles.
+Note: Due to the requirements of shipping the included battery, orders may take longer to process and therefore do not qualify for same-day shipping. Additionally, these batteries cannot be shipped via Ground or Economy methods to Alaska or Hawaii. Sorry for any inconvenience this may cause.
+ Get Started with the LilyPad E-Sewing ProtoSnap Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14546</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>10</numComponents>
+	<numOompComponents>7</numOompComponents>
+	<oompCompletion>70</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>BAT1</compIden>
+		<compID>NOT OOMP  eagleValue: 20mm coincell  eagleDevice: BATTERY20MM_4LEGS  eaglePackage: BATTCON_20MM_4LEGS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>LED1</compIden>
+		<compID>LEDS-1206-W-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>LED2</compIden>
+		<compID>LEDS-1206-W-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>LED3</compIden>
+		<compID>LEDS-1206-W-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O151-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O151-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O151-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  eagleValue: S1  eagleDevice: SWITCH-SPDTSMD  eaglePackage: AYZ0202</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>S2</compIden>
+		<compID>BUTA-52D-X-SMDS-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>S3</compIden>
+		<compID>NOT OOMP  eagleValue: S3  eagleDevice: SWITCH-SPDTSMD  eaglePackage: AYZ0202</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>LilyPad E-Sewing ProtoSnap</name>
+		<partID>14546</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14546]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

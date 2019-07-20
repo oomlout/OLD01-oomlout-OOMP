@@ -1,0 +1,126 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-10101</oompID>
+	<name>SparkFun Window Comparator</name>
+	<hexID>SPAR10101</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                Have you ever needed to know if a voltage coming from a sensor is within a specific voltage window? This little breakout board allows you to hook up an analog signal, define your voltage window, and it will tell you (digitally - HIGH or LOW) if your input is inside or outside the window.
+You can define the upper and lower limits of the voltage window by adjusting to trim pots on the board. Power it up with 5Vs, set your limits, and you'll be ready to go! It accepts voltages from 0V to 5V. Now you don't need to set up thresholds in code.
+This also frees up an ADC for another sensor that may require more than a voltage threshold or window. Another advantage to this little guy is that it's analog, so that means it's virtually instant (10 microseconds). It is also useful in audio applications when you need to define peaking voltages on an AC signal and you want to analyze peaks on both the top and bottom sides of the sound wave.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/10101</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>12</numComponents>
+	<numOompComponents>7</numOompComponents>
+	<oompCompletion>58</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>IC1</compIden>
+		<compID>NOT OOMP  eagleValue: LMV358  eagleDevice: OPAMP-DUALU  eaglePackage: SO08</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  eagleValue: mmbt2222  eagleDevice: TRANSISTOR_NPNSOT23-3  eaglePackage: SOT23-3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>Q2</compIden>
+		<compID>NOT OOMP  eagleValue: mmbt2222  eagleDevice: TRANSISTOR_NPNSOT23-3  eaglePackage: SOT23-3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R1</compIden>
+		<compID>NOT OOMP  eagleValue: 10K  eagleDevice: TRIMPOTSMD  eaglePackage: TRIMPOT-3MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R2</compIden>
+		<compID>NOT OOMP  eagleValue: 10K  eagleDevice: TRIMPOTSMD  eaglePackage: TRIMPOT-3MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O203-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0603-X-O202-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>STAT</compIden>
+		<compID>LEDS-0603-X-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Window Comparator</name>
+		<partID>10101</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/10101]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

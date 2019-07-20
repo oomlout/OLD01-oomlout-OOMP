@@ -1,0 +1,113 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-11030</oompID>
+	<name>Simon Lab Pack</name>
+	<hexID>SPAR11030</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                We've been teaching soldering a lot over the past few years - the Simon through-hole soldering kit is a combination of everything we've learned. Now you can bring our Simon soldering and hacking classes to your own classroom, hackerspace or makerspace with the Simon Pack.
+The Simon Pack contains everything you need to lead a 15-seat Simon soldering workshop (you'll need your own tools, of course) and once everyone's built their own working Simon game, we've included FTDI basic breakout board so that you can tweak the code or even use them as game controllers for the Processing language.
+All components are through-hole, making this kit a great place to start when you're learning to solder. When building this kit, you'll have a chance to solder a 28-pin microprocessor, LEDs, battery clips and more.
+The SparkFun education department has materials and curriculum available for your instructors so you can get students some beginner's soldering all the way through embedded programming!              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/11030</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>10</numComponents>
+	<numOompComponents>3</numOompComponents>
+	<oompCompletion>30</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>BAT1</compIden>
+		<compID>NOT OOMP  eagleValue: AA  eagleDevice: BATTERYAA-KIT  eaglePackage: BATTERY-AA-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>BAT2</compIden>
+		<compID>NOT OOMP  eagleValue: AA  eagleDevice: BATTERYAA-KIT  eaglePackage: BATTERY-AA-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-36D-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-36D-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>IC1</compIden>
+		<compID>NOT OOMP  eagleValue: AVR-MEGA8-P  eagleDevice: AVR-MEGA8-PKIT  eaglePackage: DIL28-3-SIMON-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>P1-</compIden>
+		<compID>NOT OOMP  eagleValue: BUTTONPAD-2X2SINGLEKIT  eagleDevice: BUTTONPAD-2X2SINGLEKIT  eaglePackage: BUTTONPAD-2X2SINGLE-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-W04-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  eagleValue: Power  eagleDevice: SWITCH-SPSTKIT  eaglePackage: SWITCH-SPDT_KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>S2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPSTKIT  eaglePackage: SWITCH-SPDT_KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>SG1</compIden>
+		<compID>NOT OOMP  eagleValue: BUZZER  eagleDevice: BUZZERKIT  eaglePackage: BUZZER-12MM-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>Simon Lab Pack</name>
+		<partID>11030</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/11030]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

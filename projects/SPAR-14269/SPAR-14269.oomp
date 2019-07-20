@@ -1,0 +1,157 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14269</oompID>
+	<name>SparkFun Micro OLED Breakout (Qwiic)</name>
+	<hexID>SPAR14269</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun Qwiic Micro OLED Breakout is a Qwiic-enabled version of our popular Micro OLED display! The small monochrome, blue-on-black OLED screen presents incredibly clear images for your viewing pleasure. It’s “micro,” but it still packs a punch --- the OLED display is crisp, and you can fit a deceivingly large amount of graphics on there. This breakout is perfect for adding graphics to your next project and displaying diagnostic information without resorting to a serial output, all with the ease of use of our own Qwiic Connect System!
+This version of the Micro OLED Breakout is exactly the size of its non-Qwiic sibling, featuring a screen that is 64 pixels wide and 48 pixels tall and measuring 0.66" across. But it has also been equipped with two Qwiic connectors, making it ideal for I2C operations. We've also added two mounting holes and a convenient Qwiic cable holder incorporated into a detachable tab on the board that can be easily removed thanks to a v-scored edge. We've even made sure to include an I2C pull-up jumper and ADDR jumper on the back of the board, so if you have your own I2C pull-ups or need to change the I2C address of the board, you have options!
+
+The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shields and cables that make prototyping faster and less prone to error. All Qwiic-enabled boards use a common 1mm pitch, 4-pin JST connector. This reduces the amount of required PCB space, and polarized connections mean you can’t hook it up wrong.
+
+ Get Started with the SparkFun Qwiic Micro OLED Breakout Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14269</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>16</numComponents>
+	<numOompComponents>14</numOompComponents>
+	<oompCompletion>88</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0805-X-UF22D-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0805-X-UF1-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0805-X-UF1-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-1206-X-UF47D-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C7</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>J1</compIden>
+		<compID>JSTS-01-X-PI04-RS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>J2</compIden>
+		<compID>JSTS-01-X-PI04-RS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>J3</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: I2C_STANDARD_NO_SILK  eaglePackage: 1X04_NO_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>OLED1</compIden>
+		<compID>NOT OOMP  eagleValue: OLED0.66  eagleDevice: OLED0.66  eaglePackage: OLED-0.66-64X48</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O394-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>R13</compIden>
+		<compID>RESE-0603-X-O472-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R14</compIden>
+		<compID>RESE-0603-X-O472-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Micro OLED Breakout (Qwiic)</name>
+		<partID>14269</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14269]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

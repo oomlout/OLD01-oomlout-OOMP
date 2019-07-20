@@ -1,0 +1,415 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14155</oompID>
+	<name>SparkFun ESP32 Thing Power Control Shield</name>
+	<hexID>SPAR14155</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun ESP32 Thing Power Control Shield enables the ESP32 Thing to switch up to 5A of a DC load, providing a wide variety of options to control your next project! With a default voltage range of 5--28VDC, power can be connected to this shield in one of two ways. The first is the barrel connector, but with a maximum current rating of 2.5A (designed for light loads). The second option is on the 3-pin screw terminal, which has connections for VCC, ground and a 5V output. The supply voltage is regulated down to 5V to power the ESP32 Thing, as well as a fan to keep the board cool under heavy loads.
+At the heart of the board are three MC33926 motor drivers by NXP Semiconductors. While the board is theoretically capable of switching up to 30A total, the power traces in the board and connectors have only been tested up to 10A total across the six output pins. Along with switching DC loads on and off, the MC33926 has three built-in current sensors, which are connected to output pins 2, 4 and 6. Each of the current sensors is connected to an LMV358 operational amplifier to adjust the gain of each current measurement.
+Due to a drawback with the MC33926 only possessing one current sensor per driver, we've added a feature to the Power Control Shield for loads smaller than 5A. For smaller loads, clearing the solder jumper and soldering in the appropriate feedback resistors can maximize the sensitivity of the 12-bit analog-to-digital converter (ADC) built into the ESP32 Thing. We have a full table written in our Hookup Guide below.
+Note: This product only includes the SparkFun ESP32 Thing Power Control Shield. The ESP32 Thing, headers and optional thermal gap filler will need to be purchased separately.
+ Get started with the ESP32 Power Shield Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14155</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>53</numComponents>
+	<numOompComponents>29</numOompComponents>
+	<oompCompletion>55</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>B1</compIden>
+		<compID>NOT OOMP  eagleValue: ESP32_THING  eagleDevice: ESP32_THING  eaglePackage: ESP32_THING</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF33-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF33-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-NF33-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-1210-X-UF10-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-1210-X-UF10-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-1210-X-UF10-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>C7</compIden>
+		<compID>CAPC-0603-X-NF100-V100</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>C8</compIden>
+		<compID>CAPC-0603-X-NF100-V100</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>C9</compIden>
+		<compID>CAPC-0603-X-NF100-V100</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>C10</compIden>
+		<compID>CAPC-0603-X-NF100-V100</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>C11</compIden>
+		<compID>CAPC-0603-X-NF100-V100</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>C12</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>C13</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>C14</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>C15</compIden>
+		<compID>NOT OOMP  eagleValue: Ext.  eagleDevice: 100UF-POLAR-RADIAL-2.5MM-25V-20%  eaglePackage: CPOL-RADIAL-2.5MM-6.5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>C16</compIden>
+		<compID>CAPC-1210-X-UF10-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>C17</compIden>
+		<compID>CAPC-0603-X-NF100-V100</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>C18</compIden>
+		<compID>CAPC-0603-X-NF100-V100</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>D2</compIden>
+		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>D3</compIden>
+		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>D4</compIden>
+		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>D5</compIden>
+		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>D6</compIden>
+		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>D7</compIden>
+		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>D8</compIden>
+		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>D9</compIden>
+		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>29</compIndex>
+		<compIden>D10</compIden>
+		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>30</compIndex>
+		<compIden>D11</compIden>
+		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>31</compIndex>
+		<compIden>D12</compIden>
+		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>32</compIndex>
+		<compIden>IC1</compIden>
+		<compID>NOT OOMP  eagleValue: LMV358  eagleDevice: OPAMP-DUALU  eaglePackage: SO08</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>33</compIndex>
+		<compIden>IC2</compIden>
+		<compID>NOT OOMP  eagleValue: LMV358  eagleDevice: OPAMP-DUALU  eaglePackage: SO08</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>34</compIndex>
+		<compIden>J1</compIden>
+		<compID>TERS-35D-X-PI06-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>35</compIndex>
+		<compIden>J2</compIden>
+		<compID>NOT OOMP  eagleValue: POWER_JACKPTH_LOCK  eagleDevice: POWER_JACKPTH_LOCK  eaglePackage: POWER_JACK_PTH_LOCK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>36</compIndex>
+		<compIden>J3</compIden>
+		<compID>TERS-35D-X-PI03-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>37</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>38</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>39</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>40</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>41</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>42</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>43</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0603-X-O221-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>44</compIndex>
+		<compIden>R8</compIden>
+		<compID>RESE-0603-X-O221-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>45</compIndex>
+		<compIden>R9</compIden>
+		<compID>RESE-0603-X-O221-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>46</compIndex>
+		<compIden>R10</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: 1KOHM-HORIZ-1/4W-1%  eaglePackage: AXIAL-0.3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>47</compIndex>
+		<compIden>R11</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: 1KOHM-HORIZ-1/4W-1%  eaglePackage: AXIAL-0.3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>48</compIndex>
+		<compIden>R12</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: 1KOHM-HORIZ-1/4W-1%  eaglePackage: AXIAL-0.3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>49</compIndex>
+		<compIden>R13</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>50</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: MC33926  eagleDevice: MC33926  eaglePackage: 32-PQFN</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>51</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: MC33926  eagleDevice: MC33926  eaglePackage: 32-PQFN</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>52</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  eagleValue: MC33926  eagleDevice: MC33926  eaglePackage: 32-PQFN</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>53</compIndex>
+		<compIden>U4</compIden>
+		<compID>NOT OOMP  eagleValue: R-78E5.0-1.0  eagleDevice: R-78E5.0-1.0  eaglePackage: DC-DC_CONVERTER_78XX</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun ESP32 Thing Power Control Shield</name>
+		<partID>14155</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14155]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

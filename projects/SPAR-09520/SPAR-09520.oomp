@@ -1,0 +1,113 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-09520</oompID>
+	<name>SparkFun microSD Shield</name>
+	<hexID>SPAR09520</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                Running out of memory space in your Arduino project? The SparkFun microSD Shield equips your Arduino with mass-storage capability, so you can use it for data-logging or other related projects.
+Communication with microSD cards is achieved over an SPI interface. The SCK, DI, and DO pins of the microSD socket are broken out to the ATmega168/328's standard SPI pins (digital 11-13), while the CS pin is broken out to Arduino's D8 pin. If you decide to use one of the many open source FAT libraries (like FAT16 or SDFat) make sure to change the code to reflect the location of the CS pin.
+Most libraries assume the CS pin is connected to D10; this will have to be changed to D8. Also for the libraries to work pin D8 will have to be set as an output in the 'setup()' section of your sketch. The shield also includes a large prototyping area with a 13x12 grid of 0.1" pitch PTHs.
+This shield comes populated with a microSD socket, red power indicator LED, and a reset button; but it does not come with headers installed. We recommend the Arduino R3 Stackable Header Kit.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/9520</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>10</numComponents>
+	<numOompComponents>5</numOompComponents>
+	<oompCompletion>50</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-UF10-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  eagleValue: AVR_SPI_PRG_6NS  eagleDevice: AVR_SPI_PRG_6NS  eaglePackage: 2X3-NS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>LED1</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TAC_SWITCHSMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: USD-SOCKETNEW  eagleDevice: USD-SOCKETNEW  eaglePackage: MICRO-SD-SOCKET-PP</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: ARDUINO_R3_SHIELDNOLABELS  eagleDevice: ARDUINO_R3_SHIELDNOLABELS  eaglePackage: UNO_R3_SHIELD_NOLABELS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  eagleValue: HEX_CONVERTER  eagleDevice: HEX_CONVERTER  eaglePackage: SO016</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun microSD Shield</name>
+		<partID>9520</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/9520]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

@@ -1,0 +1,171 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14351</oompID>
+	<name>SparkFun Spectral Sensor Breakout - AS7263 NIR (Qwiic)</name>
+	<hexID>SPAR14351</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun AS7263 Near Infrared (NIR) Spectral Sensor Breakout brings spectroscopy to the palm of your hand, making it easier than ever to measure and characterize how different materials absorb and reflect different wavelengths of light. The AS7263 Breakout is unique in its ability to communicate by both an I2C interface and serial interface using AT commands. Hookup is easy, thanks to the Qwiic connectors attached to the board --- simply plug one end of the Qwiic cable into the breakout and the other into one of the Qwiic shields, then stack the board on a development board. You’ll be ready to upload a sketch to start taking spectroscopy measurements in no time.
+The AS7263 spectrometer detects wavelengths in the visible range at 610, 680, 730, 760, 810 and 860nm of light, each with 20nm of full-width half-max detection. The board also has multiple ways for you to illuminate objects that you will try to measure for a more accurate spectroscopy reading. There is an onboard LED that has been picked out specifically for this task, as well as two pins to solder your own LED into.
+
+The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shields and cables that make prototyping faster and less prone to error. All Qwiic-enabled boards use a common 1mm pitch, 4-pin JST connector. This reduces the amount of required PCB space, and polarized connections mean you can’t hook it up wrong.
+
+ Get Started with the SparkFun AS726X Spectral Sensor Breakout Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14351</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>18</numComponents>
+	<numOompComponents>10</numOompComponents>
+	<oompCompletion>56</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-UF10-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>D1</compIden>
+		<compID>LEDS-0603-L-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>D2</compIden>
+		<compID>NOT OOMP  eagleValue: White, 60mA  eagleDevice: LED-WHITE3014  eaglePackage: SUPER_BRIGHT_SMD_LED_3014</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>D4</compIden>
+		<compID>NOT OOMP  eagleValue: Incandescent  eagleDevice: LEDNS  eaglePackage: LED_5MM_NOSILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>J1</compIden>
+		<compID>JSTS-01-X-PI04-RS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>J2</compIden>
+		<compID>NOT OOMP  eagleValue: Serial Interface  eagleDevice: 6_PIN_SERIAL_CABLEPTH  eaglePackage: FTDI_BASIC</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>J3</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_021X02_NO_SILK  eaglePackage: 1X02_NO_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>J4</compIden>
+		<compID>JSTS-01-X-PI04-RS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>J5</compIden>
+		<compID>NOT OOMP  eagleValue: Flash Programming  eagleDevice: AVR_SPI_PROG_3X2TESTPOINTS  eaglePackage: 2X3_TEST_POINTS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>J8</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: I2C_STANDARD_NO_SILK  eaglePackage: 1X04_NO_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>R13</compIden>
+		<compID>RESE-0603-X-O472-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R14</compIden>
+		<compID>RESE-0603-X-O472-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: IR  eagleDevice: AS726XIR  eaglePackage: LGA20</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  eagleValue: 4MB Flash  eagleDevice: AT25SF041  eaglePackage: SO08</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Spectral Sensor Breakout - AS7263 NIR (Qwiic)</name>
+		<partID>14351</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14351]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

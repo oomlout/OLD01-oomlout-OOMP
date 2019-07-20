@@ -1,0 +1,64 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-10345</oompID>
+	<name>SparkFun Triple Axis Accelerometer Breakout - LIS331</name>
+	<hexID>SPAR10345</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is a breakout board for the ultra low-power LIS331HH three axis linear accelerometer. The device has a digital I2C/SPI serial interface which makes it ideal for using in embedded applications. All major pins are broken out to 0.1" spaced headers. It also includes two mounting holes as well.
+The LIS331HH is an ultra low-power full-scale three axis MEMS linear accelerometer. It has a digital I2C/SPI serial interface which makes it ideal for using in embedded applications. The device also features ultra low-power operational modes that allow advanced power saving and smart sleep to wake-up functions.
+The LIS331HH has dynamically user selectable full scales of +-6g/+-12g/+-24g and is capable of measuring accelerations with output data rates from 0.5 Hz to 1kHz. The self-test capability allows the user to check the functioning of the sensor in the final application.
+Not sure which accelerometer is right for you? Our Accelerometer and Gyro Buying Guide might help!              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/10345</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>3</numComponents>
+	<numOompComponents>2</numOompComponents>
+	<oompCompletion>67</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: LIS331  eagleDevice: LIS331  eaglePackage: LGA16-3MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Triple Axis Accelerometer Breakout - LIS331</name>
+		<partID>10345</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/10345]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

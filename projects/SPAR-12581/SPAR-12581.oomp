@@ -1,0 +1,162 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-12581</oompID>
+	<name>SparkFun RooTooth - Bluetooth Wireless Roomba Connection</name>
+	<hexID>SPAR12581</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                A cable-less solution developed for controlling your Roomba. The SparkFun RooTooth v2 communicates with any Bluetooth**® **enabled device using the Serial Port Profile (SPP). You can now tell the Roomba when to wake up, when to clean, and when to shut off. You can even remotely drive your Roomba from your computer or from the WiTilt!
+This product requires that the SCI (serial command interface) has been installed on your Roomba. SCI has been installed on all Roombas manufactured after October 24th, 2005. Please verify that your Roomba is compatible by checking here.
+The new RooTooths are based on the Roving Network bluetooth module. The command set has changed from the original user guide written by Roomba Dev Tools. The new datasheet is below. The Rootooths are configured to 57600bps to work at the Roomba's default communication rate.
+Replaces:DEV-10980              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/12581</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>17</numComponents>
+	<numOompComponents>11</numOompComponents>
+	<oompCompletion>65</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPT-3528-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  eagleValue: MOSFET-NCHANNELSMD  eagleDevice: MOSFET-NCHANNELSMD  eaglePackage: SOT23-3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>Q2</compIden>
+		<compID>NOT OOMP  eagleValue: MOSFET-NCHANNELSMD  eagleDevice: MOSFET-NCHANNELSMD  eaglePackage: SOT23-3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>R5</compIden>
+		<compID>NOT OOMP  eagleValue: 715  eagleDevice: RESISTOR0603-RES  eaglePackage: 0603-RES</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O241-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: V_REG_317SMD  eagleDevice: V_REG_317SMD  eaglePackage: SOT223</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: BLUETOOTH-RN41  eagleDevice: BLUETOOTH-RN41  eaglePackage: RN41</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  eagleValue: V_REG_LDOSMD  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun RooTooth - Bluetooth Wireless Roomba Connection</name>
+		<partID>12581</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/12581]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

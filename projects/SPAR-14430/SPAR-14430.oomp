@@ -1,0 +1,218 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14430</oompID>
+	<name>SparkFun ESP32 Thing Motion Shield</name>
+	<hexID>SPAR14430</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun ESP32 Thing Motion Shield is a versatile, motion-sensing addition to our ESP32 Thing. With the Motion Shield's onboard LSM9DS1 IMU, small movement changes can easily be detected, while larger movements and time traveled can be detected with the addition of a GPS module via a large JST port. In addition, we have added breakout pins to attach any serial device, as well as a microSD card slot to log all of your data. All you need to do is solder on headers, and your ESP32 Thing Motion Shield will be ready to detect any type of movement!
+The LSM9DS1 is one of only a handful of ICs that can measure three key properties of movement --- angular velocity, acceleration and heading --- in a single IC. By measuring these three properties, you can gain a great deal of knowledge about an object’s movement and orientation. The LSM9DS1 measures each of these movement properties in three dimensions. That means it produces nine pieces of data: acceleration in x/y/z, angular rotation in x/y/z and magnetic force in x/y/z.
+Each sensor in the LSM9DS1 onboard the Thing Motion Shield supports a wide spectrum of ranges: the accelerometer’s scale can be set to ± 2, 4, 8 or 16 g; the gyroscope supports ± 245, 500 and 2000 °/s; and the magnetometer has full-scale ranges of ± 4, 8, 12 or 16 gauss.
+ Get started with the ESP32 Motion Shield Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14430</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>25</numComponents>
+	<numOompComponents>20</numOompComponents>
+	<oompCompletion>80</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>B1</compIden>
+		<compID>NOT OOMP  eagleValue: ESP32_THING_WO_ANT_KEEPOUT  eagleDevice: ESP32_THING_WO_ANT_KEEPOUT  eaglePackage: ESP32_THING_NO_ANT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C7</compIden>
+		<compID>CAPC-0603-X-NF22-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C8</compIden>
+		<compID>CAPC-0603-X-UF10-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>D1</compIden>
+		<compID>LEDS-0603-L-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_20NOSILK  eaglePackage: 1X20_NOSILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>J2</compIden>
+		<compID>NOT OOMP  eagleValue: MICRO-SD_CARD_SOCKET  eagleDevice: MICRO-SD_CARD_SOCKET  eaglePackage: MICRO-SD-SOCKET</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>J3</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_20NOSILK  eaglePackage: 1X20_NOSILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>J4</compIden>
+		<compID>HEAD-I01-X-PI04-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>J6</compIden>
+		<compID>JSTS-02-X-PI03-SM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O471-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0402-X-O104-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0402-X-O104-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>R9</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>R10</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>R11</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>R12</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>R13</compIden>
+		<compID>RESE-0603-X-O472-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>R14</compIden>
+		<compID>RESE-0603-X-O472-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: LSM9DS1  eagleDevice: LSM9DS1  eaglePackage: LGA-24-3.5X3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun ESP32 Thing Motion Shield</name>
+		<partID>14430</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14430]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

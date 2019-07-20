@@ -1,0 +1,269 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-10570</oompID>
+	<name>Danger Shield</name>
+	<hexID>SPAR10570</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                Replacement:DEV-11649. We have a new rev of this shield, go check it out! This page is for reference only.
+The Danger Shield mounts on top of your Arduino or Arduino Pro and equips it with a variety of fun and useful inputs and outputs. The Danger Shield has so much potential; we can't wait to see what you're able to do with it! The shield's features include:
+
+Three linear slide potentiometers connected to the Arduino's analog pins 0 through 2.
+Red and yellow LEDs connected to digital pins 5 and 6 - PWM pins - so you can easily vary their brightness.
+Three momentary push buttons connected up to the Arduino's digital pins 10 through 12. Those lines will go low when the buttons are pressed.
+A photocell and a temperature sensor, both with analog outputs, are connected to the analog pins 3 and 4, respectively.
+An 8-bit shift register set up to control a blue 7-segment LED.
+A buzzer - so you can get sound out of your Arduino
+Capacitive Touch pad - Using the CapSense library to sense touch.
+This new version uses a different temperature sensor. This product comes as a kit of parts, which you'll have to solder into the included PCB. All parts are through-hole so it should go together relatively easily; but always check your component orientation before soldering!
+
+Replaces:DEV-10115              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/10570</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>31</numComponents>
+	<numOompComponents>15</numOompComponents>
+	<oompCompletion>48</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-36D-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-36D-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>LED1</compIden>
+		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>LED2</compIden>
+		<compID>NOT OOMP  eagleValue: Yellow  eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>LED3</compIden>
+		<compID>NOT OOMP  eagleValue: Yellow  eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-W04-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-W04-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-W04-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-W04-X-O105-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>R5</compIden>
+		<compID>NOT OOMP  eagleValue: CdS  eagleDevice: PHOTOCELLPTH  eaglePackage: PHOTOCELL</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>R6</compIden>
+		<compID>NOT OOMP  eagleValue: Slider3  eagleDevice: SLIDER  eaglePackage: SLIDER</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>R7</compIden>
+		<compID>NOT OOMP  eagleValue: Slider2  eagleDevice: SLIDER  eaglePackage: SLIDER</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R8</compIden>
+		<compID>NOT OOMP  eagleValue: Slider1  eagleDevice: SLIDER  eaglePackage: SLIDER</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R9</compIden>
+		<compID>RESE-W04-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>R10</compIden>
+		<compID>RESE-W04-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R11</compIden>
+		<compID>RESE-W04-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R12</compIden>
+		<compID>RESE-W04-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>R13</compIden>
+		<compID>RESE-W04-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>R14</compIden>
+		<compID>RESE-W04-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>R15</compIden>
+		<compID>RESE-W04-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>R16</compIden>
+		<compID>RESE-W04-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>R30</compIden>
+		<compID>RESE-W04-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  eagleValue: Button1  eagleDevice: SWITCH-MOMENTARY-212MM  eaglePackage: TACTILE-PTH-12MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>S2</compIden>
+		<compID>NOT OOMP  eagleValue: Button2  eagleDevice: SWITCH-MOMENTARY-212MM  eaglePackage: TACTILE-PTH-12MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>S3</compIden>
+		<compID>NOT OOMP  eagleValue: Button3  eagleDevice: SWITCH-MOMENTARY-212MM  eaglePackage: TACTILE-PTH-12MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>S4</compIden>
+		<compID>NOT OOMP  eagleValue: Reset  eagleDevice: SWITCH-MOMENTARY-2PTH  eaglePackage: TACTILE-PTH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>SG1</compIden>
+		<compID>NOT OOMP  eagleValue: BUZZER  eagleDevice: BUZZERPTH  eaglePackage: BUZZER-12MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: ARDUINO_SHIELD  eagleDevice: ARDUINO_SHIELDNO_SILK  eaglePackage: DUEMILANOVE_VIAS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>29</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: 74LS595N  eagleDevice: 74LS595N  eaglePackage: DIL16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>30</compIndex>
+		<compIden>U4</compIden>
+		<compID>NOT OOMP  eagleValue: TMP36  eagleDevice: TMP36GT9  eaglePackage: TO-92</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>31</compIndex>
+		<compIden>U6</compIden>
+		<compID>NOT OOMP  eagleValue: 7-SEGMENT-DISPLAY-1-RED  eagleDevice: 7-SEGMENT-DISPLAY-1-RED  eaglePackage: 7-SEGMENT-1PTH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>Danger Shield</name>
+		<partID>10570</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/10570]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

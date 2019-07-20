@@ -1,0 +1,280 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-11876</oompID>
+	<name>Big Easy Driver</name>
+	<hexID>SPAR11876</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The Big Easy Driver, designed by Brian Schmalz, is a stepper motor driver board for bi-polar stepper motors up to a max 2A/phase. It is based on the Allegro A4988 stepper driver chip. It's the next version of the popular Easy Driver board.
+Each Big Easy Driver can drive up to a max of 2A per phase of a bi-polar stepper motor. It is a chopper microstepping driver which defaults to 16 step microstepping mode. It can take a maximum motor drive voltage of around 30V, and includes on-board 5V/3.3V regulation, so only one supply is necessary. Although this board should be able to run most systems without active cooling while operating at 1.4-1.7A/phase, a heatsink is required for loads approaching 2A/phase. You can find the recommended heatsink in the related items below.
+**Note: **This product is a collaboration with Brian Schmalz. A portion of each sales goes back to him for product support and continued development.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/11876</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>34</numComponents>
+	<numOompComponents>26</numOompComponents>
+	<oompCompletion>76</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>3/5V</compIden>
+		<compID>NOT OOMP  eagleValue: SOLDERJUMPERNO  eagleDevice: SOLDERJUMPERNO  eaglePackage: SJ_2S-NO</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>APWR</compIden>
+		<compID>NOT OOMP  eagleValue: SOLDERJUMPERTRACE  eagleDevice: SOLDERJUMPERTRACE  eaglePackage: SJ_2S-TRACE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V100</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-0603-X-NF100-V100</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C7</compIden>
+		<compID>CAPC-0603-X-NF100-V100</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C8</compIden>
+		<compID>CAPC-0603-X-NF100-V100</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>C9</compIden>
+		<compID>CAPC-0603-X-NF100-V100</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>C10</compIden>
+		<compID>CAPC-0603-X-NF220-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>C11</compIden>
+		<compID>CAPC-0603-X-NF100-V100</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>C14</compIden>
+		<compID>CAPE-S63D-X-UF47-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  eagleValue: B340A-13-F  eagleDevice: DIODE-DO-214AC  eaglePackage: DO-214AC</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>IC1</compIden>
+		<compID>NOT OOMP  eagleValue: A4988ALT1  eagleDevice: A4988ALT1  eaglePackage: QFN-28-5MM_ALT1</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>IC2</compIden>
+		<compID>NOT OOMP  eagleValue: LM317L  eagleDevice: SPARKFUN03_30_09_V_REG_317SOT89SOT89  eaglePackage: SCHMALZHAUS_SOT89</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>PWR_LED</compIden>
+		<compID>LEDS-0603-Y-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O203-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O203-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O203-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O203-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O203-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O391-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0603-X-O331-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>R8</compIden>
+		<compID>RESE-0603-X-O241-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>R9</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>R10</compIden>
+		<compID>RESE-0603-X-O203-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>R11</compIden>
+		<compID>RESE-0603-X-O203-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>R12</compIden>
+		<compID>RESE-0603-X-O203-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>R13</compIden>
+		<compID>RESE-0603-X-O822-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>29</compIndex>
+		<compIden>R14</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>30</compIndex>
+		<compIden>R15</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>31</compIndex>
+		<compIden>R16</compIden>
+		<compID>NOT OOMP  eagleValue: 10K  eagleDevice: TRIMPOT3MM-2  eaglePackage: TRIMPOT-3MM-2</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>32</compIndex>
+		<compIden>R18</compIden>
+		<compID>NOT OOMP  eagleValue: .11  eagleDevice: 0.11OHM1/2W1%(2010)  eaglePackage: R2010</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>33</compIndex>
+		<compIden>R19</compIden>
+		<compID>NOT OOMP  eagleValue: .11  eagleDevice: 0.11OHM1/2W1%(2010)  eaglePackage: R2010</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>34</compIndex>
+		<compIden>R20</compIden>
+		<compID>RESE-0603-X-O203-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>Big Easy Driver</name>
+		<partID>11876</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/11876]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

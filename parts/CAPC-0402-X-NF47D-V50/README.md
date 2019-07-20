@@ -1,12 +1,13 @@
 
+![CAPC-0402-X-NF47D-V50](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/CAPC-0402-X-NF47D-V50/CAPC-0402-X-NF47D-V50_420.jpg)   
 Summary
 =================
   
-Name: __SMD (0402) 1 nF Capacitor (Ceramic) 50v__    
+Name: __SMD (0402) 4.7 nF Capacitor (Ceramic) 50v__    
 ID: __CAPC-0402-X-NF47D-V50__   
-Hex ID: ____   
+Hex ID: __C42N047V50__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0402-X-NF47D-V50__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/C42N047V50__   
 
 Full Details
 ==========================

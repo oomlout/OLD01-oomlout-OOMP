@@ -1,0 +1,224 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-11040</oompID>
+	<name>SparkFun LED RingCoder Breakout - RGB</name>
+	<hexID>SPAR11040</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This breakout board gives you a pretty slick interface for rotary input. Since rotary encoders turn continuously it can be difficult to imagine where in your range of values you might be at any given time. This board uses two 8-bit shift registers to control a circular LED bargraph which can be used to indicate the virtual position of a rotary encoder. The footprint for the encoder matches up with our illuminated rotary encoders for optimum 'blinky-ness'. The shift register inputs and rotary encoder lines are all broken out to standard 0.1" headers.
+This latest revision not only supports RGB, for our new RGB illuminated encoders, but also addresses several design problems that were brought up by customers in the last version. You can now safely run this board at 5V, so go build something awesome with it!
+Note: This is the breakout board only, you will need to populate your own rotary encoder and circular LED bargraph. Both parts can be found in the related items below.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/11040</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>26</numComponents>
+	<numOompComponents>22</numOompComponents>
+	<oompCompletion>85</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>IC1</compIden>
+		<compID>NOT OOMP  eagleValue: 74LS595D  eagleDevice: 74LS595D  eaglePackage: SO16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>IC2</compIden>
+		<compID>NOT OOMP  eagleValue: 74LS595D  eagleDevice: 74LS595D  eaglePackage: SO16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>LED1</compIden>
+		<compID>NOT OOMP  eagleValue: RED  eagleDevice: LED_RING  eaglePackage: LED_RING</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O301-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O301-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O301-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O301-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O301-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O301-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0603-X-O301-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R8</compIden>
+		<compID>RESE-0603-X-O301-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R9</compIden>
+		<compID>RESE-0603-X-O301-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>R10</compIden>
+		<compID>RESE-0603-X-O301-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R11</compIden>
+		<compID>RESE-0603-X-O301-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R12</compIden>
+		<compID>RESE-0603-X-O301-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>R13</compIden>
+		<compID>RESE-0603-X-O301-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>R14</compIden>
+		<compID>RESE-0603-X-O301-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>R15</compIden>
+		<compID>RESE-0603-X-O301-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>R16</compIden>
+		<compID>RESE-0603-X-O301-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>R17</compIden>
+		<compID>RESE-0603-X-O181-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>R18</compIden>
+		<compID>RESE-0603-X-O181-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>R19</compIden>
+		<compID>RESE-0603-X-O301-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>R20</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: ENCODER_RGB  eagleDevice: ENCODER_RGB  eaglePackage: ENCODER_LED_RGB</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun LED RingCoder Breakout - RGB</name>
+		<partID>11040</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/11040]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

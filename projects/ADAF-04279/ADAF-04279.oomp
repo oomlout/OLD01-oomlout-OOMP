@@ -1,0 +1,201 @@
+<xml>
+<oompProject>
+	<oompID>ADAF-04279</oompID>
+	<name>Adafruit Ultimate GPS with USB - 66 channel w/10 Hz updates</name>
+	<hexID>ADAF04279</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>ontent
+ 
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@oomlout 
+13
+17 10 adafruit/Adafruit-Ultimate-GPS
+ Code  Issues 1  Pull requests 0  Projects 0  Security  Insights
+http://www.adafruit.com/products/746
+ 4 commits
+ 1 branch
+ 0 releases
+ 2 contributors
+@kattni
+kattni Add Ultimate GPS USB board files
+Latest commit d834ed1  14 days ago
+Type	Name	Latest commit message	Commit time
+Adafruit Ultimate GPS USB.brd	Add Ultimate GPS USB board files	14 days ago
+Adafruit Ultimate GPS USB.sch	Add Ultimate GPS USB board files	14 days ago
+Adafruit Ultimate GPS.brd	updated!	2 years ago
+Adafruit Ultimate GPS.sch	updated!	2 years ago
+</oompAbout>
+	<oompOfficialLink>https://www.adafruit.com/product/4279</oompOfficialLink>
+	<company>Adafruit</company>
+	<companyCode>C-ADAF</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>20</numComponents>
+	<numOompComponents>13</numOompComponents>
+	<oompCompletion>65</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>B1</compIden>
+		<compID>NOT OOMP  eagleValue: CR1220  eagleDevice: BATTERYCR1220_SMT  eaglePackage: CR1220</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>C7</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>D2</compIden>
+		<compID>NOT OOMP  eagleValue: CUS520  eagleDevice: DIODESOD-323  eaglePackage: SOD-323</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>D3</compIden>
+		<compID>LEDS-0805-Y-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>D4</compIden>
+		<compID>LEDS-0805-Y-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>FB1</compIden>
+		<compID>NOT OOMP  eagleValue: Ferrite  eagleDevice: FERRITE-0805NO  eaglePackage: 0805-NO</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>LED1</compIden>
+		<compID>LEDS-0805-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: FGPMMOPA6H  eagleDevice: GPS_FGPMMOPA6H  eaglePackage: FGPMMOPA6H</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: AP2112-3.3K  eagleDevice: VREG_SOT23-5  eaglePackage: SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  eagleValue: CP2104  eagleDevice: CP2104  eaglePackage: QFN24_4MM_SMSC</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>X1</compIden>
+		<compID>NOT OOMP  eagleValue: 20329  eagleDevice: USB_MICRO_20329_V2  eaglePackage: 4UCONN_20329_V2</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Adafruit</company>
+		<companyCode>C-ADAF</companyCode>
+		<name>Adafruit Ultimate GPS with USB - 66 channel w/10 Hz updates</name>
+		<partID>4279</partID>
+		<link><![CDATA[https://www.adafruit.com/product/4279]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

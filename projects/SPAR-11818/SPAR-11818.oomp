@@ -1,0 +1,47 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-11818</oompID>
+	<name>SparkFun GPS Breakout</name>
+	<hexID>SPAR11818</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is a more universal GPS breakout board that uses a vertical SMD connector (EM406) which is perfect for the GP-735T GPS receiver that we sell. It features 2 mounting holes and through-hole connections for wires or headers. This is a lower profile breakout and should prove much easier to use while saving space in any project you need it for!              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/11818</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>1</numComponents>
+	<numOompComponents>0</numOompComponents>
+	<oompCompletion>0</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: JST_VERTICAL  eagleDevice: JST_VERTICAL  eaglePackage: JST-6-SMD-VERT-1.0MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun GPS Breakout</name>
+		<partID>11818</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/11818]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

@@ -1,0 +1,176 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-11373</oompID>
+	<name>SparkFun XBee Explorer Regulated</name>
+	<hexID>SPAR11373</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun XBee Explorer Regulated takes care of the 3.3V regulation, signal conditioning, and basic activity indicators (Power, RSSI and DIN/DOUT activity LEDs). It translates the 5V serial signals to 3.3V so that you can connect a 5V (down to 3.3V) system to any XBee module. The board was conveniently designed to mate directly with the SparkFun Arduino Pro series of boards for wireless bootloading and USB based configuration.
+This unit works with all XBee modules including the Series 1 and 2, standard and Pro versions. Plug an XBee into this breakout and you will have direct access to the serial and programming pins on the XBee unit and will be able to power the XBee with 5V.
+This board comes fully populated with 3.3V regulator (5V max input), XBee socket, four status LEDs, and level shifting. In the latest revision the diode level shifter is replaced with a more robust MOSFET level shifter. This board does not include and XBee module. XBee modules sold below.
+Note: This board cannot source the power required for the Cellular XBee line. It will only work with the 802.15.4 variants.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/11373</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>19</numComponents>
+	<numOompComponents>15</numOompComponents>
+	<oompCompletion>79</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>LED1</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>LED2</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>LED3</compIden>
+		<compID>LEDS-0603-G-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>LED4</compIden>
+		<compID>LEDS-0603-G-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  eagleValue: MOSFET-NCHANNELSMD  eagleDevice: MOSFET-NCHANNELSMD  eaglePackage: SOT23-3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>Q2</compIden>
+		<compID>NOT OOMP  eagleValue: MOSFET-NCHANNELSMD  eagleDevice: MOSFET-NCHANNELSMD  eaglePackage: SOT23-3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0402-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0402-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0402-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0402-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0402-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0402-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R8</compIden>
+		<compID>RESE-0402-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R11</compIden>
+		<compID>RESE-0402-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: XBEE-1B3  eagleDevice: XBEE-1B3  eaglePackage: XBEE-SMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  eagleValue: V_REG_LDOSMD  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun XBee Explorer Regulated</name>
+		<partID>11373</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/11373]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

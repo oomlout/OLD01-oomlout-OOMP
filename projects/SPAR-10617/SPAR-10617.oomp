@@ -1,0 +1,103 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-10617</oompID>
+	<name>SparkFun LiPo Fuel Gauge</name>
+	<hexID>SPAR10617</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                LiPo batteries are a great way to power your projects. They're small, lightweight, and pack a pretty good punch for their size. Unfortunately, even the best batteries eventually run low on power and when they do it's often unexpected (and at the worst time). Don't be caught by surprise next time your board suddenly powers-down! The SparkFun LiPo Fuel Gauge connects your battery to your project and uses a sophisticated algorithm to detect relative state of charge and direct A/D measurement of battery voltage. In other words, it tells your microcontroller how much 'fuel' is left in the tank. The LiPo Fuel Gauge communicates with your project over I2C and an alert pin also tells you when the charge has dropped below a certain percentage.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/10617</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>9</numComponents>
+	<numOompComponents>8</numOompComponents>
+	<oompCompletion>89</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0402-X-UF1-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0402-X-NF22-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0402-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0402-X-O181-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0402-X-O472-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0402-X-O472-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0402-X-O472-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0402-X-O472-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: MAX1704X  eagleDevice: MAX1704X  eaglePackage: TDFN-8</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun LiPo Fuel Gauge</name>
+		<partID>10617</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/10617]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

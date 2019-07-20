@@ -1,0 +1,300 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14980</oompID>
+	<name>SparkFun GPS-RTK Board - NEO-M8P-2 (Qwiic)</name>
+	<hexID>SPAR14980</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                With GPS you are able to know where you are, where you're going, and how to get there anywhere on Earth within 30 seconds. This means the higher the accuracy the better! GPS Real Time Kinematics (RTK) has mastered dialing in the accuracy on their GPS modules to 25mm, and that's why we had to put it on this board!
+The SparkFun GPS-RTK Board is a powerful breakout board for the NEO-M8P-2 module from u-blox. The NEO-M8P-2 is a high accuracy module for GNSS and GPS location solutions including RTK. With this board, you will be able to know where you (or any object) are within one inch! The NEO-M8P-2 is unique in that it is capable of both rover and base station operations. Utilizing our handy Qwiic system, no soldering is required to connect it to the rest of your system. However, we still have broken out 0.1"-spaced pins in case you prefer to use a breadboard.
+We've even included a rechargable backup battery to keep the latest module configuration and satellite data available for up to two weeks. This battery helps 'warm-start' the module decreasing the time-to-first-fix dramatically. This module features a survey-in mode allowing the module to become a base station and produce RTCM 3.x correction data (as opposed to the previous version of the module which is not able to produce RTCM data).
+The number of configuration options of the NEO-M8P-2 is incredible! Geofencing, variable I2C address, variable update rates, even the high precision RTK solution can be increased to 4Hz. The GPS-RTK even has four communications ports: USB (which enumerates as a COM port), UART (with 3.3V TTL), I2C (via the two Qwiic connnectors or broken out pins), and SPI.
+We've also written an Arduino library for u-blox modules to make reading and controlling the GPS-RTK over our Qwiic Connect System easy.
+
+The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shields and cables that make prototyping faster and less prone to error. All Qwiic-enabled boards use a common 1mm pitch, 4-pin JST connector. This reduces the amount of required PCB space, and polarized connections mean you can’t hook it up wrong.
+
+ Get Started With the SparkFun GPS-RTK Board Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14980</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>36</numComponents>
+	<numOompComponents>26</numOompComponents>
+	<oompCompletion>72</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>B1</compIden>
+		<compID>NOT OOMP  eagleValue: 6.8MM_COIN_CELL  eagleDevice: BATTERY-6.8MM_SMD  eaglePackage: BATTCON-6.8MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-PF47-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>D1</compIden>
+		<compID>LEDS-0603-Y-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>D2</compIden>
+		<compID>NOT OOMP  eagleValue: 0.5A/40V/420mV  eagleDevice: DIODE-SCHOTTKY-PMEG4005EJ  eaglePackage: SOD-323</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>D3</compIden>
+		<compID>LEDS-0603-G-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>D4</compIden>
+		<compID>LEDS-0603-L-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>D5</compIden>
+		<compID>NOT OOMP  eagleValue: PRTR5V0U2F  eagleDevice: PRTR5V0U2F  eaglePackage: SOT886</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>FB1</compIden>
+		<compID>NOT OOMP  eagleValue: 30O/1.8A  eagleDevice: FERRITE_BEAD-0603  eaglePackage: 0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_07NO_SILK  eaglePackage: 1X07_NO_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>J2</compIden>
+		<compID>JSTS-01-X-PI04-RS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>J3</compIden>
+		<compID>NOT OOMP  eagleValue: PTH  eagleDevice: I2C_STANDARD_NO_SILK  eaglePackage: 1X04_NO_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>J4</compIden>
+		<compID>JSTS-01-X-PI04-RS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>J6</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: USB_MICRO-B_HALF_PTH_MILL  eaglePackage: USB-MICROB-PTH-MILL</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>J13</compIden>
+		<compID>NOT OOMP  eagleValue: U.FL  eagleDevice: U.FL2PIN  eaglePackage: U.FL</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>LED2</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O330-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O330-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O330-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O330-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0603-X-O222-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>R8</compIden>
+		<compID>RESE-0603-X-O222-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>R9</compIden>
+		<compID>RESE-0603-X-O270-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>29</compIndex>
+		<compIden>R10</compIden>
+		<compID>RESE-0603-X-O270-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>30</compIndex>
+		<compIden>R11</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>31</compIndex>
+		<compIden>R12</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>32</compIndex>
+		<compIden>R13</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>33</compIndex>
+		<compIden>R14</compIden>
+		<compID>RESE-0603-X-O100-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>34</compIndex>
+		<compIden>R15</compIden>
+		<compID>RESE-0603-X-O104-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>35</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: NEO-M8P  eagleDevice: NEO-M8PM8P  eaglePackage: NEO-M8P</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>36</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun GPS-RTK Board - NEO-M8P-2 (Qwiic)</name>
+		<partID>14980</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14980]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

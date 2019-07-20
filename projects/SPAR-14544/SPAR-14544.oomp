@@ -1,0 +1,120 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14544</oompID>
+	<name>SparkFun Current Sensor Breakout - ACS723 (Low Current)</name>
+	<hexID>SPAR14544</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The low current version of the SparkFun Current Sensor Breakout is a high accuracy board that utilizes the ACS723 for low to moderate AC and DC current sensing applications. The ACS723 sensor uses a Hall effect sensor to output a voltage relative to the current flowing through the IP+ and IP- pins on the board. The advantage of using a Hall effect sensor, specifically, is that the circuit being sensed and the circuit reading the sensor are electrically isolated meaning that, although your Arduino is running on 5V, the sensed circuit can be operating at higher DC or AC voltages!
+This low current sensor breakout is capable of sensing very small currents down to around 10mA and large currents up to 5A! However, since the output is analog, your usable readings will be limited by noise and the resolution of the ADC reading the output. Additionally, this breakout has full electrical isolation of measured and sensed circuits and (thanks to an on-board amp) can adjust its sensitivity. Although the analog output is adjustable to 80kHz, the bandwidth on the ACS723 Sensor Breakout width filter has been set to 20kHz to reduce noise when using at high gains. The full 80KHz bandwidth that the sensor is capable of can be recovered by closing the JP1 (Bandwidth Select) jumper on the back of the board.
+Note: Although the chip itself is rated for up to 2.4kV (RMS) of isolation, the board has not been designed for such high voltage applications.
+ Get Started with the SparkFun ACS723 Current Sensor Breakout Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14544</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>11</numComponents>
+	<numOompComponents>7</numOompComponents>
+	<oompCompletion>64</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0402-X-PF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0402-X-NF1-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0402-X-O473-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0402-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R3</compIden>
+		<compID>NOT OOMP  eagleValue: TRIMPOTSMD  eagleDevice: TRIMPOTSMD  eaglePackage: TRIMPOT-3MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R4</compIden>
+		<compID>NOT OOMP  eagleValue: TRIMPOTSMD  eagleDevice: TRIMPOTSMD  eaglePackage: TRIMPOT-3MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: ACS712  eagleDevice: ACS712  eaglePackage: SO08</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: OPA344  eagleDevice: OPA344  eaglePackage: SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Current Sensor Breakout - ACS723 (Low Current)</name>
+		<partID>14544</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14544]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

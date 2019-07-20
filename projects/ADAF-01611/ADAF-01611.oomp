@@ -1,0 +1,239 @@
+<xml>
+<oompProject>
+	<oompID>ADAF-01611</oompID>
+	<name>Silicone Elastomer 4x4 Button Keypad - for 3mm LEDs</name>
+	<hexID>ADAF01611</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+CAD and PCB data for the Adafruit Trellis keypad and control PCB
+
+Click here to purchase one from the Adafruit shop
+
+Silicone Elastomer 4x4 Button Keypad - for 3mm LEDs
+Small 1.2" 8x8 Ultra Bright White LED Matrix + Backpack
+So squishy! These silicone elastomer keypads are just waiting for your fingers to press them. Go ahead, squish all you like! (They're durable and easy to clean, just wipe with mild soap and water) These are just like the light up rubber buttons you find on stuff like appliances and tools, but these are open source and easy to integrate into your next project.
+
+Each button is 10mm x 10mm square and 10mm tall. There is 5mm of grid spacing between the buttons. You can 'tile' the button pads edge-to-edge and they'll grid up correctly. You can also cut the pads down if you like, the silicone is very soft. The way they're molded, they give about 3mm of travel when pressed for a very satisfying feel. They are completely quiet, however.
+
+On the bottom of each button is a conductive pad ring which can close a properly design contact underneath. We have an EagleCad library which has objects for the buttons and optional LEDs so you can use them in your next PCB design..
+
+Each button is 10mm tall and can fit a 3mm LED inside quite easily. 5mm LEDs are too big, so stick with 3mm here. The LED is optional, having it or not does not affect the 'action'. but it's nice to backlight buttons. Diffused LEDs are best, so check out our offerings: the blue, white and red look best, if you're sourcing your own LEDs go for something with 300mcd or greater brightness. Diffused looks better than not..
+
+Chances are you don't want to make your own PCB, so pick up an Adafruit Trellis, our tile-able driver which can control 16 LEDs + these 16 buttons over I2C.
+
+License
+Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from Adafruit!
+
+Designed by Adafruit Industries.
+GNU Public License v2 All text above must be included in any redistribution
+</oompAbout>
+	<oompOfficialLink>https://www.adafruit.com/product/1611</oompOfficialLink>
+	<company>Adafruit</company>
+	<companyCode>C-ADAF</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>26</numComponents>
+	<numOompComponents>17</numOompComponents>
+	<oompCompletion>65</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>A0</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SOLDERJUMPERREFLOW_NOPASTE  eaglePackage: SOLDERJUMPER_REFLOW_NOPASTE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CAP_CERAMIC_0805  eaglePackage: _0805</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CAP_CERAMIC_0805  eaglePackage: _0805</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C3</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CAP_CERAMIC_0805  eaglePackage: _0805</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C4</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CAP_CERAMIC_0805  eaglePackage: _0805</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>D1</compIden>
+		<compID>DIOD-S323-X-A03D-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>D2</compIden>
+		<compID>DIOD-S323-X-A03D-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>D4</compIden>
+		<compID>NOT OOMP  eagleValue: 1N4148  eagleDevice: DIODESOD-323F  eaglePackage: SOD-323F</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>D5</compIden>
+		<compID>DIOD-S323-X-A03D-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>D6</compIden>
+		<compID>DIOD-S323-X-A03D-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>D7</compIden>
+		<compID>DIOD-S323-X-A03D-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>D8</compIden>
+		<compID>DIOD-S323-X-A03D-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>D9</compIden>
+		<compID>DIOD-S323-X-A03D-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>D10</compIden>
+		<compID>DIOD-S323-X-A03D-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>D11</compIden>
+		<compID>DIOD-S323-X-A03D-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>D12</compIden>
+		<compID>DIOD-S323-X-A03D-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>D13</compIden>
+		<compID>DIOD-S323-X-A03D-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>LED1</compIden>
+		<compID>NOT OOMP  eagleValue: TBD  eagleDevice: LED-3MM-4X4GRID-3MM  eaglePackage: LED3MM-4X4GRID</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0805-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0805-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0805-X-O473-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0805-X-O473-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0805-X-O473-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>SW1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SILICON-4X4GRID-10MM-5.4MM  eaglePackage: ELAST_PAD_SQUARE_10MM_5.4MM_4X4GRID</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: HT16K33 28SOP  eagleDevice: HT16K33_SOP28  eaglePackage: SOP28_300MIL</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Adafruit</company>
+		<companyCode>C-ADAF</companyCode>
+		<name>Silicone Elastomer 4x4 Button Keypad - for 3mm LEDs</name>
+		<partID>1611</partID>
+		<link><![CDATA[https://www.adafruit.com/product/1611]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

@@ -1,0 +1,245 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-10615</oompID>
+	<name>SparkFun PWM Shield</name>
+	<hexID>SPAR10615</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is the Arduino shield version of our TLC5940 Breakout. The SparkFun PWM Shield will allow you to generate up to 16 PWM signals from your Arduino by utilizing the power of the TLC5940 IC. All 16 PWM channels are broken out to standard 0.1" headers, which run alongside convenient voltage and ground rails. Because the IC can be daisy-chained, output headers are broken out on one side of the shield and can be connected to our TLC5940 Breakout to further expand your PWM capabilities.
+Use this board to increase the number of PWM pins available to your microcontroller for applications such as monocolor, multicolor or full-color LED displays, LED signboards, display backlighting, servo control, or any other project where a large number of PWM drivers are necessary.
+**Note: **While each 3-pin PWM header is 0.1" spaced, the space between each header is slightly larger in order to accommodate servo connections. In order to make this board suitable for use with servos, 2.2k pull-up resistors have been included on each output as well. Finally, the 2.2k resistor on the Iref pin sets the output current to 17.8mA but a parallel through-hole connection is provided for an additional resistor to increase the current if necessary. To determine the resistor value you need for a given output check the equations provided on the schematic below.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/10615</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>29</numComponents>
+	<numOompComponents>22</numOompComponents>
+	<oompCompletion>76</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPT-3528-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>J9</compIden>
+		<compID>NOT OOMP  eagleValue: OUT  eagleDevice: M03PTH  eaglePackage: 1X03</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R2</compIden>
+		<compID>NOT OOMP  eagleValue: R2  eagleDevice: RESISTORAXIAL-0.3  eaglePackage: AXIAL-0.3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0402-X-O222-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0402-X-O241-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R5</compIden>
+		<compID>NOT OOMP  eagleValue: 715  eagleDevice: RESISTOR0402-RES  eaglePackage: 0402-RES</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0402-X-O222-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0402-X-O222-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>R8</compIden>
+		<compID>RESE-0402-X-O222-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R9</compIden>
+		<compID>RESE-0402-X-O222-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R10</compIden>
+		<compID>RESE-0402-X-O222-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>R11</compIden>
+		<compID>RESE-0402-X-O222-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R12</compIden>
+		<compID>RESE-0402-X-O222-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R13</compIden>
+		<compID>RESE-0402-X-O222-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>R14</compIden>
+		<compID>RESE-0402-X-O222-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>R15</compIden>
+		<compID>RESE-0402-X-O222-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>R16</compIden>
+		<compID>RESE-0402-X-O222-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>R17</compIden>
+		<compID>RESE-0402-X-O222-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>R18</compIden>
+		<compID>RESE-0402-X-O222-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>R19</compIden>
+		<compID>RESE-0402-X-O222-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>R20</compIden>
+		<compID>RESE-0402-X-O222-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>R21</compIden>
+		<compID>RESE-0402-X-O222-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  eagleValue: DPDT  eagleDevice: SWITCH-SPSTSMD  eaglePackage: AYZ0202</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: ARDUINO_SHIELDNOLABELS  eagleDevice: ARDUINO_SHIELDNOLABELS  eaglePackage: DUEMILANOVE_SHIELD_NOLABELS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: V_REG_LD1085D2  eagleDevice: V_REG_LD1085D2  eaglePackage: D2PACK/A</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>29</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  eagleValue: TLC5940-RHB  eagleDevice: TLC5940-RHB  eaglePackage: QFN-32</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun PWM Shield</name>
+		<partID>10615</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/10615]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

@@ -1,0 +1,97 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-10612</oompID>
+	<name>SparkFun Tri-Axis Gyro Breakout - L3G4200D</name>
+	<hexID>SPAR10612</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is a breakout board for the L3G4200D low-power three-axis angular rate sensor. The L3G4200D is a MEMS motion sensor and has a full scale of ±250/±500/±2000 dps and is capable of measuring rates with a user-selectable bandwidth. These work great in gaming and virtual reality input devices, GPS navigation systems and robotics.
+Not sure which gyro is right for you? Our Accelerometer and Gyro Buying Guide might help!              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/10612</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>8</numComponents>
+	<numOompComponents>7</numOompComponents>
+	<oompCompletion>88</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-1206-X-UF10-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0402-X-NF22-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0402-X-NF470-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: L3G4200D  eagleDevice: L3G4200D  eaglePackage: LGA16-4X4</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Tri-Axis Gyro Breakout - L3G4200D</name>
+		<partID>10612</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/10612]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

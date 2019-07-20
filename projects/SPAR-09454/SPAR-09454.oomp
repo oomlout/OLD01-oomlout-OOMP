@@ -1,0 +1,72 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-09454</oompID>
+	<name>SparkFun Line Sensor Breakout - QRE1113 (Digital)</name>
+	<hexID>SPAR09454</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This version of the QRE1113 breakout board features a digital output, using a capacitor discharge circuit to measure the amount of reflection. This tiny board is perfect for line sensing when only digital I/O is available, and can be used in both 3.3V and 5V systems.
+The board's QRE1113 IR reflectance sensor is comprised of two parts - an IR emitting LED and an IR sensitive phototransistor. When you apply power to the VCC and GND pins the IR LED inside the sensor will illuminate. A 100O resistor is on-board and placed in series with the LED to limit current. The output of the phototransistor is tied to a 10nF capacitor. The faster that capacitor discharges, the more reflective the surface is.
+These sensors are widely used in line following robots. White surfaces reflect more light than black, so, when directed towards a white surface, the capacitor will discharge faster than it would when pointed towards a black surface.
+The power input and output pins are brought out to a 3-pin, 0.1" pitch header. The board also has a single mounting hole if you want to screw it onto something.
+We also have an analog version of this board.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/9454</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>4</numComponents>
+	<numOompComponents>3</numOompComponents>
+	<oompCompletion>75</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0402-X-NF22-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0402-X-O101-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0402-X-O221-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: QRE1113  eagleDevice: QRE1113  eaglePackage: QRE1113</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Line Sensor Breakout - QRE1113 (Digital)</name>
+		<partID>9454</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/9454]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

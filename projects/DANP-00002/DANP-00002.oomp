@@ -1,0 +1,459 @@
+<xml>
+<oompProject>
+	<oompID>DANP-00002</oompID>
+	<name>Bus Pirate v4</name>
+	<hexID>DANP00002</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>(image and text from seeedstudio.com)
+
+Bus Pirate v4 is a universal bus interface that talks to electronics from a computer serial terminal. Get to know a chip without writing code. Eliminates a ton of early prototyping effort with new or unknown chips. Seeed Studio is the official manufacturer and supporter of the Bus Pirate project. Version 4 is the next generation Bus Pirate hardware, but it's not as stable as Bus Pirate v3.
+
+If you're just starting out with the Bus Pirate we still recommend v3 - it's cheaper, more reliable, and has all the same major features. See a Bus Pirate v4 vs v3 comparison. Protocols 1-Wire, I2C, SPI, JTAG, asynchronous serial (UART), MIDI, PC keyboard, HD44780 LCDs, and generic 2- and 3-wire libraries for custom protocols.</oompAbout>
+	<oompOfficialLink>http://dangerousprototypes.com/docs/Bus_Pirate</oompOfficialLink>
+	<company>Dangerous Prototypes</company>
+	<companyCode>C-DANP</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>60</numComponents>
+	<numOompComponents>30</numOompComponents>
+	<oompCompletion>50</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C7</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>C8</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>C9</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>C10</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>C11</compIden>
+		<compID>CAPC-0603-X-UF1-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>C12</compIden>
+		<compID>CAPC-0603-X-UF1-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>C13</compIden>
+		<compID>CAPC-0603-X-UF1-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>C14</compIden>
+		<compID>CAPT-1206-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>C15</compIden>
+		<compID>CAPT-1206-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: MBR0520LT  eaglePackage: SOD123</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>D2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: MBR0520LT  eaglePackage: SOD123</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>D3</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: MBR0520LT  eaglePackage: SOD123</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>IC1</compIden>
+		<compID>NOT OOMP  eagleValue: PIC24FJ256GB106  eagleDevice: PIC24FJ256GB106  eaglePackage: TQFP64-10X10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>IC2</compIden>
+		<compID>NOT OOMP  eagleValue: 4066TS  eagleDevice: 4066TS  eaglePackage: 40XX_TSSOP14</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>IC3</compIden>
+		<compID>NOT OOMP  eagleValue: 24AASOT-23-5  eagleDevice: 24AA  eaglePackage: SOT-23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>ICSP</compIden>
+		<compID>NOT OOMP  eagleValue: CON_HEADER_PRG_PIC_ICSP-POGO-FOOTPRINT  eagleDevice: CON_HEADER_PRG_PIC_ICSP-POGO-FOOTPRINT  eaglePackage: CON_POGO_ICSP_TARGET</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>IO</compIden>
+		<compID>NOT OOMP  eagleValue: PINSHRD-PTH-2X06  eagleDevice: PINSHRD-PTH-2X06  eaglePackage: PINSHRD_PTH_2X06</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>L1</compIden>
+		<compID>NOT OOMP  eagleValue: 700mA+ ferrite bead  eagleDevice: WE-KIL_0805  eaglePackage: WE-KI_0805_B</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>LED1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LEDCHIP-LED0805  eaglePackage: CHIP-LED0805</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>LED1A</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LEDCHIP-LED0805  eaglePackage: CHIP-LED0805</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>LED2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LEDCHIP-LED0805  eaglePackage: CHIP-LED0805</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>LED2A</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LEDCHIP-LED0805  eaglePackage: CHIP-LED0805</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>29</compIndex>
+		<compIden>LED3</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LEDCHIP-LED0805  eaglePackage: CHIP-LED0805</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>30</compIndex>
+		<compIden>LED3A</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LEDCHIP-LED0805  eaglePackage: CHIP-LED0805</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>31</compIndex>
+		<compIden>LED4</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LEDCHIP-LED0805  eaglePackage: CHIP-LED0805</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>32</compIndex>
+		<compIden>LED4A</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LEDCHIP-LED0805  eaglePackage: CHIP-LED0805</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>33</compIndex>
+		<compIden>NORMAL</compIden>
+		<compID>NOT OOMP  eagleValue: SMD_TACT_SMALL  eagleDevice: SMD_TACT_SMALL  eaglePackage: TACT_SWITCH_SMALL</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>34</compIndex>
+		<compIden>PCB1</compIden>
+		<compID>NOT OOMP  eagleValue: PCB_DP_RECTANGLE-43X70  eagleDevice: PCB_DP_RECTANGLE-43X70  eaglePackage: DP7043_V1</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>35</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: MMBTA56-SOT23  eaglePackage: SOT23</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>36</compIndex>
+		<compIden>Q2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: MMBTA56-SOT23  eaglePackage: SOT23</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>37</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>38</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>39</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O112-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>40</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O112-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>41</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O112-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>42</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O112-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>43</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0603-X-O202-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>44</compIndex>
+		<compIden>R8</compIden>
+		<compID>RESE-0603-X-O202-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>45</compIndex>
+		<compIden>R9</compIden>
+		<compID>RESE-0603-X-O202-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>46</compIndex>
+		<compIden>R10</compIden>
+		<compID>RESE-0603-X-O202-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>47</compIndex>
+		<compIden>R11</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>48</compIndex>
+		<compIden>R12</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>49</compIndex>
+		<compIden>R13</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>50</compIndex>
+		<compIden>R14</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>51</compIndex>
+		<compIden>R15</compIden>
+		<compID>RESE-0603-X-O104-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>52</compIndex>
+		<compIden>RESET</compIden>
+		<compID>NOT OOMP  eagleValue: SMD_TACT_SMALL  eagleDevice: SMD_TACT_SMALL  eaglePackage: TACT_SWITCH_SMALL</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>53</compIndex>
+		<compIden>RN1</compIden>
+		<compID>NOT OOMP  eagleValue: 10k  eagleDevice: RNETWORK  eaglePackage: RN8P-4R-CRA06S</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>54</compIndex>
+		<compIden>RN2</compIden>
+		<compID>NOT OOMP  eagleValue: 10k  eagleDevice: RNETWORK  eaglePackage: RN8P-4R-CRA06S</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>55</compIndex>
+		<compIden>RN3</compIden>
+		<compID>NOT OOMP  eagleValue: 10k  eagleDevice: RNETWORK  eaglePackage: RN8P-4R-CRA06S</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>56</compIndex>
+		<compIden>USB</compIden>
+		<compID>NOT OOMP  eagleValue: USB mini-b  eagleDevice: CON-USB-MINI-BUSB1  eaglePackage: CONN_USB_MINI-B</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>57</compIndex>
+		<compIden>VR1</compIden>
+		<compID>NOT OOMP  eagleValue: MCP1801T-3302I/OT  eagleDevice: MIC5205  eaglePackage: SOT-23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>58</compIndex>
+		<compIden>VR2</compIden>
+		<compID>NOT OOMP  eagleValue: MCP1801T-3302I/OT  eagleDevice: MIC5205  eaglePackage: SOT-23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>59</compIndex>
+		<compIden>VR3</compIden>
+		<compID>NOT OOMP  eagleValue: MCP1801T-5002I/OT  eagleDevice: MIC5205  eaglePackage: SOT-23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>60</compIndex>
+		<compIden>X1</compIden>
+		<compID>NOT OOMP  eagleValue: CRYSTAL_212M_  eagleDevice: CRYSTAL_212M_  eaglePackage: 4X6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Dangerous Prototypes</company>
+		<companyCode>C-DANP</companyCode>
+		<name>Bus Pirate v4</name>
+		<partID>2</partID>
+		<link><![CDATA[http://dangerousprototypes.com/docs/Bus_Pirate]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

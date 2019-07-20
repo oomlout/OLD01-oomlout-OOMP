@@ -1,0 +1,105 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14480</oompID>
+	<name>SparkFun Triple Axis Accelerometer Breakout - H3LIS331DL</name>
+	<hexID>SPAR14480</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun H3LIS331DL Triple Axis Accelerometer Breakout is a low-power, high-g accelerometer with I2C and SPI interface options. Though not necessarily good at detecting minute changes, the H3LIS331DL is great for grueling conditions that normal accelerometers aren't suited for. With a shock survivability of 10000g and a handy sleep-to-wake function, the H3LIS331DL breakout makes the perfect board for shock and collision detection as well as impact recognition and logging.
+This breakout offers an adjustable output range of 100, 200 or 400g, and an adjustable data rate of 0.5kHz to 1kHz. While normally operating at 2.16V--3.6V, the SparkFun H3LIS331DL Triple Axis Accelerometer Breakout does feature a pretty impressive low-power mode with low-voltage compatible IOs at 1.8V with a power consumption rate of 10µA. Each pin has been broken out into breadboard-friendly 0.1" pins, and we've also added convenient mounting holes that allow you to attach the breakout to whatever ingenious project you can think up.
+ Get Started with the SparkFun H3LIS331DL Breakout Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14480</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>9</numComponents>
+	<numOompComponents>7</numOompComponents>
+	<oompCompletion>78</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPT-3216-X-UF10-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>J1</compIden>
+		<compID>HEAD-I01-X-PI04-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>J2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: I2C_STANDARD  eaglePackage: 1X04</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O472-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O472-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: H3LIS331DL  eagleDevice: H3LIS331DL  eaglePackage: LGA-16-3X3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Triple Axis Accelerometer Breakout - H3LIS331DL</name>
+		<partID>14480</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14480]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

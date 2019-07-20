@@ -1,0 +1,54 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-11820</oompID>
+	<name>SparkFun RGB LED Breakout - WS2812B</name>
+	<hexID>SPAR11820</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is a breakout board for the WS2812B RGB LED. The WS2812B (or "NeoPixel") is actually an RGB LED with a WS2811 built right into the LED! All the necessary pins are broken out to 0.1" spaced headers for easy bread-boarding. Several of these breakouts can even be chained together to form a display or an addressable string.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/11820</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>2</numComponents>
+	<numOompComponents>2</numOompComponents>
+	<oompCompletion>100</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>U1</compIden>
+		<compID>LEDS-5050-X-K2812-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun RGB LED Breakout - WS2812B</name>
+		<partID>11820</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/11820]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

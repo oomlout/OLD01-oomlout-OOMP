@@ -1,0 +1,112 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-10047</oompID>
+	<name>LilyPad LED Yellow (5pcs)</name>
+	<hexID>SPAR10047</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is a simple pack of five Yellow LilyPad LEDs that are still attached to one another, letting you snap the LEDs apart at your leisure to sew into clothing or whatever else you can dream up.
+LilyPad is a wearable e-textile technology developed by Dr. Leah Buechley and cooperatively designed by Leah and SparkFun. Each LilyPad piece was creatively designed with large sew tabs to allow them to be sewn into fabric. Various input, output, power and sensor boards are available. They're even washable (with special care)!
+Note: A portion of this sale is given back to Dr. Buechley for continued development and education in e-textiles.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/10047</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>10</numComponents>
+	<numOompComponents>10</numOompComponents>
+	<oompCompletion>100</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>D1</compIden>
+		<compID>LEDS-1206-W-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>D2</compIden>
+		<compID>LEDS-1206-W-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>D3</compIden>
+		<compID>LEDS-1206-W-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>D4</compIden>
+		<compID>LEDS-1206-W-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>D5</compIden>
+		<compID>LEDS-1206-W-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O151-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O151-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O151-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O151-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O151-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>LilyPad LED Yellow (5pcs)</name>
+		<partID>10047</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/10047]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

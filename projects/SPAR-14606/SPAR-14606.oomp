@@ -1,0 +1,182 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14606</oompID>
+	<name>SparkFun Flexible Grayscale OLED Breakout - 1.81andquot;</name>
+	<hexID>SPAR14606</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                It's typically better to have a flexible mind and outlook on life, so the same should go for OLED displays! The SparkFun Flexible Grayscale OLED Breakout is pretty much exactly what the name says it is: a small grayscale OLED that can be bent up to a 40mm radius without any worry of damage. Attached to a controller board, the actual display is less than 0.5mm thick and can display some impressive graphics (including BMP images, a variety of text options, or even a game of Pong) with great contrast.
+The OLED display is 1.81" long with 160x32 4-bit grayscale pixels with a 3-wire SPI interface. This means you will need a processor capable of storing a local array of 2,560 bytes in order to truly flex the power of the grayscale display. The Flexible OLED is fairly simple to connect to your microcontroller. You can either solder headers to the OLED breakout or solder wires straight to the breakout pins. The on-board buffer on the breakout also provides you with an option to hook the display straight up to 3.3V or 5V logic without the need for any logic conversion circuitry.
+ Get Started with the Flexible Grayscale OLED Breakout Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14606</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>20</numComponents>
+	<numOompComponents>13</numOompComponents>
+	<oompCompletion>65</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0805-X-UF1-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-0805-X-UF22D-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C7</compIden>
+		<compID>CAPC-0805-X-UF22D-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>C8</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>C9</compIden>
+		<compID>CAPC-0603-X-UF22D-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>C10</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>C11</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  eagleValue: 1A/23V/620mV  eagleDevice: DIODE-SCHOTTKY-BAT20J  eaglePackage: SOD-323</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>DS1</compIden>
+		<compID>NOT OOMP  eagleValue: OEL_1.8OEL_Y3B  eagleDevice: OEL_1.8OEL_Y3B  eaglePackage: OEL_1.8_FPC_Y3B</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>J2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_06NO_SILK_NO_POP  eaglePackage: 1X06_NO_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>L1</compIden>
+		<compID>NOT OOMP  eagleValue: 10uH  eagleDevice: INDUCTOR-CDRH-10UH  eaglePackage: INDUCTOR_4.7UH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O473-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O562-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: AP3012  eagleDevice: AP3012  eaglePackage: SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  eagleValue: TXB0104  eagleDevice: TXB0104PWRSOIC14  eaglePackage: SO14</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Flexible Grayscale OLED Breakout - 1.81andquot;</name>
+		<partID>14606</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14606]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

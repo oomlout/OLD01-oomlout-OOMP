@@ -1,0 +1,77 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-09729</oompID>
+	<name>ProtoScrewShield</name>
+	<hexID>SPAR09729</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The ScrewShield extends all pins of the Arduino out to 3.5mm pitch screw terminals. It also has a lot of the utility provided by Arduino Protoshield, including: a large prototyping space of both connected and unconnected 0.1" spaced through-holes, a couple 5V and GND busses, a reset button, general use push button, and a 5mm yellow LED.
+This product includes all the parts shown and comes in kit form and must be soldered together by the end user.
+Note: This product is a collaboration with Tod Kurt, John Edgar Park, and Brian Jepson of WingShield Industries and a portion of each sale goes to them for product support and continued development.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/9729</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>5</numComponents>
+	<numOompComponents>1</numOompComponents>
+	<oompCompletion>20</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>LED1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-W04-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  eagleValue: Reset  eagleDevice: SWITCH-MOMENTARY-2PTH  eaglePackage: TACTILE-PTH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>S2</compIden>
+		<compID>NOT OOMP  eagleValue: General  eagleDevice: SWITCH-MOMENTARY-2PTH  eaglePackage: TACTILE-PTH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: ARDUINO_SHIELD  eagleDevice: ARDUINO_SHIELDNOHOLES  eaglePackage: DUEMILANOVE_SHIELD_NOHOLES</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>ProtoScrewShield</name>
+		<partID>9729</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/9729]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

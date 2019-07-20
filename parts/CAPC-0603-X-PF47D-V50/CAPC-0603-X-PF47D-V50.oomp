@@ -1,10 +1,12 @@
 <xml>
 <oompPart>
 	<oompID>CAPC-0603-X-PF47D-V50</oompID>
-	<name>SMD (0603) 5 pF Capacitor (Ceramic) 50v</name>
+	<name>SMD (0603) 4.7 pF Capacitor (Ceramic) 50v</name>
+	<hexID>C6P004</hexID>
 	<oompType>CAPC</oompType>
 	<oompSize>0603</oompSize>
 	<oompColor>X</oompColor>
+	<oompDesc>PF47D</oompDesc>
 	<oompIndex>V50</oompIndex>
 	<oompVersion>999</oompVersion>
 	<ooWidth>0.8mm</ooWidth>
@@ -90,5 +92,7 @@
 			<drawItem>template;XXXX-0603-X-XXXX-XX-simp</drawItem>
 		</oompSimp>
 		<ooDesignator>C1</ooDesignator>
+	<oompStatCount>0</oompStatCount>
+	<oompStatPercent>0.00</oompStatPercent>
 </oompPart>
 </xml>

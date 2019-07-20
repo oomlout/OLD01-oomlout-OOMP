@@ -1,0 +1,134 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-13046</oompID>
+	<name>SparkFun Block for Intel® Edison - ADC</name>
+	<hexID>SPAR13046</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The Intel® Edison is an ultra small computing platform that will change the way you look at embedded electronics. Each Edison is packed with a huge amount of tech goodies into a tiny package while still providing the same robust strength of your go-to single board computer. Powered by the Intel® Atom™ SoC dual-core CPU and including an integrated WiFi, Bluetooth LE, and a 70-pin connector to attach a veritable slew of shield-like "Blocks" which can be stacked on top of each other. It's no wonder how this little guy is lowering the barrier of entry on the world of electronics!
+This Block adds ADC functionality to the Edison's I2C bus. The ADS1015 ADC from TI provides a single 12-bit delta-sigma convertor with an analog multiplexer. It can be configured as a four-channel single-ended device or as a two-channel differential device.
+The ADC Block has jumpers to allow selection of the I2C slave address among four different options, allowing up to four of these cards to be stacked under one Edison. The sampling rate is not sufficient for audio capture, at 2.2kHz, but it should be adequate for most control applications.
+If you are looking to add a little more stability to your Intel® Edison stack, check out this Hardware Pack. It will provide you with increased mechanical strength for stacking Blocks on your Edison!              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/13046</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>13</numComponents>
+	<numOompComponents>9</numOompComponents>
+	<oompCompletion>69</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O204-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O222-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>R7</compIden>
+		<compID>NOT OOMP  eagleValue: 0.27  eagleDevice: 0.27OHM-1/10W-1%(0603)  eaglePackage: 0603-RES</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: ADS1015  eagleDevice: ADS1015  eaglePackage: MSOP10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: PCA9306  eagleDevice: PCA9306PCA9306DC-1:1  eaglePackage: PCA9306DC-1:1</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: MIC52053.3V  eaglePackage: SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Block for Intel® Edison - ADC</name>
+		<partID>13046</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/13046]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

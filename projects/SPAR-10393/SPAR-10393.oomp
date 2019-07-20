@@ -1,0 +1,172 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-10393</oompID>
+	<name>SparkFun Bluetooth Mate Silver</name>
+	<hexID>SPAR10393</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The Bluetooth Mate is very similar to our BlueSMiRF modem, but it is designed specifically to be used with our Arduino Pros and LilyPad Arduinos. These modems work as a serial (RX/TX) pipe, and are a great wireless replacement for serial cables. Any serial stream from 2400 to 115200bps can be passed seamlessly from your computer to your target.
+Bluetooth Mate has the same pin out as the FTDI Basic, and is meant to plug directly into an Arduino Pro, Pro Mini, or LilyPad Mainboard. Because we've arranged the pins to do this, you cannot directly plug the Bluetooth Mate to an FTDI Basic board (you'll have to swap TX and RX).
+The RN-42 is perfect for short range, battery powered applications. The RN-42 uses only 26uA in sleep mode while still being discoverable and connectable. Multiple user configurable power modes allow the user to dial in the lowest power profile for a given application. If you need longer range, check out the Bluetooth Mate Gold.
+The Bluetooth Mate has on-board voltage regulators, so it can be powered from any 3.3 to 6VDC power supply. We've got level shifting all set up so the RX and TX pins on the remote unit are 3-6VDC tolerant. Do not attach this device directly to a serial port. You will need an RS232 to TTL converter circuit if you need to attach this to a computer.
+Unit comes without a connector; if you want to connect it to an Arduino Pro, we'd suggest the 6-pin right-angle female header.
+Note: If you are looking for the ability to use the FTDI directly with your Bluetooth Mate check out our Crossover Breakout for FTDI!
+**Note: **The hardware reset pin of the RN-42 module is broken out on the bottom side of the board. This pin is mislabeled as 'PIO6', it is actually PIO4. Should you need to reset the Mate, pull this pin high upon power-up, and then toggle it 3 times.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/10393</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>18</numComponents>
+	<numOompComponents>14</numOompComponents>
+	<oompCompletion>78</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0603-X-UF1-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>D1</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>D2</compIden>
+		<compID>LEDS-0603-G-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  eagleValue: MOSFET-NCHANNELSMD  eagleDevice: MOSFET-NCHANNELSMD  eaglePackage: SOT23-3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>Q2</compIden>
+		<compID>NOT OOMP  eagleValue: MOSFET-NCHANNELSMD  eagleDevice: MOSFET-NCHANNELSMD  eaglePackage: SOT23-3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>R8</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R9</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: BLUETOOTH-RN41  eagleDevice: BLUETOOTH-RN41  eaglePackage: RN41</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  eagleValue: V_REG_LDOSMD  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Bluetooth Mate Silver</name>
+		<partID>10393</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/10393]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

@@ -1,0 +1,136 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-11018</oompID>
+	<name>SparkFun RFM22 Shield - 434MHz</name>
+	<hexID>SPAR11018</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The RFM22 is a low-cost ISM FSK transceiver module which offers communication at 433MHz ISM and adjustable output power of up to +20 dBm. What does that mean for you? It means your Arduino now has an inexpensive way to talk to other Arduinos so building point-to-point and even basic mesh networks just got a lot more attractive.
+The RFM22 Shield connects the RFM22 module to the appropriate lines on the Arduino. By using the RF22 Library, you can send and receive messages via standard 4-wire SPI. The library includes command structures for setting up anything from simple non-addressed point-to-point communication to fully addressed networks of clients and routers. The shield also provides a through-hole antenna connection for hooking up a basic wire antenna. In our testing, a 17cm wire attached to the 'ANT' pin worked just fine. A hole is drilled next to the 'ANT' pin for strain relief.
+The shield has on-board power regulation and level shifting. There are one pin headers and jumpers on the interrupt (nIRQ), interface select (nSEL), shutdown input (SDN) and GPIO2 lines so that you can cut the trace and reroute those lines if you need to for your project. The board also provides a little bit of prototyping space.
+Note: The RFM22 Shield comes as a stand-alone board. Headers and antenna will need to be purchased separately, check the related items or wish list below!
+
+
+[Schematic](http://cdn.sparkfun.com/datasheets/Dev/Arduino/Shields/RFM22 Shield-v10.pdf)
+[Eagle Files](http://cdn.sparkfun.com/datasheets/Dev/Arduino/Shields/RFM22 Shield-v10.zip)
+Datasheet (RFM22B)
+Quickstart Guide
+GitHub (Design Files andamp; Example Code)
+GitHub (Library)
+              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/11018</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>12</numComponents>
+	<numOompComponents>7</numOompComponents>
+	<oompCompletion>58</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0402-X-PF470-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>LED1</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0402-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>S2</compIden>
+		<compID>NOT OOMP  eagleValue: Reset  eagleDevice: SWITCH-MOMENTARY-2SMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: MIC5202-3.3V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: RFM22  eagleDevice: RFM22SMD  eaglePackage: RFM22-XXX-S2</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  eagleValue: 74HC4050 LVL CONVERTER  eagleDevice: HEX_CONVERTER  eaglePackage: SO016</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>U4</compIden>
+		<compID>NOT OOMP  eagleValue: ARDUINO_SHIELD  eagleDevice: ARDUINO_SHIELDNOHOLES  eaglePackage: DUEMILANOVE_SHIELD_NOHOLES</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun RFM22 Shield - 434MHz</name>
+		<partID>11018</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/11018]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

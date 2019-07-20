@@ -1,0 +1,351 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-11345</oompID>
+	<name>SparkFun Geiger Counter</name>
+	<hexID>SPAR11345</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                You talked, we listened, and we've revised our Geiger Counter board to address some of the most pressing concerns. This version features an improved voltage regulation circuit for the Geiger tube which has a much cleaner output. We've also modified the signal capture portion of the board so that it reads active high, allowing for more dependable counts that are less susceptible to fouling due to line capacitance. The new signal capture circuit also pushes the CPM limit to 100Hz!
+This USB powered SparkFun Geiger Counter is equipped with an ATMega328 that can be programmed in circuit using one of the programmers below. Simply plug the unit into USB (make sure you have FTDI drivers installed), open a terminal program to the correct COM port at 9600bps, and you will see random bits being generated from the random background radiation. Each bit generated (an ASCII byte 0 or 1) represents an actual event in the tube in real-time, so the output can be used to deduce CPM or what ever units you need. While you're at it, why not check out the random number generating Geiger counter tutorial?
+Note: While the Geiger counter is powered and the switch is in the ON position, the board contains exposed high voltage components. In order to turn the unit off, you must flip the tube power switch to OFF while the USB cable is plugged in or while the board is still connected to your power supply. The reason being; when you move the switch into the OFF position, the high voltage lines are bled out through a resistor connected to ground, more information on this is in the tutorial.
+A project box or enclosure is suggested. Do not touch the end window of the Geiger tube and do not to touch any conductive region inside the area marked HIGH VOLTAGE when the Geiger tube is powered ON. An enclosure is not absolutely necessary, but if you choose not use an enclosure, remember to be extra careful with the end window and high voltage regions.
+The Geiger tube comes with a red boot to protect the end window during production, handling, and shipping. The boot should be removed if you need to detect alpha particles. However, you should still see activity from gamma and beta particles even with the boot on.
+This product is controlled for export by the United States. Sending it to other countries may still be possible, but will require additional information prior to shipment.
+Note: This product is for educational purposes and should not be directly relied upon for determinations regarding one's health or safety.
+Features:
+
+5V Logic
+Total Current 30mA
+LND712 Geiger Tube @ 560V
+ATMega328 Microcontroller
+FTDI USB Interface
+On Board Power and Status LEDs
+TTL (Active High) Output Pin from Tube
+Arduino bootloader included. Use board type “Arduino Pro or Pro Mini, ATmega328 (3.3V, 8 MHZ)
+              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/11345</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>42</numComponents>
+	<numOompComponents>22</numOompComponents>
+	<oompCompletion>52</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>NOT OOMP  eagleValue: 0.01uF  eagleDevice: CAPPTH3  eaglePackage: CAP-PTH-LARGE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>NOT OOMP  eagleValue: 0.01uF  eagleDevice: CAPPTH3  eaglePackage: CAP-PTH-LARGE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C6</compIden>
+		<compID>NOT OOMP  eagleValue: 0.01uF  eagleDevice: CAPPTH3  eaglePackage: CAP-PTH-LARGE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C7</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>C10</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>C11</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  eagleValue: 1N4007  eagleDevice: DIODEHV  eaglePackage: DIODE-HV</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>D2</compIden>
+		<compID>NOT OOMP  eagleValue: 1N4007  eagleDevice: DIODEPTH  eaglePackage: DIODE-1N4001</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>D3</compIden>
+		<compID>NOT OOMP  eagleValue: 1N4007  eagleDevice: DIODEPTH  eaglePackage: DIODE-1N4001</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>D4</compIden>
+		<compID>NOT OOMP  eagleValue: 1N4007  eagleDevice: DIODEPTH  eaglePackage: DIODE-1N4001</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>F1</compIden>
+		<compID>NOT OOMP  eagleValue: PTCSMD  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>LED1</compIden>
+		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED1206  eaglePackage: LED-1206</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>LED2</compIden>
+		<compID>NOT OOMP  eagleValue: Green  eagleDevice: LED1206  eaglePackage: LED-1206</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  eagleValue: MPSA42  eagleDevice: TRANSISTOR_NPNSOT23-3  eaglePackage: SOT23-3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>Q2</compIden>
+		<compID>NOT OOMP  eagleValue: MPSA18  eagleDevice: TRANSISTOR_NPNTO92  eaglePackage: TO-92</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>Q3</compIden>
+		<compID>NOT OOMP  eagleValue: MMBT4403  eagleDevice: TRANSISTOR_PNPSMD  eaglePackage: SOT23-3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>Q4</compIden>
+		<compID>NOT OOMP  eagleValue: MPSA18  eagleDevice: TRANSISTOR_NPNTO92  eaglePackage: TO-92</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O104-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O154-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O182-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-W04-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>R8</compIden>
+		<compID>RESE-W04-X-O106-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>R9</compIden>
+		<compID>RESE-W04-X-O106-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>29</compIndex>
+		<compIden>R11</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>30</compIndex>
+		<compIden>R12</compIden>
+		<compID>RESE-0603-X-O331-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>31</compIndex>
+		<compIden>R13</compIden>
+		<compID>RESE-0603-X-O331-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>32</compIndex>
+		<compIden>R14</compIden>
+		<compID>RESE-W04-X-O105-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>33</compIndex>
+		<compIden>R15</compIden>
+		<compID>RESE-W04-X-O106-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>34</compIndex>
+		<compIden>R16</compIden>
+		<compID>RESE-W04-X-O153-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>35</compIndex>
+		<compIden>R17</compIden>
+		<compID>RESE-W04-X-O105-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>36</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  eagleValue: SWITCH-DPDTGPI  eagleDevice: SWITCH-DPDTGPI  eaglePackage: GPI-152-3013</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>37</compIndex>
+		<compIden>S2</compIden>
+		<compID>NOT OOMP  eagleValue: Reset  eagleDevice: TAC_SWITCHSMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>38</compIndex>
+		<compIden>U7</compIden>
+		<compID>NOT OOMP  eagleValue: TRANSFORMERAUDIO  eagleDevice: TRANSFORMERPTH  eaglePackage: TRANSFORMER</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>39</compIndex>
+		<compIden>U8</compIden>
+		<compID>ICIC-TQ32-X-K328-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>40</compIndex>
+		<compIden>U10</compIden>
+		<compID>NOT OOMP  eagleValue: FT232RL-BASICSSOP  eagleDevice: FT232RL-BASICSSOP  eaglePackage: SSOP28DB</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>41</compIndex>
+		<compIden>U17</compIden>
+		<compID>NOT OOMP  eagleValue: AVR_SPI_PRG_6PTH  eagleDevice: AVR_SPI_PRG_6PTH  eaglePackage: 2X3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>42</compIndex>
+		<compIden>X1</compIden>
+		<compID>NOT OOMP  eagleValue: USBSMD  eagleDevice: USBSMD  eaglePackage: USB-MINIB</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Geiger Counter</name>
+		<partID>11345</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/11345]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

@@ -1,0 +1,140 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-09004</oompID>
+	<name>SparkFun ClockIt</name>
+	<hexID>SPAR09004</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is a great kit to learn the basics of soldering. The SparkFun ClockIt is a basic alarm clock with buzzer based on the ever popular ATMega328. If you're just learning how to solder, this kit should take you 15-20 minutes. If you're a weathered pro at soldering, this is a great relaxing build that should take 5-10 minutes.
+We've made some changes to this kit so it's easier for beginners to solder: The ATMega footprint is wider so you don't need to bend any pins and we've also added some more silkscreen print to better indicate the polarity of the parts.
+No programmer required. The ATmega comes with firmware installed!              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/9004</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>14</numComponents>
+	<numOompComponents>3</numOompComponents>
+	<oompCompletion>21</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CAPCAP-PTH-SMALL-KIT  eaglePackage: CAP-PTH-SMALL-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CAPCAP-PTH-SMALL-KIT  eaglePackage: CAP-PTH-SMALL-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-05-X-UF10-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-36D-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  eagleValue: POWER_JACKKIT  eagleDevice: POWER_JACKKIT  eaglePackage: POWER-BARRELJACK-PTH-LOCK-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>LED1</compIden>
+		<compID>NOT OOMP  eagleValue: 7-SEGMENT-4DIGIT-YOUNGSUNKIT  eagleDevice: 7-SEGMENT-4DIGIT-YOUNGSUNKIT  eaglePackage: 7-SEGMENT-4DIGIT-YOUNGSUN-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  eagleValue: 16MHz  eagleDevice: CRYSTALHC49US-KIT  eaglePackage: HC49US-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-W04-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  eagleValue: SWITCH-MOMENTARY-2TACTILE-PTH-KIT  eagleDevice: SWITCH-MOMENTARY-2TACTILE-PTH-KIT  eaglePackage: TACTILE-PTH-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>S2</compIden>
+		<compID>NOT OOMP  eagleValue: SWITCH-MOMENTARY-2TACTILE-PTH-KIT  eagleDevice: SWITCH-MOMENTARY-2TACTILE-PTH-KIT  eaglePackage: TACTILE-PTH-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>S3</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPSTKIT  eaglePackage: SWITCH-SPDT_KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>S4</compIden>
+		<compID>NOT OOMP  eagleValue: SWITCH-MOMENTARY-2TACTILE-PTH-KIT  eagleDevice: SWITCH-MOMENTARY-2TACTILE-PTH-KIT  eaglePackage: TACTILE-PTH-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>SG2</compIden>
+		<compID>NOT OOMP  eagleValue: BUZZERKIT  eagleDevice: BUZZERKIT  eaglePackage: BUZZER-12MM-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: AVR-MEGA8-PKIT  eagleDevice: AVR-MEGA8-PKIT  eaglePackage: DIL28-3-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun ClockIt</name>
+		<partID>9004</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/9004]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

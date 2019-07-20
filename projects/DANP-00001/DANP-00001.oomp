@@ -1,0 +1,312 @@
+<xml>
+<oompProject>
+	<oompID>DANP-00001</oompID>
+	<name>Bus Pirate v3.6</name>
+	<hexID>DANP00001</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>(image and text from seeedstudio.com)
+
+Bus Pirate v3 is a universal bus interface that talks to electronics from a PC serial terminal. Get to know a chip without writing code. Eliminates a ton of early prototyping effort with new or unknown chips. A laser cut acrylic case for Bus Pirate v3.6 is also available.
+
+This board provides 1-Wire, I2C, SPI, JTAG, asynchronous serial (UART), MIDI, PC keyboard, HD44780 LCDs, and generic 2- and 3-wire libraries for custom protocols.</oompAbout>
+	<oompOfficialLink>http://dangerousprototypes.com/docs/Bus_Pirate</oompOfficialLink>
+	<company>Dangerous Prototypes</company>
+	<companyCode>C-DANP</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>39</numComponents>
+	<numOompComponents>17</numOompComponents>
+	<oompCompletion>44</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C7</compIden>
+		<compID>CAPC-0603-X-UF1-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>C8</compIden>
+		<compID>CAPC-0603-X-UF1-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>C9</compIden>
+		<compID>CAPC-0603-X-UF1-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>C10</compIden>
+		<compID>CAPT-1206-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>C11</compIden>
+		<compID>CAPT-1206-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>IC1</compIden>
+		<compID>NOT OOMP  eagleValue: PIC24FJ64GA002  eagleDevice: PIC24FJ64GA002  eaglePackage: SSOP28</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>IC2</compIden>
+		<compID>NOT OOMP  eagleValue: FT232RL  eagleDevice: FT232RL  eaglePackage: SSOP28</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>IC3</compIden>
+		<compID>NOT OOMP  eagleValue: 4066  eagleDevice: 4066  eaglePackage: TSSOP14</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>ICSP</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PINHD-1X5  eaglePackage: 1X05</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>IO</compIden>
+		<compID>NOT OOMP  eagleValue: CON_HEADER_2X05-PTH+SHROUDED_B  eagleDevice: CON_HEADER_2X05-PTH+SHROUDED_B  eaglePackage: PINSHRD_PTH_2X05B</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  eagleValue: CON-USB-MINI-BUSB1  eagleDevice: CON-USB-MINI-BUSB1  eaglePackage: CONN_USB_MINI-B</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>L1</compIden>
+		<compID>NOT OOMP  eagleValue: 700mA+ ferrite  eagleDevice: WE-KIL_0805  eaglePackage: WE-KI_0805_B</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>LED1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LEDCHIP-LED0805  eaglePackage: CHIP-LED0805</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>LED1A</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LEDCHIP-LED0805  eaglePackage: CHIP-LED0805</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>LED2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LEDCHIP-LED0805  eaglePackage: CHIP-LED0805</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>LED2A</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LEDCHIP-LED0805  eaglePackage: CHIP-LED0805</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>LED3</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LEDCHIP-LED0805  eaglePackage: CHIP-LED0805</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>LED3A</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LEDCHIP-LED0805  eaglePackage: CHIP-LED0805</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>LED4</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LEDCHIP-LED0805  eaglePackage: CHIP-LED0805</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>LED4A</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LEDCHIP-LED0805  eaglePackage: CHIP-LED0805</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>PCB1</compIden>
+		<compID>NOT OOMP  eagleValue: PCB_DP_RECTANGLE-37X60  eagleDevice: PCB_DP_RECTANGLE-37X60  eaglePackage: DP6037_V1</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O202-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>29</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O112-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>30</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O112-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>31</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O112-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>32</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O202-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>33</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O112-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>34</compIndex>
+		<compIden>RN1</compIden>
+		<compID>NOT OOMP  eagleValue: 10k  eagleDevice: RNETWORK  eaglePackage: RN8P-4R-CRA06S</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>35</compIndex>
+		<compIden>RN2</compIden>
+		<compID>NOT OOMP  eagleValue: 10k  eagleDevice: RNETWORK  eaglePackage: RN8P-4R-CRA06S</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>36</compIndex>
+		<compIden>RN3</compIden>
+		<compID>NOT OOMP  eagleValue: 10k  eagleDevice: RNETWORK  eaglePackage: RN8P-4R-CRA06S</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>37</compIndex>
+		<compIden>VR1</compIden>
+		<compID>NOT OOMP  eagleValue: MCP1801T-3302I/OT  eagleDevice: MIC5205  eaglePackage: SOT-23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>38</compIndex>
+		<compIden>VR2</compIden>
+		<compID>NOT OOMP  eagleValue: MCP1801T-3302I/OT  eagleDevice: MIC5205  eaglePackage: SOT-23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>39</compIndex>
+		<compIden>VR3</compIden>
+		<compID>NOT OOMP  eagleValue: MCP1801T-5002I/OT  eagleDevice: MIC5205  eaglePackage: SOT-23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Dangerous Prototypes</company>
+		<companyCode>C-DANP</companyCode>
+		<name>Bus Pirate v3.6</name>
+		<partID>1</partID>
+		<link><![CDATA[http://dangerousprototypes.com/docs/Bus_Pirate]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

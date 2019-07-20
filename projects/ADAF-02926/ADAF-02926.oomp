@@ -1,0 +1,153 @@
+<xml>
+<oompProject>
+	<oompID>ADAF-02926</oompID>
+	<name>Assembled Terminal Block Breakout FeatherWing for all Feathers</name>
+	<hexID>ADAF02926</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+Adafruit Terminal Block FeatherWing PCB
+
+Click here to purchase one from the Adafruit shop
+
+The Terminal Block Breakout FeatherWing kit is like the Golden Eagle of prototyping FeatherWings (eg. majestic, powerful, good-looking). To start, you get a nice prototyping area underneath your Feather, with extra pads for ground, 3.3V and SDA/SCL. Not one to stop there, we expanded the PCB out to 2" x 2.5" with 3.5mm pitch terminal blocks down each side. There's also four mounting holes so you can attach the breakout to your enclosure or project.
+
+This product works with all our Feathers! The terminal blocks allow you to connect to any of the external Feather pins, great for wiring temporary or permanent installations. We also give you a few extra terminal block pins for ground and 3.3V connections since those are so useful.
+
+Finally, there's a slide switch, which connects the EN pin to ground when in the 'off' position, cutting off the 3.3V regulator. Note that the FONA Feather uses both VBat and 3.3V as power supplies so you wont be able to fully turn off the FONA Feather with this switch.
+
+PCB files for Adafruit Terminal Block FeatherWing. The format is EagleCAD schematic and board layout
+
+http://www.adafruit.com/products/2926
+License
+Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from Adafruit!
+
+All text above must be included in any redistribution
+
+Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attribution/Share-Alike, all text above must be included in any redistribution. See license.txt for additional information.
+</oompAbout>
+	<oompOfficialLink>https://www.adafruit.com/product/2926</oompOfficialLink>
+	<company>Adafruit</company>
+	<companyCode>C-ADAF</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>14</numComponents>
+	<numOompComponents>0</numOompComponents>
+	<oompCompletion>0</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>MS1</compIden>
+		<compID>NOT OOMP  eagleValue: FEATHERWING_NODIM  eagleDevice: FEATHERWING_NODIM  eaglePackage: FEATHERWING_DIM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>S2</compIden>
+		<compID>NOT OOMP  eagleValue: OS102011MA1Q  eagleDevice: OS102011MA1Q  eaglePackage: OS102011MA1Q</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>X1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TERMBLOCK_1X2  eaglePackage: TERMBLOCK_1X2-3.5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>X2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TERMBLOCK_1X2  eaglePackage: TERMBLOCK_1X2-3.5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>X3</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TERMBLOCK_1X2  eaglePackage: TERMBLOCK_1X2-3.5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>X4</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TERMBLOCK_1X2  eaglePackage: TERMBLOCK_1X2-3.5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>X5</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TERMBLOCK_1X3  eaglePackage: TERMBLOCK_1X3-3.5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>X6</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TERMBLOCK_1X3  eaglePackage: TERMBLOCK_1X3-3.5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>X7</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TERMBLOCK_1X3  eaglePackage: TERMBLOCK_1X3-3.5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>X8</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TERMBLOCK_1X3  eaglePackage: TERMBLOCK_1X3-3.5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>X9</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TERMBLOCK_1X3  eaglePackage: TERMBLOCK_1X3-3.5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>X10</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TERMBLOCK_1X3  eaglePackage: TERMBLOCK_1X3-3.5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>X11</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TERMBLOCK_1X3  eaglePackage: TERMBLOCK_1X3-3.5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>X12</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TERMBLOCK_1X3  eaglePackage: TERMBLOCK_1X3-3.5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Adafruit</company>
+		<companyCode>C-ADAF</companyCode>
+		<name>Assembled Terminal Block Breakout FeatherWing for all Feathers</name>
+		<partID>2926</partID>
+		<link><![CDATA[https://www.adafruit.com/product/2926]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

@@ -1,10 +1,12 @@
 <xml>
 <oompPart>
 	<oompID>CAPC-0603-X-NF220-V25</oompID>
-	<name>SMD (0603) 230 nF Capacitor (Ceramic) 25v</name>
+	<name>SMD (0603) 220 nF Capacitor (Ceramic) 25v</name>
+	<hexID>C6N220</hexID>
 	<oompType>CAPC</oompType>
 	<oompSize>0603</oompSize>
 	<oompColor>X</oompColor>
+	<oompDesc>NF220</oompDesc>
 	<oompIndex>V25</oompIndex>
 	<oompVersion>999</oompVersion>
 	<ooWidth>0.8mm</ooWidth>
@@ -90,5 +92,7 @@
 			<drawItem>template;XXXX-0603-X-XXXX-XX-simp</drawItem>
 		</oompSimp>
 		<ooDesignator>C1</ooDesignator>
+	<oompStatCount>4</oompStatCount>
+	<oompStatPercent>0.04</oompStatPercent>
 </oompPart>
 </xml>

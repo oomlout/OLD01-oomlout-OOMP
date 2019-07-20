@@ -1,0 +1,119 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-13303</oompID>
+	<name>SparkFun 6 Degrees of Freedom Breakout - LSM303C</name>
+	<hexID>SPAR13303</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The LSM303C is a 6 Degrees of Freedom (6DOF) inertial measurement unit (IMU) in a single package, specifically developed as an eCompass device. Due to the IC housing a 3-axis accelerometer and a 3-axis magnetometer combined with its low cost, the LSM303C was perfect for us to create this small breakout board just for you! Each LSM303C Breakout has been designed to be super-flexible and can be configured specifically for many applications. The LSM303C Breakout can be configured to generate an interrupt signal for free-fall, motion detection and magnetic field detection!
+The range of each sensor on the LSM303C is configurable: the accelerometer's scale can be set to ±2g, ±4g, ±6g, or ±8g, while the magnetometer has full-scale range of ±16 gauss, and supports I2C and SPI communication.
+Each pin has been broken out on the LSM303C, with 10 plated through-hole connections featuring power and I2C and SPI functionality, interrupt outputs, and accelerometer and magnetometer data out. Please keep in mind that the LSM303C is a 2.5V device so supplying voltages greater than ~4.8V can permanently damage the IC. As long as your Arduino has a 3.3V supply output, you shouldn't need any extra level shifting.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/13303</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>11</numComponents>
+	<numOompComponents>9</numOompComponents>
+	<oompCompletion>82</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O680-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O472-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O472-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: LSM303C  eagleDevice: LSM303C  eaglePackage: LGA-12</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: LM3880  eagleDevice: LM3880/-QI  eaglePackage: SOT23-6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun 6 Degrees of Freedom Breakout - LSM303C</name>
+		<partID>13303</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/13303]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

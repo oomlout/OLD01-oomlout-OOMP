@@ -1,0 +1,112 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-11502</oompID>
+	<name>SparkFun 16 Output I/O Expander Breakout - SX1509</name>
+	<hexID>SPAR11502</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                Are you low on I/O? No problem! The SX1509 Breakout is a 16-channel GPIO expander with an I2C interface – that means with just two wires, your microcontroller can interface with 16 fully configurable digital input/output pins. But the SX1509 can do so much more than just simple digital pin control. It can produce PWM signals, so you can dim LEDs. It can be set to blink or even breathe pins at varying rates. This breakout is similar to a multiplexer or "mux," in that it allows you to get more IO from less pins. And, with a built-in keypad engine, it can interface with up to 64 buttons set up in an 8x8 matrix.
+Two headers at the top and bottom of the breakout board function as the input and control headers to the board. This is where you can supply power to the SX1509, and where your I2C signals – SDA and SCL – will terminate. GPIO and power buses are broken out in every-which direction, and configurable jumpers cover most of the rest of the board.
+Since the I/O banks can operate between 1.2V and 3.6V (5.5V tolerant) independent of both the core and each other, this device can also work as a level-shifter. The SX1509 breakout makes it easy to prototype so you can add more I/O onto your Arduino or I/O limited controller. We've even spun up an Arduino Library to get you started!              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/11502</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>10</numComponents>
+	<numOompComponents>9</numOompComponents>
+	<oompCompletion>90</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: SX1509  eagleDevice: SX1509  eaglePackage: QFN-28</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun 16 Output I/O Expander Breakout - SX1509</name>
+		<partID>11502</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/11502]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

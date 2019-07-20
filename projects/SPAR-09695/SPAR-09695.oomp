@@ -1,0 +1,91 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-09695</oompID>
+	<name>SparkFun Capacitive Touch Sensor Breakout - MPR121</name>
+	<hexID>SPAR09695</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is a breakout board for Freescale's MPR121QR2. The MPR121 is a capacitive touch sensor controller driven by an I2C interface. The chip can control up to twelve individual electrodes, as well as a simulated thirteenth electrode. The MPR121 also features eight LED driving pins. When these pins are not configured as electrodes, they may be used to drive LEDs.
+There a four jumpers on the bottom of the board, all of which are set (closed) by default. An address jumper ties the ADD pin to ground, meaning the default I2C address of the chip will be 0x5A. If you need to change the address of the chip (by shorting ADD to a different pin), make sure you open the jumper first. Jumpers also connect SDA, SCL and the interrupt pin to 10k pull-up resistors. If you don't require the pull-up resistors you can open the jumpers by cutting the trace connecting them.
+There is no regulation on the board, so the voltage supplied should be between 2.5 and 3.6VDC. The VREG pin is connected through a 0.1uF capacitor to ground, which means, unless you modify the board, you can't operate the MPR121 in low-supply voltage mode (1.71-2.75VDC).              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/9695</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>7</numComponents>
+	<numOompComponents>6</numOompComponents>
+	<oompCompletion>86</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>IC1</compIden>
+		<compID>NOT OOMP  eagleValue: MPR121  eagleDevice: MPR121V2  eaglePackage: QFN-20-0.4MM-V2</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O753-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Capacitive Touch Sensor Breakout - MPR121</name>
+		<partID>9695</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/9695]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

@@ -1,0 +1,120 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-09352</oompID>
+	<name>SparkFun Graphic LCD Serial Backpack</name>
+	<hexID>SPAR09352</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is the serial backpack for graphic LCDs. The SparkFun Graphic LCD Serial Backpack interfaces to either our 160x128 pixel “Huge” Graphic LCD, or the smaller 128x64 pixel display, and provides a simple serial interface to a full range of controls.
+This backpack will allow you to write text, draw lines, circles and boxes, set or reset individual pixels, and erase specific blocks of the display. The backlight and baud rate can also be controlled via serial communication. There's also a reverse mode that allows the screen to operate blue on white instead of white on blue. Additionally, all source code for the ATMega168 processor is compiled using the free WinAVR compiler and is free for downloading.
+There is a solder jumper on the backpack that determines which display is used. When the solder jumper is closed, code for the 128x64 display will run. If the jumper is open, code for the 160x128 display will run.
+Check out this tutorial!              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/9352</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>11</numComponents>
+	<numOompComponents>6</numOompComponents>
+	<oompCompletion>55</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPT-3216-X-UF10-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  eagleValue: TRANSISTOR_PNPSMD  eagleDevice: TRANSISTOR_PNPSMD  eaglePackage: SOT23-3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R3</compIden>
+		<compID>NOT OOMP  eagleValue: TRIMPOTSMD  eagleDevice: TRIMPOTSMD  eaglePackage: TRIMPOT-3MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O472-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: V_REG_LDOSMD  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: ATMEGA168  eagleDevice: ATMEGA168  eaglePackage: TQFP32-08</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>Y1</compIden>
+		<compID>NOT OOMP  eagleValue: RESONATORSMD  eagleDevice: RESONATORSMD  eaglePackage: RESONATOR-SMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Graphic LCD Serial Backpack</name>
+		<partID>9352</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/9352]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

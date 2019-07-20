@@ -1,12 +1,13 @@
 
+![CAPC-0603-X-PF47D-V50](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/CAPC-0603-X-PF47D-V50/CAPC-0603-X-PF47D-V50_420.jpg)   
 Summary
 =================
   
-Name: __SMD (0603) 5 pF Capacitor (Ceramic) 50v__    
+Name: __SMD (0603) 4.7 pF Capacitor (Ceramic) 50v__    
 ID: __CAPC-0603-X-PF47D-V50__   
-Hex ID: ____   
+Hex ID: __C6P004__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0603-X-PF47D-V50__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/C6P004__   
 
 Full Details
 ==========================

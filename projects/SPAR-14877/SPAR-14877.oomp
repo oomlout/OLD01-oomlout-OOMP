@@ -1,0 +1,70 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14877</oompID>
+	<name>SparkFun Basic Flashlight Soldering Kit</name>
+	<hexID>SPAR14877</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                Are you new to soldering and want to learn the basics with one easy kit? This Flashlight Soldering Kit is an easy to assemble soldering kit designed to help teach the basics of through hole soldering and circuit design. This kit requires you to only solder four unique parts onto a PCB and then insert a CR2032 battery, once completed you will be provided with a simple flashlight that will light up dark areas and keep the monsters away!
+Inside each Basic Flashlight Soldering Kit bag is a PCB, a small coin cell battery, a battery holder, an LED, a resistor, and a switch. On the front of the kit's PCB, you can see markings and outlines for the four different components to make sure everything is assembled correctly, while on the back is a schematic of the flashlight circuit showing all four components and how they interact with each other. All you need to supply is a soldering iron and solder to put your kit together!
+ Get Started With the Basic Flashlight Soldering Kit Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14877</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>4</numComponents>
+	<numOompComponents>1</numOompComponents>
+	<oompCompletion>25</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>BT2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: BATTERY-20MM_PTH_KIT  eaglePackage: BATTCOM_20MM_PTH_KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LED-5MM-KIT-NO-SILK  eaglePackage: LED_5MM-KIT-NO-SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-W04-X-O100-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>S2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPDT-PTH-11.6X4.0MM-KIT  eaglePackage: SWITCH_SPDT_PTH_11.6X4.0MM_KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Basic Flashlight Soldering Kit</name>
+		<partID>14877</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14877]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

@@ -1,0 +1,101 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-11734</oompID>
+	<name>SparkFun BigTime Watch Kit</name>
+	<hexID>SPAR11734</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun BigTime watch kit is a geekishly stylish digital watch with a NATO style watch-band and a slick acrylic enclosure. If it seems familiar, that's because it's essentially our open-source branch from the SpikenzieLabs' Solder:Time kit. The heart of the kit is the much venerated ATMega328 using a 32kHz clock-source to keep time. To check the time, just press the button on the side of the watch and it pops up on a 4-digit 7-segment LED display. Thanks to some low-level hackery, the ATMega is running at super low power and should get an estimated 2 years of run time on a single CR2032 coin cell!
+The BigTime is a through-hole kit with a low parts-count, so it makes a great project for beginning solderers. After you've finished soldering together the PCB, simply stack the acrylic pieces around it and screw them together with the included screws. Once that's done, pop in the coin-cell battery and go show off your nerd bling!
+Did we mention that the watch kit is super hackable? An FTDI header is broken out to the side of the board and the watch-firmware is running on top of a bootloader! This means that all you need to do to add your own code is to open up Arduino or Wiring and select "Arduino Pro or Pro Mini 3.3V/8MHz w/ ATmega328" as your board.
+This version of the watch uses brass inserts for a more secure enclosure. It also uses a new NATO style strap.
+Note: Due to the requirements of shipping the battery in this kit, orders may take longer to process and therefore do not qualify for same-day shipping. Additionally, these batteries can not be shipped via Ground or Economy methods to Alaska or Hawaii. Sorry for any inconvenience this may cause.
+Replaces:KIT-11178              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/11734</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>8</numComponents>
+	<numOompComponents>3</numOompComponents>
+	<oompCompletion>38</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>BAT</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: BATTERYFOB  eaglePackage: BATTERY_20MM_PTH_COMPACT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-36D-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-36D-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>LED1</compIden>
+		<compID>NOT OOMP  eagleValue: 7-SEGMENT-4DIGIT-YOUNGSUNKIT  eagleDevice: 7-SEGMENT-4DIGIT-YOUNGSUNKIT  eaglePackage: 7-SEGMENT-4DIGIT-YOUNGSUN-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-W04-X-O104-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  eagleValue: BUTTON  eagleDevice: SWITCH-MOMENTARY-2SIDE_EZ  eaglePackage: TACTILE-PTH-SIDEEZ</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: ATMEGA328P_PDIP_EZ  eagleDevice: ATMEGA328P_PDIP_EZ  eaglePackage: DIL28-EZ</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>Y1</compIden>
+		<compID>NOT OOMP  eagleValue: 32.768kHz  eagleDevice: CRYSTALTC26H_EZ  eaglePackage: TC26HEZ</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun BigTime Watch Kit</name>
+		<partID>11734</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/11734]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

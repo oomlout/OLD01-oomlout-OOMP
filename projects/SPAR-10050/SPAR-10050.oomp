@@ -1,0 +1,89 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-10050</oompID>
+	<name>SparkFun WiFly GSX Breakout</name>
+	<hexID>SPAR10050</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                We've revised the board by adding some LED indicators and also improving the overall performance of the board. This is a breakout board for the RN-131C WiFly GSX module, an ultra-low power 802.11b/g transceiver. This board breaks out all pins of the RN-131C to two 17-pin 0.1" pitch headers. Board comes fully assembled and tested as pictured.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/10050</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>7</numComponents>
+	<numOompComponents>4</numOompComponents>
+	<oompCompletion>57</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  eagleValue: M17  eagleDevice: M17  eaglePackage: 1X17</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>J2</compIden>
+		<compID>NOT OOMP  eagleValue: M17  eagleDevice: M17  eaglePackage: 1X17</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>LED1</compIden>
+		<compID>LEDS-0603-G-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>LED2</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0402-X-O221-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0402-X-O221-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: RN-131G  eagleDevice: RN-131G  eaglePackage: RN-131G</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun WiFly GSX Breakout</name>
+		<partID>10050</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/10050]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

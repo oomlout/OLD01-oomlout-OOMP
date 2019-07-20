@@ -1,0 +1,64 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-12082</oompID>
+	<name>SparkFun Parallel DAC Breakout - AD5330 (8-Bit)</name>
+	<hexID>SPAR12082</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is a simple breakout board for Analog Device's AD5330 8-bit digital-to-analog converter (DAC). The AD5330 has a parallel interface, and can operate from a 2.5 to 5.5V supply consuming just 115uA (at 3V).
+The DB0-7 pins, the parallel data inputs, are used to configure the analog output voltage. CS selects the device, and data is loaded into the input registers on the rising edge of WR. The GAIN pin allows the output range to be set at either 0V to VCC or 0V to 2VCC.
+Input data to the AD5330 is double-buffered, allowing simultaneous update of multiple DACs in a system using the LDAC pin. An asynchronous CLR input resets the contents of the input register and the DAC register to all zeros. The AD5330 also incorporates a power-on reset circuit that ensures that the DAC output powers on to 0V and remains there until valid data is written to the device.
+This breadboard friendly board breaks out every necessary pin of the AD5330 to 0.1" spaced headers. The board includes a decoupling capacitor, but does not do any voltage regulation; voltage supplied to the board should be within the specified range.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/12082</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>3</numComponents>
+	<numOompComponents>2</numOompComponents>
+	<oompCompletion>67</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPT-3216-X-UF10-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: AD5330  eagleDevice: AD5330  eaglePackage: TSSOP20</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Parallel DAC Breakout - AD5330 (8-Bit)</name>
+		<partID>12082</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/12082]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

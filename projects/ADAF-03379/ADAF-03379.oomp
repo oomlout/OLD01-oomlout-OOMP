@@ -1,0 +1,258 @@
+<xml>
+<oompProject>
+	<oompID>ADAF-03379</oompID>
+	<name>Adafruit Feather 32u4 Bluefruit LE with Headers - Assembled</name>
+	<hexID>ADAF03379</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+Adafruit-Feather-32u4-Bluefruit-LE-PCB
+PCB files for the Adafruit Feather 32u4 Bluefruit LE
+
+Format is EagleCAD schematic and board layout
+
+For more details, check out the product page at
+
+https://www.adafruit.com/product/2829
+Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from Adafruit!
+
+Designed by Adafruit Industries.
+Creative Commons 2.5 Attribution, Share-Alike license All text above must be included in any redistribution
+</oompAbout>
+	<oompOfficialLink>https://www.adafruit.com/product/3379</oompOfficialLink>
+	<company>Adafruit</company>
+	<companyCode>C-ADAF</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>30</numComponents>
+	<numOompComponents>21</numOompComponents>
+	<oompCompletion>70</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-UF1-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C7</compIden>
+		<compID>CAPC-0603-X-UF1-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C8</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C9</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C14</compIden>
+		<compID>CAPC-0603-X-UF1-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>CHG</compIden>
+		<compID>LEDS-0805-O-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>D1</compIden>
+		<compID>LEDS-0805-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>D2</compIden>
+		<compID>LEDS-0805-L-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>D4</compIden>
+		<compID>NOT OOMP  eagleValue: MBR120  eagleDevice: DIODE-SCHOTTKYSOD-123  eaglePackage: SOD-123</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>IC1</compIden>
+		<compID>NOT OOMP  eagleValue: ATMEGA32U4-MU  eagleDevice: ATMEGA32U4-MU  eaglePackage: TQFN44_7MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>L</compIden>
+		<compID>LEDS-0805-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O222-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O104-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O220-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O220-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O104-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0603-X-O222-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>R8</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>R9</compIden>
+		<compID>RESE-0603-X-O104-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>R10</compIden>
+		<compID>RESE-0603-X-O222-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>SW1</compIden>
+		<compID>NOT OOMP  eagleValue: SPST_TACT-KMR2  eagleDevice: SPST_TACT-KMR2  eaglePackage: KMR2</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: MBT40  eagleDevice: NRF51822_MODULE_MDBT40  eaglePackage: BLE_MODULE_RAYTAC_MDBT40</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: SPX3819-3.3  eagleDevice: VREG_SOT23-5  eaglePackage: SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  eagleValue: MCP73831T-2ACI/OT  eagleDevice: MCP73831/2  eaglePackage: SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>X1</compIden>
+		<compID>NOT OOMP  eagleValue: JSTPH  eagleDevice: CON_JST_PH_2PIN  eaglePackage: JSTPH2</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>29</compIndex>
+		<compIden>X3</compIden>
+		<compID>NOT OOMP  eagleValue: microUSB  eagleDevice: USB_MICRO_20329_V2  eaglePackage: 4UCONN_20329_V2</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>30</compIndex>
+		<compIden>Y1</compIden>
+		<compID>NOT OOMP  eagleValue: 8MHz  eagleDevice: RESONATORSMD  eaglePackage: RESONATOR-SMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Adafruit</company>
+		<companyCode>C-ADAF</companyCode>
+		<name>Adafruit Feather 32u4 Bluefruit LE with Headers - Assembled</name>
+		<partID>3379</partID>
+		<link><![CDATA[https://www.adafruit.com/product/3379]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

@@ -1,10 +1,12 @@
 <xml>
 <oompPart>
 	<oompID>CAPC-0805-X-NF10-V50</oompID>
-	<name>SMD (0805) 11 nF Capacitor (Ceramic) 50v</name>
+	<name>SMD (0805) 10 nF Capacitor (Ceramic) 50v</name>
+	<hexID>C85N010</hexID>
 	<oompType>CAPC</oompType>
 	<oompSize>0805</oompSize>
 	<oompColor>X</oompColor>
+	<oompDesc>NF10</oompDesc>
 	<oompIndex>V50</oompIndex>
 	<oompVersion>999</oompVersion>
 	<ooWidth>1.25mm</ooWidth>
@@ -72,5 +74,7 @@
 			<drawItem>template;XXXX-0805-X-XXXX-XX-simp</drawItem>
 		</oompSimp>
 		<ooDesignator>C1</ooDesignator>
+	<oompStatCount>2</oompStatCount>
+	<oompStatPercent>0.02</oompStatPercent>
 </oompPart>
 </xml>

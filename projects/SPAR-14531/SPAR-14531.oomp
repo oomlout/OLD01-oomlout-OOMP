@@ -1,0 +1,239 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14531</oompID>
+	<name>Pioneer IoT Add-On Shield</name>
+	<hexID>SPAR14531</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The Pioneer IoT Add-On Shield is a unique board designed to add more functionality to the PSoC 6 from Cypress while remaining useful and practical for plenty of other Internet of Things applications. Each Add-On Shield is a pretty simple board with an equally simple layout that provides XBee, Qwiic and microSD functionality not only to the PSoC 6 but also to any board with an Arduino R3 shield format. On top of designing this board with a reliable IoT performance, we have written a guide that will show you how to communicate with a Raspberry Pi via Bluetooth® and WiFi, as well as how to communicate between a PSoC 4 BLE Pioneer Board and the PSoC 6 Pioneer Board via Bluetooth Low Energy.
+In addition to the microSD card slot, XBee headers and Qwiic connector, the Pioneer IoT Add-On Shield is equipped with a micro-B USB connector. This connector provides 5V to the 3.3V regulator for the XBee module, overriding the 5V coming from the Arduino header and allowing high-power XBee modules to function properly. This is all thanks to the 3.3V regulator, level shift buffer, I2C level shift circuitry and a voltage supply selection jumper --- all found on the shield!
+If you aren't familiar with it, the PSoC 6 Pioneer Board is the development tool associated with this processor line, sporting an onboard debugger, Arduino-compatible headers, CapSense widgets and more --- all tied to a PSoC 6 processor. The processor is a dual-core device, with a Cortex-M0+ low-power processor and a Cortex-M4 high-power processor tied together via shared peripherals and memory space.
+ Get Started With the Pioneer IoT Add-On Shield Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14531</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>28</numComponents>
+	<numOompComponents>20</numOompComponents>
+	<oompCompletion>71</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-0603-X-UF10-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C7</compIden>
+		<compID>CAPC-0603-X-PF22-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  eagleValue: 3A/40V/500mV  eagleDevice: DIODE-SCHOTTKY-B340A  eaglePackage: SMA-DIODE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  eagleValue: AMP FCI 10103594-0001LF  eagleDevice: USB_MICRO-B_HALF_PTH  eaglePackage: USB-MICROB-PTH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>J2</compIden>
+		<compID>JSTS-01-X-PI04-RS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>L1</compIden>
+		<compID>NOT OOMP  eagleValue: 1uH  eagleDevice: INDUCTOR-SRP4020-1UH  eaglePackage: INDUCTOR-SRP4020</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>LED1</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>LED2</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O204-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>R8</compIden>
+		<compID>RESE-0603-X-O184-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>R9</compIden>
+		<compID>RESE-0603-X-O824-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>S1</compIden>
+		<compID>BUTA-52D-X-SMDS-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>S2</compIden>
+		<compID>BUTA-52D-X-SMDS-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: USD-SOCKETNEW  eagleDevice: USD-SOCKETNEW  eaglePackage: MICRO-SD-SOCKET-PP</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: ARDUINO_UNO_R3_SHIELDUNO_R3_SHIELD_NOLABELS_LOCK  eagleDevice: ARDUINO_UNO_R3_SHIELDUNO_R3_SHIELD_NOLABELS_LOCK  eaglePackage: UNO_R3_SHIELD_NOLABELS_LOCK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  eagleValue: 74HC4050  eagleDevice: HEX_CONVERTER  eaglePackage: SO16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>U4</compIden>
+		<compID>NOT OOMP  eagleValue: PCA9306  eagleDevice: PCA9306PCA9306DC-1:1  eaglePackage: PCA9306DC</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>U5</compIden>
+		<compID>NOT OOMP  eagleValue: TPS62065  eagleDevice: TPS62065  eaglePackage: WSON-8-PAD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>Pioneer IoT Add-On Shield</name>
+		<partID>14531</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14531]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

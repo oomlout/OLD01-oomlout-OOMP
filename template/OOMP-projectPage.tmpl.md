@@ -44,13 +44,13 @@ Specifications
 
 $$%%ID%%-diag.cdr$$Diagram
 $$%%ID%%-diag.cdr$$-------------------------------------
-$$%%ID%%-diag.cdr$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-diag_420.png]]    
-$$%%ID%%-diag.cdr$$__[(svg)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-diag.svg)__ &nbsp; __[(cdr)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-diag.cdr)__ &nbsp; $$%%ID%%-diag.cdr$$__[(png)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-diag.png)__ &nbsp; __[(pdf)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-diag_S.pdf)__       
+$$%%ID%%-diag.cdr$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-diag_600.png]]    
+$$%%ID%%-diag.cdr$$__[(svg)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-diag.svg)__ &nbsp; __[(cdr)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-diag.cdr)__ &nbsp; $$%%ID%%-diag.cdr$$__[(png)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-diag_1500.png)__ &nbsp; __[(pdf)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-diag_S.pdf)__       
 
 Parts   
 --------------------------------
 $$%%ID%%-iden.cdr$$[[https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-iden_600.png]]  
-$$%%ID%%-iden.cdr$$__[(svg)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-iden.svg)__ &nbsp; __[(cdr)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-iden.cdr)__ &nbsp; $$%%ID%%-iden.cdr$$__[(png)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-iden.png)__ &nbsp; __[(pdf)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-iden_S.pdf)__       
+$$%%ID%%-iden.cdr$$__[(svg)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-iden.svg)__ &nbsp; __[(cdr)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-iden.cdr)__ &nbsp; $$%%ID%%-iden.cdr$$__[(png)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-iden_1500.png)__ &nbsp; __[(pdf)](https://github.com/oomlout/oomlout-OOMP/blob/master/projects/%%ID%%/%%ID%%-iden_S.pdf)__       
 
 | __Image__ | __Iden-<br>tifier__ | __OOMP ID__ | __Name__ | __Purpose__ |
 | -------- | ------------------- | ----------- | -------- | ----------- |

@@ -1,0 +1,115 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14769</oompID>
+	<name>SparkFun IR Array Breakout - 55 Degree FOV, MLX90640 (Qwiic)</name>
+	<hexID>SPAR14769</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                It's time to say hip hip array for this IR Breakout! The MLX90640 SparkFun IR Array Breakout is equipped with a 32x24 array of thermopile sensors creating, in essence, a low resolution thermal imaging camera. With this breakout you can detect surface temperatures from many feet away with an accuracy of ±1.5°C (best case). To make it even easier to get your infrared image, all communication is enacted exclusively via I2C, utilizing our handy Qwiic system. However, we still have broken out 0.1"-spaced pins in case you prefer to use a breadboard.
+This specific IR Array Breakout features a 55°x35° field of view with a temperature measurement range of -40°C-300°C. The MLX90640 IR Array has pull up resistors attached to the I2C bus; both can be removed by cutting the traces on the corresponding jumpers on the back of the board. Please be aware that the MLX90640 requires complex calculations by the host platform so a regular Arduino Uno (or equivalent) doesn't have enough RAM or flash to complete the complex computations required to turn the raw pixel data into temperature data. You will need a microcontroller with 20,000 bytes or more of RAM. To achieve this, we recommend a Teensy 3.1 or above.
+
+The SparkFun Qwiic connect system is an ecosystem of I2C sensors, actuators, shields and cables that make prototyping faster and less prone to error. All Qwiic-enabled boards use a common 1mm pitch, 4-pin JST connector. This reduces the amount of required PCB space, and polarized connections mean you can’t hook it up wrong.
+
+ Get Started with the SparkFun IR Array Breakout Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14769</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>10</numComponents>
+	<numOompComponents>8</numOompComponents>
+	<oompCompletion>80</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>D1</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>J2</compIden>
+		<compID>JSTS-01-X-PI04-RS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>J3</compIden>
+		<compID>NOT OOMP  eagleValue: PTH  eagleDevice: I2C_STANDARD_NO_SILK  eaglePackage: 1X04_NO_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>J4</compIden>
+		<compID>JSTS-01-X-PI04-RS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O222-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O222-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: 110DEG  eagleDevice: MLX90540_MLX906404  eaglePackage: MLX90540_MLX90640</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun IR Array Breakout - 55 Degree FOV, MLX90640 (Qwiic)</name>
+		<partID>14769</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14769]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

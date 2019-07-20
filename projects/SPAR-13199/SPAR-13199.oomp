@@ -1,0 +1,169 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-13199</oompID>
+	<name>SparkFun GPS Shield Kit</name>
+	<hexID>SPAR13199</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                This is the SparkFun GPS Shield Kit, a great launch pad for anyone looking to get into the world of GPS. This little kit includes our GPS Shield, an EM-506 GPS Receiver with interface cable, and a set of R3 headers to solder onto the shield. Adding GPS to your Arduino has never been easier. Multiple GPS receivers attach easily to the shield, and with the example sketch (check below), you will be able to locate your exact position within a few meters. Here's where we are. GPS also gives you amazingly accurate time!
+A connector for the popular EM-506 GPS receiver is populated on the board, and footprints for EM-408 and EB-85A connectors are also made available (connectors are not included and can be found below in the related items). The regular GPS pins (RX, TX, PPS, etc.) are also broken out to a 10-pin 0.1" pitch header, and a small prototyping area is also provided.
+The DLINE/UART switch switches the GPS module's input/output between Arduino's standard TX/RX pins or any digital pins on the Arduino (default setting uses pins 3 and 2 connected to TX and RX, respectively). The DLINE/UART switch must be set to DLINE in order to upload code through the Arduino IDE.
+The shield also includes the footprint for a 12mm coin cell battery holder to provide battery backup to the optional EB-85A GPS module.An ON/OFF switch is included which controls power to the GPS module. Additionally, the Arduino reset switch is also brought out.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/13199</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>18</numComponents>
+	<numOompComponents>11</numOompComponents>
+	<oompCompletion>61</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>BAT1</compIden>
+		<compID>NOT OOMP  eagleValue: 12mm  eagleDevice: BATTERY12MM  eaglePackage: BATTCON_12MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>D1</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>D2</compIden>
+		<compID>LEDS-0603-L-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  eagleValue: ARDUINO_R3_SHIELD  eagleDevice: ARDUINO_R3_SHIELD_ICSP-NO_LABELS  eaglePackage: UNO_R3_SHIELD_ICSP_NOLABELS</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>J2</compIden>
+		<compID>NOT OOMP  eagleValue: USD_CONNECTOR  eagleDevice: USD_CONNECTOR  eaglePackage: MICRO-SD-SOCKET-PP</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O104-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O104-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O331-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>S1</compIden>
+		<compID>BUTA-52D-X-SMDS-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>S2</compIden>
+		<compID>NOT OOMP  eagleValue: DPDT  eagleDevice: SWITCH-DPDTAYZ0202  eaglePackage: AYZ0202</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: APK2112-3.3V  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: GP3906-TLP  eagleDevice: GP3906-TLP  eaglePackage: GP3906-TLP</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  eagleValue: TXB0108  eagleDevice: TXB0108  eaglePackage: UFDFN-20</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun GPS Shield Kit</name>
+		<partID>13199</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/13199]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

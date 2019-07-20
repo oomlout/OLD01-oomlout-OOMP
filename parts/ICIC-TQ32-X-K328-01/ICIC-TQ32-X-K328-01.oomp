@@ -1,4 +1,4 @@
-﻿<xml>
+<xml>
 	<oompPart>
 		<index>4326</index>
 		<oompID>ICIC-TQ32-X-K328-01</oompID>
@@ -40,5 +40,7 @@
 		<oompClass>Surface Mount</oompClass>
 		<oompClassCode>SMDS</oompClassCode>
 		<ooDesignator>U1</ooDesignator>
-	</oompPart>
+		<oompStatCount>21</oompStatCount>
+	<oompStatPercent>0.23</oompStatPercent>
+</oompPart>
 </xml>

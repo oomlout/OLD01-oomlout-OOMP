@@ -1,4 +1,4 @@
-﻿<xml>
+<xml>
 	<oompPart>
 		<index>3975</index>
 		<oompID>LEDS-10-O-FROS-01</oompID>
@@ -37,5 +37,7 @@
 			<drawItem>template;LEDS-10-X-XXXX-01-simp</drawItem>
 		</oompSimp>
 		<ooDesignator>D1</ooDesignator>
-	</oompPart>
+		<oompStatCount>0</oompStatCount>
+	<oompStatPercent>0.00</oompStatPercent>
+</oompPart>
 </xml>

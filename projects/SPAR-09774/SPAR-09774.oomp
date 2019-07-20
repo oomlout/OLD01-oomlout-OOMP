@@ -1,0 +1,154 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-09774</oompID>
+	<name>SparkFun Benchtop Power Board Kit</name>
+	<hexID>SPAR09774</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                You don’t have the power? Well, there’s no need to ask Scotty – the SparkFun Benchtop Power Board Kit has your back. This board will let you take advantage of your power supply to create a benchtop power supply with enough juice to run almost any of your embedded electronics projects.
+The benchtop power board kit was created to provide quick access to the typical voltages needed when developing physical computing projects (embedded systems). After assembling the kit you'll have access to four different voltages (3.3V, 5V, 12V and -12V) each with their own replaceable 5A fuse. Each power rail has a corresponding ground connection; all of the power rails are brought out to a binding post. The benchtop power board should be powered by a standard computer power supply with an ATX connector. With this rev we have finally added a power switch and made each standoff to a more appropriate height to fit the mounting posts.
+This kit is simple to put together and shouldn't take more than 30-45 minutes for a beginner.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/9774</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>16</numComponents>
+	<numOompComponents>1</numOompComponents>
+	<oompCompletion>6</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>F1</compIden>
+		<compID>NOT OOMP  eagleValue: FUSEX20MM  eagleDevice: FUSEX20MM  eaglePackage: FUSE_5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>F2</compIden>
+		<compID>NOT OOMP  eagleValue: FUSEX20MM  eagleDevice: FUSEX20MM  eaglePackage: FUSE_5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>F3</compIden>
+		<compID>NOT OOMP  eagleValue: FUSEX20MM  eagleDevice: FUSEX20MM  eaglePackage: FUSE_5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>F4</compIden>
+		<compID>NOT OOMP  eagleValue: FUSEX20MM  eagleDevice: FUSEX20MM  eaglePackage: FUSE_5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  eagleValue: ATX24RH  eagleDevice: ATX24RH  eaglePackage: ATX24_RIGHT_ANGLE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>LED1</compIden>
+		<compID>NOT OOMP  eagleValue: RED  eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-W04-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  eagleValue: BINDING_POST  eagleDevice: BINDING_POST  eaglePackage: BINDING_POST</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>S2</compIden>
+		<compID>NOT OOMP  eagleValue: BINDING_POST  eagleDevice: BINDING_POST  eaglePackage: BINDING_POST</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>S3</compIden>
+		<compID>NOT OOMP  eagleValue: BINDING_POST  eagleDevice: BINDING_POST  eaglePackage: BINDING_POST</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>S4</compIden>
+		<compID>NOT OOMP  eagleValue: BINDING_POST  eagleDevice: BINDING_POST  eaglePackage: BINDING_POST</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>S5</compIden>
+		<compID>NOT OOMP  eagleValue: BINDING_POST  eagleDevice: BINDING_POST  eaglePackage: BINDING_POST</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>S6</compIden>
+		<compID>NOT OOMP  eagleValue: BINDING_POST  eagleDevice: BINDING_POST  eaglePackage: BINDING_POST</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>S7</compIden>
+		<compID>NOT OOMP  eagleValue: BINDING_POST  eagleDevice: BINDING_POST  eaglePackage: BINDING_POST</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>S8</compIden>
+		<compID>NOT OOMP  eagleValue: BINDING_POST  eagleDevice: BINDING_POST  eaglePackage: BINDING_POST</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>S9</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPDTKIT  eaglePackage: SWITCH-SPDT_KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Benchtop Power Board Kit</name>
+		<partID>9774</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/9774]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

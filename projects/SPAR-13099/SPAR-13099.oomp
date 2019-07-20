@@ -1,0 +1,112 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-13099</oompID>
+	<name>SparkFun Rotary Switch Potentiometer Breakout</name>
+	<hexID>SPAR13099</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun Rotary Switch Potentiometer Breakout is a small board the allows you to add resistors to a 10-position rotary switch, turning it into a potentiometer with 10 discrete steps. Multiple applications require potentiometers that are hard to find due to specific resistance values or custom tapers, the Rotary Switch Potentiometer board allows you to populate your own resistors to help match situations where ordinary parts aren’t available or suitable. Specific resistors can also be used in situations where you want distinct steps or selections, such as being able to consistently select to a value.
+Each Rotary Switch Potentiometer Breakout provides you with nine spots on the board for resistors (positions 1 through 9). These resistors are bent like a hair pin, and soldered in place “standing up.” On the opposite side of the breakout you will find three pins to attach leads or a connector which include, CCW (Counterclockwise end of resistor string), W (Wiper), and CW (Clockwise end of resistor string).
+Note: A 10-position rotary switch is NOT included with this breakout. Check the Recommended Products section below for the correct switch.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/13099</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>10</numComponents>
+	<numOompComponents>0</numOompComponents>
+	<oompCompletion>0</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>R1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: RESISTORPTH-1/4W-VERT-KIT  eaglePackage: AXIAL-0.1EZ</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>R2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: RESISTORPTH-1/4W-VERT-KIT  eaglePackage: AXIAL-0.1EZ</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>R3</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: RESISTORPTH-1/4W-VERT-KIT  eaglePackage: AXIAL-0.1EZ</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>R4</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: RESISTORPTH-1/4W-VERT-KIT  eaglePackage: AXIAL-0.1EZ</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R5</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: RESISTORPTH-1/4W-VERT-KIT  eaglePackage: AXIAL-0.1EZ</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R6</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: RESISTORPTH-1/4W-VERT-KIT  eaglePackage: AXIAL-0.1EZ</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R7</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: RESISTORPTH-1/4W-VERT-KIT  eaglePackage: AXIAL-0.1EZ</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R8</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: RESISTORPTH-1/4W-VERT-KIT  eaglePackage: AXIAL-0.1EZ</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R9</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: RESISTORPTH-1/4W-VERT-KIT  eaglePackage: AXIAL-0.1EZ</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>SW1</compIden>
+		<compID>NOT OOMP  eagleValue: 1x10  eagleDevice: SWITCH_ROTARY_1X10KIT  eaglePackage: ROTARY_SWITCH_1X10_KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Rotary Switch Potentiometer Breakout</name>
+		<partID>13099</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/13099]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

@@ -1,0 +1,254 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14130</oompID>
+	<name>SparkFun Roshamglo Badge Kit</name>
+	<hexID>SPAR14130</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun Roshamglo is the new and fun way to play Rock-Paper-Scissors with your friends! The board uses the ATtiny84, and has an IR LED and receiver to communicate between badges. To play, simply point the USB connector at your opponents Roshamglo up to 5 feet away and press the 5-way switch to the left for rock, up for paper, and right for scissors. The red/green LED will display a solid red for lose, green for win, or alternate red and green for a tie. Your Roshamglo can also be worn with a lanyard clip to provide you easier access when a battle is about to ensue!
+The Roshamglo Badge comes as an easy to assemble kit that only requires you to solder on six battery clips to the underside of the board and insert three AAA sized alkaline batteries. No other soldering or programming is required! Once you install the clips and batteries you can start playing Rock Paper Scissors with a friend or start hacking your Roshamglo.
+The Roshamglo uses the Micronucleaus bootloader, which allows for programming from the Arduino IDE via the USB connector at the front of the board. We have included two tutorials below to help teach you how to hack your new Roshamglo as well as turn it into a remote to control to turn on and off most styles of televisions!
+Note: If you don't have a scoreboard available to reset the play counter, you can download the firmware here. Commenting out gameResult = 3; on line 279 will remove the play count limitation written in the stock code.
+ Get Started with the SparkFun Roshamglo Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14130</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>30</numComponents>
+	<numOompComponents>14</numOompComponents>
+	<oompCompletion>47</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>BT1</compIden>
+		<compID>NOT OOMP  eagleValue: 1.2V  eagleDevice: BATTERY-AAA_KIT  eaglePackage: BATTERY-AAA-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>BT2</compIden>
+		<compID>NOT OOMP  eagleValue: 1.2V  eagleDevice: BATTERY-AAA_KIT  eaglePackage: BATTERY-AAA-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>BT3</compIden>
+		<compID>NOT OOMP  eagleValue: 1.2V  eagleDevice: BATTERY-AAA_KIT  eaglePackage: BATTERY-AAA-KIT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0805-X-UF1-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-0603-X-UF22D-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>D3</compIden>
+		<compID>NOT OOMP  eagleValue: RG LED  eagleDevice: LED-RGLTST-C195KGJRKT  eaglePackage: LTST-C195KGJRKT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>D4</compIden>
+		<compID>NOT OOMP  eagleValue: 800mA/220mV  eagleDevice: CUS08F30SOD-323  eaglePackage: SOD-323</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>D5</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>D6</compIden>
+		<compID>NOT OOMP  eagleValue: LED-IR  eagleDevice: LED-IR-SMDSFH4045N  eaglePackage: SFH4045N</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>IC1</compIden>
+		<compID>NOT OOMP  eagleValue: ATTINY84A  eagleDevice: ATTINY84ATTINY84-20MU  eaglePackage: QFN20</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  eagleValue: R_Ext  eagleDevice: CONN_021X02_NO_SILK  eaglePackage: 1X02_NO_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>J2</compIden>
+		<compID>NOT OOMP  eagleValue: USBPCB  eagleDevice: USBPCB_NOPASTE  eaglePackage: USB-A-PCB-NOPASTE</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>J3</compIden>
+		<compID>HEAD-I01-X-PI06-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>J5</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_07NO_SILK  eaglePackage: 1X07_NO_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  eagleValue: 600mA/40V  eagleDevice: TRANS_NPN-MMBT2222AL  eaglePackage: SOT23-3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O680-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O680-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O152-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O101-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O101-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O152-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>R8</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>R9</compIden>
+		<compID>RESE-0603-X-O102-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: JOYSTICK_MINI  eaglePackage: JOYSTICK_MINI</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>S2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPDT-SMD-RIGHT-ANGLE  eaglePackage: SWITCH_SPST_SMD_A</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>S3</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: MOMENTARY-SWITCH-SPST-SMD-4.6X2.8MM  eaglePackage: TACTILE_SWITCH_SMD_4.6X2.8MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>29</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: IR-Receiver  eagleDevice: TSOP75XXXWSIDE_VIEW  eaglePackage: TSOP75XXXWTR</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>30</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  eagleValue: AP2112K-3.3V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Roshamglo Badge Kit</name>
+		<partID>14130</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14130]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

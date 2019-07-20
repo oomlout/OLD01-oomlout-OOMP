@@ -1,10 +1,12 @@
 <xml>
 <oompPart>
 	<oompID>CAPC-0402-X-PF100-V50</oompID>
-	<name>SMD (0402) 110 pF Capacitor (Ceramic) 50v</name>
+	<name>SMD (0402) 100 pF Capacitor (Ceramic) 50v</name>
+	<hexID>C42P100</hexID>
 	<oompType>CAPC</oompType>
 	<oompSize>0402</oompSize>
 	<oompColor>X</oompColor>
+	<oompDesc>PF100</oompDesc>
 	<oompIndex>V50</oompIndex>
 	<oompVersion>999</oompVersion>
 	<ooWidth>0.5mm</ooWidth>
@@ -88,5 +90,7 @@
 			<drawItem>template;XXXX-0402-X-XXXX-XX-simp</drawItem>
 		</oompSimp>
 		<ooDesignator>C1</ooDesignator>
+	<oompStatCount>7</oompStatCount>
+	<oompStatPercent>0.08</oompStatPercent>
 </oompPart>
 </xml>

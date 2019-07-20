@@ -1,0 +1,83 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-12918</oompID>
+	<name>SparkFun I2C DAC Breakout - MCP4725</name>
+	<hexID>SPAR12918</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                You've always wanted to output analog voltages from a microcontroller, the MCP4725 is the DAC that will let you do it! The MCP4725 is an I2C controlled Digital-to-Analog converter (DAC). A DAC allows you to send analog signal, such as a sine wave, from a digital source, such as the I2C interface on the Arduino microcontroller. Digital to analog converters are great for sound generation, musical instruments, and many other creative projects!
+This version of the MCP4725 Breakout fixes a few issues with the board including the IC footprint, the I2C pinout, changes the overall board dimensions to better fit your projects, and a few more minor tweaks. This board breaks out each pin you will need to access and use the MCP4725 including GND and Signal OUT pins for connecting to an oscilloscope or any other device you need to hook up to the board. Also on board are SCL, SDA, VCC, and another GND for your basic I2C pinout. Additionally, if you are looking to have more than one MCP4725 on a bus, the pull-up resistors on this board can be disabled just check the Hookup Guide in the Documents section below for instructions and tips on doing this.              
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/12918</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>6</numComponents>
+	<numOompComponents>4</numOompComponents>
+	<oompCompletion>67</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>GND</compIden>
+		<compID>NOT OOMP  eagleValue: LOGO-SFESK  eagleDevice: LOGO-SFESK  eaglePackage: SFE-LOGO-FLAME</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O472-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O472-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: MCP4725  eagleDevice: MCP4725SOT-23  eaglePackage: SOT23-6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun I2C DAC Breakout - MCP4725</name>
+		<partID>12918</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/12918]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

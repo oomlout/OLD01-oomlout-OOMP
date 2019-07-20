@@ -1,0 +1,134 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14030</oompID>
+	<name>SparkFun Mini GPS Shield</name>
+	<hexID>SPAR14030</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun Mini GPS Shield equips your Arduino Mini with access to a GPS module, µSD memory card socket and all of the other peripherals you'll need to turn your Arduino into a position-tracking, speed-monitoring, altitude-observing wonder logger. The shield is based around the GP-735 GPS module, a 56-channel GPS receiver featuring a uBlox 7th generation chip set and an up to 10Hz update rate. The board also uses a level shifter, so there’s no need to worry about the logic voltage of your Arduino Mini.
+The Mini GPS Shield is a mini version of our GPS Logger Shield. While the GPS Logger Shield was designed to work with the Arduino RedBoard, the Mini GPS Shield was designed to work with the Arduino Mini/Micro boards.
+The shield comes with a 6-pin JST connector to connect the GP-735 module. If you already have a GPS module, the JST pins are broken out and labeled to allow you to use just about any GPS module that works down to 3.3V. The Mini GPS Shield will work with any of our Arduino Mini boards. The board uses 3.3V logic; however, the logic level converter on the shield allows you to use 5V boards just as easily. The mini boards have symmetrical pins, which means it’s very easy to plug the shield in the wrong way. Plugging the shield in backward won’t damage either board, but it is something that could be easy to overlook. Make sure to check out the Hookup Guide below for proper installation instructions.
+ Get Started with the Mini GPS Shield Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14030</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>13</numComponents>
+	<numOompComponents>5</numOompComponents>
+	<oompCompletion>38</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0805-X-UF1-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-0603-X-UF22D-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>D1</compIden>
+		<compID>LEDS-0603-L-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  eagleValue: MICROSD_TINY  eagleDevice: MICROSD_TINY  eaglePackage: MICROSD_TINY</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>J2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: M12NO_SILK  eaglePackage: 1X12_NO_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>J3</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: M12NO_SILK  eaglePackage: 1X12_NO_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>J4</compIden>
+		<compID>HEAD-I01-X-PI06-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>J5</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: M021X02_NO_SILK  eaglePackage: 1X02_NO_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O471-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  eagleValue: DPDT  eagleDevice: SWITCH-DPDTAYZ0202  eaglePackage: AYZ0202</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: GP735  eagleDevice: GP735  eaglePackage: GP735</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: TXB0108  eagleDevice: TXB0108  eaglePackage: UFDFN-20</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  eagleValue: AP2112K-3.3V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Mini GPS Shield</name>
+		<partID>14030</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14030]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

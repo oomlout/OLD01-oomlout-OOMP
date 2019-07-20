@@ -1,12 +1,13 @@
 
+![CAPC-0402-X-PF33-V50](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/CAPC-0402-X-PF33-V50/CAPC-0402-X-PF33-V50_420.jpg)   
 Summary
 =================
   
-Name: __SMD (0402) 34 pF Capacitor (Ceramic) 50v__    
+Name: __SMD (0402) 33 pF Capacitor (Ceramic) 50v__    
 ID: __CAPC-0402-X-PF33-V50__   
-Hex ID: ____   
+Hex ID: __C42P033__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0402-X-PF33-V50__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/C42P033__   
 
 Full Details
 ==========================

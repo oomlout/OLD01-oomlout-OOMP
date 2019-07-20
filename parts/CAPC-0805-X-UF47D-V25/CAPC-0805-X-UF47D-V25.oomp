@@ -1,10 +1,12 @@
 <xml>
 <oompPart>
 	<oompID>CAPC-0805-X-UF47D-V25</oompID>
-	<name>SMD (0805) 5 uF Capacitor (Ceramic) 25v</name>
+	<name>SMD (0805) 4.7 uF Capacitor (Ceramic) 25v</name>
+	<hexID>C85U004</hexID>
 	<oompType>CAPC</oompType>
 	<oompSize>0805</oompSize>
 	<oompColor>X</oompColor>
+	<oompDesc>UF47D</oompDesc>
 	<oompIndex>V25</oompIndex>
 	<oompVersion>999</oompVersion>
 	<ooWidth>1.2mm</ooWidth>
@@ -72,5 +74,7 @@
 			<drawItem>template;XXXX-0805-X-XXXX-XX-simp</drawItem>
 		</oompSimp>
 		<ooDesignator>C1</ooDesignator>
+	<oompStatCount>12</oompStatCount>
+	<oompStatPercent>0.13</oompStatPercent>
 </oompPart>
 </xml>

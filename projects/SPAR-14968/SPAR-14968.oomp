@@ -1,0 +1,71 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14968</oompID>
+	<name>SparkFun gator:control ProtoSnap</name>
+	<hexID>SPAR14968</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun gator:control ProtoSnap is one of a series of gator-clippable accessories called gator:boards that have been created to directly interface with the micro:bit or to other micro controllers! The gator:control ProtoSnap offers a handful of ways to interact with projects you create using only gator-clip cables. Each little board on this ProtoSnap can be kept as a whole while on the board or broken apart for individual use!
+The gator:control ProtoSnap contains four boards in the main assembly including two buttons, an on/off slide switch and a reed switch, which is activated by a magnet. A button or switch is something that can act as both an open and closed circuit, and either one makes a great addition to your project if you want to add some form of control to your project. You can use buttons or switches as part of a circuit you’re building, or as a digital input for your micro:bit.
+The pads on either side of the button or switch will be connected while attached to the ProtoSnap. Snapping the board apart can be easily done by twisting each of the control boards side to side until it pops out. This will need to be done if you want to use any of the boards on their own. Keep in mind that the buttons will only close the circuit while it is pressed down; releasing the button opens the circuit.
+ Get Started with the SparkFun gator:control ProtoSnap Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14968</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>4</numComponents>
+	<numOompComponents>0</numOompComponents>
+	<oompCompletion>0</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  eagleValue: MOMENTARY-SWITCH-SPST-SMD-12MM  eagleDevice: MOMENTARY-SWITCH-SPST-SMD-12MM  eaglePackage: TACTILE_SWITCH_SMD_12MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>S2</compIden>
+		<compID>NOT OOMP  eagleValue: REED_SWITCH-PTH-INSULATED  eagleDevice: REED_SWITCH-PTH-INSULATED  eaglePackage: REED_SWITCH_PLASTIC</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>S3</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPDT-SMD-AYZ0202  eaglePackage: SWITCH_DPDT_SMD_AYZ0202</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>S4</compIden>
+		<compID>NOT OOMP  eagleValue: MOMENTARY-SWITCH-SPST-SMD-12MM  eagleDevice: MOMENTARY-SWITCH-SPST-SMD-12MM  eaglePackage: TACTILE_SWITCH_SMD_12MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun gator:control ProtoSnap</name>
+		<partID>14968</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14968]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

@@ -1,0 +1,127 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14890</oompID>
+	<name>SparkFun gator:color ProtoSnap</name>
+	<hexID>SPAR14890</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The SparkFun gator:color ProtoSnap is one of a series of gator-clippable accessories called gator:boards created to directly interface with the micro:bit or to other micro controllers! The gator:color ProtoSnap is perfect if you want to add a low-profile, glowing component to your project. It is equipped with six LED boards that can be kept as a whole or broken apart for individual use!
+Included on each board are two white LED boards; a single red board, green board, blue board and yellow board; and a power rail. Since this is a ProtoSnap, the board has power tabs broken out on the edges so it doesn’t have to be broken apart to light up the individual LEDs. Snapping the board apart can be easily done by twisting each of the LED boards side to side until it pops out and will need to be done if you want to light any of the LEDs on their own.
+The LEDs can be powered one of two ways. The first simply turns the LED on, and is done by clipping the - side of the LED to ground on the micro:bit, and connecting the + to 3V on the micro:bit. The other way to control these LEDs is to connect to pins 0, 1 and 2. Doing this will allow you to turn the LEDs on and off with the micro:bit, as well as change the brightness level!
+ Get Started with the SparkFun gator:color ProtoSnap Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14890</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>12</numComponents>
+	<numOompComponents>12</numOompComponents>
+	<oompCompletion>100</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>D2</compIden>
+		<compID>LEDS-1206-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>D3</compIden>
+		<compID>LEDS-1206-W-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>D4</compIden>
+		<compID>LEDS-1206-L-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>D5</compIden>
+		<compID>LEDS-1206-Y-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>D6</compIden>
+		<compID>LEDS-1206-G-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>D9</compIden>
+		<compID>LEDS-1206-W-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O331-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O331-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O151-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O331-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O151-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0603-X-O331-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun gator:color ProtoSnap</name>
+		<partID>14890</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14890]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

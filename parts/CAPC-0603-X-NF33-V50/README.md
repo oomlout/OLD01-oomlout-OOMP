@@ -1,12 +1,13 @@
 
+![CAPC-0603-X-NF33-V50](https://github.com/oomlout/oomlout-OOMP/blob/master/parts/CAPC-0603-X-NF33-V50/CAPC-0603-X-NF33-V50_420.jpg)   
 Summary
 =================
   
-Name: __SMD (0603) 34 nF Capacitor (Ceramic) 50v__    
+Name: __SMD (0603) 33 nF Capacitor (Ceramic) 50v__    
 ID: __CAPC-0603-X-NF33-V50__   
-Hex ID: ____   
+Hex ID: __C6N033__   
 WebPage: __https://github.com/oomlout/oomlout-OOMP/wiki/CAPC-0603-X-NF33-V50__   
-Short URL: __http://oom.lt/__   
+Short URL: __http://oom.lt/C6N033__   
 
 Full Details
 ==========================

@@ -1,0 +1,113 @@
+<xml>
+<oompProject>
+	<oompID>SPAR-14181</oompID>
+	<name>SparkFun Air Quality Breakout - CCS811</name>
+	<hexID>SPAR14181</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout>
+                The CCS811 Air Quality Breakout is a digital gas sensor solution that senses a wide range of Total Volatile Organic Compounds (TVOCs), including equivalent carbon dioxide (eCO2) and metal oxide (MOX) levels. VOCs are often categorized as pollutants and/or sensory irritants and can come from a variety of sources like construction materials (paint, carpet, etc.), machines (copiers, processors, etc.) and even people (breathing, smoking, etc.). This breakout is intended for indoor air quality monitoring in personal devices such as watches and phones, but we’ve put it on a breakout board so you can use it as a regular I2C device.
+The onboard CCS811 supports multiple measurement modes that have been optimized for low-power consumption during an active sensor measurement and idle mode extending battery life in portable applications. We have broken out each necessary pin on the CCS811 as well as additional pins to add your own NTC Thermistor to determine the temperature of the CCS811’s surroundings, which can be used to help compensate the readings.
+Note: Please be aware that the CCS811 datasheet recommends a burn-in of 48 hours and a run-in of 20 minutes (you must allow 20 minutes for the sensor to warm up and output valid data).
+ Get Started with the CCS811 Breakout Guide               
+            
+                      
+              
+</oompAbout>
+	<oompOfficialLink>https://www.sparkfun.com/products/14181</oompOfficialLink>
+	<company>Sparkfun</company>
+	<companyCode>C-SPAR</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>10</numComponents>
+	<numOompComponents>8</numOompComponents>
+	<oompCompletion>80</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-UF1-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>J2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_031X03_NO_SILK  eaglePackage: 1X03_NO_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>J8</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: I2C_STANDARD_NO_SILK  eaglePackage: 1X04_NO_SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O104-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O472-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O104-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R10</compIden>
+		<compID>RESE-0603-X-O103-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R12</compIden>
+		<compID>RESE-W04-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R13</compIden>
+		<compID>RESE-0603-X-O472-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>R14</compIden>
+		<compID>RESE-0603-X-O472-67</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>Sparkfun</company>
+		<companyCode>C-SPAR</companyCode>
+		<name>SparkFun Air Quality Breakout - CCS811</name>
+		<partID>14181</partID>
+		<link><![CDATA[https://www.sparkfun.com/products/14181]]></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

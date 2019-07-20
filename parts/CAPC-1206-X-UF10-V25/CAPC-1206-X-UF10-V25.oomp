@@ -1,11 +1,14 @@
 <xml>
 <oompPart>
 	<oompID>CAPC-1206-X-UF10-V25</oompID>
-	<name>SMD (1206) 11 uF Capacitor (Ceramic) 25v</name>
+	<name>SMD (1206) 10 uF Capacitor (Ceramic) 25v</name>
+	<hexID>C1U10</hexID>
 	<oompType>CAPC</oompType>
 	<oompSize>1206</oompSize>
 	<oompColor>X</oompColor>
+	<oompDesc>UF10</oompDesc>
 	<oompIndex>V25</oompIndex>
+	
 	<oompVersion>999</oompVersion>
 	<ooWidth>1.6mm</ooWidth>
 	<ooHeight>1.6mm</ooHeight>
@@ -72,5 +75,7 @@
 			<drawItem>template;XXXX-1206-X-XXXX-XX-simp</drawItem>
 		</oompSimp>
 		<ooDesignator>C1</ooDesignator>
+	<oompStatCount>6</oompStatCount>
+	<oompStatPercent>0.07</oompStatPercent>
 </oompPart>
 </xml>
