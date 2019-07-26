@@ -31,6 +31,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-08314</owner>
+		<oompID>CERE-1263-X-MZ16-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-08314</owner>
 		<oompID>RESE-0603-X-O102-67</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -48,6 +53,11 @@
 		<owner>C-SPAR-08314</owner>
 		<oompID>ICIC-TQ32-X-K328-01</oompID>
 		<partID>U1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-08314</owner>
+		<oompID>VREG-SO235-X-V33D-A015D</oompID>
+		<partID>U2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-08320</owner>
@@ -81,6 +91,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-08320</owner>
+		<oompID>CERE-1263-X-MZ16-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-08320</owner>
 		<oompID>RESE-0603-X-O102-67</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -98,6 +113,11 @@
 		<owner>C-SPAR-08320</owner>
 		<oompID>ICIC-TQ32-X-K328-01</oompID>
 		<partID>U1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-08320</owner>
+		<oompID>VREG-SO235-X-V33D-A015D</oompID>
+		<partID>U2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-08567</owner>
@@ -131,6 +151,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-08567</owner>
+		<oompID>CERE-1263-X-MZ16-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-08567</owner>
 		<oompID>RESE-0603-X-O102-67</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -148,6 +173,11 @@
 		<owner>C-SPAR-08567</owner>
 		<oompID>ICIC-TQ32-X-K328-01</oompID>
 		<partID>U1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-08567</owner>
+		<oompID>VREG-SO235-X-V33D-A015D</oompID>
+		<partID>U2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-08656</owner>
@@ -221,6 +251,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-08957</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-08957</owner>
 		<oompID>RESE-0402-X-O102-01</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -253,6 +288,11 @@
 		<owner>C-SPAR-08957</owner>
 		<oompID>RESE-0402-X-O471-01</oompID>
 		<partID>R9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-08957</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09004</owner>
@@ -323,6 +363,16 @@
 		<owner>C-SPAR-09063</owner>
 		<oompID>LEDS-0603-G-STAN-01</oompID>
 		<partID>LED5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09063</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09063</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09063</owner>
@@ -411,6 +461,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09111</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09111</owner>
 		<oompID>LEDS-1206-Y-STAN-01</oompID>
 		<partID>D2</partID>
 	</oompPartStat>
@@ -428,6 +483,16 @@
 		<owner>C-SPAR-09111</owner>
 		<oompID>LEDS-1206-R-STAN-01</oompID>
 		<partID>D5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09111</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09111</owner>
+		<oompID>TRNN-SO23-X-A06D-V30</oompID>
+		<partID>Q1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09111</owner>
@@ -471,8 +536,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09111</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09111</owner>
 		<oompID>BUTA-52D-X-SMDS-01</oompID>
 		<partID>S3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09111</owner>
+		<oompID>VREG-SO223-X-V33D-A08D</oompID>
+		<partID>U3</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09115</owner>
@@ -548,6 +623,16 @@
 		<owner>C-SPAR-09132</owner>
 		<oompID>LEDS-0603-G-STAN-01</oompID>
 		<partID>LED4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09132</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09132</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09132</owner>
@@ -1096,6 +1181,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09319</owner>
+		<oompID>DCJP-21D-X-SMDS-01</oompID>
+		<partID>J1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09319</owner>
 		<oompID>RESE-0603-X-O241-01</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -1288,6 +1378,16 @@
 		<owner>C-SPAR-09356</owner>
 		<oompID>CAPC-0603-X-UF10-V63D</oompID>
 		<partID>C16</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09356</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09356</owner>
+		<oompID>DCJP-21D-X-SMDS-01</oompID>
+		<partID>J1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09356</owner>
@@ -1485,6 +1585,26 @@
 		<partID>R38</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-09356</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09356</owner>
+		<oompID>VREG-SO223-X-V33D-A08D</oompID>
+		<partID>U4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09356</owner>
+		<oompID>HEAD-I01-X-PI18-01</oompID>
+		<partID>U9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09356</owner>
+		<oompID>HEAD-I01-X-PI18-01</oompID>
+		<partID>U10</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-09358</owner>
 		<oompID>CAPT-3216-X-UF10-01</oompID>
 		<partID>C1</partID>
@@ -1508,6 +1628,16 @@
 		<owner>C-SPAR-09358</owner>
 		<oompID>LEDS-0603-G-STAN-01</oompID>
 		<partID>D2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09358</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09358</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09358</owner>
@@ -1605,6 +1735,11 @@
 		<partID>C14</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-09365</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U2</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-09370</owner>
 		<oompID>CAPE-S05-X-UF47-V25</oompID>
 		<partID>C2</partID>
@@ -1613,6 +1748,21 @@
 		<owner>C-SPAR-09370</owner>
 		<oompID>CAPC-0603-X-NF100-V50</oompID>
 		<partID>C3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09370</owner>
+		<oompID>HEAD-I01-X-PI05-01</oompID>
+		<partID>IN</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09370</owner>
+		<oompID>HEAD-I01-X-PI03-01</oompID>
+		<partID>OUT</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09370</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09370</owner>
@@ -1855,6 +2005,16 @@
 		<partID>S1</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-09487</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09487</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U1</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-09489</owner>
 		<oompID>CAPC-0402-X-NF100-V16</oompID>
 		<partID>C1</partID>
@@ -1873,6 +2033,11 @@
 		<owner>C-SPAR-09489</owner>
 		<oompID>CAPT-3216-X-UF10-01</oompID>
 		<partID>C5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09489</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09489</owner>
@@ -1946,6 +2111,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09520</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>J1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09520</owner>
 		<oompID>LEDS-0603-R-STAN-01</oompID>
 		<partID>LED1</partID>
 	</oompPartStat>
@@ -1958,6 +2128,11 @@
 		<owner>C-SPAR-09565</owner>
 		<oompID>RESE-W04-X-O103-01</oompID>
 		<partID>R1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09565</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>U4</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09571</owner>
@@ -2066,6 +2241,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09595</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09595</owner>
 		<oompID>LEDS-0603-R-STAN-01</oompID>
 		<partID>LED1</partID>
 	</oompPartStat>
@@ -2108,6 +2288,11 @@
 		<owner>C-SPAR-09595</owner>
 		<oompID>BUTA-52D-X-SMDS-01</oompID>
 		<partID>S1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09595</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09598</owner>
@@ -2296,6 +2481,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09628</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09628</owner>
 		<oompID>LEDS-0603-R-STAN-01</oompID>
 		<partID>LED1</partID>
 	</oompPartStat>
@@ -2323,6 +2513,11 @@
 		<owner>C-SPAR-09628</owner>
 		<oompID>RESE-0402-X-O331-01</oompID>
 		<partID>R14</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09628</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U3</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09695</owner>
@@ -2406,6 +2601,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09712</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09712</owner>
 		<oompID>RESE-0402-X-O102-01</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -2438,6 +2638,11 @@
 		<owner>C-SPAR-09712</owner>
 		<oompID>RESE-0402-X-O471-01</oompID>
 		<partID>R9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09712</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09715</owner>
@@ -2518,6 +2723,16 @@
 		<owner>C-SPAR-09715</owner>
 		<oompID>CAPC-0603-X-UF10-V63D</oompID>
 		<partID>C16</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09715</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09715</owner>
+		<oompID>DCJP-21D-X-SMDS-01</oompID>
+		<partID>J1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09715</owner>
@@ -2715,6 +2930,26 @@
 		<partID>R38</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-09715</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09715</owner>
+		<oompID>VREG-SO223-X-V33D-A08D</oompID>
+		<partID>U4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09715</owner>
+		<oompID>HEAD-I01-X-PI18-01</oompID>
+		<partID>U9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09715</owner>
+		<oompID>HEAD-I01-X-PI18-01</oompID>
+		<partID>U10</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-09716</owner>
 		<oompID>CAPC-0603-X-NF100-V50</oompID>
 		<partID>C1</partID>
@@ -2821,6 +3056,46 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09800</owner>
+		<oompID>DIOD-S323-X-A015D-V75</oompID>
+		<partID>D5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09800</owner>
+		<oompID>DIOD-S323-X-A015D-V75</oompID>
+		<partID>D6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09800</owner>
+		<oompID>DIOD-S323-X-A015D-V75</oompID>
+		<partID>D7</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09800</owner>
+		<oompID>DIOD-S323-X-A015D-V75</oompID>
+		<partID>D8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09800</owner>
+		<oompID>DIOD-S323-X-A015D-V75</oompID>
+		<partID>D9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09800</owner>
+		<oompID>DIOD-S323-X-A015D-V75</oompID>
+		<partID>D10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09800</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09800</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09800</owner>
 		<oompID>RESE-0603-X-O102-67</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -2905,6 +3180,16 @@
 		<partID>R17</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-09800</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09800</owner>
+		<oompID>VREG-SO235-X-V33D-A015D</oompID>
+		<partID>U6</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-09802</owner>
 		<oompID>CAPC-0603-X-NF100-V25</oompID>
 		<partID>C1</partID>
@@ -2918,6 +3203,11 @@
 		<owner>C-SPAR-09802</owner>
 		<oompID>CAPC-0603-X-UF10-V63D</oompID>
 		<partID>C3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09802</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>J1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09802</owner>
@@ -2956,6 +3246,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09813</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>J1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09813</owner>
 		<oompID>LEDS-0603-R-STAN-01</oompID>
 		<partID>LED1</partID>
 	</oompPartStat>
@@ -2990,6 +3285,11 @@
 		<partID>R5</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-09813</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U3</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-09815</owner>
 		<oompID>CAPC-0603-X-NF100-V25</oompID>
 		<partID>C1</partID>
@@ -3003,6 +3303,46 @@
 		<owner>C-SPAR-09815</owner>
 		<oompID>CAPC-0603-X-NF100-V25</oompID>
 		<partID>C8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09815</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09815</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09815</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09815</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09815</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09815</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09815</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D7</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09815</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D8</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09815</owner>
@@ -3036,6 +3376,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09815</owner>
+		<oompID>HEAD-I01-X-PI07-01</oompID>
+		<partID>J4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09815</owner>
 		<oompID>HEAD-I01-X-PI06-01</oompID>
 		<partID>J5</partID>
 	</oompPartStat>
@@ -3051,8 +3396,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09815</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09815</owner>
 		<oompID>TERS-35D-X-PI02-01</oompID>
 		<partID>J10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09815</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J15</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09815</owner>
@@ -3235,6 +3590,16 @@
 		<partID>S1</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-09817</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09817</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U1</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-09819</owner>
 		<oompID>CAPT-3216-X-UF10-V16</oompID>
 		<partID>C1</partID>
@@ -3320,6 +3685,11 @@
 		<partID>S2</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-09819</owner>
+		<oompID>VREG-SO235-X-V33D-A05D</oompID>
+		<partID>U3</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-09822</owner>
 		<oompID>CAPC-0402-X-NF100-V16</oompID>
 		<partID>C1</partID>
@@ -3338,6 +3708,11 @@
 		<owner>C-SPAR-09822</owner>
 		<oompID>CAPT-3216-X-UF10-01</oompID>
 		<partID>C5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09822</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09822</owner>
@@ -3551,6 +3926,16 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09841</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09841</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09841</owner>
 		<oompID>RESE-0603-X-O102-67</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -3701,6 +4086,46 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09896</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09896</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09896</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09896</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09896</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09896</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09896</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D7</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09896</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09896</owner>
 		<oompID>LEDS-0603-R-STAN-01</oompID>
 		<partID>D9</partID>
 	</oompPartStat>
@@ -3731,6 +4156,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09896</owner>
+		<oompID>HEAD-I01-X-PI07-01</oompID>
+		<partID>J4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09896</owner>
 		<oompID>HEAD-I01-X-PI06-01</oompID>
 		<partID>J5</partID>
 	</oompPartStat>
@@ -3746,8 +4176,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09896</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09896</owner>
 		<oompID>TERS-35D-X-PI02-01</oompID>
 		<partID>J10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09896</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J15</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09896</owner>
@@ -3823,6 +4263,11 @@
 		<owner>C-SPAR-09899</owner>
 		<oompID>CAPC-0603-X-UF10-V63D</oompID>
 		<partID>C3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09899</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>J1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09899</owner>
@@ -3906,6 +4351,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09947</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09947</owner>
 		<oompID>LEDS-0603-R-STAN-01</oompID>
 		<partID>LED1</partID>
 	</oompPartStat>
@@ -3933,6 +4383,11 @@
 		<owner>C-SPAR-09947</owner>
 		<oompID>RESE-0402-X-O331-01</oompID>
 		<partID>R14</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09947</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U3</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09954</owner>
@@ -4023,6 +4478,11 @@
 		<owner>C-SPAR-09954</owner>
 		<oompID>RESE-0402-X-O102-01</oompID>
 		<partID>R10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09954</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U4</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09963</owner>
@@ -4151,6 +4611,16 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-09976</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09976</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09976</owner>
 		<oompID>RESE-0603-X-O102-67</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -4228,6 +4698,11 @@
 		<owner>C-SPAR-09981</owner>
 		<oompID>RESE-0402-X-O102-01</oompID>
 		<partID>R3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-09981</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10013</owner>
@@ -4348,6 +4823,26 @@
 		<owner>C-SPAR-10025</owner>
 		<oompID>CAPC-0603-X-NF100-V50</oompID>
 		<partID>C21</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10025</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10025</owner>
+		<oompID>HEAD-I01-X-PI12-01</oompID>
+		<partID>J4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10025</owner>
+		<oompID>HEAD-I01-X-PI12-01</oompID>
+		<partID>J5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10025</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>J8</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10025</owner>
@@ -4521,6 +5016,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10039</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10039</owner>
 		<oompID>LEDS-0603-G-STAN-01</oompID>
 		<partID>D2</partID>
 	</oompPartStat>
@@ -4533,6 +5033,11 @@
 		<owner>C-SPAR-10039</owner>
 		<oompID>LEDS-0603-R-STAN-01</oompID>
 		<partID>D4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10039</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10039</owner>
@@ -4771,6 +5276,16 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10050</owner>
+		<oompID>HEAD-I01-X-PI17-01</oompID>
+		<partID>J1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10050</owner>
+		<oompID>HEAD-I01-X-PI17-01</oompID>
+		<partID>J2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10050</owner>
 		<oompID>LEDS-0603-G-STAN-01</oompID>
 		<partID>LED1</partID>
 	</oompPartStat>
@@ -4865,6 +5380,11 @@
 		<partID>R4</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-10085</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S1</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-10101</owner>
 		<oompID>CAPC-0603-X-NF100-V50</oompID>
 		<partID>C1</partID>
@@ -4955,6 +5475,16 @@
 		<partID>S1</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-10102</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10102</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U1</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-10116</owner>
 		<oompID>CAPT-3216-X-UF10-01</oompID>
 		<partID>C1</partID>
@@ -5006,6 +5536,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10116</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10116</owner>
 		<oompID>RESE-0402-X-O102-01</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -5038,6 +5573,11 @@
 		<owner>C-SPAR-10116</owner>
 		<oompID>RESE-0402-X-O471-01</oompID>
 		<partID>R9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10116</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10121</owner>
@@ -5113,6 +5653,21 @@
 		<owner>C-SPAR-10161</owner>
 		<oompID>CAPC-0603-X-UF47D-V63D</oompID>
 		<partID>C2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10161</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10161</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10161</owner>
+		<oompID>DCJP-21D-X-SMDS-01</oompID>
+		<partID>J1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10161</owner>
@@ -5460,6 +6015,11 @@
 		<partID>R2</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-10252</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U3</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-10256</owner>
 		<oompID>RESE-W04-X-O103-01</oompID>
 		<partID>R1</partID>
@@ -5606,6 +6166,16 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10268</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10268</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10268</owner>
 		<oompID>RESE-0603-X-O331-01</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -5648,6 +6218,11 @@
 		<owner>C-SPAR-10268</owner>
 		<oompID>RESE-0603-X-O103-01</oompID>
 		<partID>R9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10268</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U3</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10274</owner>
@@ -5748,6 +6323,11 @@
 		<owner>C-SPAR-10305</owner>
 		<oompID>RESE-W04-X-O102-01</oompID>
 		<partID>R8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10306</owner>
+		<oompID>HEAD-I01-X-PI03-01</oompID>
+		<partID>AUDIO_IN</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10306</owner>
@@ -6006,6 +6586,16 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10393</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10393</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10393</owner>
 		<oompID>RESE-0603-X-O331-01</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -6170,6 +6760,11 @@
 		<partID>R9</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-10495</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-10504</owner>
 		<oompID>CAPC-0603-X-NF100-V25</oompID>
 		<partID>C1</partID>
@@ -6213,6 +6808,11 @@
 		<owner>C-SPAR-10506</owner>
 		<oompID>CAPC-0603-X-UF47D-V63D</oompID>
 		<partID>C8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10506</owner>
+		<oompID>DIOS-D214-X-A3-V30</oompID>
+		<partID>D1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10506</owner>
@@ -6436,8 +7036,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10506</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10506</owner>
 		<oompID>BUTA-52D-X-SMDS-01</oompID>
 		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10506</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S3</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10506</owner>
@@ -6446,8 +7056,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10506</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10506</owner>
 		<oompID>ICIC-QFP44-X-K32U4-01</oompID>
 		<partID>U5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10506</owner>
+		<oompID>CERE-1263-X-MZ8-01</oompID>
+		<partID>Y1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10507</owner>
@@ -6593,6 +7213,11 @@
 		<owner>C-SPAR-10507</owner>
 		<oompID>CAPC-0402-X-NF100-V16</oompID>
 		<partID>C29</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10507</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10507</owner>
@@ -6950,6 +7575,11 @@
 		<partID>R14</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-10529</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U1</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-10530</owner>
 		<oompID>CAPC-0402-X-NF100-V16</oompID>
 		<partID>C1</partID>
@@ -7106,6 +7736,46 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10586</owner>
+		<oompID>DIOD-S323-X-A015D-V75</oompID>
+		<partID>D5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10586</owner>
+		<oompID>DIOD-S323-X-A015D-V75</oompID>
+		<partID>D6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10586</owner>
+		<oompID>DIOD-S323-X-A015D-V75</oompID>
+		<partID>D7</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10586</owner>
+		<oompID>DIOD-S323-X-A015D-V75</oompID>
+		<partID>D8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10586</owner>
+		<oompID>DIOD-S323-X-A015D-V75</oompID>
+		<partID>D9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10586</owner>
+		<oompID>DIOD-S323-X-A015D-V75</oompID>
+		<partID>D10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10586</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10586</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10586</owner>
 		<oompID>RESE-0603-X-O102-67</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -7188,6 +7858,16 @@
 		<owner>C-SPAR-10586</owner>
 		<oompID>RESE-0603-X-O472-67</oompID>
 		<partID>R17</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10586</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10586</owner>
+		<oompID>VREG-SO235-X-V33D-A015D</oompID>
+		<partID>U6</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10587</owner>
@@ -7338,6 +8018,11 @@
 		<owner>C-SPAR-10587</owner>
 		<oompID>RESE-0402-X-O102-01</oompID>
 		<partID>R14</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10587</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10608</owner>
@@ -7550,6 +8235,11 @@
 		<partID>R17</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-10608</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U1</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-10612</owner>
 		<oompID>CAPC-0402-X-NF100-V16</oompID>
 		<partID>C1</partID>
@@ -7598,6 +8288,11 @@
 		<owner>C-SPAR-10615</owner>
 		<oompID>CAPC-0402-X-NF100-V16</oompID>
 		<partID>C3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10615</owner>
+		<oompID>HEAD-I01-X-PI03-01</oompID>
+		<partID>J9</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10615</owner>
@@ -8240,6 +8935,16 @@
 		<partID>S1</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-10710</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10710</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U1</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-10711</owner>
 		<oompID>CAPC-0603-X-NF22-V50</oompID>
 		<partID>C1</partID>
@@ -8348,6 +9053,11 @@
 		<owner>C-SPAR-10711</owner>
 		<oompID>RESE-0603-X-O331-67</oompID>
 		<partID>R12</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10711</owner>
+		<oompID>VREG-SO235-X-V33D-A015D</oompID>
+		<partID>VREG</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10733</owner>
@@ -8526,6 +9236,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10740</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>J1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10740</owner>
 		<oompID>LEDS-0603-R-STAN-01</oompID>
 		<partID>LED1</partID>
 	</oompPartStat>
@@ -8558,6 +9273,11 @@
 		<owner>C-SPAR-10740</owner>
 		<oompID>RESE-0402-X-O103-01</oompID>
 		<partID>R5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10740</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U3</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10743</owner>
@@ -8603,6 +9323,16 @@
 		<owner>C-SPAR-10743</owner>
 		<oompID>CAPC-0402-X-NF100-V16</oompID>
 		<partID>C10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10743</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10743</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>J1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10743</owner>
@@ -8678,6 +9408,16 @@
 		<owner>C-SPAR-10744</owner>
 		<oompID>CAPC-0402-X-NF100-V16</oompID>
 		<partID>C8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10744</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10744</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>J1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10744</owner>
@@ -8728,6 +9468,11 @@
 		<owner>C-SPAR-10804</owner>
 		<oompID>CAPC-0603-X-NF100-V50</oompID>
 		<partID>C3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10804</owner>
+		<oompID>DCJP-21D-X-SMDS-01</oompID>
+		<partID>J1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10804</owner>
@@ -8793,6 +9538,16 @@
 		<owner>C-SPAR-10854</owner>
 		<oompID>LEDS-0603-G-STAN-01</oompID>
 		<partID>LED5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10854</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10854</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10854</owner>
@@ -9270,6 +10025,11 @@
 		<partID>R4</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-10888</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U3</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-10889</owner>
 		<oompID>CAPC-0402-X-NF100-V16</oompID>
 		<partID>C1</partID>
@@ -9388,6 +10148,11 @@
 		<owner>C-SPAR-10899</owner>
 		<oompID>CAPC-0603-X-NF100-V50</oompID>
 		<partID>C1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10899</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>J1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10899</owner>
@@ -9541,6 +10306,16 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10938</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10938</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10938</owner>
 		<oompID>RESE-0603-X-O331-01</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -9583,6 +10358,11 @@
 		<owner>C-SPAR-10938</owner>
 		<oompID>RESE-0603-X-O103-01</oompID>
 		<partID>R9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10938</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U3</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10941</owner>
@@ -9708,6 +10488,11 @@
 		<owner>C-SPAR-10958</owner>
 		<oompID>CAPC-0603-X-UF47D-V63D</oompID>
 		<partID>C8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10958</owner>
+		<oompID>DIOS-D214-X-A3-V30</oompID>
+		<partID>D1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10958</owner>
@@ -9931,8 +10716,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10958</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10958</owner>
 		<oompID>BUTA-52D-X-SMDS-01</oompID>
 		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10958</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S3</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10958</owner>
@@ -9941,8 +10736,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10958</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10958</owner>
 		<oompID>ICIC-QFP44-X-K32U4-01</oompID>
 		<partID>U5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10958</owner>
+		<oompID>CERE-1263-X-MZ8-01</oompID>
+		<partID>Y1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10962</owner>
@@ -10041,6 +10846,26 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10995</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10995</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10995</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10995</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10995</owner>
 		<oompID>RESE-0402-X-O103-01</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -10136,6 +10961,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10998</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10998</owner>
 		<oompID>LEDS-0603-R-STAN-01</oompID>
 		<partID>LED1</partID>
 	</oompPartStat>
@@ -10226,6 +11056,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-10999</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-10999</owner>
 		<oompID>LEDS-0603-R-STAN-01</oompID>
 		<partID>LED1</partID>
 	</oompPartStat>
@@ -10298,6 +11133,16 @@
 		<owner>C-SPAR-11007</owner>
 		<oompID>CAPC-0402-X-NF100-V16</oompID>
 		<partID>C8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11007</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11007</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>J1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11007</owner>
@@ -10483,6 +11328,16 @@
 		<owner>C-SPAR-11029</owner>
 		<oompID>CAPC-0603-X-UF10-V63D</oompID>
 		<partID>C16</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11029</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11029</owner>
+		<oompID>DCJP-21D-X-SMDS-01</oompID>
+		<partID>J1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11029</owner>
@@ -10678,6 +11533,26 @@
 		<owner>C-SPAR-11029</owner>
 		<oompID>RESE-0603-X-O101-67</oompID>
 		<partID>R38</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11029</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11029</owner>
+		<oompID>VREG-SO223-X-V33D-A08D</oompID>
+		<partID>U4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11029</owner>
+		<oompID>HEAD-I01-X-PI18-01</oompID>
+		<partID>U9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11029</owner>
+		<oompID>HEAD-I01-X-PI18-01</oompID>
+		<partID>U10</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11030</owner>
@@ -11211,6 +12086,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11098</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11098</owner>
 		<oompID>LEDS-0603-R-STAN-01</oompID>
 		<partID>LED1</partID>
 	</oompPartStat>
@@ -11333,6 +12213,11 @@
 		<owner>C-SPAR-11114</owner>
 		<oompID>RESE-0603-X-O103-01</oompID>
 		<partID>R11</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11168</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>J1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11168</owner>
@@ -11491,6 +12376,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11190</owner>
+		<oompID>DIOS-D214-X-A3-V30</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11190</owner>
 		<oompID>LEDS-0603-R-STAN-01</oompID>
 		<partID>LED1</partID>
 	</oompPartStat>
@@ -11551,13 +12441,28 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11190</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11190</owner>
 		<oompID>BUTA-52D-X-SMDS-01</oompID>
 		<partID>S2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11190</owner>
+		<oompID>VREG-SO235-X-V33D-A05D</oompID>
+		<partID>U2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11190</owner>
 		<oompID>ICIC-QFP44-X-K32U4-01</oompID>
 		<partID>U3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11190</owner>
+		<oompID>CERE-1263-X-MZ8-01</oompID>
+		<partID>Y1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11201</owner>
@@ -11716,8 +12621,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11259</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11259</owner>
 		<oompID>RESE-0603-X-O102-01</oompID>
 		<partID>R1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11260</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>100MA</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11260</owner>
@@ -11888,6 +12803,11 @@
 		<owner>C-SPAR-11262</owner>
 		<oompID>CAPC-0603-X-UF47D-V63D</oompID>
 		<partID>C8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11262</owner>
+		<oompID>DIOS-D214-X-A3-V30</oompID>
+		<partID>D1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11262</owner>
@@ -12111,8 +13031,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11262</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11262</owner>
 		<oompID>BUTA-52D-X-SMDS-01</oompID>
 		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11262</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S3</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11262</owner>
@@ -12121,8 +13051,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11262</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11262</owner>
 		<oompID>ICIC-QFP44-X-K32U4-01</oompID>
 		<partID>U5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11262</owner>
+		<oompID>CERE-1263-X-MZ8-01</oompID>
+		<partID>Y1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11323</owner>
@@ -12436,6 +13376,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11345</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11345</owner>
 		<oompID>RESE-0603-X-O102-67</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -12515,9 +13460,19 @@
 		<partID>U8</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-11345</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>U17</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-11364</owner>
 		<oompID>CAPC-0603-X-NF100-V50</oompID>
 		<partID>C1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11364</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>J1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11364</owner>
@@ -12558,6 +13513,16 @@
 		<owner>C-SPAR-11373</owner>
 		<oompID>LEDS-0603-G-STAN-01</oompID>
 		<partID>LED4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11373</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11373</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11373</owner>
@@ -12633,6 +13598,16 @@
 		<owner>C-SPAR-11401</owner>
 		<oompID>LEDS-0603-G-STAN-01</oompID>
 		<partID>LED3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11401</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11401</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q3</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11401</owner>
@@ -12731,6 +13706,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11420</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11420</owner>
 		<oompID>LEDS-0603-R-STAN-01</oompID>
 		<partID>LED1</partID>
 	</oompPartStat>
@@ -12763,6 +13743,11 @@
 		<owner>C-SPAR-11420</owner>
 		<oompID>RESE-0603-X-O182-01</oompID>
 		<partID>R10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11420</owner>
+		<oompID>VREG-SO235-X-V33D-A015D</oompID>
+		<partID>U2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11460</owner>
@@ -12813,6 +13798,11 @@
 		<owner>C-SPAR-11460</owner>
 		<oompID>RESE-0402-X-O331-01</oompID>
 		<partID>R5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11469</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>J2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11502</owner>
@@ -12970,6 +13960,26 @@
 		<partID>R5</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-11590</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11591</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>J1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11591</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>J2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11591</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-11622</owner>
 		<oompID>CAPC-0603-X-NF100-V25</oompID>
 		<partID>C2</partID>
@@ -13011,6 +14021,16 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11622</owner>
+		<oompID>DIOS-D214-X-A3-V30</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11622</owner>
+		<oompID>DIOS-D214-X-A3-V30</oompID>
+		<partID>D2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11622</owner>
 		<oompID>LEDS-0603-G-STAN-01</oompID>
 		<partID>D3</partID>
 	</oompPartStat>
@@ -13028,6 +14048,11 @@
 		<owner>C-SPAR-11622</owner>
 		<oompID>LEDS-0603-G-STAN-01</oompID>
 		<partID>D6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11622</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11622</owner>
@@ -13096,6 +14121,21 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11622</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11622</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11622</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11622</owner>
 		<oompID>BUTA-52D-X-SMDS-01</oompID>
 		<partID>S4</partID>
 	</oompPartStat>
@@ -13111,8 +14151,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11622</owner>
+		<oompID>VREG-SO235-X-V33D-A05D</oompID>
+		<partID>U4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11622</owner>
 		<oompID>ICIC-SS28-X-KFT232-01</oompID>
 		<partID>U5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11622</owner>
+		<oompID>CERE-1263-X-MZ16-01</oompID>
+		<partID>Y1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11649</owner>
@@ -13188,6 +14238,26 @@
 		<owner>C-SPAR-11649</owner>
 		<oompID>RESE-W04-X-O103-01</oompID>
 		<partID>R30</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11665</owner>
+		<oompID>HEAD-I01-X-PI07-01</oompID>
+		<partID>5V_RAIL</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11665</owner>
+		<oompID>HEAD-I01-X-PI07-01</oompID>
+		<partID>GND_RAIL_1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11665</owner>
+		<oompID>HEAD-I01-X-PI03-01</oompID>
+		<partID>GND_RAIL_2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11665</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>ICSP</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11665</owner>
@@ -13430,6 +14500,11 @@
 		<partID>R17</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-11684</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U1</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-11699</owner>
 		<oompID>CAPC-0603-X-NF100-V100</oompID>
 		<partID>C1</partID>
@@ -13635,6 +14710,11 @@
 		<partID>R6</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-11770</owner>
+		<oompID>VREG-SO235-X-V33D-A015D</oompID>
+		<partID>U2</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-11771</owner>
 		<oompID>CAPC-0603-X-NF100-V25</oompID>
 		<partID>C1</partID>
@@ -13828,6 +14908,11 @@
 		<owner>C-SPAR-11835</owner>
 		<oompID>CAPC-36D-X-NF100-V50</oompID>
 		<partID>C10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11835</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>J1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11835</owner>
@@ -14250,6 +15335,11 @@
 		<partID>R4</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-11893</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S1</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-11897</owner>
 		<oompID>CAPC-0603-X-NF100-V25</oompID>
 		<partID>C1</partID>
@@ -14421,6 +15511,16 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11954</owner>
+		<oompID>DIOS-D214-X-A3-V30</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11954</owner>
+		<oompID>DIOS-D214-X-A3-V30</oompID>
+		<partID>D2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11954</owner>
 		<oompID>LEDS-0603-G-STAN-01</oompID>
 		<partID>D3</partID>
 	</oompPartStat>
@@ -14438,6 +15538,11 @@
 		<owner>C-SPAR-11954</owner>
 		<oompID>LEDS-0603-G-STAN-01</oompID>
 		<partID>D6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11954</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11954</owner>
@@ -14506,6 +15611,21 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11954</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11954</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11954</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11954</owner>
 		<oompID>BUTA-52D-X-SMDS-01</oompID>
 		<partID>S4</partID>
 	</oompPartStat>
@@ -14521,8 +15641,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11954</owner>
+		<oompID>VREG-SO235-X-V33D-A05D</oompID>
+		<partID>U4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11954</owner>
 		<oompID>ICIC-SS28-X-KFT232-01</oompID>
 		<partID>U5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11954</owner>
+		<oompID>CERE-1263-X-MZ16-01</oompID>
+		<partID>Y1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11955</owner>
@@ -14581,6 +15711,26 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11978</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11978</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11978</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11978</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11978</owner>
 		<oompID>RESE-0603-X-O103-01</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -14661,6 +15811,16 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11988</owner>
+		<oompID>DIOS-D214-X-A3-V30</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11988</owner>
+		<oompID>DIOS-D214-X-A3-V30</oompID>
+		<partID>D2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11988</owner>
 		<oompID>LEDS-0603-G-STAN-01</oompID>
 		<partID>D3</partID>
 	</oompPartStat>
@@ -14678,6 +15838,11 @@
 		<owner>C-SPAR-11988</owner>
 		<oompID>LEDS-0603-G-STAN-01</oompID>
 		<partID>D6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11988</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11988</owner>
@@ -14746,6 +15911,21 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11988</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11988</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11988</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11988</owner>
 		<oompID>BUTA-52D-X-SMDS-01</oompID>
 		<partID>S4</partID>
 	</oompPartStat>
@@ -14761,8 +15941,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11988</owner>
+		<oompID>VREG-SO235-X-V33D-A05D</oompID>
+		<partID>U4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11988</owner>
 		<oompID>ICIC-SS28-X-KFT232-01</oompID>
 		<partID>U5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-11988</owner>
+		<oompID>CERE-1263-X-MZ16-01</oompID>
+		<partID>Y1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-11999</owner>
@@ -14771,6 +15961,26 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12009</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12009</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12009</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12009</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12009</owner>
 		<oompID>RESE-0603-X-O103-01</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -14851,6 +16061,16 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12032</owner>
+		<oompID>DIOS-D214-X-A3-V30</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12032</owner>
+		<oompID>DIOS-D214-X-A3-V30</oompID>
+		<partID>D2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12032</owner>
 		<oompID>LEDS-0603-G-STAN-01</oompID>
 		<partID>D3</partID>
 	</oompPartStat>
@@ -14868,6 +16088,11 @@
 		<owner>C-SPAR-12032</owner>
 		<oompID>LEDS-0603-G-STAN-01</oompID>
 		<partID>D6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12032</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12032</owner>
@@ -14936,6 +16161,21 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12032</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12032</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12032</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12032</owner>
 		<oompID>BUTA-52D-X-SMDS-01</oompID>
 		<partID>S4</partID>
 	</oompPartStat>
@@ -14951,8 +16191,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12032</owner>
+		<oompID>VREG-SO235-X-V33D-A05D</oompID>
+		<partID>U4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12032</owner>
 		<oompID>ICIC-SS28-X-KFT232-01</oompID>
 		<partID>U5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12032</owner>
+		<oompID>CERE-1263-X-MZ16-01</oompID>
+		<partID>Y1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12037</owner>
@@ -15031,6 +16281,16 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12041</owner>
+		<oompID>LEDS-1206-G-BOTT-01</oompID>
+		<partID>LED1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12041</owner>
+		<oompID>TRNN-SO23-X-A06D-V30</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12041</owner>
 		<oompID>RESE-0603-X-O103-67</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -15083,6 +16343,11 @@
 		<owner>C-SPAR-12049</owner>
 		<oompID>CAPC-1206-X-UF47D-01</oompID>
 		<partID>C8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12049</owner>
+		<oompID>DIOS-D214-X-A3-V30</oompID>
+		<partID>D1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12049</owner>
@@ -15146,13 +16411,28 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12049</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12049</owner>
 		<oompID>BUTA-52D-X-SMDS-01</oompID>
 		<partID>S2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12049</owner>
+		<oompID>VREG-SO235-X-V33D-A05D</oompID>
+		<partID>U2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12049</owner>
 		<oompID>ICIC-QFP44-X-K32U4-01</oompID>
 		<partID>U3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12049</owner>
+		<oompID>CERE-1263-X-MZ8-01</oompID>
+		<partID>Y1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12055</owner>
@@ -15376,6 +16656,46 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12081</owner>
+		<oompID>DIOD-S323-X-A015D-V75</oompID>
+		<partID>D5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12081</owner>
+		<oompID>DIOD-S323-X-A015D-V75</oompID>
+		<partID>D6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12081</owner>
+		<oompID>DIOD-S323-X-A015D-V75</oompID>
+		<partID>D7</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12081</owner>
+		<oompID>DIOD-S323-X-A015D-V75</oompID>
+		<partID>D8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12081</owner>
+		<oompID>DIOD-S323-X-A015D-V75</oompID>
+		<partID>D9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12081</owner>
+		<oompID>DIOD-S323-X-A015D-V75</oompID>
+		<partID>D10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12081</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12081</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12081</owner>
 		<oompID>RESE-0603-X-O102-67</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -15460,6 +16780,16 @@
 		<partID>R17</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-12081</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12081</owner>
+		<oompID>VREG-SO235-X-V33D-A015D</oompID>
+		<partID>U6</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-12082</owner>
 		<oompID>CAPC-0603-X-NF100-V25</oompID>
 		<partID>C1</partID>
@@ -15498,6 +16828,16 @@
 		<owner>C-SPAR-12084</owner>
 		<oompID>CAPC-0603-X-UF1-V16</oompID>
 		<partID>C6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12084</owner>
+		<oompID>DCJP-21D-X-SMDS-01</oompID>
+		<partID>J1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12084</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J5</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12084</owner>
@@ -15566,6 +16906,16 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12097</owner>
+		<oompID>DIOS-D214-X-A3-V30</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12097</owner>
+		<oompID>DIOS-D214-X-A3-V30</oompID>
+		<partID>D2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12097</owner>
 		<oompID>LEDS-0603-G-STAN-01</oompID>
 		<partID>D3</partID>
 	</oompPartStat>
@@ -15583,6 +16933,11 @@
 		<owner>C-SPAR-12097</owner>
 		<oompID>LEDS-0603-G-STAN-01</oompID>
 		<partID>D6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12097</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12097</owner>
@@ -15651,6 +17006,21 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12097</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12097</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12097</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12097</owner>
 		<oompID>BUTA-52D-X-SMDS-01</oompID>
 		<partID>S4</partID>
 	</oompPartStat>
@@ -15666,10 +17036,20 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12097</owner>
+		<oompID>VREG-SO235-X-V33D-A05D</oompID>
+		<partID>U4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12097</owner>
 		<oompID>ICIC-SS28-X-KFT232-01</oompID>
 		<partID>U5</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-12097</owner>
+		<oompID>CERE-1263-X-MZ16-01</oompID>
+		<partID>Y1</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-12576</owner>
 		<oompID>CAPT-3216-X-UF10-01</oompID>
 		<partID>C1</partID>
@@ -15693,6 +17073,16 @@
 		<owner>C-SPAR-12576</owner>
 		<oompID>LEDS-0603-G-STAN-01</oompID>
 		<partID>D2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12576</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12576</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12576</owner>
@@ -15766,6 +17156,16 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12577</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12577</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12577</owner>
 		<oompID>RESE-0603-X-O331-01</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -15810,6 +17210,11 @@
 		<partID>R9</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-12577</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U3</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-12578</owner>
 		<oompID>CAPT-3216-X-UF10-01</oompID>
 		<partID>C1</partID>
@@ -15833,6 +17238,16 @@
 		<owner>C-SPAR-12578</owner>
 		<oompID>LEDS-0603-G-STAN-01</oompID>
 		<partID>D2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12578</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12578</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12578</owner>
@@ -15913,6 +17328,16 @@
 		<owner>C-SPAR-12580</owner>
 		<oompID>LEDS-0603-G-STAN-01</oompID>
 		<partID>D2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12580</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12580</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12580</owner>
@@ -15986,6 +17411,16 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12581</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12581</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12581</owner>
 		<oompID>RESE-0603-X-O103-01</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -16041,6 +17476,16 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12582</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12582</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12582</owner>
 		<oompID>RESE-0603-X-O331-01</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -16083,6 +17528,11 @@
 		<owner>C-SPAR-12582</owner>
 		<oompID>RESE-0603-X-O103-01</oompID>
 		<partID>R9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12582</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U3</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12587</owner>
@@ -16138,6 +17588,11 @@
 		<owner>C-SPAR-12587</owner>
 		<oompID>LEDS-0603-G-STAN-01</oompID>
 		<partID>D3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12587</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12587</owner>
@@ -16223,6 +17678,11 @@
 		<owner>C-SPAR-12589</owner>
 		<oompID>RESE-0603-X-O204-01</oompID>
 		<partID>R6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12589</owner>
+		<oompID>VREG-SO235-X-V33D-A015D</oompID>
+		<partID>U2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12627</owner>
@@ -16336,6 +17796,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12633</owner>
+		<oompID>DIOS-D214-X-A3-V30</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12633</owner>
 		<oompID>LEDS-0603-Y-STAN-01</oompID>
 		<partID>D3</partID>
 	</oompPartStat>
@@ -16343,6 +17808,11 @@
 		<owner>C-SPAR-12633</owner>
 		<oompID>LEDS-0603-R-STAN-01</oompID>
 		<partID>D5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12633</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12633</owner>
@@ -16516,6 +17986,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12640</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12640</owner>
 		<oompID>LEDS-0603-R-STAN-01</oompID>
 		<partID>LED1</partID>
 	</oompPartStat>
@@ -16591,6 +18066,16 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12649</owner>
+		<oompID>DIOS-D214-X-A3-V30</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12649</owner>
+		<oompID>DIOS-D214-X-A3-V30</oompID>
+		<partID>D2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12649</owner>
 		<oompID>LEDS-0603-G-STAN-01</oompID>
 		<partID>D3</partID>
 	</oompPartStat>
@@ -16608,6 +18093,11 @@
 		<owner>C-SPAR-12649</owner>
 		<oompID>LEDS-0603-G-STAN-01</oompID>
 		<partID>D6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12649</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12649</owner>
@@ -16676,6 +18166,21 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12649</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12649</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12649</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12649</owner>
 		<oompID>BUTA-52D-X-SMDS-01</oompID>
 		<partID>S4</partID>
 	</oompPartStat>
@@ -16691,8 +18196,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12649</owner>
+		<oompID>VREG-SO235-X-V33D-A05D</oompID>
+		<partID>U4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12649</owner>
 		<oompID>ICIC-SS28-X-KFT232-01</oompID>
 		<partID>U5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12649</owner>
+		<oompID>CERE-1263-X-MZ16-01</oompID>
+		<partID>Y1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12650</owner>
@@ -16906,6 +18421,31 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12651</owner>
+		<oompID>DIOD-S323-X-A015D-V75</oompID>
+		<partID>D4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12651</owner>
+		<oompID>DIOD-S323-X-A015D-V75</oompID>
+		<partID>D5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12651</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12651</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12651</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>J1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12651</owner>
 		<oompID>LEDS-1206-W-STAN-01</oompID>
 		<partID>LED1</partID>
 	</oompPartStat>
@@ -16938,6 +18478,11 @@
 		<owner>C-SPAR-12651</owner>
 		<oompID>LEDS-0603-G-STAN-01</oompID>
 		<partID>LED7</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12651</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12651</owner>
@@ -17066,6 +18611,16 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12651</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12651</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12651</owner>
 		<oompID>ICIC-TQ32-X-K328-01</oompID>
 		<partID>U2</partID>
 	</oompPartStat>
@@ -17073,6 +18628,16 @@
 		<owner>C-SPAR-12651</owner>
 		<oompID>ICIC-SS28-X-KFT232-01</oompID>
 		<partID>U5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12651</owner>
+		<oompID>VREG-SO235-X-V33D-A015D</oompID>
+		<partID>U7</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12651</owner>
+		<oompID>CERE-1263-X-MZ8-01</oompID>
+		<partID>Y1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12670</owner>
@@ -17151,6 +18716,16 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12697</owner>
+		<oompID>DIOS-D214-X-A3-V30</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12697</owner>
+		<oompID>DIOS-D214-X-A3-V30</oompID>
+		<partID>D2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12697</owner>
 		<oompID>LEDS-0603-G-STAN-01</oompID>
 		<partID>D3</partID>
 	</oompPartStat>
@@ -17168,6 +18743,11 @@
 		<owner>C-SPAR-12697</owner>
 		<oompID>LEDS-0603-G-STAN-01</oompID>
 		<partID>D6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12697</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12697</owner>
@@ -17236,6 +18816,21 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12697</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12697</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12697</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12697</owner>
 		<oompID>BUTA-52D-X-SMDS-01</oompID>
 		<partID>S4</partID>
 	</oompPartStat>
@@ -17251,8 +18846,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12697</owner>
+		<oompID>VREG-SO235-X-V33D-A05D</oompID>
+		<partID>U4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12697</owner>
 		<oompID>ICIC-SS28-X-KFT232-01</oompID>
 		<partID>U5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12697</owner>
+		<oompID>CERE-1263-X-MZ16-01</oompID>
+		<partID>Y1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12700</owner>
@@ -17268,6 +18873,21 @@
 		<owner>C-SPAR-12711</owner>
 		<oompID>CAPC-0603-X-UF47D-V63D</oompID>
 		<partID>C2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12711</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12711</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12711</owner>
+		<oompID>DCJP-21D-X-SMDS-01</oompID>
+		<partID>J1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12711</owner>
@@ -17298,6 +18918,21 @@
 		<owner>C-SPAR-12722</owner>
 		<oompID>CAPC-0603-X-UF47D-V63D</oompID>
 		<partID>C2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12722</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12722</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12722</owner>
+		<oompID>DCJP-21D-X-SMDS-01</oompID>
+		<partID>J1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12722</owner>
@@ -17336,6 +18971,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12731</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12731</owner>
 		<oompID>LEDS-0603-R-STAN-01</oompID>
 		<partID>LED1</partID>
 	</oompPartStat>
@@ -17353,6 +18993,11 @@
 		<owner>C-SPAR-12731</owner>
 		<oompID>RESE-0603-X-O331-67</oompID>
 		<partID>R2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12731</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12756</owner>
@@ -17443,6 +19088,11 @@
 		<owner>C-SPAR-12761</owner>
 		<oompID>CAPC-0603-X-UF10-V63D</oompID>
 		<partID>C3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12761</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>J1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12761</owner>
@@ -17660,6 +19310,11 @@
 		<partID>R20</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-12772</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U2</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-12773</owner>
 		<oompID>CAPC-0603-X-NF100-V25</oompID>
 		<partID>C1</partID>
@@ -17736,6 +19391,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12773</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>J1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12773</owner>
 		<oompID>RESE-0603-X-O103-67</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -17783,6 +19443,11 @@
 		<owner>C-SPAR-12773</owner>
 		<oompID>ICIC-TQ32-X-K328-01</oompID>
 		<partID>U2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12773</owner>
+		<oompID>CERE-1263-X-MZ8-01</oompID>
+		<partID>Y2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12779</owner>
@@ -17933,6 +19598,11 @@
 		<owner>C-SPAR-12780</owner>
 		<oompID>CAPC-0603-X-NF100-V25</oompID>
 		<partID>C8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12780</owner>
+		<oompID>TRNN-SO23-X-A06D-V30</oompID>
+		<partID>Q1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12780</owner>
@@ -18231,6 +19901,16 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12785</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12785</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12785</owner>
 		<oompID>RESE-0603-X-O473-67</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -18268,6 +19948,11 @@
 		<owner>C-SPAR-12785</owner>
 		<oompID>RESE-0603-X-O103-67</oompID>
 		<partID>R8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12785</owner>
+		<oompID>VREG-SO235-X-V33D-A05D</oompID>
+		<partID>U3</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12787</owner>
@@ -18373,6 +20058,16 @@
 		<owner>C-SPAR-12847</owner>
 		<oompID>LEDS-0603-G-STAN-01</oompID>
 		<partID>LED5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12847</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12847</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12847</owner>
@@ -18791,6 +20486,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12922</owner>
+		<oompID>DIOS-D214-X-A3-V30</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12922</owner>
 		<oompID>LEDS-1206-G-STAN-01</oompID>
 		<partID>D2</partID>
 	</oompPartStat>
@@ -19011,8 +20711,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12922</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12922</owner>
 		<oompID>BUTA-52D-X-SMDS-01</oompID>
 		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12922</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S3</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12922</owner>
@@ -19021,8 +20731,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12922</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12922</owner>
 		<oompID>ICIC-QFP44-X-K32U4-01</oompID>
 		<partID>U5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12922</owner>
+		<oompID>CERE-1263-X-MZ8-01</oompID>
+		<partID>Y1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12924</owner>
@@ -19183,6 +20903,11 @@
 		<owner>C-SPAR-12935</owner>
 		<oompID>ICIC-SS28-X-KFT232-01</oompID>
 		<partID>U1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12935</owner>
+		<oompID>VREG-SO235-X-V33D-A05D</oompID>
+		<partID>U2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12938</owner>
@@ -19406,6 +21131,16 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12942</owner>
+		<oompID>VREG-SO235-X-V33D-A015D</oompID>
+		<partID>U1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12942</owner>
+		<oompID>VREG-SO235-X-V33D-A015D</oompID>
+		<partID>U2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12942</owner>
 		<oompID>ICIC-SS28-X-KFT232-01</oompID>
 		<partID>U5</partID>
 	</oompPartStat>
@@ -19443,6 +21178,16 @@
 		<owner>C-SPAR-12958</owner>
 		<oompID>CAPC-0603-X-PF100-V50</oompID>
 		<partID>C7</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12958</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-12958</owner>
+		<oompID>MOSP-SO23-X-A25D-V30</oompID>
+		<partID>Q1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-12958</owner>
@@ -19766,6 +21511,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13032</owner>
+		<oompID>DCJP-21D-X-SMDS-01</oompID>
+		<partID>J1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13032</owner>
 		<oompID>RESE-0603-X-O241-01</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -19845,6 +21595,11 @@
 		<partID>R6</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-13033</owner>
+		<oompID>VREG-SO235-X-V33D-A015D</oompID>
+		<partID>U4</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-13034</owner>
 		<oompID>CAPC-0603-X-NF100-V25</oompID>
 		<partID>C1</partID>
@@ -19878,6 +21633,11 @@
 		<owner>C-SPAR-13034</owner>
 		<oompID>RESE-0603-X-O204-01</oompID>
 		<partID>R3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13034</owner>
+		<oompID>VREG-SO235-X-V33D-A015D</oompID>
+		<partID>U1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13035</owner>
@@ -20005,6 +21765,11 @@
 		<partID>R11</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-13036</owner>
+		<oompID>CERE-1263-X-MZ8-01</oompID>
+		<partID>Y1</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-13037</owner>
 		<oompID>CAPC-0603-X-UF47D-V63D</oompID>
 		<partID>C1</partID>
@@ -20116,6 +21881,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13039</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13039</owner>
 		<oompID>RESE-0603-X-O270-01</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -20206,6 +21976,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13040</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13040</owner>
 		<oompID>RESE-0603-X-O102-67</oompID>
 		<partID>R5</partID>
 	</oompPartStat>
@@ -20235,6 +22010,11 @@
 		<partID>R15</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-13040</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-13041</owner>
 		<oompID>CAPC-0603-X-NF100-V25</oompID>
 		<partID>C1</partID>
@@ -20258,6 +22038,11 @@
 		<owner>C-SPAR-13042</owner>
 		<oompID>CAPC-0603-X-NF100-V25</oompID>
 		<partID>C3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13042</owner>
+		<oompID>DIOS-D214-X-A3-V30</oompID>
+		<partID>D1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13042</owner>
@@ -20361,6 +22146,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13043</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13043</owner>
 		<oompID>LEDS-0603-G-STAN-01</oompID>
 		<partID>D2</partID>
 	</oompPartStat>
@@ -20456,8 +22246,23 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13044</owner>
+		<oompID>DIOS-S323-X-A01-V23</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13044</owner>
 		<oompID>LEDS-0603-L-STAN-01</oompID>
 		<partID>D3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13044</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13044</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13044</owner>
@@ -20503,6 +22308,11 @@
 		<owner>C-SPAR-13044</owner>
 		<oompID>RESE-0603-X-O102-67</oompID>
 		<partID>R11</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13044</owner>
+		<oompID>VREG-SO235-X-V33D-A05D</oompID>
+		<partID>U5</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13045</owner>
@@ -20558,6 +22368,16 @@
 		<owner>C-SPAR-13045</owner>
 		<oompID>LEDS-0603-L-STAN-01</oompID>
 		<partID>D3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13045</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13045</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13045</owner>
@@ -20675,6 +22495,11 @@
 		<partID>R6</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-13046</owner>
+		<oompID>VREG-SO235-X-V33D-A015D</oompID>
+		<partID>U3</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-13058</owner>
 		<oompID>CAPC-0603-X-NF100-V25</oompID>
 		<partID>C1</partID>
@@ -20718,6 +22543,16 @@
 		<owner>C-SPAR-13058</owner>
 		<oompID>LEDS-0603-G-STAN-01</oompID>
 		<partID>D4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13058</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13058</owner>
+		<oompID>CERE-1263-X-MZ8-01</oompID>
+		<partID>Q1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13058</owner>
@@ -20773,6 +22608,16 @@
 		<owner>C-SPAR-13058</owner>
 		<oompID>ICIC-TQ32-X-K328-01</oompID>
 		<partID>U1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13058</owner>
+		<oompID>VREG-SO235-X-V33D-A015D</oompID>
+		<partID>U2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13116</owner>
+		<oompID>HEAD-I01-X-PI03-01</oompID>
+		<partID>AUDIO_IN</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13116</owner>
@@ -20863,6 +22708,11 @@
 		<owner>C-SPAR-13118</owner>
 		<oompID>RESE-0603-X-O103-67</oompID>
 		<partID>R6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13118</owner>
+		<oompID>CERE-1263-X-MZ16-01</oompID>
+		<partID>Y1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13120</owner>
@@ -20936,6 +22786,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13120</owner>
+		<oompID>TRNN-SO23-X-A06D-V30</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13120</owner>
 		<oompID>RESE-0603-X-O103-67</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -21006,6 +22861,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13124</owner>
+		<oompID>MOSP-SO23-X-A25D-V30</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13124</owner>
 		<oompID>RESE-0603-X-O105-67</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -21063,6 +22923,46 @@
 		<owner>C-SPAR-13144</owner>
 		<oompID>CAPC-0603-X-NF100-V25</oompID>
 		<partID>C8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13144</owner>
+		<oompID>LEDS-1206-G-BOTT-01</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13144</owner>
+		<oompID>LEDS-1206-G-BOTT-01</oompID>
+		<partID>D2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13144</owner>
+		<oompID>LEDS-1206-G-BOTT-01</oompID>
+		<partID>D3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13144</owner>
+		<oompID>LEDS-1206-G-BOTT-01</oompID>
+		<partID>D4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13144</owner>
+		<oompID>LEDS-1206-G-BOTT-01</oompID>
+		<partID>D5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13144</owner>
+		<oompID>LEDS-1206-G-BOTT-01</oompID>
+		<partID>D6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13144</owner>
+		<oompID>LEDS-1206-G-BOTT-01</oompID>
+		<partID>D7</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13144</owner>
+		<oompID>LEDS-1206-G-BOTT-01</oompID>
+		<partID>D8</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13144</owner>
@@ -21481,8 +23381,33 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13155</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D16</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13155</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D17</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13155</owner>
 		<oompID>LEDS-1206-L-STAN-01</oompID>
 		<partID>D18</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13155</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13155</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>J1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13155</owner>
+		<oompID>CERE-1263-X-MZ16-01</oompID>
+		<partID>Q1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13155</owner>
@@ -21766,6 +23691,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13155</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13155</owner>
 		<oompID>ICIC-TQ32-X-K328-01</oompID>
 		<partID>U1</partID>
 	</oompPartStat>
@@ -21945,6 +23875,11 @@
 		<partID>R12</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-13158</owner>
+		<oompID>VREG-SO235-X-V33D-A015D</oompID>
+		<partID>VREG</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-13162</owner>
 		<oompID>CAPC-0603-X-NF100-V25</oompID>
 		<partID>C1</partID>
@@ -21978,6 +23913,11 @@
 		<owner>C-SPAR-13162</owner>
 		<oompID>CAPC-0603-X-NF100-V25</oompID>
 		<partID>C8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13162</owner>
+		<oompID>TRNN-SO23-X-A06D-V30</oompID>
+		<partID>Q1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13162</owner>
@@ -22091,6 +24031,16 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13166</owner>
+		<oompID>DIOS-D214-X-A3-V30</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13166</owner>
+		<oompID>DIOS-D214-X-A3-V30</oompID>
+		<partID>D2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13166</owner>
 		<oompID>LEDS-0603-G-STAN-01</oompID>
 		<partID>D3</partID>
 	</oompPartStat>
@@ -22108,6 +24058,11 @@
 		<owner>C-SPAR-13166</owner>
 		<oompID>LEDS-0603-G-STAN-01</oompID>
 		<partID>D6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13166</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13166</owner>
@@ -22176,6 +24131,21 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13166</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13166</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13166</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13166</owner>
 		<oompID>BUTA-52D-X-SMDS-01</oompID>
 		<partID>S4</partID>
 	</oompPartStat>
@@ -22191,8 +24161,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13166</owner>
+		<oompID>VREG-SO235-X-V33D-A05D</oompID>
+		<partID>U4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13166</owner>
 		<oompID>ICIC-SS28-X-KFT232-01</oompID>
 		<partID>U5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13166</owner>
+		<oompID>CERE-1263-X-MZ16-01</oompID>
+		<partID>Y1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13169</owner>
@@ -22346,6 +24326,26 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13183</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>J1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13183</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13183</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13183</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13183</owner>
 		<oompID>RESE-0603-X-O102-67</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -22445,6 +24445,16 @@
 		<partID>S1</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-13199</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13199</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U1</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-13201</owner>
 		<oompID>CAPC-0603-X-NF100-V25</oompID>
 		<partID>C1</partID>
@@ -22458,6 +24468,46 @@
 		<owner>C-SPAR-13201</owner>
 		<oompID>CAPC-0603-X-NF100-V25</oompID>
 		<partID>C8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13201</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13201</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13201</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13201</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13201</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13201</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13201</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D7</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13201</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D8</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13201</owner>
@@ -22491,6 +24541,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13201</owner>
+		<oompID>HEAD-I01-X-PI07-01</oompID>
+		<partID>J4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13201</owner>
 		<oompID>HEAD-I01-X-PI06-01</oompID>
 		<partID>J5</partID>
 	</oompPartStat>
@@ -22506,8 +24561,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13201</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13201</owner>
 		<oompID>TERS-35D-X-PI02-01</oompID>
 		<partID>J10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13201</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J15</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13201</owner>
@@ -22611,6 +24676,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13225</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13225</owner>
 		<oompID>LEDS-1206-Y-STAN-01</oompID>
 		<partID>D2</partID>
 	</oompPartStat>
@@ -22628,6 +24698,16 @@
 		<owner>C-SPAR-13225</owner>
 		<oompID>LEDS-1206-R-STAN-01</oompID>
 		<partID>D5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13225</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13225</owner>
+		<oompID>TRNN-SO23-X-A06D-V30</oompID>
+		<partID>Q1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13225</owner>
@@ -22671,8 +24751,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13225</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13225</owner>
 		<oompID>BUTA-52D-X-SMDS-01</oompID>
 		<partID>S3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13225</owner>
+		<oompID>VREG-SO223-X-V33D-A08D</oompID>
+		<partID>U3</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13229</owner>
@@ -22836,6 +24926,26 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13229</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13229</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13229</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13229</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13229</owner>
 		<oompID>LEDS-0603-R-STAN-01</oompID>
 		<partID>D5</partID>
 	</oompPartStat>
@@ -22945,6 +25055,11 @@
 		<partID>S6</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-13229</owner>
+		<oompID>VREG-SO235-X-V33D-A05D</oompID>
+		<partID>U3</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-13231</owner>
 		<oompID>CAPC-0603-X-UF10-V63D</oompID>
 		<partID>C1</partID>
@@ -23006,8 +25121,23 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13231</owner>
+		<oompID>DIOS-S323-X-A01-V23</oompID>
+		<partID>D3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13231</owner>
 		<oompID>LEDS-0603-R-STAN-01</oompID>
 		<partID>D4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13231</owner>
+		<oompID>DIOD-S323-X-A015D-V75</oompID>
+		<partID>D5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13231</owner>
+		<oompID>MOSP-SO23-X-A25D-V30</oompID>
+		<partID>Q1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13231</owner>
@@ -23080,6 +25210,11 @@
 		<partID>R17</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-13231</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U4</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-13262</owner>
 		<oompID>CAPC-0603-X-NF100-V25</oompID>
 		<partID>C1</partID>
@@ -23126,6 +25261,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13262</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13262</owner>
 		<oompID>LEDS-0603-G-STAN-01</oompID>
 		<partID>D2</partID>
 	</oompPartStat>
@@ -23138,6 +25278,11 @@
 		<owner>C-SPAR-13262</owner>
 		<oompID>LEDS-0603-R-STAN-01</oompID>
 		<partID>D4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13262</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13262</owner>
@@ -23356,6 +25501,21 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13287</owner>
+		<oompID>DIOD-S323-X-A015D-V75</oompID>
+		<partID>D3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13287</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13287</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13287</owner>
 		<oompID>RESE-0603-X-O123-01</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -23421,8 +25581,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13287</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13287</owner>
 		<oompID>BUTA-52D-X-SMDS-01</oompID>
 		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13287</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13288</owner>
@@ -23526,6 +25696,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13311</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13311</owner>
 		<oompID>BUTA-52D-X-SMDS-01</oompID>
 		<partID>S3</partID>
 	</oompPartStat>
@@ -23611,6 +25786,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13321</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13321</owner>
 		<oompID>LEDS-1206-R-STAN-01</oompID>
 		<partID>LED1</partID>
 	</oompPartStat>
@@ -23670,6 +25850,16 @@
 		<partID>R10</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-13321</owner>
+		<oompID>VREG-SO223-X-V33D-A08D</oompID>
+		<partID>U2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13322</owner>
+		<oompID>TRNN-SO23-X-A06D-V30</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-13322</owner>
 		<oompID>RESE-0603-X-O103-01</oompID>
 		<partID>R1</partID>
@@ -23723,6 +25913,11 @@
 		<owner>C-SPAR-13327</owner>
 		<oompID>RESE-0603-X-O222-67</oompID>
 		<partID>R6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13327</owner>
+		<oompID>VREG-SO235-X-V33D-A015D</oompID>
+		<partID>U3</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13339</owner>
@@ -24056,8 +26251,38 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13810</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13810</owner>
 		<oompID>LEDS-0603-L-STAN-01</oompID>
 		<partID>D2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13810</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13810</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13810</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13810</owner>
+		<oompID>HEAD-I01-X-PI05-01</oompID>
+		<partID>J15</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13810</owner>
+		<oompID>MOSP-SO23-X-A25D-V30</oompID>
+		<partID>Q1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13810</owner>
@@ -24300,6 +26525,16 @@
 		<partID>S3</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-13810</owner>
+		<oompID>VREG-SO223-X-V33D-A08D</oompID>
+		<partID>U1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13810</owner>
+		<oompID>VREG-SO223-X-V33D-A08D</oompID>
+		<partID>U2</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-13815</owner>
 		<oompID>TERS-05-X-PI03-01</oompID>
 		<partID>J1</partID>
@@ -24318,6 +26553,26 @@
 		<owner>C-SPAR-13815</owner>
 		<oompID>RESE-W04-X-O102-67</oompID>
 		<partID>R2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13819</owner>
+		<oompID>HEAD-I01-X-PI07-01</oompID>
+		<partID>5V_RAIL</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13819</owner>
+		<oompID>HEAD-I01-X-PI07-01</oompID>
+		<partID>GND_RAIL_1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13819</owner>
+		<oompID>HEAD-I01-X-PI03-01</oompID>
+		<partID>GND_RAIL_2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13819</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>ICSP</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13819</owner>
@@ -24348,6 +26603,26 @@
 		<owner>C-SPAR-13819</owner>
 		<oompID>HEAD-I01-X-PI04-01</oompID>
 		<partID>VDD_RAIL</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13820</owner>
+		<oompID>HEAD-I01-X-PI07-01</oompID>
+		<partID>5V_RAIL</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13820</owner>
+		<oompID>HEAD-I01-X-PI07-01</oompID>
+		<partID>GND_RAIL_1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13820</owner>
+		<oompID>HEAD-I01-X-PI03-01</oompID>
+		<partID>GND_RAIL_2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13820</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>ICSP</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13820</owner>
@@ -24431,6 +26706,21 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13830</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13830</owner>
+		<oompID>HEAD-I01-X-PI12-01</oompID>
+		<partID>J4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13830</owner>
+		<oompID>HEAD-I01-X-PI12-01</oompID>
+		<partID>J5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13830</owner>
 		<oompID>RESE-0603-X-O102-67</oompID>
 		<partID>R3</partID>
 	</oompPartStat>
@@ -24438,6 +26728,11 @@
 		<owner>C-SPAR-13830</owner>
 		<oompID>RESE-0603-X-O102-67</oompID>
 		<partID>R4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13830</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13845</owner>
@@ -24556,6 +26851,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13865</owner>
+		<oompID>DIOS-S323-X-A01-V23</oompID>
+		<partID>D2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13865</owner>
 		<oompID>LEDS-0603-L-STAN-01</oompID>
 		<partID>D3</partID>
 	</oompPartStat>
@@ -24568,6 +26868,26 @@
 		<owner>C-SPAR-13865</owner>
 		<oompID>LEDS-0603-R-STAN-01</oompID>
 		<partID>D5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13865</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13865</owner>
+		<oompID>MOSP-SO23-X-A25D-V30</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13865</owner>
+		<oompID>TRNN-SO23-X-A06D-V30</oompID>
+		<partID>Q2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13865</owner>
+		<oompID>TRNN-SO23-X-A06D-V30</oompID>
+		<partID>Q3</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13865</owner>
@@ -24670,6 +26990,11 @@
 		<partID>S1</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-13865</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U3</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-13872</owner>
 		<oompID>CAPT-3216-X-UF10-V16</oompID>
 		<partID>C1</partID>
@@ -24693,6 +27018,11 @@
 		<owner>C-SPAR-13872</owner>
 		<oompID>RESE-0603-X-O103-67</oompID>
 		<partID>R6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13872</owner>
+		<oompID>CERE-1263-X-MZ16-01</oompID>
+		<partID>Y1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13881</owner>
@@ -25051,8 +27381,33 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13881</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D16</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13881</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D17</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13881</owner>
 		<oompID>LEDS-1206-L-STAN-01</oompID>
 		<partID>D18</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13881</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13881</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>J1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13881</owner>
+		<oompID>CERE-1263-X-MZ16-01</oompID>
+		<partID>Q1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13881</owner>
@@ -25333,6 +27688,11 @@
 		<owner>C-SPAR-13881</owner>
 		<oompID>BUTA-52D-X-SMDS-01</oompID>
 		<partID>S4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13881</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S5</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13881</owner>
@@ -25801,8 +28161,33 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13899</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D16</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13899</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D17</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13899</owner>
 		<oompID>LEDS-1206-L-STAN-01</oompID>
 		<partID>D18</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13899</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13899</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>J1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13899</owner>
+		<oompID>CERE-1263-X-MZ16-01</oompID>
+		<partID>Q1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13899</owner>
@@ -26086,6 +28471,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13899</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13899</owner>
 		<oompID>ICIC-TQ32-X-K328-01</oompID>
 		<partID>U1</partID>
 	</oompPartStat>
@@ -26256,6 +28646,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13906</owner>
+		<oompID>HEAD-I01-X-PI11-01</oompID>
+		<partID>J1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13906</owner>
 		<oompID>HEAD-I01-X-PI06-01</oompID>
 		<partID>J2</partID>
 	</oompPartStat>
@@ -26401,6 +28796,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13907</owner>
+		<oompID>DIOS-S323-X-A01-V23</oompID>
+		<partID>D2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13907</owner>
 		<oompID>LEDS-0603-R-STAN-01</oompID>
 		<partID>D3</partID>
 	</oompPartStat>
@@ -26408,6 +28808,16 @@
 		<owner>C-SPAR-13907</owner>
 		<oompID>LEDS-0603-L-STAN-01</oompID>
 		<partID>D4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13907</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13907</owner>
+		<oompID>MOSP-SO23-X-A25D-V30</oompID>
+		<partID>Q1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13907</owner>
@@ -26468,6 +28878,21 @@
 		<owner>C-SPAR-13907</owner>
 		<oompID>RESE-0603-X-O103-67</oompID>
 		<partID>R18</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13907</owner>
+		<oompID>BUTA-4632-X-STAN-01</oompID>
+		<partID>S1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13907</owner>
+		<oompID>BUTA-4632-X-STAN-01</oompID>
+		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13907</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U3</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13911</owner>
@@ -26656,6 +29081,46 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13956</owner>
+		<oompID>DIOD-S323-X-A015D-V75</oompID>
+		<partID>D5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13956</owner>
+		<oompID>DIOD-S323-X-A015D-V75</oompID>
+		<partID>D6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13956</owner>
+		<oompID>DIOD-S323-X-A015D-V75</oompID>
+		<partID>D7</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13956</owner>
+		<oompID>DIOD-S323-X-A015D-V75</oompID>
+		<partID>D8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13956</owner>
+		<oompID>DIOD-S323-X-A015D-V75</oompID>
+		<partID>D9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13956</owner>
+		<oompID>DIOD-S323-X-A015D-V75</oompID>
+		<partID>D10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13956</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13956</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13956</owner>
 		<oompID>RESE-0603-X-O102-67</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -26738,6 +29203,16 @@
 		<owner>C-SPAR-13956</owner>
 		<oompID>RESE-0603-X-O472-67</oompID>
 		<partID>R17</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13956</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13956</owner>
+		<oompID>VREG-SO235-X-V33D-A015D</oompID>
+		<partID>U6</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13963</owner>
@@ -26836,6 +29311,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13964</owner>
+		<oompID>DIOS-D214-X-A3-V30</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13964</owner>
 		<oompID>LEDS-0603-Y-STAN-01</oompID>
 		<partID>D3</partID>
 	</oompPartStat>
@@ -26843,6 +29323,11 @@
 		<owner>C-SPAR-13964</owner>
 		<oompID>LEDS-0603-R-STAN-01</oompID>
 		<partID>D5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13964</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13964</owner>
@@ -26946,8 +29431,28 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13975</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13975</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13975</owner>
+		<oompID>VREG-SO223-X-V33D-A08D</oompID>
+		<partID>IC3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13975</owner>
 		<oompID>HEAD-I01-X-PI2X03-01</oompID>
 		<partID>J2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13975</owner>
+		<oompID>DCJP-21D-X-SMDS-01</oompID>
+		<partID>J3</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13975</owner>
@@ -27041,8 +29546,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13975</owner>
+		<oompID>VREG-SO235-X-V33D-A015D</oompID>
+		<partID>U2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13975</owner>
 		<oompID>ICIC-TQ32-X-K328-01</oompID>
 		<partID>U4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13975</owner>
+		<oompID>CERE-1263-X-MZ16-01</oompID>
+		<partID>Y1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13990</owner>
@@ -27131,6 +29646,21 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13990</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13990</owner>
+		<oompID>HEAD-I01-X-PI17-01</oompID>
+		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13990</owner>
+		<oompID>HEAD-I01-X-PI17-01</oompID>
+		<partID>J4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13990</owner>
 		<oompID>RESE-0603-X-O102-67</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -27138,6 +29668,21 @@
 		<owner>C-SPAR-13990</owner>
 		<oompID>RESE-0603-X-O102-67</oompID>
 		<partID>R2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13990</owner>
+		<oompID>BUTA-4632-X-STAN-01</oompID>
+		<partID>SW1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13990</owner>
+		<oompID>BUTA-4632-X-STAN-01</oompID>
+		<partID>SW2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13990</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13992</owner>
@@ -27201,6 +29746,16 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-13992</owner>
+		<oompID>HEAD-I01-X-PI05-01</oompID>
+		<partID>J1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13992</owner>
+		<oompID>HEAD-I01-X-PI06-01</oompID>
+		<partID>J5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13992</owner>
 		<oompID>RESE-0603-X-O103-67</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -27238,6 +29793,21 @@
 		<owner>C-SPAR-13992</owner>
 		<oompID>RESE-0603-X-O472-67</oompID>
 		<partID>R9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13992</owner>
+		<oompID>BUTA-4632-X-STAN-01</oompID>
+		<partID>SW1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13992</owner>
+		<oompID>BUTA-4632-X-STAN-01</oompID>
+		<partID>SW2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-13992</owner>
+		<oompID>VREG-SO235-X-V33D-A015D</oompID>
+		<partID>U2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14002</owner>
@@ -27591,13 +30161,38 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14030</owner>
+		<oompID>HEAD-I01-X-PI12-01</oompID>
+		<partID>J2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14030</owner>
+		<oompID>HEAD-I01-X-PI12-01</oompID>
+		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14030</owner>
 		<oompID>HEAD-I01-X-PI06-01</oompID>
 		<partID>J4</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14030</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14030</owner>
 		<oompID>RESE-0603-X-O471-67</oompID>
 		<partID>R1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14030</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14030</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U3</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14031</owner>
@@ -27738,6 +30333,21 @@
 		<owner>C-SPAR-14034</owner>
 		<oompID>LEDS-0603-R-STAN-01</oompID>
 		<partID>D3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14034</owner>
+		<oompID>HEAD-I01-X-PI06-01</oompID>
+		<partID>J1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14034</owner>
+		<oompID>HEAD-I01-X-PI05-01</oompID>
+		<partID>J2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14034</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J6</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14034</owner>
@@ -27885,6 +30495,26 @@
 		<partID>R29</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-14034</owner>
+		<oompID>BUTA-4632-X-STAN-01</oompID>
+		<partID>SW1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14034</owner>
+		<oompID>BUTA-4632-X-STAN-01</oompID>
+		<partID>SW2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14034</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14034</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U3</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-14044</owner>
 		<oompID>CAPC-0603-X-UF22D-V10</oompID>
 		<partID>C1</partID>
@@ -27937,6 +30567,46 @@
 	<oompPartStat>
 		<owner>C-SPAR-14044</owner>
 		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14044</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14044</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14044</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14044</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14044</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14044</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J7</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14044</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14044</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
 		<partID>J9</partID>
 	</oompPartStat>
 	<oompPartStat>
@@ -27976,6 +30646,16 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14044</owner>
+		<oompID>HEAD-I01-X-PI05-01</oompID>
+		<partID>J18</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14044</owner>
+		<oompID>HEAD-I01-X-PI06-01</oompID>
+		<partID>J21</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14044</owner>
 		<oompID>RESE-0603-X-O103-67</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -27998,6 +30678,21 @@
 		<owner>C-SPAR-14044</owner>
 		<oompID>RESE-0603-X-O102-67</oompID>
 		<partID>R6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14044</owner>
+		<oompID>BUTA-4632-X-STAN-01</oompID>
+		<partID>SW1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14044</owner>
+		<oompID>BUTA-4632-X-STAN-01</oompID>
+		<partID>SW2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14044</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14048</owner>
@@ -28090,6 +30785,11 @@
 		<partID>R3</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-14050</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U1</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-14051</owner>
 		<oompID>CAPC-0805-X-UF1-V25</oompID>
 		<partID>C1</partID>
@@ -28176,6 +30876,16 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14051</owner>
+		<oompID>DIOS-S323-X-A01-V23</oompID>
+		<partID>D6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14051</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14051</owner>
 		<oompID>HEAD-I01-X-PI06-01</oompID>
 		<partID>J2</partID>
 	</oompPartStat>
@@ -28186,8 +30896,23 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14051</owner>
+		<oompID>HEAD-I01-X-PI04-01</oompID>
+		<partID>J4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14051</owner>
 		<oompID>JSTS-02-X-PI02-RS</oompID>
 		<partID>J5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14051</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14051</owner>
+		<oompID>MOSP-SO23-X-A25D-V30</oompID>
+		<partID>Q1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14051</owner>
@@ -28265,6 +30990,16 @@
 		<partID>R16</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-14051</owner>
+		<oompID>BUTA-4632-X-STAN-01</oompID>
+		<partID>S8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14051</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U4</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-14052</owner>
 		<oompID>CAPC-0603-X-UF22D-V10</oompID>
 		<partID>C1</partID>
@@ -28316,6 +31051,16 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14052</owner>
+		<oompID>DIOS-S323-X-A01-V23</oompID>
+		<partID>D5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14052</owner>
+		<oompID>HEAD-I01-X-PI05-01</oompID>
+		<partID>J2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14052</owner>
 		<oompID>JSTS-02-X-PI03-01</oompID>
 		<partID>J5</partID>
 	</oompPartStat>
@@ -28328,6 +31073,11 @@
 		<owner>C-SPAR-14052</owner>
 		<oompID>JSTS-02-X-PI03-01</oompID>
 		<partID>J7</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14052</owner>
+		<oompID>HEAD-I01-X-PI06-01</oompID>
+		<partID>J9</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14052</owner>
@@ -28353,6 +31103,21 @@
 		<owner>C-SPAR-14052</owner>
 		<oompID>RESE-0603-X-O102-67</oompID>
 		<partID>R6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14052</owner>
+		<oompID>BUTA-4632-X-STAN-01</oompID>
+		<partID>SW1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14052</owner>
+		<oompID>BUTA-4632-X-STAN-01</oompID>
+		<partID>SW2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14052</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14063</owner>
@@ -28446,8 +31211,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14063</owner>
+		<oompID>BUTA-4632-X-STAN-01</oompID>
+		<partID>S1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14063</owner>
 		<oompID>BUTA-52D-X-SMDS-01</oompID>
 		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14063</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14129</owner>
@@ -28463,6 +31238,46 @@
 		<owner>C-SPAR-14129</owner>
 		<oompID>CAPC-0603-X-NF100-V25</oompID>
 		<partID>C8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14129</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14129</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14129</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14129</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14129</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14129</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14129</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D7</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14129</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D8</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14129</owner>
@@ -28496,6 +31311,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14129</owner>
+		<oompID>HEAD-I01-X-PI07-01</oompID>
+		<partID>J4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14129</owner>
 		<oompID>HEAD-I01-X-PI06-01</oompID>
 		<partID>J5</partID>
 	</oompPartStat>
@@ -28511,8 +31331,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14129</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14129</owner>
 		<oompID>TERS-35D-X-PI02-01</oompID>
 		<partID>J10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14129</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J15</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14129</owner>
@@ -28596,8 +31426,23 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14130</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14130</owner>
 		<oompID>HEAD-I01-X-PI06-01</oompID>
 		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14130</owner>
+		<oompID>HEAD-I01-X-PI07-01</oompID>
+		<partID>J5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14130</owner>
+		<oompID>TRNN-SO23-X-A06D-V30</oompID>
+		<partID>Q1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14130</owner>
@@ -28645,6 +31490,16 @@
 		<partID>R9</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-14130</owner>
+		<oompID>BUTA-4632-X-STAN-01</oompID>
+		<partID>S3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14130</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U3</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-14153</owner>
 		<oompID>CAPC-0603-X-NF100-V25</oompID>
 		<partID>C1</partID>
@@ -28673,6 +31528,16 @@
 		<owner>C-SPAR-14153</owner>
 		<oompID>CAPC-0603-X-NF100-V25</oompID>
 		<partID>C6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14153</owner>
+		<oompID>HEAD-I01-X-PI03-01</oompID>
+		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14153</owner>
+		<oompID>HEAD-I01-X-PI03-01</oompID>
+		<partID>J5</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14153</owner>
@@ -28816,6 +31681,66 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14155</owner>
+		<oompID>DIOD-I03-X-A01-V50</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14155</owner>
+		<oompID>DIOD-I03-X-A01-V50</oompID>
+		<partID>D2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14155</owner>
+		<oompID>DIOD-I03-X-A01-V50</oompID>
+		<partID>D3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14155</owner>
+		<oompID>DIOD-I03-X-A01-V50</oompID>
+		<partID>D4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14155</owner>
+		<oompID>DIOD-I03-X-A01-V50</oompID>
+		<partID>D5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14155</owner>
+		<oompID>DIOD-I03-X-A01-V50</oompID>
+		<partID>D6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14155</owner>
+		<oompID>DIOD-I03-X-A01-V50</oompID>
+		<partID>D7</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14155</owner>
+		<oompID>DIOD-I03-X-A01-V50</oompID>
+		<partID>D8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14155</owner>
+		<oompID>DIOD-I03-X-A01-V50</oompID>
+		<partID>D9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14155</owner>
+		<oompID>DIOD-I03-X-A01-V50</oompID>
+		<partID>D10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14155</owner>
+		<oompID>DIOD-I03-X-A01-V50</oompID>
+		<partID>D11</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14155</owner>
+		<oompID>DIOD-I03-X-A01-V50</oompID>
+		<partID>D12</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14155</owner>
 		<oompID>TERS-35D-X-PI06-01</oompID>
 		<partID>J1</partID>
 	</oompPartStat>
@@ -28941,8 +31866,23 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14157</owner>
+		<oompID>DIOS-S323-X-A01-V23</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14157</owner>
 		<oompID>LEDS-0603-L-STAN-01</oompID>
 		<partID>D3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14157</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14157</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14157</owner>
@@ -28990,6 +31930,11 @@
 		<partID>R11</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-14157</owner>
+		<oompID>VREG-SO235-X-V33D-A05D</oompID>
+		<partID>U5</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-14180</owner>
 		<oompID>CAPC-0603-X-NF100-V25</oompID>
 		<partID>C1</partID>
@@ -29003,6 +31948,46 @@
 		<owner>C-SPAR-14180</owner>
 		<oompID>CAPC-0603-X-NF100-V25</oompID>
 		<partID>C8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14180</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14180</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14180</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14180</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14180</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14180</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14180</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D7</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14180</owner>
+		<oompID>DIOS-D214-X-A01-V40</oompID>
+		<partID>D8</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14180</owner>
@@ -29036,6 +32021,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14180</owner>
+		<oompID>HEAD-I01-X-PI07-01</oompID>
+		<partID>J4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14180</owner>
 		<oompID>HEAD-I01-X-PI06-01</oompID>
 		<partID>J5</partID>
 	</oompPartStat>
@@ -29051,8 +32041,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14180</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14180</owner>
 		<oompID>TERS-35D-X-PI02-01</oompID>
 		<partID>J10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14180</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J15</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14180</owner>
@@ -29121,6 +32121,16 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14181</owner>
+		<oompID>HEAD-I01-X-PI03-01</oompID>
+		<partID>J2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14181</owner>
+		<oompID>HEAD-I01-X-PI04-01</oompID>
+		<partID>J8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14181</owner>
 		<oompID>RESE-0603-X-O104-67</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -29158,6 +32168,16 @@
 		<owner>C-SPAR-14193</owner>
 		<oompID>CAPC-0603-X-UF1-V16</oompID>
 		<partID>C2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14193</owner>
+		<oompID>HEAD-I01-X-PI03-01</oompID>
+		<partID>J2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14193</owner>
+		<oompID>HEAD-I01-X-PI04-01</oompID>
+		<partID>J8</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14193</owner>
@@ -29216,6 +32236,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14201</owner>
+		<oompID>HEAD-I01-X-PI07-01</oompID>
+		<partID>J6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14201</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J8</partID>
 	</oompPartStat>
@@ -29228,6 +32253,16 @@
 		<owner>C-SPAR-14201</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14201</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14201</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14201</owner>
@@ -29263,6 +32298,11 @@
 		<owner>C-SPAR-14202</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14202</owner>
+		<oompID>HEAD-01-X-PI04-RA</oompID>
+		<partID>J4</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14213</owner>
@@ -29396,8 +32436,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14241</owner>
+		<oompID>HEAD-I01-X-PI03-01</oompID>
+		<partID>J2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14241</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14241</owner>
+		<oompID>HEAD-I01-X-PI04-01</oompID>
+		<partID>J4</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14241</owner>
@@ -29456,8 +32506,23 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14258</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14258</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14258</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>J5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14258</owner>
+		<oompID>HEAD-I01-X-PI04-01</oompID>
+		<partID>J8</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14258</owner>
@@ -29526,6 +32591,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14269</owner>
+		<oompID>HEAD-I01-X-PI04-01</oompID>
+		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14269</owner>
 		<oompID>RESE-0603-X-O394-01</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -29571,6 +32641,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14286</owner>
+		<oompID>HEAD-I01-X-PI07-01</oompID>
+		<partID>J6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14286</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J8</partID>
 	</oompPartStat>
@@ -29583,6 +32658,16 @@
 		<owner>C-SPAR-14286</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14286</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14286</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14286</owner>
@@ -29618,6 +32703,11 @@
 		<owner>C-SPAR-14289</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14289</owner>
+		<oompID>HEAD-I01-X-PI04-01</oompID>
+		<partID>J3</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14289</owner>
@@ -29681,8 +32771,23 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14290</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14290</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14290</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>J5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14290</owner>
+		<oompID>HEAD-I01-X-PI04-01</oompID>
+		<partID>J8</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14290</owner>
@@ -29771,13 +32876,28 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14312</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14312</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14312</owner>
+		<oompID>HEAD-I01-X-PI04-01</oompID>
+		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14312</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14312</owner>
+		<oompID>HEAD-I01-X-PI05-01</oompID>
+		<partID>J7</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14312</owner>
@@ -29871,6 +32991,86 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14328</owner>
+		<oompID>HEAD-I01-X-PI03-01</oompID>
+		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14328</owner>
+		<oompID>HEAD-I01-X-PI03-01</oompID>
+		<partID>J4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14328</owner>
+		<oompID>HEAD-I01-X-PI03-01</oompID>
+		<partID>J5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14328</owner>
+		<oompID>HEAD-I01-X-PI03-01</oompID>
+		<partID>J6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14328</owner>
+		<oompID>HEAD-I01-X-PI03-01</oompID>
+		<partID>J7</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14328</owner>
+		<oompID>HEAD-I01-X-PI03-01</oompID>
+		<partID>J8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14328</owner>
+		<oompID>HEAD-I01-X-PI03-01</oompID>
+		<partID>J9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14328</owner>
+		<oompID>HEAD-I01-X-PI03-01</oompID>
+		<partID>J10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14328</owner>
+		<oompID>HEAD-I01-X-PI03-01</oompID>
+		<partID>J11</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14328</owner>
+		<oompID>HEAD-I01-X-PI03-01</oompID>
+		<partID>J12</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14328</owner>
+		<oompID>HEAD-I01-X-PI03-01</oompID>
+		<partID>J13</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14328</owner>
+		<oompID>HEAD-I01-X-PI03-01</oompID>
+		<partID>J14</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14328</owner>
+		<oompID>HEAD-I01-X-PI03-01</oompID>
+		<partID>J15</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14328</owner>
+		<oompID>HEAD-I01-X-PI03-01</oompID>
+		<partID>J16</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14328</owner>
+		<oompID>HEAD-I01-X-PI03-01</oompID>
+		<partID>J17</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14328</owner>
+		<oompID>HEAD-I01-X-PI03-01</oompID>
+		<partID>J18</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14328</owner>
 		<oompID>RESE-0603-X-O103-67</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -29948,6 +33148,11 @@
 		<owner>C-SPAR-14346</owner>
 		<oompID>CAPC-0603-X-UF47D-V63D</oompID>
 		<partID>C8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14346</owner>
+		<oompID>DIOS-D214-X-A3-V30</oompID>
+		<partID>D1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14346</owner>
@@ -30171,8 +33376,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14346</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14346</owner>
 		<oompID>BUTA-52D-X-SMDS-01</oompID>
 		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14346</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S3</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14346</owner>
@@ -30181,8 +33396,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14346</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14346</owner>
 		<oompID>ICIC-QFP44-X-K32U4-01</oompID>
 		<partID>U5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14346</owner>
+		<oompID>CERE-1263-X-MZ8-01</oompID>
+		<partID>Y1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14347</owner>
@@ -30211,8 +33436,23 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14347</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14347</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14347</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>J5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14347</owner>
+		<oompID>HEAD-I01-X-PI04-01</oompID>
+		<partID>J8</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14347</owner>
@@ -30251,8 +33491,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14348</owner>
+		<oompID>HEAD-I01-X-PI03-01</oompID>
+		<partID>J2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14348</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14348</owner>
+		<oompID>HEAD-I01-X-PI04-01</oompID>
+		<partID>J4</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14348</owner>
@@ -30298,6 +33548,11 @@
 		<owner>C-SPAR-14349</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14349</owner>
+		<oompID>HEAD-I01-X-PI04-01</oompID>
+		<partID>J3</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14349</owner>
@@ -30386,8 +33641,23 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14351</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14351</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14351</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>J5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14351</owner>
+		<oompID>HEAD-I01-X-PI04-01</oompID>
+		<partID>J8</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14351</owner>
@@ -30431,6 +33701,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14352</owner>
+		<oompID>HEAD-I01-X-PI07-01</oompID>
+		<partID>J6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14352</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J8</partID>
 	</oompPartStat>
@@ -30443,6 +33718,16 @@
 		<owner>C-SPAR-14352</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14352</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14352</owner>
+		<oompID>MOSN-SO23-X-A02D-01</oompID>
+		<partID>Q2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14352</owner>
@@ -30488,6 +33773,16 @@
 		<owner>C-SPAR-14380</owner>
 		<oompID>JSTS-02-X-PI02-RS</oompID>
 		<partID>J1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14380</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14380</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J4</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14380</owner>
@@ -30551,13 +33846,28 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14414</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14414</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14414</owner>
+		<oompID>HEAD-I01-X-PI04-01</oompID>
+		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14414</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14414</owner>
+		<oompID>HEAD-I01-X-PI05-01</oompID>
+		<partID>J7</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14414</owner>
@@ -30771,8 +34081,33 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14449</owner>
+		<oompID>LEDS-1206-G-BOTT-01</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14449</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14449</owner>
+		<oompID>HEAD-I01-X-PI16-01</oompID>
+		<partID>J2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14449</owner>
 		<oompID>TERS-35D-X-PI02-01</oompID>
 		<partID>J4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14449</owner>
+		<oompID>HEAD-I01-X-PI05-01</oompID>
+		<partID>J5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14449</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J6</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14449</owner>
@@ -30845,6 +34180,11 @@
 		<partID>R19</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-14449</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U2</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-14450</owner>
 		<oompID>CAPC-0402-X-NF100-V16</oompID>
 		<partID>C1</partID>
@@ -30891,6 +34231,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14459</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14459</owner>
 		<oompID>HEAD-I01-X-PI04-01</oompID>
 		<partID>J3</partID>
 	</oompPartStat>
@@ -30918,6 +34263,16 @@
 		<owner>C-SPAR-14459</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14459</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J12</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14459</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14475</owner>
@@ -30998,6 +34353,11 @@
 		<owner>C-SPAR-14477</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14477</owner>
+		<oompID>HEAD-01-X-PI04-RA</oompID>
+		<partID>J4</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14480</owner>
@@ -31136,6 +34496,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14484</owner>
+		<oompID>DIOS-S323-X-A01-V23</oompID>
+		<partID>D6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14484</owner>
 		<oompID>LEDS-0603-R-STAN-01</oompID>
 		<partID>D7</partID>
 	</oompPartStat>
@@ -31148,6 +34513,11 @@
 		<owner>C-SPAR-14484</owner>
 		<oompID>LEDS-0603-R-STAN-01</oompID>
 		<partID>D11</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14484</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14484</owner>
@@ -31225,6 +34595,26 @@
 		<partID>R23</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-14484</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14484</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14484</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14484</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S4</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-14495</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J1</partID>
@@ -31253,6 +34643,16 @@
 		<owner>C-SPAR-14520</owner>
 		<oompID>HEAD-I01-X-PI04-01</oompID>
 		<partID>J1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14520</owner>
+		<oompID>LEDS-1206-G-BOTT-01</oompID>
+		<partID>LED1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14520</owner>
+		<oompID>TRNN-SO23-X-A06D-V30</oompID>
+		<partID>Q1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14520</owner>
@@ -31301,8 +34701,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14528</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14528</owner>
 		<oompID>BUTA-52D-X-SMDS-01</oompID>
 		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14528</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S3</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14531</owner>
@@ -31333,6 +34743,11 @@
 		<owner>C-SPAR-14531</owner>
 		<oompID>CAPC-0603-X-PF22-V50</oompID>
 		<partID>C7</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14531</owner>
+		<oompID>DIOS-D214-X-A3-V30</oompID>
+		<partID>D1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14531</owner>
@@ -31451,6 +34866,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14532</owner>
+		<oompID>HEAD-I01-X-PI04-01</oompID>
+		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14532</owner>
 		<oompID>RESE-0603-X-O394-01</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -31561,8 +34981,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14546</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14546</owner>
 		<oompID>BUTA-52D-X-SMDS-01</oompID>
 		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14546</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S3</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14554</owner>
@@ -31661,8 +35091,43 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14554</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14554</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14554</owner>
+		<oompID>HEAD-I01-X-PI05-01</oompID>
+		<partID>J6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14554</owner>
 		<oompID>HEAD-I01-X-PI04-01</oompID>
 		<partID>J7</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14554</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14554</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14554</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14554</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J11</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14554</owner>
@@ -31825,6 +35290,16 @@
 		<partID>U1</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-14554</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14554</owner>
+		<oompID>CERE-1263-X-MZ8-01</oompID>
+		<partID>Y2</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-14558</owner>
 		<oompID>CAPC-0603-X-PF47-V50</oompID>
 		<partID>C2</partID>
@@ -31853,6 +35328,11 @@
 		<owner>C-SPAR-14558</owner>
 		<oompID>HEAD-I01-X-PI04-01</oompID>
 		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14558</owner>
+		<oompID>HEAD-I01-X-PI03-01</oompID>
+		<partID>J4</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14558</owner>
@@ -31966,8 +35446,33 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14586</owner>
+		<oompID>HEAD-01-X-PI04-RA</oompID>
+		<partID>J2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14586</owner>
+		<oompID>HEAD-I01-X-PI04-01</oompID>
+		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14586</owner>
+		<oompID>HEAD-01-X-PI04-RA</oompID>
+		<partID>J4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14586</owner>
 		<oompID>HEAD-I01-X-PI08-01</oompID>
 		<partID>J6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14586</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J7</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14586</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J8</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14586</owner>
@@ -32076,6 +35581,16 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14606</owner>
+		<oompID>DIOS-S323-X-A01-V23</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14606</owner>
+		<oompID>HEAD-I01-X-PI06-01</oompID>
+		<partID>J2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14606</owner>
 		<oompID>RESE-0603-X-O473-67</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -32083,6 +35598,11 @@
 		<owner>C-SPAR-14606</owner>
 		<oompID>RESE-0603-X-O562-01</oompID>
 		<partID>R2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14606</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14618</owner>
@@ -32121,8 +35641,33 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14618</owner>
+		<oompID>HEAD-01-X-PI04-RA</oompID>
+		<partID>J2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14618</owner>
+		<oompID>HEAD-I01-X-PI04-01</oompID>
+		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14618</owner>
+		<oompID>HEAD-01-X-PI04-RA</oompID>
+		<partID>J4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14618</owner>
 		<oompID>HEAD-I01-X-PI08-01</oompID>
 		<partID>J6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14618</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J7</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14618</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J8</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14618</owner>
@@ -32213,6 +35758,11 @@
 		<owner>C-SPAR-14631</owner>
 		<oompID>CAPC-0603-X-UF47D-V63D</oompID>
 		<partID>C8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14631</owner>
+		<oompID>DIOS-D214-X-A3-V30</oompID>
+		<partID>D1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14631</owner>
@@ -32346,13 +35896,28 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14631</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14631</owner>
 		<oompID>BUTA-52D-X-SMDS-01</oompID>
 		<partID>S2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14631</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14631</owner>
 		<oompID>ICIC-QFP44-X-K32U4-01</oompID>
 		<partID>U5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14631</owner>
+		<oompID>CERE-1263-X-MZ8-01</oompID>
+		<partID>Y1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14641</owner>
@@ -32386,8 +35951,28 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14641</owner>
+		<oompID>HEAD-I01-X-PI04-01</oompID>
+		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14641</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14641</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>J5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14641</owner>
+		<oompID>HEAD-I01-X-PI06-01</oompID>
+		<partID>J6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14641</owner>
+		<oompID>CERE-1263-X-MZ16-01</oompID>
+		<partID>Q1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14641</owner>
@@ -32446,6 +36031,16 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14666</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14666</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14666</owner>
 		<oompID>RESE-0603-X-O472-67</oompID>
 		<partID>R1</partID>
 	</oompPartStat>
@@ -32491,6 +36086,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14667</owner>
+		<oompID>HEAD-I01-X-PI04-01</oompID>
+		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14667</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J4</partID>
 	</oompPartStat>
@@ -32526,6 +36126,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14668</owner>
+		<oompID>DIOS-S323-X-A01-V23</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14668</owner>
 		<oompID>LEDS-0603-L-STAN-01</oompID>
 		<partID>D2</partID>
 	</oompPartStat>
@@ -32551,8 +36156,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14668</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>J4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14668</owner>
 		<oompID>TERS-05-X-PI03-01</oompID>
 		<partID>J5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14668</owner>
+		<oompID>TRNN-SO23-X-A06D-V30</oompID>
+		<partID>Q4</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14668</owner>
@@ -32691,6 +36306,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14682</owner>
+		<oompID>DIOS-S323-X-A01-V23</oompID>
+		<partID>D2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14682</owner>
 		<oompID>LEDS-0603-L-STAN-01</oompID>
 		<partID>D3</partID>
 	</oompPartStat>
@@ -32703,6 +36323,26 @@
 		<owner>C-SPAR-14682</owner>
 		<oompID>LEDS-0603-R-STAN-01</oompID>
 		<partID>D5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14682</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14682</owner>
+		<oompID>MOSP-SO23-X-A25D-V30</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14682</owner>
+		<oompID>TRNN-SO23-X-A06D-V30</oompID>
+		<partID>Q2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14682</owner>
+		<oompID>TRNN-SO23-X-A06D-V30</oompID>
+		<partID>Q3</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14682</owner>
@@ -32805,6 +36445,11 @@
 		<partID>S1</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-14682</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U3</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-14685</owner>
 		<oompID>CAPC-0603-X-NF100-V25</oompID>
 		<partID>C1</partID>
@@ -32858,6 +36503,11 @@
 		<owner>C-SPAR-14685</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14685</owner>
+		<oompID>HEAD-01-X-PI04-RA</oompID>
+		<partID>J2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14685</owner>
@@ -33046,8 +36696,33 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14686</owner>
+		<oompID>HEAD-01-X-PI04-RA</oompID>
+		<partID>J2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14686</owner>
+		<oompID>HEAD-I01-X-PI04-01</oompID>
+		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14686</owner>
+		<oompID>HEAD-01-X-PI04-RA</oompID>
+		<partID>J4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14686</owner>
 		<oompID>HEAD-I01-X-PI08-01</oompID>
 		<partID>J6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14686</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J7</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14686</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J8</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14686</owner>
@@ -33131,6 +36806,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14689</owner>
+		<oompID>DIOS-S323-X-A01-V23</oompID>
+		<partID>D2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14689</owner>
 		<oompID>LEDS-0603-L-STAN-01</oompID>
 		<partID>D3</partID>
 	</oompPartStat>
@@ -33138,6 +36818,11 @@
 		<owner>C-SPAR-14689</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14689</owner>
+		<oompID>MOSP-SO23-X-A25D-V30</oompID>
+		<partID>Q1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14689</owner>
@@ -33185,6 +36870,21 @@
 		<partID>R18</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-14689</owner>
+		<oompID>BUTA-4632-X-STAN-01</oompID>
+		<partID>S1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14689</owner>
+		<oompID>BUTA-4632-X-STAN-01</oompID>
+		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14689</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U3</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-14690</owner>
 		<oompID>CAPC-0603-X-UF22D-V10</oompID>
 		<partID>C1</partID>
@@ -33203,6 +36903,11 @@
 		<owner>C-SPAR-14690</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14690</owner>
+		<oompID>HEAD-I01-X-PI04-01</oompID>
+		<partID>J3</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14690</owner>
@@ -33286,6 +36991,16 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14691</owner>
+		<oompID>DIOS-S323-X-A01-V23</oompID>
+		<partID>D2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14691</owner>
+		<oompID>HEAD-I01-X-PI04-01</oompID>
+		<partID>J2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14691</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J3</partID>
 	</oompPartStat>
@@ -33331,6 +37046,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14712</owner>
+		<oompID>DIOS-S323-X-A01-V23</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14712</owner>
 		<oompID>LEDS-0603-L-STAN-01</oompID>
 		<partID>D2</partID>
 	</oompPartStat>
@@ -33356,8 +37076,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14712</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>J4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14712</owner>
 		<oompID>TERS-05-X-PI03-01</oompID>
 		<partID>J5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14712</owner>
+		<oompID>TRNN-SO23-X-A06D-V30</oompID>
+		<partID>Q4</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14712</owner>
@@ -33416,6 +37146,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14722</owner>
+		<oompID>HEAD-I01-X-PI04-01</oompID>
+		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14722</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J4</partID>
 	</oompPartStat>
@@ -33458,6 +37193,11 @@
 		<owner>C-SPAR-14748</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14748</owner>
+		<oompID>HEAD-I01-X-PI04-01</oompID>
+		<partID>J3</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14748</owner>
@@ -33576,6 +37316,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14768</owner>
+		<oompID>HEAD-I01-X-PI04-01</oompID>
+		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14768</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J4</partID>
 	</oompPartStat>
@@ -33616,6 +37361,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14769</owner>
+		<oompID>HEAD-I01-X-PI04-01</oompID>
+		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14769</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J4</partID>
 	</oompPartStat>
@@ -33648,6 +37398,11 @@
 		<owner>C-SPAR-14809</owner>
 		<oompID>TERS-35D-X-PI02-01</oompID>
 		<partID>J1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14809</owner>
+		<oompID>HEAD-I01-X-PI07-01</oompID>
+		<partID>J2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14809</owner>
@@ -33731,6 +37486,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14812</owner>
+		<oompID>DIOS-S323-X-A01-V23</oompID>
+		<partID>D1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14812</owner>
 		<oompID>LEDS-0603-Y-STAN-01</oompID>
 		<partID>D2</partID>
 	</oompPartStat>
@@ -33761,6 +37521,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14812</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14812</owner>
 		<oompID>JSTS-02-X-PI02-01</oompID>
 		<partID>J1</partID>
 	</oompPartStat>
@@ -33768,6 +37533,11 @@
 		<owner>C-SPAR-14812</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14812</owner>
+		<oompID>MOSP-SO23-X-A25D-V30</oompID>
+		<partID>Q1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14812</owner>
@@ -33825,6 +37595,11 @@
 		<partID>R12</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-14812</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U3</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-14843</owner>
 		<oompID>CAPC-0603-X-NF100-V25</oompID>
 		<partID>C1</partID>
@@ -33843,6 +37618,11 @@
 		<owner>C-SPAR-14843</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14843</owner>
+		<oompID>HEAD-I01-X-PI04-01</oompID>
+		<partID>J3</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14843</owner>
@@ -33883,6 +37663,11 @@
 		<owner>C-SPAR-14844</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14844</owner>
+		<oompID>HEAD-I01-X-PI04-01</oompID>
+		<partID>J3</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14844</owner>
@@ -33943,6 +37728,11 @@
 		<owner>C-SPAR-14874</owner>
 		<oompID>CAPC-0603-X-NF100-V25</oompID>
 		<partID>C10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14874</owner>
+		<oompID>HEAD-I01-X-PI09-01</oompID>
+		<partID>J1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14874</owner>
@@ -34156,6 +37946,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14916</owner>
+		<oompID>DIOS-S323-X-A01-V23</oompID>
+		<partID>D3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14916</owner>
 		<oompID>LEDS-0603-L-STAN-01</oompID>
 		<partID>D4</partID>
 	</oompPartStat>
@@ -34163,6 +37958,11 @@
 		<owner>C-SPAR-14916</owner>
 		<oompID>LEDS-0603-Y-STAN-01</oompID>
 		<partID>D6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14916</owner>
+		<oompID>REFU-1206-X-A05D-V8</oompID>
+		<partID>F1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14916</owner>
@@ -34176,8 +37976,33 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14916</owner>
+		<oompID>HEAD-I01-X-PI09-01</oompID>
+		<partID>J5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14916</owner>
 		<oompID>HEAD-I01-X-PI10-01</oompID>
 		<partID>J6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14916</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J7</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14916</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14916</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14916</owner>
+		<oompID>HEAD-I01-X-PI09-01</oompID>
+		<partID>J11</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14916</owner>
@@ -34186,8 +38011,18 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14916</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J13</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14916</owner>
 		<oompID>LEDS-0603-R-STAN-01</oompID>
 		<partID>LED1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14916</owner>
+		<oompID>MOSP-SO23-X-A25D-V30</oompID>
+		<partID>Q1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14916</owner>
@@ -34243,6 +38078,11 @@
 		<owner>C-SPAR-14916</owner>
 		<oompID>RESE-0603-X-O102-67</oompID>
 		<partID>R13</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14916</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U6</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14965</owner>
@@ -34745,6 +38585,11 @@
 		<partID>D40</partID>
 	</oompPartStat>
 	<oompPartStat>
+		<owner>C-SPAR-14968</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S3</partID>
+	</oompPartStat>
+	<oompPartStat>
 		<owner>C-SPAR-14980</owner>
 		<oompID>CAPC-0603-X-PF47-V50</oompID>
 		<partID>C1</partID>
@@ -34786,13 +38631,28 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14980</owner>
+		<oompID>HEAD-I01-X-PI07-01</oompID>
+		<partID>J1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14980</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14980</owner>
+		<oompID>HEAD-I01-X-PI04-01</oompID>
+		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14980</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14980</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J13</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14980</owner>
@@ -34873,6 +38733,11 @@
 		<owner>C-SPAR-14980</owner>
 		<oompID>RESE-0603-X-O104-67</oompID>
 		<partID>R15</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14980</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14997</owner>
@@ -34971,6 +38836,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14997</owner>
+		<oompID>DIOS-S323-X-A01-V23</oompID>
+		<partID>D3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14997</owner>
 		<oompID>LEDS-0603-R-STAN-01</oompID>
 		<partID>D4</partID>
 	</oompPartStat>
@@ -34988,6 +38858,46 @@
 		<owner>C-SPAR-14997</owner>
 		<oompID>JSTS-01-X-PI04-RS</oompID>
 		<partID>J3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14997</owner>
+		<oompID>HEAD-I01-X-PI06-01</oompID>
+		<partID>J5</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14997</owner>
+		<oompID>HEAD-I01-X-PI03-01</oompID>
+		<partID>J6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14997</owner>
+		<oompID>HEAD-I01-X-PI03-01</oompID>
+		<partID>J7</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14997</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14997</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14997</owner>
+		<oompID>HEAD-I01-X-PI02-01</oompID>
+		<partID>J11</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14997</owner>
+		<oompID>MOSP-SO23-X-A25D-V30</oompID>
+		<partID>Q1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14997</owner>
+		<oompID>TRNN-SO23-X-A06D-V30</oompID>
+		<partID>Q2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14997</owner>
@@ -35026,6 +38936,16 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-14997</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14997</owner>
+		<oompID>SWIS-7135-X-DPDT-01</oompID>
+		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14997</owner>
 		<oompID>BUTA-52D-X-SMDS-01</oompID>
 		<partID>S3</partID>
 	</oompPartStat>
@@ -35033,6 +38953,11 @@
 		<owner>C-SPAR-14997</owner>
 		<oompID>BUTA-52D-X-SMDS-01</oompID>
 		<partID>S4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-14997</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-15000</owner>
@@ -35061,8 +38986,23 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-15000</owner>
+		<oompID>DIOD-S323-X-A015D-V75</oompID>
+		<partID>D3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-15000</owner>
+		<oompID>HEAD-I01-X-PI06-01</oompID>
+		<partID>J1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-15000</owner>
 		<oompID>HEAD-I01-X-PI08-01</oompID>
 		<partID>J2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-15000</owner>
+		<oompID>TRNN-SO23-X-A06D-V30</oompID>
+		<partID>Q1</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-SPAR-15000</owner>
@@ -35103,6 +39043,21 @@
 		<owner>C-SPAR-15000</owner>
 		<oompID>RESE-0603-X-O103-67</oompID>
 		<partID>R8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-15000</owner>
+		<oompID>BUTA-4632-X-STAN-01</oompID>
+		<partID>S1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-15000</owner>
+		<oompID>BUTA-4632-X-STAN-01</oompID>
+		<partID>S2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-SPAR-15000</owner>
+		<oompID>VREG-SO235-X-V33D-A06D</oompID>
+		<partID>U3</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-ARDU-00001</owner>
@@ -35161,6 +39116,21 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-ARDU-00001</owner>
+		<oompID>HEAF-I01-X-PI08-01</oompID>
+		<partID>GROUND</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ARDU-00001</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>ICSP</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ARDU-00001</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>ICSP1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ARDU-00001</owner>
 		<oompID>LEDS-0805-Y-STAN-01</oompID>
 		<partID>L</partID>
 	</oompPartStat>
@@ -35193,6 +39163,11 @@
 		<owner>C-ARDU-00001</owner>
 		<oompID>RESE-0603-X-O105-01</oompID>
 		<partID>R2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ARDU-00001</owner>
+		<oompID>HEAF-I01-X-PI08-01</oompID>
+		<partID>RESET-EN</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-ARDU-00001</owner>
@@ -35278,6 +39253,11 @@
 		<owner>C-ARDU-00002</owner>
 		<oompID>CAPC-0603-X-NF100-V50</oompID>
 		<partID>C22</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ARDU-00002</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>ICSP</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-ARDU-00002</owner>
@@ -35396,6 +39376,21 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-ARDU-00005</owner>
+		<oompID>HEAF-I01-X-PI08-01</oompID>
+		<partID>GROUND</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ARDU-00005</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>ICSP</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ARDU-00005</owner>
+		<oompID>HEAD-I01-X-PI2X03-01</oompID>
+		<partID>ICSP1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ARDU-00005</owner>
 		<oompID>LEDS-0805-Y-STAN-01</oompID>
 		<partID>L</partID>
 	</oompPartStat>
@@ -35431,6 +39426,11 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-ARDU-00005</owner>
+		<oompID>HEAF-I01-X-PI08-01</oompID>
+		<partID>RESET-EN</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ARDU-00005</owner>
 		<oompID>LEDS-0805-Y-STAN-01</oompID>
 		<partID>RX</partID>
 	</oompPartStat>
@@ -35438,6 +39438,11 @@
 		<owner>C-ARDU-00005</owner>
 		<oompID>LEDS-0805-Y-STAN-01</oompID>
 		<partID>TX</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ARDU-00005</owner>
+		<oompID>HEAF-I01-X-PI08-01</oompID>
+		<partID>X2</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-DANP-00001</owner>
@@ -35856,6 +39861,46 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-ADAF-01312</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01312</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01312</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01312</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01312</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01312</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01312</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01312</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C12</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01312</owner>
 		<oompID>LEDS-5050-X-K2811-01</oompID>
 		<partID>LED1</partID>
 	</oompPartStat>
@@ -35971,6 +40016,46 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-ADAF-01426</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01426</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01426</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01426</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01426</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01426</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01426</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01426</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C12</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01426</owner>
 		<oompID>LEDS-5050-X-K2811-01</oompID>
 		<partID>LED1</partID>
 	</oompPartStat>
@@ -36031,6 +40116,46 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-ADAF-01430</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01430</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01430</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01430</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01430</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01430</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01430</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01430</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C12</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01430</owner>
 		<oompID>LEDS-5050-X-K2811-01</oompID>
 		<partID>LED1</partID>
 	</oompPartStat>
@@ -36088,6 +40213,46 @@
 		<owner>C-ADAF-01430</owner>
 		<oompID>LEDS-5050-X-K2811-01</oompID>
 		<partID>LED12</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01463</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01463</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01463</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01463</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01463</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01463</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01463</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01463</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C12</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-ADAF-01463</owner>
@@ -36208,6 +40373,46 @@
 		<owner>C-ADAF-01469</owner>
 		<oompID>RESE-0805-X-O103-01</oompID>
 		<partID>R3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01487</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01487</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01487</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01487</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01487</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01487</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01487</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01487</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C12</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-ADAF-01487</owner>
@@ -36511,6 +40716,46 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-ADAF-01558</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01558</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01558</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01558</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01558</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01558</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01558</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01558</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C12</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01558</owner>
 		<oompID>LEDS-5050-X-K2811-01</oompID>
 		<partID>LED1</partID>
 	</oompPartStat>
@@ -36568,6 +40813,46 @@
 		<owner>C-ADAF-01558</owner>
 		<oompID>LEDS-5050-X-K2811-01</oompID>
 		<partID>LED12</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01586</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01586</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01586</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01586</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01586</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01586</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01586</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01586</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C12</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-ADAF-01586</owner>
@@ -36873,6 +41158,46 @@
 		<owner>C-ADAF-01628</owner>
 		<oompID>RESE-0805-X-O221-01</oompID>
 		<partID>R10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01643</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01643</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01643</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01643</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01643</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01643</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01643</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01643</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C12</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-ADAF-01643</owner>
@@ -37343,6 +41668,46 @@
 		<owner>C-ADAF-01758</owner>
 		<oompID>LEDS-1206-X-STAN-01</oompID>
 		<partID>LED1</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01768</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01768</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01768</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01768</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01768</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01768</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01768</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-01768</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C12</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-ADAF-01768</owner>
@@ -38641,6 +43006,46 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-ADAF-02858</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-02858</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-02858</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-02858</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-02858</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-02858</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-02858</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-02858</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C12</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-02858</owner>
 		<oompID>LEDS-5050-X-K2811-01</oompID>
 		<partID>LED1</partID>
 	</oompPartStat>
@@ -38701,6 +43106,46 @@
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-ADAF-02859</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-02859</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-02859</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-02859</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-02859</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-02859</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-02859</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-02859</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C12</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-02859</owner>
 		<oompID>LEDS-5050-X-K2811-01</oompID>
 		<partID>LED1</partID>
 	</oompPartStat>
@@ -38758,6 +43203,46 @@
 		<owner>C-ADAF-02859</owner>
 		<oompID>LEDS-5050-X-K2811-01</oompID>
 		<partID>LED12</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-02860</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C2</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-02860</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C3</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-02860</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C4</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-02860</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C6</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-02860</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C8</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-02860</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C9</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-02860</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C10</partID>
+	</oompPartStat>
+	<oompPartStat>
+		<owner>C-ADAF-02860</owner>
+		<oompID>LEDS-5050-RGB-K2811-01</oompID>
+		<partID>C12</partID>
 	</oompPartStat>
 	<oompPartStat>
 		<owner>C-ADAF-02860</owner>
