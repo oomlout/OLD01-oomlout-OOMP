@@ -1,0 +1,364 @@
+<xml>
+<oompProject>
+	<oompID>SEEE-00050</oompID>
+	<name>Grove - Mega shield v1.1</name>
+	<hexID>SEEE00050</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout></oompAbout>
+	<oompOfficialLink></oompOfficialLink>
+	<company>SEEED Studios</company>
+	<companyCode>C-SEEE</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>47</numComponents>
+	<numOompComponents>3</numOompComponents>
+	<oompCompletion>6</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  eagleValue: 2.54 female 6p  eagleDevice: HEADER-6P-LEADED-2.54  eaglePackage: 6P-2.54-LEADED</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>J3</compIden>
+		<compID>NOT OOMP  eagleValue: 2.54 female 8p  eagleDevice: HEADER-8P-2.54-LEADED  eaglePackage: 8P-2.54-LEADED</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>J4</compIden>
+		<compID>NOT OOMP  eagleValue: 2.54 female 8p  eagleDevice: HEADER-8P-2.54-LEADED  eaglePackage: 8P-2.54-LEADED</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>J5</compIden>
+		<compID>NOT OOMP  eagleValue: 2.54 female 8p  eagleDevice: HEADER-8P-2.54-LEADED  eaglePackage: 8P-2.54-LEADED</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>J6</compIden>
+		<compID>NOT OOMP  eagleValue: 2.54 female 8p  eagleDevice: HEADER-8P-2.54-LEADED  eaglePackage: 8P-2.54-LEADED</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>J7</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TWIG-2.0-LEADED'90D'  eaglePackage: 4P-LEADED-2.0-90</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>J8</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TWIG-2.0-LEADED  eaglePackage: 4P-LEADED-2.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>J9</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TWIG-2.0-LEADED  eaglePackage: 4P-LEADED-2.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>J10</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TWIG-2.0-LEADED  eaglePackage: 4P-LEADED-2.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>J11</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TWIG-2.0-LEADED  eaglePackage: 4P-LEADED-2.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>J12</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TWIG-2.0-LEADED  eaglePackage: 4P-LEADED-2.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>J13</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TWIG-2.0-LEADED  eaglePackage: 4P-LEADED-2.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>J14</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TWIG-2.0-LEADED'90D'  eaglePackage: 4P-LEADED-2.0-90</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>J15</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TWIG-2.0-LEADED'90D'  eaglePackage: 4P-LEADED-2.0-90</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>J16</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TWIG-2.0-LEADED'90D'  eaglePackage: 4P-LEADED-2.0-90</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>J17</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TWIG-2.0-LEADED'90D'  eaglePackage: 4P-LEADED-2.0-90</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>J18</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TWIG-2.0-LEADED  eaglePackage: 4P-LEADED-2.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>J19</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TWIG-2.0-LEADED  eaglePackage: 4P-LEADED-2.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>J20</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TWIG-2.0-LEADED  eaglePackage: 4P-LEADED-2.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>J21</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TWIG-2.0-LEADED  eaglePackage: 4P-LEADED-2.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>J22</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TWIG-2.0-LEADED  eaglePackage: 4P-LEADED-2.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>J23</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TWIG-2.0-LEADED  eaglePackage: 4P-LEADED-2.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>J24</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TWIG-2.0-LEADED  eaglePackage: 4P-LEADED-2.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>J25</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TWIG-2.0-LEADED  eaglePackage: 4P-LEADED-2.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>J26</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: HEADER-12P-2.54  eaglePackage: 12P-2.54-LEADED</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>J27</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: HEADER-12P-2.54  eaglePackage: 12P-2.54-LEADED</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>J28</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: HEADER-12P-2.54  eaglePackage: 12P-2.54-LEADED</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>29</compIndex>
+		<compIden>J29</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TWIG-2.0-LEADED  eaglePackage: 4P-LEADED-2.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>30</compIndex>
+		<compIden>J30</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TWIG-2.0-LEADED  eaglePackage: 4P-LEADED-2.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>31</compIndex>
+		<compIden>J43</compIden>
+		<compID>NOT OOMP  eagleValue: 2.54 female 8p  eagleDevice: HEADER-8P-2.54-LEADED  eaglePackage: 8P-2.54-LEADED</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>32</compIndex>
+		<compIden>P1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK'ANNULAR'  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>33</compIndex>
+		<compIden>P2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK'ANNULAR'  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>34</compIndex>
+		<compIden>P3</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK'ANNULAR'  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>35</compIndex>
+		<compIden>P4</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK'ANNULAR'  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>36</compIndex>
+		<compIden>P5</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK'ANNULAR'  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>37</compIndex>
+		<compIden>P6</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK'ANNULAR'  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>38</compIndex>
+		<compIden>P7</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK'ANNULAR'  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>39</compIndex>
+		<compIden>P8</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK'ANNULAR'  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>40</compIndex>
+		<compIden>P9</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK'ANNULAR'  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>41</compIndex>
+		<compIden>P10</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK'ANNULAR'  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>42</compIndex>
+		<compIden>P11</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK'ANNULAR'  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>43</compIndex>
+		<compIden>P12</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK'ANNULAR'  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>44</compIndex>
+		<compIden>PWR</compIden>
+		<compID>NOT OOMP  eagleValue: Green  eagleDevice: LED-0603  eaglePackage: D0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>45</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0402-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>46</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0402-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>47</compIndex>
+		<compIden>RST</compIden>
+		<compID>NOT OOMP  eagleValue: RED  eagleDevice: LED-0603  eaglePackage: D0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>SEEED Studios</company>
+		<companyCode>C-SEEE</companyCode>
+		<name>Grove - Mega shield v1.1</name>
+		<partID>50</partID>
+		<link></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

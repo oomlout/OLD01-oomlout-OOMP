@@ -1,0 +1,91 @@
+<xml>
+<oompProject>
+	<oompID>SEEE-00103</oompID>
+	<name>touch</name>
+	<hexID>SEEE00103</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout></oompAbout>
+	<oompOfficialLink></oompOfficialLink>
+	<company>SEEED Studios</company>
+	<companyCode>C-SEEE</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>8</numComponents>
+	<numOompComponents>3</numOompComponents>
+	<oompCompletion>38</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-PF27-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  eagleValue: LED0603  eagleDevice: LED0603  eaglePackage: LED0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>J2</compIden>
+		<compID>NOT OOMP  eagleValue: TWIG_2.0  eagleDevice: TWIG_2.0  eaglePackage: 2.0_1X4</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>P1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD'D450MIL'  eaglePackage: 1P-D450</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>TWIG1</compIden>
+		<compID>NOT OOMP  eagleValue: U1N  eagleDevice: U1N  eaglePackage: U1N</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: TTP223  eagleDevice: TTP223  eaglePackage: SOT23-6L</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>SEEED Studios</company>
+		<companyCode>C-SEEE</companyCode>
+		<name>touch</name>
+		<partID>103</partID>
+		<link></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

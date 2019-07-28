@@ -1,0 +1,140 @@
+<xml>
+<oompProject>
+	<oompID>SEEE-00052</oompID>
+	<name>Grove - MOSFET </name>
+	<hexID>SEEE00052</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout></oompAbout>
+	<oompOfficialLink></oompOfficialLink>
+	<company>SEEED Studios</company>
+	<companyCode>C-SEEE</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>15</numComponents>
+	<numOompComponents>3</numOompComponents>
+	<oompCompletion>20</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  eagleValue: 1N4148  eagleDevice: D'1N4148-SMD'  eaglePackage: DO-35-SMD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>D2</compIden>
+		<compID>NOT OOMP  eagleValue: SS0520-7-F  eagleDevice: D'1206'  eaglePackage: SOD123</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>D3</compIden>
+		<compID>NOT OOMP  eagleValue: SS54B  eagleDevice: D'MBRS240LT3'  eaglePackage: SMB</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SCREW-TERMINAL-2P'5.0-10.6X10X14.8H'  eaglePackage: 2P-5.0-10.6X10X14.8H</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>J2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TWIG-4P-2.0-2.0  eaglePackage: 4P-2.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>J3</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SCREW-TERMINAL-2P'5.0-10.6X10X14.8H'  eaglePackage: 2P-5.0-10.6X10X14.8H</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>P1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>P2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>P3</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>P4</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  eagleValue: CJQ4435  eagleDevice: MOSFET-P'TPC8127'  eaglePackage: SOP8</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>Q2</compIden>
+		<compID>NOT OOMP  eagleValue: S9013  eagleDevice: TRANSISTOR-NPN-SOT23  eaglePackage: SOT23</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O104-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>SEEED Studios</company>
+		<companyCode>C-SEEE</companyCode>
+		<name>Grove - MOSFET </name>
+		<partID>52</partID>
+		<link></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

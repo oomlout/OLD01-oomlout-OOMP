@@ -1,0 +1,238 @@
+<xml>
+<oompProject>
+	<oompID>SEEE-00078</oompID>
+	<name>Mesh Bee v1.0</name>
+	<hexID>SEEE00078</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout></oompAbout>
+	<oompOfficialLink></oompOfficialLink>
+	<company>SEEED Studios</company>
+	<companyCode>C-SEEE</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>29</numComponents>
+	<numOompComponents>16</numOompComponents>
+	<oompCompletion>55</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>ANT1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: 2.4G-ANT  eaglePackage: 2.4G-ANT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0402-X-PF15-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0402-X-PF15-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0603-X-UF10-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C15</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C20</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C21</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>C22</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>C23</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>C24</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>C25</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>C27</compIden>
+		<compID>CAPC-0402-X-PF47-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>C28</compIden>
+		<compID>CAPC-0402-X-PF47-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>C29</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>L8</compIden>
+		<compID>NOT OOMP  eagleValue: 3.9nH  eagleDevice: L'0402'  eaglePackage: L0402</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>L9</compIden>
+		<compID>NOT OOMP  eagleValue: 5.1nH  eagleDevice: L'0402'  eaglePackage: L0402</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>P1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>P2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>P3</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>P4</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>R12</compIden>
+		<compID>NOT OOMP  eagleValue: 43k_1%  eagleDevice: R-0402  eaglePackage: R0402</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TEMPLATE_SHIELDING-COVER  eaglePackage: TEMPLATE_SHIELDING-COVER-20.6X18.5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: RFBEE_EXT_MOUDLE_CCBEE_PRO  eagleDevice: RFBEE_EXT_MOUDLE_CCBEE_PRO  eaglePackage: RFBEE_EXT_MOUDLE_CCBEE-PRO</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>U3</compIden>
+		<compID>NOT OOMP  eagleValue: JN5168  eagleDevice: JN5168  eaglePackage: HVQFN40</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>U4</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: W25X80  eaglePackage: WSON8</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>29</compIndex>
+		<compIden>X1</compIden>
+		<compID>NOT OOMP  eagleValue: 32MHz  eagleDevice: CRYSTAL'3225'  eaglePackage: 4P-SMD-3.2X2.5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>SEEED Studios</company>
+		<companyCode>C-SEEE</companyCode>
+		<name>Mesh Bee v1.0</name>
+		<partID>78</partID>
+		<link></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

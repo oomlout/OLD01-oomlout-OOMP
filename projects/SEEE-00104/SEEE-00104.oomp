@@ -1,0 +1,91 @@
+<xml>
+<oompProject>
+	<oompID>SEEE-00104</oompID>
+	<name>Twig Hall Sensor v0.9b</name>
+	<hexID>SEEE00104</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout></oompAbout>
+	<oompOfficialLink></oompOfficialLink>
+	<company>SEEED Studios</company>
+	<companyCode>C-SEEE</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>8</numComponents>
+	<numOompComponents>2</numOompComponents>
+	<oompCompletion>25</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  eagleValue: RED  eagleDevice: LED-0603  eaglePackage: D0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  eagleValue: TWIG  eagleDevice: TWIG-2.0-LEADED-2.0  eaglePackage: 4P-LEADED-2.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>MARK1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-0.635</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>MARK2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-0.635</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: A1101  eagleDevice: A1101  eaglePackage: SOT-23W</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: TWIG-1U  eaglePackage: 1U-DIM-W/-DRILL</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>SEEED Studios</company>
+		<companyCode>C-SEEE</companyCode>
+		<name>Twig Hall Sensor v0.9b</name>
+		<partID>104</partID>
+		<link></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

@@ -1,0 +1,476 @@
+<xml>
+<oompProject>
+	<oompID>SEEE-00090</oompID>
+	<name>ReSpeaker 2-Mics Pi HAT</name>
+	<hexID>SEEE00090</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout></oompAbout>
+	<oompOfficialLink></oompOfficialLink>
+	<company>SEEED Studios</company>
+	<companyCode>C-SEEE</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>63</numComponents>
+	<numOompComponents>31</numOompComponents>
+	<oompCompletion>49</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-UF10-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0603-X-UF10-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0603-X-UF10-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C7</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>C8</compIden>
+		<compID>CAPC-0603-X-UF10-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>C9</compIden>
+		<compID>CAPC-0402-X-PF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>C10</compIden>
+		<compID>CAPC-0603-X-UF10-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>C11</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>C12</compIden>
+		<compID>CAPC-0603-X-UF10-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>C13</compIden>
+		<compID>CAPC-0603-X-UF10-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>C14</compIden>
+		<compID>CAPC-0603-X-UF10-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>C15</compIden>
+		<compID>CAPC-0603-X-UF10-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>C16</compIden>
+		<compID>CAPC-0603-X-UF10-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>C17</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>C18</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>C19</compIden>
+		<compID>CAPC-0402-X-PF33-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>C20</compIden>
+		<compID>CAPC-0402-X-PF33-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>C21</compIden>
+		<compID>CAPC-0603-X-UF10-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>C23</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>C31</compIden>
+		<compID>NOT OOMP  eagleValue: 680nF DNP  eagleDevice: CAP-0402  eaglePackage: C0402</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>C32</compIden>
+		<compID>CAPC-0402-X-PF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>C36</compIden>
+		<compID>CAPC-0603-X-UF10-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>C37</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>C38</compIden>
+		<compID>CAPC-0402-X-PF33-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>C39</compIden>
+		<compID>CAPC-0402-X-PF33-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>29</compIndex>
+		<compIden>C90</compIden>
+		<compID>NOT OOMP  eagleValue: 100uF 10V  eagleDevice: CAP-0805  eaglePackage: C0805</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>30</compIndex>
+		<compIden>C91</compIden>
+		<compID>NOT OOMP  eagleValue: 100uF 10V  eagleDevice: CAP-0805  eaglePackage: C0805</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>31</compIndex>
+		<compIden>C92</compIden>
+		<compID>NOT OOMP  eagleValue: 100pF  eagleDevice: CAP-0402  eaglePackage: C0402</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>32</compIndex>
+		<compIden>C93</compIden>
+		<compID>NOT OOMP  eagleValue: 100pF  eagleDevice: CAP-0402  eaglePackage: C0402</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>33</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: LED-RGB-8P-APA102-2020  eaglePackage: RGB2020</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>34</compIndex>
+		<compIden>D2</compIden>
+		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: LED-RGB-8P-APA102-2020  eaglePackage: RGB2020</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>35</compIndex>
+		<compIden>D3</compIden>
+		<compID>NOT OOMP  eagleValue: APA102-2020  eagleDevice: LED-RGB-8P-APA102-2020  eaglePackage: RGB2020</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>36</compIndex>
+		<compIden>FR1</compIden>
+		<compID>NOT OOMP  eagleValue: SEEEDSTUDIO-OPEN-SCH-FRAME  eagleDevice: SEEEDSTUDIO-OPEN-SCH-FRAME  eaglePackage: SEEEDSTUDIO-PCB-FRAME</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>37</compIndex>
+		<compIden>FR8</compIden>
+		<compID>NOT OOMP  eagleValue: SEEEDSTUDIO-OPEN-SCH-FRAME  eagleDevice: SEEEDSTUDIO-OPEN-SCH-FRAME  eaglePackage: SEEEDSTUDIO-PCB-FRAME</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>38</compIndex>
+		<compIden>J9</compIden>
+		<compID>NOT OOMP  eagleValue: DNP AUDIO-JACK-8P-SMD  eagleDevice: AUDIO-JACK-8P-SMD'PJ-393'  eaglePackage: AUDIO8P-SMD-3.5-14.5X6.1X4.0MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>39</compIndex>
+		<compIden>L1</compIden>
+		<compID>NOT OOMP  eagleValue: MPZ1608D101BTA00  eagleDevice: INDUCTOR/FERRITE-BEAD'0603'  eaglePackage: L0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>40</compIndex>
+		<compIden>L2</compIden>
+		<compID>NOT OOMP  eagleValue: BLM18BD252SN1  eagleDevice: INDUCTOR/FERRITE-BEAD'0603'  eaglePackage: L0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>41</compIndex>
+		<compIden>L4</compIden>
+		<compID>NOT OOMP  eagleValue: MPZ1608D101BTA00  eagleDevice: INDUCTOR/FERRITE-BEAD'0603'  eaglePackage: L0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>42</compIndex>
+		<compIden>L6</compIden>
+		<compID>NOT OOMP  eagleValue: 120R  eagleDevice: INDUCTOR/FERRITE-BEAD'0603'  eaglePackage: L0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>43</compIndex>
+		<compIden>L7</compIden>
+		<compID>NOT OOMP  eagleValue: 120R  eagleDevice: INDUCTOR/FERRITE-BEAD'0603'  eaglePackage: L0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>44</compIndex>
+		<compIden>L8</compIden>
+		<compID>NOT OOMP  eagleValue: BLM18BD252SN1  eagleDevice: INDUCTOR/FERRITE-BEAD'0603'  eaglePackage: L0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>45</compIndex>
+		<compIden>MIC1</compIden>
+		<compID>NOT OOMP  eagleValue: SAO-3729-M-42-008  eagleDevice: MIC-MSM421A3729H8-C  eaglePackage: MIC4-SMD-3.76X2.95MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>46</compIndex>
+		<compIden>MIC2</compIden>
+		<compID>NOT OOMP  eagleValue: SAO-3729-M-42-008  eagleDevice: MIC-MSM421A3729H8-C  eaglePackage: MIC4-SMD-3.76X2.95MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>47</compIndex>
+		<compIden>PI</compIden>
+		<compID>NOT OOMP  eagleValue: RPI-ZERO  eagleDevice: RPI-ZERO  eaglePackage: RASPBERRYPI_BASTELSTUBE_V13_RASPI_BOARD_B+_FULL</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>48</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>49</compIndex>
+		<compIden>R2</compIden>
+		<compID>NOT OOMP  eagleValue: 10R  eagleDevice: RES-0402  eaglePackage: R0402</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>50</compIndex>
+		<compIden>R3</compIden>
+		<compID>NOT OOMP  eagleValue: 10R  eagleDevice: RES-0402  eaglePackage: R0402</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>51</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>52</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>53</compIndex>
+		<compIden>R7</compIden>
+		<compID>NOT OOMP  eagleValue: 0R  eagleDevice: RES-0402  eaglePackage: R0402</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>54</compIndex>
+		<compIden>R8</compIden>
+		<compID>RESE-0402-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>55</compIndex>
+		<compIden>R10</compIden>
+		<compID>NOT OOMP  eagleValue: 10R  eagleDevice: RES-0402  eaglePackage: R0402</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>56</compIndex>
+		<compIden>R11</compIden>
+		<compID>NOT OOMP  eagleValue: 10R  eagleDevice: RES-0402  eaglePackage: R0402</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>57</compIndex>
+		<compIden>R12</compIden>
+		<compID>NOT OOMP  eagleValue: 10R  eagleDevice: RES-0402  eaglePackage: R0402</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>58</compIndex>
+		<compIden>R13</compIden>
+		<compID>NOT OOMP  eagleValue: 10R  eagleDevice: RES-0402  eaglePackage: R0402</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>59</compIndex>
+		<compIden>R19</compIden>
+		<compID>NOT OOMP  eagleValue: 10R  eagleDevice: RES-0402  eaglePackage: R0402</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>60</compIndex>
+		<compIden>R39</compIden>
+		<compID>NOT OOMP  eagleValue: 10k  eagleDevice: RES-0402  eaglePackage: R0402</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>61</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: WM8960  eagleDevice: AMPLIFIER-WM8960  eaglePackage: QFN32G-0.5-5X5MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>62</compIndex>
+		<compIden>U4</compIden>
+		<compID>NOT OOMP  eagleValue: XC6206 3.3V  eagleDevice: PMIC-XC6206PMR  eaglePackage: SOT-23</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>63</compIndex>
+		<compIden>X2</compIden>
+		<compID>NOT OOMP  eagleValue: 24MHz 306020014  eagleDevice: CRYSTAL-OSCILLATOR2.5*2.0  eaglePackage: OSC4-SMD-2.5X2.0X0.8MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>SEEED Studios</company>
+		<companyCode>C-SEEE</companyCode>
+		<name>ReSpeaker 2-Mics Pi HAT</name>
+		<partID>90</partID>
+		<link></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

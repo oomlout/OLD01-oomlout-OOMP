@@ -1,0 +1,154 @@
+<xml>
+<oompProject>
+	<oompID>SEEE-00036</oompID>
+	<name>Grove - Haptic Motor v0.9</name>
+	<hexID>SEEE00036</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout></oompAbout>
+	<oompOfficialLink></oompOfficialLink>
+	<company>SEEED Studios</company>
+	<companyCode>C-SEEE</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>17</numComponents>
+	<numOompComponents>4</numOompComponents>
+	<oompCompletion>24</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C3</compIden>
+		<compID>NOT OOMP  eagleValue: 100uF  eagleDevice: CAP-1206  eaglePackage: C1206</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C4</compIden>
+		<compID>NOT OOMP  eagleValue: 100uF  eagleDevice: CAP-1206  eaglePackage: C1206</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0603-X-UF100-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C7</compIden>
+		<compID>NOT OOMP  eagleValue: 330p  eagleDevice: CAP-0603  eaglePackage: C0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C8</compIden>
+		<compID>CAPC-0603-X-UF1-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C9</compIden>
+		<compID>NOT OOMP  eagleValue: 100uF  eagleDevice: CAP-POLAR-AVX-B  eaglePackage: AVX-B</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C10</compIden>
+		<compID>NOT OOMP  eagleValue: 100uF  eagleDevice: CAP-1206  eaglePackage: C1206</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>C12</compIden>
+		<compID>NOT OOMP  eagleValue: 104  eagleDevice: CAP-0603  eaglePackage: C0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>C13</compIden>
+		<compID>NOT OOMP  eagleValue: 330p  eagleDevice: CAP-0603  eaglePackage: C0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  eagleValue: B0540W  eagleDevice: DIODE'1206'  eaglePackage: SOD-123</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>D2</compIden>
+		<compID>NOT OOMP  eagleValue: B0540W  eagleDevice: DIODE'1206'  eaglePackage: SOD-123</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>IN1</compIden>
+		<compID>NOT OOMP  eagleValue: Header 1P  eagleDevice: HEADER-1P-35  eaglePackage: 1P-65/35MIL</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>L1</compIden>
+		<compID>NOT OOMP  eagleValue: 10uH  eagleDevice: INDUCTOR/FERRITE-BEAD'0806'  eaglePackage: L0806</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>M1</compIden>
+		<compID>NOT OOMP  eagleValue: FHFG  eagleDevice: MOTOR-EXT_MOUDLE_1CM  eaglePackage: MTR2-SMD-D11.2MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R8</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: DRV2605L  eagleDevice: SENSOR-DRV2605L  eaglePackage: VSSOP10-0.5-3X3MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>SEEED Studios</company>
+		<companyCode>C-SEEE</companyCode>
+		<name>Grove - Haptic Motor v0.9</name>
+		<partID>36</partID>
+		<link></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

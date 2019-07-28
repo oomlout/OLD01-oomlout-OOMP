@@ -1,0 +1,182 @@
+<xml>
+<oompProject>
+	<oompID>SEEE-00072</oompID>
+	<name>lcd_driverv1.1</name>
+	<hexID>SEEE00072</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout></oompAbout>
+	<oompOfficialLink></oompOfficialLink>
+	<company>SEEED Studios</company>
+	<companyCode>C-SEEE</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>21</numComponents>
+	<numOompComponents>7</numOompComponents>
+	<oompCompletion>33</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>NOT OOMP  eagleValue: 33p  eagleDevice: 006-C0603  eaglePackage: 0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>NOT OOMP  eagleValue: 33p  eagleDevice: 006-C0603  eaglePackage: 0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: 006-C0603  eaglePackage: 0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>NOT OOMP  eagleValue: 104  eagleDevice: 006-C0603  eaglePackage: 0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-0603-X-UF1-V25</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>D2</compIden>
+		<compID>NOT OOMP  eagleValue: red  eagleDevice: LED0603_DD  eaglePackage: LED0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>IC1</compIden>
+		<compID>NOT OOMP  eagleValue: AT89C52A  eagleDevice: AT89C52A  eaglePackage: TQFP44</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  eagleValue: TWIG_2.0-DIP-FEMALE  eagleDevice: TWIG_2.0-DIP-FEMALE  eaglePackage: 2.0_1X4</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>J2</compIden>
+		<compID>NOT OOMP  eagleValue: CK_2X3_DD  eagleDevice: CK_2X3_DD  eaglePackage: CK_2X3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>J3</compIden>
+		<compID>NOT OOMP  eagleValue: CK_1602  eagleDevice: CK_1602  eaglePackage: CK_1602</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>K1</compIden>
+		<compID>NOT OOMP  eagleValue: BOTTON_1_DP  eagleDevice: BOTTON_1_DP  eaglePackage: BTN_5.0_RST</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>PWR</compIden>
+		<compID>NOT OOMP  eagleValue: green  eagleDevice: LED0603_DD  eaglePackage: LED0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  eagleValue: si2305  eagleDevice: 014-P-MOSFETSOT23  eaglePackage: SOT23_</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>Q2</compIden>
+		<compID>NOT OOMP  eagleValue: si2305  eagleDevice: 014-P-MOSFETSOT23  eaglePackage: SOT23_</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O105-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0603-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>R9</compIden>
+		<compID>RESE-0603-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>X1</compIden>
+		<compID>NOT OOMP  eagleValue: 16M  eagleDevice: 011-XTAL_SMD-4P_3225  eaglePackage: X3225</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>SEEED Studios</company>
+		<companyCode>C-SEEE</companyCode>
+		<name>lcd_driverv1.1</name>
+		<partID>72</partID>
+		<link></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

@@ -1,0 +1,91 @@
+<xml>
+<oompProject>
+	<oompID>SEEE-00047</oompID>
+	<name>Grove - Line Finder v1.1</name>
+	<hexID>SEEE00047</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout></oompAbout>
+	<oompOfficialLink></oompOfficialLink>
+	<company>SEEED Studios</company>
+	<companyCode>C-SEEE</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>8</numComponents>
+	<numOompComponents>2</numOompComponents>
+	<oompCompletion>25</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  eagleValue: RED  eagleDevice: LED'RIGHT'  eaglePackage: LED-SIDE-VIEW-0603-RIGHT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  eagleValue: TWIG_2.0-DIP-FEMALE  eagleDevice: TWIG_2.0-DIP-FEMALE  eaglePackage: 2.0_1X4</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>PSR</compIden>
+		<compID>NOT OOMP  eagleValue: PSR  eagleDevice: PSR  eaglePackage: PSR</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O223-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R2</compIden>
+		<compID>NOT OOMP  eagleValue: 100R  eagleDevice: 005-R0603_S  eaglePackage: 0603_S</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O103-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R6</compIden>
+		<compID>NOT OOMP  eagleValue: 10K  eagleDevice: R-TRIMM3214W  eaglePackage: RTRIM3214W</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: 002-LMV358  eagleDevice: 002-LMV358  eaglePackage: SO08</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>SEEED Studios</company>
+		<companyCode>C-SEEE</companyCode>
+		<name>Grove - Line Finder v1.1</name>
+		<partID>47</partID>
+		<link></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

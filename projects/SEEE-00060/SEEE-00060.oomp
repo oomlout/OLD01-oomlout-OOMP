@@ -1,0 +1,77 @@
+<xml>
+<oompProject>
+	<oompID>SEEE-00060</oompID>
+	<name>Grove - Vibrator Motor v1.2</name>
+	<hexID>SEEE00060</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout></oompAbout>
+	<oompOfficialLink></oompOfficialLink>
+	<company>SEEED Studios</company>
+	<companyCode>C-SEEE</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>6</numComponents>
+	<numOompComponents>2</numOompComponents>
+	<oompCompletion>33</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  eagleValue: DIP-Grove  eagleDevice: TWIG_2.0-DIP-FEMALE  eaglePackage: 2.0_1X4</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>M1</compIden>
+		<compID>NOT OOMP  eagleValue: EXT_MOUDLE_MOTOR_1CM  eagleDevice: EXT_MOUDLE_MOTOR_1CM  eaglePackage: EXT_MOUDLE_MOTOR_1CM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>Q2</compIden>
+		<compID>NOT OOMP  eagleValue: s9013  eagleDevice: TRANSISTOR-NPN-SOT23  eaglePackage: SOT23</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O104-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>R4</compIden>
+		<compID>NOT OOMP  eagleValue: 12R  eagleDevice: R-0603  eaglePackage: R0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>SEEED Studios</company>
+		<companyCode>C-SEEE</companyCode>
+		<name>Grove - Vibrator Motor v1.2</name>
+		<partID>60</partID>
+		<link></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

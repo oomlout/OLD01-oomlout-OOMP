@@ -1,0 +1,49 @@
+<xml>
+<oompProject>
+	<oompID>SEEE-00055</oompID>
+	<name>Grove - Rotary Angle Sensor v1.2</name>
+	<hexID>SEEE00055</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout></oompAbout>
+	<oompOfficialLink></oompOfficialLink>
+	<company>SEEED Studios</company>
+	<companyCode>C-SEEE</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>2</numComponents>
+	<numOompComponents>0</numOompComponents>
+	<oompCompletion>0</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  eagleValue: DIP - Grove  eagleDevice: TWIG-4P-2.0-2.0  eaglePackage: 4P-2.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>ROTATION</compIden>
+		<compID>NOT OOMP  eagleValue: WH09-2-103  eagleDevice: R-POTENTIOMETER'WH09-2'  eaglePackage: 3P-SQUA-11X9.8X12H</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>SEEED Studios</company>
+		<companyCode>C-SEEE</companyCode>
+		<name>Grove - Rotary Angle Sensor v1.2</name>
+		<partID>55</partID>
+		<link></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

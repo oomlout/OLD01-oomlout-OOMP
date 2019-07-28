@@ -1,0 +1,602 @@
+<xml>
+<oompProject>
+	<oompID>SEEE-00018</oompID>
+	<name>GPRS Shield v3.0</name>
+	<hexID>SEEE00018</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout></oompAbout>
+	<oompOfficialLink></oompOfficialLink>
+	<company>SEEED Studios</company>
+	<companyCode>C-SEEE</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>81</numComponents>
+	<numOompComponents>18</numOompComponents>
+	<oompCompletion>22</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>ANT1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: ANTENNA-U-FL  eaglePackage: 4P-U-FL</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>NOT OOMP  eagleValue: 16V 220uF  eagleDevice: CAP-ELECTRO-D  eaglePackage: ELECTRO-SMD-D-5.6MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>NOT OOMP  eagleValue: 470uF  eagleDevice: CAP-AVX-D  eaglePackage: AVX-D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C5</compIden>
+		<compID>NOT OOMP  eagleValue: 100nF   eagleDevice: C-0603  eaglePackage: C0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C6</compIden>
+		<compID>NOT OOMP  eagleValue: 4.7u  eagleDevice: C-0805  eaglePackage: C0805</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C7</compIden>
+		<compID>NOT OOMP  eagleValue: 2.2u  eagleDevice: C-0805  eaglePackage: C0805</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>C8</compIden>
+		<compID>NOT OOMP  eagleValue: 2.2u  eagleDevice: C-0805  eaglePackage: C0805</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>C9</compIden>
+		<compID>NOT OOMP  eagleValue: 100nF   eagleDevice: C-0603  eaglePackage: C0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>C12</compIden>
+		<compID>NOT OOMP  eagleValue: 39pF  eagleDevice: C-0603  eaglePackage: C0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>C13</compIden>
+		<compID>NOT OOMP  eagleValue: 8.2pF  eagleDevice: C-0603  eaglePackage: C0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>C14</compIden>
+		<compID>NOT OOMP  eagleValue: 8.2pF  eagleDevice: C-0603  eaglePackage: C0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>C15</compIden>
+		<compID>NOT OOMP  eagleValue: 8.2pF  eagleDevice: C-0603  eaglePackage: C0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>C16</compIden>
+		<compID>NOT OOMP  eagleValue: 39pF  eagleDevice: C-0603  eaglePackage: C0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>C17</compIden>
+		<compID>NOT OOMP  eagleValue: 39pF  eagleDevice: C-0603  eaglePackage: C0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>C18</compIden>
+		<compID>NOT OOMP  eagleValue: 39pF  eagleDevice: C-0603  eaglePackage: C0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>C19</compIden>
+		<compID>NOT OOMP  eagleValue: 39pF  eagleDevice: C-0603  eaglePackage: C0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>C20</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>C21</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>C22</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>C23</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>C24</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  eagleValue: SS54  eagleDevice: D'MBRS240LT3'  eaglePackage: SMB</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>D2</compIden>
+		<compID>NOT OOMP  eagleValue: SS54  eagleDevice: D'MBRS240LT3'  eaglePackage: SMB</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>D2/STA</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>D3/NET</compIden>
+		<compID>LEDS-0603-G-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>D4</compIden>
+		<compID>NOT OOMP  eagleValue: MBR0520  eagleDevice: D'MBR0520LT1'  eaglePackage: SOD123-2.7X1.6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>D5</compIden>
+		<compID>NOT OOMP  eagleValue: CESD5V0D1  eagleDevice: D-ESD  eaglePackage: SOD123-2.7X1.6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>29</compIndex>
+		<compIden>D6</compIden>
+		<compID>NOT OOMP  eagleValue: CESD5V0D1  eagleDevice: D-ESD  eaglePackage: SOD123-2.7X1.6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>30</compIndex>
+		<compIden>D7</compIden>
+		<compID>NOT OOMP  eagleValue: CESD5V0D1  eagleDevice: D-ESD  eaglePackage: SOD123-2.7X1.6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>31</compIndex>
+		<compIden>D8</compIden>
+		<compID>NOT OOMP  eagleValue: SS54  eagleDevice: D'MBRS240LT3'  eaglePackage: SMB</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>32</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: HOLDER-BAT  eaglePackage: SMD-CR1220-2</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>33</compIndex>
+		<compIden>J3</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: HEADER-6P-65/35MIL  eaglePackage: 6P-2.54-65/35MIL</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>34</compIndex>
+		<compIden>J4</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: HEADER-2X4P-2.54  eaglePackage: 2X4P-2.54</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>35</compIndex>
+		<compIden>J6</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: AUDIO-JACK-3.5'PJ-393'  eaglePackage: 8P-SMD-3.5</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>36</compIndex>
+		<compIden>J7</compIden>
+		<compID>NOT OOMP  eagleValue: CK_2X3_DD  eagleDevice: CK_2X3_DD  eaglePackage: CK_2X3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>37</compIndex>
+		<compIden>J13</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: HEADER_1X6  eaglePackage: CK_1X6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>38</compIndex>
+		<compIden>L1</compIden>
+		<compID>NOT OOMP  eagleValue: 120R 500mA  eagleDevice: L'0603'  eaglePackage: L0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>39</compIndex>
+		<compIden>L2</compIden>
+		<compID>NOT OOMP  eagleValue: 10uH  eagleDevice: L'0630'  eaglePackage: L0630</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>40</compIndex>
+		<compIden>L3</compIden>
+		<compID>NOT OOMP  eagleValue: 120R 500mA  eagleDevice: L'0603'  eaglePackage: L0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>41</compIndex>
+		<compIden>L4</compIden>
+		<compID>NOT OOMP  eagleValue: 120R 500mA  eagleDevice: L'0603'  eaglePackage: L0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>42</compIndex>
+		<compIden>P1</compIden>
+		<compID>NOT OOMP  eagleValue: JP  eagleDevice: JP  eaglePackage: JP</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>43</compIndex>
+		<compIden>P2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>44</compIndex>
+		<compIden>P3</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>45</compIndex>
+		<compIden>P4</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>46</compIndex>
+		<compIden>P5</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>47</compIndex>
+		<compIden>P6</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>48</compIndex>
+		<compIden>P7</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>49</compIndex>
+		<compIden>POWER_KEY</compIden>
+		<compID>NOT OOMP  eagleValue: BUTTON-4P-REINFORCE'TS-118E'  eagleDevice: BUTTON-4P-REINFORCE'TS-118E'  eaglePackage: 4P-SMD-7X3.5X3.5H</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>50</compIndex>
+		<compIden>PWR</compIden>
+		<compID>NOT OOMP  eagleValue: green  eagleDevice: 007-LED0603  eaglePackage: D0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>51</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  eagleValue: 9013  eagleDevice: TRANSISTOR-NPN-SOT23  eaglePackage: SOT23</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>52</compIndex>
+		<compIden>Q3</compIden>
+		<compID>NOT OOMP  eagleValue: 9013  eagleDevice: TRANSISTOR-NPN-SOT23  eaglePackage: SOT23</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>53</compIndex>
+		<compIden>Q4</compIden>
+		<compID>NOT OOMP  eagleValue: 9013  eagleDevice: TRANSISTOR-NPN-SOT23  eaglePackage: SOT23</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>54</compIndex>
+		<compIden>Q5</compIden>
+		<compID>NOT OOMP  eagleValue: SI2305DS  eagleDevice: MOSFET-P'SI2323CDS/SI2305DS<BR>'  eaglePackage: SOT23</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>55</compIndex>
+		<compIden>Q6</compIden>
+		<compID>NOT OOMP  eagleValue: BSN20  eagleDevice: MOSFET-N'SOT23'  eaglePackage: SOT23</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>56</compIndex>
+		<compIden>Q7</compIden>
+		<compID>NOT OOMP  eagleValue: BSN20  eagleDevice: MOSFET-N'SOT23'  eaglePackage: SOT23</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>57</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>58</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O473-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>59</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O472-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>60</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0603-X-O104-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>61</compIndex>
+		<compIden>R5</compIden>
+		<compID>NOT OOMP  eagleValue: 10k 1%  eagleDevice: R-0603  eaglePackage: R0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>62</compIndex>
+		<compIden>R6</compIden>
+		<compID>NOT OOMP  eagleValue: 24k 1%  eagleDevice: R-0603  eaglePackage: R0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>63</compIndex>
+		<compIden>R8</compIden>
+		<compID>NOT OOMP  eagleValue: 4.7k  eagleDevice: R-4R-1206  eaglePackage: 1206-8-3.3X2.4</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>64</compIndex>
+		<compIden>R10</compIden>
+		<compID>NOT OOMP  eagleValue: 0R  eagleDevice: R-0603  eaglePackage: R0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>65</compIndex>
+		<compIden>R12</compIden>
+		<compID>NOT OOMP  eagleValue: 68R  eagleDevice: R-0603  eaglePackage: R0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>66</compIndex>
+		<compIden>R13</compIden>
+		<compID>RESE-0603-X-O472-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>67</compIndex>
+		<compIden>R14</compIden>
+		<compID>RESE-0603-X-O472-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>68</compIndex>
+		<compIden>R15</compIden>
+		<compID>RESE-0603-X-O473-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>69</compIndex>
+		<compIden>R16</compIden>
+		<compID>RESE-0603-X-O473-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>70</compIndex>
+		<compIden>R17</compIden>
+		<compID>NOT OOMP  eagleValue: 22R  eagleDevice: R-0603  eaglePackage: R0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>71</compIndex>
+		<compIden>R18</compIden>
+		<compID>NOT OOMP  eagleValue: 22R  eagleDevice: R-0603  eaglePackage: R0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>72</compIndex>
+		<compIden>R19</compIden>
+		<compID>NOT OOMP  eagleValue: 22R  eagleDevice: R-0603  eaglePackage: R0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>73</compIndex>
+		<compIden>R20</compIden>
+		<compID>NOT OOMP  eagleValue: 470R  eagleDevice: R-0603  eaglePackage: R0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>74</compIndex>
+		<compIden>R21</compIden>
+		<compID>NOT OOMP  eagleValue: 470R  eagleDevice: R-0603  eaglePackage: R0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>75</compIndex>
+		<compIden>R22</compIden>
+		<compID>NOT OOMP  eagleValue: 100R  eagleDevice: R-0603  eaglePackage: R0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>76</compIndex>
+		<compIden>R23</compIden>
+		<compID>RESE-0603-X-O105-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>77</compIndex>
+		<compIden>R24</compIden>
+		<compID>RESE-0603-X-O105-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>78</compIndex>
+		<compIden>SIMHOLDER</compIden>
+		<compID>NOT OOMP  eagleValue: SIMHOLDER3  eagleDevice: SIMHOLDER3  eaglePackage: SIMHOLDER3</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>79</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: TD1410  eagleDevice: TD1410  eaglePackage: SOP8</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>80</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: SIM900  eagleDevice: SIM900  eaglePackage: SIM900</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>81</compIndex>
+		<compIden>U4</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: ARDUINO-38P'WITH/O-SILK'  eaglePackage: ARDUINO-38P-500519002</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>SEEED Studios</company>
+		<companyCode>C-SEEE</companyCode>
+		<name>GPRS Shield v3.0</name>
+		<partID>18</partID>
+		<link></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

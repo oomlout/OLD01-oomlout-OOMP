@@ -1,0 +1,259 @@
+<xml>
+<oompProject>
+	<oompID>SEEE-00009</oompID>
+	<name>BLE Micro v1.2</name>
+	<hexID>SEEE00009</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout></oompAbout>
+	<oompOfficialLink></oompOfficialLink>
+	<company>SEEED Studios</company>
+	<companyCode>C-SEEE</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>32</numComponents>
+	<numOompComponents>13</numOompComponents>
+	<oompCompletion>41</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>BLE</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SEEED_BLE_MODULE_001'-LGA-S'  eaglePackage: SEEED_BLE_MODULE_005</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0402-X-NF1-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C4</compIden>
+		<compID>CAPC-0402-X-NF47-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0402-X-PF12-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-0402-X-PF22D-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>C7</compIden>
+		<compID>NOT OOMP  eagleValue: 1.0pF  eagleDevice: C-0402  eaglePackage: C0402</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>C8</compIden>
+		<compID>NOT OOMP  eagleValue: 1.5pF  eagleDevice: C-0402  eaglePackage: C0402</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>C9</compIden>
+		<compID>CAPC-0402-X-NF22D-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>C10</compIden>
+		<compID>CAPC-0402-X-UF1-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>C11</compIden>
+		<compID>CAPC-0402-X-PF12-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>C12</compIden>
+		<compID>CAPC-0402-X-PF12-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>C13</compIden>
+		<compID>CAPC-0402-X-PF12-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>L1</compIden>
+		<compID>NOT OOMP  eagleValue: 4.7nH  eagleDevice: L'0402'  eaglePackage: L0402</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>L2</compIden>
+		<compID>NOT OOMP  eagleValue: 10nH  eagleDevice: L'0402'  eaglePackage: L0402</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>L3</compIden>
+		<compID>NOT OOMP  eagleValue: 3.3nH  eagleDevice: L'0402'  eaglePackage: L0402</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>L4</compIden>
+		<compID>NOT OOMP  eagleValue: 15nH  eagleDevice: L'0402'  eaglePackage: L0402</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>L5</compIden>
+		<compID>NOT OOMP  eagleValue: 10uH  eagleDevice: L'0603'  eaglePackage: L0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>P1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK'ANNULAR'  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>P2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK'ANNULAR'  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>P3</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK'ANNULAR'  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>P4</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK'ANNULAR'  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>P5</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK'ANNULAR'  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>P6</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK'ANNULAR'  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>P7</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK'ANNULAR'  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>P8</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK'ANNULAR'  eaglePackage: ROUND-MARK-1.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0402-X-O123-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>29</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0402-X-O123-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>30</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: nRF51822  eagleDevice: NRF51822  eaglePackage: QFN48-6X6MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>31</compIndex>
+		<compIden>X1</compIden>
+		<compID>NOT OOMP  eagleValue: 16MHz  eagleDevice: CRYSTAL'-2520'  eaglePackage: 2520</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>32</compIndex>
+		<compIden>X2</compIden>
+		<compID>NOT OOMP  eagleValue: 32.768kHz  eagleDevice: CRYSTAL'2012'  eaglePackage: 2P-SMD-2.05X1.2</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>SEEED Studios</company>
+		<companyCode>C-SEEE</companyCode>
+		<name>BLE Micro v1.2</name>
+		<partID>9</partID>
+		<link></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

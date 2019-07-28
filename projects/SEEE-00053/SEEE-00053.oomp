@@ -1,0 +1,210 @@
+<xml>
+<oompProject>
+	<oompID>SEEE-00053</oompID>
+	<name>Grove - Recorder v2.0</name>
+	<hexID>SEEE00053</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout></oompAbout>
+	<oompOfficialLink></oompOfficialLink>
+	<company>SEEED Studios</company>
+	<companyCode>C-SEEE</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>25</numComponents>
+	<numOompComponents>12</numOompComponents>
+	<oompCompletion>48</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C3</compIden>
+		<compID>CAPC-0402-X-UF1-V63D</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C5</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C6</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>C7</compIden>
+		<compID>NOT OOMP  eagleValue: 4.7uF_16V  eagleDevice: C-POLAR-A  eaglePackage: AVX-A</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>C8</compIden>
+		<compID>CAPC-0402-X-NF100-V16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>C9</compIden>
+		<compID>NOT OOMP  eagleValue: 47uF_16V  eagleDevice: C-POLAR-B  eaglePackage: AVX-B</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  eagleValue: RED  eagleDevice: LED'RIGHT'  eaglePackage: LED-SIDE-VIEW-0603-RIGHT</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>FR1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SEEEDSTUDIO-OPEN-SCH-FRAME  eaglePackage: SEEEDSTUDIO-PCB-FRAME</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>J2</compIden>
+		<compID>NOT OOMP  eagleValue: 2P-2.0  eagleDevice: JACK-JST-2P-PW'2.0'  eaglePackage: JST-2.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>MIC1</compIden>
+		<compID>NOT OOMP  eagleValue: MiniMicrophone_250002001  eagleDevice: MICROPHONE  eaglePackage: 2P-D8.9MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0402-X-O472-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0402-X-O472-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>R4</compIden>
+		<compID>RESE-0402-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0402-X-O104-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0402-X-O104-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>R7</compIden>
+		<compID>RESE-0402-X-O104-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>R10</compIden>
+		<compID>NOT OOMP  eagleValue: 470R  eagleDevice: R-0402  eaglePackage: R0402</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>R11</compIden>
+		<compID>NOT OOMP  eagleValue: 560R  eagleDevice: RES-0402  eaglePackage: R0402</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>R12</compIden>
+		<compID>NOT OOMP  eagleValue: 0R  eagleDevice: R-0402  eaglePackage: R0402</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>REC</compIden>
+		<compID>NOT OOMP  eagleValue: BUTTON-4P-13mm  eagleDevice: BUTTON-4P-3110040P1  eaglePackage: 4P-6.0X6.0X5.0H</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: ISD1820P  eagleDevice: ISD1820P  eaglePackage: DIP14</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>U2</compIden>
+		<compID>NOT OOMP  eagleValue: NS8002  eagleDevice: AMPLIFIER-NS8002  eaglePackage: SOIC8-1.27-5X4MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>VR2</compIden>
+		<compID>NOT OOMP  eagleValue: 10K  eagleDevice: RES-ADJ-SX3362P  eaglePackage: ADJR3-7.0X7.0X5.0MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>SEEED Studios</company>
+		<companyCode>C-SEEE</companyCode>
+		<name>Grove - Recorder v2.0</name>
+		<partID>53</partID>
+		<link></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

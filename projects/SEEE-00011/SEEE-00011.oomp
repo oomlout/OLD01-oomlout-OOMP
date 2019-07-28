@@ -1,0 +1,245 @@
+<xml>
+<oompProject>
+	<oompID>SEEE-00011</oompID>
+	<name>BlueTooth Shield</name>
+	<hexID>SEEE00011</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout></oompAbout>
+	<oompOfficialLink></oompOfficialLink>
+	<company>SEEED Studios</company>
+	<companyCode>C-SEEE</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>30</numComponents>
+	<numOompComponents>7</numOompComponents>
+	<oompCompletion>23</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>BT1</compIden>
+		<compID>NOT OOMP  eagleValue: BLUETOOTH-SERIALSMD  eagleDevice: BLUETOOTH-SERIALSMD  eaglePackage: SERIAL_BLUETEETH</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>BT_RX</compIden>
+		<compID>NOT OOMP  eagleValue: 2.54-8p-male  eagleDevice: HEADER-8P2.54  eaglePackage: CK_1X8</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>BT_TX</compIden>
+		<compID>NOT OOMP  eagleValue: 2.54-8p-male  eagleDevice: HEADER-8P2.54  eaglePackage: CK_1X8</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0805-X-UF10-V10</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>D1</compIden>
+		<compID>LEDS-0603-G-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>D2</compIden>
+		<compID>LEDS-0603-R-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>DIGITAL</compIden>
+		<compID>NOT OOMP  eagleValue: 2.54-8p-male  eagleDevice: HEADER-8P2.54  eaglePackage: CK_1X8</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>IIC</compIden>
+		<compID>NOT OOMP  eagleValue: TWIG-2.0-DIP'D'  eagleDevice: TWIG-2.0-DIP'D'  eaglePackage: 2.0_1X4_90</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  eagleValue: TWIG-2.0-DIP'D'  eagleDevice: TWIG-2.0-DIP'D'  eaglePackage: 2.0_1X4_90</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>J2</compIden>
+		<compID>NOT OOMP  eagleValue: CL_1X6  eagleDevice: CK_1X6  eaglePackage: CK_1X6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>J4</compIden>
+		<compID>NOT OOMP  eagleValue: CK_1X6  eagleDevice: CK_1X6  eaglePackage: CK_1X6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>J5</compIden>
+		<compID>NOT OOMP  eagleValue: CK_1X8  eagleDevice: CK_1X8DD  eaglePackage: CK_1X8</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>J6</compIden>
+		<compID>NOT OOMP  eagleValue: CK_1X8  eagleDevice: CK_1X8DD  eaglePackage: CK_1X8</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>J7</compIden>
+		<compID>NOT OOMP  eagleValue: CK_1X8DD  eagleDevice: CK_1X8DD  eaglePackage: CK_1X8</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>J8</compIden>
+		<compID>NOT OOMP  eagleValue: CK_1X8DD  eagleDevice: CK_1X8DD  eaglePackage: CK_1X8</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>J9</compIden>
+		<compID>NOT OOMP  eagleValue: CL_1X6  eagleDevice: CK_1X6  eaglePackage: CK_1X6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>J10</compIden>
+		<compID>NOT OOMP  eagleValue: CK_1X6  eagleDevice: CK_1X6  eaglePackage: CK_1X6</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>J11</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: HEADER-2P2.54  eaglePackage: 65*35</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>J12</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: HEADER-2P2.54  eaglePackage: 65*35</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>MARK1</compIden>
+		<compID>NOT OOMP  eagleValue: PAD-MARK  eagleDevice: PAD-MARK  eaglePackage: MARK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>MARK2</compIden>
+		<compID>NOT OOMP  eagleValue: PAD-MARK  eagleDevice: PAD-MARK  eaglePackage: MARK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>PIO[1]</compIden>
+		<compID>NOT OOMP  eagleValue: SWITCH-2CH-6P-2.54  eagleDevice: SWITCH-2CH-6P-SMD  eaglePackage: 6P-SMD-2CH-2.54-3.5X6.2</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>Q3</compIden>
+		<compID>NOT OOMP  eagleValue: Si5904BDC  eagleDevice: 010-DUAL-N-MOSFET_1206-8  eaglePackage: 1206-8</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O331-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O105-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>R10</compIden>
+		<compID>NOT OOMP  eagleValue: 10k  eagleDevice: 005-4R_1206  eaglePackage: R1206-8</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>29</compIndex>
+		<compIden>S1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: EMI_SHIELD_BT  eaglePackage: BT_SHIELD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>30</compIndex>
+		<compIden>T1</compIden>
+		<compID>NOT OOMP  eagleValue: PESD5V0L2BT  eagleDevice: D-ESD-PESDXL2BT  eaglePackage: SOT23</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>SEEED Studios</company>
+		<companyCode>C-SEEE</companyCode>
+		<name>BlueTooth Shield</name>
+		<partID>11</partID>
+		<link></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

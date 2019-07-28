@@ -1,0 +1,105 @@
+<xml>
+<oompProject>
+	<oompID>SEEE-00032</oompID>
+	<name>Grove - Chainable RGB LED v2.0</name>
+	<hexID>SEEE00032</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout></oompAbout>
+	<oompOfficialLink></oompOfficialLink>
+	<company>SEEED Studios</company>
+	<companyCode>C-SEEE</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>10</numComponents>
+	<numOompComponents>2</numOompComponents>
+	<oompCompletion>20</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>ARGB</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LED-ARGB-DIP2.0  eaglePackage: ARGB/2.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>FR1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SEEEDSTUDIO-OPEN-SCH-FRAME  eaglePackage: SEEEDSTUDIO-PCB-FRAME</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>FR2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SEEEDSTUDIO-OPEN-SCH-FRAME  eaglePackage: SEEEDSTUDIO-PCB-FRAME</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>R1</compIden>
+		<compID>NOT OOMP  eagleValue: 39R  eagleDevice: R-0603  eaglePackage: 0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>R2</compIden>
+		<compID>NOT OOMP  eagleValue: 39R  eagleDevice: R-0603  eaglePackage: 0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R3</compIden>
+		<compID>NOT OOMP  eagleValue: 24k  eagleDevice: R-0603  eaglePackage: 0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R4</compIden>
+		<compID>NOT OOMP  eagleValue: 3.6R  eagleDevice: R-0603  eaglePackage: 0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: P9813S14  eagleDevice: DRIVER-P9813-SOP14  eaglePackage: SOP14-1.27-8.65X3.9X1.35MM</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>SEEED Studios</company>
+		<companyCode>C-SEEE</companyCode>
+		<name>Grove - Chainable RGB LED v2.0</name>
+		<partID>32</partID>
+		<link></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

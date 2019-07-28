@@ -1,0 +1,42 @@
+<xml>
+<oompProject>
+	<oompID>SEEE-00008</oompID>
+	<name>BLE Micro library</name>
+	<hexID>SEEE00008</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout></oompAbout>
+	<oompOfficialLink></oompOfficialLink>
+	<company>SEEED Studios</company>
+	<companyCode>C-SEEE</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>1</numComponents>
+	<numOompComponents>0</numOompComponents>
+	<oompCompletion>0</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>BLE1</compIden>
+		<compID>NOT OOMP  eagleValue: BLE Nano  eagleDevice: SEEED_BLE_MODULE_001'PAD'  eaglePackage: SEEED_BLE_MODULE_PAD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>SEEED Studios</company>
+		<companyCode>C-SEEE</companyCode>
+		<name>BLE Micro library</name>
+		<partID>8</partID>
+		<link></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

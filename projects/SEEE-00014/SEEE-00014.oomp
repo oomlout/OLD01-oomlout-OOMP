@@ -1,0 +1,126 @@
+<xml>
+<oompProject>
+	<oompID>SEEE-00014</oompID>
+	<name>CRGBled</name>
+	<hexID>SEEE00014</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout></oompAbout>
+	<oompOfficialLink></oompOfficialLink>
+	<company>SEEED Studios</company>
+	<companyCode>C-SEEE</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>13</numComponents>
+	<numOompComponents>2</numOompComponents>
+	<oompCompletion>15</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>ARGB1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: LED-ARGB-DIP2.0  eaglePackage: ARGB/2.0</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>C1</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>C2</compIden>
+		<compID>CAPC-0603-X-NF100-V50</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  eagleValue: TWIG_2.0-SMD-FEMALE'DD'  eagleDevice: TWIG_2.0-SMD-FEMALE'DD'  eaglePackage: 2.0_1X4DD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>J2</compIden>
+		<compID>NOT OOMP  eagleValue: TWIG_2.0-SMD-FEMALE'DD'  eagleDevice: TWIG_2.0-SMD-FEMALE'DD'  eaglePackage: 2.0_1X4DD</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>MARK1</compIden>
+		<compID>NOT OOMP  eagleValue: PAD-MARK  eagleDevice: PAD-MARK  eaglePackage: MARK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>MARK2</compIden>
+		<compID>NOT OOMP  eagleValue: PAD-MARK  eagleDevice: PAD-MARK  eaglePackage: MARK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>R1</compIden>
+		<compID>NOT OOMP  eagleValue: 39R  eagleDevice: R-0603  eaglePackage: 0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>R2</compIden>
+		<compID>NOT OOMP  eagleValue: 39R  eagleDevice: R-0603  eaglePackage: 0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>R3</compIden>
+		<compID>NOT OOMP  eagleValue: 24k  eagleDevice: R-0603  eaglePackage: 0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>R4</compIden>
+		<compID>NOT OOMP  eagleValue: 3.6R  eagleDevice: R-0603  eaglePackage: 0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>TWIG1</compIden>
+		<compID>NOT OOMP  eagleValue: TWIG-W/O-VIAU1  eagleDevice: TWIG-W/O-VIAU1  eaglePackage: U1N</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue: P9813-SSOP16  eagleDevice: P9813-SSOP16  eaglePackage: SSOP16</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>SEEED Studios</company>
+		<companyCode>C-SEEE</companyCode>
+		<name>CRGBled</name>
+		<partID>14</partID>
+		<link></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>

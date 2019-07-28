@@ -1,0 +1,294 @@
+<xml>
+<oompProject>
+	<oompID>SEEE-00089</oompID>
+	<name>Relay shield</name>
+	<hexID>SEEE00089</hexID>
+	<oompSort></oompSort>
+	<oompVersion>99</oompVersion>
+	<oompAbout></oompAbout>
+	<oompOfficialLink></oompOfficialLink>
+	<company>SEEED Studios</company>
+	<companyCode>C-SEEE</companyCode>
+	<oompVersion>999</oompVersion>
+
+
+
+	<numComponents>37</numComponents>
+	<numOompComponents>16</numOompComponents>
+	<oompCompletion>43</oompCompletion>
+	<ooDesignator>U</ooDesignator>
+<componentList>
+	<component>
+		<compIndex>1</compIndex>
+		<compIden>D1</compIden>
+		<compID>NOT OOMP  eagleValue: LL4148  eagleDevice: D-1206  eaglePackage: D1206</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>2</compIndex>
+		<compIden>D2</compIden>
+		<compID>NOT OOMP  eagleValue: LL4148  eagleDevice: D-1206  eaglePackage: D1206</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>3</compIndex>
+		<compIden>D3</compIden>
+		<compID>NOT OOMP  eagleValue: LL4148  eagleDevice: D-1206  eaglePackage: D1206</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>4</compIndex>
+		<compIden>D4</compIden>
+		<compID>NOT OOMP  eagleValue: LL4148  eagleDevice: D-1206  eaglePackage: D1206</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>5</compIndex>
+		<compIden>J1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SCREW-TERMINAL-3P'5.08'  eaglePackage: 3P-5.08</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>6</compIndex>
+		<compIden>J2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SCREW-TERMINAL-3P'5.08'  eaglePackage: 3P-5.08</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>7</compIndex>
+		<compIden>J3</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SCREW-TERMINAL-3P'5.08'  eaglePackage: 3P-5.08</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>8</compIndex>
+		<compIden>J4</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: SCREW-TERMINAL-3P'5.08'  eaglePackage: 3P-5.08</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>9</compIndex>
+		<compIden>LED1</compIden>
+		<compID>LEDS-0603-X-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>10</compIndex>
+		<compIden>LED2</compIden>
+		<compID>LEDS-0603-X-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>11</compIndex>
+		<compIden>LED3</compIden>
+		<compID>LEDS-0603-X-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>12</compIndex>
+		<compIden>LED4</compIden>
+		<compID>LEDS-0603-X-STAN-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>13</compIndex>
+		<compIden>Q1</compIden>
+		<compID>NOT OOMP  eagleValue: s9013  eagleDevice: TRANSISTOR-NPN-SOT23''  eaglePackage: SOT23</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>14</compIndex>
+		<compIden>Q2</compIden>
+		<compID>NOT OOMP  eagleValue: s9013  eagleDevice: TRANSISTOR-NPN-SOT23''  eaglePackage: SOT23</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>15</compIndex>
+		<compIden>Q3</compIden>
+		<compID>NOT OOMP  eagleValue: s9013  eagleDevice: TRANSISTOR-NPN-SOT23''  eaglePackage: SOT23</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>16</compIndex>
+		<compIden>Q4</compIden>
+		<compID>NOT OOMP  eagleValue: s9013  eagleDevice: TRANSISTOR-NPN-SOT23''  eaglePackage: SOT23</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>17</compIndex>
+		<compIden>R1</compIden>
+		<compID>NOT OOMP  eagleValue: 15R  eagleDevice: R-0603  eaglePackage: R0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>18</compIndex>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O392-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>19</compIndex>
+		<compIden>R3</compIden>
+		<compID>RESE-0603-X-O392-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>20</compIndex>
+		<compIden>R4</compIden>
+		<compID>NOT OOMP  eagleValue: 15R  eagleDevice: R-0603  eaglePackage: R0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>21</compIndex>
+		<compIden>R5</compIden>
+		<compID>RESE-0603-X-O392-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>22</compIndex>
+		<compIden>R6</compIden>
+		<compID>RESE-0603-X-O392-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>23</compIndex>
+		<compIden>R7</compIden>
+		<compID>NOT OOMP  eagleValue: 15R  eagleDevice: R-0603  eaglePackage: R0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>24</compIndex>
+		<compIden>R8</compIden>
+		<compID>RESE-0603-X-O392-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>25</compIndex>
+		<compIden>R9</compIden>
+		<compID>RESE-0603-X-O392-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>26</compIndex>
+		<compIden>R10</compIden>
+		<compID>NOT OOMP  eagleValue: 15R  eagleDevice: R-0603  eaglePackage: R0603</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>27</compIndex>
+		<compIden>R11</compIden>
+		<compID>RESE-0603-X-O392-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>28</compIndex>
+		<compIden>R12</compIden>
+		<compID>RESE-0603-X-O392-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>29</compIndex>
+		<compIden>R13</compIden>
+		<compID>RESE-0603-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>30</compIndex>
+		<compIden>R14</compIden>
+		<compID>RESE-0603-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>31</compIndex>
+		<compIden>R15</compIden>
+		<compID>RESE-0603-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>32</compIndex>
+		<compIden>R16</compIden>
+		<compID>RESE-0603-X-O102-01</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>33</compIndex>
+		<compIden>RELAY1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: RELAY-HLS8L-DC5V-S-C  eaglePackage: 5P-19.0X15.5X15.8H</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>34</compIndex>
+		<compIden>RELAY2</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: RELAY-HLS8L-DC5V-S-C  eaglePackage: 5P-19.0X15.5X15.8H</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>35</compIndex>
+		<compIden>RELAY3</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: RELAY-HLS8L-DC5V-S-C  eaglePackage: 5P-19.0X15.5X15.8H</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>36</compIndex>
+		<compIden>RELAY4</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: RELAY-HLS8L-DC5V-S-C  eaglePackage: 5P-19.0X15.5X15.8H</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+	<component>
+		<compIndex>37</compIndex>
+		<compIden>U1</compIden>
+		<compID>NOT OOMP  eagleValue:   eagleDevice: ARDUINO'W/O-SILK'  eaglePackage: ARDUINO-W/O-SILK</compID>
+		<compWhy></compWhy>
+		<compDesc></compDesc>
+	</component>
+</componentList>
+<sourceList>
+	<manufacturer>
+		<company>SEEED Studios</company>
+		<companyCode>C-SEEE</companyCode>
+		<name>Relay shield</name>
+		<partID>89</partID>
+		<link></link>
+	</manufacturer>
+</sourceList>
+
+
+
+</oompProject>
+</xml>
