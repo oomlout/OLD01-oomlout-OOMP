@@ -5,12 +5,10 @@
 	<hexID>SPAR09168</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is a breakout board for the Maxim MAX7456 monochrome on-screen display chip. The board is set up with all supporting circuitry and RCA connectors to allow the user to easily interrupt and overlay text and/or graphics onto a video signal (PAL or NTSC). Just plug in your video signal to "Video In", plug your TV into "Video Out", connect a microcontroller to the SPI interface and supply the board with 5V@100mA (worst case) and you're good to go. Supplied sample code runs on an ATMega168/328 (16MHz) and compiles with WinAVR, so it's just about "plug-and-play" with an Arduino board.
-**Weight: **0.30 ounces, 8.6 grams              
-            
-                      
-              
+	<oompAbout>(image and text from sparkfun.com)
+
+This is a breakout board for the Maxim MAX7456 monochrome on-screen display chip. The board is set up with all supporting circuitry and RCA connectors to allow the user to easily interrupt and overlay text and/or graphics onto a video signal (PAL or NTSC). Just plug in your video signal to "Video In", plug your TV into "Video Out", connect a microcontroller to the SPI interface and supply the board with 5V@100mA (worst case) and you're good to go. Supplied sample code runs on an ATMega168/328 (16MHz) and compiles with WinAVR, so it's just about "plug-and-play" with an Arduino board.
+Weight: 0.30 ounces, 8.6 grams
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9168</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -19,9 +17,9 @@
 
 
 
-	<numComponents>16</numComponents>
-	<numOompComponents>10</numOompComponents>
-	<oompCompletion>63</oompCompletion>
+	<numComponents>14</numComponents>
+	<numOompComponents>11</numOompComponents>
+	<oompCompletion>79</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -117,22 +115,8 @@
 	</component>
 	<component>
 		<compIndex>14</compIndex>
-		<compIden>V_IN</compIden>
-		<compID>NOT OOMP  eagleValue: TEST-POINT3X5  eagleDevice: TEST-POINT3X5  eaglePackage: PAD.03X.05</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>15</compIndex>
-		<compIden>V_OUT</compIden>
-		<compID>NOT OOMP  eagleValue: TEST-POINT3X5  eagleDevice: TEST-POINT3X5  eaglePackage: PAD.03X.05</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>16</compIndex>
 		<compIden>Y2</compIden>
-		<compID>NOT OOMP  eagleValue: 27MHz  eagleDevice: CRYSTAL5X3  eaglePackage: CRYSTAL-SMD-5X3</compID>
+		<compID>XTAL-5032-X-MZ27-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
