@@ -5,14 +5,12 @@
 	<hexID>SPAR13157</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is a very simple board that takes a 4-9V input voltage and outputs a selectable 1.8V or 3.3V regulated voltage. All headers are 0.1" pitch for simple insertion into a breadboard.
+	<oompAbout>(image and text from sparkfun.com)
+
+This is a very simple board that takes a 4-9V input voltage and outputs a selectable 1.8V or 3.3V regulated voltage. All headers are 0.1" pitch for simple insertion into a breadboard.
 Input power can be supplied to either the DC barrel jack or the two pin header labeled + and -. Output power is supplied to the pins labeled GND and VCC. Board has both an On/Off switch and a voltage select switch (3.3V/1.8V).
 The two sets of four GND and VCC pins are spaced such that when connected to our Basic Breadboard both power busses will be powered.
-Note: Headers are not supplied. You will need to supply your own headers to connect this board to a breadboard. Check below for some breakaway header strips.              
-            
-                      
-              
+Note: Headers are not supplied. You will need to supply your own headers to connect this board to a breadboard. Check below for some breakaway header strips.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13157</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ Note: Headers are not supplied. You will need to supply your own headers to conn
 
 
 	<numComponents>14</numComponents>
-	<numOompComponents>5</numOompComponents>
-	<oompCompletion>36</oompCompletion>
+	<numOompComponents>8</numOompComponents>
+	<oompCompletion>57</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -71,7 +69,7 @@ Note: Headers are not supplied. You will need to supply your own headers to conn
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  eagleValue: Power  eagleDevice: LED1206  eaglePackage: LED-1206</compID>
+		<compID>LEDS-1206-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -106,14 +104,14 @@ Note: Headers are not supplied. You will need to supply your own headers to conn
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  eagleValue: On/Off  eagleDevice: AYZ0202  eaglePackage: AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  eagleValue: Voltage  eagleDevice: SWITCH-SPSTSMD  eaglePackage: AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

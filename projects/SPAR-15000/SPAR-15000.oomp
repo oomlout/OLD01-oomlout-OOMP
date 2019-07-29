@@ -5,14 +5,12 @@
 	<hexID>SPAR15000</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                Do you want to control your TV via a web-browser? Want to ask Alexa to mute your stereo? Want to schedule triggers to your IR-controlled LED strip? These are all applications that the WiFi IR Blaster is perfect for. The SparkFun WiFi IR Blaster is designed to connect all of those old, legacy IR-controlled devices to a WiFi network exposing them to a new method of control with the Internet of Things.
+	<oompAbout>(image and text from sparkfun.com)
+
+Do you want to control your TV via a web-browser? Want to ask Alexa to mute your stereo? Want to schedule triggers to your IR-controlled LED strip? These are all applications that the WiFi IR Blaster is perfect for. The SparkFun WiFi IR Blaster is designed to connect all of those old, legacy IR-controlled devices to a WiFi network exposing them to a new method of control with the Internet of Things.
 The WiFi IR Blaster combines an ESP8266 – a powerful WiFi/microcontroller SoC – with IR emitters and receivers. With built-in WiFi support, the ESP8266 can be programmed to provide an interface between HTTP, MQTT, TCP, and infrared-controlled devices. This module equips the ESP8266 with a crystal, 4MB flash, and a PCB antenna – just about everything it needs to get going. Please be aware that the antenna sits under the SparkFun logo on the board, so try not to place anything that may interfere with WiFi signals near that area.
 The IR emitter and detector components are packaged with the board, but not soldered in place. This allows you to solder both components at any angle your project requires. It also leaves the option to customize the board and spec out your own emitter and/or receiver. So some soldering will be required to get the WiFi IR Blaster operational.
- Get Started with the SparkFun WiFi IR Blaster Guide               
-            
-                      
-              
+ Get Started with the SparkFun WiFi IR Blaster Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/15000</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ The IR emitter and detector components are packaged with the board, but not sold
 
 
 	<numComponents>23</numComponents>
-	<numOompComponents>14</numOompComponents>
-	<oompCompletion>61</oompCompletion>
+	<numOompComponents>20</numOompComponents>
+	<oompCompletion>87</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -71,14 +69,14 @@ The IR emitter and detector components are packaged with the board, but not sold
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  eagleValue: 250mA/100V  eagleDevice: DIODE-BAS16J  eaglePackage: SOD-323</compID>
+		<compID>DIOD-S323-X-A015D-V75</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: 6_PIN_SERIAL_TARGETNO_SILK  eaglePackage: 1X06_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI06-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -92,7 +90,7 @@ The IR emitter and detector components are packaged with the board, but not sold
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: 600mA/40V  eagleDevice: TRANS_NPN-MMBT2222AL  eaglePackage: SOT23-3</compID>
+		<compID>TRNN-SO23-X-A06D-V30</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -155,14 +153,14 @@ The IR emitter and detector components are packaged with the board, but not sold
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  eagleValue: GPIO0  eagleDevice: MOMENTARY-SWITCH-SPST-SMD-4.6X2.8MM  eaglePackage: TACTILE_SWITCH_SMD_4.6X2.8MM</compID>
+		<compID>BUTA-4632-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  eagleValue: RESET  eagleDevice: MOMENTARY-SWITCH-SPST-SMD-4.6X2.8MM  eaglePackage: TACTILE_SWITCH_SMD_4.6X2.8MM</compID>
+		<compID>BUTA-4632-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -183,7 +181,7 @@ The IR emitter and detector components are packaged with the board, but not sold
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

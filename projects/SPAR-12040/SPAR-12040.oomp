@@ -5,12 +5,10 @@
 	<hexID>SPAR12040</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The INA169 is a “high-side current monitor,” which means that you place a resistor (a “shunt resistor”) on the positive power rail and the INA169 measures the voltage drop across that resistor. The INA169 outputs a small current based on the measured voltage drop. If you place a resistor from the output of the INA169 to ground, you can measure the voltage at the output.
-Input common-mode and power supply voltages are independent and can range from 2.7V to 60V on the INA169 and quiescent (sleep) current is only 60uA.              
-            
-                      
-              
+	<oompAbout>(image and text from sparkfun.com)
+
+The INA169 is a “high-side current monitor,” which means that you place a resistor (a “shunt resistor”) on the positive power rail and the INA169 measures the voltage drop across that resistor. The INA169 outputs a small current based on the measured voltage drop. If you place a resistor from the output of the INA169 to ground, you can measure the voltage at the output.
+Input common-mode and power supply voltages are independent and can range from 2.7V to 60V on the INA169 and quiescent (sleep) current is only 60uA.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/12040</oompOfficialLink>
 	<company>Sparkfun</company>

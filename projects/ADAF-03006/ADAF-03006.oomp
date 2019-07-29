@@ -5,7 +5,9 @@
 	<hexID>ADAF03006</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
+	<oompAbout>(image and text from adafruit.com)
+
+
 Adafruit MAX98357 I2S Amp Breakout PCB
 
 Click here to purchase one from the Adafruit shop
@@ -34,8 +36,8 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 
 
 	<numComponents>9</numComponents>
-	<numOompComponents>5</numOompComponents>
-	<oompCompletion>56</oompCompletion>
+	<numOompComponents>6</numOompComponents>
+	<oompCompletion>67</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -97,7 +99,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>X1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: TERMBLOCK_1X2  eaglePackage: TERMBLOCK_1X2-3.5MM</compID>
+		<compID>TERS-35D-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -5,13 +5,11 @@
 	<hexID>SPAR12785</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is the SparkFun "Time-of-Flight" Range Finder, a sensor board for the VL6180 distance sensor. Unlike most distance sensors that rely on reflected light intensity or reflected angles to determine range, the VL6180 uses a precise clock to measure the time it takes light to bounce back from a surface. This affords the ToF Range Finder and VL6180 a great benefit over other methods because it can be much more accurate and more immune to noise. Does this technology sound familiar? Well it should, it's the same means cellphones use to detect when the caller is holding their phone to their ear.
+	<oompAbout>(image and text from sparkfun.com)
+
+This is the SparkFun "Time-of-Flight" Range Finder, a sensor board for the VL6180 distance sensor. Unlike most distance sensors that rely on reflected light intensity or reflected angles to determine range, the VL6180 uses a precise clock to measure the time it takes light to bounce back from a surface. This affords the ToF Range Finder and VL6180 a great benefit over other methods because it can be much more accurate and more immune to noise. Does this technology sound familiar? Well it should, it's the same means cellphones use to detect when the caller is holding their phone to their ear.
 The VL6180 is actually a 3-in-1 package that combines an IR emitter, a range sensor, and an ambient light sensor together for you to easily use and communicate with via an I2C interface. The ToF Range Finder is very similar to its breakout cousin with a few important differences. What sets this board apart is this sensor is equipped with an on-board 2.8V regulator, which means if you were to plug in a voltage higher than 2.8V it will be shifted down without worry of damaging your board! Another thing to note is the form factor of the sensor itself. Many small robotics platforms have integrated hole patterns for the long time favorite Sharp IR sensor line. This allows the VL6180 Sensor to be a near drop-in replacement for most Sharp sensors.
-Note: Though the datasheet states the VL6180 measures an absolute range of up to 10cm, we have successfully tested it up to 25cm. The more you know.              
-            
-                      
-              
+Note: Though the datasheet states the VL6180 measures an absolute range of up to 10cm, we have successfully tested it up to 25cm. The more you know.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/12785</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ Note: Though the datasheet states the VL6180 measures an absolute range of up to
 
 
 	<numComponents>15</numComponents>
-	<numOompComponents>11</numOompComponents>
-	<oompCompletion>73</oompCompletion>
+	<numOompComponents>14</numOompComponents>
+	<oompCompletion>93</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -49,14 +47,14 @@ Note: Though the datasheet states the VL6180 measures an absolute range of up to
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: BSS138  eagleDevice: MOSFET-NCHANNELBSS138  eaglePackage: SOT23</compID>
+		<compID>MOSN-SO23-X-A02D-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  eagleValue: BSS138  eagleDevice: MOSFET-NCHANNELBSS138  eaglePackage: SOT23</compID>
+		<compID>MOSN-SO23-X-A02D-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -126,7 +124,7 @@ Note: Though the datasheet states the VL6180 measures an absolute range of up to
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  eagleValue: MIC5219 3.3V  eagleDevice: V_REG_MIC52193.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A05D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

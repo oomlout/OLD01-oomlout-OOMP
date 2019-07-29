@@ -5,14 +5,12 @@
 	<hexID>SPAR14380</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun Adjustable LiPo Charger is a single-cell lithium polymer (LiPo) and lithium ion battery charger. Because it’s adjustable, this charger will be able to safely charge most of our single-cell batteries with ease. With its onboard charge rate selector, you will be able to set the maximum amount of current to charge your battery from 15mA to 500mA.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun Adjustable LiPo Charger is a single-cell lithium polymer (LiPo) and lithium ion battery charger. Because it’s adjustable, this charger will be able to safely charge most of our single-cell batteries with ease. With its onboard charge rate selector, you will be able to set the maximum amount of current to charge your battery from 15mA to 500mA.
 Once the board is configured for the battery, you can connect power from either a microUSB cable or the pins below the USB connector labeled GND and INPUT. Once power is connected, you can install a single LiPo battery to one of the three battery connectors, the JST connector, PTH pins marked BATT, or the 2450 coin cell holder on the back of the board. The input voltage for the MCP73831 charger IC is between 3.75V and 6V. To fully charge a LiPo battery, it is recommended to have a voltage of around 5V. The charge IC will regulate the voltage down to safely charge the LiPo battery.
 Note: The switches on the Adjustable LiPo Charger come shipped with all the switches in the ON position. Before configuring the board, all the switches should be moved to the OFF position.
- Get Started with the SparkFun Adjustable LiPo Charger Guide               
-            
-                      
-              
+ Get Started with the SparkFun Adjustable LiPo Charger Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14380</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ Note: The switches on the Adjustable LiPo Charger come shipped with all the swit
 
 
 	<numComponents>20</numComponents>
-	<numOompComponents>12</numOompComponents>
-	<oompCompletion>60</oompCompletion>
+	<numOompComponents>15</numOompComponents>
+	<oompCompletion>75</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -71,7 +69,7 @@ Note: The switches on the Adjustable LiPo Charger come shipped with all the swit
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_021X02_NO_SILK  eaglePackage: 1X02_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -85,7 +83,7 @@ Note: The switches on the Adjustable LiPo Charger come shipped with all the swit
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_021X02_NO_SILK  eaglePackage: 1X02_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -162,7 +160,7 @@ Note: The switches on the Adjustable LiPo Charger come shipped with all the swit
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  eagleValue: MCP73831  eagleDevice: MCP73831  eaglePackage: SOT23-5</compID>
+		<compID>ICIC-SO235-X-K73831-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

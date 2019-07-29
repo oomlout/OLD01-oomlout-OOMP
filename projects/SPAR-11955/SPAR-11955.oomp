@@ -5,13 +5,11 @@
 	<hexID>SPAR11955</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is a breakout board for the PCA9306 dual bidirectional voltage-level translator. Because different parts sometimes use different voltage levels to communicate, voltage level translators can be the key to making different parts play nice.
+	<oompAbout>(image and text from sparkfun.com)
+
+This is a breakout board for the PCA9306 dual bidirectional voltage-level translator. Because different parts sometimes use different voltage levels to communicate, voltage level translators can be the key to making different parts play nice.
 The PCA9306 is a dual bidirectional I2C-bus and SMBus voltage-level translator that's operational on the low side from 1.0 V to 3.6 V and on the high side from 1.8 V to 5.5 V. Simply apply your low- and high-side reference voltages to the VREF1 and VREF2 respectively, connect your I/O and drive the Enable pin high to open bidirectional voltage translation without the use of a direction pin!
-Replaces:BOB-10403              
-            
-                      
-              
+Replaces:BOB-10403
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/11955</oompOfficialLink>
 	<company>Sparkfun</company>

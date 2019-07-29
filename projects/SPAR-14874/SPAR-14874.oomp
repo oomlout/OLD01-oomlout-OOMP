@@ -5,14 +5,12 @@
 	<hexID>SPAR14874</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun TSH82 Configurable OpAmp Board was designed to give you the best combination of performance and flexibility that we could achieve by giving you two gain stages, each one independently accessible on the header pins. Each stage is natively configured as an inverting amplifier that can also be strung together to expand the capabilities of the OpAmp. With the use of the jumpers on the back of the board, you can configure each stage for non-inverting operation, differential input, and DC input coupling.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun TSH82 Configurable OpAmp Board was designed to give you the best combination of performance and flexibility that we could achieve by giving you two gain stages, each one independently accessible on the header pins. Each stage is natively configured as an inverting amplifier that can also be strung together to expand the capabilities of the OpAmp. With the use of the jumpers on the back of the board, you can configure each stage for non-inverting operation, differential input, and DC input coupling.
 Electrically speaking, both stages on this board are identical. The default configuration is inverting with a gain of -4.7 with a bandwidth of almost 10MHz. Input signals are AC coupled, possess an input impedance of 10K with a low frequency cutoff of 15.9Hz. Outputs are also DC coupled, so don’t forget to add a capacitor to the output if you’re running a single-ended supply and need to strip out the DC component. The board will also operate with a single-ended DC power supply of 4.5V to 12V, or a bipolar supply from +/-2.25V to +/-6V.
 On the back of the board you’ll find 10 solder jumpers that can be used to change the board’s performance, but nothing there needs to be changed to use it in it’s default state.
- Get Started With the Configurable OpAmp Board Guide               
-            
-                      
-              
+ Get Started With the Configurable OpAmp Board Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14874</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ On the back of the board you’ll find 10 solder jumpers that can be used to chang
 
 
 	<numComponents>20</numComponents>
-	<numOompComponents>18</numOompComponents>
-	<oompCompletion>90</oompCompletion>
+	<numOompComponents>19</numOompComponents>
+	<oompCompletion>95</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -85,7 +83,7 @@ On the back of the board you’ll find 10 solder jumpers that can be used to chang
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_09NO_SILK  eaglePackage: 1X09_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI09-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

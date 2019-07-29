@@ -5,7 +5,9 @@
 	<hexID>ADAF02860</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
+	<oompAbout>(image and text from adafruit.com)
+
+
 Adafruit 12, 16, and 24 NeoPixel Rings
     
 
@@ -35,63 +37,63 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 
 
 	<numComponents>20</numComponents>
-	<numOompComponents>12</numOompComponents>
-	<oompCompletion>60</oompCompletion>
+	<numOompComponents>20</numOompComponents>
+	<oompCompletion>100</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>C2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: C-EUC0603  eaglePackage: C0603</compID>
+		<compID>LEDS-5050-RGB-K2811-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>C3</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: C-EUC0603  eaglePackage: C0603</compID>
+		<compID>LEDS-5050-RGB-K2811-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>C4</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: C-EUC0603  eaglePackage: C0603</compID>
+		<compID>LEDS-5050-RGB-K2811-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>C6</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: C-EUC0603  eaglePackage: C0603</compID>
+		<compID>LEDS-5050-RGB-K2811-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>C8</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: C-EUC0603  eaglePackage: C0603</compID>
+		<compID>LEDS-5050-RGB-K2811-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>C9</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: C-EUC0603  eaglePackage: C0603</compID>
+		<compID>LEDS-5050-RGB-K2811-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>C10</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: C-EUC0603  eaglePackage: C0603</compID>
+		<compID>LEDS-5050-RGB-K2811-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>C12</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: C-EUC0603  eaglePackage: C0603</compID>
+		<compID>LEDS-5050-RGB-K2811-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

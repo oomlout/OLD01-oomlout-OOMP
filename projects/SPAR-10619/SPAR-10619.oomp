@@ -5,13 +5,11 @@
 	<hexID>SPAR10619</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                Freescale’s MAG3110 is a small, low-power, digital 3-axis magnetometer. The device can be used in conjunction with a 3-axis accelerometer to produce orientation independent accurate compass heading information. It features a standard I2C serial interface output and smart embedded functions. It's also a tiny QFN package which isn't very easy to play with so here is our easy to use breakout board. This board breaks out all of the pins for the MAG3110 to a standard 0.1" header and also supplies the necessary filtering capacitors so that you can easily use it in your next navigation project.
+	<oompAbout>(image and text from sparkfun.com)
+
+Freescale’s MAG3110 is a small, low-power, digital 3-axis magnetometer. The device can be used in conjunction with a 3-axis accelerometer to produce orientation independent accurate compass heading information. It features a standard I2C serial interface output and smart embedded functions. It's also a tiny QFN package which isn't very easy to play with so here is our easy to use breakout board. This board breaks out all of the pins for the MAG3110 to a standard 0.1" header and also supplies the necessary filtering capacitors so that you can easily use it in your next navigation project.
 Note:  You will need to use a logic level converter if you are using an Arduino Uno or similar 5V logic device. Even if 3.3V is to be supplied to the VDD, an Uno putting out 5V logic can still fry this breakout.
- Get Started with the MAG3110 Breakout Guide               
-            
-                      
-              
+ Get Started with the MAG3110 Breakout Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/10619</oompOfficialLink>
 	<company>Sparkfun</company>

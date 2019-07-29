@@ -5,14 +5,12 @@
 	<hexID>SPAR13322</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun Soil Moisture Sensor is a simple breakout for measuring the moisture in soil and similar materials. The soil moisture sensor is pretty straight forward to use. The two large exposed pads function as probes for the sensor, together acting as a variable resistor. The more water that is in the soil means the better the conductivity between the pads will be and will result in a lower resistance, and a higher SIG out.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun Soil Moisture Sensor is a simple breakout for measuring the moisture in soil and similar materials. The soil moisture sensor is pretty straight forward to use. The two large exposed pads function as probes for the sensor, together acting as a variable resistor. The more water that is in the soil means the better the conductivity between the pads will be and will result in a lower resistance, and a higher SIG out.
 To get the SparkFun Soil Moisture Sensor functioning all you will need is to connect the VCC and GND pins to your Arduino-based device (or compatible development board) and you will receive a SIG out which will depend on the amount of water in the soil. One commonly known issue with soil moisture senors is their short lifespan when exposed to a moist environment. To combat this, we’ve had the PCB coated in Gold Finishing (ENIG or Electroless Nickel Immersion Gold). We recommend either a simple 3-pin screw pin terminal or a 3-pin jumper wire assembly (both can be found in the Recommended Products section below) to be soldered onto the sensor for easy wiring.
 Note: Check the Hookup Guide below for assembly and weatherproofing instructions as well as a simple example project that you can put to together yourself!
- Get Started with the Soil Moisture Sensor Guide               
-            
-                      
-              
+ Get Started with the Soil Moisture Sensor Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13322</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,14 +20,14 @@ Note: Check the Hookup Guide below for assembly and weatherproofing instructions
 
 
 	<numComponents>3</numComponents>
-	<numOompComponents>2</numOompComponents>
-	<oompCompletion>67</oompCompletion>
+	<numOompComponents>3</numOompComponents>
+	<oompCompletion>100</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: 2N3904  eagleDevice: TRANSISTOR_NPNMMBT2222A  eaglePackage: SOT23-3</compID>
+		<compID>TRNN-SO23-X-A06D-V30</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

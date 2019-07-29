@@ -5,14 +5,12 @@
 	<hexID>SPAR10936</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                Got too much data for 10 measly segments? This kit contains a PCB and all the parts needed to build a 30-LED bargraph that can be driven by an Arduino or other microcontroller.
+	<oompAbout>(image and text from sparkfun.com)
+
+Got too much data for 10 measly segments? This kit contains a PCB and all the parts needed to build a 30-LED bargraph that can be driven by an Arduino or other microcontroller.
 This kit uses our 74HC595 shift registers and 10-Segment bargraph modules to create the display. We supply one green, one yellow, and one red module for 'safe / caution / DANGER!' displays. The display is easily driven by a microcontroller using an SSI interface, and you have individual control over every LED.
 Note: This kit comes unassembled and requires basic soldering skills. The included resistors may vary in color depending on our supplier.
-Note: The pinout on these bar graphs may vary from what is listed on the datasheet. Before soldering your kit into place, we recommend testing the polarity on the LED bar graph to confirm its orientation.              
-            
-                      
-              
+Note: The pinout on these bar graphs may vary from what is listed on the datasheet. Before soldering your kit into place, we recommend testing the polarity on the LED bar graph to confirm its orientation.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/10936</oompOfficialLink>
 	<company>Sparkfun</company>

@@ -5,16 +5,14 @@
 	<hexID>SPAR14348</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun CCS811/BME280 Environmental Combo Breakout takes care of all your atmospheric-quality sensing needs with the popular CCS811 and BME280 ICs. This unique breakout provides a variety of environmental data, including barometric pressure, humidity, temperature, TVOCs and equivalent CO2 (or eCO2) levels. To make it even easier to use this breakout, all communication is enacted exclusively via I2C, utilizing our handy Qwiic system. However, we still have broken out 0.1" spaced pins in case you prefer to use a breadboard.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun CCS811/BME280 Environmental Combo Breakout takes care of all your atmospheric-quality sensing needs with the popular CCS811 and BME280 ICs. This unique breakout provides a variety of environmental data, including barometric pressure, humidity, temperature, TVOCs and equivalent CO2 (or eCO2) levels. To make it even easier to use this breakout, all communication is enacted exclusively via I2C, utilizing our handy Qwiic system. However, we still have broken out 0.1" spaced pins in case you prefer to use a breadboard.
 The CCS811 is an exceedingly popular sensor, providing readings for equivalent CO2 (or eCO2) in the parts per million (PPM) and total volatile organic compounds in the parts per billion (PPB). The CCS811 also has a feature that allows it to fine-tune its readings if it has access to the current humidity and temperature. Luckily for us, the BME280 provides humidity, temperature and barometric pressure! This allows the sensors to work together to give us more accurate readings than they’d be able to provide on their own. We also made it easy to interface with them via I2C.
 
 The SparkFun Qwiic connect system is an ecosystem of I2C sensors, actuators, shields and cables that make prototyping faster and less prone to error. All Qwiic-enabled boards use a common 1mm pitch, 4-pin JST connector. This reduces the amount of required PCB space, and polarized connections mean you can’t hook it up wrong.
 
- Get Started with the Environmental Combo Breakout Guide               
-            
-                      
-              
+ Get Started with the Environmental Combo Breakout Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14348</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -24,8 +22,8 @@ The SparkFun Qwiic connect system is an ecosystem of I2C sensors, actuators, shi
 
 
 	<numComponents>14</numComponents>
-	<numOompComponents>10</numOompComponents>
-	<oompCompletion>71</oompCompletion>
+	<numOompComponents>12</numOompComponents>
+	<oompCompletion>86</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -66,7 +64,7 @@ The SparkFun Qwiic connect system is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  eagleValue: CCS811 Options  eagleDevice: CONN_031X03_NO_SILK  eaglePackage: 1X03_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -80,7 +78,7 @@ The SparkFun Qwiic connect system is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  eagleValue: PTH  eagleDevice: I2C_STANDARD_NO_SILK  eaglePackage: 1X04_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI04-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

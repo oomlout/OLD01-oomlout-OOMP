@@ -5,12 +5,10 @@
 	<hexID>SPAR10968</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The NCP1402 is a 5V DC-DC converter. This breakout board will accept voltage inputs between 1 and 4 Volts and output a constant, low ripple 5V output capable of sourcing up to 200 mA. This board is great for supplying power to 5V sensors on a 3.3V board, or providing 5V from a AA battery.
-The breakout board includes all of the necessary peripheral components. The input, output and ground pins are broken out on a 0.1" grid to allow easy access on a breadboard.              
-            
-                      
-              
+	<oompAbout>(image and text from sparkfun.com)
+
+The NCP1402 is a 5V DC-DC converter. This breakout board will accept voltage inputs between 1 and 4 Volts and output a constant, low ripple 5V output capable of sourcing up to 200 mA. This board is great for supplying power to 5V sensors on a 3.3V board, or providing 5V from a AA battery.
+The breakout board includes all of the necessary peripheral components. The input, output and ground pins are broken out on a 0.1" grid to allow easy access on a breadboard.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/10968</oompOfficialLink>
 	<company>Sparkfun</company>

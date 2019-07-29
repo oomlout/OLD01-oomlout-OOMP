@@ -5,14 +5,12 @@
 	<hexID>SPAR10507</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The Quadstepper motor driver board allows you to control up to 4 bipolar stepper motors simultaneously using logic level IO pins. Each motor driver has an output drive capacity of 35V and 1Amps. The board is capable of driving motors in full, half, quarter, eight, and sixteenth-step modes. The logic levels are selectable between 3.3V and 5V by way of a jumper. The bus header allows you to control all four motors with only 6 IO pins by controlling the enable (EN pins) for each motor, although each motor will be activated alone, not simultaneously. Be sure to close all of the 'Bus Enable' jumpers on the back of the board in order to use the Bus header.
+	<oompAbout>(image and text from sparkfun.com)
+
+The Quadstepper motor driver board allows you to control up to 4 bipolar stepper motors simultaneously using logic level IO pins. Each motor driver has an output drive capacity of 35V and 1Amps. The board is capable of driving motors in full, half, quarter, eight, and sixteenth-step modes. The logic levels are selectable between 3.3V and 5V by way of a jumper. The bus header allows you to control all four motors with only 6 IO pins by controlling the enable (EN pins) for each motor, although each motor will be activated alone, not simultaneously. Be sure to close all of the 'Bus Enable' jumpers on the back of the board in order to use the Bus header.
 The Quadstepper is a great board for 3D printing applications as well as a host of other applications where it's necessary to control precise movement from logic level IO pins.
 Note: Although this board can theoretically supply 2A per motor, you will run into heat issues if you do not have proper thermal management (ie - heatsinks). Without heatsinking, you can expect to drive each motor up to 1A, which would be fine for our stepper motors, or something similar.
-Note: The Arduino Library currently only works with an Arduino Mega or Mega 2560.              
-            
-                      
-              
+Note: The Arduino Library currently only works with an Arduino Mega or Mega 2560.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/10507</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ Note: The Arduino Library currently only works with an Arduino Mega or Mega 2560
 
 
 	<numComponents>90</numComponents>
-	<numOompComponents>70</numOompComponents>
-	<oompCompletion>78</oompCompletion>
+	<numOompComponents>71</numOompComponents>
+	<oompCompletion>79</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -239,7 +237,7 @@ Note: The Arduino Library currently only works with an Arduino Mega or Mega 2560
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  eagleValue: PTC  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
+		<compID>REFU-1206-X-A05D-V8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

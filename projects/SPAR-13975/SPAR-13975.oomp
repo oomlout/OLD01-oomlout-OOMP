@@ -5,15 +5,13 @@
 	<hexID>SPAR13975</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                At SparkFun we use many Arduinos and we're always looking for the simplest, most stable one. Each board is a bit different and no one board has everything we want, so we decided to make our own version that combines all our favorite features. The SparkFun RedBoard combines the simplicity of the UNO's Optiboot bootloader (which is used in the Pro series), the stability of the FTDI (which we all missed after the Duemilanove was discontinued) and the R3 shield compatibility of the latest Arduino UNO R3.
+	<oompAbout>(image and text from sparkfun.com)
+
+At SparkFun we use many Arduinos and we're always looking for the simplest, most stable one. Each board is a bit different and no one board has everything we want, so we decided to make our own version that combines all our favorite features. The SparkFun RedBoard combines the simplicity of the UNO's Optiboot bootloader (which is used in the Pro series), the stability of the FTDI (which we all missed after the Duemilanove was discontinued) and the R3 shield compatibility of the latest Arduino UNO R3.
 The RedBoard can be programmed over a USB Mini-B cable using the Arduino IDE: Just plug in the board, select "Arduino UNO" from the board menu and you're ready to upload code. RedBoard has all of the hardware peripherals you know and love: 14 Digital I/O pins with 6 PWM pins, 6 Analog Inputs, UART, SPI and external interrupts. We've also broken out the SDA, SCL and IOREF pins that showed up on the UNO R3, so the RedBoard will be compatible with future shields. This version adds an SMD ISP header for use with shields.
 You can power the RedBoard over USB or through the barrel jack. The on-board power regulator can handle anything from 7 to 15VDC. Check out the related items below for a compatible wall-wart power supply.
 Not sure which Arduino or Arduino-compatible board is right for you? Check out our Arduino Buying Guide!
- Get Started With the SparkFun RedBoard Guide               
-            
-                      
-              
+ Get Started With the SparkFun RedBoard Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13975</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -23,8 +21,8 @@ Not sure which Arduino or Arduino-compatible board is right for you? Check out o
 
 
 	<numComponents>44</numComponents>
-	<numOompComponents>34</numOompComponents>
-	<oompCompletion>77</oompCompletion>
+	<numOompComponents>40</numOompComponents>
+	<oompCompletion>91</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -128,21 +126,21 @@ Not sure which Arduino or Arduino-compatible board is right for you? Check out o
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: MBRA140  eaglePackage: SMA-DIODE</compID>
+		<compID>DIOS-D214-X-A01-V40</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  eagleValue: 6V/0.5A  eagleDevice: PTC-HALF_AMP  eaglePackage: 1206</compID>
+		<compID>REFU-1206-X-A05D-V8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>IC3</compIden>
-		<compID>NOT OOMP  eagleValue: LM1117  eagleDevice: V_REG_LM1117ALT1  eaglePackage: SOT223-ALT1</compID>
+		<compID>VREG-SO223-X-V33D-A08D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -156,7 +154,7 @@ Not sure which Arduino or Arduino-compatible board is right for you? Check out o
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  eagleValue: POWER_JACKSUPER_BOMB_DIGITY  eagleDevice: POWER_JACKSUPER_BOMB_DIGITY  eaglePackage: POWER_JACK_SMD_OVERPASTE_SUPER_BOMB_DIGITY</compID>
+		<compID>DCJP-21D-X-SMDS-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -317,7 +315,7 @@ Not sure which Arduino or Arduino-compatible board is right for you? Check out o
 	<component>
 		<compIndex>42</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  eagleValue: MIC5205  eagleDevice: MIC52053.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A015D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -331,7 +329,7 @@ Not sure which Arduino or Arduino-compatible board is right for you? Check out o
 	<component>
 		<compIndex>44</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  eagleValue: 16MHz  eagleDevice: RESONATOR-16MHZSMD_3.2X1.3  eaglePackage: RESONATOR-SMD-3.2X1.3</compID>
+		<compID>CERE-1263-X-MZ16-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

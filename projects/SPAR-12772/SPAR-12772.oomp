@@ -5,15 +5,13 @@
 	<hexID>SPAR12772</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun Logomatic v2 takes everything we learned with logging analog or serial data from your projects over the years and boils it down to an easy to use device, that is now more adaptable than ever! Version 2 incorporates the LPC2148 with microUSB, battery charging, FAT32 formatting, and microSD support. This allows us to use the SparkFun LPC2148 USB bootloader for even easier and faster modification of the firmware. No programmer required!
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun Logomatic v2 takes everything we learned with logging analog or serial data from your projects over the years and boils it down to an easy to use device, that is now more adaptable than ever! Version 2 incorporates the LPC2148 with microUSB, battery charging, FAT32 formatting, and microSD support. This allows us to use the SparkFun LPC2148 USB bootloader for even easier and faster modification of the firmware. No programmer required!
 The Logomatic v2 uses a USB mass storage stack to appear under any operating system as a flash drive. Logs are created in FAT32 format on the microSD media and can be downloaded quickly over a USB connection by dragging and dropping the text files from the device. The microSD card can also be removed and inserted into a card reader to download the logs.
 This board comes with a JST connector to be powered from our line-up of LiPo batteries or other power sources up to 7.5VDC. If you choose to use LiPo batteries, the Logomatic v2 has a built-in charger to charge batteries off USB.
 The Logomatic v2 ships with basic serial text and analog logging. Users can easily start with this firmware but are encouraged to modify the firmware for their specific requirements. It's a truly flexible logger.
- Get Started With the SparkFun Logomatic v2 Guide               
-            
-                      
-              
+ Get Started With the SparkFun Logomatic v2 Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/12772</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -23,8 +21,8 @@ The Logomatic v2 ships with basic serial text and analog logging. Users can easi
 
 
 	<numComponents>52</numComponents>
-	<numOompComponents>41</numOompComponents>
-	<oompCompletion>79</oompCompletion>
+	<numOompComponents>44</numOompComponents>
+	<oompCompletion>85</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -184,7 +182,7 @@ The Logomatic v2 ships with basic serial text and analog logging. Users can easi
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: 12MHz  eagleDevice: CRYSTAL5X3  eaglePackage: CRYSTAL-SMD-5X3</compID>
+		<compID>XTAL-5032-X-MZ12-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -345,7 +343,7 @@ The Logomatic v2 ships with basic serial text and analog logging. Users can easi
 	<component>
 		<compIndex>46</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPSTSMD  eaglePackage: AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -373,7 +371,7 @@ The Logomatic v2 ships with basic serial text and analog logging. Users can easi
 	<component>
 		<compIndex>50</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

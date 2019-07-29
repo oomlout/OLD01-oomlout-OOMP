@@ -5,14 +5,12 @@
 	<hexID>SPAR12581</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                A cable-less solution developed for controlling your Roomba. The SparkFun RooTooth v2 communicates with any Bluetooth**® **enabled device using the Serial Port Profile (SPP). You can now tell the Roomba when to wake up, when to clean, and when to shut off. You can even remotely drive your Roomba from your computer or from the WiTilt!
+	<oompAbout>(image and text from sparkfun.com)
+
+A cable-less solution developed for controlling your Roomba. The SparkFun RooTooth v2 communicates with any Bluetooth® enabled device using the Serial Port Profile (SPP). You can now tell the Roomba when to wake up, when to clean, and when to shut off. You can even remotely drive your Roomba from your computer or from the WiTilt!
 This product requires that the SCI (serial command interface) has been installed on your Roomba. SCI has been installed on all Roombas manufactured after October 24th, 2005. Please verify that your Roomba is compatible by checking here.
 The new RooTooths are based on the Roving Network bluetooth module. The command set has changed from the original user guide written by Roomba Dev Tools. The new datasheet is below. The Rootooths are configured to 57600bps to work at the Roomba's default communication rate.
-Replaces:DEV-10980              
-            
-                      
-              
+Replaces:DEV-10980
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/12581</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ Replaces:DEV-10980
 
 
 	<numComponents>17</numComponents>
-	<numOompComponents>11</numOompComponents>
-	<oompCompletion>65</oompCompletion>
+	<numOompComponents>13</numOompComponents>
+	<oompCompletion>76</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -64,14 +62,14 @@ Replaces:DEV-10980
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: MOSFET-NCHANNELSMD  eagleDevice: MOSFET-NCHANNELSMD  eaglePackage: SOT23-3</compID>
+		<compID>MOSN-SO23-X-A02D-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  eagleValue: MOSFET-NCHANNELSMD  eagleDevice: MOSFET-NCHANNELSMD  eaglePackage: SOT23-3</compID>
+		<compID>MOSN-SO23-X-A02D-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

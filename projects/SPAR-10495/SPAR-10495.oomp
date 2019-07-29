@@ -5,13 +5,11 @@
 	<hexID>SPAR10495</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is a simple breakout board for our through-hole 24.5 mm coin cell holder. All you need to do is solder the tabs of the holder down and you're good to go! There are also two mounting holes for attaching it to your project.
+	<oompAbout>(image and text from sparkfun.com)
+
+This is a simple breakout board for our through-hole 24.5 mm coin cell holder. All you need to do is solder the tabs of the holder down and you're good to go! There are also two mounting holes for attaching it to your project.
 Note: We've found that applying a bit of solder to the large solder pad in the middle creates a better connection with the negative side of the battery.
-Note: You will get just the bare PCB. Check below for the coin cell holder that you will need to solder to the board.              
-            
-                      
-              
+Note: You will get just the bare PCB. Check below for the coin cell holder that you will need to solder to the board.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/10495</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ Note: You will get just the bare PCB. Check below for the coin cell holder that 
 
 
 	<numComponents>2</numComponents>
-	<numOompComponents>0</numOompComponents>
-	<oompCompletion>0</oompCompletion>
+	<numOompComponents>1</numOompComponents>
+	<oompCompletion>50</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -35,7 +33,7 @@ Note: You will get just the bare PCB. Check below for the coin cell holder that 
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: M02PTH  eaglePackage: 1X02</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

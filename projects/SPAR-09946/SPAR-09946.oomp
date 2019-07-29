@@ -5,13 +5,11 @@
 	<hexID>SPAR09946</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This breakout board uses the LTC3588 Piezoelectric Energy Harvester from Linear Technologies. This board can be used not only for harvesting piezoelectric energy, but solar energy as well. There is a bridge rectified input for piezo elements (PZ1 and PZ2) and a direct input (VIN) for DC sources. Both are clamped to 20V. In addition, the board can simply be used as a standalone nanopower buck regulator.
+	<oompAbout>(image and text from sparkfun.com)
+
+This breakout board uses the LTC3588 Piezoelectric Energy Harvester from Linear Technologies. This board can be used not only for harvesting piezoelectric energy, but solar energy as well. There is a bridge rectified input for piezo elements (PZ1 and PZ2) and a direct input (VIN) for DC sources. Both are clamped to 20V. In addition, the board can simply be used as a standalone nanopower buck regulator.
 An ultralow quiescent current undervoltage lockout (UVLO) mode with a wide hysteresis window allows charge to accumulate on an input capacitor until the buck converter can efficiently transfer a portion of the stored charge to the output. In regulation, the LTC3588 enters a sleep state in which both input and output quiescent currents are minimal. The buck converter turns on and off as needed to maintain regulation.
-Four output voltages (1.8V, 2.5V, 3.3V and 3.6V) are pin selectable with up to 100mA of continuous output current and comes pre-configured for an output of 3.3V. However, the output capacitor may be sized to service a higher output current burst. An input protective shunt set at 20V enables greater energy storage for a given amount of input capacitance.              
-            
-                      
-              
+Four output voltages (1.8V, 2.5V, 3.3V and 3.6V) are pin selectable with up to 100mA of continuous output current and comes pre-configured for an output of 3.3V. However, the output capacitor may be sized to service a higher output current burst. An input protective shunt set at 20V enables greater energy storage for a given amount of input capacitance.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9946</oompOfficialLink>
 	<company>Sparkfun</company>

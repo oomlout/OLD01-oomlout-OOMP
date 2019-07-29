@@ -5,13 +5,11 @@
 	<hexID>SPAR09147</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun AVR Stick is a simple data logging device that instantiates itself as an HID keyboard and reports the voltages, along with a 'timestamp,' from two pins on an ATtiny85. The device uses open source firmware availabe from Objective Development (http://www.obdev.at/vusb/) called V-USB to implement the USB 1.1 standard. The code that runs the application was based on the EasyLogger example application from Objective development.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun AVR Stick is a simple data logging device that instantiates itself as an HID keyboard and reports the voltages, along with a 'timestamp,' from two pins on an ATtiny85. The device uses open source firmware availabe from Objective Development (http://www.obdev.at/vusb/) called V-USB to implement the USB 1.1 standard. The code that runs the application was based on the EasyLogger example application from Objective development.
 The default firmware runs simply enough: plug it in to a USB port on your computer, after the computer recognizes the device as a keyboard it will automatically start reporting the voltages. To get a series of measurements, open up a text or spreadsheet editor and plug the AVR stick in. The AVR Stick will automatically start inputting the voltage values to whatever program is active on the computer. The ADC is configured to use a 2.56V reference voltage, so don't try measuring anything higher than that without modifying the code!
-This thing is meant to be hacked! Visit the Objective Development website to learn how others have used the USB stack to implement miscellaneous HID projects like keyboards, mice, joysticks, etc., etc., etc...              
-            
-                      
-              
+This thing is meant to be hacked! Visit the Objective Development website to learn how others have used the USB stack to implement miscellaneous HID projects like keyboards, mice, joysticks, etc., etc., etc...
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9147</oompOfficialLink>
 	<company>Sparkfun</company>

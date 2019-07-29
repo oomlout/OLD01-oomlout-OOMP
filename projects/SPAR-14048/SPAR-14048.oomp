@@ -5,13 +5,11 @@
 	<hexID>SPAR14048</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun TeensyView brings you an easy way to add a small, white-on-black OLED to your Teensy development board. The 128x32 monochrome display is controlled with the popular SSD1306 IC, and is a great way to display debug information and to visualize data without the need for a serial terminal. The board matches the Teensy 3 form factor perfectly, and was designed from the ground up to be as flexible as possible while still being able to nest down into a low-profile addition for the Teensy.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun TeensyView brings you an easy way to add a small, white-on-black OLED to your Teensy development board. The 128x32 monochrome display is controlled with the popular SSD1306 IC, and is a great way to display debug information and to visualize data without the need for a serial terminal. The board matches the Teensy 3 form factor perfectly, and was designed from the ground up to be as flexible as possible while still being able to nest down into a low-profile addition for the Teensy.
 The TeensyView comes with everything you need except the headers. Additionally, there are jumpers on one side of the board that allow you to configure how the OLED communicates with the attached Teensy. Since this is a headerless board, you have the option to solder on whatever type of header best fits your needs. Headers you may find useful with this product include the Teensy Header Kit, Straight Headers, Long Straight Headers and Female Headers.
- Get Started with the SparkFun TeensyView Guide               
-            
-                      
-              
+ Get Started with the SparkFun TeensyView Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14048</oompOfficialLink>
 	<company>Sparkfun</company>

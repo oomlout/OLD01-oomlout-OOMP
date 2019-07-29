@@ -5,13 +5,11 @@
 	<hexID>SPAR13911</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun Serial Controlled Motor Driver (SCMD) is a DC motor driver that’s been designed to drive small DC motors with ease. The SCMD is designed to emulate a typical register-based device in operation. It can be commanded by UART, I2C or SPI communication, and it can drive a constant 1.2A load per motor (peak 1.5A) at 11V. Need more than two motors? Chain multiple SCMDs together and command them through the same serial interface. Need more current? Each board’s output can be bridged to allow double current.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun Serial Controlled Motor Driver (SCMD) is a DC motor driver that’s been designed to drive small DC motors with ease. The SCMD is designed to emulate a typical register-based device in operation. It can be commanded by UART, I2C or SPI communication, and it can drive a constant 1.2A load per motor (peak 1.5A) at 11V. Need more than two motors? Chain multiple SCMDs together and command them through the same serial interface. Need more current? Each board’s output can be bridged to allow double current.
 This driver board was designed to be affordable, compact and have more features than previous versions of serial-controlled motor drivers. Its main advantage is the variability of drive levels, making fine control adjustments a possibility. The SCMD is a 3.3V logic device! If you need to interface to 5V, you'll need to use a logic level converter -- or modify the SCMDs from stock to operate at 5V and supply your own regulated 5V.
- Get Started with the SCMD Guide               
-            
-                      
-              
+ Get Started with the SCMD Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13911</oompOfficialLink>
 	<company>Sparkfun</company>

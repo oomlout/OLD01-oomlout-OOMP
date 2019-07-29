@@ -5,13 +5,11 @@
 	<hexID>SPAR13039</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The Intel® Edison is an ultra small computing platform that will change the way you look at embedded electronics. Each Edison is packed with a huge amount of tech goodies into a tiny package while still providing the same robust strength of your go-to single board computer. Powered by the Intel® Atom™ SoC dual-core CPU and including an integrated WiFi, Bluetooth LE, and a 70-pin connector to attach a veritable slew of shield-like "Blocks" which can be stacked on top of each other. It's no wonder how this little guy is lowering the barrier of entry on the world of electronics!
+	<oompAbout>(image and text from sparkfun.com)
+
+The Intel® Edison is an ultra small computing platform that will change the way you look at embedded electronics. Each Edison is packed with a huge amount of tech goodies into a tiny package while still providing the same robust strength of your go-to single board computer. Powered by the Intel® Atom™ SoC dual-core CPU and including an integrated WiFi, Bluetooth LE, and a 70-pin connector to attach a veritable slew of shield-like "Blocks" which can be stacked on top of each other. It's no wonder how this little guy is lowering the barrier of entry on the world of electronics!
 The Console Block is one of the simplest ways to power and communicate with an Intel® Edison. This is a minimal solution to get started using the Intel® Edison. This board can supply 4V and up to 1.5A of current to power the Edison passed through it's VSYS line and any other expansion boards you may add to your stack. Utilizing the FTDI 231X, this creates a USB to serial bridge that is level shifted to the proper 1.8V required by the Edison.
-If you are looking to add a little more stability to your Intel® Edison stack, check out this Hardware Pack. It will provide you with increased mechanical strength for stacking Blocks on your Edison!              
-            
-                      
-              
+If you are looking to add a little more stability to your Intel® Edison stack, check out this Hardware Pack. It will provide you with increased mechanical strength for stacking Blocks on your Edison!
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13039</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ If you are looking to add a little more stability to your Intel® Edison stack, c
 
 
 	<numComponents>28</numComponents>
-	<numOompComponents>22</numOompComponents>
-	<oompCompletion>79</oompCompletion>
+	<numOompComponents>23</numOompComponents>
+	<oompCompletion>82</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -112,7 +110,7 @@ If you are looking to add a little more stability to your Intel® Edison stack, c
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: BSS138  eagleDevice: MOSFET-NCHANNELBSS138  eaglePackage: SOT23-3</compID>
+		<compID>MOSN-SO23-X-A02D-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -5,15 +5,13 @@
 	<hexID>SPAR14812</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                If you’re ready to step up your Arduino game from older 8-bit/16MHz microcontrollers, the SparkFun RedBoard Turbo is a formidable alternative. At its heart, the RedBoard Turbo uses the ATSAMD21G18, which is an ARM Cortex M0+, 32-bit microcontroller that can run at up to 48MHz. With an impressive 4MB of external flash memory and a UF2 (USB Flashing Format) bootloader, the RedBoard Turbo provides you with an economical and easy to use development platform if you're needing more power than the classic RedBoard.
+	<oompAbout>(image and text from sparkfun.com)
+
+If you’re ready to step up your Arduino game from older 8-bit/16MHz microcontrollers, the SparkFun RedBoard Turbo is a formidable alternative. At its heart, the RedBoard Turbo uses the ATSAMD21G18, which is an ARM Cortex M0+, 32-bit microcontroller that can run at up to 48MHz. With an impressive 4MB of external flash memory and a UF2 (USB Flashing Format) bootloader, the RedBoard Turbo provides you with an economical and easy to use development platform if you're needing more power than the classic RedBoard.
 The SparkFun RedBoard Turbo has been equipped with a USB interface for programming and power, a Qwiic connector, an RTC crystal, WS2812-based addressable RGB LED, 600mA 3.3V regulator, and a variety of other components. To power the RedBoard Turbo, just plug it into a USB port on your computer via the micro-B port or directly into the wall with the 5V tolerant barrel jack. Not near a USB port? No problem, the SparkFun RedBoard Turbo is also equipped with a LiPo Battery connector (for a single-cell 3.7-4.2V litium-polymer battery). The MCP73831's charge current is configured by a resistor value between 66kO and 2kO, to charge the battery at a rate between 15mA and 500mA, respectively. By default, the board is configured to charge the battery at around 250mA. If you’ve used any Arduino before, this pinout shouldn’t surprise you – the layout meets the Arduino 1.0 footprint standard, including a separate SPI header and additional I2C header.
 The RedBoard Turbo can even be flashed over the Mass Storage Class (MSC) just like a removable flash drive, thanks the the UF2 bootloader. With this bootloader, the RedBoard Turbo shows up on your computer as a USB storage device without having to install drivers! From the Arduino IDE, you’ll still need to select the correct port on your machine, but you can just as easily use another programming language such as CircuitPython or MakeCode.
 Note: The barrel jack connection on the RedBoard Turbo has a lower input voltage than most Arduino development boards. Make sure that you are using a power supply below 6V. Please be aware that the RedBoard Turbo is also a 3.3V device and not a 5V one like the original RedBoard.
- Get Started With the SparkFun RedBoard Turbo Guide               
-            
-                      
-              
+ Get Started With the SparkFun RedBoard Turbo Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14812</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -23,8 +21,8 @@ Note: The barrel jack connection on the RedBoard Turbo has a lower input voltage
 
 
 	<numComponents>47</numComponents>
-	<numOompComponents>33</numOompComponents>
-	<oompCompletion>70</oompCompletion>
+	<numOompComponents>38</numOompComponents>
+	<oompCompletion>81</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -128,7 +126,7 @@ Note: The barrel jack connection on the RedBoard Turbo has a lower input voltage
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  eagleValue: BAT20J  eagleDevice: DIODE-SCHOTTKY-BAT20J  eaglePackage: SOD-323</compID>
+		<compID>DIOS-S323-X-A01-V23</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -177,7 +175,7 @@ Note: The barrel jack connection on the RedBoard Turbo has a lower input voltage
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  eagleValue: 500mA  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
+		<compID>REFU-1206-X-A05D-V8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -212,7 +210,7 @@ Note: The barrel jack connection on the RedBoard Turbo has a lower input voltage
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: 2.5A/30V  eagleDevice: MOSFET-PCHANNELDMG2307L  eaglePackage: SOT23-3</compID>
+		<compID>MOSP-SO23-X-A25D-V30</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -317,7 +315,7 @@ Note: The barrel jack connection on the RedBoard Turbo has a lower input voltage
 	<component>
 		<compIndex>42</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  eagleValue: MCP73831  eagleDevice: MCP73831  eaglePackage: SOT23-5</compID>
+		<compID>ICIC-SO235-X-K73831-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -331,7 +329,7 @@ Note: The barrel jack connection on the RedBoard Turbo has a lower input voltage
 	<component>
 		<compIndex>44</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

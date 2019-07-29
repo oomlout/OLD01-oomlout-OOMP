@@ -5,16 +5,14 @@
 	<hexID>SPAR14532</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun Qwiic Micro OLED Breakout is a Qwiic-enabled version of our popular Micro OLED display! The small monochrome, blue-on-black OLED screen presents incredibly clear images for your viewing pleasure. It’s “micro,” but it still packs a punch --- the OLED display is crisp, and you can fit a deceivingly large amount of graphics on there. This breakout is perfect for adding graphics to your next project and displaying diagnostic information without resorting to a serial output, all with the ease of use of our own Qwiic Connect System!
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun Qwiic Micro OLED Breakout is a Qwiic-enabled version of our popular Micro OLED display! The small monochrome, blue-on-black OLED screen presents incredibly clear images for your viewing pleasure. It’s “micro,” but it still packs a punch --- the OLED display is crisp, and you can fit a deceivingly large amount of graphics on there. This breakout is perfect for adding graphics to your next project and displaying diagnostic information without resorting to a serial output, all with the ease of use of our own Qwiic Connect System!
 This version of the Micro OLED Breakout is exactly the size of its non-Qwiic sibling, featuring a screen that is 64 pixels wide and 48 pixels tall and measuring 0.66" across. But it has also been equipped with two Qwiic connectors, making it ideal for I2C operations. We've also added two mounting holes and a convenient Qwiic cable holder incorporated into a detachable tab on the board that can be easily removed thanks to a v-scored edge. We've even made sure to include an I2C pull-up jumper and ADDR jumper on the back of the board, so if you have your own I2C pull-ups or need to change the I2C address of the board, you have options!
 
 The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shields and cables that make prototyping faster and less prone to error. All Qwiic-enabled boards use a common 1mm pitch, 4-pin JST connector. This reduces the amount of required PCB space, and polarized connections mean you can’t hook it up wrong.
 
- Get Started with the SparkFun Qwiic Micro OLED Breakout Guide               
-            
-                      
-              
+ Get Started with the SparkFun Qwiic Micro OLED Breakout Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14532</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -24,8 +22,8 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 
 
 	<numComponents>16</numComponents>
-	<numOompComponents>14</numOompComponents>
-	<oompCompletion>88</oompCompletion>
+	<numOompComponents>15</numOompComponents>
+	<oompCompletion>94</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -94,7 +92,7 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: I2C_STANDARD_NO_SILK  eaglePackage: 1X04_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI04-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

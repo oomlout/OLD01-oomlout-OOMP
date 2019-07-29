@@ -5,14 +5,12 @@
 	<hexID>SPAR14968</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun gator:control ProtoSnap is one of a series of gator-clippable accessories called gator:boards that have been created to directly interface with the micro:bit or to other micro controllers! The gator:control ProtoSnap offers a handful of ways to interact with projects you create using only gator-clip cables. Each little board on this ProtoSnap can be kept as a whole while on the board or broken apart for individual use!
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun gator:control ProtoSnap is one of a series of gator-clippable accessories called gator:boards that have been created to directly interface with the micro:bit or to other micro controllers! The gator:control ProtoSnap offers a handful of ways to interact with projects you create using only gator-clip cables. Each little board on this ProtoSnap can be kept as a whole while on the board or broken apart for individual use!
 The gator:control ProtoSnap contains four boards in the main assembly including two buttons, an on/off slide switch and a reed switch, which is activated by a magnet. A button or switch is something that can act as both an open and closed circuit, and either one makes a great addition to your project if you want to add some form of control to your project. You can use buttons or switches as part of a circuit you’re building, or as a digital input for your micro:bit.
 The pads on either side of the button or switch will be connected while attached to the ProtoSnap. Snapping the board apart can be easily done by twisting each of the control boards side to side until it pops out. This will need to be done if you want to use any of the boards on their own. Keep in mind that the buttons will only close the circuit while it is pressed down; releasing the button opens the circuit.
- Get Started with the SparkFun gator:control ProtoSnap Guide               
-            
-                      
-              
+ Get Started with the SparkFun gator:control ProtoSnap Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14968</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ The pads on either side of the button or switch will be connected while attached
 
 
 	<numComponents>4</numComponents>
-	<numOompComponents>0</numOompComponents>
-	<oompCompletion>0</oompCompletion>
+	<numOompComponents>1</numOompComponents>
+	<oompCompletion>25</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -43,7 +41,7 @@ The pads on either side of the button or switch will be connected while attached
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>S3</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPDT-SMD-AYZ0202  eaglePackage: SWITCH_DPDT_SMD_AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -5,13 +5,11 @@
 	<hexID>SPAR09822</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is the newest revision and fixes issues with the last board. This breakout board pairs an SP3485 RS-485 transceiver with an FT232RL USB UART IC to convert a USB stream to RS-485. The SP3485 is a half-duplex transceiver, so it can only communicate one way at a time, but it can reach transmission speeds of up to 10Mbps.
+	<oompAbout>(image and text from sparkfun.com)
+
+This is the newest revision and fixes issues with the last board. This breakout board pairs an SP3485 RS-485 transceiver with an FT232RL USB UART IC to convert a USB stream to RS-485. The SP3485 is a half-duplex transceiver, so it can only communicate one way at a time, but it can reach transmission speeds of up to 10Mbps.
 The TXDEN pin of the FT232RL is connected to the transmit and receive enable inputs of the SP3485, this line is used to control the transmission mode of the RS-485 transceiver. With the proper drivers installed, the FT232RL will enumerate as a virtual COM port; the drivers are available for Windows, Mac and Linux.
-This breakout board includes the SP3485, FT232, TX/RX/RTS LEDs, Mini-B USB connector, filter capacitors, and other components shown on the schematic. We've broken out the RS485 output to three different connections: (1) an RJ-45 connector, (2) a 3-pin 3.55mm screw terminal, and (3) a 3-pin 0.1" pitch header; none of these output connectors come populated.              
-            
-                      
-              
+This breakout board includes the SP3485, FT232, TX/RX/RTS LEDs, Mini-B USB connector, filter capacitors, and other components shown on the schematic. We've broken out the RS485 output to three different connections: (1) an RJ-45 connector, (2) a 3-pin 3.55mm screw terminal, and (3) a 3-pin 0.1" pitch header; none of these output connectors come populated.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9822</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ This breakout board includes the SP3485, FT232, TX/RX/RTS LEDs, Mini-B USB conne
 
 
 	<numComponents>15</numComponents>
-	<numOompComponents>11</numOompComponents>
-	<oompCompletion>73</oompCompletion>
+	<numOompComponents>12</numOompComponents>
+	<oompCompletion>80</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -56,7 +54,7 @@ This breakout board includes the SP3485, FT232, TX/RX/RTS LEDs, Mini-B USB conne
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  eagleValue: 500mA  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
+		<compID>REFU-1206-X-A05D-V8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -5,18 +5,16 @@
 	<hexID>SPAR13992</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The Spectacle Inertia Board makes it easy to sense motion or orientation with a Spectacle project. The Spectacle Inertia Board is designed to allow your Spectacle to detect whether it is moving or stationary, or whether it is under acceleration. At the heart of each Inertia Board is the trustworthy ADXL345 triple-axis MEMS accelerometer. The ADXL345 is a perfect fit for your Spectacle project when it comes to all things Inertia!
+	<oompAbout>(image and text from sparkfun.com)
+
+The Spectacle Inertia Board makes it easy to sense motion or orientation with a Spectacle project. The Spectacle Inertia Board is designed to allow your Spectacle to detect whether it is moving or stationary, or whether it is under acceleration. At the heart of each Inertia Board is the trustworthy ADXL345 triple-axis MEMS accelerometer. The ADXL345 is a perfect fit for your Spectacle project when it comes to all things Inertia!
 The Inertia Board is equipped with two 3.5mm TRRS jacks for Spectacle control signals from a Director Board. The one labeled “In” should be plugged into a board that is closer to the Director Board than the Inertia Board is, or into the Director Board itself. Make sure to pay attention to the directionality of the jacks, as they will dictate how your Spectacle modules speak with one another and with the Director Board. As with every other Spectacle module, you will need the Director Board to operate any Spectacle project.
 We have written an in-depth User's Guide and Inertia Board Hookup Guide to help direct you through each step of setting up this and any board in the Spectacle product line. You will be surprised by how easy and quick it is to make yourself into a Spectacle!
 
 Spectacle is a product ecosystem centered around a simple idea: creative people shouldn’t have to learn new skills to use electronics in their projects. You’ve spent years developing the skills you use, and SparkFun wants to recognize that and help you expand your creations to include electronics without requiring you to spend years learning about electronics and programming.
 
  Spectacle User's Guide Spectacle Programmer 
- Get Started with the Inertia Board               
-            
-                      
-              
+ Get Started with the Inertia Board
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13992</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -26,8 +24,8 @@ Spectacle is a product ecosystem centered around a simple idea: creative people 
 
 
 	<numComponents>34</numComponents>
-	<numOompComponents>20</numOompComponents>
-	<oompCompletion>59</oompCompletion>
+	<numOompComponents>25</numOompComponents>
+	<oompCompletion>74</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -131,7 +129,7 @@ Spectacle is a product ecosystem centered around a simple idea: creative people 
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: M05NO_SILK  eaglePackage: 1X05_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI05-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -152,7 +150,7 @@ Spectacle is a product ecosystem centered around a simple idea: creative people 
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_06NO_SILK_NO_POP  eaglePackage: 1X06_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI06-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -222,14 +220,14 @@ Spectacle is a product ecosystem centered around a simple idea: creative people 
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>SW1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH_SPST_4_PINRECT  eaglePackage: TACTILE_SWITCH_SMD_4.6X2.8MM</compID>
+		<compID>BUTA-4632-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>SW2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH_SPST_4_PINRECT  eaglePackage: TACTILE_SWITCH_SMD_4.6X2.8MM</compID>
+		<compID>BUTA-4632-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -243,7 +241,7 @@ Spectacle is a product ecosystem centered around a simple idea: creative people 
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  eagleValue: 3.3V/150mA  eagleDevice: V_REG_MIC52053.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A015D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

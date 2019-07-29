@@ -5,15 +5,13 @@
 	<hexID>SPAR09825</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This new version uses an SMD 5x2 header. This is a simple to use USB AVR programmer. It is low cost, easy to use, works great with AVRDude, and is tested extensively on a Windows desktop. Based on Dick Streefland's USBtiny and Limor Fried's USBtinyISP. This is a low-cost programmer designed for those on a tight budget.
+	<oompAbout>(image and text from sparkfun.com)
+
+This new version uses an SMD 5x2 header. This is a simple to use USB AVR programmer. It is low cost, easy to use, works great with AVRDude, and is tested extensively on a Windows desktop. Based on Dick Streefland's USBtiny and Limor Fried's USBtinyISP. This is a low-cost programmer designed for those on a tight budget.
 This programmer works really well for ATmega168 and ATmega328 and should work with all the AVR micros supported by AVRDUDE.  The microcontroller-to-be-programmed can be any AVR with 64K or less of flash. The ATmega328 on an Arduino Uno or RedBoard works perfectly, but the ATmega2560 of an Arduino Mega does not.
 This board is buffered and power protected so that you can do some really evil things to the programmer without killing it. It is fast! One of the greatest features of this board is the ability to power the target (up to 500mA) from the programmer.
 Note: This product is a collaboration with Limor Fried. A portion of each sales goes back to them for product support and continued development.
-Note: The drivers link has been updated below to be Windows 7 compatible.              
-            
-                      
-              
+Note: The drivers link has been updated below to be Windows 7 compatible.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9825</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -23,8 +21,8 @@ Note: The drivers link has been updated below to be Windows 7 compatible.
 
 
 	<numComponents>25</numComponents>
-	<numOompComponents>19</numOompComponents>
-	<oompCompletion>76</oompCompletion>
+	<numOompComponents>20</numOompComponents>
+	<oompCompletion>80</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -177,7 +175,7 @@ Note: The drivers link has been updated below to be Windows 7 compatible.
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  eagleValue: Power Select  eagleDevice: SWITCH-SPSTSMD  eaglePackage: AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

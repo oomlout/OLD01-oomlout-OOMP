@@ -5,11 +5,9 @@
 	<hexID>SPAR11684</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                VS1063 is an easy-to-use, versatile encoder, decoder and codec for a multitude of audio formats. With this breakout board, it's easy to drop it into any project. The VS1063 is capable of decoding Ogg Vorbis/MP3/AAC/WMA audio and encoding MP3, IMA ADPCM and user-loadable Ogg Vorbis. This breakout can also drive 30 ohm headphones with no additional power supply..              
-            
-                      
-              
+	<oompAbout>(image and text from sparkfun.com)
+
+VS1063 is an easy-to-use, versatile encoder, decoder and codec for a multitude of audio formats. With this breakout board, it's easy to drop it into any project. The VS1063 is capable of decoding Ogg Vorbis/MP3/AAC/WMA audio and encoding MP3, IMA ADPCM and user-loadable Ogg Vorbis. This breakout can also drive 30 ohm headphones with no additional power supply..
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/11684</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -19,8 +17,8 @@
 
 
 	<numComponents>45</numComponents>
-	<numOompComponents>42</numOompComponents>
-	<oompCompletion>93</oompCompletion>
+	<numOompComponents>43</numOompComponents>
+	<oompCompletion>96</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -327,7 +325,7 @@
 	<component>
 		<compIndex>44</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

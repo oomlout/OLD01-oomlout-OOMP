@@ -5,14 +5,12 @@
 	<hexID>SPAR13231</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun ESP8266 Thing is a breakout and development board for the ESP8266 WiFi SoC – a leading platform for Internet of Things (IoT) or WiFi-related projects. The Thing is low-cost and easy to use, and Arduino IDE integration can be achieved in just a few steps. We've made the ESP8266 easy to use by breaking out all of the module’s pins, adding a LiPo charger, power supply, and all of the other supporting circuitry it requires.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun ESP8266 Thing is a breakout and development board for the ESP8266 WiFi SoC – a leading platform for Internet of Things (IoT) or WiFi-related projects. The Thing is low-cost and easy to use, and Arduino IDE integration can be achieved in just a few steps. We've made the ESP8266 easy to use by breaking out all of the module’s pins, adding a LiPo charger, power supply, and all of the other supporting circuitry it requires.
 Why the name? We lovingly call it the “Thing” due to it being the perfect foundation for your Internet of Things project. The Thing does everything from turning on an LED to posting data with datastream, and can be programmed just like any microcontroller. You can even program the Thing through the Arduino IDE by installing the ESP8266 Arduino addon.
 The SparkFun ESP8266 Thing is a relatively simple board. The pins are broken out to two parallel, breadboard-compatible rows. USB and LiPo connectors at the top of the board provide power – controlled by the nearby ON/OFF switch. LEDs towards the inside of the board indicate power, charge, and status of the IC. The ESP8266’s maximum voltage is 3.6V, so the Thing has an onboard 3.3V regulator to deliver a safe, consistent voltage to the IC. That means the ESP8266’s I/O pins also run at 3.3V, you’ll need to level shift any 5V signals running into the IC. A 3.3V FTDI Basic is required to program the SparkFun ESP8266 Thing, but other serial converters with 3.3V I/O levels should work just fine as well. The converter does need a DTR line in addition to the RX and TX pins.
- Get Started with the ESP8266 Thing Guide               
-            
-                      
-              
+ Get Started with the ESP8266 Thing Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13231</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ The SparkFun ESP8266 Thing is a relatively simple board. The pins are broken out
 
 
 	<numComponents>37</numComponents>
-	<numOompComponents>27</numOompComponents>
-	<oompCompletion>73</oompCompletion>
+	<numOompComponents>32</numOompComponents>
+	<oompCompletion>86</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -113,7 +111,7 @@ The SparkFun ESP8266 Thing is a relatively simple board. The pins are broken out
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  eagleValue: BAT20J  eagleDevice: DIODE-SCHOTTKY-BAT20J  eaglePackage: SOD-323</compID>
+		<compID>DIOS-S323-X-A01-V23</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -127,7 +125,7 @@ The SparkFun ESP8266 Thing is a relatively simple board. The pins are broken out
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>D5</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: DIODEBAS16  eaglePackage: SOD-323</compID>
+		<compID>DIOD-S323-X-A015D-V75</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -141,7 +139,7 @@ The SparkFun ESP8266 Thing is a relatively simple board. The pins are broken out
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: 2.5A/30V  eagleDevice: MOSFET-PCHANNELDMG2307L  eaglePackage: SOT23-3</compID>
+		<compID>MOSP-SO23-X-A25D-V30</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -260,7 +258,7 @@ The SparkFun ESP8266 Thing is a relatively simple board. The pins are broken out
 	<component>
 		<compIndex>34</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  eagleValue: MCP73831  eagleDevice: MCP73831  eaglePackage: SOT23-5</compID>
+		<compID>ICIC-SO235-X-K73831-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -274,7 +272,7 @@ The SparkFun ESP8266 Thing is a relatively simple board. The pins are broken out
 	<component>
 		<compIndex>36</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  eagleValue: AP2112K-3.3V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

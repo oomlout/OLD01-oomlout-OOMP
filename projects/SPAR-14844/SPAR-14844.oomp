@@ -5,16 +5,14 @@
 	<hexID>SPAR14844</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                It's time to say hip hip array for this IR Breakout! The MLX90640 SparkFun IR Array Breakout is equipped with a 32x24 array of thermopile sensors creating, in essence, a low resolution thermal imaging camera. With this breakout you can detect surface temperatures from many feet away with an accuracy of ±1.5°C (best case). To make it even easier to get your infrared image, all communication is enacted exclusively via I2C, utilizing our handy Qwiic system. However, we still have broken out 0.1"-spaced pins in case you prefer to use a breadboard.
+	<oompAbout>(image and text from sparkfun.com)
+
+It's time to say hip hip array for this IR Breakout! The MLX90640 SparkFun IR Array Breakout is equipped with a 32x24 array of thermopile sensors creating, in essence, a low resolution thermal imaging camera. With this breakout you can detect surface temperatures from many feet away with an accuracy of ±1.5°C (best case). To make it even easier to get your infrared image, all communication is enacted exclusively via I2C, utilizing our handy Qwiic system. However, we still have broken out 0.1"-spaced pins in case you prefer to use a breadboard.
 This specific IR Array Breakout features a 55°x35° field of view with a temperature measurement range of -40°C-300°C. The MLX90640 IR Array has pull up resistors attached to the I2C bus; both can be removed by cutting the traces on the corresponding jumpers on the back of the board. Please be aware that the MLX90640 requires complex calculations by the host platform so a regular Arduino Uno (or equivalent) doesn't have enough RAM or flash to complete the complex computations required to turn the raw pixel data into temperature data. You will need a microcontroller with 20,000 bytes or more of RAM. To achieve this, we recommend a Teensy 3.1 or above.
 
 The SparkFun Qwiic connect system is an ecosystem of I2C sensors, actuators, shields and cables that make prototyping faster and less prone to error. All Qwiic-enabled boards use a common 1mm pitch, 4-pin JST connector. This reduces the amount of required PCB space, and polarized connections mean you can’t hook it up wrong.
 
- Get Started with the SparkFun IR Array Breakout Guide               
-            
-                      
-              
+ Get Started with the SparkFun IR Array Breakout Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14844</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -24,8 +22,8 @@ The SparkFun Qwiic connect system is an ecosystem of I2C sensors, actuators, shi
 
 
 	<numComponents>10</numComponents>
-	<numOompComponents>8</numOompComponents>
-	<oompCompletion>80</oompCompletion>
+	<numOompComponents>9</numOompComponents>
+	<oompCompletion>90</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -59,7 +57,7 @@ The SparkFun Qwiic connect system is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  eagleValue: PTH  eagleDevice: I2C_STANDARD_NO_SILK  eaglePackage: 1X04_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI04-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

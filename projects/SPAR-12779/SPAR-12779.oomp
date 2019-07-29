@@ -5,15 +5,13 @@
 	<hexID>SPAR12779</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The EasyDriver is a simple to use stepper motor driver, compatible with anything that can output a digital 0 to 5V pulse (or 0 to 3.3V pulse if you solder SJ2 closed on the EasyDriver). The EasyDriver requires a 6V to 30V supply to power the motor and can power any voltage of stepper motor. The EasyDriver has an on board voltage regulator for the digital interface that can be set to 5V or 3.3V. Connect a 4-wire stepper motor and a microcontroller and you've got precision motor control! EasyDriver drives bi-polar motors, and motors wired as bi-polar. I.e. 4,6, or 8 wire stepper motors.
+	<oompAbout>(image and text from sparkfun.com)
+
+The EasyDriver is a simple to use stepper motor driver, compatible with anything that can output a digital 0 to 5V pulse (or 0 to 3.3V pulse if you solder SJ2 closed on the EasyDriver). The EasyDriver requires a 6V to 30V supply to power the motor and can power any voltage of stepper motor. The EasyDriver has an on board voltage regulator for the digital interface that can be set to 5V or 3.3V. Connect a 4-wire stepper motor and a microcontroller and you've got precision motor control! EasyDriver drives bi-polar motors, and motors wired as bi-polar. I.e. 4,6, or 8 wire stepper motors.
 This EasyDriver V4.5 has been co-designed with Brian Schmalz. It provides much more flexibility and control over your stepper motor, when compared to older versions. The microstep select (MS1 and MS2) pins of the A3967 are broken out allowing adjustments to the microstepping resolution. The sleep and enable pins are also broken out for further control.
 Note: Do not connect or disconnect a motor while the driver is energized. This will cause permanent damage to the A3967 IC.
 Note: This product is a collaboration with Brian Schmalz. A portion of each sales goes back to them for product support and continued development.
- Get Started With the EasyDriver Guide               
-            
-                      
-              
+ Get Started With the EasyDriver Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/12779</oompOfficialLink>
 	<company>Sparkfun</company>

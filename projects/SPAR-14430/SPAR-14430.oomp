@@ -5,14 +5,12 @@
 	<hexID>SPAR14430</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun ESP32 Thing Motion Shield is a versatile, motion-sensing addition to our ESP32 Thing. With the Motion Shield's onboard LSM9DS1 IMU, small movement changes can easily be detected, while larger movements and time traveled can be detected with the addition of a GPS module via a large JST port. In addition, we have added breakout pins to attach any serial device, as well as a microSD card slot to log all of your data. All you need to do is solder on headers, and your ESP32 Thing Motion Shield will be ready to detect any type of movement!
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun ESP32 Thing Motion Shield is a versatile, motion-sensing addition to our ESP32 Thing. With the Motion Shield's onboard LSM9DS1 IMU, small movement changes can easily be detected, while larger movements and time traveled can be detected with the addition of a GPS module via a large JST port. In addition, we have added breakout pins to attach any serial device, as well as a microSD card slot to log all of your data. All you need to do is solder on headers, and your ESP32 Thing Motion Shield will be ready to detect any type of movement!
 The LSM9DS1 is one of only a handful of ICs that can measure three key properties of movement --- angular velocity, acceleration and heading --- in a single IC. By measuring these three properties, you can gain a great deal of knowledge about an object’s movement and orientation. The LSM9DS1 measures each of these movement properties in three dimensions. That means it produces nine pieces of data: acceleration in x/y/z, angular rotation in x/y/z and magnetic force in x/y/z.
 Each sensor in the LSM9DS1 onboard the Thing Motion Shield supports a wide spectrum of ranges: the accelerometer’s scale can be set to ± 2, 4, 8 or 16 g; the gyroscope supports ± 245, 500 and 2000 °/s; and the magnetometer has full-scale ranges of ± 4, 8, 12 or 16 gauss.
- Get started with the ESP32 Motion Shield Guide               
-            
-                      
-              
+ Get started with the ESP32 Motion Shield Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14430</oompOfficialLink>
 	<company>Sparkfun</company>

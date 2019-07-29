@@ -5,11 +5,9 @@
 	<hexID>SPAR09816</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is a simple 5V Op Amp breakout board, set up as a 2-stage amplifier with a gain of 100 (gain of 10 for each stage). The on-board trim pot sets the signal level between the stages, not the feedback path. The bandwidth is set to 15.9kHz by a pair of feedback capacitors, or over 100kHz with the caps removed. The LMV358 opamp can source up to 160mA and works well as a low impedance driver/buffer.              
-            
-                      
-              
+	<oompAbout>(image and text from sparkfun.com)
+
+This is a simple 5V Op Amp breakout board, set up as a 2-stage amplifier with a gain of 100 (gain of 10 for each stage). The on-board trim pot sets the signal level between the stages, not the feedback path. The bandwidth is set to 15.9kHz by a pair of feedback capacitors, or over 100kHz with the caps removed. The LMV358 opamp can source up to 160mA and works well as a low impedance driver/buffer.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9816</oompOfficialLink>
 	<company>Sparkfun</company>

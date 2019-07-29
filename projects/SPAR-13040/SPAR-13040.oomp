@@ -5,14 +5,12 @@
 	<hexID>SPAR13040</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The Intel® Edison is an ultra small computing platform that will change the way you look at embedded electronics. Each Edison is packed with a huge amount of tech goodies into a tiny package while still providing the same robust strength of your go-to single board computer. Powered by the Intel® Atom™ SoC dual-core CPU and including an integrated WiFi, Bluetooth LE, and a 70-pin connector to attach a veritable slew of shield-like "Blocks" which can be stacked on top of each other. It's no wonder how this little guy is lowering the barrier of entry on the world of electronics!
+	<oompAbout>(image and text from sparkfun.com)
+
+The Intel® Edison is an ultra small computing platform that will change the way you look at embedded electronics. Each Edison is packed with a huge amount of tech goodies into a tiny package while still providing the same robust strength of your go-to single board computer. Powered by the Intel® Atom™ SoC dual-core CPU and including an integrated WiFi, Bluetooth LE, and a 70-pin connector to attach a veritable slew of shield-like "Blocks" which can be stacked on top of each other. It's no wonder how this little guy is lowering the barrier of entry on the world of electronics!
 The Console UART Block delivers power to the Intel® Edison while providing a simple console interface via a FTDI cable. This is the most minimal solution to get started using the Intel® Edison. This board can supply 4V and up to 500mA of current to power the Edison passed through it's VSYS line and any other expansion boards you may add to your stack. This is a great board for low power applications that won't require constant console access. By removing the FTDI USB-UART from the board, current consumption is minimal. When the FTDI cable is not inserted, it will be necessary to provide external power to the board.
 If you are looking to add a little more stability to your Intel® Edison stack, check out this Hardware Pack. It will provide you with increased mechanical strength for stacking Blocks on your Edison!
-Note: The 3.3V FTDI breakout will NOT work with this block, but the 5V version will.              
-            
-                      
-              
+Note: The 3.3V FTDI breakout will NOT work with this block, but the 5V version will.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13040</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ Note: The 3.3V FTDI breakout will NOT work with this block, but the 5V version w
 
 
 	<numComponents>19</numComponents>
-	<numOompComponents>12</numOompComponents>
-	<oompCompletion>63</oompCompletion>
+	<numOompComponents>14</numOompComponents>
+	<oompCompletion>74</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -85,7 +83,7 @@ Note: The 3.3V FTDI breakout will NOT work with this block, but the 5V version w
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: BSS138  eagleDevice: MOSFET-NCHANNELBSS138  eaglePackage: SOT23-3</compID>
+		<compID>MOSN-SO23-X-A02D-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -141,7 +139,7 @@ Note: The 3.3V FTDI breakout will NOT work with this block, but the 5V version w
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  eagleValue: DPDT  eagleDevice: SWITCH-DPDTAYZ0202  eaglePackage: AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

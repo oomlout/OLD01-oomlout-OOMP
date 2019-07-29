@@ -5,14 +5,12 @@
 	<hexID>SPAR11590</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The ProtoSnap series is a new way to prototype your project without a breadboard. Everything is wired together on a single board, which makes it easy to explore the possibilities of the components before snapping them apart and building them into your project.
+	<oompAbout>(image and text from sparkfun.com)
+
+The ProtoSnap series is a new way to prototype your project without a breadboard. Everything is wired together on a single board, which makes it easy to explore the possibilities of the components before snapping them apart and building them into your project.
 The ProtoSnap LilyTwinkle board is a very simple way to jump right into e-textiles. By including the LilyTwinkle, a coin cell battery holder (with built-in switch), and four white LEDs the ProtoSnap LilyTwinkle board easily allows you to add some sparkle to any project. To make your e-textile experience all the more enjoyable we have added a needle set and 30 feet of conductive thread!
 Note: A portion of this sale is given back to Dr. Leah Buechley for continued development and education of e-textiles and also to Arduino LLC to help fund continued development of new tools and new IDE features.
- Get Started with the LilyPad LilyTwinkle Guide               
-            
-                      
-              
+ Get Started with the LilyPad LilyTwinkle Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/11590</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 
 
 	<numComponents>20</numComponents>
-	<numOompComponents>10</numOompComponents>
-	<oompCompletion>50</oompCompletion>
+	<numOompComponents>11</numOompComponents>
+	<oompCompletion>55</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -148,7 +146,7 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPDTSMD  eaglePackage: AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -5,14 +5,12 @@
 	<hexID>SPAR09607</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                **D****escription: **The Cellular Shield for Arduino includes all the parts needed to interface your Arduino with an SM5100B cellular module. This allows you to easily add SMS, GSM/GPRS, and TCP/IP functionalities to your Arduino-based project. All you need to add cellular functionality to your Arduino project is a SIM card (pre-paid or straight from your phone) and an antenna and you can start sending Serial.print statements to make calls, send texts and serve web pages!
+	<oompAbout>(image and text from sparkfun.com)
+
+Description: The Cellular Shield for Arduino includes all the parts needed to interface your Arduino with an SM5100B cellular module. This allows you to easily add SMS, GSM/GPRS, and TCP/IP functionalities to your Arduino-based project. All you need to add cellular functionality to your Arduino project is a SIM card (pre-paid or straight from your phone) and an antenna and you can start sending Serial.print statements to make calls, send texts and serve web pages!
 The main components of the Cellular Shield are a 60-pin SM5100B connector, a SIM card socket, and an SPX29302 voltage regulator configured to regulate the Arduino's raw voltage to 3.8V. The board's red LED indicates power. The Arduino's reset button is also brought out on the shield.
 Two solder jumpers on the board allow you to select which serial pins interface with the cellular module - software (D2, D3) or hardware (D0, D1). There is also a 5-pin, 0.1" spaced header with connections for microphone inputs and speaker outputs. Headers are not soldered on, we recommend the 6 and 8-pin stackable headers.
-The SM5100B cellular module is included with this product, however an antenna is not. It is pre-configured to 9600bps.              
-            
-                      
-              
+The SM5100B cellular module is included with this product, however an antenna is not. It is pre-configured to 9600bps.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9607</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ The SM5100B cellular module is included with this product, however an antenna is
 
 
 	<numComponents>12</numComponents>
-	<numOompComponents>7</numOompComponents>
-	<oompCompletion>58</oompCompletion>
+	<numOompComponents>8</numOompComponents>
+	<oompCompletion>67</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -78,7 +76,7 @@ The SM5100B cellular module is included with this product, however an antenna is
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: TAC_SWITCHSMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
+		<compID>BUTA-52D-X-SMDS-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

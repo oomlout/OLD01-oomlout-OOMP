@@ -5,13 +5,11 @@
 	<hexID>SPAR09063</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                XBee radios are an awesome way to add wireless capability to your Arduino project and now it's even easier with the SparkFun XBee Shield. The shield form-factor mates directly with any dev board that has an Arduino standard footprint and equips it with wireless communication capabilities using the popular XBee module. This unit works with all XBee modules including the Series 1 and 2, standard and Pro versions.
+	<oompAbout>(image and text from sparkfun.com)
+
+XBee radios are an awesome way to add wireless capability to your Arduino project and now it's even easier with the SparkFun XBee Shield. The shield form-factor mates directly with any dev board that has an Arduino standard footprint and equips it with wireless communication capabilities using the popular XBee module. This unit works with all XBee modules including the Series 1 and 2, standard and Pro versions.
 The serial pins (DIN and DOUT) of the XBee are connected through an DPDT switch, which allows you to select a connection to either the UART pins (D0, D1) or any digital pins on the Arduino (D2 and D3 default). Power is taken from the 5V pin of the Arduino and regulated on-board to 3.3VDC before being supplied to the XBee. The shield also takes care of level shifting on the DIN and DOUT pins of the XBee. In the latest revision the diode level shifter is replaced with a more robust MOSFET level shifter.
-The board also includes LEDs to indicate power and activity on DIN, DOUT, RSSI, and DIO5 pins of the XBee. The Arduino's reset button is brought out on the shield, and a 9x11 grid of 0.1" holes are available for prototyping. The shield does not come with headers installed; we recommend the Arduino Stackable Header Kit. The XBee module is also not included.              
-            
-                      
-              
+The board also includes LEDs to indicate power and activity on DIN, DOUT, RSSI, and DIO5 pins of the XBee. The Arduino's reset button is brought out on the shield, and a 9x11 grid of 0.1" holes are available for prototyping. The shield does not come with headers installed; we recommend the Arduino Stackable Header Kit. The XBee module is also not included.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9063</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ The board also includes LEDs to indicate power and activity on DIN, DOUT, RSSI, 
 
 
 	<numComponents>25</numComponents>
-	<numOompComponents>18</numOompComponents>
-	<oompCompletion>72</oompCompletion>
+	<numOompComponents>22</numOompComponents>
+	<oompCompletion>88</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -91,14 +89,14 @@ The board also includes LEDs to indicate power and activity on DIN, DOUT, RSSI, 
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: MOSFET-NCHANNELSMD  eagleDevice: MOSFET-NCHANNELSMD  eaglePackage: SOT23-3</compID>
+		<compID>MOSN-SO23-X-A02D-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  eagleValue: MOSFET-NCHANNELSMD  eagleDevice: MOSFET-NCHANNELSMD  eaglePackage: SOT23-3</compID>
+		<compID>MOSN-SO23-X-A02D-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -168,14 +166,14 @@ The board also includes LEDs to indicate power and activity on DIN, DOUT, RSSI, 
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  eagleValue: SWITCH-MOMENTARY-2SMD  eagleDevice: SWITCH-MOMENTARY-2SMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
+		<compID>BUTA-52D-X-SMDS-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  eagleValue: SWITCH-DPDTSMD  eagleDevice: SWITCH-DPDTSMD  eaglePackage: AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

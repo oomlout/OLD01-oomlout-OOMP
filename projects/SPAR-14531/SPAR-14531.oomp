@@ -5,14 +5,12 @@
 	<hexID>SPAR14531</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The Pioneer IoT Add-On Shield is a unique board designed to add more functionality to the PSoC 6 from Cypress while remaining useful and practical for plenty of other Internet of Things applications. Each Add-On Shield is a pretty simple board with an equally simple layout that provides XBee, Qwiic and microSD functionality not only to the PSoC 6 but also to any board with an Arduino R3 shield format. On top of designing this board with a reliable IoT performance, we have written a guide that will show you how to communicate with a Raspberry Pi via Bluetooth® and WiFi, as well as how to communicate between a PSoC 4 BLE Pioneer Board and the PSoC 6 Pioneer Board via Bluetooth Low Energy.
+	<oompAbout>(image and text from sparkfun.com)
+
+The Pioneer IoT Add-On Shield is a unique board designed to add more functionality to the PSoC 6 from Cypress while remaining useful and practical for plenty of other Internet of Things applications. Each Add-On Shield is a pretty simple board with an equally simple layout that provides XBee, Qwiic and microSD functionality not only to the PSoC 6 but also to any board with an Arduino R3 shield format. On top of designing this board with a reliable IoT performance, we have written a guide that will show you how to communicate with a Raspberry Pi via Bluetooth® and WiFi, as well as how to communicate between a PSoC 4 BLE Pioneer Board and the PSoC 6 Pioneer Board via Bluetooth Low Energy.
 In addition to the microSD card slot, XBee headers and Qwiic connector, the Pioneer IoT Add-On Shield is equipped with a micro-B USB connector. This connector provides 5V to the 3.3V regulator for the XBee module, overriding the 5V coming from the Arduino header and allowing high-power XBee modules to function properly. This is all thanks to the 3.3V regulator, level shift buffer, I2C level shift circuitry and a voltage supply selection jumper --- all found on the shield!
 If you aren't familiar with it, the PSoC 6 Pioneer Board is the development tool associated with this processor line, sporting an onboard debugger, Arduino-compatible headers, CapSense widgets and more --- all tied to a PSoC 6 processor. The processor is a dual-core device, with a Cortex-M0+ low-power processor and a Cortex-M4 high-power processor tied together via shared peripherals and memory space.
- Get Started With the Pioneer IoT Add-On Shield Guide               
-            
-                      
-              
+ Get Started With the Pioneer IoT Add-On Shield Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14531</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ If you aren't familiar with it, the PSoC 6 Pioneer Board is the development tool
 
 
 	<numComponents>28</numComponents>
-	<numOompComponents>20</numOompComponents>
-	<oompCompletion>71</oompCompletion>
+	<numOompComponents>21</numOompComponents>
+	<oompCompletion>75</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -71,7 +69,7 @@ If you aren't familiar with it, the PSoC 6 Pioneer Board is the development tool
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  eagleValue: 3A/40V/500mV  eagleDevice: DIODE-SCHOTTKY-B340A  eaglePackage: SMA-DIODE</compID>
+		<compID>DIOS-D214-X-A3-V30</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

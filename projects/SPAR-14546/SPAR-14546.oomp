@@ -5,15 +5,13 @@
 	<hexID>SPAR14546</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The LilyPad E-Sewing ProtoSnap is a great way to explore how buttons and switches behave in simple e-sewing circuits before crafting your project. Like other LilyPad ProtoSnap series boards, the individual pieces of the board are pre-wired --- allowing you to try out the function of the circuit before sewing. There is no programming required to use this ProtoSnap, and it can be used right away!
+	<oompAbout>(image and text from sparkfun.com)
+
+The LilyPad E-Sewing ProtoSnap is a great way to explore how buttons and switches behave in simple e-sewing circuits before crafting your project. Like other LilyPad ProtoSnap series boards, the individual pieces of the board are pre-wired --- allowing you to try out the function of the circuit before sewing. There is no programming required to use this ProtoSnap, and it can be used right away!
 The E-Sewing ProtoSnap includes three white LilyPad LEDs: two connected to a LilyPad Slide Switch and one connected to a LilyPad Button Board. A LilyPad Coin Cell Battery Holder with a CR2032 coin cell battery provides all the power you need for the circuit. All you need to do is design how you want your project to be laid out, and then snap everything apart!
 Note: A portion of this sale is given back to Dr. Leah Buechley for continued development and education in e-textiles.
 Note: Due to the requirements of shipping the included battery, orders may take longer to process and therefore do not qualify for same-day shipping. Additionally, these batteries cannot be shipped via Ground or Economy methods to Alaska or Hawaii. Sorry for any inconvenience this may cause.
- Get Started with the LilyPad E-Sewing ProtoSnap Guide               
-            
-                      
-              
+ Get Started with the LilyPad E-Sewing ProtoSnap Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14546</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -23,8 +21,8 @@ Note: Due to the requirements of shipping the included battery, orders may take 
 
 
 	<numComponents>10</numComponents>
-	<numOompComponents>7</numOompComponents>
-	<oompCompletion>70</oompCompletion>
+	<numOompComponents>9</numOompComponents>
+	<oompCompletion>90</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -79,7 +77,7 @@ Note: Due to the requirements of shipping the included battery, orders may take 
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  eagleValue: S1  eagleDevice: SWITCH-SPDTSMD  eaglePackage: AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -93,7 +91,7 @@ Note: Due to the requirements of shipping the included battery, orders may take 
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>S3</compIden>
-		<compID>NOT OOMP  eagleValue: S3  eagleDevice: SWITCH-SPDTSMD  eaglePackage: AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -5,14 +5,12 @@
 	<hexID>SPAR12650</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The AD8232 SparkFun Single Lead Heart Rate Monitor is a cost-effective board used to measure the electrical activity of the heart. This electrical activity can be charted as an ECG or Electrocardiogram and output as an analog reading. ECGs can be extremely noisy, the AD8232 Single Lead Heart Rate Monitor acts as an op amp to help obtain a clear signal from the PR and QT Intervals easily.
+	<oompAbout>(image and text from sparkfun.com)
+
+The AD8232 SparkFun Single Lead Heart Rate Monitor is a cost-effective board used to measure the electrical activity of the heart. This electrical activity can be charted as an ECG or Electrocardiogram and output as an analog reading. ECGs can be extremely noisy, the AD8232 Single Lead Heart Rate Monitor acts as an op amp to help obtain a clear signal from the PR and QT Intervals easily.
 The AD8232 is an integrated signal conditioning block for ECG and other biopotential measurement applications. It is designed to extract, amplify, and filter small biopotential signals in the presence of noisy conditions, such as those created by motion or remote electrode placement.
 The AD8232 Heart Rate Monitor breaks out nine connections from the IC that you can solder pins, wires, or other connectors to. SDN, LO+, LO-, OUTPUT, 3.3V, GND provide essential pins for operating this monitor with an Arduino or other development board. Also provided on this board are RA (Right Arm), LA (Left Arm), and RL (Right Leg) pins to attach and use your own custom sensors. Additionally, there is an LED indicator light that will pulsate to the rhythm of a heart beat. Biomedical Sensor Pads and Sensor Cable are required to use the heart monitor and can be found in the Recommended Products section below.
-Note: This product is NOT a medical device and is not intended to be used as such or as an accessory to such nor diagnose or treat any conditions.              
-            
-                      
-              
+Note: This product is NOT a medical device and is not intended to be used as such or as an accessory to such nor diagnose or treat any conditions.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/12650</oompOfficialLink>
 	<company>Sparkfun</company>

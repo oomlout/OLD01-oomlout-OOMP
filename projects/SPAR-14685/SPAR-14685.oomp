@@ -5,16 +5,14 @@
 	<hexID>SPAR14685</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                Do you have too many sensors with the same I2C address? Put them on the SparkFun Qwiic Mux Breakout to get them all talking on the same bus! The Qwiic Mux Breakout enables communication with multiple I2C devices that have the same address that makes it simple to interface with. The Qwiic Mux also has eight configurable addresses of its own, allowing for up to 64 I2C buses on a connection. To make it even easier to use this multiplexer, all communication is enacted exclusively via I2C, utilizing our handy Qwiic system.
+	<oompAbout>(image and text from sparkfun.com)
+
+Do you have too many sensors with the same I2C address? Put them on the SparkFun Qwiic Mux Breakout to get them all talking on the same bus! The Qwiic Mux Breakout enables communication with multiple I2C devices that have the same address that makes it simple to interface with. The Qwiic Mux also has eight configurable addresses of its own, allowing for up to 64 I2C buses on a connection. To make it even easier to use this multiplexer, all communication is enacted exclusively via I2C, utilizing our handy Qwiic system.
 The Qwiic Mux also allows you to change the last three bits of the address byte, allowing for eight jumper selectable addresses if you happen to need to put more than one Qwiic Mux Breakout on the same I2C port. The address can be changed by adding solder to any of the three ADR jumpers. Each SparkFun Qwiic Mux Breakout operate between 1.65V and 5.5V making it ideal for all of the Qwiic boards we produce in house.
 
 The SparkFun Qwiic connect system is an ecosystem of I2C sensors, actuators, shields and cables that make prototyping faster and less prone to error. All Qwiic-enabled boards use a common 1mm pitch, 4-pin JST connector. This reduces the amount of required PCB space, and polarized connections mean you can’t hook it up wrong.
 
- Get Started with the SparkFun Qwiic Mux Breakout Guide               
-            
-                      
-              
+ Get Started with the SparkFun Qwiic Mux Breakout Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14685</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -24,8 +22,8 @@ The SparkFun Qwiic connect system is an ecosystem of I2C sensors, actuators, shi
 
 
 	<numComponents>44</numComponents>
-	<numOompComponents>41</numOompComponents>
-	<oompCompletion>93</oompCompletion>
+	<numOompComponents>43</numOompComponents>
+	<oompCompletion>98</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -108,7 +106,7 @@ The SparkFun Qwiic connect system is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  eagleValue: SMD  eagleDevice: I2C_STANDARDJS-1MM  eaglePackage: 1X04_1MM_RA</compID>
+		<compID>HEAD-01-X-PI04-RA</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -136,7 +134,7 @@ The SparkFun Qwiic connect system is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>J21</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI01-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -5,16 +5,14 @@
 	<hexID>SPAR12942</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The Bus Pirate v3.6a, created by Ian Lesnet, is a troubleshooting tool that communicates between a PC and any embedded device over 1-wire, 2-wire, 3-wire, UART, I2C, SPI, and HD44780 LCD protocols - all at voltages from 0-5.5VDC. This product eliminates a ton of early prototyping effort when working with new or unknown chips.
+	<oompAbout>(image and text from sparkfun.com)
+
+The Bus Pirate v3.6a, created by Ian Lesnet, is a troubleshooting tool that communicates between a PC and any embedded device over 1-wire, 2-wire, 3-wire, UART, I2C, SPI, and HD44780 LCD protocols - all at voltages from 0-5.5VDC. This product eliminates a ton of early prototyping effort when working with new or unknown chips.
 Working with the Bus Pirate is simple and effective - type commands into a terminal on your computer, those commands are interpreted by the Bus Pirate and sent via the proper protocol. The Pirate will also interpret data sent from your embedded device back to your computer terminal. A big bonus is the bootloader installed on the PIC, which allows you to easily update the firmware and change the functionality of the board.
 The main components of the Bus Pirate are the PIC24FJ64 processor and a FT232RL USB-to-Serial chip. A Mini-B USB connector that has also been populated on the board, provides the power to the Bus Pirate and allows you to interact with via your PC. The major difference in this version of the Bus Pirate comes from the shrouded 0.1" pitch 2x5 pin header, which has been flipped around to help standardize this board. Additionally every pin on this header has been labeled, eliminating the need for a separate I/O pin description document like with earlier versions.
 Note: We sell a handy cable to connect the Bus Pirate to the system you are developing, debugging, or reverse engineering.
 Note: This product is a collaboration with Ian Lesnet. A portion of each sales goes back to them for product support and continued development.
- Get Started with the Bus Pirate Hookup Guide               
-            
-                      
-              
+ Get Started with the Bus Pirate Hookup Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/12942</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -24,8 +22,8 @@ Note: This product is a collaboration with Ian Lesnet. A portion of each sales g
 
 
 	<numComponents>36</numComponents>
-	<numOompComponents>22</numOompComponents>
-	<oompCompletion>61</oompCompletion>
+	<numOompComponents>24</numOompComponents>
+	<oompCompletion>67</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -241,14 +239,14 @@ Note: This product is a collaboration with Ian Lesnet. A portion of each sales g
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  eagleValue: MIC5205 3V3  eagleDevice: MIC52053.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A015D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>32</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  eagleValue: MIC5205 3V3  eagleDevice: MIC52053.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A015D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -5,7 +5,9 @@
 	<hexID>ADAF02927</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
+	<oompAbout>(image and text from adafruit.com)
+
+
 Adafruit DC Stepper Motor FeatherWing PCB
 
 Click here to purchase one from the Adafruit shop
@@ -32,8 +34,8 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 
 
 	<numComponents>21</numComponents>
-	<numOompComponents>9</numOompComponents>
-	<oompCompletion>43</oompCompletion>
+	<numOompComponents>14</numOompComponents>
+	<oompCompletion>67</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -144,7 +146,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>SW1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH_TACT_SMT4.6X2.8  eaglePackage: BTN_KMR2_4.6X2.8</compID>
+		<compID>BUTA-4628-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -158,28 +160,28 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>X1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: TERMBLOCK_1X2  eaglePackage: TERMBLOCK_1X2-3.5MM</compID>
+		<compID>TERS-35D-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>X2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: TERMBLOCK_1X2  eaglePackage: TERMBLOCK_1X2-3.5MM</compID>
+		<compID>TERS-35D-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>X4</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: TERMBLOCK_1X2  eaglePackage: TERMBLOCK_1X2-3.5MM</compID>
+		<compID>TERS-35D-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>X6</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: TERMBLOCK_1X2  eaglePackage: TERMBLOCK_1X2-3.5MM</compID>
+		<compID>TERS-35D-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

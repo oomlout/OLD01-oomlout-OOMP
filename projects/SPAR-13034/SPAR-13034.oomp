@@ -5,13 +5,11 @@
 	<hexID>SPAR13034</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The Intel® Edison is an ultra small computing platform that will change the way you look at embedded electronics. Each Edison is packed with a huge amount of tech goodies into a tiny package while still providing the same robust strength of your go-to single board computer. Powered by the Intel® Atom™ SoC dual-core CPU and including an integrated WiFi, Bluetooth LE, and a 70-pin connector to attach a veritable slew of shield-like "Blocks" which can be stacked on top of each other. It's no wonder how this little guy is lowering the barrier of entry on the world of electronics!
+	<oompAbout>(image and text from sparkfun.com)
+
+The Intel® Edison is an ultra small computing platform that will change the way you look at embedded electronics. Each Edison is packed with a huge amount of tech goodies into a tiny package while still providing the same robust strength of your go-to single board computer. Powered by the Intel® Atom™ SoC dual-core CPU and including an integrated WiFi, Bluetooth LE, and a 70-pin connector to attach a veritable slew of shield-like "Blocks" which can be stacked on top of each other. It's no wonder how this little guy is lowering the barrier of entry on the world of electronics!
 This I2C Block simply breaks out an I2C bus on the Intel® Edison while level shifting it from 1.8V to your sensors voltage. This a simple board that can snap into your Edison and be used right away.
-If you are looking to add a little more stability to your Intel® Edison stack, check out this Hardware Pack. It will provide you with increased mechanical strength for stacking Blocks on your Edison!              
-            
-                      
-              
+If you are looking to add a little more stability to your Intel® Edison stack, check out this Hardware Pack. It will provide you with increased mechanical strength for stacking Blocks on your Edison!
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13034</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ If you are looking to add a little more stability to your Intel® Edison stack, c
 
 
 	<numComponents>9</numComponents>
-	<numOompComponents>7</numOompComponents>
-	<oompCompletion>78</oompCompletion>
+	<numOompComponents>8</numOompComponents>
+	<oompCompletion>89</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -77,7 +75,7 @@ If you are looking to add a little more stability to your Intel® Edison stack, c
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  eagleValue: MIC5205  eagleDevice: MIC52053.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A015D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

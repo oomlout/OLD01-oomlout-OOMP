@@ -5,7 +5,9 @@
 	<hexID>ADAF02661</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
+	<oompAbout>(image and text from adafruit.com)
+
+
 Adafruit Bluefruit LE Micro PCB (Discontinued)
 
 See the part listing in the Adafruit shop
@@ -30,8 +32,8 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 
 
 	<numComponents>27</numComponents>
-	<numOompComponents>18</numOompComponents>
-	<oompCompletion>67</oompCompletion>
+	<numOompComponents>21</numOompComponents>
+	<oompCompletion>78</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -107,14 +109,14 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  eagleValue: MBR120  eagleDevice: DIODE-SCHOTTKYSOD-123  eaglePackage: SOD-123</compID>
+		<compID>DIOS-S123-X-A01-V20</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>D4</compIden>
-		<compID>NOT OOMP  eagleValue: MBR120  eagleDevice: DIODE-SCHOTTKYSOD-123  eaglePackage: SOD-123</compID>
+		<compID>DIOS-S123-X-A01-V20</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -184,7 +186,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>SW1</compIden>
-		<compID>NOT OOMP  eagleValue: SPST_TACT-KMR2  eagleDevice: SPST_TACT-KMR2  eaglePackage: KMR2</compID>
+		<compID>BUTA-4632-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -5,14 +5,12 @@
 	<hexID>SPAR13279</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun Large Digit Driver is a chainable controller backpack that can be soldered directly to the back of our large 6.5" 7-segment displays. Large numerical displays are a great addition to any project where you want to be able to see information at a distance. Scorekeepers and lap timers would be a great application for large 7-segment LED displays.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun Large Digit Driver is a chainable controller backpack that can be soldered directly to the back of our large 6.5" 7-segment displays. Large numerical displays are a great addition to any project where you want to be able to see information at a distance. Scorekeepers and lap timers would be a great application for large 7-segment LED displays.
 The SparkFun Large Digit Driver can easily be attached to the back of the 7-segment display by soldering all 10 castellations pins at the bottom of the board as well as the two additional castellations at the top. Keep in mind that the Large Digit Driver requires both 12V for the LEDs and 5V for the on-board TPIC6C596 IC. Each driver is equipped with six input pins and six output pins, these make the driver capable of being chained together. The input/output pins are listed as GND (Ground), LAT (Latch), CLK (Clock), SER (Serial), 5V (Power for the driver IC), and 12V (Power for the 7-segment display).
 The Large Digit Driver has 8 inline 15 Ohm resistors to limit the current through each segment on the 6" display to 20mA (as dictated by the display datasheet). You will need approximately 160mA of current at 12V for each digit in your display.
-We used the SparkFun Large Digit Driver in our AVC Battle-Bot Arena to display times and scores!              
-            
-                      
-              
+We used the SparkFun Large Digit Driver in our AVC Battle-Bot Arena to display times and scores!
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13279</oompOfficialLink>
 	<company>Sparkfun</company>

@@ -5,7 +5,9 @@
 	<hexID>ADAF02895</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
+	<oompAbout>(image and text from adafruit.com)
+
+
 Adafruit Relay FeatherWing PCBs
   
 Click to purchase from the Adafruit Shop:
@@ -39,8 +41,8 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 
 
 	<numComponents>20</numComponents>
-	<numOompComponents>11</numOompComponents>
-	<oompCompletion>55</oompCompletion>
+	<numOompComponents>12</numOompComponents>
+	<oompCompletion>60</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -151,7 +153,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>SW1</compIden>
-		<compID>NOT OOMP  eagleValue: kmr2  eagleDevice: SWITCH_TACT_SMT4.6X2.8  eaglePackage: BTN_KMR2_4.6X2.8</compID>
+		<compID>BUTA-4628-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -5,11 +5,9 @@
 	<hexID>SPAR10050</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                We've revised the board by adding some LED indicators and also improving the overall performance of the board. This is a breakout board for the RN-131C WiFly GSX module, an ultra-low power 802.11b/g transceiver. This board breaks out all pins of the RN-131C to two 17-pin 0.1" pitch headers. Board comes fully assembled and tested as pictured.              
-            
-                      
-              
+	<oompAbout>(image and text from sparkfun.com)
+
+We've revised the board by adding some LED indicators and also improving the overall performance of the board. This is a breakout board for the RN-131C WiFly GSX module, an ultra-low power 802.11b/g transceiver. This board breaks out all pins of the RN-131C to two 17-pin 0.1" pitch headers. Board comes fully assembled and tested as pictured.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/10050</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -19,21 +17,21 @@
 
 
 	<numComponents>7</numComponents>
-	<numOompComponents>4</numOompComponents>
-	<oompCompletion>57</oompCompletion>
+	<numOompComponents>6</numOompComponents>
+	<oompCompletion>86</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  eagleValue: M17  eagleDevice: M17  eaglePackage: 1X17</compID>
+		<compID>HEAD-I01-X-PI17-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  eagleValue: M17  eagleDevice: M17  eaglePackage: 1X17</compID>
+		<compID>HEAD-I01-X-PI17-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

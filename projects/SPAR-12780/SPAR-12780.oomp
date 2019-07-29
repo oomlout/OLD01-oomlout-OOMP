@@ -5,13 +5,11 @@
 	<hexID>SPAR12780</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The ZX Distance and Gesture Sensor is a touchless sensor that is capable of looking for simple gestures. Developed in conjunction with XYZ Interactive, the sensor uses their GestureSense® technology to recognize the distance of an object away from the sensor up to about 12 inches (30cm, referred to as the “Z” axis) and the location of the object from side to side across the sensor in about a 6-inch (15cm) span, referred to as the “X” axis. You will be able to use I2C or UART to communicate with the ZX Sensor via a microcontroller or computer.
+	<oompAbout>(image and text from sparkfun.com)
+
+The ZX Distance and Gesture Sensor is a touchless sensor that is capable of looking for simple gestures. Developed in conjunction with XYZ Interactive, the sensor uses their GestureSense® technology to recognize the distance of an object away from the sensor up to about 12 inches (30cm, referred to as the “Z” axis) and the location of the object from side to side across the sensor in about a 6-inch (15cm) span, referred to as the “X” axis. You will be able to use I2C or UART to communicate with the ZX Sensor via a microcontroller or computer.
 The ZX Sensor works by bouncing infrared (IR) beams of light from the two LEDs on either side off of an object above the sensor. The bounced light returns to the receiver in the center of the sensor, and a microcontroller on the back of the sensor interprets the data. With these IR pieces you will easily be able to ascertain both the Z axis and the X axis of an object (hence the name). In addition to providing Z and X axis data about an object, the ZX Sensor is capable of detecting simple gestures. We have also clearly labeled all the pin outs on the board, as well as signifying if they are needed in I2C or UART communication.
- Get started with the ZX Sensor Guide               
-            
-                      
-              
+ Get started with the ZX Sensor Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/12780</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ The ZX Sensor works by bouncing infrared (IR) beams of light from the two LEDs o
 
 
 	<numComponents>30</numComponents>
-	<numOompComponents>21</numOompComponents>
-	<oompCompletion>70</oompCompletion>
+	<numOompComponents>22</numOompComponents>
+	<oompCompletion>73</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -91,7 +89,7 @@ The ZX Sensor works by bouncing infrared (IR) beams of light from the two LEDs o
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: MMBT2222A  eagleDevice: TRANSISTOR_NPNMMBT2222A  eaglePackage: SOT23-3</compID>
+		<compID>TRNN-SO23-X-A06D-V30</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

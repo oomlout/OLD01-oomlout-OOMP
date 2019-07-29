@@ -5,12 +5,10 @@
 	<hexID>SPAR12072</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is a breakout board for the CC3000 WiFi Module. The CC3000 from TI (Texas Instruments) is a self-contained wireless network processor that makes incorporating internet connectivity into your project simple. Instead of the more standard UART communication method, the CC3000 module utilizes an SPI interface allowing you, the user, to control the flow of data as you please. What makes the CC3000 unique is its ability to associate to a WiFi access point using a cell phone app in the Texas Instruments process called SmartConfig.
-This breakout even provides an optional feature that allows you to attach an external antenna, just in case you need a little extra power. This is a handy feature if you want to route an antenna to the outside of an enclosure or to increase your WiFi gain. We've broken out the GND, Vcc, 3.3V, MOSI, MISO, CS, INT, SCK, and EN pins from the CC3000 module to give you easy access to making a great WiFi enabled project.              
-            
-                      
-              
+	<oompAbout>(image and text from sparkfun.com)
+
+This is a breakout board for the CC3000 WiFi Module. The CC3000 from TI (Texas Instruments) is a self-contained wireless network processor that makes incorporating internet connectivity into your project simple. Instead of the more standard UART communication method, the CC3000 module utilizes an SPI interface allowing you, the user, to control the flow of data as you please. What makes the CC3000 unique is its ability to associate to a WiFi access point using a cell phone app in the Texas Instruments process called SmartConfig.
+This breakout even provides an optional feature that allows you to attach an external antenna, just in case you need a little extra power. This is a handy feature if you want to route an antenna to the outside of an enclosure or to increase your WiFi gain. We've broken out the GND, Vcc, 3.3V, MOSI, MISO, CS, INT, SCK, and EN pins from the CC3000 module to give you easy access to making a great WiFi enabled project.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/12072</oompOfficialLink>
 	<company>Sparkfun</company>

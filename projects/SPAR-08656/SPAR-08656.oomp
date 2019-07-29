@@ -5,12 +5,10 @@
 	<hexID>SPAR08656</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The HMC6343 is a fully integrated high end electronic compass module that can compute and give you a heading direction that’s accurate within a couple degrees. It is tilt compensated and is calibrated to handle magnetic distortions. This breakout board allows for easy use of the HMC6343. All that is required is power and I2C connections to a microcontroller so that the module can receive commands and send data back to the user.
-The IC combines 3-axis magneto-resistive sensors and 3-axis MEMS accelerometers, analog and digital support circuits, a microprocessor and algorithms in firmware required for heading computation. The HMC6343 Breakout needs to be supplied with 3.3V @ 4.5mA and can measure and compute a heading direction every 200ms (5Hz). This board for the HMC6343 breaks out the all the pins you’ll need to send commands and collect data from the electronic compass including GND, 3.3V, SDA, and SCL.              
-            
-                      
-              
+	<oompAbout>(image and text from sparkfun.com)
+
+The HMC6343 is a fully integrated high end electronic compass module that can compute and give you a heading direction that’s accurate within a couple degrees. It is tilt compensated and is calibrated to handle magnetic distortions. This breakout board allows for easy use of the HMC6343. All that is required is power and I2C connections to a microcontroller so that the module can receive commands and send data back to the user.
+The IC combines 3-axis magneto-resistive sensors and 3-axis MEMS accelerometers, analog and digital support circuits, a microprocessor and algorithms in firmware required for heading computation. The HMC6343 Breakout needs to be supplied with 3.3V @ 4.5mA and can measure and compute a heading direction every 200ms (5Hz). This board for the HMC6343 breaks out the all the pins you’ll need to send commands and collect data from the electronic compass including GND, 3.3V, SDA, and SCL.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/8656</oompOfficialLink>
 	<company>Sparkfun</company>

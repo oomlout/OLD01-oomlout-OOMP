@@ -5,7 +5,9 @@
 	<hexID>ADAF02636</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
+	<oompAbout>(image and text from adafruit.com)
+
+
 Adafruit FONA808 Shield PCB
 
 Click here to purchase one from the Adafruit shop
@@ -46,8 +48,8 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 
 
 	<numComponents>46</numComponents>
-	<numOompComponents>27</numOompComponents>
-	<oompCompletion>59</oompCompletion>
+	<numOompComponents>29</numOompComponents>
+	<oompCompletion>63</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -193,7 +195,7 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>D8</compIden>
-		<compID>NOT OOMP  eagleValue: MBR120  eagleDevice: DIODE-SCHOTTKYSOD-123  eaglePackage: SOD-123</compID>
+		<compID>DIOS-S123-X-A01-V20</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -333,7 +335,7 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 	<component>
 		<compIndex>41</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  eagleValue: MCP73831T-2ACI/OT  eagleDevice: MCP73831/2  eaglePackage: SOT23-5</compID>
+		<compID>ICIC-SO235-X-K73831-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

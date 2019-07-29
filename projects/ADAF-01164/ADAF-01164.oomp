@@ -5,7 +5,9 @@
 	<hexID>ADAF01164</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
+	<oompAbout>(image and text from adafruit.com)
+
+
 Adafruit INA169 Breakout PCB
 
 Click here to purchase one from the Adafruit shop
@@ -32,8 +34,8 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 
 
 	<numComponents>5</numComponents>
-	<numOompComponents>2</numOompComponents>
-	<oompCompletion>40</oompCompletion>
+	<numOompComponents>3</numOompComponents>
+	<oompCompletion>60</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -46,7 +48,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: TERMBLOCK_1X2  eaglePackage: TERMBLOCK_1X2-3.5MM</compID>
+		<compID>TERS-35D-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

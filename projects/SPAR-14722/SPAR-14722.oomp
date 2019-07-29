@@ -5,17 +5,15 @@
 	<hexID>SPAR14722</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This SparkFun Distance Sensor Breakout utilizes the VL53L1X next generation ToF (Time of Flight) sensor module to give you the highly accurate measurements at long ranges for its size. The VL53L1X uses a VCSEL (Vertical Cavity Surface Emitting Laser) to emit an Infrared laser to time the reflection to the target. That means that you will be able to measure the distance to an object from 40mm to 4m away with millimeter resolution! To make it even easier to get your readings, all communication is enacted exclusively via I2C, utilizing our handy Qwiic system so no soldering is required to connect it to the rest of your system. However, we still have broken out 0.1”-spaced pins in case you prefer to use a breadboard.
+	<oompAbout>(image and text from sparkfun.com)
+
+This SparkFun Distance Sensor Breakout utilizes the VL53L1X next generation ToF (Time of Flight) sensor module to give you the highly accurate measurements at long ranges for its size. The VL53L1X uses a VCSEL (Vertical Cavity Surface Emitting Laser) to emit an Infrared laser to time the reflection to the target. That means that you will be able to measure the distance to an object from 40mm to 4m away with millimeter resolution! To make it even easier to get your readings, all communication is enacted exclusively via I2C, utilizing our handy Qwiic system so no soldering is required to connect it to the rest of your system. However, we still have broken out 0.1”-spaced pins in case you prefer to use a breadboard.
 Each VL53L1X sensor features a precision to be 1mm with an accuracy around +/-5mm and a minimum read distance of this sensor is 4cm. The field of view for this little breakout is fairly narrow at 15°-27° with a read rate of up to 50Hz. Make sure to power this board appropriately since it will need 2.6V-3.5V to operate. Lastly, please be sure to remove the protective sticker on the VL53L1X before use otherwise it will, most assuredly, throw off your readings.
 
 The SparkFun Qwiic connect system is an ecosystem of I2C sensors, actuators, shields and cables that make prototyping faster and less prone to error. All Qwiic-enabled boards use a common 1mm pitch, 4-pin JST connector. This reduces the amount of required PCB space, and polarized connections mean you can’t hook it up wrong.
 
 Note: CLASS 1 LASER PRODUCT CLASSIFIED IEC 60825-1 2014.
- Get Started with the SparkFun VL53L1X Distance Sensor Breakout Guide               
-            
-                      
-              
+ Get Started with the SparkFun VL53L1X Distance Sensor Breakout Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14722</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -25,8 +23,8 @@ Note: CLASS 1 LASER PRODUCT CLASSIFIED IEC 60825-1 2014.
 
 
 	<numComponents>15</numComponents>
-	<numOompComponents>10</numOompComponents>
-	<oompCompletion>67</oompCompletion>
+	<numOompComponents>13</numOompComponents>
+	<oompCompletion>87</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -60,7 +58,7 @@ Note: CLASS 1 LASER PRODUCT CLASSIFIED IEC 60825-1 2014.
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI01-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -74,7 +72,7 @@ Note: CLASS 1 LASER PRODUCT CLASSIFIED IEC 60825-1 2014.
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  eagleValue: PTH  eagleDevice: I2C_STANDARD_NO_SILK  eaglePackage: 1X04_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI04-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -88,7 +86,7 @@ Note: CLASS 1 LASER PRODUCT CLASSIFIED IEC 60825-1 2014.
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI01-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

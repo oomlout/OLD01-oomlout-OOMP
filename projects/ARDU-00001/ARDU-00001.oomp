@@ -16,8 +16,8 @@ Arduino Uno is a microcontroller board based on the ATmega328P (datasheet). It h
 
 
 	<numComponents>53</numComponents>
-	<numOompComponents>20</numOompComponents>
-	<oompCompletion>38</oompCompletion>
+	<numOompComponents>24</numOompComponents>
+	<oompCompletion>45</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -149,21 +149,21 @@ Arduino Uno is a microcontroller board based on the ATmega328P (datasheet). It h
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>GROUND</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SJ  eaglePackage: SJ</compID>
+		<compID>HEAF-I01-X-PI08-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>ICSP</compIden>
-		<compID>NOT OOMP  eagleValue: 3x2 M  eagleDevice: PINHD-2X3  eaglePackage: 2X03</compID>
+		<compID>HEAD-I01-X-PI2X03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>ICSP1</compIden>
-		<compID>NOT OOMP  eagleValue: 3x2 M  eagleDevice: PINHD-2X3  eaglePackage: 2X03</compID>
+		<compID>HEAD-I01-X-PI2X03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -261,7 +261,7 @@ Arduino Uno is a microcontroller board based on the ATmega328P (datasheet). It h
 	<component>
 		<compIndex>35</compIndex>
 		<compIden>RESET-EN</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SJ  eaglePackage: SJ</compID>
+		<compID>HEAF-I01-X-PI08-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

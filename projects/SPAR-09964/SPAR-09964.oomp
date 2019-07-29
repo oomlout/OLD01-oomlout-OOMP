@@ -5,13 +5,11 @@
 	<hexID>SPAR09964</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This small breakout board couples an Electret microphone (100Hz--10kHz) with a 60x mic preamplifier to amplify the sounds of voice, claps, door knocks or any sounds loud enough to be picked up by a microcontroller’s analog-to-digital converter. Each breakout comes fully assembled and works from 2.7V up to 5.5V.
+	<oompAbout>(image and text from sparkfun.com)
+
+This small breakout board couples an Electret microphone (100Hz--10kHz) with a 60x mic preamplifier to amplify the sounds of voice, claps, door knocks or any sounds loud enough to be picked up by a microcontroller’s analog-to-digital converter. Each breakout comes fully assembled and works from 2.7V up to 5.5V.
 The Electret Mic Breakout translates amplitude (not volume) by capturing sound waves between two conducting plates (one a vibrating diaphragm and the other fixed) in the microphone and converting them into electrical waves. These electrical signals are then amplified and picked up by your microcontroller’s ADC.
- Get Started With the Electret Microphone Guide!               
-            
-                      
-              
+ Get Started With the Electret Microphone Guide!
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9964</oompOfficialLink>
 	<company>Sparkfun</company>

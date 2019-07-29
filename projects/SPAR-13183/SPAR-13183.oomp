@@ -5,14 +5,12 @@
 	<hexID>SPAR13183</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The CryptoShield is a dedicated security peripheral for the Arduino and was made in collaboration with a previous Hacker In Residence, Josh Datko. This shield adds specialized ICs that perform various cryptographic operations which will allow you to add a hardware security layer to your Arduino project. It also is a nice device for those performing embedded security research. Needless to say this is a great product for those of you who are interested in computer security!
+	<oompAbout>(image and text from sparkfun.com)
+
+The CryptoShield is a dedicated security peripheral for the Arduino and was made in collaboration with a previous Hacker In Residence, Josh Datko. This shield adds specialized ICs that perform various cryptographic operations which will allow you to add a hardware security layer to your Arduino project. It also is a nice device for those performing embedded security research. Needless to say this is a great product for those of you who are interested in computer security!
 On board each CryptoShield is a slew of hardware fresh for your use: a real time clock (RTC) module to keep accurate time, a trusted platform module (TPM) for RSA encryption/decryption and signing in the hardware, an AES-128 encrypted EEPROM, an ATSHA204 authentication chip that performs SHA-256 and HMAC-256, and an ATECC108 that performs the Elliptic Curve Digital Signature Algorithm (ECDSA). Unlike its cousin, the CryptoCape, we've shrunk the prototyping area but added an RFID socket that works best with a ID-12LA module.
 Each CryptoShield will need to have headers soldered on once you receive it. We prefer to give you the choice of soldering on stackable or non-stackable headers, whatever fits best for you project. The only other items you will need to get the CryptoCape fully functional are a dev board that supports the Arduino R3 form-factor and a CR1225 coin cell battery. All of these additional parts can be found in the Recommended Products section below.
-Note: A portion of each sale is given back to Josh Datko for continued development of new and exciting Cryptographic tools.              
-            
-                      
-              
+Note: A portion of each sale is given back to Josh Datko for continued development of new and exciting Cryptographic tools.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13183</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ Note: A portion of each sale is given back to Josh Datko for continued developme
 
 
 	<numComponents>36</numComponents>
-	<numOompComponents>22</numOompComponents>
-	<oompCompletion>61</oompCompletion>
+	<numOompComponents>26</numOompComponents>
+	<oompCompletion>72</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -127,28 +125,28 @@ Note: A portion of each sale is given back to Josh Datko for continued developme
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  eagleValue: AVR_SPI_PRG_6PTH  eagleDevice: AVR_SPI_PRG_6PTH  eaglePackage: 2X3</compID>
+		<compID>HEAD-I01-X-PI2X03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: BSS138  eagleDevice: MOSFET-NCHANNELBSS138  eaglePackage: SOT23-3</compID>
+		<compID>MOSN-SO23-X-A02D-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  eagleValue: BSS138  eagleDevice: MOSFET-NCHANNELBSS138  eaglePackage: SOT23-3</compID>
+		<compID>MOSN-SO23-X-A02D-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>Q3</compIden>
-		<compID>NOT OOMP  eagleValue: BSS138  eagleDevice: MOSFET-NCHANNELBSS138  eaglePackage: SOT23-3</compID>
+		<compID>MOSN-SO23-X-A02D-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

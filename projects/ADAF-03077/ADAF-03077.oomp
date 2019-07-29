@@ -5,7 +5,9 @@
 	<hexID>ADAF03077</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
+	<oompAbout>(image and text from adafruit.com)
+
+
 Adafruit-Feather-32u4-RFM-LoRa-PCB
 PCB files for the Adafruit Feather 32u4 RFM69 and LoRa Radio
 
@@ -30,8 +32,8 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 
 
 	<numComponents>29</numComponents>
-	<numOompComponents>18</numOompComponents>
-	<oompCompletion>62</oompCompletion>
+	<numOompComponents>21</numOompComponents>
+	<oompCompletion>72</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -100,7 +102,7 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>D4</compIden>
-		<compID>NOT OOMP  eagleValue: MBR120  eagleDevice: DIODE-SCHOTTKYSOD-123  eaglePackage: SOD-123</compID>
+		<compID>DIOS-S123-X-A01-V20</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -184,7 +186,7 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>SW1</compIden>
-		<compID>NOT OOMP  eagleValue: SPST_TACT-KMR2  eagleDevice: SPST_TACT-KMR2  eaglePackage: KMR2</compID>
+		<compID>BUTA-4632-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -198,7 +200,7 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  eagleValue: MCP73831T-2ACI/OT  eagleDevice: MCP73831/2  eaglePackage: SOT23-5</compID>
+		<compID>ICIC-SO235-X-K73831-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

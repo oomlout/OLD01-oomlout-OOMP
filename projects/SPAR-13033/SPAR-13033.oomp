@@ -5,15 +5,13 @@
 	<hexID>SPAR13033</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The Intel® Edison is an ultra small computing platform that will change the way you look at embedded electronics. Each Edison is packed with a huge amount of tech goodies into a tiny package while still providing the same robust strength of your go-to single board computer. Powered by the Intel® Atom™ SoC dual-core CPU and including an integrated WiFi, Bluetooth LE, and a 70-pin connector to attach a veritable slew of shield-like "Blocks" which can be stacked on top of each other. It's no wonder how this little guy is lowering the barrier of entry on the world of electronics!
+	<oompAbout>(image and text from sparkfun.com)
+
+The Intel® Edison is an ultra small computing platform that will change the way you look at embedded electronics. Each Edison is packed with a huge amount of tech goodies into a tiny package while still providing the same robust strength of your go-to single board computer. Powered by the Intel® Atom™ SoC dual-core CPU and including an integrated WiFi, Bluetooth LE, and a 70-pin connector to attach a veritable slew of shield-like "Blocks" which can be stacked on top of each other. It's no wonder how this little guy is lowering the barrier of entry on the world of electronics!
 The 9 Degrees of Freedom Block for the Intel® Edison uses the LSM9DS0 9DOF IMU for full-range motion sensing. This chip combines a 3-axis accelerometer, a 3-axis gyroscope, and a 3-axis magnetometer. By default, the IMU is connected to the Edison through the I2C bus. Each sensor in the LSM9DS0 supports a wide range of, well, ranges: the accelerometer’s scale can be set to ± 2, 4, 6, 8, or 16 g, the gyroscope supports ± 245, 500, and 2000 °/s, and the magnetometer has full-scale ranges of ± 2, 4, 8, or 12 gauss. Additionally, the LSM9DS0 includes an I2C serial bus interface supporting standard and fast mode (100 kHz and 400 kHz) and an SPI serial standard interface.
 If you are looking to add a little more stability to your Intel® Edison stack, check out this Hardware Pack. It will provide you with increased mechanical strength for stacking Blocks on your Edison!
 Note: We are currently working on a Hookup Guide for this kit. Check back later for more updates.
-Note: While there are jumpers for SPI, it is not supported.              
-            
-                      
-              
+Note: While there are jumpers for SPI, it is not supported.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13033</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -23,8 +21,8 @@ Note: While there are jumpers for SPI, it is not supported.
 
 
 	<numComponents>16</numComponents>
-	<numOompComponents>12</numOompComponents>
-	<oompCompletion>75</oompCompletion>
+	<numOompComponents>13</numOompComponents>
+	<oompCompletion>81</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -135,7 +133,7 @@ Note: While there are jumpers for SPI, it is not supported.
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  eagleValue: MIC52053.3V  eagleDevice: MIC52053.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A015D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

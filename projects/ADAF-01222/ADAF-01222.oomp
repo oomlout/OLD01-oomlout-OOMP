@@ -5,7 +5,9 @@
 	<hexID>ADAF01222</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
+	<oompAbout>(image and text from adafruit.com)
+
+
 Adafruit Gemma Classic (ATtiny85) PCB
 
 Click here to purchase one from the Adafruit shop
@@ -38,8 +40,8 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 
 
 	<numComponents>17</numComponents>
-	<numOompComponents>9</numOompComponents>
-	<oompCompletion>53</oompCompletion>
+	<numOompComponents>10</numOompComponents>
+	<oompCompletion>59</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -101,7 +103,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: reset  eagleDevice: SWITCH_TACT_SMT4.6X2.8  eaglePackage: BTN_KMR2_4.6X2.8</compID>
+		<compID>BUTA-4628-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -5,14 +5,12 @@
 	<hexID>SPAR13287</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun ESP8266 WiFi Shield is an Arduino compatible shield for the ESP8266 WiFi SoC – a leading platform for Internet of Things (IoT) or WiFi-related projects. There are a variety of designs based around the ESP8266, including tiny, modular boards and more accessible development boards like our very own SparkFun ESP8266 Thing. The ESP8266 WiFi Shield finds a middle ground between the Module and the Thing that provides a great introduction to the ESP8266 – without leaving the comfortable hardware confines of your Arduino. If you just have an Arduino project that needs an inexpensive gateway to the Internet, the ESP8266 WiFi Shield does everything from turning on an LED to posting data online to a data streaming service.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun ESP8266 WiFi Shield is an Arduino compatible shield for the ESP8266 WiFi SoC – a leading platform for Internet of Things (IoT) or WiFi-related projects. There are a variety of designs based around the ESP8266, including tiny, modular boards and more accessible development boards like our very own SparkFun ESP8266 Thing. The ESP8266 WiFi Shield finds a middle ground between the Module and the Thing that provides a great introduction to the ESP8266 – without leaving the comfortable hardware confines of your Arduino. If you just have an Arduino project that needs an inexpensive gateway to the Internet, the ESP8266 WiFi Shield does everything from turning on an LED to posting data online to a data streaming service.
 The ESP8266 WiFi Shield comes pre-flashed with an AT-command firmware, so it can be controlled by any UART, but it also breaks out and provides command access to all of the ESP8266’s I/O. Since this is an Arduino shield, it makes it easy to attach to any development board that utilizes the Arduino R3 layout. All it will take is a little soldering to attach the necessary headers. The ESP8266 is much more than a simple serial-to-WiFi gateway. It has almost a dozen I/O that can be configured as digital inputs or outputs – it even has an ADC! These GPIO are all broken out towards the top-left side of the shield. Additionally, the ESP8266 WiFi Shield can be repurposed and reprogrammed through the programming port found on the top-right side of the shield. Whether you want to add AT commands of your own, or flash custom firmware on the ESP8266, this port may come in very handy especially with it utilizing the pinout of our FTDI Basic breakouts.
 This shield comes populated with all components as shown in the images and schematic; but it does not come with headers installed. We recommend the Arduino R3 Stackable Header Kit.
- Get Started with the ESP8266 WiFi Shield Guide               
-            
-                      
-              
+ Get Started with the ESP8266 WiFi Shield Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13287</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ This shield comes populated with all components as shown in the images and schem
 
 
 	<numComponents>34</numComponents>
-	<numOompComponents>25</numOompComponents>
-	<oompCompletion>74</oompCompletion>
+	<numOompComponents>30</numOompComponents>
+	<oompCompletion>88</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -106,7 +104,7 @@ This shield comes populated with all components as shown in the images and schem
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  eagleValue: BAS16  eagleDevice: DIODEBAS16  eaglePackage: SOD-323</compID>
+		<compID>DIOD-S323-X-A015D-V75</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -120,14 +118,14 @@ This shield comes populated with all components as shown in the images and schem
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: BSS138  eagleDevice: MOSFET-NCHANNELBSS138  eaglePackage: SOT23-3</compID>
+		<compID>MOSN-SO23-X-A02D-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  eagleValue: BSS138  eagleDevice: MOSFET-NCHANNELBSS138  eaglePackage: SOT23-3</compID>
+		<compID>MOSN-SO23-X-A02D-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -225,7 +223,7 @@ This shield comes populated with all components as shown in the images and schem
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  eagleValue: DPDT  eagleDevice: SWITCH-DPDTAYZ0202  eaglePackage: AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -239,7 +237,7 @@ This shield comes populated with all components as shown in the images and schem
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  eagleValue: AP2112K-3.3V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

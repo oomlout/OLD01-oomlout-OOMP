@@ -5,14 +5,12 @@
 	<hexID>SPAR10661</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun VoiceBox Shield can be mounted on top of your Arduino board to give it access to all of the capabilities of the SpeakJet voice and sound synthesizer. The Voice Box Shield uses the SpeakJet chip to convert serial commands into a great robot-sounding voice.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun VoiceBox Shield can be mounted on top of your Arduino board to give it access to all of the capabilities of the SpeakJet voice and sound synthesizer. The Voice Box Shield uses the SpeakJet chip to convert serial commands into a great robot-sounding voice.
 Populated on the VoiceBox Shield are the SpeakJet IC, a two stage audio amplifier with a potentiometer to set the gain and a standard 3.5mm audio output jack. Simply connect a speaker to the output jack and get your Arduino-bot talking with very minimal work!
 You can control the SpeakJet through either its serial line, or the eight event input lines which are connected to digital pins 5-12. A 3-way jumper allows you to connect either the software (D2) or hardware (D1) TX pin of the Arduino to the SpeakJet's serial input.
-Also included on the shield are a grid of 0.1" pitch through-holes for prototyping as well as the Arduino's reset button. Headers are not included, we recommend the 6 and 8-pin stackable headers.              
-            
-                      
-              
+Also included on the shield are a grid of 0.1" pitch through-holes for prototyping as well as the Arduino's reset button. Headers are not included, we recommend the 6 and 8-pin stackable headers.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/10661</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ Also included on the shield are a grid of 0.1" pitch through-holes for prototypi
 
 
 	<numComponents>31</numComponents>
-	<numOompComponents>26</numOompComponents>
-	<oompCompletion>84</oompCompletion>
+	<numOompComponents>27</numOompComponents>
+	<oompCompletion>87</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -225,7 +223,7 @@ Also included on the shield are a grid of 0.1" pitch through-holes for prototypi
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  eagleValue: Reset Switch  eagleDevice: SWITCH-MOMENTARY-2SMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
+		<compID>BUTA-52D-X-SMDS-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

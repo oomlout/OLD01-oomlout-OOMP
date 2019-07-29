@@ -5,14 +5,12 @@
 	<hexID>SPAR13144</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun Touch Potentiometer, or Touch Pot for short, is an intelligent linear capacitive touch sensor that implements potentiometer functionality with 256 positions. It can operate as a peripheral to a computer or embedded microcontroller or in a stand-alone capacity. The Touch Potentiometer provides both a dual-channel analog and PWM output for direct control of other circuitry. Configurable analog and PWM transfer functions support a wide variety of applications such as volume control and LED dimming.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun Touch Potentiometer, or Touch Pot for short, is an intelligent linear capacitive touch sensor that implements potentiometer functionality with 256 positions. It can operate as a peripheral to a computer or embedded microcontroller or in a stand-alone capacity. The Touch Potentiometer provides both a dual-channel analog and PWM output for direct control of other circuitry. Configurable analog and PWM transfer functions support a wide variety of applications such as volume control and LED dimming.
 The Touch Potentiometer is controlled by a Microchip PIC16F1829 8-bit micro-controller that provides the host interface, LED control, capacitive sense and peripheral control functions. A built-in low-dropout voltage regulator allows operation over a range of input voltages up to 12V and breadboard friendly connectors make it easy to play with. A desktop application has been created by our collaborator, Dan Julio, that communicates with the Touch Pot over a serial connection. From this utility app you can change configuration settings, alter LED behavior, calibrate the capacitive touch sensor, view current readings in jabber mode, and much more.
 Note: This product is a collaboration with danjuliodesigns. A portion of each sales goes back to them for product support and continued development.
- Get Started with the SparkFun Touch Potentiometer Guide               
-            
-                      
-              
+ Get Started with the SparkFun Touch Potentiometer Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13144</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ Note: This product is a collaboration with danjuliodesigns. A portion of each sa
 
 
 	<numComponents>34</numComponents>
-	<numOompComponents>20</numOompComponents>
-	<oompCompletion>59</oompCompletion>
+	<numOompComponents>28</numOompComponents>
+	<oompCompletion>82</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -85,56 +83,56 @@ Note: This product is a collaboration with danjuliodesigns. A portion of each sa
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  eagleValue: Green  eagleDevice: LED-GREEN1206-BOTTOM  eaglePackage: LED-1206-BOTTOM</compID>
+		<compID>LEDS-1206-G-BOTT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  eagleValue: Green  eagleDevice: LED-GREEN1206-BOTTOM  eaglePackage: LED-1206-BOTTOM</compID>
+		<compID>LEDS-1206-G-BOTT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  eagleValue: Green  eagleDevice: LED-GREEN1206-BOTTOM  eaglePackage: LED-1206-BOTTOM</compID>
+		<compID>LEDS-1206-G-BOTT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>D4</compIden>
-		<compID>NOT OOMP  eagleValue: Green  eagleDevice: LED-GREEN1206-BOTTOM  eaglePackage: LED-1206-BOTTOM</compID>
+		<compID>LEDS-1206-G-BOTT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>D5</compIden>
-		<compID>NOT OOMP  eagleValue: Green  eagleDevice: LED-GREEN1206-BOTTOM  eaglePackage: LED-1206-BOTTOM</compID>
+		<compID>LEDS-1206-G-BOTT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>D6</compIden>
-		<compID>NOT OOMP  eagleValue: Green  eagleDevice: LED-GREEN1206-BOTTOM  eaglePackage: LED-1206-BOTTOM</compID>
+		<compID>LEDS-1206-G-BOTT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>D7</compIden>
-		<compID>NOT OOMP  eagleValue: Green  eagleDevice: LED-GREEN1206-BOTTOM  eaglePackage: LED-1206-BOTTOM</compID>
+		<compID>LEDS-1206-G-BOTT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>D8</compIden>
-		<compID>NOT OOMP  eagleValue: Green  eagleDevice: LED-GREEN1206-BOTTOM  eaglePackage: LED-1206-BOTTOM</compID>
+		<compID>LEDS-1206-G-BOTT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

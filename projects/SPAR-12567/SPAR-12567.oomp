@@ -5,13 +5,11 @@
 	<hexID>SPAR12567</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This buzzer is an add-on for your RedBot that gives your robot the ability to make awesome beep-boop noises or alerts when something interesting (or terrible) happens. The buzzer works by making use of two I/O pins on a controller board to create different noises based on the different frequency of I/O toggling. If you are using this buzzer on a RedBot, simply plug it in to one of the many 3-pin I/O ports and get your robot to make some noise.
+	<oompAbout>(image and text from sparkfun.com)
+
+This buzzer is an add-on for your RedBot that gives your robot the ability to make awesome beep-boop noises or alerts when something interesting (or terrible) happens. The buzzer works by making use of two I/O pins on a controller board to create different noises based on the different frequency of I/O toggling. If you are using this buzzer on a RedBot, simply plug it in to one of the many 3-pin I/O ports and get your robot to make some noise.
 The buzzer has a 3-pin header which connects directly to the RedBot Mainboard or via male to female jumper wires. Use the included RedBot library to detect sound alarms and make some noise.
-Check out the entire RedBot family of products!              
-            
-                      
-              
+Check out the entire RedBot family of products!
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/12567</oompOfficialLink>
 	<company>Sparkfun</company>

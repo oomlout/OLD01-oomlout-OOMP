@@ -5,8 +5,9 @@
 	<hexID>SPAR14052</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The Spectacle Light Board allows you to add some fairly complex lighting effects to your Spectacle projects in a streamlined manner. Each has connections for you to add addressable LEDs as well as an external power connector. Designed to make it easy to add relatively complex lighting effects to your Spectacle projects, the Spectacle Light Board integrates with the rest of the Spectacle ecosystem to allow you to control lighting effects with ease and comfort.
+	<oompAbout>(image and text from sparkfun.com)
+
+The Spectacle Light Board allows you to add some fairly complex lighting effects to your Spectacle projects in a streamlined manner. Each has connections for you to add addressable LEDs as well as an external power connector. Designed to make it easy to add relatively complex lighting effects to your Spectacle projects, the Spectacle Light Board integrates with the rest of the Spectacle ecosystem to allow you to control lighting effects with ease and comfort.
 The Light Board is equipped with two 3.5mm TRRS jacks for Spectacle control signals from a Director Board. The one labeled “In” should be plugged into a board that is closer to the Director Board than the Light Board is, or into the Director Board itself. Make sure to pay attention to the directionality of the jacks, as they will dictate how your Spectacle modules speak with one another and with the Director Board. As with every other Spectacle module, you will need the Director Board to operate any Spectacle project.
 Additionally, the Spectacle Light Board supports up to three strands of addressable LEDs, with each strand supporting up to 60 individual pixels. Simply utilize the 3-pin JST ports on the Light Board as well as a JST to JST-SM wire, and you will be ready to light up any project!
 We have written an in-depth User's Guide and Light Board Hookup Guide to help direct you through each step of setting up this and any board in the Spectacle product line. You will be surprised by how easy and quick it is to make yourself into a Spectacle!
@@ -15,10 +16,7 @@ Spectacle is a product ecosystem centered around a simple idea: creative people 
 
 Note: Not all types of addressable LEDs are compatible with the Spectacle Light Board. If you have questions about whether or not a particular type of LED strip is compatible with the Light Board, contact SparkFun technical support.
  Spectacle User's Guide Spectacle Programmer 
- Get Started with the Light Board               
-            
-                      
-              
+ Get Started with the Light Board
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14052</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -28,8 +26,8 @@ Note: Not all types of addressable LEDs are compatible with the Spectacle Light 
 
 
 	<numComponents>32</numComponents>
-	<numOompComponents>18</numOompComponents>
-	<oompCompletion>56</oompCompletion>
+	<numOompComponents>24</numOompComponents>
+	<oompCompletion>75</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -119,14 +117,14 @@ Note: Not all types of addressable LEDs are compatible with the Spectacle Light 
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>D5</compIden>
-		<compID>NOT OOMP  eagleValue: BAT20J  eagleDevice: DIODE-SCHOTTKY-BAT20J  eaglePackage: SOD-323</compID>
+		<compID>DIOS-S323-X-A01-V23</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: M05NO_SILK  eaglePackage: 1X05_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI05-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -175,7 +173,7 @@ Note: Not all types of addressable LEDs are compatible with the Spectacle Light 
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>J9</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: M06NO_SILK_NO_POP  eaglePackage: 1X06_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI06-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -217,14 +215,14 @@ Note: Not all types of addressable LEDs are compatible with the Spectacle Light 
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>SW1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH_SPST_4_PINRECT  eaglePackage: TACTILE_SWITCH_SMD_4.6X2.8MM</compID>
+		<compID>BUTA-4632-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>SW2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH_SPST_4_PINRECT  eaglePackage: TACTILE_SWITCH_SMD_4.6X2.8MM</compID>
+		<compID>BUTA-4632-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -238,7 +236,7 @@ Note: Not all types of addressable LEDs are compatible with the Spectacle Light 
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

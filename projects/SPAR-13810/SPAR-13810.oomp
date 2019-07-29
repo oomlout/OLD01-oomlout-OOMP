@@ -5,17 +5,15 @@
 	<hexID>SPAR13810</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The Tsunami Super WAV Trigger is the next evolutionary step beyond the original WAV Trigger.
+	<oompAbout>(image and text from sparkfun.com)
+
+The Tsunami Super WAV Trigger is the next evolutionary step beyond the original WAV Trigger.
 Based on a new generation ARM Cortex M7, the Tsunami extends polyphony to 32 mono or 18 stereo simultaneous uncompressed 44.1kHz, 16-bit tracks. Each track can start, pause, resume, loop and stop independently, and can have its own volume setting, allowing you to create the perfect interactive mix of music, dialog and sound effects. The Tsunami also supports true seamless looping over an arbitrary track length.
 The big news is that the Tsunami has 8 audio output channels, arranged as either 8 mono or 4 stereo pairs. Alternate versions of firmware support either mono and stereo architecture – you choose. The mono version adds a new “Synced Set” trigger function that can start up to 8 mono tracks on adjacent outputs. These tracks will start and stay in sample-sync for playing stereo or even 5.1 or 7.1 surround sound content with a single trigger. Any track can be dynamically routed to any output. And each output provides independent real-time volume and sample-rate conversion (pitch bend). For your convenience, the Tsunami also has full Arduino and Python libraries available which can be found in the Documents tab above!
 Each Tsunami Super WAV Trigger has a dedicated MIDI port with an integrated opto-isolator, making it easy to connect to any MIDI controller. Tsunami’s MIDI implementation includes control of volume, pitch bend, attack and release times, and the ability to route any MIDI key to any of the output channels, as well as specifying single-shot or looping playback per key. It is very important to know that this is a 3.3V device, and its inputs – including triggers and serial RX – are not 5V tolerant!
 Note: The Tsunami Super WAV Trigger will only work properly if your uSD card is formatted with the correct file allocation size (32Kb). If this is set incorrectly during formatting, then the Tsunami will show every erratic behavior and occasionally crash.
 Note: The Tsunami was developed in collaboration with Robertsonics. A portion of each sale goes back to them for product support and continued development.
- Get Started with the Tsunami Guide               
-            
-                      
-              
+ Get Started with the Tsunami Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13810</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -25,8 +23,8 @@ Note: The Tsunami was developed in collaboration with Robertsonics. A portion of
 
 
 	<numComponents>136</numComponents>
-	<numOompComponents>103</numOompComponents>
-	<oompCompletion>76</oompCompletion>
+	<numOompComponents>116</numOompComponents>
+	<oompCompletion>85</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -410,7 +408,7 @@ Note: The Tsunami was developed in collaboration with Robertsonics. A portion of
 	<component>
 		<compIndex>55</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: DIODE-SCHOTTKY-MBRA140  eaglePackage: SMA-DIODE</compID>
+		<compID>DIOS-D214-X-A01-V40</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -424,7 +422,7 @@ Note: The Tsunami was developed in collaboration with Robertsonics. A portion of
 	<component>
 		<compIndex>57</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: MBRA140  eaglePackage: SMA-DIODE</compID>
+		<compID>DIOS-D214-X-A01-V40</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -452,21 +450,21 @@ Note: The Tsunami was developed in collaboration with Robertsonics. A portion of
 	<component>
 		<compIndex>61</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  eagleValue: VDC-IN  eagleDevice: M02PTH  eaglePackage: 1X02</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>62</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  eagleValue: GND-IN  eagleDevice: M02PTH  eaglePackage: 1X02</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>63</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  eagleValue: DEBUG  eagleDevice: M01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI01-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -487,21 +485,21 @@ Note: The Tsunami was developed in collaboration with Robertsonics. A portion of
 	<component>
 		<compIndex>66</compIndex>
 		<compIden>J6</compIden>
-		<compID>NOT OOMP  eagleValue: 3.3VA  eagleDevice: M01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI01-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>67</compIndex>
 		<compIden>J7</compIden>
-		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: M01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI01-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>68</compIndex>
 		<compIden>J8</compIden>
-		<compID>NOT OOMP  eagleValue: PLAYING  eagleDevice: M01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI01-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -536,7 +534,7 @@ Note: The Tsunami was developed in collaboration with Robertsonics. A portion of
 	<component>
 		<compIndex>73</compIndex>
 		<compIden>J13</compIden>
-		<compID>NOT OOMP  eagleValue: GND  eagleDevice: M01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI01-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -550,7 +548,7 @@ Note: The Tsunami was developed in collaboration with Robertsonics. A portion of
 	<component>
 		<compIndex>75</compIndex>
 		<compIden>J15</compIden>
-		<compID>NOT OOMP  eagleValue: MIDI  eagleDevice: M05NO_SILK  eaglePackage: 1X05_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI05-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -564,7 +562,7 @@ Note: The Tsunami was developed in collaboration with Robertsonics. A portion of
 	<component>
 		<compIndex>77</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: 2.5A/30V  eagleDevice: MOSFET-PCHANNELDMG2307L  eaglePackage: SOT23-3</compID>
+		<compID>MOSP-SO23-X-A25D-V30</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -935,14 +933,14 @@ Note: The Tsunami was developed in collaboration with Robertsonics. A portion of
 	<component>
 		<compIndex>130</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  eagleValue: LM1117  eagleDevice: V_REG_LM1117SOT223  eaglePackage: SOT223</compID>
+		<compID>VREG-SO223-X-V33D-A08D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>131</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  eagleValue: LM1117  eagleDevice: V_REG_LM1117SOT223  eaglePackage: SOT223</compID>
+		<compID>VREG-SO223-X-V33D-A08D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

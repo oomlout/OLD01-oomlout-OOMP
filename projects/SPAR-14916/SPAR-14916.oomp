@@ -5,16 +5,14 @@
 	<hexID>SPAR14916</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun Pro RF is a LoRa®-enabled wireless board that marries a SAMD21 and a long-range RFM95W to make a compact and easy-to-use IoT Arduino board. With its fast MCU and excellent point to point data transmission in the 915MHz ISM band with LoRa Capabilities, the Pro RF is a great choice for anyone interested or experienced in utilizing long range data communication.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun Pro RF is a LoRa®-enabled wireless board that marries a SAMD21 and a long-range RFM95W to make a compact and easy-to-use IoT Arduino board. With its fast MCU and excellent point to point data transmission in the 915MHz ISM band with LoRa Capabilities, the Pro RF is a great choice for anyone interested or experienced in utilizing long range data communication.
 Every pin on the SparkFun Pro RF is accompanied with a ground connection making the buttons and LEDs easy to connect. In case you're building something to be embedded into clothing or other physically harsh environment the antenna includes a stress relief hole to make sure your wire antenna survives. A short (3 inch) wire antenna is sufficient for "short" distances (up to 1 mile line-of-sight), but we've also included a u.FL antennae connector for potentially longer distances.
 The Pro RF also includes a power switch and 2-pin JST connector for powering from a lithium battery. With a Micro-B USB and the power switch in the off position, the Pro RF will charge the attached battery! The board programs over a reinforced Micro-B connector with a slim reset button that fits nicely on the side of the board. We’ve even added our popular Qwiic connector to the edge of the board making it incredibly easy to add sensors and actuators without the need for solder or a soldering iron!
 Thanks to the Arduino LoRa library, the RFM95W radio is an easy to use packet radio. But it doesn’t stop there because closing a few jumpers on the underside of the SAMD21 Pro RF initiates LoRaWAN mode on the radio module making it a node in a distributed sensor network.
 Note: If you are looking to pick up a SparkFun Pro RF while we are out of stock, we do have a special edition with a black PCB available as well! Follow the link listed in the previous sentence or in the Similar Items section below. Please be aware that the Pro RF with the black PCB is only available  for a limited time and will not be restocked when it is gone!
- Get Started With the Sparkfun SAMD21 Pro RF Guide               
-            
-                      
-              
+ Get Started With the Sparkfun SAMD21 Pro RF Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14916</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -24,8 +22,8 @@ Note: If you are looking to pick up a SparkFun Pro RF while we are out of stock,
 
 
 	<numComponents>52</numComponents>
-	<numOompComponents>33</numOompComponents>
-	<oompCompletion>63</oompCompletion>
+	<numOompComponents>45</numOompComponents>
+	<oompCompletion>87</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -136,7 +134,7 @@ Note: If you are looking to pick up a SparkFun Pro RF while we are out of stock,
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  eagleValue: 1A/23V/620mV  eagleDevice: DIODE-SCHOTTKY-BAT20J  eaglePackage: SOD-323</compID>
+		<compID>DIOS-S323-X-A01-V23</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -157,7 +155,7 @@ Note: If you are looking to pick up a SparkFun Pro RF while we are out of stock,
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  eagleValue: 6V/0.5A  eagleDevice: PPTC_HALF-AMP  eaglePackage: 1206</compID>
+		<compID>REFU-1206-X-A05D-V8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -185,14 +183,14 @@ Note: If you are looking to pick up a SparkFun Pro RF while we are out of stock,
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI01-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_09NO_SILK  eaglePackage: 1X09_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI09-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -206,28 +204,28 @@ Note: If you are looking to pick up a SparkFun Pro RF while we are out of stock,
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>J7</compIden>
-		<compID>NOT OOMP  eagleValue: PTH  eagleDevice: CONN_021X02_NO_SILK  eaglePackage: 1X02_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>J8</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_021X02_NO_SILK  eaglePackage: 1X02_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>J9</compIden>
-		<compID>NOT OOMP  eagleValue: External On/Off  eagleDevice: CONN_021X02_NO_SILK  eaglePackage: 1X02_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>J11</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_09NO_SILK  eaglePackage: 1X09_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI09-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -241,7 +239,7 @@ Note: If you are looking to pick up a SparkFun Pro RF while we are out of stock,
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>J13</compIden>
-		<compID>NOT OOMP  eagleValue: U.FL  eagleDevice: U.FL  eaglePackage: U.FL</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -262,7 +260,7 @@ Note: If you are looking to pick up a SparkFun Pro RF while we are out of stock,
 	<component>
 		<compIndex>34</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: 2.5A/30V  eagleDevice: MOSFET-PCHANNELDMG2307L  eaglePackage: SOT23-3at1REPLACE</compID>
+		<compID>MOSP-SO23-X-A25D-V30</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -360,7 +358,7 @@ Note: If you are looking to pick up a SparkFun Pro RF while we are out of stock,
 	<component>
 		<compIndex>48</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  eagleValue: MCP73831  eagleDevice: MCP73831  eaglePackage: SOT23-5</compID>
+		<compID>ICIC-SO235-X-K73831-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -381,7 +379,7 @@ Note: If you are looking to pick up a SparkFun Pro RF while we are out of stock,
 	<component>
 		<compIndex>51</compIndex>
 		<compIden>U6</compIden>
-		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -5,12 +5,10 @@
 	<hexID>SPAR10888</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The LSM303DLMTR is a triple axis accelerometer combined with a triple axis magnetic sensor. This arrangement allows for the LSM303 to perform 6D orientation detection. This breakout board uses the LSM303DLMTR to give you all the data you need to feed into a microcontroller and calculate tilt-compensated output!
-Replaces:SEN-10703              
-            
-                      
-              
+	<oompAbout>(image and text from sparkfun.com)
+
+The LSM303DLMTR is a triple axis accelerometer combined with a triple axis magnetic sensor. This arrangement allows for the LSM303 to perform 6D orientation detection. This breakout board uses the LSM303DLMTR to give you all the data you need to feed into a microcontroller and calculate tilt-compensated output!
+Replaces:SEN-10703
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/10888</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -20,8 +18,8 @@ Replaces:SEN-10703
 
 
 	<numComponents>17</numComponents>
-	<numOompComponents>12</numOompComponents>
-	<oompCompletion>71</oompCompletion>
+	<numOompComponents>13</numOompComponents>
+	<oompCompletion>76</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -139,7 +137,7 @@ Replaces:SEN-10703
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

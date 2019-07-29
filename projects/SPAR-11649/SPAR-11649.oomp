@@ -5,8 +5,9 @@
 	<hexID>SPAR11649</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun Danger Shield mounts on top of your Arduino or Arduino Pro and equips it with a variety of fun and useful inputs and outputs. The Danger Shield has so much potential; we can't wait to see what you're able to do with it! The shield's features include:
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun Danger Shield mounts on top of your Arduino or Arduino Pro and equips it with a variety of fun and useful inputs and outputs. The Danger Shield has so much potential; we can't wait to see what you're able to do with it! The shield's features include:
 
 Three linear slide potentiometers connected to the Arduino's analog pins 0 through 2.
 Red and yellow LEDs connected to digital pins 5 and 6 - PWM pins - so you can easily vary their brightness.
@@ -16,10 +17,6 @@ An 8-bit shift register set up to control a blue 7-segment LED.
 A buzzer - so you can get sound out of your Arduino
 Capacitive Touch pad - Using the CapSense library to sense touch.
 This product comes as a kit of parts, which you'll have to solder into the included PCB. All parts are through-hole so it should go together relatively easily; but always check your component orientation before soldering!
-              
-            
-                      
-              
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/11649</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -29,8 +26,8 @@ This product comes as a kit of parts, which you'll have to solder into the inclu
 
 
 	<numComponents>31</numComponents>
-	<numOompComponents>15</numOompComponents>
-	<oompCompletion>48</oompCompletion>
+	<numOompComponents>21</numOompComponents>
+	<oompCompletion>68</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -50,21 +47,21 @@ This product comes as a kit of parts, which you'll have to solder into the inclu
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
+		<compID>LEDS-05-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  eagleValue: Yellow  eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
+		<compID>LEDS-05-Y-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>LED3</compIden>
-		<compID>NOT OOMP  eagleValue: Yellow  eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
+		<compID>LEDS-05-Y-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -190,21 +187,21 @@ This product comes as a kit of parts, which you'll have to solder into the inclu
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  eagleValue: Button1  eagleDevice: SWITCH-MOMENTARY-212MM  eaglePackage: TACTILE-PTH-12MM</compID>
+		<compID>BUTA-12-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  eagleValue: Button2  eagleDevice: SWITCH-MOMENTARY-212MM  eaglePackage: TACTILE-PTH-12MM</compID>
+		<compID>BUTA-12-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>S3</compIden>
-		<compID>NOT OOMP  eagleValue: Button3  eagleDevice: SWITCH-MOMENTARY-212MM  eaglePackage: TACTILE-PTH-12MM</compID>
+		<compID>BUTA-12-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

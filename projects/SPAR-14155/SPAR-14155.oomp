@@ -5,15 +5,13 @@
 	<hexID>SPAR14155</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun ESP32 Thing Power Control Shield enables the ESP32 Thing to switch up to 5A of a DC load, providing a wide variety of options to control your next project! With a default voltage range of 5--28VDC, power can be connected to this shield in one of two ways. The first is the barrel connector, but with a maximum current rating of 2.5A (designed for light loads). The second option is on the 3-pin screw terminal, which has connections for VCC, ground and a 5V output. The supply voltage is regulated down to 5V to power the ESP32 Thing, as well as a fan to keep the board cool under heavy loads.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun ESP32 Thing Power Control Shield enables the ESP32 Thing to switch up to 5A of a DC load, providing a wide variety of options to control your next project! With a default voltage range of 5--28VDC, power can be connected to this shield in one of two ways. The first is the barrel connector, but with a maximum current rating of 2.5A (designed for light loads). The second option is on the 3-pin screw terminal, which has connections for VCC, ground and a 5V output. The supply voltage is regulated down to 5V to power the ESP32 Thing, as well as a fan to keep the board cool under heavy loads.
 At the heart of the board are three MC33926 motor drivers by NXP Semiconductors. While the board is theoretically capable of switching up to 30A total, the power traces in the board and connectors have only been tested up to 10A total across the six output pins. Along with switching DC loads on and off, the MC33926 has three built-in current sensors, which are connected to output pins 2, 4 and 6. Each of the current sensors is connected to an LMV358 operational amplifier to adjust the gain of each current measurement.
 Due to a drawback with the MC33926 only possessing one current sensor per driver, we've added a feature to the Power Control Shield for loads smaller than 5A. For smaller loads, clearing the solder jumper and soldering in the appropriate feedback resistors can maximize the sensitivity of the 12-bit analog-to-digital converter (ADC) built into the ESP32 Thing. We have a full table written in our Hookup Guide below.
 Note: This product only includes the SparkFun ESP32 Thing Power Control Shield. The ESP32 Thing, headers and optional thermal gap filler will need to be purchased separately.
- Get started with the ESP32 Power Shield Guide               
-            
-                      
-              
+ Get started with the ESP32 Power Shield Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14155</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -23,8 +21,8 @@ Note: This product only includes the SparkFun ESP32 Thing Power Control Shield. 
 
 
 	<numComponents>53</numComponents>
-	<numOompComponents>29</numOompComponents>
-	<oompCompletion>55</oompCompletion>
+	<numOompComponents>41</numOompComponents>
+	<oompCompletion>77</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -163,84 +161,84 @@ Note: This product only includes the SparkFun ESP32 Thing Power Control Shield. 
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
+		<compID>DIOD-I03-X-A01-V50</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
+		<compID>DIOD-I03-X-A01-V50</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
+		<compID>DIOD-I03-X-A01-V50</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>D4</compIden>
-		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
+		<compID>DIOD-I03-X-A01-V50</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>D5</compIden>
-		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
+		<compID>DIOD-I03-X-A01-V50</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>D6</compIden>
-		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
+		<compID>DIOD-I03-X-A01-V50</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>D7</compIden>
-		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
+		<compID>DIOD-I03-X-A01-V50</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>D8</compIden>
-		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
+		<compID>DIOD-I03-X-A01-V50</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>D9</compIden>
-		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
+		<compID>DIOD-I03-X-A01-V50</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>D10</compIden>
-		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
+		<compID>DIOD-I03-X-A01-V50</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>D11</compIden>
-		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
+		<compID>DIOD-I03-X-A01-V50</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>D12</compIden>
-		<compID>NOT OOMP  eagleValue: 1N4001  eagleDevice: DIODE-PTH  eaglePackage: DIODE-1N4001</compID>
+		<compID>DIOD-I03-X-A01-V50</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

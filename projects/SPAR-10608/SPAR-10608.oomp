@@ -5,11 +5,9 @@
 	<hexID>SPAR10608</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The VS1033D-L is a great MP3 decoder, and with this breakout board, it's easy to drop it into any project. The VS1033 is capable of decoding MP3/AAC/WMA/MIDI audio and encoding IMA ADPCM. Can drive 30 Ohm headphones with no additional power supply. In this new revision, the board ties the TEST pin to IOVDD, better correcting the issues which were previously fixed by a jumper wire.              
-            
-                      
-              
+	<oompAbout>(image and text from sparkfun.com)
+
+The VS1033D-L is a great MP3 decoder, and with this breakout board, it's easy to drop it into any project. The VS1033 is capable of decoding MP3/AAC/WMA/MIDI audio and encoding IMA ADPCM. Can drive 30 Ohm headphones with no additional power supply. In this new revision, the board ties the TEST pin to IOVDD, better correcting the issues which were previously fixed by a jumper wire.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/10608</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -19,8 +17,8 @@
 
 
 	<numComponents>45</numComponents>
-	<numOompComponents>42</numOompComponents>
-	<oompCompletion>93</oompCompletion>
+	<numOompComponents>43</numOompComponents>
+	<oompCompletion>96</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -327,7 +325,7 @@
 	<component>
 		<compIndex>44</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

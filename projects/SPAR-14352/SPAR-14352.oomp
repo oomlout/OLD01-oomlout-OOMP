@@ -5,18 +5,16 @@
 	<hexID>SPAR14352</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun Qwiic Shield is an easy-to-assemble board that provides a simple way to incorporate the Qwiic Connect System with your Arduino-based device. This shield connects the I2C bus on your Arduino to a series of SparkFun Qwiic connectors and provides the circuitry to convert the 5V given to the 3.3V required by I2C boards in our Qwiic system. As long as your devices are on different addresses, the Qwiic system allows for daisy chaining, meaning you can stack as many sensors as you’d like to create a tower of sensing power!
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun Qwiic Shield is an easy-to-assemble board that provides a simple way to incorporate the Qwiic Connect System with your Arduino-based device. This shield connects the I2C bus on your Arduino to a series of SparkFun Qwiic connectors and provides the circuitry to convert the 5V given to the 3.3V required by I2C boards in our Qwiic system. As long as your devices are on different addresses, the Qwiic system allows for daisy chaining, meaning you can stack as many sensors as you’d like to create a tower of sensing power!
 The Qwiic Shield has four Qwiic connection ports, all on the same I2C bus, as well as a large prototyping area to design and make your own unique circuits. The shield also has a few 3-by-1 rails to help with prototyping, as well as buses for ground, 5V and even 3.3V. We have included four mounting ports in the same design as our Qwiic sensors, allowing you to affix your small board to the top of the shield.
 This shield is a great retrofit for any Uno you may have. What a solder free solution? Skip the shield and checkout the SparkFun BlackBoard which has the Qwiic system built in!
 
 The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shields and cables that make prototyping faster and less prone to error. All Qwiic-enabled boards use a common 1mm pitch, 4-pin JST connector. This reduces the amount of required PCB space, and polarized connections mean you can’t hook it up wrong.
 
 Note: This includes R3 Arduino headers, but they are not pre-soldered onto the board, so some assembly will be required when putting the shield together.
- Get Started with the SparkFun Qwiic Shield for Arduino Guide               
-            
-                      
-              
+ Get Started with the SparkFun Qwiic Shield for Arduino Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14352</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -26,8 +24,8 @@ Note: This includes R3 Arduino headers, but they are not pre-soldered onto the b
 
 
 	<numComponents>15</numComponents>
-	<numOompComponents>11</numOompComponents>
-	<oompCompletion>73</oompCompletion>
+	<numOompComponents>14</numOompComponents>
+	<oompCompletion>93</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -61,7 +59,7 @@ Note: This includes R3 Arduino headers, but they are not pre-soldered onto the b
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>J6</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_07NO_SILK  eaglePackage: 1X07_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI07-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -89,14 +87,14 @@ Note: This includes R3 Arduino headers, but they are not pre-soldered onto the b
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: BSS138  eagleDevice: MOSFET-NCHANNELBSS138  eaglePackage: SOT23-3</compID>
+		<compID>MOSN-SO23-X-A02D-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  eagleValue: BSS138  eagleDevice: MOSFET-NCHANNELBSS138  eaglePackage: SOT23-3</compID>
+		<compID>MOSN-SO23-X-A02D-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -5,17 +5,15 @@
 	<hexID>SPAR14477</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun Qwiic Shield for Photon is an easy-to-assemble board that provides a simple way to incorporate the Qwiic Connect System with your Particle Photon. This shield connects the I2C bus on your Photon to a series of SparkFun Qwiic connectors. As long as your devices are on different addresses, the Qwiic system allows for daisy chaining, meaning you can stack as many sensors as you’d like to create a tower of sensing power!
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun Qwiic Shield for Photon is an easy-to-assemble board that provides a simple way to incorporate the Qwiic Connect System with your Particle Photon. This shield connects the I2C bus on your Photon to a series of SparkFun Qwiic connectors. As long as your devices are on different addresses, the Qwiic system allows for daisy chaining, meaning you can stack as many sensors as you’d like to create a tower of sensing power!
 The Qwiic Shield has four Qwiic connection ports, all on the same I2C bus, as well as a small prototyping area to design and make your own unique circuits. The shield is also equipped with 3-pin buses for ground and 3.3V to help with prototyping.
 
 The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shields and cables that make prototyping faster and less prone to error. All Qwiic-enabled boards use a common 1mm pitch, 4-pin JST connector. This reduces the amount of required PCB space, and polarized connections mean you can’t hook it up wrong.
 
 Note: This shield includes Photon stackable headers, but they are not pre-soldered onto the board, so some assembly will be required when putting the shield together.
- Get Started with the SparkFun Qwiic Shield for Photon Guide               
-            
-                      
-              
+ Get Started with the SparkFun Qwiic Shield for Photon Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14477</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -25,8 +23,8 @@ Note: This shield includes Photon stackable headers, but they are not pre-solder
 
 
 	<numComponents>4</numComponents>
-	<numOompComponents>3</numOompComponents>
-	<oompCompletion>75</oompCompletion>
+	<numOompComponents>4</numOompComponents>
+	<oompCompletion>100</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -53,7 +51,7 @@ Note: This shield includes Photon stackable headers, but they are not pre-solder
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: I2C_STANDARDJS-1MM  eaglePackage: 1X04_1MM_RA</compID>
+		<compID>HEAD-01-X-PI04-RA</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

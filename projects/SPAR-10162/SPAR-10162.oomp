@@ -5,13 +5,11 @@
 	<hexID>SPAR10162</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This board is an evaluation platform for the SM130 RFID module. It includes an XBee header, PCB trace antenna, and has the layout to be used as a shield for an Arduino. There is a small prototyping area as well. This board can also be used as an antenna to the SM130 RFID module. Be sure to check the schematic for information on the connections.
+	<oompAbout>(image and text from sparkfun.com)
+
+This board is an evaluation platform for the SM130 RFID module. It includes an XBee header, PCB trace antenna, and has the layout to be used as a shield for an Arduino. There is a small prototyping area as well. This board can also be used as an antenna to the SM130 RFID module. Be sure to check the schematic for information on the connections.
 The XBee header is designed to be used with the XBee Explorer Regulated board.
-This board comes populated with the switches, resistors and LEDs, but does not include the RFID module, XBee, headers, or Arduino board.              
-            
-                      
-              
+This board comes populated with the switches, resistors and LEDs, but does not include the RFID module, XBee, headers, or Arduino board.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/10162</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ This board comes populated with the switches, resistors and LEDs, but does not i
 
 
 	<numComponents>23</numComponents>
-	<numOompComponents>19</numOompComponents>
-	<oompCompletion>83</oompCompletion>
+	<numOompComponents>21</numOompComponents>
+	<oompCompletion>91</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -161,14 +159,14 @@ This board comes populated with the switches, resistors and LEDs, but does not i
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  eagleValue: Reset  eagleDevice: SWITCH-MOMENTARY-2SMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
+		<compID>BUTA-52D-X-SMDS-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  eagleValue: Reset  eagleDevice: SWITCH-MOMENTARY-2SMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
+		<compID>BUTA-52D-X-SMDS-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

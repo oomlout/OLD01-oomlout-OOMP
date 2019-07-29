@@ -5,12 +5,10 @@
 	<hexID>SPAR12858</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is the SparkFun Vernier Interface Shield, a simple add-on to give your Arduino the capability to interface with Vernier sensors. Attached to this interface shield are four British Telecom sockets (2 Analog, 2 Digital) which all Vernier sensors use as connectors. Like any other shield, simply attach it to an Arduino development platform. This shield was developed to be used with the Arduino Uno platform but will still work with other Uno equivalents like the Leonardo or SparkFun RedBoard.
-Vernier Software and Technology has been a leader in data collection and analysis for educators world-wide. They were amongst the first companies to design and promote the use of computers, sensors, and data collection in K-12 classroom laboratory experiments.              
-            
-                      
-              
+	<oompAbout>(image and text from sparkfun.com)
+
+This is the SparkFun Vernier Interface Shield, a simple add-on to give your Arduino the capability to interface with Vernier sensors. Attached to this interface shield are four British Telecom sockets (2 Analog, 2 Digital) which all Vernier sensors use as connectors. Like any other shield, simply attach it to an Arduino development platform. This shield was developed to be used with the Arduino Uno platform but will still work with other Uno equivalents like the Leonardo or SparkFun RedBoard.
+Vernier Software and Technology has been a leader in data collection and analysis for educators world-wide. They were amongst the first companies to design and promote the use of computers, sensors, and data collection in K-12 classroom laboratory experiments.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/12858</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -20,8 +18,8 @@ Vernier Software and Technology has been a leader in data collection and analysi
 
 
 	<numComponents>27</numComponents>
-	<numOompComponents>22</numOompComponents>
-	<oompCompletion>81</oompCompletion>
+	<numOompComponents>23</numOompComponents>
+	<oompCompletion>85</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -41,7 +39,7 @@ Vernier Software and Technology has been a leader in data collection and analysi
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
+		<compID>LEDS-05-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

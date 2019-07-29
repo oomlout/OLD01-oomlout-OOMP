@@ -5,13 +5,11 @@
 	<hexID>SPAR11044</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This tiny audio amplifier is based on the Texas Instruments TPA2005D1. Its efficient class-D operation means low heat and long battery life. It can drive an 8-Ohm speaker at up to 1.4 Watts; it won't shake a stadium, but it will provide plenty of volume for your audio projects.
+	<oompAbout>(image and text from sparkfun.com)
+
+This tiny audio amplifier is based on the Texas Instruments TPA2005D1. Its efficient class-D operation means low heat and long battery life. It can drive an 8-Ohm speaker at up to 1.4 Watts; it won't shake a stadium, but it will provide plenty of volume for your audio projects.
 The fully-differential inputs are safe for floating audio signals such as from our MP3 Shield, and can also be connected to ground-referenced signals as well. A shutdown input is provided to save power when the amplifier is not being used, and a solder jumper and header are provided to connect a volume-control potentiometer (not included).
-Note: The amplifier's class-D design outputs a 250kHz PWM-like signal that is restored to an analog voltage in the speaker's coil. This is what makes the amplifier so efficient, but because of the switching frequency, you should keep the amplifier as close to the speaker as possible to minimize possible interference.              
-            
-                      
-              
+Note: The amplifier's class-D design outputs a 250kHz PWM-like signal that is restored to an analog voltage in the speaker's coil. This is what makes the amplifier so efficient, but because of the switching frequency, you should keep the amplifier as close to the speaker as possible to minimize possible interference.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/11044</oompOfficialLink>
 	<company>Sparkfun</company>

@@ -5,12 +5,10 @@
 	<hexID>SPAR11890</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun MiniMoto is a great little breakout for the DRV8830 I2C DC motor driver. The MiniMoto is great for driving most small robotics. With an operating voltage range of 2.7V to 6.8V and a current limit of 1A the DRV8830 is a versatile little driver.
-In addition to the benefit of being controlled via I2C, which frees up data lines and processing on the CPU to be used for other tasks, the MiniMoto has the lowest voltage output capability of any current SparkFun DC motor driver. This means that low voltage systems running on LiPo batteries and low voltage motors can both be used with the MiniMoto.              
-            
-                      
-              
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun MiniMoto is a great little breakout for the DRV8830 I2C DC motor driver. The MiniMoto is great for driving most small robotics. With an operating voltage range of 2.7V to 6.8V and a current limit of 1A the DRV8830 is a versatile little driver.
+In addition to the benefit of being controlled via I2C, which frees up data lines and processing on the CPU to be used for other tasks, the MiniMoto has the lowest voltage output capability of any current SparkFun DC motor driver. This means that low voltage systems running on LiPo batteries and low voltage motors can both be used with the MiniMoto.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/11890</oompOfficialLink>
 	<company>Sparkfun</company>

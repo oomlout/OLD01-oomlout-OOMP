@@ -5,15 +5,13 @@
 	<hexID>SPAR11341</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is a breakout board for the ST's dual-axis LPY503AL gyro.  The LPY503AL is a MEMS motion sensor that measures angular velocity along the pitch and yaw axes with a full scale of ±30°/s. Two different analog outputs are provided for both the x- and z- axes - one 1x amplified and the other 4x amplified.
+	<oompAbout>(image and text from sparkfun.com)
+
+This is a breakout board for the ST's dual-axis LPY503AL gyro.  The LPY503AL is a MEMS motion sensor that measures angular velocity along the pitch and yaw axes with a full scale of ±30°/s. Two different analog outputs are provided for both the x- and z- axes - one 1x amplified and the other 4x amplified.
 A regulated voltage between 2.7 and 3.6VDC should be supplied to the power pins. We have the filtering circuits all set up; you'll just need to connect the outputs to an ADC, and you're ready to go.
 This breakout board includes the gyro and all necessary filtering capacitors as shown. The 1x and 4x amplified outputs of both axes are connected to the 0.1" pitch headers, along with the power-down, self-test, high-pass filter reset, and power pins.
 We've revised this board to correct errors with the high-pass filter, so the output should settle when the unit stops moving.
-Not sure which gyro is right for you? Our Accelerometer and Gyro Buying Guide might help!              
-            
-                      
-              
+Not sure which gyro is right for you? Our Accelerometer and Gyro Buying Guide might help!
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/11341</oompOfficialLink>
 	<company>Sparkfun</company>

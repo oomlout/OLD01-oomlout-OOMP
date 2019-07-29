@@ -5,12 +5,10 @@
 	<hexID>SPAR12039</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is the T5403 breakout board, a fully calibrated barometric pressure sensor with an I2C interface. The T5403 sensor measures the absolute pressure of the air around. This pressure varies with both the weather and altitude. Depending on how you interpret the data, you can monitor changes in the weather, measure altitude, or any other tasks that require an accurate pressure reading.
-The T5403 sensor consists of a piezoresistive MEMS pressure sensor element and an ASIC (application specific integrated circuit) with integrated temperature sensor, analog to digital converter ADC, memory and digital circuitry. Each breakout requires a supply voltage of 1.7V to 3.6V with a low current consumption of 790µA max and each pin (GND, VCC, SCL/SCLK, SDA/MOSI, MISO, RST/andamp;SS, SEL, and EOC) broken out.              
-            
-                      
-              
+	<oompAbout>(image and text from sparkfun.com)
+
+This is the T5403 breakout board, a fully calibrated barometric pressure sensor with an I2C interface. The T5403 sensor measures the absolute pressure of the air around. This pressure varies with both the weather and altitude. Depending on how you interpret the data, you can monitor changes in the weather, measure altitude, or any other tasks that require an accurate pressure reading.
+The T5403 sensor consists of a piezoresistive MEMS pressure sensor element and an ASIC (application specific integrated circuit) with integrated temperature sensor, analog to digital converter ADC, memory and digital circuitry. Each breakout requires a supply voltage of 1.7V to 3.6V with a low current consumption of 790µA max and each pin (GND, VCC, SCL/SCLK, SDA/MOSI, MISO, RST/andamp;SS, SEL, and EOC) broken out.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/12039</oompOfficialLink>
 	<company>Sparkfun</company>

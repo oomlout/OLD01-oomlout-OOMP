@@ -5,11 +5,9 @@
 	<hexID>SPAR11820</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is a breakout board for the WS2812B RGB LED. The WS2812B (or "NeoPixel") is actually an RGB LED with a WS2811 built right into the LED! All the necessary pins are broken out to 0.1" spaced headers for easy bread-boarding. Several of these breakouts can even be chained together to form a display or an addressable string.              
-            
-                      
-              
+	<oompAbout>(image and text from sparkfun.com)
+
+This is a breakout board for the WS2812B RGB LED. The WS2812B (or "NeoPixel") is actually an RGB LED with a WS2811 built right into the LED! All the necessary pins are broken out to 0.1" spaced headers for easy bread-boarding. Several of these breakouts can even be chained together to form a display or an addressable string.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/11820</oompOfficialLink>
 	<company>Sparkfun</company>

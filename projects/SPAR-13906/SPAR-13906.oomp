@@ -5,14 +5,12 @@
 	<hexID>SPAR13906</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun Multiplexer Breakout provides access to all pins and features of the 74HC4051, an 8-channel analog multiplexer/demultiplexer. The 74HC4051 allows you to turn four I/O pins into eight multifunctional, individually selectable signals, which can be used to do everything from driving eight LEDs to monitoring eight potentiometers.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun Multiplexer Breakout provides access to all pins and features of the 74HC4051, an 8-channel analog multiplexer/demultiplexer. The 74HC4051 allows you to turn four I/O pins into eight multifunctional, individually selectable signals, which can be used to do everything from driving eight LEDs to monitoring eight potentiometers.
 The 74HC4051 can function as either a multiplexer or a demultiplexer, and it features eight channels of selectable inputs/outputs. The routing of common signal to independent I/O is set by digitally controlling three select lines, which can be set either high or low into one of eight binary combinations.
 One half of the board breaks out the control signals (E, S0-S2) and common input/output (Z). The other side provides access to all eight independent I/O’s (Y0-Y7). Both sides include supply and ground connections (VCC, VEE, GND).
- Get Started with the 74HC4051 Breakout Guide               
-            
-                      
-              
+ Get Started with the 74HC4051 Breakout Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13906</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ One half of the board breaks out the control signals (E, S0-S2) and common input
 
 
 	<numComponents>5</numComponents>
-	<numOompComponents>3</numOompComponents>
-	<oompCompletion>60</oompCompletion>
+	<numOompComponents>4</numOompComponents>
+	<oompCompletion>80</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -36,7 +34,7 @@ One half of the board breaks out the control signals (E, S0-S2) and common input
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: M11PTH  eaglePackage: 1X11</compID>
+		<compID>HEAD-I01-X-PI11-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -5,14 +5,12 @@
 	<hexID>SPAR14890</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun gator:color ProtoSnap is one of a series of gator-clippable accessories called gator:boards created to directly interface with the micro:bit or to other micro controllers! The gator:color ProtoSnap is perfect if you want to add a low-profile, glowing component to your project. It is equipped with six LED boards that can be kept as a whole or broken apart for individual use!
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun gator:color ProtoSnap is one of a series of gator-clippable accessories called gator:boards created to directly interface with the micro:bit or to other micro controllers! The gator:color ProtoSnap is perfect if you want to add a low-profile, glowing component to your project. It is equipped with six LED boards that can be kept as a whole or broken apart for individual use!
 Included on each board are two white LED boards; a single red board, green board, blue board and yellow board; and a power rail. Since this is a ProtoSnap, the board has power tabs broken out on the edges so it doesn’t have to be broken apart to light up the individual LEDs. Snapping the board apart can be easily done by twisting each of the LED boards side to side until it pops out and will need to be done if you want to light any of the LEDs on their own.
 The LEDs can be powered one of two ways. The first simply turns the LED on, and is done by clipping the - side of the LED to ground on the micro:bit, and connecting the + to 3V on the micro:bit. The other way to control these LEDs is to connect to pins 0, 1 and 2. Doing this will allow you to turn the LEDs on and off with the micro:bit, as well as change the brightness level!
- Get Started with the SparkFun gator:color ProtoSnap Guide               
-            
-                      
-              
+ Get Started with the SparkFun gator:color ProtoSnap Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14890</oompOfficialLink>
 	<company>Sparkfun</company>

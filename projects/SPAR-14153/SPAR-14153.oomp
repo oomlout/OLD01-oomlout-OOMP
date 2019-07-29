@@ -5,13 +5,11 @@
 	<hexID>SPAR14153</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun ESP32 Thing Environment Sensor Shield provides sensors and hookups for monitoring environmental conditions. While incorporating three sensors capable of measuring five different environmental variables as well as providing connections for several other sensors, this sensor shield creates the best way to make your ESP32 Thing more accurate than your local weatherman! By simply soldering on a few headers as well as an optional 3-pin screw terminal, your ESP32 Thing Environment Sensor Shield will be ready to detect any type of weather you need.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun ESP32 Thing Environment Sensor Shield provides sensors and hookups for monitoring environmental conditions. While incorporating three sensors capable of measuring five different environmental variables as well as providing connections for several other sensors, this sensor shield creates the best way to make your ESP32 Thing more accurate than your local weatherman! By simply soldering on a few headers as well as an optional 3-pin screw terminal, your ESP32 Thing Environment Sensor Shield will be ready to detect any type of weather you need.
 The ESP32 Thing Environment Sensor Shield utilizes the BME280 pressure/humidity/temperature sensor, the CCS811 air quality sensor and the APDS-9301 ambient light sensor --- using each corresponding Arduino library. In addition to the onboard sensors, the environment sensor shield has been equipped with two RJ11 connectors for wind and rain detection and measurement, as well as optional pins for external temperature readings and our soil moisture sensor. There is even a prototyping area underneath where the ESP32 Thing is installed so you can add your own additions to the shield!
- Get Started with the ESP32 Environment Shield Guide               
-            
-                      
-              
+ Get Started with the ESP32 Environment Shield Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14153</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ The ESP32 Thing Environment Sensor Shield utilizes the BME280 pressure/humidity/
 
 
 	<numComponents>32</numComponents>
-	<numOompComponents>17</numOompComponents>
-	<oompCompletion>53</oompCompletion>
+	<numOompComponents>19</numOompComponents>
+	<oompCompletion>59</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -91,7 +89,7 @@ The ESP32 Thing Environment Sensor Shield utilizes the BME280 pressure/humidity/
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_03  eaglePackage: 1X03</compID>
+		<compID>HEAD-I01-X-PI03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -105,7 +103,7 @@ The ESP32 Thing Environment Sensor Shield utilizes the BME280 pressure/humidity/
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_03  eaglePackage: 1X03</compID>
+		<compID>HEAD-I01-X-PI03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

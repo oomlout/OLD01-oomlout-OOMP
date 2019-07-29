@@ -5,8 +5,9 @@
 	<hexID>SPAR14063</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The LilyMini ProtoSnap is a great way to get started learning about creating interactive e-textile circuits before you start sewing. Like other LilyPad ProtoSnap boards, the LilyMini ProtoSnap has all of its pieces wired together out of the box, enabling you to test the circuit’s function before you sew. At the center of the board is a pre-programmed LilyMini microcontroller connected to a LilyPad Light Sensor, LilyPad Button and two pairs of LilyPad LEDs.
+	<oompAbout>(image and text from sparkfun.com)
+
+The LilyMini ProtoSnap is a great way to get started learning about creating interactive e-textile circuits before you start sewing. Like other LilyPad ProtoSnap boards, the LilyMini ProtoSnap has all of its pieces wired together out of the box, enabling you to test the circuit’s function before you sew. At the center of the board is a pre-programmed LilyMini microcontroller connected to a LilyPad Light Sensor, LilyPad Button and two pairs of LilyPad LEDs.
 The LilyMini ProtoSnap ships with pre-loaded code that uses all the LilyPad pieces connected to it. This sample code has three modes, which can be selected by pressing the LilyPad Button on the bottom-left side of the ProtoSnap. The built-in RGB LED on the LilyMini will change color to indicate which mode has been selected:
 
 White: All LEDs on.
@@ -16,10 +17,7 @@ Cyan: LEDs off. When the light sensor is covered, LEDs will twinkle.
 The LilyMini board, at the center of the ProtoSnap, has a built-in battery holder for a CR2032 battery (included). On the opposite side of the LilyMini you will find the SAMD11 brain, which controls the ProtoSnap.
 Note: A portion of this sale is given back to Dr. Leah Buechley for continued development and education in e-textiles.
 Note: The LilyPad LilyMini ProtoSnap does NOT include sewing needles or conductive thread. These items will need to purchased separately.
- Get Started with the LilyMini ProtoSnap Guide               
-            
-                      
-              
+ Get Started with the LilyMini ProtoSnap Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14063</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -29,8 +27,8 @@ Note: The LilyPad LilyMini ProtoSnap does NOT include sewing needles or conducti
 
 
 	<numComponents>32</numComponents>
-	<numOompComponents>19</numOompComponents>
-	<oompCompletion>59</oompCompletion>
+	<numOompComponents>21</numOompComponents>
+	<oompCompletion>66</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -197,7 +195,7 @@ Note: The LilyPad LilyMini ProtoSnap does NOT include sewing needles or conducti
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-MOMENTARY-2SMD-4.6X2.8MM  eaglePackage: TACTILE_SWITCH_SMD_4.6X2.8MM</compID>
+		<compID>BUTA-4632-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -239,7 +237,7 @@ Note: The LilyPad LilyMini ProtoSnap does NOT include sewing needles or conducti
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  eagleValue: AP2112K-3.3V  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -5,14 +5,12 @@
 	<hexID>SPAR13963</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The LIS3DH Breakout is a smart, low-power, three-axis, capacitive micro-machined accelerometer with 12 bits of resolution that you can use to add translation detection to your project. It would be classified as a 3DoF, or 3 Degrees of Freedom. Inertial Measurement Units (or IMUs) can provide additional space location data, such as gyroscopic or magnetometric. The LIS3DH provided on this breakout operates under the same principles but gives a few analog inputs to play with, and it has some built-in movement detection abilities.
+	<oompAbout>(image and text from sparkfun.com)
+
+The LIS3DH Breakout is a smart, low-power, three-axis, capacitive micro-machined accelerometer with 12 bits of resolution that you can use to add translation detection to your project. It would be classified as a 3DoF, or 3 Degrees of Freedom. Inertial Measurement Units (or IMUs) can provide additional space location data, such as gyroscopic or magnetometric. The LIS3DH provided on this breakout operates under the same principles but gives a few analog inputs to play with, and it has some built-in movement detection abilities.
 The LIS3DH is easy to set up; just wire up your choice of interface (SPI or I2C), supply 3.3V, and ground. This sensor works nicely with a breadboard for easy connection, and, because it gives some mass to the accelerometer, it more closely matches what might be expected from a project or cellphone.
 The LIS3DH Breakout is a 3.3V device! Supplying voltages greater than ~3.6V can permanently damage the IC. As long as your Arduino has a 3.3V supply output, and you're fine with using I2C, you shouldn't need any extra level shifting. But if you want to use SPI, you may need a level shifter.
- Get Started with the LIS3DH Breakout Guide               
-            
-                      
-              
+ Get Started with the LIS3DH Breakout Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13963</oompOfficialLink>
 	<company>Sparkfun</company>

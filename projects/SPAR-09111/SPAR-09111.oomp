@@ -5,14 +5,12 @@
 	<hexID>SPAR09111</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun XBee Explorer Serial is a simple to use, RS232 to serial base unit for the XBee line. This unit works with all XBee modules including the Series 1 and Series 2.5, standard and Pro version. Just plug the unit into the XBee Explorer, attach a RS232 cable, and you will have direct access to the serial and programming pins on the XBee unit. The board also supports DTR communication so you can reprogram and configure the XBee unit.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun XBee Explorer Serial is a simple to use, RS232 to serial base unit for the XBee line. This unit works with all XBee modules including the Series 1 and Series 2.5, standard and Pro version. Just plug the unit into the XBee Explorer, attach a RS232 cable, and you will have direct access to the serial and programming pins on the XBee unit. The board also supports DTR communication so you can reprogram and configure the XBee unit.
 XBee modules, RS232 cable, and power supplies can be found in the Recommended Products section below.
 Not sure which XBee module or accessory is right for you? Check out ourXBee Buying Guide!
- Get Started with the Exploring XBees and XCTU Guide               
-            
-                      
-              
+ Get Started with the Exploring XBees and XCTU Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9111</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ Not sure which XBee module or accessory is right for you? Check out ourXBee Buyi
 
 
 	<numComponents>28</numComponents>
-	<numOompComponents>21</numOompComponents>
-	<oompCompletion>75</oompCompletion>
+	<numOompComponents>26</numOompComponents>
+	<oompCompletion>93</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -85,7 +83,7 @@ Not sure which XBee module or accessory is right for you? Check out ourXBee Buyi
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: DIODE-SCHOTTKY-MBRA140  eaglePackage: SMA-DIODE</compID>
+		<compID>DIOS-D214-X-A01-V40</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -120,14 +118,14 @@ Not sure which XBee module or accessory is right for you? Check out ourXBee Buyi
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  eagleValue: PTCTHERMISTOR1206  eagleDevice: PTCTHERMISTOR1206  eaglePackage: PTC-1206</compID>
+		<compID>REFU-1206-X-A05D-V8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: MBT2222  eagleDevice: TRANSISTOR_NPNSOT23-3  eaglePackage: SOT23-3</compID>
+		<compID>TRNN-SO23-X-A06D-V30</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -190,7 +188,7 @@ Not sure which XBee module or accessory is right for you? Check out ourXBee Buyi
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  eagleValue: AYZ0202  eagleDevice: AYZ0202  eaglePackage: AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -218,7 +216,7 @@ Not sure which XBee module or accessory is right for you? Check out ourXBee Buyi
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  eagleValue: LM117  eagleDevice: V_REG_LM1117SOT223  eaglePackage: SOT223</compID>
+		<compID>VREG-SO223-X-V33D-A08D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

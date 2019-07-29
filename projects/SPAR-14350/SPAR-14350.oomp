@@ -5,13 +5,11 @@
 	<hexID>SPAR14350</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The APDS-9301 Ambient Light Sensor Breakout is an I2C-compatible luminosity sensor board that converts light intensity to a digital output signal. This breakout is fairly simple and has been specifically designed with only a few ancillary passive components in addition to the APDS-9301 IC itself. All readings are returned to your chosen microprocessor in lux, providing precise Illuminance measurement under diverse lighting conditions.
+	<oompAbout>(image and text from sparkfun.com)
+
+The APDS-9301 Ambient Light Sensor Breakout is an I2C-compatible luminosity sensor board that converts light intensity to a digital output signal. This breakout is fairly simple and has been specifically designed with only a few ancillary passive components in addition to the APDS-9301 IC itself. All readings are returned to your chosen microprocessor in lux, providing precise Illuminance measurement under diverse lighting conditions.
 On top of each board breaking out our standard I2C pin-out of SCL, SDA, 3.3V and GND, we've also provided an INT pin so the APDS-9301 can be programmed to generate an interrupt under certain conditions. It is important to note that this breakout is non-instantaneous, so it will require some integration time to take a measurement.
- Get Started with the APDS-9301 Light Sensor Breakout               
-            
-                      
-              
+ Get Started with the APDS-9301 Light Sensor Breakout
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14350</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ On top of each board breaking out our standard I2C pin-out of SCL, SDA, 3.3V and
 
 
 	<numComponents>8</numComponents>
-	<numOompComponents>5</numOompComponents>
-	<oompCompletion>63</oompCompletion>
+	<numOompComponents>6</numOompComponents>
+	<oompCompletion>75</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -42,7 +40,7 @@ On top of each board breaking out our standard I2C pin-out of SCL, SDA, 3.3V and
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01  eaglePackage: 1X01</compID>
+		<compID>HEAD-I01-X-PI01-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

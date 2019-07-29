@@ -5,14 +5,12 @@
 	<hexID>SPAR10744</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                It's powerful, it's portable, it's Pro! We're continuing our Pro series of Arduino-compatible micro-controllers with the addition of the Mega Pro. This is a 3.3V microcontroller running a version of the stk500v2 bootloader at 8MHz. Just like the other Pro-series boards this board is built with all SMD components and comes with no headers populated in order to minimize the cost and the board profile. Of course this board has the same pin-configuration as the Arduino Mega so it is dimensionally shield compatible (but do keep in mind that this is a 3.3V board unlike the Arduino Mega).
+	<oompAbout>(image and text from sparkfun.com)
+
+It's powerful, it's portable, it's Pro! We're continuing our Pro series of Arduino-compatible micro-controllers with the addition of the Mega Pro. This is a 3.3V microcontroller running a version of the stk500v2 bootloader at 8MHz. Just like the other Pro-series boards this board is built with all SMD components and comes with no headers populated in order to minimize the cost and the board profile. Of course this board has the same pin-configuration as the Arduino Mega so it is dimensionally shield compatible (but do keep in mind that this is a 3.3V board unlike the Arduino Mega).
 The Pro series is meant for users that understand the limitations of system voltage (3.3V), lack of connectors, and USB off board. This board connects directly to the FTDI Basic Breakout board and supports auto-reset and the DC power jack footprint is available, but not populated.
 Note: If you are using Arduino, modifications were made to the bootloader to support the 3.3V system, you will need to download and install a new board definition so that the Mega Pro can be programmed in the Arduino environment. The .zip archive below contains all of the files that you'll need including a "readme" file with simple instructions for how to install them. OR you can use Wiring and not worry about this since the board is officially supported. You will need to download the board definition files here.
-Not sure which Arduino or Arduino-compatible board is right for you? Check out our Arduino Buying Guide!              
-            
-                      
-              
+Not sure which Arduino or Arduino-compatible board is right for you? Check out our Arduino Buying Guide!
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/10744</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ Not sure which Arduino or Arduino-compatible board is right for you? Check out o
 
 
 	<numComponents>24</numComponents>
-	<numOompComponents>15</numOompComponents>
-	<oompCompletion>63</oompCompletion>
+	<numOompComponents>18</numOompComponents>
+	<oompCompletion>75</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -85,14 +83,14 @@ Not sure which Arduino or Arduino-compatible board is right for you? Check out o
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  eagleValue: PTCSMD  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
+		<compID>REFU-1206-X-A05D-V8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  eagleValue: AVR_SPI_PRG_6PTH  eagleDevice: AVR_SPI_PRG_6PTH  eaglePackage: 2X3</compID>
+		<compID>HEAD-I01-X-PI2X03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -155,7 +153,7 @@ Not sure which Arduino or Arduino-compatible board is right for you? Check out o
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  eagleValue: SWITCH-MOMENTARY-2SMD  eagleDevice: SWITCH-MOMENTARY-2SMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
+		<compID>BUTA-52D-X-SMDS-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

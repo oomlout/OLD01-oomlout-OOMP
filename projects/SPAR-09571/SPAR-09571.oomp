@@ -5,13 +5,11 @@
 	<hexID>SPAR09571</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun Serial Controlled Motor Driver allows you to control up to two DC motors using a serial command interface. The serial interface is easy to use and it lets the user select an individual motor, the direction, and the desired speed constant (up to 10 different speed from stop to full speed). The board is based on the L298 Dual Full-Bridge Motor Driver from ST Micro. The motor driver can provide up to 4 Amps of current to the motors (2 Amps per motor).
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun Serial Controlled Motor Driver allows you to control up to two DC motors using a serial command interface. The serial interface is easy to use and it lets the user select an individual motor, the direction, and the desired speed constant (up to 10 different speed from stop to full speed). The board is based on the L298 Dual Full-Bridge Motor Driver from ST Micro. The motor driver can provide up to 4 Amps of current to the motors (2 Amps per motor).
 Power can be applied to either the two-pin JST connector or the GND and VCC header pins. Supplied power should be DC and within 5-16V. Please note, the pin labeled '5V' should only be used as an output.
-The serial command interface used to control the motors is very straightforward. A command consists of four characters: the motor number, the direction indicator, the speed constant, and a carriage return. The baud rate of the Serial Controlled Motor Driver is set to 115200bps (8-N-1).              
-            
-                      
-              
+The serial command interface used to control the motors is very straightforward. A command consists of four characters: the motor number, the direction indicator, the speed constant, and a carriage return. The baud rate of the Serial Controlled Motor Driver is set to 115200bps (8-N-1).
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9571</oompOfficialLink>
 	<company>Sparkfun</company>

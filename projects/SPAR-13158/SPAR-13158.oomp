@@ -5,13 +5,11 @@
 	<hexID>SPAR13158</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                Is there anything an Arduino can't do? Well, for one, most of them can't be powered directly from a 3.7V LiPo battery; much less charge and monitor that battery. The SparkFun LiPower Shield takes care of this by combining the functionality of two of our favorite battery power boards: the Power Cell and the Fuel Gauge.
+	<oompAbout>(image and text from sparkfun.com)
+
+Is there anything an Arduino can't do? Well, for one, most of them can't be powered directly from a 3.7V LiPo battery; much less charge and monitor that battery. The SparkFun LiPower Shield takes care of this by combining the functionality of two of our favorite battery power boards: the Power Cell and the Fuel Gauge.
 The LiPower Shield allows you to connect a 3.7V single cell Lithium polymer battery which it will boost up to 5V and connect to the Arduino board's 5V pin. The on-board MAX17043G+U IC is connected to the I2C lines (A4 and A5) so that your project can monitor it's own power supply. The configurable alert interrupt pin on the MAX17043G+U IC is broken out to D2 which will activate when the LiPo gets to 32% or lower.
-The charging circuit is configured to charge the LiPo at 100mA but by adding a resistor to the supplied through-holes you can boost this to 500mA. There is a mini-USB port on the shield which allows you to charge the battery from a USB power source or you can supply a separate regulated 5V source on the "charge" header.              
-            
-                      
-              
+The charging circuit is configured to charge the LiPo at 100mA but by adding a resistor to the supplied through-holes you can boost this to 500mA. There is a mini-USB port on the shield which allows you to charge the battery from a USB power source or you can supply a separate regulated 5V source on the "charge" header.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13158</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ The charging circuit is configured to charge the LiPo at 100mA but by adding a r
 
 
 	<numComponents>29</numComponents>
-	<numOompComponents>22</numOompComponents>
-	<oompCompletion>76</oompCompletion>
+	<numOompComponents>24</numOompComponents>
+	<oompCompletion>83</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -210,7 +208,7 @@ The charging circuit is configured to charge the LiPo at 100mA but by adding a r
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  eagleValue: MCP73831  eagleDevice: MCP73831  eaglePackage: SOT23-5</compID>
+		<compID>ICIC-SO235-X-K73831-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -224,7 +222,7 @@ The charging circuit is configured to charge the LiPo at 100mA but by adding a r
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>VREG</compIden>
-		<compID>NOT OOMP  eagleValue: MIC5205-3.3V  eagleDevice: MIC52053.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A015D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

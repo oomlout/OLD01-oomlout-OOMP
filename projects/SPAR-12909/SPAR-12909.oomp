@@ -5,12 +5,10 @@
 	<hexID>SPAR12909</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is the MS5803-14BA Pressure Sensor Breakout, a high resolution pressure sensor with both an I2C and SPI interface. This MEMS pressure sensor measures the absolute pressure of the fluid around it which includes air, water, and anything else that acts like a viscous fluid. Depending on how you interpret the data, you can determine altitude, water depth, or any other tasks that require an accurate pressure reading. What makes the MS5803-14BA unique is the the gel membrane and antimagnetic stainless steel cap that protects against 30 bar water pressure.
-We have broken out all the pins you need including GND and 3.3V for power, SDA/SDI and  SCL/SCLK for an I2C interface and SD0, AD/CS, and PS for a SPI interface. The MS5803-14BA Breakout offers a resolution range of 1 / 0.6 / 0.4 / 0.3 / 0.2 mbar. Be aware that to switch between I2C and SPI interfaces a little bit of soldering between solder pads will be required, check the hookup guide below for more information.              
-            
-                      
-              
+	<oompAbout>(image and text from sparkfun.com)
+
+This is the MS5803-14BA Pressure Sensor Breakout, a high resolution pressure sensor with both an I2C and SPI interface. This MEMS pressure sensor measures the absolute pressure of the fluid around it which includes air, water, and anything else that acts like a viscous fluid. Depending on how you interpret the data, you can determine altitude, water depth, or any other tasks that require an accurate pressure reading. What makes the MS5803-14BA unique is the the gel membrane and antimagnetic stainless steel cap that protects against 30 bar water pressure.
+We have broken out all the pins you need including GND and 3.3V for power, SDA/SDI and  SCL/SCLK for an I2C interface and SD0, AD/CS, and PS for a SPI interface. The MS5803-14BA Breakout offers a resolution range of 1 / 0.6 / 0.4 / 0.3 / 0.2 mbar. Be aware that to switch between I2C and SPI interfaces a little bit of soldering between solder pads will be required, check the hookup guide below for more information.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/12909</oompOfficialLink>
 	<company>Sparkfun</company>

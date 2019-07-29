@@ -5,16 +5,14 @@
 	<hexID>SPAR14997</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun LTE CAT M1/NB-IoT Shield equips your Arduino or Arduino-compatible microcontroller with access to data networks across the globe. This shield adds wireless, high-bandwidth cellular functionality to your IoT project while maintaining low power consumption and a small footprint. The SparkFun LTE CAT M1/NB-IoT Shield is based off the Arduino R3’s footprint that allows you to easily incorporate it with favorite Arduino-based device.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun LTE CAT M1/NB-IoT Shield equips your Arduino or Arduino-compatible microcontroller with access to data networks across the globe. This shield adds wireless, high-bandwidth cellular functionality to your IoT project while maintaining low power consumption and a small footprint. The SparkFun LTE CAT M1/NB-IoT Shield is based off the Arduino R3’s footprint that allows you to easily incorporate it with favorite Arduino-based device.
 At the heart of the LTE Cat M1/NB-IoT shield is a u-blox SARA-R410M-02B LTE Cat M1/NB-IoT modem. Cat M1 (Category M1) and NB-IoT (Narrowband IoT) are both Low Power Wide Area Network (LPWAN) technologies that are designed to provide cellular communication to small IoT devices. They operate on LTE network bands just like most smartphones, and should be supported by most cellular network carriers. The u-blox SARA-R4 module communicates over a UART via a simple AT command set. We’ve provided a library to help you get started with everything from sending SMS text messages to communicating with servers over a TCP/IP connection. Additionally, both the module and library support an I2C GPS interface via a Qwiic connector, so you can plug in a u-blox GPS module and start remotely tracking your project.
 Each SparkFun LTE CAT M1/NB-IoT Shield also includes a ceramic, Molex 1462000001 SMD antenna. The antenna has a gain of 3.8dBi around 1.7GHz to 2.7GHz. However, if you would prefer to use an external antenna, we have provided a U.FL connector that can be utilized by simply slicing through a jumper with a hobby knife.
 Please be aware that there are a few extra parts required to get this shield fully functioning, other than an Arduino-based device. First, you'll need to supply your own SIM card, such as this one from Hologram (we do also offer this shield with an included one as well) and your own headers which will need to be soldered on.
 Note: Be sure to check the Hardware Overview section in the Hookup Guide for compatible GPS modules. The onboard Qwiic connector is only designed to support u-blox-based GPS modules. It does not support any other GPS modules or sensors. We are continuing to add more modules so be sure to check back every so often to find out more!
- Get Started with the SparkFun LTE CAT M1/NB-IoT Shield Guide               
-            
-                      
-              
+ Get Started with the SparkFun LTE CAT M1/NB-IoT Shield Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14997</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -24,8 +22,8 @@ Note: Be sure to check the Hardware Overview section in the Hookup Guide for com
 
 
 	<numComponents>58</numComponents>
-	<numOompComponents>32</numOompComponents>
-	<oompCompletion>55</oompCompletion>
+	<numOompComponents>46</numOompComponents>
+	<oompCompletion>79</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -185,7 +183,7 @@ Note: Be sure to check the Hardware Overview section in the Hookup Guide for com
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  eagleValue: 1A/23V/620mV  eagleDevice: DIODE-SCHOTTKY-BAT20J  eaglePackage: SOD-323</compID>
+		<compID>DIOS-S323-X-A01-V23</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -241,35 +239,35 @@ Note: Be sure to check the Hardware Overview section in the Hookup Guide for com
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI01-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>32</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: 6_PIN_SERIAL_TARGETNO_SILK  eaglePackage: 1X06_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI06-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>33</compIndex>
 		<compIden>J6</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_031X03_NO_SILK  eaglePackage: 1X03_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>34</compIndex>
 		<compIden>J7</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_031X03_NO_SILK  eaglePackage: 1X03_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>35</compIndex>
 		<compIden>J8</compIden>
-		<compID>NOT OOMP  eagleValue: U.FL  eagleDevice: U.FL  eaglePackage: U.FL</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -283,14 +281,14 @@ Note: Be sure to check the Hardware Overview section in the Hookup Guide for com
 	<component>
 		<compIndex>37</compIndex>
 		<compIden>J10</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_021X02_NO_SILK  eaglePackage: 1X02_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>38</compIndex>
 		<compIden>J11</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_021X02_NO_SILK  eaglePackage: 1X02_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -304,14 +302,14 @@ Note: Be sure to check the Hardware Overview section in the Hookup Guide for com
 	<component>
 		<compIndex>40</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: 2.5A/30V/105mO  eagleDevice: MOSFET_PCH-DMG2307L  eaglePackage: SOT23-3</compID>
+		<compID>MOSP-SO23-X-A25D-V30</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>41</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  eagleValue: 600mA/40V  eagleDevice: TRANS_NPN-MMBT2222AL  eaglePackage: SOT23-3</compID>
+		<compID>TRNN-SO23-X-A06D-V30</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -367,14 +365,14 @@ Note: Be sure to check the Hardware Overview section in the Hookup Guide for com
 	<component>
 		<compIndex>49</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-DPDT-SMD-AYZ0202  eaglePackage: SWITCH_DPDT_SMD_AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>50</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-DPDT-SMD-AYZ0202  eaglePackage: SWITCH_DPDT_SMD_AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -402,14 +400,14 @@ Note: Be sure to check the Hardware Overview section in the Hookup Guide for com
 	<component>
 		<compIndex>54</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  eagleValue: AP2112K-3.3  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>55</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  eagleValue: MCP73831  eagleDevice: MCP73831  eaglePackage: SOT23-5</compID>
+		<compID>ICIC-SO235-X-K73831-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

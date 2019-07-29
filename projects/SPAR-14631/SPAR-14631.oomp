@@ -5,16 +5,14 @@
 	<hexID>SPAR14631</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is the LilyPad USB Plus, a sewable electronics microcontroller board controlled by an ATmega32U4 with the Arduino bootloader. It has a built in power supply JST (and recharge circuit) and an on/off switch with the only extra piece of hardware you need to program the LilyPad USB Plus being a micro-USB cable. We've also added an RGB LED in the dead-center of the board along with six white LEDs to act as a sort of bar graph. The LilyPad USB Plus was designed to streamline your next sewable project by keeping things simple and giving you more room to work while eliminating the need to sew a power supply.
+	<oompAbout>(image and text from sparkfun.com)
+
+This is the LilyPad USB Plus, a sewable electronics microcontroller board controlled by an ATmega32U4 with the Arduino bootloader. It has a built in power supply JST (and recharge circuit) and an on/off switch with the only extra piece of hardware you need to program the LilyPad USB Plus being a micro-USB cable. We've also added an RGB LED in the dead-center of the board along with six white LEDs to act as a sort of bar graph. The LilyPad USB Plus was designed to streamline your next sewable project by keeping things simple and giving you more room to work while eliminating the need to sew a power supply.
 It has fourteen sew tabs for connecting components with conductive thread. Four of these tabs are reserved for connecting power and ground of LilyPad sensors and accessory boards, and ten are input/output (I/O). For reference, each sew tab has a nearby label with its name and the pin number it is connected to on the ATmega32U4 chip at its center.
 LilyPad is a wearable e-textile technology developed by Leah Buechley and cooperatively designed by Leah and SparkFun. Each LilyPad was creatively designed to have large connecting pads to allow them to be sewn into clothing. Various input, output, power, and sensor boards are available in the LilyPad line but will also work with most other wearable e-textile lines. They’re even washable!
 Please be aware that the Lilypad USB Plus is NOT supported on Windows 7/8 due to a lack of support drivers for those specific OS's.
 Note: A portion of this sale is given back to Dr. Leah Buechley for continued development and education in e-textiles.
- Get Started With the LilyPad USB Plus Guide               
-            
-                      
-              
+ Get Started With the LilyPad USB Plus Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14631</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -24,8 +22,8 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 
 
 	<numComponents>42</numComponents>
-	<numOompComponents>35</numOompComponents>
-	<oompCompletion>83</oompCompletion>
+	<numOompComponents>40</numOompComponents>
+	<oompCompletion>95</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -80,7 +78,7 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  eagleValue: 3A/40V/500mV  eagleDevice: DIODE-SCHOTTKY-B340A  eaglePackage: SMA-DIODE</compID>
+		<compID>DIOS-D214-X-A3-V30</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -283,7 +281,7 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 	<component>
 		<compIndex>37</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-DPDT-SMD-AYZ0202  eaglePackage: SWITCH_DPDT_SMD_AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -297,14 +295,14 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 	<component>
 		<compIndex>39</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  eagleValue: MCP73831  eagleDevice: MCP73831  eaglePackage: SOT23-5</compID>
+		<compID>ICIC-SO235-X-K73831-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>40</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -318,7 +316,7 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 	<component>
 		<compIndex>42</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  eagleValue: 8MHz  eagleDevice: RESONATORSMD  eaglePackage: RESONATOR-SMD</compID>
+		<compID>CERE-1263-X-MZ8-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

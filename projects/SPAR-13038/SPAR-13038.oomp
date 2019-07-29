@@ -5,13 +5,11 @@
 	<hexID>SPAR13038</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The Intel® Edison is an ultra small computing platform that will change the way you look at embedded electronics. Each Edison is packed with a huge amount of tech goodies into a tiny package while still providing the same robust strength of your go-to single board computer. Powered by the Intel® Atom™ SoC dual-core CPU and including an integrated WiFi, Bluetooth LE, and a 70-pin connector to attach a veritable slew of shield-like "Blocks" which can be stacked on top of each other. It's no wonder how this little guy is lowering the barrier of entry on the world of electronics!
+	<oompAbout>(image and text from sparkfun.com)
+
+The Intel® Edison is an ultra small computing platform that will change the way you look at embedded electronics. Each Edison is packed with a huge amount of tech goodies into a tiny package while still providing the same robust strength of your go-to single board computer. Powered by the Intel® Atom™ SoC dual-core CPU and including an integrated WiFi, Bluetooth LE, and a 70-pin connector to attach a veritable slew of shield-like "Blocks" which can be stacked on top of each other. It's no wonder how this little guy is lowering the barrier of entry on the world of electronics!
 The GPIO Block is a simple breakout board to bring the GPIO from the Intel® Edison to the user. Bread board friendly, the GPIO Block provides access to all basic GPIO, PWM, and UART2 pins. All GPIO is level shifted to a selectable 3.3v or VSYS. The GPIO add-on also provides access to all three power rails found on the Intel® Edison. 3.3v, 1.8v, VSYS, and GND are accessible for bread board prototyping. Note: Since the level shifting is accomplished through a auto direction sensing translator, driving high current components (Such as Relays, Motors, and high power LED’s) will require an external switch. See the Hookup Guide to learn more.
-If you are looking to add a little more stability to your Intel® Edison stack, check out this Hardware Pack. It will provide you with increased mechanical strength for stacking Blocks on your Edison!              
-            
-                      
-              
+If you are looking to add a little more stability to your Intel® Edison stack, check out this Hardware Pack. It will provide you with increased mechanical strength for stacking Blocks on your Edison!
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13038</oompOfficialLink>
 	<company>Sparkfun</company>

@@ -5,14 +5,12 @@
 	<hexID>SPAR10305</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This shield allows you to use a computer power supply (or other power source) to use your Arduino to switch high current. With RFP30N06LE MOSFETS, you can easily control a lot of current directly from your Arduino.
+	<oompAbout>(image and text from sparkfun.com)
+
+This shield allows you to use a computer power supply (or other power source) to use your Arduino to switch high current. With RFP30N06LE MOSFETS, you can easily control a lot of current directly from your Arduino.
 The board provides 6 PWM outputs via screw terminals. Check the datasheet for the MOSFET below for full specifications on how much current this board can handle.This board is a very easy way to start using MOSFETS for your next high current project.
 A protection diode has been added to the power input of this version of the board.
-Note: If you want to stack another shield on top of this one, you will want to double-up on the stackable headers to clear the MOSFETs.              
-            
-                      
-              
+Note: If you want to stack another shield on top of this one, you will want to double-up on the stackable headers to clear the MOSFETs.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/10305</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ Note: If you want to stack another shield on top of this one, you will want to d
 
 
 	<numComponents>20</numComponents>
-	<numOompComponents>8</numOompComponents>
-	<oompCompletion>40</oompCompletion>
+	<numOompComponents>10</numOompComponents>
+	<oompCompletion>50</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -43,14 +41,14 @@ Note: If you want to stack another shield on top of this one, you will want to d
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
+		<compID>LEDS-05-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  eagleValue: Yellow  eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
+		<compID>LEDS-05-Y-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

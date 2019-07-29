@@ -5,16 +5,14 @@
 	<hexID>SPAR09715</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                Make some noise with your next project! The MP3 Trigger board is built to make MP3 sound integration easier than ever. The board has 18 external trigger pins that will directly trigger pre-selected MP3 tracks, and a full-duplex serial control port that provides full transport control, remote triggering for up to 256 tracks, and fast real-time volume control. MP3s are stored on FAT16 formatted SDSC or FAT32 formatted SDHC micro-SD flash memory cards. In addition, optimized code can achieve 192Kbps stereo playback from a wider range of cards.
+	<oompAbout>(image and text from sparkfun.com)
+
+Make some noise with your next project! The MP3 Trigger board is built to make MP3 sound integration easier than ever. The board has 18 external trigger pins that will directly trigger pre-selected MP3 tracks, and a full-duplex serial control port that provides full transport control, remote triggering for up to 256 tracks, and fast real-time volume control. MP3s are stored on FAT16 formatted SDSC or FAT32 formatted SDHC micro-SD flash memory cards. In addition, optimized code can achieve 192Kbps stereo playback from a wider range of cards.
 The heart of the MP3 Trigger board is the Cypress PSoC CY8C29466-24SXI microcontroller which serves up MP3 data to a VLSI VS1063 audio codec IC. This version also supports an optional initialization file that can be used to set the serial port baud rate as well as to reprogram any of the 18 trigger inputs to alternate functions, including random and sequential track selection, transport controls and even volume up/down. Each conventional trigger can be set to either allow immediate restarts, or to lock out restarts if audio is playing. Also, a new trigger filename convention provides greater flexibility in naming your MP3 tracks and makes file management easier.
 There is also a “Quiet Mode” feature that can be enabled via the serial control port. In this mode, the trigger inputs don’t start tracks directly, but instead produce a serial message indicating which triggers were activated. A host microcontroller can thus monitor the trigger inputs and then start any track or sequence of tracks via the serial control port, making the triggers much more flexible.
 This version of the MP3 Trigger includes firmware that supports the use of an initialization file on the microSD card that can be used to change the serial baud rate, as well as to repurpose any of the 18 trigger inputs to alternate functions, such as random and sequential triggers, navigation controls and even volume controls. In addition, a restart lockout option can be used to prevent any trigger from starting a track if audio is already playing. Using these features, custom applications can often be implemented without the use of a separate microcontroller.
 Note: This product is a collaboration with Robertsonics. A portion of each sales goes back to them for product support and continued development.
- Get Started with the MP3 Trigger Guide!               
-            
-                      
-              
+ Get Started with the MP3 Trigger Guide!
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9715</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -24,8 +22,8 @@ Note: This product is a collaboration with Robertsonics. A portion of each sales
 
 
 	<numComponents>70</numComponents>
-	<numOompComponents>55</numOompComponents>
-	<oompCompletion>79</oompCompletion>
+	<numOompComponents>61</numOompComponents>
+	<oompCompletion>87</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -143,14 +141,14 @@ Note: This product is a collaboration with Robertsonics. A portion of each sales
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  eagleValue: PTC  eagleDevice: PTCTHERMISTOR1206  eaglePackage: PTC-1206</compID>
+		<compID>REFU-1206-X-A05D-V8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  eagleValue: POWER_JACKTOE  eagleDevice: POWER_JACKTOE  eaglePackage: POWER_JACK_SMD_OVERPASTE_TOE</compID>
+		<compID>DCJP-21D-X-SMDS-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -458,7 +456,7 @@ Note: This product is a collaboration with Robertsonics. A portion of each sales
 	<component>
 		<compIndex>62</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  eagleValue: DPDT  eagleDevice: SWITCH-DPDTAYZ0202  eaglePackage: AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -486,7 +484,7 @@ Note: This product is a collaboration with Robertsonics. A portion of each sales
 	<component>
 		<compIndex>66</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  eagleValue: LM1117  eagleDevice: V_REG_LM1117SOT223  eaglePackage: SOT223</compID>
+		<compID>VREG-SO223-X-V33D-A08D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -507,14 +505,14 @@ Note: This product is a collaboration with Robertsonics. A portion of each sales
 	<component>
 		<compIndex>69</compIndex>
 		<compIden>U9</compIden>
-		<compID>NOT OOMP  eagleValue: M18_  eagleDevice: M18_  eaglePackage: 1X18</compID>
+		<compID>HEAD-I01-X-PI18-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>70</compIndex>
 		<compIden>U10</compIden>
-		<compID>NOT OOMP  eagleValue: M18_  eagleDevice: M18_  eaglePackage: 1X18</compID>
+		<compID>HEAD-I01-X-PI18-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

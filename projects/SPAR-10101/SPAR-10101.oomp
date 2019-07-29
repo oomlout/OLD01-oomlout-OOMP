@@ -5,13 +5,11 @@
 	<hexID>SPAR10101</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                Have you ever needed to know if a voltage coming from a sensor is within a specific voltage window? This little breakout board allows you to hook up an analog signal, define your voltage window, and it will tell you (digitally - HIGH or LOW) if your input is inside or outside the window.
+	<oompAbout>(image and text from sparkfun.com)
+
+Have you ever needed to know if a voltage coming from a sensor is within a specific voltage window? This little breakout board allows you to hook up an analog signal, define your voltage window, and it will tell you (digitally - HIGH or LOW) if your input is inside or outside the window.
 You can define the upper and lower limits of the voltage window by adjusting to trim pots on the board. Power it up with 5Vs, set your limits, and you'll be ready to go! It accepts voltages from 0V to 5V. Now you don't need to set up thresholds in code.
-This also frees up an ADC for another sensor that may require more than a voltage threshold or window. Another advantage to this little guy is that it's analog, so that means it's virtually instant (10 microseconds). It is also useful in audio applications when you need to define peaking voltages on an AC signal and you want to analyze peaks on both the top and bottom sides of the sound wave.              
-            
-                      
-              
+This also frees up an ADC for another sensor that may require more than a voltage threshold or window. Another advantage to this little guy is that it's analog, so that means it's virtually instant (10 microseconds). It is also useful in audio applications when you need to define peaking voltages on an AC signal and you want to analyze peaks on both the top and bottom sides of the sound wave.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/10101</oompOfficialLink>
 	<company>Sparkfun</company>

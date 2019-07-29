@@ -5,14 +5,12 @@
 	<hexID>SPAR11113</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                It's blue! It's thin! It's the Arduino Pro Mini! SparkFun's minimal design approach to Arduino. This is a 5V Arduino running the 16MHz bootloader. Arduino Pro Mini does not come with connectors populated so that you can solder in any connector or wire with any orientation you need. We recommend first time Arduino users start with the Uno R3. It's a great board that will get you up and running quickly. The Arduino Pro series is meant for users that understand the limitations of system voltage (5V), lack of connectors, and USB off board.
+	<oompAbout>(image and text from sparkfun.com)
+
+It's blue! It's thin! It's the Arduino Pro Mini! SparkFun's minimal design approach to Arduino. This is a 5V Arduino running the 16MHz bootloader. Arduino Pro Mini does not come with connectors populated so that you can solder in any connector or wire with any orientation you need. We recommend first time Arduino users start with the Uno R3. It's a great board that will get you up and running quickly. The Arduino Pro series is meant for users that understand the limitations of system voltage (5V), lack of connectors, and USB off board.
 We really wanted to minimize the cost of an Arduino. In order to accomplish this we used all SMD components, made it two layer, etc. This board connects directly to the FTDI Basic Breakout board and supports auto-reset. The Arduino Pro Mini also works with the FTDI cable but the FTDI cable does not bring out the DTR pin so the auto-reset feature will not work. There is a voltage regulator on board so it can accept voltage up to 12VDC. If you're supplying unregulated power to the board, be sure to connect to the "RAW" pin and not VCC.
 The latest and greatest version of this board breaks out the ADC6 and ADC7 pins as well as adds footprints for optional I2C pull-up resistors! We also took the opportunity to slap it with the OSHW logo.
-Note: A portion of this sale is given back to Arduino LLC to help fund continued development of new tools and new IDE features.              
-            
-                      
-              
+Note: A portion of this sale is given back to Arduino LLC to help fund continued development of new tools and new IDE features.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/11113</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ Note: A portion of this sale is given back to Arduino LLC to help fund continued
 
 
 	<numComponents>17</numComponents>
-	<numOompComponents>9</numOompComponents>
-	<oompCompletion>53</oompCompletion>
+	<numOompComponents>10</numOompComponents>
+	<oompCompletion>59</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -134,7 +132,7 @@ Note: A portion of this sale is given back to Arduino LLC to help fund continued
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  eagleValue: ATMEGA328  eagleDevice: ATMEGA168  eaglePackage: TQFP32-08</compID>
+		<compID>ICIC-TQ32-X-K328-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

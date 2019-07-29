@@ -5,14 +5,12 @@
 	<hexID>SPAR13311</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The Teensy is an amazing development platform that allows you to get more computing power than an Arduino Uno, and in less space. The Teensy 3.1 XBee Adapter allows you to connect your Teensy with the tried and true XBee series to provide you with a great solution to any project that requires a decently ranged no-frills wireless serial link.
+	<oompAbout>(image and text from sparkfun.com)
+
+The Teensy is an amazing development platform that allows you to get more computing power than an Arduino Uno, and in less space. The Teensy 3.1 XBee Adapter allows you to connect your Teensy with the tried and true XBee series to provide you with a great solution to any project that requires a decently ranged no-frills wireless serial link.
 Not only does the Teensy 3.1 XBee Adapter connect a XBee and Teensy together, it also acts as a breakout board for both. Each pin on the Teensy and XBee has been broken out to standard 0.1" spaced through-hole soldering points that allow you to connect any additional parts that you would like to incorporate with the adapter.
 Though the adapter design interfaces best with the Teensy 3.1, the Teensy LC can be utilized as well. Paired with the XBee you can get a great long distance serial connection, and with the 72MHz of processing speed (48MHz for the Teensy-LC) you can do a lot with the information.
-Note: The only headers pre-soldered onto this board as the ones designed to attach your XBee. Additional headers and wires to hook up your Teensy, breadboard, additional circuits, etc will need to be purchased separately.              
-            
-                      
-              
+Note: The only headers pre-soldered onto this board as the ones designed to attach your XBee. Additional headers and wires to hook up your Teensy, breadboard, additional circuits, etc will need to be purchased separately.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13311</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ Note: The only headers pre-soldered onto this board as the ones designed to atta
 
 
 	<numComponents>12</numComponents>
-	<numOompComponents>11</numOompComponents>
-	<oompCompletion>92</oompCompletion>
+	<numOompComponents>12</numOompComponents>
+	<oompCompletion>100</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -99,7 +97,7 @@ Note: The only headers pre-soldered onto this board as the ones designed to atta
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  eagleValue: DPDT  eagleDevice: SWITCH-DPDTAYZ0202  eaglePackage: AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

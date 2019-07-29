@@ -5,14 +5,12 @@
 	<hexID>SPAR12634</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This through-hole soldering kit is very similar to our Simon Says; First, it's a great way to learn how to solder; second, it's a fun game to play; and third, it's a development platform for future projects. The main difference with Simon Tilts is that it involves motion; instead of pressing buttons, the player is challenged to tilt the game. It's a bit of a 3D mind trip, but so much fun to play!
+	<oompAbout>(image and text from sparkfun.com)
+
+This through-hole soldering kit is very similar to our Simon Says; First, it's a great way to learn how to solder; second, it's a fun game to play; and third, it's a development platform for future projects. The main difference with Simon Tilts is that it involves motion; instead of pressing buttons, the player is challenged to tilt the game. It's a bit of a 3D mind trip, but so much fun to play!
 We have taken great care with the PCB design to make it very user friendly. It's a great place to start when you're learning to solder. To sense direction, the kit uses our new custom molded part, the tilt arm. In addition to being fun to watch in action, the tilt arms do an excellent job of sensing the position.
 In addition to having a fun game to play, after soldering this kit together you will have a greater knowledge of through-hole soldering and the tools, techniques, and terminology required to populate your own PCB prototype. You will also have a development platform with 7 outputs (LEDs and buzzer), motion sensing (tilt sensor), and serial for debugging.
-Note: Be sure to check out the Hookup Guide in the Documents section below for helpful tips and assembly instructions.              
-            
-                      
-              
+Note: Be sure to check out the Hookup Guide in the Documents section below for helpful tips and assembly instructions.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/12634</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ Note: Be sure to check out the Hookup Guide in the Documents section below for h
 
 
 	<numComponents>18</numComponents>
-	<numOompComponents>7</numOompComponents>
-	<oompCompletion>39</oompCompletion>
+	<numOompComponents>13</numOompComponents>
+	<oompCompletion>72</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -57,42 +55,42 @@ Note: Be sure to check out the Hookup Guide in the Documents section below for h
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>LED0</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: LED5MM-KIT  eaglePackage: LED5MM-KIT</compID>
+		<compID>LEDS-05-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: LED5MM-KIT  eaglePackage: LED5MM-KIT</compID>
+		<compID>LEDS-05-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: LED5MM-KIT  eaglePackage: LED5MM-KIT</compID>
+		<compID>LEDS-05-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>LED3</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: LED5MM-KIT  eaglePackage: LED5MM-KIT</compID>
+		<compID>LEDS-05-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>LED4</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: LED5MM-KIT  eaglePackage: LED5MM-KIT</compID>
+		<compID>LEDS-05-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>LED5</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: LED5MM-KIT  eaglePackage: LED5MM-KIT</compID>
+		<compID>LEDS-05-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -5,17 +5,15 @@
 	<hexID>SPAR14558</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                Get with the times, already! This SparkFun Real Time Clock (RTC) Module is a Qwiic-enabled breakout board for the RV-1805 chipset. The RTC is ultra-low power (running at only about 22nA in its lowest power setting) so it can use a supercapacitor for backup power instead of a normal battery. This means you get plenty of charge and discharge cycles without any degradation to the “battery." To make it even easier to get your readings, all communication is enacted exclusively via I2C, utilizing our handy Qwiic system so no soldering is required to connect it to the rest of your system. However, we still have broken out 0.1"-spaced pins in case you prefer to use a breadboard.
+	<oompAbout>(image and text from sparkfun.com)
+
+Get with the times, already! This SparkFun Real Time Clock (RTC) Module is a Qwiic-enabled breakout board for the RV-1805 chipset. The RTC is ultra-low power (running at only about 22nA in its lowest power setting) so it can use a supercapacitor for backup power instead of a normal battery. This means you get plenty of charge and discharge cycles without any degradation to the “battery." To make it even easier to get your readings, all communication is enacted exclusively via I2C, utilizing our handy Qwiic system so no soldering is required to connect it to the rest of your system. However, we still have broken out 0.1"-spaced pins in case you prefer to use a breadboard.
 This RTC module's built in RV-1805 has not one, but two internal oscillators: a 32.768kHz tuning fork crystal and a low power RC based oscillator and can automatically switch between the two using the more precise crystal to correct the RC oscillator every few minutes. This feature allows the module to maintain a very accurate date and time with the worst case being +/- about three minutes over a year. The RV-1805 also has a built in trickle charger so as soon as the RTC is connected to power the it will be fully charged in under 10 minutes and has the ability to switch power to other systems allowing it to directly turn on or off a power hungry device such as a microcontroller or RF engine.
 There is also the option to add a battery to the board if the supercapacitor just isn’t going keep your project powered long enough (keep in mind, the supercap can hypothetically make the board keep time for around 35 days), you can solder on an external battery. That means you can let board sit with no power or connection to the outside world and the current hour/minute/second/date will be maintained.
 
 The SparkFun Qwiic connect system is an ecosystem of I2C sensors, actuators, shields and cables that make prototyping faster and less prone to error. All Qwiic-enabled boards use a common 1mm pitch, 4-pin JST connector. This reduces the amount of required PCB space, and polarized connections mean you can’t hook it up wrong.
 
- Get Started with the RV-1805 Real Time Clock Module Guide               
-            
-                      
-              
+ Get Started with the RV-1805 Real Time Clock Module Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14558</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -25,8 +23,8 @@ The SparkFun Qwiic connect system is an ecosystem of I2C sensors, actuators, shi
 
 
 	<numComponents>17</numComponents>
-	<numOompComponents>13</numOompComponents>
-	<oompCompletion>76</oompCompletion>
+	<numOompComponents>14</numOompComponents>
+	<oompCompletion>82</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -88,7 +86,7 @@ The SparkFun Qwiic connect system is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_031X03_NO_SILK  eaglePackage: 1X03_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

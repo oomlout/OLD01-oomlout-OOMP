@@ -5,13 +5,11 @@
 	<hexID>SPAR10653</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is a breakout board for the ISD1932, a multiple-message record/playback device. This single chip can record up to 64 seconds worth of voice messages. Microphone inputs and speaker outputs are all handled by the ISD1932.
+	<oompAbout>(image and text from sparkfun.com)
+
+This is a breakout board for the ISD1932, a multiple-message record/playback device. This single chip can record up to 64 seconds worth of voice messages. Microphone inputs and speaker outputs are all handled by the ISD1932.
 A switch is connected to allow selection of the ISD1932's operating mode - address trigger or direct trigger. You must cycle the power after switching the mode. An LED is also populated on the board and will illuminate when the device is recording. An external resistor is necessary to select the record duration and sampling frequency, which can range from 21.2 - 64 seconds (4-12kHz sampling frequency).
-The board breaks out all pins of the ISD1932 to 0.1" spaced headers. This product comes as shown in the pictures with filtering capacitors, an LED, mode selecting switch and the ISD1932 IC. The new version of this board also includes a microphone and a 3.5mm audio jack.              
-            
-                      
-              
+The board breaks out all pins of the ISD1932 to 0.1" spaced headers. This product comes as shown in the pictures with filtering capacitors, an LED, mode selecting switch and the ISD1932 IC. The new version of this board also includes a microphone and a 3.5mm audio jack.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/10653</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ The board breaks out all pins of the ISD1932 to 0.1" spaced headers. This produc
 
 
 	<numComponents>19</numComponents>
-	<numOompComponents>15</numOompComponents>
-	<oompCompletion>79</oompCompletion>
+	<numOompComponents>16</numOompComponents>
+	<oompCompletion>84</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -133,7 +131,7 @@ The board breaks out all pins of the ISD1932 to 0.1" spaced headers. This produc
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPSTSMD  eaglePackage: AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

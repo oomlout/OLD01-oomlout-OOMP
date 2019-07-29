@@ -5,12 +5,13 @@
 	<hexID>SPAR10268</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The BlueSMiRF is the latest Bluetooth****wireless serial cable replacement from SparkFun Electronics! These modems work as a serial (RX/TX) pipe. Any serial stream from 2400 to 115200bps can be passed seamlessly from your computer to your target. We've tested these units successfully over open air at 350ft (106m)! The latest version of this board also breaks out PIO4.
+	<oompAbout>(image and text from sparkfun.com)
+
+The BlueSMiRF is the latest Bluetoothwireless serial cable replacement from SparkFun Electronics! These modems work as a serial (RX/TX) pipe. Any serial stream from 2400 to 115200bps can be passed seamlessly from your computer to your target. We've tested these units successfully over open air at 350ft (106m)! The latest version of this board also breaks out PIO4.
 Note: The remote unit can be powered from 3.3V up to 6V for easy battery attachment. All signal pins on the remote unit are 3V-6V tolerant. No level shifting is required. Do not attach this device directly to a serial port. You will need an RS232 to TTL converter circuit if you need to attach this to a computer.
 Note: This is a single unit only. We recommend the purchase a USB dongle to interface to a computer if you do not already have access to a computer with Bluetooth connectivity.
 This board ships without headers, you can find break away headers in the related items below.
-****Radio Modem
+Radio Modem
 * Extremely small radio - 0.15x0.6x1.9"
 * Very robust link both in integrity and transmission distance (100m) - no more buffer overruns!
 * Low power consumption : 25mA avg
@@ -20,10 +21,7 @@ This board ships without headers, you can find break away headers in the related
 * Operating Voltage: 3.3V-6V
 * Serial communications: 2400-115200bps
 * Operating Temperature: -40 ~ +70C
-* Built-in antenna              
-            
-                      
-              
+* Built-in antenna
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/10268</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -33,8 +31,8 @@ This board ships without headers, you can find break away headers in the related
 
 
 	<numComponents>18</numComponents>
-	<numOompComponents>14</numOompComponents>
-	<oompCompletion>78</oompCompletion>
+	<numOompComponents>17</numOompComponents>
+	<oompCompletion>94</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -75,14 +73,14 @@ This board ships without headers, you can find break away headers in the related
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: MOSFET-NCHANNELSMD  eagleDevice: MOSFET-NCHANNELSMD  eaglePackage: SOT23-3</compID>
+		<compID>MOSN-SO23-X-A02D-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  eagleValue: MOSFET-NCHANNELSMD  eagleDevice: MOSFET-NCHANNELSMD  eaglePackage: SOT23-3</compID>
+		<compID>MOSN-SO23-X-A02D-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -159,7 +157,7 @@ This board ships without headers, you can find break away headers in the related
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

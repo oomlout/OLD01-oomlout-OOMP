@@ -5,13 +5,11 @@
 	<hexID>SPAR11460</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The ATtiny45 and 85 are a couple of really cool little MCUs but did you know you can program them in Arduino? That's right, now you can shrink your Arduino projects down to "tiny size" by moving your code straight over to these small but capable ICs. The standard method for programming the ATtiny ICs involves a breadboard, lots of jumper wires and a hardware programmer, but David Mellis over at MIT Media Lab has simplified the process by laying out this handy USB programmer.
+	<oompAbout>(image and text from sparkfun.com)
+
+The ATtiny45 and 85 are a couple of really cool little MCUs but did you know you can program them in Arduino? That's right, now you can shrink your Arduino projects down to "tiny size" by moving your code straight over to these small but capable ICs. The standard method for programming the ATtiny ICs involves a breadboard, lots of jumper wires and a hardware programmer, but David Mellis over at MIT Media Lab has simplified the process by laying out this handy USB programmer.
 The Tiny AVR Programmer plugs directly into your USB port and provides a programming socket for the ATTiny45 and 85. Just slot an ATtiny with a DIP footprint into the socket, plug the programmer into your USB port and start up the Arduino IDE. After installing the proper board definitions, you simply program it the same way you would any other Arduino board. The programmer even breaks out the IC pins to female headers so you can easily prototype around the ATtiny without pulling and plugging it over and over. There are two ISP headers that have also been broken out so you can use the programmer or solder in a 6-pin header for other AVR microcontrollers!
-**Note: **You'll need to install the USBTinyISP drivers if you don't have them yet, you can find them in the documents tab!              
-            
-                      
-              
+Note: You'll need to install the USBTinyISP drivers if you don't have them yet, you can find them in the documents tab!
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/11460</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ The Tiny AVR Programmer plugs directly into your USB port and provides a program
 
 
 	<numComponents>15</numComponents>
-	<numOompComponents>10</numOompComponents>
-	<oompCompletion>67</oompCompletion>
+	<numOompComponents>11</numOompComponents>
+	<oompCompletion>73</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -77,7 +75,7 @@ The Tiny AVR Programmer plugs directly into your USB port and provides a program
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: 16MHz  eagleDevice: CRYSTAL5X3  eaglePackage: CRYSTAL-SMD-5X3</compID>
+		<compID>XTAL-5032-X-MZ16-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

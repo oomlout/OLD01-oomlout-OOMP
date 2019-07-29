@@ -5,13 +5,11 @@
 	<hexID>SPAR13303</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The LSM303C is a 6 Degrees of Freedom (6DOF) inertial measurement unit (IMU) in a single package, specifically developed as an eCompass device. Due to the IC housing a 3-axis accelerometer and a 3-axis magnetometer combined with its low cost, the LSM303C was perfect for us to create this small breakout board just for you! Each LSM303C Breakout has been designed to be super-flexible and can be configured specifically for many applications. The LSM303C Breakout can be configured to generate an interrupt signal for free-fall, motion detection and magnetic field detection!
+	<oompAbout>(image and text from sparkfun.com)
+
+The LSM303C is a 6 Degrees of Freedom (6DOF) inertial measurement unit (IMU) in a single package, specifically developed as an eCompass device. Due to the IC housing a 3-axis accelerometer and a 3-axis magnetometer combined with its low cost, the LSM303C was perfect for us to create this small breakout board just for you! Each LSM303C Breakout has been designed to be super-flexible and can be configured specifically for many applications. The LSM303C Breakout can be configured to generate an interrupt signal for free-fall, motion detection and magnetic field detection!
 The range of each sensor on the LSM303C is configurable: the accelerometer's scale can be set to ±2g, ±4g, ±6g, or ±8g, while the magnetometer has full-scale range of ±16 gauss, and supports I2C and SPI communication.
-Each pin has been broken out on the LSM303C, with 10 plated through-hole connections featuring power and I2C and SPI functionality, interrupt outputs, and accelerometer and magnetometer data out. Please keep in mind that the LSM303C is a 2.5V device so supplying voltages greater than ~4.8V can permanently damage the IC. As long as your Arduino has a 3.3V supply output, you shouldn't need any extra level shifting.              
-            
-                      
-              
+Each pin has been broken out on the LSM303C, with 10 plated through-hole connections featuring power and I2C and SPI functionality, interrupt outputs, and accelerometer and magnetometer data out. Please keep in mind that the LSM303C is a 2.5V device so supplying voltages greater than ~4.8V can permanently damage the IC. As long as your Arduino has a 3.3V supply output, you shouldn't need any extra level shifting.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13303</oompOfficialLink>
 	<company>Sparkfun</company>

@@ -5,15 +5,13 @@
 	<hexID>SPAR13229</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is the FreeSoC2 Development Board, SparkFun’s take on the PSoC5LP ARM Cortex. The PSoC (Programmable System-on-Chip) brings together features of the programmable devices and microcontroller-type systems-on-chips into one package. By placing a programmable fabric between the peripherals and the pins, the FreeSoC2 allows any function to be routed to any pin! Moreover, the onboard PSoC includes a number of programmable blocks, which allow the user to define arbitrary digital and analog circuits for their specific application.
+	<oompAbout>(image and text from sparkfun.com)
+
+This is the FreeSoC2 Development Board, SparkFun’s take on the PSoC5LP ARM Cortex. The PSoC (Programmable System-on-Chip) brings together features of the programmable devices and microcontroller-type systems-on-chips into one package. By placing a programmable fabric between the peripherals and the pins, the FreeSoC2 allows any function to be routed to any pin! Moreover, the onboard PSoC includes a number of programmable blocks, which allow the user to define arbitrary digital and analog circuits for their specific application.
 SparkFun’s FreeSoC2 board has two processors onboard: a CY8C5868LTI-LP039 and a CY8C5888AXI-LP096. The former serves as a debugger/programmer for the latter, which is the target upon which your application code will be installed. Both parts contain a Cortex-M3 processor core, 256kB of flash memory, 64kB of SRAM and 2kB of EEPROM. The only significant differences between the two are package size and clock speed. The target is in a TQFP-100 package, which provides 72 I/O pins versus the debugger’s QFN-68 package and 48 I/O pins, and the target can operate at 80MHz versus the debugger’s 67MHz limit. Additionally, the FreeSoC2 can support 5V and 3.3V I/O voltages.
 With a simple upload of new firmware, the Arduino core has been ported to the PSoC5LP, so you can write code for the board in the standard Arduino IDE. The board duplicates the functionality of an Arduino Uno R3’s various hardware peripherals on the pins, so many examples, libraries and shields will work on this board. However, to get the most out of the device, you will need to use the PSoC Creator IDE (which is free of charge with no code limits from Cypress Semiconductor). Please keep in mind that the PSoC Creator software is Windows-only at this time.
 Note: The FreeSoC2 Develpment Board is a collaboration with Jon Moeller. A portion of each sales goes back to him for product support and continued development.
- Get Started With the FreeSoC2 v14 Guide               
-            
-                      
-              
+ Get Started With the FreeSoC2 v14 Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13229</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -23,8 +21,8 @@ Note: The FreeSoC2 Develpment Board is a collaboration with Jon Moeller. A porti
 
 
 	<numComponents>73</numComponents>
-	<numOompComponents>54</numOompComponents>
-	<oompCompletion>74</oompCompletion>
+	<numOompComponents>59</numOompComponents>
+	<oompCompletion>81</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -282,28 +280,28 @@ Note: The FreeSoC2 Develpment Board is a collaboration with Jon Moeller. A porti
 	<component>
 		<compIndex>37</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: MBRA140  eaglePackage: SMA-DIODE</compID>
+		<compID>DIOS-D214-X-A01-V40</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>38</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: MBRA140  eaglePackage: SMA-DIODE</compID>
+		<compID>DIOS-D214-X-A01-V40</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>39</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: MBRA140  eaglePackage: SMA-DIODE</compID>
+		<compID>DIOS-D214-X-A01-V40</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>40</compIndex>
 		<compIden>D4</compIden>
-		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: MBRA140  eaglePackage: SMA-DIODE</compID>
+		<compID>DIOS-D214-X-A01-V40</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -506,7 +504,7 @@ Note: The FreeSoC2 Develpment Board is a collaboration with Jon Moeller. A porti
 	<component>
 		<compIndex>69</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  eagleValue: MIC5219 3.3V  eagleDevice: V_REG_MIC52193.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A05D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

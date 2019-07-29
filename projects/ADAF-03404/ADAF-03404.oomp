@@ -5,7 +5,9 @@
 	<hexID>ADAF03404</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
+	<oompAbout>(image and text from adafruit.com)
+
+
 Adafruit-Feather-ESP8266-HUZZAH-PCB
 PCB files for the Adafruit Feather ESP8266 HUZZAH
 
@@ -27,8 +29,8 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 
 
 	<numComponents>28</numComponents>
-	<numOompComponents>18</numOompComponents>
-	<oompCompletion>64</oompCompletion>
+	<numOompComponents>21</numOompComponents>
+	<oompCompletion>75</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -83,7 +85,7 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>D4</compIden>
-		<compID>NOT OOMP  eagleValue: MBR120  eagleDevice: DIODE-SCHOTTKYSOD-123  eaglePackage: SOD-123</compID>
+		<compID>DIOS-S123-X-A01-V20</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -188,7 +190,7 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>SW2</compIden>
-		<compID>NOT OOMP  eagleValue: KMR2  eagleDevice: SWITCH_TACT_SMT4.6X2.8  eaglePackage: BTN_KMR2_4.6X2.8</compID>
+		<compID>BUTA-4628-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -202,7 +204,7 @@ Creative Commons Attribution, Share-Alike license, check license.txt for more in
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  eagleValue: MCP73831T-2ACI/OT  eagleDevice: MCP73831/2  eaglePackage: SOT23-5</compID>
+		<compID>ICIC-SO235-X-K73831-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

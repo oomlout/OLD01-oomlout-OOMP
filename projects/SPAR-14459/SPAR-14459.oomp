@@ -5,17 +5,15 @@
 	<hexID>SPAR14459</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun Qwiic HAT for Raspberry Pi is the quickest and easiest way to enter into SparkFun’s Qwiic ecosystem while still using that Raspberry Pi that you’ve come to know and love. The Qwiic HAT connects the I2C bus (GND, 3.3V, SDA and SCL) on your Raspberry Pi to an array of Qwiic connectors on the HAT. Since the Qwiic system allows for daisy chaining boards with different addresses, you can stack as many sensors as you’d like to create a tower of sensing power!
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun Qwiic HAT for Raspberry Pi is the quickest and easiest way to enter into SparkFun’s Qwiic ecosystem while still using that Raspberry Pi that you’ve come to know and love. The Qwiic HAT connects the I2C bus (GND, 3.3V, SDA and SCL) on your Raspberry Pi to an array of Qwiic connectors on the HAT. Since the Qwiic system allows for daisy chaining boards with different addresses, you can stack as many sensors as you’d like to create a tower of sensing power!
 The Qwiic Pi HAT has four Qwiic connect ports, all on the same I2C bus. In addition, many of the useful GPIO pins on the Raspberry Pi are broken out. This HAT is compatible with any Raspberry Pi that utilizes the standard 2x20 GPIO header. It has been designed to sit to the side of the Pi, allowing it to work conveniently with a Pi Tin enclosure to connect boards to the Qwiic ports.
 
 The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shields and cables that make prototyping faster and less prone to error. All Qwiic-enabled boards use a common 1mm pitch, 4-pin JST connector. This reduces the amount of required PCB space, and polarized connections mean you can’t hook it up wrong.
 
 Note: There is a small silk error that has reversed the SDA and SCL. This is simply a cosmetic mix-up and will not impact any function with this board.
- Get Started with the SparkFun Qwiic Pi HAT Guide               
-            
-                      
-              
+ Get Started with the SparkFun Qwiic Pi HAT Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14459</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -25,8 +23,8 @@ Note: There is a small silk error that has reversed the SDA and SCL. This is sim
 
 
 	<numComponents>13</numComponents>
-	<numOompComponents>9</numOompComponents>
-	<oompCompletion>69</oompCompletion>
+	<numOompComponents>12</numOompComponents>
+	<oompCompletion>92</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -53,7 +51,7 @@ Note: There is a small silk error that has reversed the SDA and SCL. This is sim
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_021X02_NO_SILK  eaglePackage: 1X02_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -102,14 +100,14 @@ Note: There is a small silk error that has reversed the SDA and SCL. This is sim
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>J12</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_021X02_NO_SILK  eaglePackage: 1X02_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  eagleValue: 3.3V/600mA  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

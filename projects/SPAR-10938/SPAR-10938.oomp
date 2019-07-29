@@ -5,13 +5,14 @@
 	<hexID>SPAR10938</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The BlueSMiRF HID is essentially the same board as the BlueSMiRF Silver but the populated RN-42 comes loaded with the HID firmware. HID, or "Human Interface Device," is the communication protocol used for computer peripherals such as keyboards, mice and joysticks. This makes the RN-42-HID a simple and powerful tool for creating wireless peripheral devices which can be universally recognized and used without the installation of special drivers. The manual included in the documentation below goes into more detail about the Bluetooth HID profile.
+	<oompAbout>(image and text from sparkfun.com)
+
+The BlueSMiRF HID is essentially the same board as the BlueSMiRF Silver but the populated RN-42 comes loaded with the HID firmware. HID, or "Human Interface Device," is the communication protocol used for computer peripherals such as keyboards, mice and joysticks. This makes the RN-42-HID a simple and powerful tool for creating wireless peripheral devices which can be universally recognized and used without the installation of special drivers. The manual included in the documentation below goes into more detail about the Bluetooth HID profile.
 The remote unit can be powered from 3.3V up to 6V for easy battery attachment. All signal pins on the remote unit are 3V-6V tolerant. No level shifting is required. Do not attach this device directly to a serial port. You will need an RS232 to TTL converter circuit if you need to attach this to a computer.
 Note: This is a single unit only. We recommend the purchase a USB dongle to interface to a computer if you do not already have access to a computer with Bluetooth connectivity.
 Specifications:
 
-FCC Approved Class 2 Bluetooth****Radio Modem
+FCC Approved Class 2 BluetoothRadio Modem
 Extremely small radio - 0.15x0.6x1.9"
 Very robust link both in integrity and transmission distance (18m)
 Hardy frequency hopping scheme - operates in harsh RF environments like WiFi, 802.11g, and Zigbee
@@ -20,11 +21,6 @@ Frequency: 2.402~2.480 GHz
 Operating Voltage: 3.3V-6V
 Operating Temperature: -40 ~ +70C
 Built-in antenna
-
-              
-            
-                      
-              
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/10938</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -34,8 +30,8 @@ Built-in antenna
 
 
 	<numComponents>18</numComponents>
-	<numOompComponents>14</numOompComponents>
-	<oompCompletion>78</oompCompletion>
+	<numOompComponents>17</numOompComponents>
+	<oompCompletion>94</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -76,14 +72,14 @@ Built-in antenna
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: MOSFET-NCHANNELSMD  eagleDevice: MOSFET-NCHANNELSMD  eaglePackage: SOT23-3</compID>
+		<compID>MOSN-SO23-X-A02D-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  eagleValue: MOSFET-NCHANNELSMD  eagleDevice: MOSFET-NCHANNELSMD  eaglePackage: SOT23-3</compID>
+		<compID>MOSN-SO23-X-A02D-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -160,7 +156,7 @@ Built-in antenna
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

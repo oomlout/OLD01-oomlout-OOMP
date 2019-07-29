@@ -5,13 +5,11 @@
 	<hexID>SPAR11835</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                Pianos are heavy and can take about a year to make. What if you could have one that weighed only a few grams and took a very small amount of time to construct? The SparkFun Gram Piano is a beginners soldering kit that, once assembled, gives you with a musical keyboard that will leave you feeling like a modern day Mozart. This kit provides you with the ability to play an octave worth of notes using the capacitive touch keys, no strings or hammers required! The pre-installed software also lets you play a melody with the press of a button and switch octaves using a soldered potentiometer.
+	<oompAbout>(image and text from sparkfun.com)
+
+Pianos are heavy and can take about a year to make. What if you could have one that weighed only a few grams and took a very small amount of time to construct? The SparkFun Gram Piano is a beginners soldering kit that, once assembled, gives you with a musical keyboard that will leave you feeling like a modern day Mozart. This kit provides you with the ability to play an octave worth of notes using the capacitive touch keys, no strings or hammers required! The pre-installed software also lets you play a melody with the press of a button and switch octaves using a soldered potentiometer.
 The Gram Piano is a simple through-hole kit with a fair part count, making it ideal for beginning solderers looking for a little more challenge. Like our other soldering kits, building and playing with this kit will teach you various skills related to soldering, electronics, and programming.
-Note: Be sure to check out the Quickstart Guide in the Documents section below for helpful tips and assembly instructions.              
-            
-                      
-              
+Note: Be sure to check out the Quickstart Guide in the Documents section below for helpful tips and assembly instructions.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/11835</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ Note: Be sure to check out the Quickstart Guide in the Documents section below f
 
 
 	<numComponents>31</numComponents>
-	<numOompComponents>21</numOompComponents>
-	<oompCompletion>68</oompCompletion>
+	<numOompComponents>24</numOompComponents>
+	<oompCompletion>77</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -70,21 +68,21 @@ Note: Be sure to check out the Quickstart Guide in the Documents section below f
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  eagleValue: AVR_SPI_PRG_6PTH  eagleDevice: AVR_SPI_PRG_6PTH  eaglePackage: 2X3</compID>
+		<compID>HEAD-I01-X-PI2X03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED5MM-KIT  eaglePackage: LED5MM-KIT</compID>
+		<compID>LEDS-05-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED5MM-KIT  eaglePackage: LED5MM-KIT</compID>
+		<compID>LEDS-05-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

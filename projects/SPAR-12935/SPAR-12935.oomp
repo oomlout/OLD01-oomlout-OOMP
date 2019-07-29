@@ -5,13 +5,11 @@
 	<hexID>SPAR12935</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun FTDI SmartBasic is a variation on our classic FTDI Basic board which allows you to connect a second device to the hardware serial port on an Arduino Pro, Pro Mini, or other USB-less board without compromising the ability to bootload code from the Arduino IDE. The FTDI SmartBasic hardware is pretty simple, it routes the serial signals from any board which uses the standard FTDI header footprint either to the programming PC via a USB-to-serial bridge or to any other device with a FTDI header.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun FTDI SmartBasic is a variation on our classic FTDI Basic board which allows you to connect a second device to the hardware serial port on an Arduino Pro, Pro Mini, or other USB-less board without compromising the ability to bootload code from the Arduino IDE. The FTDI SmartBasic hardware is pretty simple, it routes the serial signals from any board which uses the standard FTDI header footprint either to the programming PC via a USB-to-serial bridge or to any other device with a FTDI header.
 Normally, to use a device which requires a serial port resource on an Arduino board, you would have to use a software serial port or plug and unplug the device during programming. The SmartBasic board adds a multiplexer to the serial port pins coming from the Arduino, which allows the application code to switch the serial signals from the USB port to another device. No special code is required to enable programming, either!
-The SmartBasic uses the venerable FT232RL chip used on the original FTDI Basic boards and the TS3USB221A signal multiplexer from TI to make connecting to multiple serial devices easy. On this board you will find two main sets of headers, CLIENT (basically the same as the output header on a standard FTDI Basic board) and HOST (which can enable the application code to route serial data from the hardware port to either the USB serial bridge or the device connected to the HOST header). With this compact design and the power of TIs TS3USB221A multiplexer you should find no issues switching high-speed USB signals.              
-            
-                      
-              
+The SmartBasic uses the venerable FT232RL chip used on the original FTDI Basic boards and the TS3USB221A signal multiplexer from TI to make connecting to multiple serial devices easy. On this board you will find two main sets of headers, CLIENT (basically the same as the output header on a standard FTDI Basic board) and HOST (which can enable the application code to route serial data from the hardware port to either the USB serial bridge or the device connected to the HOST header). With this compact design and the power of TIs TS3USB221A multiplexer you should find no issues switching high-speed USB signals.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/12935</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ The SmartBasic uses the venerable FT232RL chip used on the original FTDI Basic b
 
 
 	<numComponents>19</numComponents>
-	<numOompComponents>15</numOompComponents>
-	<oompCompletion>79</oompCompletion>
+	<numOompComponents>16</numOompComponents>
+	<oompCompletion>84</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -147,7 +145,7 @@ The SmartBasic uses the venerable FT232RL chip used on the original FTDI Basic b
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  eagleValue: MIC5219 3.3V  eagleDevice: V_REG_MIC52193.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A05D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

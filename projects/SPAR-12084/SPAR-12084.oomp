@@ -5,13 +5,11 @@
 	<hexID>SPAR12084</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is the Sunny Buddy, a maximum power point tracking (MPPT) solar charger for single-cell LiPo batteries. This MPPT solar charger provide you with the ability to get the most possible power out of your solar panel or other photovoltaic device and into a rechargable LiPo battery. Set-up is easy as well, just plug your solar panel into one side of the Sunny Buddy and your battery into the other and you are good to start charging!
+	<oompAbout>(image and text from sparkfun.com)
+
+This is the Sunny Buddy, a maximum power point tracking (MPPT) solar charger for single-cell LiPo batteries. This MPPT solar charger provide you with the ability to get the most possible power out of your solar panel or other photovoltaic device and into a rechargable LiPo battery. Set-up is easy as well, just plug your solar panel into one side of the Sunny Buddy and your battery into the other and you are good to start charging!
 The output of the Sunny Buddy is intended to charge a single polymer lithium ion cell. The load should be connected in parallel with the battery. By default, the Sunny Buddy comes set to a maximum charge current of 450mA with a maximum recommended input of 20V (minimum 6V). It’s recommended that batteries not be charged at greater than their capacity rating; thus, the smallest battery that should be charged with the Sunny Buddy is 450mAh.
-Each Sunny Buddy comes equipped with a LT3652 power tracking 2A battery charging circuit and pre-installed barrel jack and 2-pin JST connectors with unpopulated areas to install your own personal 3.5mm screw terminals for added input/output options. This revision also adds a potentiometer to the input to set the holding voltage for MPPT and we've also tweeked the feedback resistors on the output to change the float voltage.              
-            
-                      
-              
+Each Sunny Buddy comes equipped with a LT3652 power tracking 2A battery charging circuit and pre-installed barrel jack and 2-pin JST connectors with unpopulated areas to install your own personal 3.5mm screw terminals for added input/output options. This revision also adds a potentiometer to the input to set the holding voltage for MPPT and we've also tweeked the feedback resistors on the output to change the float voltage.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/12084</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ Each Sunny Buddy comes equipped with a LT3652 power tracking 2A battery charging
 
 
 	<numComponents>25</numComponents>
-	<numOompComponents>11</numOompComponents>
-	<oompCompletion>44</oompCompletion>
+	<numOompComponents>13</numOompComponents>
+	<oompCompletion>52</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -84,7 +82,7 @@ Each Sunny Buddy comes equipped with a LT3652 power tracking 2A battery charging
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  eagleValue: 5.5x2.1mm Barrel  eagleDevice: POWER_JACKSMD  eaglePackage: POWER_JACK_SMD</compID>
+		<compID>DCJP-21D-X-SMDS-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -112,7 +110,7 @@ Each Sunny Buddy comes equipped with a LT3652 power tracking 2A battery charging
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  eagleValue: M02PTH  eagleDevice: M02PTH  eaglePackage: 1X02</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

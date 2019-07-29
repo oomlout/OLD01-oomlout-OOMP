@@ -5,13 +5,11 @@
 	<hexID>SPAR09351</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is a smaller version of our serial graphic LCD. The SparkFun Serial Graphic LCD backpack is soldered to the 128x64 pixel Graphic LCD and provides the user a simple serial interface to a full range of controls.
+	<oompAbout>(image and text from sparkfun.com)
+
+This is a smaller version of our serial graphic LCD. The SparkFun Serial Graphic LCD backpack is soldered to the 128x64 pixel Graphic LCD and provides the user a simple serial interface to a full range of controls.
 Besides writing text, this serial graphic LCD allows the user to draw lines, circles and boxes, set or reset individual pixels, erase specific blocks of the display, control the backlight and adjust the baud rate. Additionally, all source code for the ATMega168 processor is compiled using the free WinAVR compiler and is free for downloading.
-Check our serial graphic LCD tutorial!              
-            
-                      
-              
+Check our serial graphic LCD tutorial!
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9351</oompOfficialLink>
 	<company>Sparkfun</company>

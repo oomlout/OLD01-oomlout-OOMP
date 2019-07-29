@@ -5,13 +5,11 @@
 	<hexID>SPAR12731</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is the SparkFun USB to Serial Breakout for the FT232RL, a small board with a built in USB to serial UART
+	<oompAbout>(image and text from sparkfun.com)
+
+This is the SparkFun USB to Serial Breakout for the FT232RL, a small board with a built in USB to serial UART
 interface. This little breakout is built around the FT232RL IC from FTDI, with an internal oscillator, EEPROM, and a 28-pin SSOP package this is a serious little chip.
-With this version, we've corrected a few issues found with the board. These changes include fixes to the VCCIO, a change from the mini USB to micro USB connector, and a few footprint modifications. Other than finding this board much easier to use, it is still the same FT232RL breakout that you know and love!              
-            
-                      
-              
+With this version, we've corrected a few issues found with the board. These changes include fixes to the VCCIO, a change from the mini USB to micro USB connector, and a few footprint modifications. Other than finding this board much easier to use, it is still the same FT232RL breakout that you know and love!
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/12731</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ With this version, we've corrected a few issues found with the board. These chan
 
 
 	<numComponents>10</numComponents>
-	<numOompComponents>7</numOompComponents>
-	<oompCompletion>70</oompCompletion>
+	<numOompComponents>9</numOompComponents>
+	<oompCompletion>90</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -49,7 +47,7 @@ With this version, we've corrected a few issues found with the board. These chan
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  eagleValue: 500mA  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
+		<compID>REFU-1206-X-A05D-V8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -84,7 +82,7 @@ With this version, we've corrected a few issues found with the board. These chan
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPDTSMD  eaglePackage: AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

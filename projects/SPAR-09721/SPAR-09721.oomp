@@ -5,12 +5,10 @@
 	<hexID>SPAR09721</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                Now mounted on a breakout board, the MPL115A1 is a digital barometer that uses MEMs technology to give accurate pressure measurements between 50kPa and 115kPa. We stock the SPI interface version of the sensor. Average current consumption is 10µA at one measurement per second.
-The sensor outputs both temperature and pressure readings on the SPI bus. See page 3 of the datasheet for information on how to take readings from the pressure sensor.              
-            
-                      
-              
+	<oompAbout>(image and text from sparkfun.com)
+
+Now mounted on a breakout board, the MPL115A1 is a digital barometer that uses MEMs technology to give accurate pressure measurements between 50kPa and 115kPa. We stock the SPI interface version of the sensor. Average current consumption is 10µA at one measurement per second.
+The sensor outputs both temperature and pressure readings on the SPI bus. See page 3 of the datasheet for information on how to take readings from the pressure sensor.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9721</oompOfficialLink>
 	<company>Sparkfun</company>

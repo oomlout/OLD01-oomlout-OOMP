@@ -5,14 +5,12 @@
 	<hexID>SPAR10345</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is a breakout board for the ultra low-power LIS331HH three axis linear accelerometer. The device has a digital I2C/SPI serial interface which makes it ideal for using in embedded applications. All major pins are broken out to 0.1" spaced headers. It also includes two mounting holes as well.
+	<oompAbout>(image and text from sparkfun.com)
+
+This is a breakout board for the ultra low-power LIS331HH three axis linear accelerometer. The device has a digital I2C/SPI serial interface which makes it ideal for using in embedded applications. All major pins are broken out to 0.1" spaced headers. It also includes two mounting holes as well.
 The LIS331HH is an ultra low-power full-scale three axis MEMS linear accelerometer. It has a digital I2C/SPI serial interface which makes it ideal for using in embedded applications. The device also features ultra low-power operational modes that allow advanced power saving and smart sleep to wake-up functions.
 The LIS331HH has dynamically user selectable full scales of +-6g/+-12g/+-24g and is capable of measuring accelerations with output data rates from 0.5 Hz to 1kHz. The self-test capability allows the user to check the functioning of the sensor in the final application.
-Not sure which accelerometer is right for you? Our Accelerometer and Gyro Buying Guide might help!              
-            
-                      
-              
+Not sure which accelerometer is right for you? Our Accelerometer and Gyro Buying Guide might help!
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/10345</oompOfficialLink>
 	<company>Sparkfun</company>

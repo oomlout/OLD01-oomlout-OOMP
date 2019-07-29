@@ -5,13 +5,11 @@
 	<hexID>SPAR09963</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun RFID USB Reader is a simple to use, USB to serial base unit for the ID-3LA, ID-12LA, and ID-20LA readers. Simply plug a reader into the headers and attach a miniUSB cable. Open a terminal program of your choice at 9600bps 8N1, then scan your 125kHz ID tag and the unique 32-bit ID will be shown on the screen. The unit is based on a FTDI chip and comes with a read LED and buzzer.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun RFID USB Reader is a simple to use, USB to serial base unit for the ID-3LA, ID-12LA, and ID-20LA readers. Simply plug a reader into the headers and attach a miniUSB cable. Open a terminal program of your choice at 9600bps 8N1, then scan your 125kHz ID tag and the unique 32-bit ID will be shown on the screen. The unit is based on a FTDI chip and comes with a read LED and buzzer.
 This new revision uses SMD headers for the RFID module, and has a solder jumper which allows you to disable or enable the buzzer.
-Note: This product does not come with the RFID reader. Check below for compatible readers.              
-            
-                      
-              
+Note: This product does not come with the RFID reader. Check below for compatible readers.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9963</oompOfficialLink>
 	<company>Sparkfun</company>

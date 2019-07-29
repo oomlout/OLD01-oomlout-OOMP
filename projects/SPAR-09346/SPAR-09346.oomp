@@ -5,12 +5,10 @@
 	<hexID>SPAR09346</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The Arduino Mega now has its very own prototyping shield! The SparkFun MegaShield mates with the Arduino Mega board and gives the user a prototyping area, two general LEDs, and, most important of all, the Arduino Mega reset switch is brought to the top level. The shield also works with our small breadboards if you don't want to solder to the prototyping area.
-This comes in kit form and must be soldered together by the end user. Please note - we do not ship assembly instructions! All soldering is through-hole (relatively easy) but always check your component orientation before soldering!              
-            
-                      
-              
+	<oompAbout>(image and text from sparkfun.com)
+
+The Arduino Mega now has its very own prototyping shield! The SparkFun MegaShield mates with the Arduino Mega board and gives the user a prototyping area, two general LEDs, and, most important of all, the Arduino Mega reset switch is brought to the top level. The shield also works with our small breadboards if you don't want to solder to the prototyping area.
+This comes in kit form and must be soldered together by the end user. Please note - we do not ship assembly instructions! All soldering is through-hole (relatively easy) but always check your component orientation before soldering!
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9346</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -20,21 +18,21 @@ This comes in kit form and must be soldered together by the end user. Please not
 
 
 	<numComponents>6</numComponents>
-	<numOompComponents>3</numOompComponents>
-	<oompCompletion>50</oompCompletion>
+	<numOompComponents>5</numOompComponents>
+	<oompCompletion>83</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
+		<compID>LEDS-05-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  eagleValue: Green  eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
+		<compID>LEDS-05-G-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

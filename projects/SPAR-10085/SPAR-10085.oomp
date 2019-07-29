@@ -5,13 +5,11 @@
 	<hexID>SPAR10085</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The LilyPad Simple Power is a simple e-textile board with a 500mA charge rate that lets you connect and charge a lipo battery and switch it on or off, that's it! We provide you with a JST connector and a slide switch, you supply the battery and sewing skills! With this LilyPad Simple Power, you should find no trouble in added a bit of power to your next wearable circuit.
+	<oompAbout>(image and text from sparkfun.com)
+
+The LilyPad Simple Power is a simple e-textile board with a 500mA charge rate that lets you connect and charge a lipo battery and switch it on or off, that's it! We provide you with a JST connector and a slide switch, you supply the battery and sewing skills! With this LilyPad Simple Power, you should find no trouble in added a bit of power to your next wearable circuit.
 LilyPad is a wearable e-textile technology developed by Leah Buechley and cooperatively designed by Leah and SparkFun. Each LilyPad was creatively designed to have large connecting pads to allow them to be sewn into clothing. Various input, output, power, and sensor boards are available. They're even washable!
-Note: A portion of this sale is given back to Dr. Leah Buechley for continued development and education of e-textiles.              
-            
-                      
-              
+Note: A portion of this sale is given back to Dr. Leah Buechley for continued development and education of e-textiles.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/10085</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 
 
 	<numComponents>7</numComponents>
-	<numOompComponents>5</numOompComponents>
-	<oompCompletion>71</oompCompletion>
+	<numOompComponents>7</numOompComponents>
+	<oompCompletion>100</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -63,14 +61,14 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  eagleValue: DPDT  eagleDevice: SWITCH-DPDTAYZ0202  eaglePackage: AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  eagleValue: MCP73831  eagleDevice: MCP73831  eaglePackage: SOT23-5</compID>
+		<compID>ICIC-SO235-X-K73831-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

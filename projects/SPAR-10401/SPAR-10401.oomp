@@ -5,13 +5,11 @@
 	<hexID>SPAR10401</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                If you need to charge LiPo batteries, this simple charger will do just that. It is designed to charge single-cell Li-Ion or Li-Polymer batteries. Check the datasheet below to see if it will work with your battery.
+	<oompAbout>(image and text from sparkfun.com)
+
+If you need to charge LiPo batteries, this simple charger will do just that. It is designed to charge single-cell Li-Ion or Li-Polymer batteries. Check the datasheet below to see if it will work with your battery.
 The board incorporates a charging circuit, status LED, connector for your battery (JST-type used in the batteries we carry), and a mini-USB connector. However, we do not recommend this charger with a 110mAh battery.
-Note: This version uses a mini-USB cable. We also have this charger with a micro-USB connection as well.              
-            
-                      
-              
+Note: This version uses a mini-USB cable. We also have this charger with a micro-USB connection as well.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/10401</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ Note: This version uses a mini-USB cable. We also have this charger with a micro
 
 
 	<numComponents>7</numComponents>
-	<numOompComponents>5</numOompComponents>
-	<oompCompletion>71</oompCompletion>
+	<numOompComponents>6</numOompComponents>
+	<oompCompletion>86</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -63,7 +61,7 @@ Note: This version uses a mini-USB cable. We also have this charger with a micro
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  eagleValue: MCP73831  eagleDevice: MCP73831  eaglePackage: SOT23-5</compID>
+		<compID>ICIC-SO235-X-K73831-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

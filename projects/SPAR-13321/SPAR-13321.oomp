@@ -5,13 +5,11 @@
 	<hexID>SPAR13321</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun Photon RedBoard, to put it simply, is a WiFi/Microcontroller development board in the Arduino form-factor for the Photon. It's easy to use, it's powerful, and it's connected to the cloud. With the best support, potential, and performance the Photon RedBoard provides you with an IoT device with a powerful 120MHz ARM Cortex M3 and built-in WiFi connectivity. Imagine blowing up a Photon into the shape of an Arduino and while keeping its wireless and ARM Cortex M3 capabilities, the result is this board!
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun Photon RedBoard, to put it simply, is a WiFi/Microcontroller development board in the Arduino form-factor for the Photon. It's easy to use, it's powerful, and it's connected to the cloud. With the best support, potential, and performance the Photon RedBoard provides you with an IoT device with a powerful 120MHz ARM Cortex M3 and built-in WiFi connectivity. Imagine blowing up a Photon into the shape of an Arduino and while keeping its wireless and ARM Cortex M3 capabilities, the result is this board!
 The SparkFun Photon RedBoard has been based around the P1 Particle Module. Each P1 comes pre-loaded with Particle OS firmware and includes their basic cloud service. With a built-in antenna and a uFL connector, the P1 makes it so you don't have to stress over the optimization of RF designs.
-The Photon RedBoard has all of the hardware peripherals you know and love: 8 Digital I/O pins, 6 Analog Inputs, UART, SPI and ARM JTAG hook-ups. We’ve also broken out the SDA, SCL, SCK, MISO, MOSI, SS, DAC, and WKP pins as well. You can power the Photon RedBoard over USB or through the barrel jack. The on-board power regulator can handle anything from 4.5 to 15VDC. It is important to keep in mind that the Photon RedBoard utilizes the Arduino form factor, meaning you can attach many different Arduino shields to this board. Please be sure to check your pin-outs and voltage levels first.              
-            
-                      
-              
+The Photon RedBoard has all of the hardware peripherals you know and love: 8 Digital I/O pins, 6 Analog Inputs, UART, SPI and ARM JTAG hook-ups. We’ve also broken out the SDA, SCL, SCK, MISO, MOSI, SS, DAC, and WKP pins as well. You can power the Photon RedBoard over USB or through the barrel jack. The on-board power regulator can handle anything from 4.5 to 15VDC. It is important to keep in mind that the Photon RedBoard utilizes the Arduino form factor, meaning you can attach many different Arduino shields to this board. Please be sure to check your pin-outs and voltage levels first.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13321</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ The Photon RedBoard has all of the hardware peripherals you know and love: 8 Dig
 
 
 	<numComponents>30</numComponents>
-	<numOompComponents>24</numOompComponents>
-	<oompCompletion>80</oompCompletion>
+	<numOompComponents>26</numOompComponents>
+	<oompCompletion>87</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -112,7 +110,7 @@ The Photon RedBoard has all of the hardware peripherals you know and love: 8 Dig
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: DIODE-SCHOTTKY-MBRA140  eaglePackage: SMA-DIODE</compID>
+		<compID>DIOS-D214-X-A01-V40</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -231,7 +229,7 @@ The Photon RedBoard has all of the hardware peripherals you know and love: 8 Dig
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: V_REG_LM1117SOT223  eaglePackage: SOT223</compID>
+		<compID>VREG-SO223-X-V33D-A08D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

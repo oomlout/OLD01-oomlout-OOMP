@@ -5,13 +5,11 @@
 	<hexID>SPAR13830</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The CY7C65213 USB to UART serial breakout is designed to provide users with a means to access all available I/O pins on the IC, and to provide a 6-pin UART header that is compatible with other SparkFun breakout boards. This breakout has a microUSB connector and other support circuitry to get the IC quickly up and running.
+	<oompAbout>(image and text from sparkfun.com)
+
+The CY7C65213 USB to UART serial breakout is designed to provide users with a means to access all available I/O pins on the IC, and to provide a 6-pin UART header that is compatible with other SparkFun breakout boards. This breakout has a microUSB connector and other support circuitry to get the IC quickly up and running.
 The CY7C65213 breakout is equipped with a micro-B USB port, USB signal lines, a VIO selection jumper, a low-voltage selection jumper, and a multitude of pins that allow you to utilize the board to its fullest potential. The CY7C65213 breakout is capable of operating at both 3V and 5V based on what the VIO selection jumper is set to. Additionally this breakout can operate at 2V and below.
- Get Started with the CY7C65213 Breakout Guide               
-            
-                      
-              
+ Get Started with the CY7C65213 Breakout Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13830</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ The CY7C65213 breakout is equipped with a micro-B USB port, USB signal lines, a 
 
 
 	<numComponents>23</numComponents>
-	<numOompComponents>12</numOompComponents>
-	<oompCompletion>52</oompCompletion>
+	<numOompComponents>16</numOompComponents>
+	<oompCompletion>70</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -126,7 +124,7 @@ The CY7C65213 breakout is equipped with a micro-B USB port, USB signal lines, a 
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: M02PTH  eaglePackage: 1X02</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -140,14 +138,14 @@ The CY7C65213 breakout is equipped with a micro-B USB port, USB signal lines, a 
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: M12PTH  eaglePackage: 1X12</compID>
+		<compID>HEAD-I01-X-PI12-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: M12PTH  eaglePackage: 1X12</compID>
+		<compID>HEAD-I01-X-PI12-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -182,7 +180,7 @@ The CY7C65213 breakout is equipped with a micro-B USB port, USB signal lines, a 
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

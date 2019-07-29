@@ -5,15 +5,13 @@
 	<hexID>SPAR14051</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun Wireless Joystick Kit provides an easy way to control your next XBee project. Before the wireless joystick, radio-controlled projects used hobby RC transmitters, the same ones used for RC cars, boats and planes. The problem with these transmitters is that many aren’t customizable, and the ones that are tend to be too expensive for many of us. The Wireless Joystick Kit offers a custom wireless solution for those who want to control their project their own way.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun Wireless Joystick Kit provides an easy way to control your next XBee project. Before the wireless joystick, radio-controlled projects used hobby RC transmitters, the same ones used for RC cars, boats and planes. The problem with these transmitters is that many aren’t customizable, and the ones that are tend to be too expensive for many of us. The Wireless Joystick Kit offers a custom wireless solution for those who want to control their project their own way.
 Equipped with the increasingly popular SAMD21 onboard, all you need is to assemble the SparkFun Wireless Joystick into the configuration you want and add your own XBee and lithium ion battery into the provided sockets. The Wireless Joystick Kit can be assembled into a configuration that utilizes dual joysticks for better RC steering robots (like tanks) or a single joystick configuration with four 12mm momentary pushbuttons (a setup similar to what older game consoles used). We have provided a full Hookup Guide that gives assembly instructions, as well as a tank-steering motor controller tutorial to help get you started!
 Please be aware that the SparkFun Wireless Joystick Kit is NOT supported on Windows 7/8 due to a lack of support drivers for those specific OS's.
 Note: This kit will need to be assembled before use, so a beginner's knowledge of soldering will be required. Additionally, in an effort to keep shipping rates down and make this kit available to people throughout the world without delay, there is no XBee or lithium ion battery included.
- Get Started with the Wireless Joystick Kit Guide               
-            
-                      
-              
+ Get Started with the Wireless Joystick Kit Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14051</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -23,8 +21,8 @@ Note: This kit will need to be assembled before use, so a beginner's knowledge o
 
 
 	<numComponents>61</numComponents>
-	<numOompComponents>35</numOompComponents>
-	<oompCompletion>57</oompCompletion>
+	<numOompComponents>47</numOompComponents>
+	<oompCompletion>77</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -149,14 +147,14 @@ Note: This kit will need to be assembled before use, so a beginner's knowledge o
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>D6</compIden>
-		<compID>NOT OOMP  eagleValue: 1A/23V/620mV  eagleDevice: DIODE-SCHOTTKY-BAT20J  eaglePackage: SOD-323</compID>
+		<compID>DIOS-S323-X-A01-V23</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  eagleValue: 500mA  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
+		<compID>REFU-1206-X-A05D-V8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -184,7 +182,7 @@ Note: This kit will need to be assembled before use, so a beginner's knowledge o
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: I2C_STANDARD_NO_SILK  eaglePackage: 1X04_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI04-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -198,7 +196,7 @@ Note: This kit will need to be assembled before use, so a beginner's knowledge o
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>J6</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: M021X02_NO_SILK  eaglePackage: 1X02_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -219,7 +217,7 @@ Note: This kit will need to be assembled before use, so a beginner's knowledge o
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: 2.5A/30V  eagleDevice: MOSFET-PCHANNELDMG2307L  eaglePackage: SOT23-3at1REPLACE</compID>
+		<compID>MOSP-SO23-X-A25D-V30</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -338,28 +336,28 @@ Note: This kit will need to be assembled before use, so a beginner's knowledge o
 	<component>
 		<compIndex>45</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-MOMENTARY-212MM  eaglePackage: TACTILE-PTH-12MM</compID>
+		<compID>BUTA-12-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>46</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-MOMENTARY-212MM  eaglePackage: TACTILE-PTH-12MM</compID>
+		<compID>BUTA-12-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>47</compIndex>
 		<compIden>S3</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-MOMENTARY-212MM  eaglePackage: TACTILE-PTH-12MM</compID>
+		<compID>BUTA-12-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>48</compIndex>
 		<compIden>S4</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-MOMENTARY-212MM  eaglePackage: TACTILE-PTH-12MM</compID>
+		<compID>BUTA-12-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -387,7 +385,7 @@ Note: This kit will need to be assembled before use, so a beginner's knowledge o
 	<component>
 		<compIndex>52</compIndex>
 		<compIden>S8</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: MOMENTARY-SWITCH-SPST-SMD-4.6X2.8MM  eaglePackage: TACTILE_SWITCH_SMD_4.6X2.8MM</compID>
+		<compID>BUTA-4632-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -415,7 +413,7 @@ Note: This kit will need to be assembled before use, so a beginner's knowledge o
 	<component>
 		<compIndex>56</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  eagleValue: AP2112K-3.3V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -436,7 +434,7 @@ Note: This kit will need to be assembled before use, so a beginner's knowledge o
 	<component>
 		<compIndex>59</compIndex>
 		<compIden>U7</compIden>
-		<compID>NOT OOMP  eagleValue: MCP73831  eagleDevice: MCP73831  eaglePackage: SOT23-5</compID>
+		<compID>ICIC-SO235-X-K73831-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

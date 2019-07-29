@@ -5,18 +5,16 @@
 	<hexID>SPAR14641</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun Qwiic OpenLog is the smarter and better looking cousin to the extremely popular OpenLog but now we've ported the original serial based interface to I2C! Thanks to the added Qwiic connectors, you can daisy chain multiple I2C devices and log them all without taking up your serial port. The Qwiic OpenLog can store, or "log", huge amounts of serial data and act as a black box of sorts to store all the data that your project generates, for scientific or debugging purposes. Utilizing our handy Qwiic system, no soldering is required to connect it to the rest of your system. However, we still have broken out 0.1"-spaced pins in case you prefer to use a breadboard.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun Qwiic OpenLog is the smarter and better looking cousin to the extremely popular OpenLog but now we've ported the original serial based interface to I2C! Thanks to the added Qwiic connectors, you can daisy chain multiple I2C devices and log them all without taking up your serial port. The Qwiic OpenLog can store, or "log", huge amounts of serial data and act as a black box of sorts to store all the data that your project generates, for scientific or debugging purposes. Utilizing our handy Qwiic system, no soldering is required to connect it to the rest of your system. However, we still have broken out 0.1"-spaced pins in case you prefer to use a breadboard.
 Like its predecessor, the SparkFun Qwiic OpenLog runs off of an onboard ATmega328, running at 16MHz thanks to the onboard resonator. The ATmega328 has been sure to feature the Optiboot bootloader loaded, which allows the OpenLog to be compatible with the “Arduino Uno” board setting in the Arduino IDE. It is important to be aware that the Qwiic OpenLog draws approximately 2mA-6mA in idle (nothing to record) mode, however, during a full record the OpenLog can draw 20mA to 23mA depending on the microSD card being used.
 The Qwiic OpenLog also supports clock stretching, which means it performs even better than the original and will record data up to 20,000 bytes per second at 400kHz. As the receive buffer fills up this OpenLog will hold the clock line, letting the master know that it is busy. Once the Qwiic OpenLog is finished with a task, it releases the clock thus allowing the data to continue flowing without corruption.
 Note: The SparkFun Qwiic OpenLog supports 64MB to 32GB microSD cards in both FAT16 and FAT32 formats.
 
 The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shields and cables that make prototyping faster and less prone to error. All Qwiic-enabled boards use a common 1mm pitch, 4-pin JST connector. This reduces the amount of required PCB space, and polarized connections mean you can’t hook it up wrong.
 
- Get Started With the SparkFun Qwiic OpenLog Guide               
-            
-                      
-              
+ Get Started With the SparkFun Qwiic OpenLog Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14641</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -26,8 +24,8 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 
 
 	<numComponents>21</numComponents>
-	<numOompComponents>14</numOompComponents>
-	<oompCompletion>67</oompCompletion>
+	<numOompComponents>18</numOompComponents>
+	<oompCompletion>86</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -96,7 +94,7 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  eagleValue: PTH  eagleDevice: I2C_STANDARD_NO_SILK  eaglePackage: 1X04_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI04-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -110,21 +108,21 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  eagleValue: ISP  eagleDevice: AVR_SPI_PROG_3X2TESTPOINTS  eaglePackage: 2X3_TEST_POINTS</compID>
+		<compID>HEAD-I01-X-PI2X03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>J6</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_06NO_SILK_NO_POP  eaglePackage: 1X06_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI06-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: 16MHZ  eagleDevice: RESONATOR16MHZ  eaglePackage: RESONATOR-SMD</compID>
+		<compID>CERE-1263-X-MZ16-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

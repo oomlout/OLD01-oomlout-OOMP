@@ -5,13 +5,11 @@
 	<hexID>SPAR12867</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                You don’t have the power? Well, there’s no need to ask Scotty – the SparkFun Benchtop Power Board Kit has your back. This board will let you take advantage of your power supply to create a benchtop power supply with enough juice to run almost any of your embedded electronics projects.
+	<oompAbout>(image and text from sparkfun.com)
+
+You don’t have the power? Well, there’s no need to ask Scotty – the SparkFun Benchtop Power Board Kit has your back. This board will let you take advantage of your power supply to create a benchtop power supply with enough juice to run almost any of your embedded electronics projects.
 The benchtop power board kit was created to provide quick access to the typical voltages needed when developing physical computing projects (embedded systems). After assembling the kit you'll have access to four different voltages (3.3V, 5V, 12V and -12V) each with their own replaceable 5A fuse. Each power rail has a corresponding ground connection; all of the power rails are brought out to a binding post. The benchtop power board should be powered by a standard computer power supply with an ATX connector. With this rev we have finally added a power switch and made each standoff to a more appropriate height to fit the mounting posts.
-This kit is simple to put together and shouldn't take more than 30-45 minutes for a beginner.              
-            
-                      
-              
+This kit is simple to put together and shouldn't take more than 30-45 minutes for a beginner.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/12867</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ This kit is simple to put together and shouldn't take more than 30-45 minutes fo
 
 
 	<numComponents>16</numComponents>
-	<numOompComponents>1</numOompComponents>
-	<oompCompletion>6</oompCompletion>
+	<numOompComponents>2</numOompComponents>
+	<oompCompletion>13</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -63,7 +61,7 @@ This kit is simple to put together and shouldn't take more than 30-45 minutes fo
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue: RED  eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
+		<compID>LEDS-05-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

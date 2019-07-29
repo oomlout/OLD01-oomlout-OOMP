@@ -5,15 +5,13 @@
 	<hexID>SPAR09453</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This version of the QRE1113 breakout board features an easy-to-use analog output, which will vary depending on the amount of IR light reflected back to the sensor. This tiny board is perfect for line sensing applications and can be used in both 3.3V and 5V systems.
+	<oompAbout>(image and text from sparkfun.com)
+
+This version of the QRE1113 breakout board features an easy-to-use analog output, which will vary depending on the amount of IR light reflected back to the sensor. This tiny board is perfect for line sensing applications and can be used in both 3.3V and 5V systems.
 The board's QRE1113 IR reflectance sensor is comprised of two parts - an IR emitting LED and an IR sensitive phototransistor. When you apply power to the VCC and GND pins the IR LED inside the sensor will illuminate. A 100O resistor is on-board and placed in series with the LED to limit current. A 10kO resistor pulls the output pin high, but when the light from the LED is reflected back onto the phototransistor the output will begin to go lower. The more IR light sensed by the phototransistor, the lower the output voltage of the breakout board.
 These sensors are widely used in line following robots - white surfaces reflect much more light than black, so, when directed towards a white surface, the voltage output will be lower than that on a black surface.
 The power input and analog output pins are brought out to a 3-pin, 0.1" pitch header. The board also has a single mounting hole if you want to screw the board onto something.
-We also have a digital version of this board.              
-            
-                      
-              
+We also have a digital version of this board.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9453</oompOfficialLink>
 	<company>Sparkfun</company>

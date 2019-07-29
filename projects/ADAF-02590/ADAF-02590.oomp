@@ -5,7 +5,9 @@
 	<hexID>ADAF02590</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
+	<oompAbout>(image and text from adafruit.com)
+
+
 Adafruit-METRO-328-PCB
 PCB files for the Adafruit METRO 328
 
@@ -29,8 +31,8 @@ All text above must be included in any redistribution
 
 
 	<numComponents>30</numComponents>
-	<numOompComponents>18</numOompComponents>
-	<oompCompletion>60</oompCompletion>
+	<numOompComponents>20</numOompComponents>
+	<oompCompletion>67</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -113,7 +115,7 @@ All text above must be included in any redistribution
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  eagleValue: MBR120  eagleDevice: DIODE-SCHOTTKYSOD-123  eaglePackage: SOD-123</compID>
+		<compID>DIOS-S123-X-A01-V20</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -183,7 +185,7 @@ All text above must be included in any redistribution
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>RESET</compIden>
-		<compID>NOT OOMP  eagleValue: KMR2  eagleDevice: SWITCH_TACT_SMT4.6X2.8  eaglePackage: BTN_KMR2_4.6X2.8</compID>
+		<compID>BUTA-4628-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -5,16 +5,14 @@
 	<hexID>SPAR09873</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is the newest revision of our FTDI Basic. We now use a SMD 6-pin header on the bottom, which makes it smaller and more compact. Functionality has remained the same.
+	<oompAbout>(image and text from sparkfun.com)
+
+This is the newest revision of our FTDI Basic. We now use a SMD 6-pin header on the bottom, which makes it smaller and more compact. Functionality has remained the same.
 This is a basic breakout board for the FTDI FT232RL USB to serial IC. The pinout of this board matches the FTDI cable to work with official Arduino and cloned 3.3V Arduino boards. It can also be used for general serial applications. The major difference with this board is that it brings out the DTR pin as opposed to the RTS pin of the FTDI cable. The DTR pin allows an Arduino target to auto-reset when a new Sketch is downloaded. This is a really nice feature to have and allows a sketch to be downloaded without having to hit the reset button. This board will auto reset any Arduino board that has the reset pin brought out to a 6-pin connector.
 The pins labeled BLK and GRN correspond to the colored wires on the FTDI cable. The black wire on the FTDI cable is GND, green is DTR. Use these BLK and GRN pins to align the FTDI basic board with your Arduino target.
 There are pros and cons to the FTDI Cable vs the FTDI Basic. This board has TX and RX LEDs that allow you to actually see serial traffic on the LEDs to verify if the board is working, but this board requires a Mini-B cable. The FTDI Cable is well protected against the elements, but is large and cannot be embedded into a project as easily. The FTDI Basic uses DTR to cause a hardware reset where the FTDI cable uses the RTS signal.
 This board was designed to decrease the cost of Arduino development and increase ease of use (the auto-reset feature rocks!). Our Arduino Pro and LilyPad boards use this type of connector.
-Note: We know a lot of you prefer microUSB over miniUSB. Never fear, we've got you covered! Check out our FT231X Breakout for your micro FTDI needs!              
-            
-                      
-              
+Note: We know a lot of you prefer microUSB over miniUSB. Never fear, we've got you covered! Check out our FT231X Breakout for your micro FTDI needs!
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9873</oompOfficialLink>
 	<company>Sparkfun</company>

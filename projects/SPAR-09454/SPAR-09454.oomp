@@ -5,15 +5,13 @@
 	<hexID>SPAR09454</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This version of the QRE1113 breakout board features a digital output, using a capacitor discharge circuit to measure the amount of reflection. This tiny board is perfect for line sensing when only digital I/O is available, and can be used in both 3.3V and 5V systems.
+	<oompAbout>(image and text from sparkfun.com)
+
+This version of the QRE1113 breakout board features a digital output, using a capacitor discharge circuit to measure the amount of reflection. This tiny board is perfect for line sensing when only digital I/O is available, and can be used in both 3.3V and 5V systems.
 The board's QRE1113 IR reflectance sensor is comprised of two parts - an IR emitting LED and an IR sensitive phototransistor. When you apply power to the VCC and GND pins the IR LED inside the sensor will illuminate. A 100O resistor is on-board and placed in series with the LED to limit current. The output of the phototransistor is tied to a 10nF capacitor. The faster that capacitor discharges, the more reflective the surface is.
 These sensors are widely used in line following robots. White surfaces reflect more light than black, so, when directed towards a white surface, the capacitor will discharge faster than it would when pointed towards a black surface.
 The power input and output pins are brought out to a 3-pin, 0.1" pitch header. The board also has a single mounting hole if you want to screw it onto something.
-We also have an analog version of this board.              
-            
-                      
-              
+We also have an analog version of this board.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9454</oompOfficialLink>
 	<company>Sparkfun</company>

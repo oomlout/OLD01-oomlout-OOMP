@@ -5,8 +5,9 @@
 	<hexID>SPAR14484</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun gator:bit is an all-in-one “carrier” board for your micro:bit that provides you with a fully functional development and prototyping platform. Almost every pin on the micro:bit is broken out to pads that alligator (or crocodile, if you prefer) clips so you can get the most out of it! Whether it is data visualization using the five on-board addressable LEDs, capacitive touch sensing on pins 0, 1, andamp; 2, or creating musical works of art using the built-in speaker we’ve got it covered with the with the SparkFun gator:bit!
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun gator:bit is an all-in-one “carrier” board for your micro:bit that provides you with a fully functional development and prototyping platform. Almost every pin on the micro:bit is broken out to pads that alligator (or crocodile, if you prefer) clips so you can get the most out of it! Whether it is data visualization using the five on-board addressable LEDs, capacitive touch sensing on pins 0, 1, andamp; 2, or creating musical works of art using the built-in speaker we’ve got it covered with the with the SparkFun gator:bit!
 The major benefit of gator:bit that we have provided is safe access to as many GPIO as possible from the micro:bit. Not only are pins 0, 1, 2, 8, 16, 5 (Button A), and 11 (Button B) broken out, but they are also protected against over voltage and over current/short circuit. Pins 0, 1, and 2 are ADC pins and are also the capacitive touch pins. Pins 8, 16, 5, and 11 are digital pins capable of read and write. Additionally, pins 13 (SPI), 14(SPI), 15(SPI), 19 (I2C), and 20 (I2C) can be used to read and write whatever digital signals you could want. We go into much more detail about each pin and other attributes (like supplying voltage out, light, and sound) in the SparkFun gator:bit Guide found below. Make sure to check that out!
 Each SparkFun gator:bit can be powered from 2.7V - 9V giving you quite a range of powering options. There are two ways of powering your gator:bit, either from the JST battery terminal or the alligator clip pads labeled “VIN”. Any voltage input between 2.7V and 9V will be regulated to 3.3V to power the micro:bit, the speaker, and for use by any of the alligator clip pins.
 Even without any external hardware the gator:bit is still an exploratory development board for micro:bit allowing the easiest access to it for educators, beginners, and pro-makers alike.
@@ -14,10 +15,7 @@ Even without any external hardware the gator:bit is still an exploratory develop
 The micro:bit is a pocket-sized computer that lets you get creative with digital technology. Between the micro:bit and our shield-like bit boards you can do almost anything while coding, customizing and controlling your micro:bit from almost anywhere! You can use your micro:bit for all sorts of unique creations, from robots to musical instruments and more. At half the size of a credit card, this versatile board has vast potential!
 
 Note: The SparkFun gator:bit does NOT include a micro:bit board. The micro:bit will need to be purchased separately.
- Get Started with the SparkFun gator:bit Guide               
-            
-                      
-              
+ Get Started with the SparkFun gator:bit Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14484</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -26,9 +24,9 @@ Note: The SparkFun gator:bit does NOT include a micro:bit board. The micro:bit w
 
 
 
-	<numComponents>83</numComponents>
-	<numOompComponents>38</numOompComponents>
-	<oompCompletion>46</oompCompletion>
+	<numComponents>66</numComponents>
+	<numOompComponents>44</numOompComponents>
+	<oompCompletion>67</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -174,7 +172,7 @@ Note: The SparkFun gator:bit does NOT include a micro:bit board. The micro:bit w
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>D6</compIden>
-		<compID>NOT OOMP  eagleValue: 1A/23V/620mV  eagleDevice: DIODE-SCHOTTKY-BAT20J  eaglePackage: SOD-323</compID>
+		<compID>DIOS-S323-X-A01-V23</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -251,362 +249,243 @@ Note: The SparkFun gator:bit does NOT include a micro:bit board. The micro:bit w
 	<component>
 		<compIndex>32</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  eagleValue: 6V/0.5A  eagleDevice: PPTC_HALF-AMP  eaglePackage: 1206</compID>
+		<compID>REFU-1206-X-A05D-V8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>33</compIndex>
-		<compIden>J1</compIden>
-		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>34</compIndex>
-		<compIden>J2</compIden>
-		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>35</compIndex>
-		<compIden>J3</compIden>
-		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>36</compIndex>
-		<compIden>J4</compIden>
-		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>37</compIndex>
 		<compIden>J5</compIden>
 		<compID>JSTS-02-X-PI02-RS</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>38</compIndex>
-		<compIden>J6</compIden>
-		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>39</compIndex>
-		<compIden>J7</compIden>
-		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>40</compIndex>
-		<compIden>J8</compIden>
-		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>41</compIndex>
-		<compIden>J9</compIden>
-		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>42</compIndex>
-		<compIden>J10</compIden>
-		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>43</compIndex>
-		<compIden>J11</compIden>
-		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>44</compIndex>
-		<compIden>J12</compIden>
-		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>45</compIndex>
-		<compIden>J13</compIden>
-		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>46</compIndex>
-		<compIden>J14</compIden>
-		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>47</compIndex>
-		<compIden>J15</compIden>
-		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>48</compIndex>
-		<compIden>J16</compIden>
-		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>49</compIndex>
-		<compIden>J17</compIden>
-		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>50</compIndex>
-		<compIden>J18</compIden>
-		<compID>NOT OOMP  eagleValue: GATOR  eagleDevice: GATOR  eaglePackage: GATOR</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>51</compIndex>
+		<compIndex>34</compIndex>
 		<compIden>L1</compIden>
 		<compID>NOT OOMP  eagleValue: 1.5uH  eagleDevice: INDUCTOR-XFL40201.5UH  eaglePackage: XFL4020</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>52</compIndex>
+		<compIndex>35</compIndex>
 		<compIden>LS1</compIden>
 		<compID>NOT OOMP  eagleValue: BUZZER-SMD  eagleDevice: BUZZER-SMD  eaglePackage: BUZZER-CCV</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>53</compIndex>
+		<compIndex>36</compIndex>
 		<compIden>R1</compIden>
 		<compID>RESE-0603-X-O104-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>54</compIndex>
+		<compIndex>37</compIndex>
 		<compIden>R2</compIden>
 		<compID>NOT OOMP  eagleValue: 10.2K  eagleDevice: 10.2KOHM  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>55</compIndex>
+		<compIndex>38</compIndex>
 		<compIden>R3</compIden>
 		<compID>NOT OOMP  eagleValue: 523k  eagleDevice: 523KOHMOHMS-0603-1/10W-1%  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>56</compIndex>
+		<compIndex>39</compIndex>
 		<compIden>R4</compIden>
 		<compID>RESE-0603-X-O104-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>57</compIndex>
+		<compIndex>40</compIndex>
 		<compIden>R5</compIden>
 		<compID>RESE-0603-X-O394-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>58</compIndex>
+		<compIndex>41</compIndex>
 		<compIden>R6</compIden>
 		<compID>RESE-0603-X-O911-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>59</compIndex>
+		<compIndex>42</compIndex>
 		<compIden>R7</compIden>
 		<compID>NOT OOMP  eagleValue: 604  eagleDevice: 604OHMOHMS-0603-1/10W-1%  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>60</compIndex>
+		<compIndex>43</compIndex>
 		<compIden>R8</compIden>
 		<compID>RESE-0603-X-O911-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>61</compIndex>
+		<compIndex>44</compIndex>
 		<compIden>R9</compIden>
 		<compID>NOT OOMP  eagleValue: 604  eagleDevice: 604OHMOHMS-0603-1/10W-1%  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>62</compIndex>
+		<compIndex>45</compIndex>
 		<compIden>R10</compIden>
 		<compID>RESE-0603-X-O911-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>63</compIndex>
+		<compIndex>46</compIndex>
 		<compIden>R11</compIden>
 		<compID>NOT OOMP  eagleValue: 604  eagleDevice: 604OHMOHMS-0603-1/10W-1%  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>64</compIndex>
+		<compIndex>47</compIndex>
 		<compIden>R12</compIden>
 		<compID>RESE-0603-X-O241-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>65</compIndex>
+		<compIndex>48</compIndex>
 		<compIden>R13</compIden>
 		<compID>NOT OOMP  eagleValue: 604  eagleDevice: 604OHMOHMS-0603-1/10W-1%  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>66</compIndex>
+		<compIndex>49</compIndex>
 		<compIden>R14</compIden>
 		<compID>RESE-0603-X-O911-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>67</compIndex>
+		<compIndex>50</compIndex>
 		<compIden>R15</compIden>
 		<compID>NOT OOMP  eagleValue: 604  eagleDevice: 604OHMOHMS-0603-1/10W-1%  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>68</compIndex>
+		<compIndex>51</compIndex>
 		<compIden>R16</compIden>
 		<compID>RESE-0603-X-O911-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>69</compIndex>
+		<compIndex>52</compIndex>
 		<compIden>R17</compIden>
 		<compID>NOT OOMP  eagleValue: 604  eagleDevice: 604OHMOHMS-0603-1/10W-1%  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>70</compIndex>
+		<compIndex>53</compIndex>
 		<compIden>R18</compIden>
 		<compID>RESE-0603-X-O911-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>71</compIndex>
+		<compIndex>54</compIndex>
 		<compIden>R19</compIden>
 		<compID>NOT OOMP  eagleValue: 604  eagleDevice: 604OHMOHMS-0603-1/10W-1%  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>72</compIndex>
+		<compIndex>55</compIndex>
 		<compIden>R20</compIden>
 		<compID>RESE-0603-X-O911-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>73</compIndex>
+		<compIndex>56</compIndex>
 		<compIden>R21</compIden>
 		<compID>RESE-0603-X-O102-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>74</compIndex>
+		<compIndex>57</compIndex>
 		<compIden>R22</compIden>
 		<compID>RESE-0603-X-O102-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>75</compIndex>
+		<compIndex>58</compIndex>
 		<compIden>R23</compIden>
 		<compID>RESE-0603-X-O102-67</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>76</compIndex>
+		<compIndex>59</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-DPDT-SMD-AYZ0202  eaglePackage: SWITCH_DPDT_SMD_AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>77</compIndex>
+		<compIndex>60</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPDT-SMD-AYZ0202  eaglePackage: SWITCH_DPDT_SMD_AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>78</compIndex>
+		<compIndex>61</compIndex>
 		<compIden>S3</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPDT-SMD-AYZ0202  eaglePackage: SWITCH_DPDT_SMD_AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>79</compIndex>
+		<compIndex>62</compIndex>
 		<compIden>S4</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPDT-SMD-AYZ0202  eaglePackage: SWITCH_DPDT_SMD_AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>80</compIndex>
+		<compIndex>63</compIndex>
 		<compIden>U1</compIden>
 		<compID>NOT OOMP  eagleValue: TPS63070  eagleDevice: TPS63070RNM  eaglePackage: TPS63070RNM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>81</compIndex>
+		<compIndex>64</compIndex>
 		<compIden>U2</compIden>
 		<compID>NOT OOMP  eagleValue: micro:bit  eagleDevice: MICRO:BITLEDS_UP  eaglePackage: MICRO:BIT_RA_PTH</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>82</compIndex>
+		<compIndex>65</compIndex>
 		<compIden>U3</compIden>
 		<compID>NOT OOMP  eagleValue: TXB0104  eagleDevice: TXB0104PWR  eaglePackage: TSSOP14</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>83</compIndex>
+		<compIndex>66</compIndex>
 		<compIden>U4</compIden>
 		<compID>NOT OOMP  eagleValue: ADJ REG 1.5A  eagleDevice: GATORBIT_LM317  eaglePackage: SOT223</compID>
 		<compWhy></compWhy>

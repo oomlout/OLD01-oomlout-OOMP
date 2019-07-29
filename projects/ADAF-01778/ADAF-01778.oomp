@@ -5,7 +5,9 @@
 	<hexID>ADAF01778</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
+	<oompAbout>(image and text from adafruit.com)
+
+
 PCB files for Adafruit Analog K-Type Thermocouple Amplifier AD8495 Breakout
 
 
@@ -35,8 +37,8 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 
 
 	<numComponents>12</numComponents>
-	<numOompComponents>8</numOompComponents>
-	<oompCompletion>67</oompCompletion>
+	<numOompComponents>9</numOompComponents>
+	<oompCompletion>75</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -119,7 +121,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>X1</compIden>
-		<compID>NOT OOMP  eagleValue: 3.5mm terminal  eagleDevice: TERMBLOCK_1X2  eaglePackage: TERMBLOCK_1X2-3.5MM</compID>
+		<compID>TERS-35D-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -5,13 +5,11 @@
 	<hexID>SPAR10663</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is an evaluation board for the Silicon Laboratories Si4703 FM tuner chip. Beyond enabling you to tune in to FM radio stations, the Si4703 is also capable of detecting and processing both Radio Data Service (RDS) and Radio Broadcast Data Service (RBDS) information. The Si4703 even does a very good job of filtering and carrier detection. It also enables data such as the station ID and song name to be displayed to the user.
+	<oompAbout>(image and text from sparkfun.com)
+
+This is an evaluation board for the Silicon Laboratories Si4703 FM tuner chip. Beyond enabling you to tune in to FM radio stations, the Si4703 is also capable of detecting and processing both Radio Data Service (RDS) and Radio Broadcast Data Service (RBDS) information. The Si4703 even does a very good job of filtering and carrier detection. It also enables data such as the station ID and song name to be displayed to the user.
 Using this board, you will be able to pick up multiple stations just as well as with a standard FM radio. The board breaks out all major pins and makes it easy to incorporate this great chip into your next radio project. The power bus, the 3.3V and GND pins are broken out For communication. The breakout provides access to SDIO and SCLK for I2C communication while RST can be used for easy resetting. The SEN pin enables the user to change the mode of functionality of the IC. The last two pins broken out are GPIO1 and GPIO2 which can be used as general input/output pins, but also can be used for things like the RDS ready, seeking or tuning functions.
-Keep in mind, by plugging headphones into the 3.5mm audio jack, you effectively use the cable in your headphones as an antenna! Therefore, this board does not require an external antenna if using headphones or a 3.5mm audio cable longer than 3 feet.              
-            
-                      
-              
+Keep in mind, by plugging headphones into the 3.5mm audio jack, you effectively use the cable in your headphones as an antenna! Therefore, this board does not require an external antenna if using headphones or a 3.5mm audio cable longer than 3 feet.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/10663</oompOfficialLink>
 	<company>Sparkfun</company>

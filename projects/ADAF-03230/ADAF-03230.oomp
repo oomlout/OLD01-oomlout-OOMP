@@ -5,7 +5,9 @@
 	<hexID>ADAF03230</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
+	<oompAbout>(image and text from adafruit.com)
+
+
 Adafruit Radio FeatherWings PCB
 
 Click here to purchase one from the Adafruit shop
@@ -41,8 +43,8 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 
 
 	<numComponents>7</numComponents>
-	<numOompComponents>3</numOompComponents>
-	<oompCompletion>43</oompCompletion>
+	<numOompComponents>4</numOompComponents>
+	<oompCompletion>57</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -76,7 +78,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>SW1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH_TACT_SMT4.6X2.8  eaglePackage: BTN_KMR2_4.6X2.8</compID>
+		<compID>BUTA-4628-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

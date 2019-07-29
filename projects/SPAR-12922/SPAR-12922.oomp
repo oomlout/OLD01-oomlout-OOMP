@@ -5,17 +5,15 @@
 	<hexID>SPAR12922</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The LilyPad ProtoSnap Plus Kit is an all-in-one e-textile prototyping kit that has been specifically designed to make it as easy as possible to incorporate electronics into any of your garments or fabrics. The included LilyPad ProtoSnap Plus is a sewable electronics powerhouse that you can use to explore circuits and programming, then break apart to make an interactive fabric or wearable project. We have also included a USB cable, 110mAh LiPo battery, needle set and two conductive thread bobbins. With all of these parts combined and the featured Activity Guide (found in the Documents tab), you will be able to plan and create fantastic projects in no time!
+	<oompAbout>(image and text from sparkfun.com)
+
+The LilyPad ProtoSnap Plus Kit is an all-in-one e-textile prototyping kit that has been specifically designed to make it as easy as possible to incorporate electronics into any of your garments or fabrics. The included LilyPad ProtoSnap Plus is a sewable electronics powerhouse that you can use to explore circuits and programming, then break apart to make an interactive fabric or wearable project. We have also included a USB cable, 110mAh LiPo battery, needle set and two conductive thread bobbins. With all of these parts combined and the featured Activity Guide (found in the Documents tab), you will be able to plan and create fantastic projects in no time!
 At the center of the ProtoSnap Plus is the LilyPad USB Plus microcontroller, pre-wired to a LilyPad board including a LilyPad Light Sensor, LilyPad Buzzer, LilyPad Button Board, four pairs of colored LilyPad LEDs and a LilyPad Slide Switch. Because these components are connected together on the ProtoSnap board, you can test out your project ideas before you sew. The ProtoSnap Plus also includes expansion ports that let you sew your wearables together or use alligator cables to easily connect external sensors and components. After testing out your coding ideas using the attached LilyPad pieces, you can break apart the prototyping board and sew them into your project!
 We have also written an online Activity Guide that teaches you how to program in Arduino with the LilyPad ProtoSnap Plus. This guide includes 10 example activities that use the pre-wired LilyPad boards on the LilyPad ProtoSnap Plus after you've completed the Hookup Guide linked below and in the Documents tab.
 Please be aware that the Lilypad ProtoSnap Plus Kit is NOT supported on Windows 7/8 due to a lack of support drivers for those specific OS's.
 Note: A portion of this sale is given back to Dr. Leah Buechley for continued development and education in e-textiles and also to Arduino LLC to help fund continued development of new tools and new IDE features.
 Note: Due to the requirements of shipping the battery in this kit, orders may take longer to process and therefore do not qualify for same-day shipping. Additionally, these batteries cannot be shipped via Ground or Economy methods to Alaska or Hawaii. Sorry for any inconvenience this may cause.
- Get Started with the LilyPad ProtoSnap Plus Guide               
-            
-                      
-              
+ Get Started with the LilyPad ProtoSnap Plus Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/12922</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -25,8 +23,8 @@ Note: Due to the requirements of shipping the battery in this kit, orders may ta
 
 
 	<numComponents>64</numComponents>
-	<numOompComponents>54</numOompComponents>
-	<oompCompletion>84</oompCompletion>
+	<numOompComponents>60</numOompComponents>
+	<oompCompletion>94</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -88,7 +86,7 @@ Note: Due to the requirements of shipping the battery in this kit, orders may ta
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  eagleValue: 3A/40V/500mV  eagleDevice: DIODE-SCHOTTKY-B340A  eaglePackage: SMA-DIODE</compID>
+		<compID>DIOS-D214-X-A3-V30</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -417,7 +415,7 @@ Note: Due to the requirements of shipping the battery in this kit, orders may ta
 	<component>
 		<compIndex>56</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-DPDT-SMD-AYZ0202  eaglePackage: SWITCH_DPDT_SMD_AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -431,7 +429,7 @@ Note: Due to the requirements of shipping the battery in this kit, orders may ta
 	<component>
 		<compIndex>58</compIndex>
 		<compIden>S3</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-DPDT-SMD-AYZ0202  eaglePackage: SWITCH_DPDT_SMD_AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -445,14 +443,14 @@ Note: Due to the requirements of shipping the battery in this kit, orders may ta
 	<component>
 		<compIndex>60</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  eagleValue: MCP73831  eagleDevice: MCP73831  eaglePackage: SOT23-5</compID>
+		<compID>ICIC-SO235-X-K73831-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>61</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -473,7 +471,7 @@ Note: Due to the requirements of shipping the battery in this kit, orders may ta
 	<component>
 		<compIndex>64</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  eagleValue: 8MHz  eagleDevice: RESONATORSMD  eaglePackage: RESONATOR-SMD</compID>
+		<compID>CERE-1263-X-MZ8-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

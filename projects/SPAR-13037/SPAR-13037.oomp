@@ -5,15 +5,13 @@
 	<hexID>SPAR13037</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The Intel® Edison is an ultra small computing platform that will change the way you look at embedded electronics. Each Edison is packed with a huge amount of tech goodies into a tiny package while still providing the same robust strength of your go-to single board computer. Powered by the Intel® Atom™ SoC dual-core CPU and including an integrated WiFi, Bluetooth LE, and a 70-pin connector to attach a veritable slew of shield-like "Blocks" which can be stacked on top of each other. It's no wonder how this little guy is lowering the barrier of entry on the world of electronics!
+	<oompAbout>(image and text from sparkfun.com)
+
+The Intel® Edison is an ultra small computing platform that will change the way you look at embedded electronics. Each Edison is packed with a huge amount of tech goodies into a tiny package while still providing the same robust strength of your go-to single board computer. Powered by the Intel® Atom™ SoC dual-core CPU and including an integrated WiFi, Bluetooth LE, and a 70-pin connector to attach a veritable slew of shield-like "Blocks" which can be stacked on top of each other. It's no wonder how this little guy is lowering the barrier of entry on the world of electronics!
 The Battery Block brings a single cell LiPo Charger and 400mAh battery to power an Intel® Edision and expansion blocks. The Battery board can be used with an external battery to increase runtime of your Edison which can be plugged in with a micro USB cable to deliver a 500mA charge current. Additionally, the power switch removes the battery from the Edison while allowing it to charge via the microUSB cable. If you need more battery life, it is possible to gently peel the battery off, de-solder the wires, and replace it with a larger cell. If you remove the battery, it is also possible to expose the expansion header to continue stacking blocks. It may be necessary to find an alternative mounting point for your battery in this case. Go wireless with Edison!
 If you are looking to add a little more stability to your Intel® Edison stack, check out this Hardware Pack. It will provide you with increased mechanical strength for stacking Blocks on your Edison!
 Note: This Block requires specific stacking considerations when attaching it to other SparkFun Edison Blocks. Check the Hookup Guide in the Documents section below for more information.
-Note: This item may take longer to process due to battery installed in the equipment and therefore does not qualify for same-day shipping policy. Additionally, these batteries can not be shipped via Ground or Economy methods to Alaska or Hawaii. Sorry for any inconvenience this may cause.              
-            
-                      
-              
+Note: This item may take longer to process due to battery installed in the equipment and therefore does not qualify for same-day shipping policy. Additionally, these batteries can not be shipped via Ground or Economy methods to Alaska or Hawaii. Sorry for any inconvenience this may cause.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13037</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -23,8 +21,8 @@ Note: This item may take longer to process due to battery installed in the equip
 
 
 	<numComponents>11</numComponents>
-	<numOompComponents>7</numOompComponents>
-	<oompCompletion>64</oompCompletion>
+	<numOompComponents>8</numOompComponents>
+	<oompCompletion>73</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -86,7 +84,7 @@ Note: This item may take longer to process due to battery installed in the equip
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  eagleValue: MCP73831  eagleDevice: MCP73831  eaglePackage: SOT23-5</compID>
+		<compID>ICIC-SO235-X-K73831-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

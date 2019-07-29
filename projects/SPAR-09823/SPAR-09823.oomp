@@ -5,12 +5,10 @@
 	<hexID>SPAR09823</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is a breakout board for the SP3485 RS-485 transceiver IC, which will convert a UART serial stream to RS-485. The SP3485 is a half-duplex transceiver, so it can only communicate one way at a time, but it can reach transmission speeds of up to 10Mbps. This board requires a very low amount of power and can operate from a single +3.3VDC supply.
-This breakout board includes the SP3485 RS-485 transceiver, filter capacitor, and other components shown on the schematic. We've broken out the RS-485 output to three different connections: (1) an RJ-45 connector, (2) a 3-pin 3.55mm screw terminal, and (3) a 3-pin 0.1" pitch header; none of these output connectors come populated.              
-            
-                      
-              
+	<oompAbout>(image and text from sparkfun.com)
+
+This is a breakout board for the SP3485 RS-485 transceiver IC, which will convert a UART serial stream to RS-485. The SP3485 is a half-duplex transceiver, so it can only communicate one way at a time, but it can reach transmission speeds of up to 10Mbps. This board requires a very low amount of power and can operate from a single +3.3VDC supply.
+This breakout board includes the SP3485 RS-485 transceiver, filter capacitor, and other components shown on the schematic. We've broken out the RS-485 output to three different connections: (1) an RJ-45 connector, (2) a 3-pin 3.55mm screw terminal, and (3) a 3-pin 0.1" pitch header; none of these output connectors come populated.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9823</oompOfficialLink>
 	<company>Sparkfun</company>

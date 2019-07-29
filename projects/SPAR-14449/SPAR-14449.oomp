@@ -5,15 +5,13 @@
 	<hexID>SPAR14449</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun Variable Load Kit is a quick-to-assemble board designed to allow users to draw a specific amount of current from a voltage input. This kit can be used to test stability of the power supply under various loads, battery lifetime, safety cutoffs and other design elements. The Variable Load Kit can test supplies of up to 30V at currents ranging from a few mA all the way up to 4A.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun Variable Load Kit is a quick-to-assemble board designed to allow users to draw a specific amount of current from a voltage input. This kit can be used to test stability of the power supply under various loads, battery lifetime, safety cutoffs and other design elements. The Variable Load Kit can test supplies of up to 30V at currents ranging from a few mA all the way up to 4A.
 The Variable Load board is meant to work with one of two output modes: either using a console on a PC for feedback or using a 16x2 character LCD (found in the Hookup Accessories section below). In either case, the capacitive touch buttons on the front of the Variable Load PCB can be used to change the settings. There are four buttons: up arrow, down arrow, enter and back. The up and down arrow keys will adjust the current set point, the enter key turns the load on or off, and the back button resets the set point to zero. Additionally, there is an LED visible that will tell you whether the load is enabled or disabled at any given time.
 For safety, please be sure that the total load power is limited to 15W because, even at that wattage, the heatsink will get hot to the touch.
 Note: This kit will need to be assembled before use, so knowledge of soldering will be required. Also, the SparkFun Variable Load Kit does NOT include headers or an LCD to solder them to.
- Get Started With the Variable Load Kit Guide               
-            
-                      
-              
+ Get Started With the Variable Load Kit Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14449</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -23,8 +21,8 @@ Note: This kit will need to be assembled before use, so knowledge of soldering w
 
 
 	<numComponents>41</numComponents>
-	<numOompComponents>29</numOompComponents>
-	<oompCompletion>71</oompCompletion>
+	<numOompComponents>35</numOompComponents>
+	<oompCompletion>85</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -128,21 +126,21 @@ Note: This kit will need to be assembled before use, so knowledge of soldering w
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  eagleValue: GREEN  eagleDevice: LED1206-BOTTOM  eaglePackage: LED-1206-BOTTOM</compID>
+		<compID>LEDS-1206-G-BOTT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  eagleValue: 6V/0.5A  eagleDevice: PPTC_HALF-AMP  eaglePackage: 1206</compID>
+		<compID>REFU-1206-X-A05D-V8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_16  eaglePackage: 1X16</compID>
+		<compID>HEAD-I01-X-PI16-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -163,14 +161,14 @@ Note: This kit will need to be assembled before use, so knowledge of soldering w
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_05  eaglePackage: 1X05</compID>
+		<compID>HEAD-I01-X-PI05-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>J6</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_02  eaglePackage: 1X02</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -310,7 +308,7 @@ Note: This kit will need to be assembled before use, so knowledge of soldering w
 	<component>
 		<compIndex>41</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

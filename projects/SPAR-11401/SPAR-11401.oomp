@@ -5,13 +5,11 @@
 	<hexID>SPAR11401</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                If you aren't familiar with the Electric Imp, it essentially provides an easy, integrated way to connect almost any hardware device both to other devices and to internet services. It's more than just a WiFi card, or even a WiFi module with processing built in - it's an integrated platform that deals with the drudgery of connectivity, allowing you to concentrate on the application instead of the mechanics. Of course, if you're developing for it you'll need a way to get in there and poke around. The Electric Imp Shield allows you to connect your Arduino project to the internet through your home WiFi network. This way, your Arduino can take advantage of the Imp Cloud service and connect to HTTP APIs.
+	<oompAbout>(image and text from sparkfun.com)
+
+If you aren't familiar with the Electric Imp, it essentially provides an easy, integrated way to connect almost any hardware device both to other devices and to internet services. It's more than just a WiFi card, or even a WiFi module with processing built in - it's an integrated platform that deals with the drudgery of connectivity, allowing you to concentrate on the application instead of the mechanics. Of course, if you're developing for it you'll need a way to get in there and poke around. The Electric Imp Shield allows you to connect your Arduino project to the internet through your home WiFi network. This way, your Arduino can take advantage of the Imp Cloud service and connect to HTTP APIs.
 The Shield connects one of the imp's UARTs (Imp pins 5 and 7) to either the Arduino hardware UART or a software serial on pins 8 and 9. It defaults to the software serial, but there are jumpers on the bottom side to set it to the hardware serial. A couple imp pins (8 andamp; 9) are also connected to LEDs. They can be disconnected via jumpers on the bottom, if you'd like.
-Because the Electric Imp can draw up to 400mA on the 3.3V line, this shield has its own voltage regulator which is fed from the 5V Arduino line. Most Arduino compatible boards should be able to handle this amount of draw but beware that some clones that use less robust VREGs could see trouble.              
-            
-                      
-              
+Because the Electric Imp can draw up to 400mA on the 3.3V line, this shield has its own voltage regulator which is fed from the 5V Arduino line. Most Arduino compatible boards should be able to handle this amount of draw but beware that some clones that use less robust VREGs could see trouble.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/11401</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ Because the Electric Imp can draw up to 400mA on the 3.3V line, this shield has 
 
 
 	<numComponents>21</numComponents>
-	<numOompComponents>15</numOompComponents>
-	<oompCompletion>71</oompCompletion>
+	<numOompComponents>17</numOompComponents>
+	<oompCompletion>81</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -77,14 +75,14 @@ Because the Electric Imp can draw up to 400mA on the 3.3V line, this shield has 
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  eagleValue: BSS138  eagleDevice: MOSFET-NCHANNELSMD  eaglePackage: SOT23-3</compID>
+		<compID>MOSN-SO23-X-A02D-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>Q3</compIden>
-		<compID>NOT OOMP  eagleValue: BSS138  eagleDevice: MOSFET-NCHANNELSMD  eaglePackage: SOT23-3</compID>
+		<compID>MOSN-SO23-X-A02D-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

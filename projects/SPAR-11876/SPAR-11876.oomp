@@ -5,13 +5,11 @@
 	<hexID>SPAR11876</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The Big Easy Driver, designed by Brian Schmalz, is a stepper motor driver board for bi-polar stepper motors up to a max 2A/phase. It is based on the Allegro A4988 stepper driver chip. It's the next version of the popular Easy Driver board.
+	<oompAbout>(image and text from sparkfun.com)
+
+The Big Easy Driver, designed by Brian Schmalz, is a stepper motor driver board for bi-polar stepper motors up to a max 2A/phase. It is based on the Allegro A4988 stepper driver chip. It's the next version of the popular Easy Driver board.
 Each Big Easy Driver can drive up to a max of 2A per phase of a bi-polar stepper motor. It is a chopper microstepping driver which defaults to 16 step microstepping mode. It can take a maximum motor drive voltage of around 30V, and includes on-board 5V/3.3V regulation, so only one supply is necessary. Although this board should be able to run most systems without active cooling while operating at 1.4-1.7A/phase, a heatsink is required for loads approaching 2A/phase. You can find the recommended heatsink in the related items below.
-**Note: **This product is a collaboration with Brian Schmalz. A portion of each sales goes back to him for product support and continued development.              
-            
-                      
-              
+Note: This product is a collaboration with Brian Schmalz. A portion of each sales goes back to him for product support and continued development.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/11876</oompOfficialLink>
 	<company>Sparkfun</company>

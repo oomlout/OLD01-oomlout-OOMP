@@ -5,13 +5,11 @@
 	<hexID>SPAR11420</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is the SparkFun MiniGen Signal Generator, a small shield for the Arduino Pro Mini that is capable of generating sine, square, or triangle waves at up to 3MHz, and approximately 1Vp-p. Though the MiniGen is technically a shield it can, in fact, operate as a stand-alone board capable of the the same functionality as it would if it were placed on top of a Pro Mini.
+	<oompAbout>(image and text from sparkfun.com)
+
+This is the SparkFun MiniGen Signal Generator, a small shield for the Arduino Pro Mini that is capable of generating sine, square, or triangle waves at up to 3MHz, and approximately 1Vp-p. Though the MiniGen is technically a shield it can, in fact, operate as a stand-alone board capable of the the same functionality as it would if it were placed on top of a Pro Mini.
 The MiniGen offers two out put sources for you to utilize: a 2-pin 0.1" spaced header and a u.FL connector. The output is at a DC offset of Vcc/2, however neither the offset nor the amplitude can be varied. By default, the MiniGen ships configured with a 3.3V regulator enabled and should only be used with 3.3V signals (or 3.3V Pro Minis if you are using this as a shield) unless the jumper on the back is soldered over to bypass the regulator for 5V use.
- Get Started with the MiniGen Hookup Guide               
-            
-                      
-              
+ Get Started with the MiniGen Hookup Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/11420</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ The MiniGen offers two out put sources for you to utilize: a 2-pin 0.1" spaced h
 
 
 	<numComponents>25</numComponents>
-	<numOompComponents>18</numOompComponents>
-	<oompCompletion>72</oompCompletion>
+	<numOompComponents>20</numOompComponents>
+	<oompCompletion>80</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -105,7 +103,7 @@ The MiniGen offers two out put sources for you to utilize: a 2-pin 0.1" spaced h
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: U.FL  eaglePackage: U.FL</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -182,7 +180,7 @@ The MiniGen offers two out put sources for you to utilize: a 2-pin 0.1" spaced h
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: MIC52053.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A015D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -5,14 +5,12 @@
 	<hexID>SPAR13899</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun Stepoko is an Arduino compatible, 3-axis control solution that runs grbl software and is able to connect to your computer to accept stepper motor commands. The Stepoko's design and firmware are completely open source and it works with an open source Java based cross platform G-Code sending application to translate commands. By just looking at the pictures this board may look daunting but the simplest installation of the Stepoko consists of just plugging the stepper motors in, connecting it to power and to your computer! To top it off, we've designed the SparkFun Stepoko to fit and be secured inside of our Big Red Box as an effective enclosure option after a bit of milling to support the boards connectors and heatsink.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun Stepoko is an Arduino compatible, 3-axis control solution that runs grbl software and is able to connect to your computer to accept stepper motor commands. The Stepoko's design and firmware are completely open source and it works with an open source Java based cross platform G-Code sending application to translate commands. By just looking at the pictures this board may look daunting but the simplest installation of the Stepoko consists of just plugging the stepper motors in, connecting it to power and to your computer! To top it off, we've designed the SparkFun Stepoko to fit and be secured inside of our Big Red Box as an effective enclosure option after a bit of milling to support the boards connectors and heatsink.
 When looking at the SparkFun Stepoko it will be very easy to differentiate the two "hemispheres" of the board. The right side of the board has been dedicated to supplying power and system control. At the heart of the Stepoko is an Uno compatible ATmega328p. We’ve broken out all of the pins that are associated with the microcontroller and power supplies and an included chart in silkscreen on the back of the board that matches the grbl pin functions to the Arduino pin naming convention. Apply 12-30VDC to either the barrel jack or screw terminals (not both) and the Stepoko can supply up to 2.0A! Additionally, you will find a rail of screw terminals that function as Limit, Probe, E-Stop, etc connections.
 Meanwhile on the left side of the board we can find all three of the stepper motor drivers for the SparkFun Stepoko. Each of the three axis drivers are controlled by a DRV8811 IC. The ATmega328p on the right side of the board talks to the 8811 by digital control signals that are able to set direction, enable the motor, and enact a step. Internally, it has a state machine that matches the states of each motor necessary to get it to perform. Modifying the Microstepping Control switches on each driver provide you to finely tune each array to your specified likeness. All the work that each stepper motor driver provides is contributed by the grbl software that comes pre-installed with each Stepoko.  This new revision updates the firmware to the latest version (0.9j).  We've also added a piece of thermal gap filler to help electrically insulate the board from your chassis and prevent problems from ESD.
-Whether you are using the SparkFun Shapeoko on your own rig or on one our Shapeoko CNC Machine platforms you should be able to utilize this board to its full functionality without breaking a sweat!              
-            
-                      
-              
+Whether you are using the SparkFun Shapeoko on your own rig or on one our Shapeoko CNC Machine platforms you should be able to utilize this board to its full functionality without breaking a sweat!
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13899</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ Whether you are using the SparkFun Shapeoko on your own rig or on one our Shapeo
 
 
 	<numComponents>162</numComponents>
-	<numOompComponents>137</numOompComponents>
-	<oompCompletion>85</oompCompletion>
+	<numOompComponents>143</numOompComponents>
+	<oompCompletion>88</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -526,14 +524,14 @@ Whether you are using the SparkFun Shapeoko on your own rig or on one our Shapeo
 	<component>
 		<compIndex>72</compIndex>
 		<compIden>D16</compIden>
-		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: DIODE-SCHOTTKY-MBRA140  eaglePackage: SMA-DIODE</compID>
+		<compID>DIOS-D214-X-A01-V40</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>73</compIndex>
 		<compIden>D17</compIden>
-		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: DIODE-SCHOTTKY-MBRA140  eaglePackage: SMA-DIODE</compID>
+		<compID>DIOS-D214-X-A01-V40</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -547,14 +545,14 @@ Whether you are using the SparkFun Shapeoko on your own rig or on one our Shapeo
 	<component>
 		<compIndex>75</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  eagleValue: PTCSMD  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
+		<compID>REFU-1206-X-A05D-V8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>76</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  eagleValue: AVR ISP  eagleDevice: AVR_SPI_PRG_6PTH  eaglePackage: 2X3</compID>
+		<compID>HEAD-I01-X-PI2X03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -589,7 +587,7 @@ Whether you are using the SparkFun Shapeoko on your own rig or on one our Shapeo
 	<component>
 		<compIndex>81</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: 16MHZ  eagleDevice: RESONATOR16MHZ  eaglePackage: RESONATOR-SMD</compID>
+		<compID>CERE-1263-X-MZ16-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -1037,7 +1035,7 @@ Whether you are using the SparkFun Shapeoko on your own rig or on one our Shapeo
 	<component>
 		<compIndex>145</compIndex>
 		<compIden>S5</compIden>
-		<compID>NOT OOMP  eagleValue: DPDT  eagleDevice: SWITCH-DPDTAYZ0202  eaglePackage: AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

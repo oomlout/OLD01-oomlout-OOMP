@@ -5,16 +5,14 @@
 	<hexID>SPAR14294</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                It's time to start utilizing the superior magnetometer, and what better way than to throw it onto an easy-to-use breakout board? The SparkFun MLX90393 Magnetometer Breakout is a triple-axis magnetic sensor board capable of sensing very small fields, while still behaving as one would expect during saturation in larger fields (like a nearby magnet). The MLX90393 breakout can be used as a compass sensor but also works well as a non-contact controller, a flow meter with a magnetic impeller, or a linear actuator position sensor. To make it even easier to to get your readings, all communication is enacted exclusively via I2C, utilizing our handy Qwiic system. However, we still have broken out 0.1"-spaced pins in case you prefer to use a breadboard.
+	<oompAbout>(image and text from sparkfun.com)
+
+It's time to start utilizing the superior magnetometer, and what better way than to throw it onto an easy-to-use breakout board? The SparkFun MLX90393 Magnetometer Breakout is a triple-axis magnetic sensor board capable of sensing very small fields, while still behaving as one would expect during saturation in larger fields (like a nearby magnet). The MLX90393 breakout can be used as a compass sensor but also works well as a non-contact controller, a flow meter with a magnetic impeller, or a linear actuator position sensor. To make it even easier to to get your readings, all communication is enacted exclusively via I2C, utilizing our handy Qwiic system. However, we still have broken out 0.1"-spaced pins in case you prefer to use a breadboard.
 The MLX90393 features a resolution rate of 0.161µT with an operating voltage range of 2.2V to 3.6V at 100µA. This breakout is also equipped with a couple of jumper pads on the back of the board, a set that allows you to change the I2C address as well as one that can put the breakout into SPI mode (if I2C isn't your cup of tea).
 
 The SparkFun Qwiic connect system is an ecosystem of I2C sensors, actuators, shields and cables that make prototyping faster and less prone to error. All Qwiic-enabled boards use a common 1mm pitch, 4-pin JST connector. This reduces the amount of required PCB space, and polarized connections mean you can’t hook it up wrong.
 
- Get Started with the MLX90393 Magnetometer Breakout Guide               
-            
-                      
-              
+ Get Started with the MLX90393 Magnetometer Breakout Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14294</oompOfficialLink>
 	<company>Sparkfun</company>

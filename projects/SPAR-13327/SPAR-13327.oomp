@@ -5,14 +5,12 @@
 	<hexID>SPAR13327</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The Intel® Edison is an ultra small computing platform that will change the way you look at embedded electronics. Each Edison is packed with a huge amount of tech goodies into a tiny package while still providing the same robust strength of your go-to single board computer. Powered by the Intel® Atom™ SoC dual-core CPU and including an integrated WiFi, Bluetooth LE, and a 70-pin connector to attach a veritable slew of shield-like "Blocks" which can be stacked on top of each other. It's no wonder how this little guy is lowering the barrier of entry on the world of electronics!
+	<oompAbout>(image and text from sparkfun.com)
+
+The Intel® Edison is an ultra small computing platform that will change the way you look at embedded electronics. Each Edison is packed with a huge amount of tech goodies into a tiny package while still providing the same robust strength of your go-to single board computer. Powered by the Intel® Atom™ SoC dual-core CPU and including an integrated WiFi, Bluetooth LE, and a 70-pin connector to attach a veritable slew of shield-like "Blocks" which can be stacked on top of each other. It's no wonder how this little guy is lowering the barrier of entry on the world of electronics!
 This Block adds ADC functionality to the Edison's I2C bus. The ADS1015 ADC from TI provides a single 12-bit delta-sigma convertor with an analog multiplexer. It can be configured as a four-channel single-ended device or as a two-channel differential device.
 The ADC Block has jumpers to allow selection of the I2C slave address among four different options, allowing up to four of these cards to be stacked under one Edison. The sampling rate is not sufficient for audio capture, at 2.2kHz, but it should be adequate for most control applications.  This version also adds a 3.3V output to use as a voltage reference and a solder jumper to select between I2C1 and I2C6.
-If you are looking to add a little more stability to your Intel® Edison stack, check out this Hardware Pack. It will provide you with increased mechanical strength for stacking Blocks on your Edison!              
-            
-                      
-              
+If you are looking to add a little more stability to your Intel® Edison stack, check out this Hardware Pack. It will provide you with increased mechanical strength for stacking Blocks on your Edison!
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13327</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ If you are looking to add a little more stability to your Intel® Edison stack, c
 
 
 	<numComponents>13</numComponents>
-	<numOompComponents>9</numOompComponents>
-	<oompCompletion>69</oompCompletion>
+	<numOompComponents>10</numOompComponents>
+	<oompCompletion>77</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -113,7 +111,7 @@ If you are looking to add a little more stability to your Intel® Edison stack, c
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: MIC52053.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A015D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

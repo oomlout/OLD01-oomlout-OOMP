@@ -5,13 +5,11 @@
 	<hexID>SPAR12071</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is a shield for the CC3000 WiFi Module. The CC3000 from TI (Texas Instruments) is a self-contained wireless network processor that makes incorporating internet connectivity into your project simple. Instead of the more standard UART communication method, the CC3000 module utilizes an SPI interface allowing you, the user, to control the flow of data as you please. What makes the CC3000 unique is its ability to associate to a WiFi access point using a cell phone app in the Texas Instruments process called SmartConfig.
+	<oompAbout>(image and text from sparkfun.com)
+
+This is a shield for the CC3000 WiFi Module. The CC3000 from TI (Texas Instruments) is a self-contained wireless network processor that makes incorporating internet connectivity into your project simple. Instead of the more standard UART communication method, the CC3000 module utilizes an SPI interface allowing you, the user, to control the flow of data as you please. What makes the CC3000 unique is its ability to associate to a WiFi access point using a cell phone app in the Texas Instruments process called SmartConfig.
 This shield even provides an optional feature that allows you to attach an external antenna, just in case you need a little extra power. This is a handy feature if you want to route an antenna to the outside of an enclosure or to increase your WiFi gain. The CC3000 Shield has a standard Arduino shield layout with 2 rows of pins on either side. The right-side headers have been broken out on the shield if you want to solder headers or wires for easy prototyping in the area right of the microSD card slot. We have even designed this board so that the CC3000 is on the back of the shield reducing the chance of interference from the barrel jack or USB connector.
-Note: The CC3000 WiFi Shield comes as a stand-alone board. Headers will need to be purchased separately, check the related items below!              
-            
-                      
-              
+Note: The CC3000 WiFi Shield comes as a stand-alone board. Headers will need to be purchased separately, check the related items below!
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/12071</oompOfficialLink>
 	<company>Sparkfun</company>

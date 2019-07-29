@@ -5,8 +5,9 @@
 	<hexID>SPAR11018</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The RFM22 is a low-cost ISM FSK transceiver module which offers communication at 433MHz ISM and adjustable output power of up to +20 dBm. What does that mean for you? It means your Arduino now has an inexpensive way to talk to other Arduinos so building point-to-point and even basic mesh networks just got a lot more attractive.
+	<oompAbout>(image and text from sparkfun.com)
+
+The RFM22 is a low-cost ISM FSK transceiver module which offers communication at 433MHz ISM and adjustable output power of up to +20 dBm. What does that mean for you? It means your Arduino now has an inexpensive way to talk to other Arduinos so building point-to-point and even basic mesh networks just got a lot more attractive.
 The RFM22 Shield connects the RFM22 module to the appropriate lines on the Arduino. By using the RF22 Library, you can send and receive messages via standard 4-wire SPI. The library includes command structures for setting up anything from simple non-addressed point-to-point communication to fully addressed networks of clients and routers. The shield also provides a through-hole antenna connection for hooking up a basic wire antenna. In our testing, a 17cm wire attached to the 'ANT' pin worked just fine. A hole is drilled next to the 'ANT' pin for strain relief.
 The shield has on-board power regulation and level shifting. There are one pin headers and jumpers on the interrupt (nIRQ), interface select (nSEL), shutdown input (SDN) and GPIO2 lines so that you can cut the trace and reroute those lines if you need to for your project. The board also provides a little bit of prototyping space.
 Note: The RFM22 Shield comes as a stand-alone board. Headers and antenna will need to be purchased separately, check the related items or wish list below!
@@ -18,10 +19,6 @@ Datasheet (RFM22B)
 Quickstart Guide
 GitHub (Design Files andamp; Example Code)
 GitHub (Library)
-              
-            
-                      
-              
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/11018</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -31,8 +28,8 @@ GitHub (Library)
 
 
 	<numComponents>12</numComponents>
-	<numOompComponents>7</numOompComponents>
-	<oompCompletion>58</oompCompletion>
+	<numOompComponents>8</numOompComponents>
+	<oompCompletion>67</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -87,7 +84,7 @@ GitHub (Library)
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  eagleValue: Reset  eagleDevice: SWITCH-MOMENTARY-2SMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
+		<compID>BUTA-52D-X-SMDS-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

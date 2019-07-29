@@ -5,14 +5,12 @@
 	<hexID>SPAR09565</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                Replacement: None at this time. Good grief... we are no longer carrying the It's a Through-Hole Christmas, Charlie Brown! Kit in our catalog. This page is for reference only.
+	<oompAbout>(image and text from sparkfun.com)
+
+Replacement: None at this time. Good grief... we are no longer carrying the It's a Through-Hole Christmas, Charlie Brown! Kit in our catalog. This page is for reference only.
 Decorate for the holidays in SparkFun style with the Through-Hole Christmas Kit! This ornamental kit comes with a neatly-cut, tree-shaped PCB, adorned with super-bright green LEDs, and topped with a yellow LED. The LEDs are controlled by a pre-programmed ATtiny85 AVR, and the circuit is powered via a couple AA batteries. The included battery holder has an ON/OFF switch so you can turn the ornament off to save on battery life.
 This kit comes as a bag of parts, which you'll need to solder onto the tree PCB. All components are through-hole, so this is a great kit for that first-time solderer. Make sure you install everything with the correct polarity!
-Happy holidays, from SparkFun!              
-            
-                      
-              
+Happy holidays, from SparkFun!
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9565</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,42 +20,42 @@ Happy holidays, from SparkFun!
 
 
 	<numComponents>13</numComponents>
-	<numOompComponents>1</numOompComponents>
-	<oompCompletion>8</oompCompletion>
+	<numOompComponents>11</numOompComponents>
+	<oompCompletion>85</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue: GREEN  eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
+		<compID>LEDS-05-G-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  eagleValue: GREEN  eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
+		<compID>LEDS-05-G-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>LED3</compIden>
-		<compID>NOT OOMP  eagleValue: GREEN  eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
+		<compID>LEDS-05-G-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>LED4</compIden>
-		<compID>NOT OOMP  eagleValue: GREEN  eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
+		<compID>LEDS-05-G-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>LED5</compIden>
-		<compID>NOT OOMP  eagleValue: GREEN  eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
+		<compID>LEDS-05-G-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -71,28 +69,28 @@ Happy holidays, from SparkFun!
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>LED7</compIden>
-		<compID>NOT OOMP  eagleValue: GREEN  eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
+		<compID>LEDS-05-G-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>LED8</compIden>
-		<compID>NOT OOMP  eagleValue: GREEN  eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
+		<compID>LEDS-05-G-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>LED9</compIden>
-		<compID>NOT OOMP  eagleValue: GREEN  eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
+		<compID>LEDS-05-G-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>LED10</compIden>
-		<compID>NOT OOMP  eagleValue: GREEN  eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
+		<compID>LEDS-05-G-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -113,7 +111,7 @@ Happy holidays, from SparkFun!
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  eagleValue: AVR_SPI_PRG_6PTH  eagleDevice: AVR_SPI_PRG_6PTH  eaglePackage: 2X3</compID>
+		<compID>HEAD-I01-X-PI2X03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

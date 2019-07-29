@@ -5,13 +5,11 @@
 	<hexID>SPAR09487</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun GPS Logger Shield equips your Arduino with access to a GPS module, µSD memory card socket, and all of the other peripherals you’ll need to turn your Arduino into a position-tracking, speed-monitoring, altitude-observing wonder logger. The shield is based around a GP3906-TLP GPS Module – a 66-channel GPS receiver featuring a MediaTek MT3339 architecture and up to a 10Hz update rate. The GPS module will stream constant position updates over a simple TTL-level serial port, which you can then log to a µSD card and/or use for other purposes.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun GPS Logger Shield equips your Arduino with access to a GPS module, µSD memory card socket, and all of the other peripherals you’ll need to turn your Arduino into a position-tracking, speed-monitoring, altitude-observing wonder logger. The shield is based around a GP3906-TLP GPS Module – a 66-channel GPS receiver featuring a MediaTek MT3339 architecture and up to a 10Hz update rate. The GPS module will stream constant position updates over a simple TTL-level serial port, which you can then log to a µSD card and/or use for other purposes.
 Everything on the shield is highly configurable: A switch allows you to select the GPS module’s UART interface between either hardware or software ports, the µSD card operates over a hardware SPI port, which should be compatible with most Arduino layouts, and extra prototyping space should allow you to add those last, few components you need to complete your project. The GPS Logger Shield’s main voltage supply is taken from the Arduino 5V header pin. This voltage is regulated down to 3.3V, which is supplied to both the GPS module and the µSD card. These two components should consume, about 30mA on average, but they may very occasionally spike to around 100mA. We also highly recommend a 12mm Coin Cell Battery, which fits into the GPS Shield’s battery holder.
-Note: The shield does not come with headers installed; we recommend the Arduino Stackable Header Kit.              
-            
-                      
-              
+Note: The shield does not come with headers installed; we recommend the Arduino Stackable Header Kit.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9487</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ Note: The shield does not come with headers installed; we recommend the Arduino 
 
 
 	<numComponents>18</numComponents>
-	<numOompComponents>11</numOompComponents>
-	<oompCompletion>61</oompCompletion>
+	<numOompComponents>13</numOompComponents>
+	<oompCompletion>72</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -126,14 +124,14 @@ Note: The shield does not come with headers installed; we recommend the Arduino 
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  eagleValue: DPDT  eagleDevice: SWITCH-DPDTAYZ0202  eaglePackage: AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  eagleValue: APK2112-3.3V  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

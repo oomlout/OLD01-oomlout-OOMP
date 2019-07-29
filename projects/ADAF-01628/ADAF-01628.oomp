@@ -5,7 +5,9 @@
 	<hexID>ADAF01628</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
+	<oompAbout>(image and text from adafruit.com)
+
+
 Adafruit Bluefruit EZ Link Shield PCB
 
 Click here to see this in the Adafruit shop
@@ -32,8 +34,8 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 
 
 	<numComponents>22</numComponents>
-	<numOompComponents>15</numOompComponents>
-	<oompCompletion>68</oompCompletion>
+	<numOompComponents>16</numOompComponents>
+	<oompCompletion>73</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -158,7 +160,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>SW1</compIden>
-		<compID>NOT OOMP  eagleValue: SPST_TACT-KMR2  eagleDevice: SPST_TACT-KMR2  eaglePackage: KMR2</compID>
+		<compID>BUTA-4632-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

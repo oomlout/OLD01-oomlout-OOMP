@@ -5,12 +5,10 @@
 	<hexID>SPAR10182</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is essentially a ramped up version of our Ardumoto motor driver shield. For this SparkFun Monster Moto Shield we've replaced the L298 H-bridge with a pair of VNH2SP30 full-bridge motor drivers. We've also beefed up the support circuitry so this board is capable of driving a pair of high-current motors! The VIN and motor out are pitched for our 5mm screw terminals (not included), making it easy to connect larger gauge wires.
-Note: When using this board in extreme high-demand applications it may be necessary to improve thermal performance with a heat-sink or fan and to solder the wires directly to the board instead of using a screw terminal (in addition to the myriad other complications present in a high-current system) However, when using the board at currents up to 6A the chips will barely become noticeably warm.              
-            
-                      
-              
+	<oompAbout>(image and text from sparkfun.com)
+
+This is essentially a ramped up version of our Ardumoto motor driver shield. For this SparkFun Monster Moto Shield we've replaced the L298 H-bridge with a pair of VNH2SP30 full-bridge motor drivers. We've also beefed up the support circuitry so this board is capable of driving a pair of high-current motors! The VIN and motor out are pitched for our 5mm screw terminals (not included), making it easy to connect larger gauge wires.
+Note: When using this board in extreme high-demand applications it may be necessary to improve thermal performance with a heat-sink or fan and to solder the wires directly to the board instead of using a screw terminal (in addition to the myriad other complications present in a high-current system) However, when using the board at currents up to 6A the chips will barely become noticeably warm.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/10182</oompOfficialLink>
 	<company>Sparkfun</company>

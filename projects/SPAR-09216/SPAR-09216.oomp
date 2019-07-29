@@ -5,12 +5,10 @@
 	<hexID>SPAR09216</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The NCP1402 is a 3.3V DC-DC converter. The breakout board will accept voltage inputs between 1 and 3 Volts (such as 1 or 2 AA batteries) and output a constant, low ripple 3.3V output capable of sourcing up to 200 mA. This board is great for supplying power to 3.3V sensors or providing 3.3V from a a single AA battery.
-The breakout board includes the necessary peripheral components. The input, output and ground pins are broken out on a 0.1" grid to allow easy access on a breadboard.              
-            
-                      
-              
+	<oompAbout>(image and text from sparkfun.com)
+
+The NCP1402 is a 3.3V DC-DC converter. The breakout board will accept voltage inputs between 1 and 3 Volts (such as 1 or 2 AA batteries) and output a constant, low ripple 3.3V output capable of sourcing up to 200 mA. This board is great for supplying power to 3.3V sensors or providing 3.3V from a a single AA battery.
+The breakout board includes the necessary peripheral components. The input, output and ground pins are broken out on a 0.1" grid to allow easy access on a breadboard.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9216</oompOfficialLink>
 	<company>Sparkfun</company>

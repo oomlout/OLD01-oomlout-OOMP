@@ -5,14 +5,12 @@
 	<hexID>SPAR13036</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The Intel® Edison is an ultra small computing platform that will change the way you look at embedded electronics. Each Edison is packed with a huge amount of tech goodies into a tiny package while still providing the same robust strength of your go-to single board computer. Powered by the Intel® Atom™ SoC dual-core CPU and including an integrated WiFi, Bluetooth LE, and a 70-pin connector to attach a veritable slew of shield-like "Blocks" which can be stacked on top of each other. It's no wonder how this little guy is lowering the barrier of entry on the world of electronics!
+	<oompAbout>(image and text from sparkfun.com)
+
+The Intel® Edison is an ultra small computing platform that will change the way you look at embedded electronics. Each Edison is packed with a huge amount of tech goodies into a tiny package while still providing the same robust strength of your go-to single board computer. Powered by the Intel® Atom™ SoC dual-core CPU and including an integrated WiFi, Bluetooth LE, and a 70-pin connector to attach a veritable slew of shield-like "Blocks" which can be stacked on top of each other. It's no wonder how this little guy is lowering the barrier of entry on the world of electronics!
 Piggyback an Arduino onto your Edison with the Arduino Block. This board features the same ATmega328P you'll find on Arduino Uno's, Pro's, and Pro Mini's. The 8-bit microcontroller workhorse is connected to the Edison via a selectable UART, so your Edison can interact with the Arduino over a serial interface.
 The GPIO pins of the Arduino are all broken out to the familiar Pro Mini form factor. You can jump wires off of them to control LEDs, motors, or sensors. Or connect it straight up to a Pro Mini shield.
-If you are looking to add a little more stability to your Intel® Edison stack, check out this Hardware Pack. It will provide you with increased mechanical strength for stacking Blocks on your Edison!              
-            
-                      
-              
+If you are looking to add a little more stability to your Intel® Edison stack, check out this Hardware Pack. It will provide you with increased mechanical strength for stacking Blocks on your Edison!
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13036</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ If you are looking to add a little more stability to your Intel® Edison stack, c
 
 
 	<numComponents>20</numComponents>
-	<numOompComponents>11</numOompComponents>
-	<oompCompletion>55</oompCompletion>
+	<numOompComponents>13</numOompComponents>
+	<oompCompletion>65</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -148,7 +146,7 @@ If you are looking to add a little more stability to your Intel® Edison stack, c
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  eagleValue: ATMEGA328  eagleDevice: ATMEGA168  eaglePackage: TQFP32-08</compID>
+		<compID>ICIC-TQ32-X-K328-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -162,7 +160,7 @@ If you are looking to add a little more stability to your Intel® Edison stack, c
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  eagleValue: 8MHZ  eagleDevice: RESONATOR8MHZ  eaglePackage: RESONATOR-SMD</compID>
+		<compID>CERE-1263-X-MZ8-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

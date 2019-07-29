@@ -5,13 +5,11 @@
 	<hexID>SPAR14050</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun Serial Basic Breakout is an easy-to-use USB-to-Serial adapter based on the CH340G IC from WCH. It works with 5V and 3.3V systems and should auto install on most operating systems without the need for additional drivers. The Serial Basic uses the CH340G IC to quickly and easily convert serial signals to USB. It’s a great lower-cost alternative to the extremely popular FTDI Basic.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun Serial Basic Breakout is an easy-to-use USB-to-Serial adapter based on the CH340G IC from WCH. It works with 5V and 3.3V systems and should auto install on most operating systems without the need for additional drivers. The Serial Basic uses the CH340G IC to quickly and easily convert serial signals to USB. It’s a great lower-cost alternative to the extremely popular FTDI Basic.
 The pinout of the Serial Basic mimics the common DTR/RX/TX/VCC/CTS/GND pinout found on hundreds of FTDI-to-USB derivatives. It can also be used as a general serial device for debugging (such as with a GPS module). There is a jumper on the rear of the board that controls the output voltage on the VCC pin. By default, the board outputs 3.3V and has 3.3V signals. Changing this jumper to 5V will cause the board to output 5V on the VCC pin with 5V signals.
- Get Started with the Serial Basic Breakout               
-            
-                      
-              
+ Get Started with the Serial Basic Breakout
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14050</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ The pinout of the Serial Basic mimics the common DTR/RX/TX/VCC/CTS/GND pinout fo
 
 
 	<numComponents>16</numComponents>
-	<numOompComponents>10</numOompComponents>
-	<oompCompletion>63</oompCompletion>
+	<numOompComponents>11</numOompComponents>
+	<oompCompletion>69</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -112,7 +110,7 @@ The pinout of the Serial Basic mimics the common DTR/RX/TX/VCC/CTS/GND pinout fo
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  eagleValue: AP2112-3.3V  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

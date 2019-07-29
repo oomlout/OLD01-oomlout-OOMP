@@ -5,14 +5,12 @@
 	<hexID>SPAR12041</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                If you need to add user input without using a button, then a capacitive touch interface might be the answer. The AT42QT1010 SparkFun Capacitive Touch Breakout offers a single, momentary capacitive touch button with easy-to-use digital I/O pins.
+	<oompAbout>(image and text from sparkfun.com)
+
+If you need to add user input without using a button, then a capacitive touch interface might be the answer. The AT42QT1010 SparkFun Capacitive Touch Breakout offers a single, momentary capacitive touch button with easy-to-use digital I/O pins.
 The AT42QT1010 is a dedicated, single-button capacitive sense chip. The chip handles monitoring a conductive area for touch. As long as a touch (e.g., from a finger) is detected, the AT42QT1010 keeps the output line high. Otherwise, the line is kept low. You just need to provide a power source (1.8V--5V) and ground for the AT42QT1010 to work. Additionally, a PAD pin is available if you would like to create your own external electrode.
 Unlike its sibling, the AT42QT1010 does have an internal time-out of about 60 seconds, meaning that if you hold your finger to the breakout’s pad for any length of time after that, the board will turn itself off. The difference between the AT42QT1010 and the AT42QT1011 is small but may be a game changer depending on your project’s uses.
- Get Started with the AT42QT101X Capacitive Touch Guide               
-            
-                      
-              
+ Get Started with the AT42QT101X Capacitive Touch Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/12041</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ Unlike its sibling, the AT42QT1010 does have an internal time-out of about 60 se
 
 
 	<numComponents>10</numComponents>
-	<numOompComponents>7</numOompComponents>
-	<oompCompletion>70</oompCompletion>
+	<numOompComponents>9</numOompComponents>
+	<oompCompletion>90</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -57,14 +55,14 @@ Unlike its sibling, the AT42QT1010 does have an internal time-out of about 60 se
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue: Green  eagleDevice: LED-GREEN1206-BOTTOM  eaglePackage: LED-1206-BOTTOM</compID>
+		<compID>LEDS-1206-G-BOTT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: 600mA/40V  eagleDevice: TRANS_NPN-MMBT2222AL  eaglePackage: SOT23-3</compID>
+		<compID>TRNN-SO23-X-A06D-V30</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

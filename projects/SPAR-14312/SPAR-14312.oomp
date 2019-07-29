@@ -5,16 +5,14 @@
 	<hexID>SPAR14312</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun XA1110 GPS Breakout is a small I2C-supported module built for easy hookup, thanks to our Qwiic Connect System. Equipped with the XA1110 GPS module from GTOP, this board utilizes the MediaTek MT3333 chipset, loaded with specialized SparkFun firmware that enables both I2C and serial ports simultaneously. Using I2C means you won’t have to tie up your serial port with GPS, leaving it open to other possibilities.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun XA1110 GPS Breakout is a small I2C-supported module built for easy hookup, thanks to our Qwiic Connect System. Equipped with the XA1110 GPS module from GTOP, this board utilizes the MediaTek MT3333 chipset, loaded with specialized SparkFun firmware that enables both I2C and serial ports simultaneously. Using I2C means you won’t have to tie up your serial port with GPS, leaving it open to other possibilities.
 This GPS Breakout supports up to 210 PRN channels with 99 search channels and 33 simultaneous tracking channels. With support of GPS, GLONASS, QZSS, SBAS and more, the onboard XA1110 can provide even more accurate positioning in multiple locations. Additionally, the XA1110 GPS Breakout is configured with an onboard RTC battery that enables a warm-start functionality, giving the X1 just five seconds to first fix, as well as a U.FL connector that provides you the option to hook up an external antenna via a U.FL cable.
 
 The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shields and cables that make prototyping faster and less prone to error. All Qwiic-enabled boards use a common 1mm pitch, 4-pin JST connector. This reduces the amount of required PCB space, and polarized connections mean you can’t hook it up wrong.
 
- Get Started With the SparkFun XA1110 GPS Breakout Guide               
-            
-                      
-              
+ Get Started With the SparkFun XA1110 GPS Breakout Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14312</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -24,8 +22,8 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 
 
 	<numComponents>24</numComponents>
-	<numOompComponents>15</numOompComponents>
-	<oompCompletion>63</oompCompletion>
+	<numOompComponents>19</numOompComponents>
+	<oompCompletion>79</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -87,7 +85,7 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  eagleValue: U.FL  eagleDevice: U.FL2PIN  eaglePackage: U.FL</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -101,7 +99,7 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  eagleValue: PTH  eagleDevice: I2C_STANDARD_NO_SILK  eaglePackage: 1X04_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI04-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -115,14 +113,14 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI01-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>J7</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_05NO_SILK  eaglePackage: 1X05_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI05-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

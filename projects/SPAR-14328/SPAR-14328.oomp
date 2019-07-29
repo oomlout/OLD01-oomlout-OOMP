@@ -5,15 +5,13 @@
 	<hexID>SPAR14328</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun Pi Servo HAT allows your Raspberry Pi to control up to 16 servo motors in a straightforward and uncomplicated manner via an I2C connection. Thanks to its I2C capabilities, this PWM HAT saves the Raspberry Pi's GPIO, allowing you to use them for other purposes. Additionally, the Pi Servo HAT adds a serial terminal connection, which will allow you to bring up a Raspberry Pi without having to hook it up to a monitor and keyboard.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun Pi Servo HAT allows your Raspberry Pi to control up to 16 servo motors in a straightforward and uncomplicated manner via an I2C connection. Thanks to its I2C capabilities, this PWM HAT saves the Raspberry Pi's GPIO, allowing you to use them for other purposes. Additionally, the Pi Servo HAT adds a serial terminal connection, which will allow you to bring up a Raspberry Pi without having to hook it up to a monitor and keyboard.
 Power to the SparkFun Pi Servo HAT is supplied by a microUSB connector that can be used to power the servo motors only, or to power the servo motors as well as the Pi that is connected to the HAT. This USB connector can also be used to hook up the Pi via serial port connection to avoid having to use a monitor and keyboard for setting up the Pi. To supply power only to the servo power rail (and not the Pi's 5V power rail), you just need to remove a small blob of solder on the isolation jumper. Doing this allows you to drive heavier loads coming from multiple or larger servos.
 Each of this HAT's 16 servo motor pin headers has been spaced out the correct distance from the others to make it easier to attach your servo motors. They are pinned out in the proper order for most hobby-type servo motor connectors. The Pi Servo Hat is the same size and form factor as a Raspberry Pi Zero and Zero W, but it can also operate with a regular Raspberry Pi.
 Note: This HAT does not include headers to connect to a Raspberry Pi, those will need to be purchased separately. We recommend the 2x20 "tall" headers.
- Get Started with the SparkFun Pi Servo HAT Guide               
-            
-                      
-              
+ Get Started with the SparkFun Pi Servo HAT Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14328</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -23,8 +21,8 @@ Note: This HAT does not include headers to connect to a Raspberry Pi, those will
 
 
 	<numComponents>40</numComponents>
-	<numOompComponents>19</numOompComponents>
-	<oompCompletion>48</oompCompletion>
+	<numOompComponents>35</numOompComponents>
+	<oompCompletion>88</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -114,112 +112,112 @@ Note: This HAT does not include headers to connect to a Raspberry Pi, those will
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_03  eaglePackage: 1X03</compID>
+		<compID>HEAD-I01-X-PI03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_03  eaglePackage: 1X03</compID>
+		<compID>HEAD-I01-X-PI03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_03  eaglePackage: 1X03</compID>
+		<compID>HEAD-I01-X-PI03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>J6</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_03  eaglePackage: 1X03</compID>
+		<compID>HEAD-I01-X-PI03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>J7</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_03  eaglePackage: 1X03</compID>
+		<compID>HEAD-I01-X-PI03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>J8</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_03  eaglePackage: 1X03</compID>
+		<compID>HEAD-I01-X-PI03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>J9</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_03  eaglePackage: 1X03</compID>
+		<compID>HEAD-I01-X-PI03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>J10</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_03  eaglePackage: 1X03</compID>
+		<compID>HEAD-I01-X-PI03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>J11</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_03  eaglePackage: 1X03</compID>
+		<compID>HEAD-I01-X-PI03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>J12</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_03  eaglePackage: 1X03</compID>
+		<compID>HEAD-I01-X-PI03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>J13</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_03  eaglePackage: 1X03</compID>
+		<compID>HEAD-I01-X-PI03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>J14</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_03  eaglePackage: 1X03</compID>
+		<compID>HEAD-I01-X-PI03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>J15</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_03  eaglePackage: 1X03</compID>
+		<compID>HEAD-I01-X-PI03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>J16</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_03  eaglePackage: 1X03</compID>
+		<compID>HEAD-I01-X-PI03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>J17</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_03  eaglePackage: 1X03</compID>
+		<compID>HEAD-I01-X-PI03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>J18</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_03  eaglePackage: 1X03</compID>
+		<compID>HEAD-I01-X-PI03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

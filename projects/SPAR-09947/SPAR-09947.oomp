@@ -5,13 +5,11 @@
 	<hexID>SPAR09947</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This new version corrects the pin out for the GPX and RESET pins. The SparkFun USB Host Shield contains all of the digital logic and analog circuitry necessary to implement a full-speed USB peripheral/host controller with your Arduino. This means you could use your Arduino to interface with and control any USB slave device - thumbdrives, digital cameras, bluetooth dongles, and much more!
+	<oompAbout>(image and text from sparkfun.com)
+
+This new version corrects the pin out for the GPX and RESET pins. The SparkFun USB Host Shield contains all of the digital logic and analog circuitry necessary to implement a full-speed USB peripheral/host controller with your Arduino. This means you could use your Arduino to interface with and control any USB slave device - thumbdrives, digital cameras, bluetooth dongles, and much more!
 A four-wire serial interface is used to communicate with the host controller chip, so the shield connects the Arduino's hardware SPI pins (D10-13) to the MAX3421E. A USB type A female connector is wired up to the IC, and it also supplies 5V as any normal USB port would.
-The Host Shield takes its power from the 'Vin' pin on your Arduino. Power from that pin is regulated to both 5V and 3.3V on the shield. All SPI signals are sent through a hex converter to step them down to 3.3V.              
-            
-                      
-              
+The Host Shield takes its power from the 'Vin' pin on your Arduino. Power from that pin is regulated to both 5V and 3.3V on the shield. All SPI signals are sent through a hex converter to step them down to 3.3V.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9947</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ The Host Shield takes its power from the 'Vin' pin on your Arduino. Power from t
 
 
 	<numComponents>28</numComponents>
-	<numOompComponents>17</numOompComponents>
-	<oompCompletion>61</oompCompletion>
+	<numOompComponents>22</numOompComponents>
+	<oompCompletion>79</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -105,7 +103,7 @@ The Host Shield takes its power from the 'Vin' pin on your Arduino. Power from t
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  eagleValue: PTCSMD  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
+		<compID>REFU-1206-X-A05D-V8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -126,7 +124,7 @@ The Host Shield takes its power from the 'Vin' pin on your Arduino. Power from t
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  eagleValue: 12MHz  eagleDevice: CRYSTAL5X3  eaglePackage: CRYSTAL-SMD-5X3</compID>
+		<compID>XTAL-5032-X-MZ12-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -175,14 +173,14 @@ The Host Shield takes its power from the 'Vin' pin on your Arduino. Power from t
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  eagleValue: SWITCH-DPDTSMD  eagleDevice: SWITCH-DPDTSMD  eaglePackage: AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  eagleValue: SWITCH-SMD  eagleDevice: SWITCH-MOMENTARY-2SMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
+		<compID>BUTA-52D-X-SMDS-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -203,7 +201,7 @@ The Host Shield takes its power from the 'Vin' pin on your Arduino. Power from t
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  eagleValue: 3.3V_REG  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

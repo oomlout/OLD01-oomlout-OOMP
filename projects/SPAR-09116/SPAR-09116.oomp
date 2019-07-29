@@ -5,13 +5,11 @@
 	<hexID>SPAR09116</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is a breakout board for the DS1077 is a dual-output, programmable, oscillator. Contains a filter capacitor and all 8 pins broken out to a 0.1" header.
+	<oompAbout>(image and text from sparkfun.com)
+
+This is a breakout board for the DS1077 is a dual-output, programmable, oscillator. Contains a filter capacitor and all 8 pins broken out to a 0.1" header.
 The DS1077 can be used as a processor-controlled frequency synthesizer or as a standalone oscillator. The two synchronous output operating frequencies are user-adjustable in submultiples of the master frequency through the use of two on-chip programmable prescalers and a divider. The specific output frequencies chosen are stored in non-volatile (EEPROM) memory. The DS1077 defaults to these values upon power-up.
-The DS1077 features a 2-wire serial interface that allows in-circuit on-the-fly programming of the programmable prescalers (P0 andamp; P1) and divider (N) with the desired values being stored in NV (EEPROM) memory. Design changes can be accommodated in-circuit on-the-fly by simply programming different values into the device (or reprogramming previously programmed devices). Alternatively, for fixed frequency applications, previously programmed devices can be used and no connection to the serial interface is required.              
-            
-                      
-              
+The DS1077 features a 2-wire serial interface that allows in-circuit on-the-fly programming of the programmable prescalers (P0 andamp; P1) and divider (N) with the desired values being stored in NV (EEPROM) memory. Design changes can be accommodated in-circuit on-the-fly by simply programming different values into the device (or reprogramming previously programmed devices). Alternatively, for fixed frequency applications, previously programmed devices can be used and no connection to the serial interface is required.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9116</oompOfficialLink>
 	<company>Sparkfun</company>

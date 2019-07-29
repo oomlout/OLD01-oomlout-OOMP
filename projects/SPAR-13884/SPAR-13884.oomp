@@ -5,13 +5,11 @@
 	<hexID>SPAR13884</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun LP55231 LED Driver Breakout is a self-contained solution for developing and deploying the nine-channel I2C LED controller. Remarkably simple, the breakout is equipped primarily with just the LP55231 LED controller IC, plus three RGB LEDs. It also features pads and jumpers for replacing the onboard LEDs with external ones, and configuring the I2C bus, which allows you to daisy-chain up to four LP55231s. This breakout drives the LEDs using Pulse Width Modulation (PWM), so it is well-suited for variable intensity and color-mixing applications!
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun LP55231 LED Driver Breakout is a self-contained solution for developing and deploying the nine-channel I2C LED controller. Remarkably simple, the breakout is equipped primarily with just the LP55231 LED controller IC, plus three RGB LEDs. It also features pads and jumpers for replacing the onboard LEDs with external ones, and configuring the I2C bus, which allows you to daisy-chain up to four LP55231s. This breakout drives the LEDs using Pulse Width Modulation (PWM), so it is well-suited for variable intensity and color-mixing applications!
 Originally designed to be used in mobile device and automotive applications, it isn't meant to be overwhelmingly bright, and it has some unique qualities. First, there is an onboard charge-pump power supply, which allows it to drive LEDs with a forward voltage that’s higher than the power supply voltage. Second, the LP55231 has an LED offload engine. This is an LED-specific microcontroller, which allows it to perform LED operations without requiring assistance from the host microcontroller. It can independently perform LED operations like chases, blinks and fades.
- Get Started with the LP55231 Breakout Guide               
-            
-                      
-              
+ Get Started with the LP55231 Breakout Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13884</oompOfficialLink>
 	<company>Sparkfun</company>

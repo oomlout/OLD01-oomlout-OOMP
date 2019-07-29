@@ -5,13 +5,11 @@
 	<hexID>SPAR09813</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is an evaluation board for the MLX90614 IR Thermometer. The sensor is connected to an ATmega328 running at 3.3V with a STK500 (Arduino) 8MHz bootloader. Code can be loaded through the FTDI basic interface and the Arduino environment.
+	<oompAbout>(image and text from sparkfun.com)
+
+This is an evaluation board for the MLX90614 IR Thermometer. The sensor is connected to an ATmega328 running at 3.3V with a STK500 (Arduino) 8MHz bootloader. Code can be loaded through the FTDI basic interface and the Arduino environment.
 The MLX9061 sensor is a high precision, small size, single zone IR thermometer with an optional SMBus (two-wire) or PWM interface. The ATMega328 comes with demo code that gives a temperature readout in degrees F at 38400bps. You can use a 3.3V FTDI Basic to connect to the board.
-This revision corrects the silkscreen error on the FTDI header. We've also added pull-up resistors to the I2C lines.              
-            
-                      
-              
+This revision corrects the silkscreen error on the FTDI header. We've also added pull-up resistors to the I2C lines.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9813</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ This revision corrects the silkscreen error on the FTDI header. We've also added
 
 
 	<numComponents>17</numComponents>
-	<numOompComponents>12</numOompComponents>
-	<oompCompletion>71</oompCompletion>
+	<numOompComponents>16</numOompComponents>
+	<oompCompletion>94</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -63,7 +61,7 @@ This revision corrects the silkscreen error on the FTDI header. We've also added
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  eagleValue: AVR_SPI_PRG_6PTH  eagleDevice: AVR_SPI_PRG_6PTH  eaglePackage: 2X3</compID>
+		<compID>HEAD-I01-X-PI2X03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -119,7 +117,7 @@ This revision corrects the silkscreen error on the FTDI header. We've also added
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  eagleValue: Reset  eagleDevice: TAC_SWITCHSMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
+		<compID>BUTA-52D-X-SMDS-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -133,14 +131,14 @@ This revision corrects the silkscreen error on the FTDI header. We've also added
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  eagleValue: ATMEGA328  eagleDevice: ATMEGA168  eaglePackage: TQFP32-08</compID>
+		<compID>ICIC-TQ32-X-K328-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  eagleValue: 3.3V_REG  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

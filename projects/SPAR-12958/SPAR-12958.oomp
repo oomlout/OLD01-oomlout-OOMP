@@ -5,13 +5,11 @@
 	<hexID>SPAR12958</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                If you aren't familiar with the Electric Imp, it essentially provides an easy, integrated way to connect almost any hardware device both to other devices and to Internet services. The SparkFun Electric Imp imp002 Breakout allows you to explore the capabilities of the Imp product line in an easy to use package! The imp002 is actually a solder-down module version of the original Imp card and we have done the hard work of creating a breakout board for you. Now, you just need one board instead two (the Imp card and the original Imp breakout) to get started with the Electric Imp!
+	<oompAbout>(image and text from sparkfun.com)
+
+If you aren't familiar with the Electric Imp, it essentially provides an easy, integrated way to connect almost any hardware device both to other devices and to Internet services. The SparkFun Electric Imp imp002 Breakout allows you to explore the capabilities of the Imp product line in an easy to use package! The imp002 is actually a solder-down module version of the original Imp card and we have done the hard work of creating a breakout board for you. Now, you just need one board instead two (the Imp card and the original Imp breakout) to get started with the Electric Imp!
 The imp002 breakout board contains a 3.3V TPS62172 step-down regulator (and the inductor/capacitors supporting it). This regulator allows for input voltages anywhere between 3.3V and 17V (voltages in the upper end of that range may produce some heat). This breakout can even support up to 500mA of continuous current. Like the Imp card, the imp002 module contains an embedded ARM Cortex-M3 microprocessor, an onboard WiFi module, and an antenna. Additionally, we have broken out 12 I/O pins from the imp002 module to standard 0.1" headers. Much like the Imp card, these pins can be used for a variety of functions.
-Note: Check out the Hookup Guide in the Documents section below to learn how to, not only, how to set up imp002 Breakout but also a few fun circuit experiments as well!              
-            
-                      
-              
+Note: Check out the Hookup Guide in the Documents section below to learn how to, not only, how to set up imp002 Breakout but also a few fun circuit experiments as well!
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/12958</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ Note: Check out the Hookup Guide in the Documents section below to learn how to,
 
 
 	<numComponents>22</numComponents>
-	<numOompComponents>14</numOompComponents>
-	<oompCompletion>64</oompCompletion>
+	<numOompComponents>16</numOompComponents>
+	<oompCompletion>73</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -77,7 +75,7 @@ Note: Check out the Hookup Guide in the Documents section below to learn how to,
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: DIODE-SCHOTTKY-MBRA140  eaglePackage: SMA-DIODE</compID>
+		<compID>DIOS-D214-X-A01-V40</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -98,7 +96,7 @@ Note: Check out the Hookup Guide in the Documents section below to learn how to,
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: DMG2307L  eagleDevice: MOSFET-PCHANNELDMG2307L  eaglePackage: SOT23-3</compID>
+		<compID>MOSP-SO23-X-A25D-V30</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

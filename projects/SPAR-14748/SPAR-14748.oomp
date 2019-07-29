@@ -5,17 +5,15 @@
 	<hexID>SPAR14748</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The VEML6075 UV Light Sensor Breakout is SparkFun’s latest ultraviolet sensing solution. The VEML6075 implements a simple photodiode to measure the levels of UVA (320-400nm) and UVB (280-320nm) radiation. With this breakout, you will be able to read the intensity of these types of light in irradiance, and from there, calculate the UV Index. Utilizing our handy Qwiic system, no soldering is required to connect it to the rest of your system. However, we still have broken out 0.1"-spaced pins in case you prefer to use a breadboard.
+	<oompAbout>(image and text from sparkfun.com)
+
+The VEML6075 UV Light Sensor Breakout is SparkFun’s latest ultraviolet sensing solution. The VEML6075 implements a simple photodiode to measure the levels of UVA (320-400nm) and UVB (280-320nm) radiation. With this breakout, you will be able to read the intensity of these types of light in irradiance, and from there, calculate the UV Index. Utilizing our handy Qwiic system, no soldering is required to connect it to the rest of your system. However, we still have broken out 0.1"-spaced pins in case you prefer to use a breadboard.
 The UV Light Sensor Breakout has two spectrum ranges of measurement, UVA (365 ±10nm), and UVB (330 ±10nm) and is capable of converting ultraviolet light intensity to digital data for you to read. The VEML6075 features a simple I2C interface, making it perfect for our Qwiic Connect System, while at the same time not requiring any voltage translation.
 We've also written an Arduino library for the VEML6075 Breakout in order for you to begin reading UV sensor data even faster!
 
 The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shields and cables that make prototyping faster and less prone to error. All Qwiic-enabled boards use a common 1mm pitch, 4-pin JST connector. This reduces the amount of required PCB space, and polarized connections mean you can’t hook it up wrong.
 
- Get Started With the SparkFun UV Light Sensor Breakout Guide               
-            
-                      
-              
+ Get Started With the SparkFun UV Light Sensor Breakout Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14748</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -25,8 +23,8 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 
 
 	<numComponents>9</numComponents>
-	<numOompComponents>7</numOompComponents>
-	<oompCompletion>78</oompCompletion>
+	<numOompComponents>8</numOompComponents>
+	<oompCompletion>89</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -53,7 +51,7 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  eagleValue: PTH  eagleDevice: I2C_STANDARD_NO_SILK  eaglePackage: 1X04_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI04-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -5,17 +5,15 @@
 	<hexID>SPAR14690</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun Proximity Sensor Breakout is a simple IR presence and ambient light sensor utilizing the VCNL4040. This type of sensor is often seen in automatic towel and soap dispensers or automatic faucets. With the ability to detect objects qualitatively up to 20cm away, you will be able to detect if something is there and if it is closer or further away since the last reading. Utilizing our handy Qwiic system, no soldering is required to connect it to the rest of your system. However, we still have broken out 0.1"-spaced pins in case you prefer to use a breadboard.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun Proximity Sensor Breakout is a simple IR presence and ambient light sensor utilizing the VCNL4040. This type of sensor is often seen in automatic towel and soap dispensers or automatic faucets. With the ability to detect objects qualitatively up to 20cm away, you will be able to detect if something is there and if it is closer or further away since the last reading. Utilizing our handy Qwiic system, no soldering is required to connect it to the rest of your system. However, we still have broken out 0.1"-spaced pins in case you prefer to use a breadboard.
 The SparkFun Proximity Sensor Breakout is a great digital alternative to the popular analog based Sharp sensors. The VCNL4040 has no dead zone and can read all the way up to the face of the sensor. This sensor also has an ambient light sensor built it which is excellent if you need a digital light sensor for your next glitter cannon. If you need quantitative distance readings (for example sensing that an object is 177mm away) check out the SparkFun 2 meter and 4 meter Time of Flight (ToF) sensors with mm accuracy.
 We've written an Arduino library to flex every feature of this sensor. You can grab it from the Arduino Library Manager or from the SparkFun repo.
 
 The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shields and cables that make prototyping faster and less prone to error. All Qwiic-enabled boards use a common 1mm pitch, 4-pin JST connector. This reduces the amount of required PCB space, and polarized connections mean you can’t hook it up wrong.
 
- Get Started With the SparkFun Qwiic Proximity Sensor Guide               
-            
-                      
-              
+ Get Started With the SparkFun Qwiic Proximity Sensor Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14690</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -25,8 +23,8 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 
 
 	<numComponents>13</numComponents>
-	<numOompComponents>9</numOompComponents>
-	<oompCompletion>69</oompCompletion>
+	<numOompComponents>11</numOompComponents>
+	<oompCompletion>85</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -67,7 +65,7 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  eagleValue: PTH  eagleDevice: I2C_STANDARD_NO_SILK  eaglePackage: 1X04_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI04-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -81,7 +79,7 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI01-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

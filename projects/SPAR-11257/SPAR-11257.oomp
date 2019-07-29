@@ -5,13 +5,11 @@
 	<hexID>SPAR11257</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                Meet Mr. Roboto! He's an Arduino-compatible development board designed to be used as a teaching tool for Arduino programming. All of the surface mount components come pre-soldered so a few minutes of simple through-hole soldering is all it takes to get him up and running. After the kit is put together, the on board sensors, buzzer and LCD screen make an excellent platform for learning how to write code for physical computing.
+	<oompAbout>(image and text from sparkfun.com)
+
+Meet Mr. Roboto! He's an Arduino-compatible development board designed to be used as a teaching tool for Arduino programming. All of the surface mount components come pre-soldered so a few minutes of simple through-hole soldering is all it takes to get him up and running. After the kit is put together, the on board sensors, buzzer and LCD screen make an excellent platform for learning how to write code for physical computing.
 Mr. Roboto's "hair" is an FTDI programming header. Simply connect an FTDI breakout board and select "Arduino Pro or Pro Mini (5V, 16MHz) w/ ATMega328" under the boards menu in Arduino 1.0. Below, you'll find an archive of well-commented educational example sketches and an accompanying "readme" file describing what each one does in order of complexity. This board, combined with the example code which you can download below, is a great way to introduce students (or yourself) to physical computing and get started writing code. Thank you *very *much, Mr. Roboto!
-We've made a minor change to the hardware, the new version has a new voltage regulator. This doesn't change the way the kit works, though, no worries.              
-            
-                      
-              
+We've made a minor change to the hardware, the new version has a new voltage regulator. This doesn't change the way the kit works, though, no worries.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/11257</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ We've made a minor change to the hardware, the new version has a new voltage reg
 
 
 	<numComponents>23</numComponents>
-	<numOompComponents>10</numOompComponents>
-	<oompCompletion>43</oompCompletion>
+	<numOompComponents>14</numOompComponents>
+	<oompCompletion>61</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -91,14 +89,14 @@ We've made a minor change to the hardware, the new version has a new voltage reg
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  eagleValue: RED  eagleDevice: LED5MM-KIT  eaglePackage: LED5MM-KIT</compID>
+		<compID>LEDS-05-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>LED3</compIden>
-		<compID>NOT OOMP  eagleValue: RED  eagleDevice: LED5MM-KIT  eaglePackage: LED5MM-KIT</compID>
+		<compID>LEDS-05-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -161,7 +159,7 @@ We've made a minor change to the hardware, the new version has a new voltage reg
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  eagleValue: ATmega328  eagleDevice: ATMEGA168  eaglePackage: TQFP32-08</compID>
+		<compID>ICIC-TQ32-X-K328-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -182,7 +180,7 @@ We've made a minor change to the hardware, the new version has a new voltage reg
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  eagleValue: 16mhz  eagleDevice: RESONATORSMD  eaglePackage: RESONATOR-SMD</compID>
+		<compID>CERE-1263-X-MZ16-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

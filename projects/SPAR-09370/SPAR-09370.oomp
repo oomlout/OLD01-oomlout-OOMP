@@ -5,14 +5,12 @@
 	<hexID>SPAR09370</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is a breakout board for our non-isolated, 6A DC-to-DC Converter Module. The module can convert any DC voltage between 4.5-14VDC to a selectable voltage between 0.59 and 5.5VDC.
+	<oompAbout>(image and text from sparkfun.com)
+
+This is a breakout board for our non-isolated, 6A DC-to-DC Converter Module. The module can convert any DC voltage between 4.5-14VDC to a selectable voltage between 0.59 and 5.5VDC.
 To set the output voltage to the desired level, a resistor must be added between the Trim and GND pins. For example, to set the module to output 5V use a 1.34kO resistor, or to get 3.3V use a 2.182kO. See table 1 in the module's datasheet for more resistor values.
 The ON/OFF pin on the board can be pulled high to turn the converter module on and low to turn it off.
-Board comes as shown, with all components (aside from the trim resistor) populated. Access to all pins of the converter module is provided by two, 0.1" pitch headers.              
-            
-                      
-              
+Board comes as shown, with all components (aside from the trim resistor) populated. Access to all pins of the converter module is provided by two, 0.1" pitch headers.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9370</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ Board comes as shown, with all components (aside from the trim resistor) populat
 
 
 	<numComponents>9</numComponents>
-	<numOompComponents>4</numOompComponents>
-	<oompCompletion>44</oompCompletion>
+	<numOompComponents>7</numOompComponents>
+	<oompCompletion>78</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -50,21 +48,21 @@ Board comes as shown, with all components (aside from the trim resistor) populat
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>IN</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: M05PTH  eaglePackage: 1X05</compID>
+		<compID>HEAD-I01-X-PI05-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>OUT</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: M03PTH  eaglePackage: 1X03</compID>
+		<compID>HEAD-I01-X-PI03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: MOSFET-NCHANNELSMD  eagleDevice: MOSFET-NCHANNELSMD  eaglePackage: SOT23-3</compID>
+		<compID>MOSN-SO23-X-A02D-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -5,12 +5,10 @@
 	<hexID>SPAR11189</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The 'must have' IC for TTL/CMOS projects finally has its own breakout board! This is the RS232 converter IC that is capable of running at 3V and communicating with 5V logic.
-We've taken the SOIC package MAX3232 and broken out all the pins you need to set up your RS232 to TTL connection. We've also included the necessary 0.1uF charge pump capacitors. Also remember that because the MAX3232 operates at a broader voltage range than the 232 (3 - 5.5V) you can use this on both your 3.3 and 5V projects!              
-            
-                      
-              
+	<oompAbout>(image and text from sparkfun.com)
+
+The 'must have' IC for TTL/CMOS projects finally has its own breakout board! This is the RS232 converter IC that is capable of running at 3V and communicating with 5V logic.
+We've taken the SOIC package MAX3232 and broken out all the pins you need to set up your RS232 to TTL connection. We've also included the necessary 0.1uF charge pump capacitors. Also remember that because the MAX3232 operates at a broader voltage range than the 232 (3 - 5.5V) you can use this on both your 3.3 and 5V projects!
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/11189</oompOfficialLink>
 	<company>Sparkfun</company>

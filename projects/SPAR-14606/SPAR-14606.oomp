@@ -5,13 +5,11 @@
 	<hexID>SPAR14606</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                It's typically better to have a flexible mind and outlook on life, so the same should go for OLED displays! The SparkFun Flexible Grayscale OLED Breakout is pretty much exactly what the name says it is: a small grayscale OLED that can be bent up to a 40mm radius without any worry of damage. Attached to a controller board, the actual display is less than 0.5mm thick and can display some impressive graphics (including BMP images, a variety of text options, or even a game of Pong) with great contrast.
+	<oompAbout>(image and text from sparkfun.com)
+
+It's typically better to have a flexible mind and outlook on life, so the same should go for OLED displays! The SparkFun Flexible Grayscale OLED Breakout is pretty much exactly what the name says it is: a small grayscale OLED that can be bent up to a 40mm radius without any worry of damage. Attached to a controller board, the actual display is less than 0.5mm thick and can display some impressive graphics (including BMP images, a variety of text options, or even a game of Pong) with great contrast.
 The OLED display is 1.81" long with 160x32 4-bit grayscale pixels with a 3-wire SPI interface. This means you will need a processor capable of storing a local array of 2,560 bytes in order to truly flex the power of the grayscale display. The Flexible OLED is fairly simple to connect to your microcontroller. You can either solder headers to the OLED breakout or solder wires straight to the breakout pins. The on-board buffer on the breakout also provides you with an option to hook the display straight up to 3.3V or 5V logic without the need for any logic conversion circuitry.
- Get Started with the Flexible Grayscale OLED Breakout Guide               
-            
-                      
-              
+ Get Started with the Flexible Grayscale OLED Breakout Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14606</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ The OLED display is 1.81" long with 160x32 4-bit grayscale pixels with a 3-wire 
 
 
 	<numComponents>20</numComponents>
-	<numOompComponents>13</numOompComponents>
-	<oompCompletion>65</oompCompletion>
+	<numOompComponents>16</numOompComponents>
+	<oompCompletion>80</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -105,7 +103,7 @@ The OLED display is 1.81" long with 160x32 4-bit grayscale pixels with a 3-wire 
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  eagleValue: 1A/23V/620mV  eagleDevice: DIODE-SCHOTTKY-BAT20J  eaglePackage: SOD-323</compID>
+		<compID>DIOS-S323-X-A01-V23</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -119,7 +117,7 @@ The OLED display is 1.81" long with 160x32 4-bit grayscale pixels with a 3-wire 
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_06NO_SILK_NO_POP  eaglePackage: 1X06_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI06-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -154,7 +152,7 @@ The OLED display is 1.81" long with 160x32 4-bit grayscale pixels with a 3-wire 
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

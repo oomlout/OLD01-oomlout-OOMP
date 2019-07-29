@@ -5,13 +5,11 @@
 	<hexID>SPAR10587</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                Do you ever wish your Arduino was more musically talented? Or maybe your project could use some cool sound effects. The SparkFun Musical Instrument Shield is an easy way to add great sounding MIDI sound to your next Arduino project. This board is built around the VS1053 MP3 and MIDI codec IC, wired in MIDI mode. Simply connect a speaker/stereo/pair of headphones to the 1/8" stereo jack on the shied and pass the proper serial commands to the IC and you'll be playing music in no time!
+	<oompAbout>(image and text from sparkfun.com)
+
+Do you ever wish your Arduino was more musically talented? Or maybe your project could use some cool sound effects. The SparkFun Musical Instrument Shield is an easy way to add great sounding MIDI sound to your next Arduino project. This board is built around the VS1053 MP3 and MIDI codec IC, wired in MIDI mode. Simply connect a speaker/stereo/pair of headphones to the 1/8" stereo jack on the shied and pass the proper serial commands to the IC and you'll be playing music in no time!
 The VS1053 contains two large tonebanks including various piano, woodwinds, brass, synth, SFX and percussion sounds. The shield is also capable of playing several tones simultaneously (maximum polyphony of up to 31 sounds!). Take a look at our example code to get an idea of how easy it is to add musical zest to your next Arduino gadget.
-In this version, we're using a better regulator, corrected the speaker connectors, and have the reset pin pulled high. We've also included solder jumpers for pin 3 and 4 so they're selectable.              
-            
-                      
-              
+In this version, we're using a better regulator, corrected the speaker connectors, and have the reset pin pulled high. We've also included solder jumpers for pin 3 and 4 so they're selectable.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/10587</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ In this version, we're using a better regulator, corrected the speaker connector
 
 
 	<numComponents>37</numComponents>
-	<numOompComponents>30</numOompComponents>
-	<oompCompletion>81</oompCompletion>
+	<numOompComponents>32</numOompComponents>
+	<oompCompletion>86</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -245,14 +243,14 @@ In this version, we're using a better regulator, corrected the speaker connector
 	<component>
 		<compIndex>32</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  eagleValue: Reset  eagleDevice: SWITCH-MOMENTARY-2SMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
+		<compID>BUTA-52D-X-SMDS-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>33</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

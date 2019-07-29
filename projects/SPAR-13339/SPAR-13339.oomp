@@ -5,13 +5,11 @@
 	<hexID>SPAR13339</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The LSM6DS3 is a accelerometer and gyroscope sensor with a giant 8kb FIFO buffer and embedded processing interrupt functions, specifically targeted at the cellphone market. Due to the capabilities and low cost of the LSM6DS3 we've created this small breakout board just for you! Each LSM6DS3 Breakout has been designed to be super-flexible and can be configured specifically for many applications. With the LSM6DS3 Breakout you will be able to detect shocks, tilt, motion, taps, count steps, and even read the temperature!
+	<oompAbout>(image and text from sparkfun.com)
+
+The LSM6DS3 is a accelerometer and gyroscope sensor with a giant 8kb FIFO buffer and embedded processing interrupt functions, specifically targeted at the cellphone market. Due to the capabilities and low cost of the LSM6DS3 we've created this small breakout board just for you! Each LSM6DS3 Breakout has been designed to be super-flexible and can be configured specifically for many applications. With the LSM6DS3 Breakout you will be able to detect shocks, tilt, motion, taps, count steps, and even read the temperature!
 The LSM6DS3 is capable of reading accelerometer data up to 6.7kS/s and gyroscope data up to 1.7kS/s for more accurate movement sensing. As stated before this breakout also has the ability to buffer up to 8kB of data between reads, host other sensors, and drive interrupt pins all thanks to the LSM6DS3's built-in FIFO.
-Each pin has been broken out on the LSM6DS3, with one side of the board featuring power and I2C functionality while the other side sporting pins that control SPI functionality and interrupt outputs. Please keep in mind that the LSM6DS3 is a 3.3V device so supplying voltages greater than ~3.6V can permanently damage the IC. A logic level shifter is required for any development platform operating at 5V.              
-            
-                      
-              
+Each pin has been broken out on the LSM6DS3, with one side of the board featuring power and I2C functionality while the other side sporting pins that control SPI functionality and interrupt outputs. Please keep in mind that the LSM6DS3 is a 3.3V device so supplying voltages greater than ~3.6V can permanently damage the IC. A logic level shifter is required for any development platform operating at 5V.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13339</oompOfficialLink>
 	<company>Sparkfun</company>

@@ -5,14 +5,12 @@
 	<hexID>SPAR11988</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun Inventor’s Kit for RedBot is a great way to get started with two motor robotics and sensor integration using the Arduino programming language. The SIK for RedBot includes everything you need to complete nine circuits that will teach you how to drive your RedBot, have it follow lines, control it remotely, and more. This kit doesn't require previous programming or electronics experience but it is recommended that you possess an understanding of or desire to learn about robotics.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun Inventor’s Kit for RedBot is a great way to get started with two motor robotics and sensor integration using the Arduino programming language. The SIK for RedBot includes everything you need to complete nine circuits that will teach you how to drive your RedBot, have it follow lines, control it remotely, and more. This kit doesn't require previous programming or electronics experience but it is recommended that you possess an understanding of or desire to learn about robotics.
 The SparkFun RedBot is a great way to get your feet wet in the world of robotics. However, once you have assembled your RedBot, you may be at a loss as to where to go from there. The on-line SIK for RedBot Digital Guide (in the Documents section below) contains step by step instructions of how to connect each circuit and assemble the kit into a full-fledged robot with all of the included parts. Full example code is provided and explained and even includes troubleshooting tips if something goes wrong. Once you’ve mastered each experiment, you can take what you’ve learned and apply it to creating your own robot platform.
 The kit does not require any soldering and is recommended for anyone curious about robotics or if you have used the original SparkFun Inventor's Kit and are looking for the next step in programming education.
-Note: The Experiment Guide in the Documents section below includes full example to code to get your RedBot functioning and moving as quickly as possible.              
-            
-                      
-              
+Note: The Experiment Guide in the Documents section below includes full example to code to get your RedBot functioning and moving as quickly as possible.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/11988</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ Note: The Experiment Guide in the Documents section below includes full example 
 
 
 	<numComponents>43</numComponents>
-	<numOompComponents>29</numOompComponents>
-	<oompCompletion>67</oompCompletion>
+	<numOompComponents>37</numOompComponents>
+	<oompCompletion>86</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -85,14 +83,14 @@ Note: The Experiment Guide in the Documents section below includes full example 
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: B340A  eaglePackage: SMA-DIODE</compID>
+		<compID>DIOS-D214-X-A3-V30</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: B340A  eaglePackage: SMA-DIODE</compID>
+		<compID>DIOS-D214-X-A3-V30</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -127,7 +125,7 @@ Note: The Experiment Guide in the Documents section below includes full example 
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  eagleValue: PTCSMD  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
+		<compID>REFU-1206-X-A05D-V8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -239,21 +237,21 @@ Note: The Experiment Guide in the Documents section below includes full example 
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  eagleValue: DPDT  eagleDevice: SWITCH-DPDTAYZ0202  eaglePackage: AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>32</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  eagleValue: DPDT  eagleDevice: SWITCH-DPDTAYZ0202  eaglePackage: AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>33</compIndex>
 		<compIden>S3</compIden>
-		<compID>NOT OOMP  eagleValue: DPDT  eagleDevice: SWITCH-DPDTAYZ0202  eaglePackage: AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -302,7 +300,7 @@ Note: The Experiment Guide in the Documents section below includes full example 
 	<component>
 		<compIndex>40</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  eagleValue: MIC5219 3.3V  eagleDevice: V_REG_MIC52193.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A05D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -323,7 +321,7 @@ Note: The Experiment Guide in the Documents section below includes full example 
 	<component>
 		<compIndex>43</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  eagleValue: 16MHz  eagleDevice: RESONATOR16MHZ  eaglePackage: RESONATOR-SMD</compID>
+		<compID>CERE-1263-X-MZ16-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

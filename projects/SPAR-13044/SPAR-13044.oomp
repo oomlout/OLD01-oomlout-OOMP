@@ -5,12 +5,10 @@
 	<hexID>SPAR13044</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The Intel® Edison is an ultra small computing platform that will change the way you look at embedded electronics. Each Edison is packed with a huge amount of tech goodies into a tiny package while still providing the same robust strength of your go-to single board computer. Powered by the Intel® Atom™ SoC dual-core CPU and including an integrated WiFi, Bluetooth LE, and a 70-pin connector to attach a veritable slew of shield-like "Blocks" which can be stacked on top of each other. It's no wonder how this little guy is lowering the barrier of entry on the world of electronics!
-Since the Edison offers a large number of GPIO and communication bus pins, these pins can be mapped to the exact same footprint as the Raspberry Pi B's GPIO header. The Pi Block lets you use your existing Raspberry Pi B peripherals and expansion boards with your Edison while still providing level-shifted access to basic GPIO, PWM, UART, I2C, and SPI communication! This block combines the functionality of the GPIO Block and I2C Block with additional features to streamline development.              
-            
-                      
-              
+	<oompAbout>(image and text from sparkfun.com)
+
+The Intel® Edison is an ultra small computing platform that will change the way you look at embedded electronics. Each Edison is packed with a huge amount of tech goodies into a tiny package while still providing the same robust strength of your go-to single board computer. Powered by the Intel® Atom™ SoC dual-core CPU and including an integrated WiFi, Bluetooth LE, and a 70-pin connector to attach a veritable slew of shield-like "Blocks" which can be stacked on top of each other. It's no wonder how this little guy is lowering the barrier of entry on the world of electronics!
+Since the Edison offers a large number of GPIO and communication bus pins, these pins can be mapped to the exact same footprint as the Raspberry Pi B's GPIO header. The Pi Block lets you use your existing Raspberry Pi B peripherals and expansion boards with your Edison while still providing level-shifted access to basic GPIO, PWM, UART, I2C, and SPI communication! This block combines the functionality of the GPIO Block and I2C Block with additional features to streamline development.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13044</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -20,8 +18,8 @@ Since the Edison offers a large number of GPIO and communication bus pins, these
 
 
 	<numComponents>35</numComponents>
-	<numOompComponents>23</numOompComponents>
-	<oompCompletion>66</oompCompletion>
+	<numOompComponents>27</numOompComponents>
+	<oompCompletion>77</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -118,7 +116,7 @@ Since the Edison offers a large number of GPIO and communication bus pins, these
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  eagleValue: BAT20J  eagleDevice: DIODE-SCHOTTKY-BAT20J  eaglePackage: SOD-323</compID>
+		<compID>DIOS-S323-X-A01-V23</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -132,7 +130,7 @@ Since the Edison offers a large number of GPIO and communication bus pins, these
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  eagleValue: PTCSMD  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
+		<compID>REFU-1206-X-A05D-V8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -146,7 +144,7 @@ Since the Edison offers a large number of GPIO and communication bus pins, these
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: 200mA/50V  eagleDevice: MOSFET-NCHANNELBSS138  eaglePackage: SOT23-3</compID>
+		<compID>MOSN-SO23-X-A02D-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -251,7 +249,7 @@ Since the Edison offers a large number of GPIO and communication bus pins, these
 	<component>
 		<compIndex>33</compIndex>
 		<compIden>U5</compIden>
-		<compID>NOT OOMP  eagleValue: MIC5219 3.3V  eagleDevice: V_REG_MIC52193.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A05D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

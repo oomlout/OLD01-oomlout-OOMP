@@ -5,14 +5,12 @@
 	<hexID>SPAR11259</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                A small, but mighty power supply. This board was designed to be as small and inconspicuous as possible. Pop in a AAA battery, flip the power switch, and you will have a 5V supply to power your LilyPad circuit. Good up to 200mA. Short circuit protected.
+	<oompAbout>(image and text from sparkfun.com)
+
+A small, but mighty power supply. This board was designed to be as small and inconspicuous as possible. Pop in a AAA battery, flip the power switch, and you will have a 5V supply to power your LilyPad circuit. Good up to 200mA. Short circuit protected.
 This board has AAA battery clips but can use an input from 1.2V to 5V. Our lithium polymer batteries are a good, rechargeable alternative.
 LilyPad is a wearable e-textile technology developed by Leah Buechley and cooperatively designed by Leah and SparkFun. Each LilyPad was creatively designed to have large connecting pads to allow them to be sewn into clothing. Various input, output, power, and sensor boards are available. They're even washable - but be sure to remove the battery!
-Note: A portion of this sale is given back to Dr. Leah Buechley for continued development and education of e-textiles.              
-            
-                      
-              
+Note: A portion of this sale is given back to Dr. Leah Buechley for continued development and education of e-textiles.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/11259</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 
 
 	<numComponents>11</numComponents>
-	<numOompComponents>4</numOompComponents>
-	<oompCompletion>36</oompCompletion>
+	<numOompComponents>7</numOompComponents>
+	<oompCompletion>64</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -64,7 +62,7 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  eagleValue: PTC 5V/500mA  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
+		<compID>REFU-1206-X-A05D-V8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -78,7 +76,7 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED1206  eaglePackage: LED-1206</compID>
+		<compID>LEDS-1206-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -92,7 +90,7 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  eagleValue: AYZ0202  eagleDevice: AYZ0202  eaglePackage: AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

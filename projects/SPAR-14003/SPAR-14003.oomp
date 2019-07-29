@@ -5,13 +5,11 @@
 	<hexID>SPAR14003</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The THAT 1646 OutSmarts Breakout Board offers an easy solution to adding a balanced audio output to your circuits. The THAT OutSmarts technology has been designed as a high-grade analog line driver and offers a low distortion and high common mode rejection in real-world audio applications. Each breakout board combines the THAT 1646 IC, its supporting components and a ¼" TRS (Tip Ring Sleeve) socket. With these powers combined, you will find it very easy to use the output drivers on breadboards and in projects!
+	<oompAbout>(image and text from sparkfun.com)
+
+The THAT 1646 OutSmarts Breakout Board offers an easy solution to adding a balanced audio output to your circuits. The THAT OutSmarts technology has been designed as a high-grade analog line driver and offers a low distortion and high common mode rejection in real-world audio applications. Each breakout board combines the THAT 1646 IC, its supporting components and a ¼" TRS (Tip Ring Sleeve) socket. With these powers combined, you will find it very easy to use the output drivers on breadboards and in projects!
 The THAT 1646 OutSmarts Breakout and its sibling, the THAT 1206 InGenius Breakout, perform mirror-image signal conversion. While the InGenius is a balanced-to-unbalanced input receiver, this OutSmarts is an unbalanced-to-balanced output driver. We have made sure to break out each pin you need to utilize the OutSmarts board including the unbalanced input (IN), the positive and negative power supply rails (V+, V-) and, of course, ground (GND). Additionally, adjacent to each leg of the socket are test points for the signal (T, R, S) and normal (TN, RN, SN) contacts.
- Get Started with the THAT 1646 OutSmarts Guide               
-            
-                      
-              
+ Get Started with the THAT 1646 OutSmarts Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14003</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ The THAT 1646 OutSmarts Breakout and its sibling, the THAT 1206 InGenius Breakou
 
 
 	<numComponents>20</numComponents>
-	<numOompComponents>7</numOompComponents>
-	<oompCompletion>35</oompCompletion>
+	<numOompComponents>14</numOompComponents>
+	<oompCompletion>70</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -98,28 +96,28 @@ The THAT 1646 OutSmarts Breakout and its sibling, the THAT 1206 InGenius Breakou
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  eagleValue: SN  eagleDevice: M01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI01-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  eagleValue: S  eagleDevice: M01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI01-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  eagleValue: TN  eagleDevice: M01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI01-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  eagleValue: RN  eagleDevice: M01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI01-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -133,21 +131,21 @@ The THAT 1646 OutSmarts Breakout and its sibling, the THAT 1206 InGenius Breakou
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>J7</compIden>
-		<compID>NOT OOMP  eagleValue: T  eagleDevice: M01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI01-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>J8</compIden>
-		<compID>NOT OOMP  eagleValue: R  eagleDevice: M01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI01-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>J9</compIden>
-		<compID>NOT OOMP  eagleValue: Chassis  eagleDevice: M01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI01-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

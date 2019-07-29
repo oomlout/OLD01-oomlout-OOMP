@@ -5,15 +5,13 @@
 	<hexID>SPAR13120</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The MG2639 SparkFun Cellular Shield is a perfect addition to any Arduino project that requires connectivity when there’s no WiFi or Ethernet access nearby. The ZTE MG2639 module, which this shield is built around, supports SMS, TCP, UDP, and can even be used to make or receive phone calls! That means you can send and receive text messages, or use it to remotely connect your Arduino to the Internet. To top it off, it has an integrated GPS receiver, to help it from getting lost.
+	<oompAbout>(image and text from sparkfun.com)
+
+The MG2639 SparkFun Cellular Shield is a perfect addition to any Arduino project that requires connectivity when there’s no WiFi or Ethernet access nearby. The ZTE MG2639 module, which this shield is built around, supports SMS, TCP, UDP, and can even be used to make or receive phone calls! That means you can send and receive text messages, or use it to remotely connect your Arduino to the Internet. To top it off, it has an integrated GPS receiver, to help it from getting lost.
 All the supporting circuitry is provided including translation from 2.8V of the module to a user selectable 3.3V or 5V. Depending on which state it’s in, the MG2639 module can be a relatively power-hungry device with a maximum current draw of the shield is around 350mA. It usually won’t pull that much, but may require around 260mA during phone calls or 80mA during network transmissions. Both the cellular and GPS functions of the MG2639 require an external antenna connected to the module. There are two U.FL connectors on the side of the chip – one labeled “GSM” the other “GPS.”
 Though the MG2639 is the key part of the SparkFun Cellular Shield one of the hardest parts in getting the shield to work is finding a suitable network and SIM card to run it on. The MG2639 works internationally on any GSM network but you’ll need a SIM card. We suggest picking up a prepaid “burner” phone – like a Go phone – and swap the SIM card into the shield.
 The Shield Hookup Guide found in the Documents section below has plenty of great instructions on how to get your cellular shield working and provides you with example sketches to receive SMS text messages, set up GPRS/TCP functionality, creating a DIY cell phone, and remotely post environment data to our data service running Phant.
-Note: The SparkFun Cellular Shield requires a passive GPS antenna with a short lead attached. Unfortunately, we do not carry this type of antenna at this time.              
-            
-                      
-              
+Note: The SparkFun Cellular Shield requires a passive GPS antenna with a short lead attached. Unfortunately, we do not carry this type of antenna at this time.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13120</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -23,8 +21,8 @@ Note: The SparkFun Cellular Shield requires a passive GPS antenna with a short l
 
 
 	<numComponents>32</numComponents>
-	<numOompComponents>27</numOompComponents>
-	<oompCompletion>84</oompCompletion>
+	<numOompComponents>28</numOompComponents>
+	<oompCompletion>88</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -135,7 +133,7 @@ Note: The SparkFun Cellular Shield requires a passive GPS antenna with a short l
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: MMBT2222A  eagleDevice: TRANSISTOR_NPNMMBT2222A  eaglePackage: SOT23-3</compID>
+		<compID>TRNN-SO23-X-A06D-V30</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

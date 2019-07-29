@@ -5,14 +5,12 @@
 	<hexID>SPAR10252</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The IMU 3000 breakout features a 3-axis MEMS digital gyro with programmable ranges from +-250 to +-2000 degrees/sec. In addition, it has a secondary I2C port that interfaces with a digital accelerometer to deliver a complete 6-axis sensor output from its primary I2C port. The fusion output offloads the intensive motion processing computation requirements from the host processor, reducing the need for frequent polling of the motion sensor output and enabling low cost, low power microcontrollers.
+	<oompAbout>(image and text from sparkfun.com)
+
+The IMU 3000 breakout features a 3-axis MEMS digital gyro with programmable ranges from +-250 to +-2000 degrees/sec. In addition, it has a secondary I2C port that interfaces with a digital accelerometer to deliver a complete 6-axis sensor output from its primary I2C port. The fusion output offloads the intensive motion processing computation requirements from the host processor, reducing the need for frequent polling of the motion sensor output and enabling low cost, low power microcontrollers.
 We provide you with a simple board which breaks out the necessary pins on the IMU 3000 and connects an ADXL345 accelerometer to the I2C input of the IMU 3000. There is even a 3.3v regulator as well.
 Having a hard time picking an IMU? Our Accelerometer, Gyro, and IMU Buying Guide might help!
-Note: The accelerometer on this board is connected to the auxiliary I2C input of the IMU3000 as suggested in the datasheet, in order to allow users who are familiar with the built-in DMP Engine to take advantage of the MotionFusion technology. The board will provide both gyro and accelerometer data as-is but further programming is required to retrieve MotionFusion data.              
-            
-                      
-              
+Note: The accelerometer on this board is connected to the auxiliary I2C input of the IMU3000 as suggested in the datasheet, in order to allow users who are familiar with the built-in DMP Engine to take advantage of the MotionFusion technology. The board will provide both gyro and accelerometer data as-is but further programming is required to retrieve MotionFusion data.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/10252</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ Note: The accelerometer on this board is connected to the auxiliary I2C input of
 
 
 	<numComponents>15</numComponents>
-	<numOompComponents>12</numOompComponents>
-	<oompCompletion>80</oompCompletion>
+	<numOompComponents>13</numOompComponents>
+	<oompCompletion>87</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -127,7 +125,7 @@ Note: The accelerometer on this board is connected to the auxiliary I2C input of
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

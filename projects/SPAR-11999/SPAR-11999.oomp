@@ -5,14 +5,12 @@
 	<hexID>SPAR11999</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                These simple switches are the Mechanical Bumper sensor for the SparkFun RedBot, giving you the ability to detect a collision before it really happens. This sensor works by acting as a SPST switch. When the "whisker" bumps into a foreign object it will make contact with a nut next to it, closing the connection and, by default, turning off the motor. By attaching these mechanical bumpers to you robot the whisker will bump something before your robot crashes into it.
+	<oompAbout>(image and text from sparkfun.com)
+
+These simple switches are the Mechanical Bumper sensor for the SparkFun RedBot, giving you the ability to detect a collision before it really happens. This sensor works by acting as a SPST switch. When the "whisker" bumps into a foreign object it will make contact with a nut next to it, closing the connection and, by default, turning off the motor. By attaching these mechanical bumpers to you robot the whisker will bump something before your robot crashes into it.
 The sensor has a 3-pin header which connects directly to the RedBot Mainboard via female to female jumper wires. Use the included RedBot library to make sure your robot never crashes into anything again.
 Check out the entire RedBot family of products!
-Note: Our RedBot tutorials utilize two of these Mechanical Bumper Sensors. Please take this into consideration before placing your order.              
-            
-                      
-              
+Note: Our RedBot tutorials utilize two of these Mechanical Bumper Sensors. Please take this into consideration before placing your order.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/11999</oompOfficialLink>
 	<company>Sparkfun</company>

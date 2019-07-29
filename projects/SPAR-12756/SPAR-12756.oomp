@@ -5,15 +5,13 @@
 	<hexID>SPAR12756</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This breakout board makes it easy to use the tiny MMA8452Q accelerometer in your project. The MMA8452Q is a smart low-power, three-axis, capacitive MEMS accelerometer with 12 bits of resolution. This accelerometer is packed with embedded functions with flexible user programmable options, configurable to two interrupt pins. Embedded interrupt functions allow for overall power savings relieving the host processor from continuously polling data.
+	<oompAbout>(image and text from sparkfun.com)
+
+This breakout board makes it easy to use the tiny MMA8452Q accelerometer in your project. The MMA8452Q is a smart low-power, three-axis, capacitive MEMS accelerometer with 12 bits of resolution. This accelerometer is packed with embedded functions with flexible user programmable options, configurable to two interrupt pins. Embedded interrupt functions allow for overall power savings relieving the host processor from continuously polling data.
 The MMA8452Q has user selectable full scales of ±2g/±4g/±8g with high pass filtered data as well as non filtered data available real-time. The device can be configured to generate inertial wake-up interrupt signals from any combination of the configurable embedded functions allowing the MMA8452Q to monitor events and remain in a low power mode during periods of inactivity.
 This board breaks out the ground, power, I2C and two external interrupt pins.
 Note: If you are looking for the SparkFun Triple Axis Accelerometer Breakout with headers, it can be found here or in the Recommended Products below.
- Get Started with the MMA8452Q Breakout Hookup Guide               
-            
-                      
-              
+ Get Started with the MMA8452Q Breakout Hookup Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/12756</oompOfficialLink>
 	<company>Sparkfun</company>

@@ -5,8 +5,9 @@
 	<hexID>SPAR14044</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The Spectacle Button Board allows you to add input from buttons, switches or other contact-type sensing devices to your Spectacle projects. This is the largest board in the Spectacle line due to its total of nine signal inputs, allowing for a large number of connections to a single module. Designed to bring simple signals from the world into your Spectacle projects, the Button Board provides input for any of your Spectacle projects!
+	<oompAbout>(image and text from sparkfun.com)
+
+The Spectacle Button Board allows you to add input from buttons, switches or other contact-type sensing devices to your Spectacle projects. This is the largest board in the Spectacle line due to its total of nine signal inputs, allowing for a large number of connections to a single module. Designed to bring simple signals from the world into your Spectacle projects, the Button Board provides input for any of your Spectacle projects!
 The Button Board is equipped with two 3.5mm TRRS jacks for Spectacle control signals from a Director Board. The one labeled “In” should be plugged into a board that is closer to the Director Board than the Button Board is, or into the Director Board itself. Make sure to pay attention to the directionality of the jacks, as they will dictate how your Spectacle modules speak with one another and with the Director Board. As with every other Spectacle module, you will need the Director Board to operate any Spectacle project.
 Additionally, there are eight “poke home” connectors on the Button Board. Each one can be connected to one (or more) buttons. To add a connection, simply push the stripped end of a wire into the hole on the connector. If you don't have any external buttons to add to your project, there is also a small input button on the board itself that can be used to provide an input signal and that functions like any other normal button that might be attached.
 We have written an in-depth User's Guide and Button Board Hookup Guide to help direct you through each step of setting up this and any board in the Spectacle product line. You will be surprised by how easy and quick it is to make yourself into a Spectacle!
@@ -14,10 +15,7 @@ We have written an in-depth User's Guide and Button Board Hookup Guide to help d
 Spectacle is a product ecosystem centered around a simple idea: creative people shouldn’t have to learn new skills to use electronics in their projects. You’ve spent years developing the skills you use, and SparkFun wants to recognize that and help you expand your creations to include electronics without requiring you to spend years learning about electronics and programming.
 
  Spectacle User's Guide Spectacle Programmer 
- Get Started with the Button Board               
-            
-                      
-              
+ Get Started with the Button Board
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14044</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -27,8 +25,8 @@ Spectacle is a product ecosystem centered around a simple idea: creative people 
 
 
 	<numComponents>47</numComponents>
-	<numOompComponents>23</numOompComponents>
-	<oompCompletion>49</oompCompletion>
+	<numOompComponents>36</numOompComponents>
+	<oompCompletion>77</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -146,56 +144,56 @@ Spectacle is a product ecosystem centered around a simple idea: creative people 
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: M02PTH  eaglePackage: 1X02</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: M02PTH  eaglePackage: 1X02</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: M02PTH  eaglePackage: 1X02</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: M02PTH  eaglePackage: 1X02</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: M02PTH  eaglePackage: 1X02</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>J6</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: M02PTH  eaglePackage: 1X02</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>J7</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: M02PTH  eaglePackage: 1X02</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>J8</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: M02PTH  eaglePackage: 1X02</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -265,7 +263,7 @@ Spectacle is a product ecosystem centered around a simple idea: creative people 
 	<component>
 		<compIndex>34</compIndex>
 		<compIden>J18</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: M05NO_SILK  eaglePackage: 1X05_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI05-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -279,7 +277,7 @@ Spectacle is a product ecosystem centered around a simple idea: creative people 
 	<component>
 		<compIndex>36</compIndex>
 		<compIden>J21</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: M06NO_SILK_NO_POP  eaglePackage: 1X06_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI06-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -321,14 +319,14 @@ Spectacle is a product ecosystem centered around a simple idea: creative people 
 	<component>
 		<compIndex>42</compIndex>
 		<compIden>SW1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH_SPST_4_PINRECT  eaglePackage: TACTILE_SWITCH_SMD_4.6X2.8MM</compID>
+		<compID>BUTA-4632-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>43</compIndex>
 		<compIden>SW2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH_SPST_4_PINRECT  eaglePackage: TACTILE_SWITCH_SMD_4.6X2.8MM</compID>
+		<compID>BUTA-4632-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -342,7 +340,7 @@ Spectacle is a product ecosystem centered around a simple idea: creative people 
 	<component>
 		<compIndex>45</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

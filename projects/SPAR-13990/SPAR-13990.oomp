@@ -5,14 +5,12 @@
 	<hexID>SPAR13990</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The nRF52832 is Nordic Semiconductor’s latest multiprotocol radio System on Chip (SoC). It’s half microcontroller, with a list of features including 32 configurable I/O pins, SPI, I2C, UART, PWM, ADC’s, 512kB flash, and 64kB RAM. And it’s half 2.4GHz multiprotocol radio, supporting Bluetooth Low Energy (BLE), ANT, and Nordic’s proprietary 2.4GHz ultra low-power wireless communication – it even features on-chip NFC tag support.
+	<oompAbout>(image and text from sparkfun.com)
+
+The nRF52832 is Nordic Semiconductor’s latest multiprotocol radio System on Chip (SoC). It’s half microcontroller, with a list of features including 32 configurable I/O pins, SPI, I2C, UART, PWM, ADC’s, 512kB flash, and 64kB RAM. And it’s half 2.4GHz multiprotocol radio, supporting Bluetooth Low Energy (BLE), ANT, and Nordic’s proprietary 2.4GHz ultra low-power wireless communication – it even features on-chip NFC tag support.
 SparkFun’s nRF52832 Breakout provides easy access to all of the chip’s features. It breaks out all of the nRF52’s I/O pins, provides a 32.768kHz RTC crystal, a user-programmable button and LED, and a trace antenna to send and receive those 2.4GHz transmissions. Plus, to make the chip as easy-to-flash as possible, the breakout comes pre-programmed with a serial bootloader.
 Nordic’s nRF52832 is an SoC that combines an ARM Cortex-M4F microprocessor with a 2.4GHz multiprotocol radio. In addition to providing access to all of the chip’s I/O pins, the breakout board includes a handful of external components. The nRF52832 can operate on a power supply between 1.7 and 3.6V. The board also includes a 3.3V regulator with a maximum input of 6V, if you want to power the board with batteries or a regulated wall supply.
- Get Started with the nRF52832 Breakout Guide               
-            
-                      
-              
+ Get Started with the nRF52832 Breakout Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13990</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ Nordic’s nRF52832 is an SoC that combines an ARM Cortex-M4F microprocessor with 
 
 
 	<numComponents>32</numComponents>
-	<numOompComponents>19</numOompComponents>
-	<oompCompletion>59</oompCompletion>
+	<numOompComponents>25</numOompComponents>
+	<oompCompletion>78</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -162,21 +160,21 @@ Nordic’s nRF52832 is an SoC that combines an ARM Cortex-M4F microprocessor with 
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_02PTH  eaglePackage: 1X02</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_17  eaglePackage: 1X17</compID>
+		<compID>HEAD-I01-X-PI17-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_17  eaglePackage: 1X17</compID>
+		<compID>HEAD-I01-X-PI17-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -211,21 +209,21 @@ Nordic’s nRF52832 is an SoC that combines an ARM Cortex-M4F microprocessor with 
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>SW1</compIden>
-		<compID>NOT OOMP  eagleValue: TACTILE_SWITCH_SMD_4_6X2_8MM  eagleDevice: SWITCH_SPST_4_PINRECT  eaglePackage: TACTILE_SWITCH_SMD_4.6X2.8MM</compID>
+		<compID>BUTA-4632-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>SW2</compIden>
-		<compID>NOT OOMP  eagleValue: TACTILE_SWITCH_SMD_4_6X2_8MM  eagleDevice: SWITCH_SPST_4_PINRECT  eaglePackage: TACTILE_SWITCH_SMD_4.6X2.8MM</compID>
+		<compID>BUTA-4632-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  eagleValue: AP2112K-3.3V  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -5,13 +5,11 @@
 	<hexID>SPAR08567</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun OpenLog is an open source data logger that works over a simple serial connection and supports microSD cards up to 32GB. The OpenLog can store or "log" huge amounts of serial data and act as a black box of sorts to store all the serial data that your project generates, for scientific or debugging purposes.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun OpenLog is an open source data logger that works over a simple serial connection and supports microSD cards up to 32GB. The OpenLog can store or "log" huge amounts of serial data and act as a black box of sorts to store all the serial data that your project generates, for scientific or debugging purposes.
 The SparkFun OpenLog uses an ATmega328 running at 16MHz thanks to the onboard resonator. The OpenLog draws approximately 2-3mA in idle (nothing to record) mode. During a full record OpenLog can draw 10 to 20mA depending on the microSD card being used.
-All data logged by the OpenLog is stored on the microSD card. Any 512MB to 32GB microSD card should work. OpenLog supports both FAT16 and FAT32 SD formats.              
-            
-                      
-              
+All data logged by the OpenLog is stored on the microSD card. Any 512MB to 32GB microSD card should work. OpenLog supports both FAT16 and FAT32 SD formats.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/8567</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ All data logged by the OpenLog is stored on the microSD card. Any 512MB to 32GB 
 
 
 	<numComponents>13</numComponents>
-	<numOompComponents>10</numOompComponents>
-	<oompCompletion>77</oompCompletion>
+	<numOompComponents>12</numOompComponents>
+	<oompCompletion>92</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -70,7 +68,7 @@ All data logged by the OpenLog is stored on the microSD card. Any 512MB to 32GB 
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: 16MHZ  eagleDevice: RESONATOR16MHZ  eaglePackage: RESONATOR-SMD</compID>
+		<compID>CERE-1263-X-MZ16-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -105,7 +103,7 @@ All data logged by the OpenLog is stored on the microSD card. Any 512MB to 32GB 
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  eagleValue: 3.3V MIC5205  eagleDevice: MIC52053.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A015D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

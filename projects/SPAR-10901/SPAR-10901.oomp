@@ -5,12 +5,10 @@
 	<hexID>SPAR10901</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                In physical computing it's sometimes nice to know how physically close you are to an object. In other words, you may need to know your 'proximity' to an object, that's where the VCNL4000 does its magic. Okay, it's not actually magic, it's a combination ambient light sensor and IR proximity sensor.
-The VCNL4000 can detect its proximity to an object using IR within a range of about 20cm. Proximity data as well as ambient light level data can be collected over an I2C interface. This breakout board gives you access to the I2C pins, the Vcc pin, GND and the IR+ pin (power supply for the built-in IR emitter). Simply give the board a clean 3.3V power source and give the IR emitter anywhere from 2.5-5V and you'll be able to tell how far you are from an object up to 20cm.              
-            
-                      
-              
+	<oompAbout>(image and text from sparkfun.com)
+
+In physical computing it's sometimes nice to know how physically close you are to an object. In other words, you may need to know your 'proximity' to an object, that's where the VCNL4000 does its magic. Okay, it's not actually magic, it's a combination ambient light sensor and IR proximity sensor.
+The VCNL4000 can detect its proximity to an object using IR within a range of about 20cm. Proximity data as well as ambient light level data can be collected over an I2C interface. This breakout board gives you access to the I2C pins, the Vcc pin, GND and the IR+ pin (power supply for the built-in IR emitter). Simply give the board a clean 3.3V power source and give the IR emitter anywhere from 2.5-5V and you'll be able to tell how far you are from an object up to 20cm.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/10901</oompOfficialLink>
 	<company>Sparkfun</company>

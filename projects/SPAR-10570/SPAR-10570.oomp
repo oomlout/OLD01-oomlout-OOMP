@@ -5,8 +5,9 @@
 	<hexID>SPAR10570</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                Replacement:DEV-11649. We have a new rev of this shield, go check it out! This page is for reference only.
+	<oompAbout>(image and text from sparkfun.com)
+
+Replacement:DEV-11649. We have a new rev of this shield, go check it out! This page is for reference only.
 The Danger Shield mounts on top of your Arduino or Arduino Pro and equips it with a variety of fun and useful inputs and outputs. The Danger Shield has so much potential; we can't wait to see what you're able to do with it! The shield's features include:
 
 Three linear slide potentiometers connected to the Arduino's analog pins 0 through 2.
@@ -18,10 +19,7 @@ A buzzer - so you can get sound out of your Arduino
 Capacitive Touch pad - Using the CapSense library to sense touch.
 This new version uses a different temperature sensor. This product comes as a kit of parts, which you'll have to solder into the included PCB. All parts are through-hole so it should go together relatively easily; but always check your component orientation before soldering!
 
-Replaces:DEV-10115              
-            
-                      
-              
+Replaces:DEV-10115
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/10570</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -31,8 +29,8 @@ Replaces:DEV-10115
 
 
 	<numComponents>31</numComponents>
-	<numOompComponents>15</numOompComponents>
-	<oompCompletion>48</oompCompletion>
+	<numOompComponents>21</numOompComponents>
+	<oompCompletion>68</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -52,21 +50,21 @@ Replaces:DEV-10115
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
+		<compID>LEDS-05-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  eagleValue: Yellow  eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
+		<compID>LEDS-05-Y-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>LED3</compIden>
-		<compID>NOT OOMP  eagleValue: Yellow  eagleDevice: LED5MM  eaglePackage: LED5MM</compID>
+		<compID>LEDS-05-Y-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -192,21 +190,21 @@ Replaces:DEV-10115
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  eagleValue: Button1  eagleDevice: SWITCH-MOMENTARY-212MM  eaglePackage: TACTILE-PTH-12MM</compID>
+		<compID>BUTA-12-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  eagleValue: Button2  eagleDevice: SWITCH-MOMENTARY-212MM  eaglePackage: TACTILE-PTH-12MM</compID>
+		<compID>BUTA-12-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>S3</compIden>
-		<compID>NOT OOMP  eagleValue: Button3  eagleDevice: SWITCH-MOMENTARY-212MM  eaglePackage: TACTILE-PTH-12MM</compID>
+		<compID>BUTA-12-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

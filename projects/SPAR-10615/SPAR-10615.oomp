@@ -5,13 +5,11 @@
 	<hexID>SPAR10615</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is the Arduino shield version of our TLC5940 Breakout. The SparkFun PWM Shield will allow you to generate up to 16 PWM signals from your Arduino by utilizing the power of the TLC5940 IC. All 16 PWM channels are broken out to standard 0.1" headers, which run alongside convenient voltage and ground rails. Because the IC can be daisy-chained, output headers are broken out on one side of the shield and can be connected to our TLC5940 Breakout to further expand your PWM capabilities.
+	<oompAbout>(image and text from sparkfun.com)
+
+This is the Arduino shield version of our TLC5940 Breakout. The SparkFun PWM Shield will allow you to generate up to 16 PWM signals from your Arduino by utilizing the power of the TLC5940 IC. All 16 PWM channels are broken out to standard 0.1" headers, which run alongside convenient voltage and ground rails. Because the IC can be daisy-chained, output headers are broken out on one side of the shield and can be connected to our TLC5940 Breakout to further expand your PWM capabilities.
 Use this board to increase the number of PWM pins available to your microcontroller for applications such as monocolor, multicolor or full-color LED displays, LED signboards, display backlighting, servo control, or any other project where a large number of PWM drivers are necessary.
-**Note: **While each 3-pin PWM header is 0.1" spaced, the space between each header is slightly larger in order to accommodate servo connections. In order to make this board suitable for use with servos, 2.2k pull-up resistors have been included on each output as well. Finally, the 2.2k resistor on the Iref pin sets the output current to 17.8mA but a parallel through-hole connection is provided for an additional resistor to increase the current if necessary. To determine the resistor value you need for a given output check the equations provided on the schematic below.              
-            
-                      
-              
+Note: While each 3-pin PWM header is 0.1" spaced, the space between each header is slightly larger in order to accommodate servo connections. In order to make this board suitable for use with servos, 2.2k pull-up resistors have been included on each output as well. Finally, the 2.2k resistor on the Iref pin sets the output current to 17.8mA but a parallel through-hole connection is provided for an additional resistor to increase the current if necessary. To determine the resistor value you need for a given output check the equations provided on the schematic below.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/10615</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ Use this board to increase the number of PWM pins available to your microcontrol
 
 
 	<numComponents>29</numComponents>
-	<numOompComponents>22</numOompComponents>
-	<oompCompletion>76</oompCompletion>
+	<numOompComponents>24</numOompComponents>
+	<oompCompletion>83</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -49,7 +47,7 @@ Use this board to increase the number of PWM pins available to your microcontrol
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>J9</compIden>
-		<compID>NOT OOMP  eagleValue: OUT  eagleDevice: M03PTH  eaglePackage: 1X03</compID>
+		<compID>HEAD-I01-X-PI03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -203,7 +201,7 @@ Use this board to increase the number of PWM pins available to your microcontrol
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  eagleValue: DPDT  eagleDevice: SWITCH-SPSTSMD  eaglePackage: AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

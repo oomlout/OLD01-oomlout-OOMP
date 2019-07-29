@@ -5,15 +5,13 @@
 	<hexID>SPAR12651</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The Digital Sandbox (DS) is a learning platform that engages both the software and hardware worlds. It’s powered by a microcontroller that can interact with real-world inputs – like light or temperature sensors – while simultaneously controlling LEDs, motors, and other outputs. The Digital Sandbox is equipped with everything, on board, you will need to complete 13 experiments, including controlling an LED, measuring how loud things are, detecting what the temperature is, and more. Think of this as a SparkFun Inventor's Kit, all in one board!
+	<oompAbout>(image and text from sparkfun.com)
+
+The Digital Sandbox (DS) is a learning platform that engages both the software and hardware worlds. It’s powered by a microcontroller that can interact with real-world inputs – like light or temperature sensors – while simultaneously controlling LEDs, motors, and other outputs. The Digital Sandbox is equipped with everything, on board, you will need to complete 13 experiments, including controlling an LED, measuring how loud things are, detecting what the temperature is, and more. Think of this as a SparkFun Inventor's Kit, all in one board!
 By interfacing the Sandbox to your computer via a USB cable, the Sandbox can be programmed using the popular Arduino programming environment. To further simplify the experience, we’ve designed the Sandbox and its guide around a simple, “blocky” programming add-on to Arduino called Ardublock.  Using ArduBlock – a simple, graphical version of the popular Arduino language – you will be able to program all the experiments with a simple graphical interface instead of writing code.
 The full-color Digital Sandbox Guide (included) contains step-by-step instructions on how to connect each circuit with the included parts. Full example code is provided and explained, and even includes troubleshooting tips if something goes wrong. The kit does not require any soldering and is recommended for beginners ages 8 and up.
 Note: There are three additional circuit experiments included in the DS Guide that will require the Digital Sandbox Add-On pack.
- Get Started with the Digital Sandbox Experiments Guide               
-            
-                      
-              
+ Get Started with the Digital Sandbox Experiments Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/12651</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -23,8 +21,8 @@ Note: There are three additional circuit experiments included in the DS Guide th
 
 
 	<numComponents>69</numComponents>
-	<numOompComponents>50</numOompComponents>
-	<oompCompletion>72</oompCompletion>
+	<numOompComponents>61</numOompComponents>
+	<oompCompletion>88</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -142,35 +140,35 @@ Note: There are three additional circuit experiments included in the DS Guide th
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>D4</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: DIODESOD  eaglePackage: SOD-323</compID>
+		<compID>DIOD-S323-X-A015D-V75</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>D5</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: DIODESOD  eaglePackage: SOD-323</compID>
+		<compID>DIOD-S323-X-A015D-V75</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  eagleValue: PTCSMD  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
+		<compID>REFU-1206-X-A05D-V8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>F2</compIden>
-		<compID>NOT OOMP  eagleValue: PTCSMD  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
+		<compID>REFU-1206-X-A05D-V8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  eagleValue: AVR_SPI_PRG_6NS  eagleDevice: AVR_SPI_PRG_6NS  eaglePackage: 2X3-NS</compID>
+		<compID>HEAD-I01-X-PI2X03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -226,7 +224,7 @@ Note: There are three additional circuit experiments included in the DS Guide th
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: MOSFET-N  eagleDevice: MOSFET-NCHANNELBSS138  eaglePackage: SOT23</compID>
+		<compID>MOSN-SO23-X-A02D-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -415,14 +413,14 @@ Note: There are three additional circuit experiments included in the DS Guide th
 	<component>
 		<compIndex>56</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-DPDTAYZ0202  eaglePackage: AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>57</compIndex>
 		<compIden>S3</compIden>
-		<compID>NOT OOMP  eagleValue: On/Off  eagleDevice: SWITCH-DPDTAYZ0202  eaglePackage: AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -436,7 +434,7 @@ Note: There are three additional circuit experiments included in the DS Guide th
 	<component>
 		<compIndex>59</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  eagleValue: MCP73831  eagleDevice: MCP73831  eaglePackage: SOT23-5</compID>
+		<compID>ICIC-SO235-X-K73831-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -478,7 +476,7 @@ Note: There are three additional circuit experiments included in the DS Guide th
 	<component>
 		<compIndex>65</compIndex>
 		<compIden>U7</compIden>
-		<compID>NOT OOMP  eagleValue: V_REG_MIC52053.3V  eagleDevice: V_REG_MIC52053.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A015D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -506,7 +504,7 @@ Note: There are three additional circuit experiments included in the DS Guide th
 	<component>
 		<compIndex>69</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  eagleValue: 8MHz  eagleDevice: RESONATOR8MHZ  eaglePackage: RESONATOR-SMD</compID>
+		<compID>CERE-1263-X-MZ8-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

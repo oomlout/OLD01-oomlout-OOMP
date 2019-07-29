@@ -5,15 +5,13 @@
 	<hexID>SPAR12587</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                Here at SparkFun, we refuse to leave 'good enough' alone. That's why we're adding to our line-up of Arduino-compatible microcontrollers once more! The Pro Micro is similar to the Pro Mini except with an ATmega32U4 on board. The USB transceiver inside the 32U4 allows us to add USB connectivity on-board and do away with bulky external USB interface.
+	<oompAbout>(image and text from sparkfun.com)
+
+Here at SparkFun, we refuse to leave 'good enough' alone. That's why we're adding to our line-up of Arduino-compatible microcontrollers once more! The Pro Micro is similar to the Pro Mini except with an ATmega32U4 on board. The USB transceiver inside the 32U4 allows us to add USB connectivity on-board and do away with bulky external USB interface.
 This tiny little board does all of the neat-o Arduino tricks that you're familiar with: 9 channels of 10-bit ADC, 5 PWM pins, 12 DIOs as well as hardware serial connections Rx and Tx. Running at 8MHz and 3.3V, this board will remind you a lot of your other favorite Arduino-compatible boards but this little guy can go just about anywhere.
 This is the 3.3V version so, as always, keep in mind the limits of system voltage and so forth. The lower system voltage also has its advantages, though, like ease of use with many common 3.3V sensors. There is a voltage regulator on board so it can accept voltage up to 12VDC. If you're supplying unregulated power to the board, be sure to connect to the "RAW" pin on not VCC.
 Not sure which Arduino or Arduino-compatible board is right for you? Check out our Arduino Buying Guide!
-Note: See the GitHub link below for support with the Arduino IDE.              
-            
-                      
-              
+Note: See the GitHub link below for support with the Arduino IDE.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/12587</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -23,8 +21,8 @@ Note: See the GitHub link below for support with the Arduino IDE.
 
 
 	<numComponents>24</numComponents>
-	<numOompComponents>18</numOompComponents>
-	<oompCompletion>75</oompCompletion>
+	<numOompComponents>20</numOompComponents>
+	<oompCompletion>83</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -114,7 +112,7 @@ Note: See the GitHub link below for support with the Arduino IDE.
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  eagleValue: 500mA  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
+		<compID>REFU-1206-X-A05D-V8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -191,7 +189,7 @@ Note: See the GitHub link below for support with the Arduino IDE.
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  eagleValue: 16MHz  eagleDevice: CRYSTAL5X3  eaglePackage: CRYSTAL-SMD-5X3</compID>
+		<compID>XTAL-5032-X-MZ16-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

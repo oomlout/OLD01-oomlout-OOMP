@@ -5,13 +5,11 @@
 	<hexID>SPAR12589</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The Accelerometer sensor is an add-on for your RedBot that provides bump and motion detection. The sensor works by measuring acceleration forces on the x, y, and z axis. By measuring the amount of acceleration (or lack there of) your robot can get a better understanding of its movements.
+	<oompAbout>(image and text from sparkfun.com)
+
+The Accelerometer sensor is an add-on for your RedBot that provides bump and motion detection. The sensor works by measuring acceleration forces on the x, y, and z axis. By measuring the amount of acceleration (or lack there of) your robot can get a better understanding of its movements.
 The sensor has two 2x3 headers (one male and one female) which connect directly to the RedBot Mainboard giving you the ability to stack another I2C sensor. Just use the included RedBot library to detect bumps and motion.
-Check out the entire RedBot family of products!              
-            
-                      
-              
+Check out the entire RedBot family of products!
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/12589</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ Check out the entire RedBot family of products!
 
 
 	<numComponents>13</numComponents>
-	<numOompComponents>10</numOompComponents>
-	<oompCompletion>77</oompCompletion>
+	<numOompComponents>11</numOompComponents>
+	<oompCompletion>85</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -105,7 +103,7 @@ Check out the entire RedBot family of products!
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  eagleValue: MIC5205-3.3V  eagleDevice: MIC52053.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A015D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

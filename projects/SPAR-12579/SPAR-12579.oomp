@@ -5,13 +5,11 @@
 	<hexID>SPAR12579</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is a simple breakout for the Roving Networks Bluetooth module. All pertinent pins are broken out and labeled. This new version's headers are unpopulated. Check below for appropriate headers.
+	<oompAbout>(image and text from sparkfun.com)
+
+This is a simple breakout for the Roving Networks Bluetooth module. All pertinent pins are broken out and labeled. This new version's headers are unpopulated. Check below for appropriate headers.
 The module from Roving Networks is powerful, small, and very easy to use. This Bluetooth module is designed to replace serial cables. The Bluetooth stack is completely encapsulated. The end user just sees serial characters being transmitted back and forth. Press the 'A' character from a terminal program on your computer and an 'A' will be pushed out the TX pin of the Bluetooth module.
-Do not attach this device directly to a serial port. You will need an RS232 to TTL converter circuit if you need to attach this device to a computer.              
-            
-                      
-              
+Do not attach this device directly to a serial port. You will need an RS232 to TTL converter circuit if you need to attach this device to a computer.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/12579</oompOfficialLink>
 	<company>Sparkfun</company>

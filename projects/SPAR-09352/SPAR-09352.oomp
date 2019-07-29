@@ -5,14 +5,12 @@
 	<hexID>SPAR09352</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is the serial backpack for graphic LCDs. The SparkFun Graphic LCD Serial Backpack interfaces to either our 160x128 pixel “Huge” Graphic LCD, or the smaller 128x64 pixel display, and provides a simple serial interface to a full range of controls.
+	<oompAbout>(image and text from sparkfun.com)
+
+This is the serial backpack for graphic LCDs. The SparkFun Graphic LCD Serial Backpack interfaces to either our 160x128 pixel “Huge” Graphic LCD, or the smaller 128x64 pixel display, and provides a simple serial interface to a full range of controls.
 This backpack will allow you to write text, draw lines, circles and boxes, set or reset individual pixels, and erase specific blocks of the display. The backlight and baud rate can also be controlled via serial communication. There's also a reverse mode that allows the screen to operate blue on white instead of white on blue. Additionally, all source code for the ATMega168 processor is compiled using the free WinAVR compiler and is free for downloading.
 There is a solder jumper on the backpack that determines which display is used. When the solder jumper is closed, code for the 128x64 display will run. If the jumper is open, code for the 160x128 display will run.
-Check out this tutorial!              
-            
-                      
-              
+Check out this tutorial!
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9352</oompOfficialLink>
 	<company>Sparkfun</company>

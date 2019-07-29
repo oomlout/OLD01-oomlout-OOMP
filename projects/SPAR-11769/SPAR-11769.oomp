@@ -5,13 +5,11 @@
 	<hexID>SPAR11769</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The Line Follower sensor is an add-on for your RedBot that gives your robot the ability to detect lines or nearby objects. The sensor works by detecting reflected light coming from its own infrared LED. By measuring the amount of reflected infrared light, it can detect transitions from light to dark (lines) or even objects directly in front of it.
+	<oompAbout>(image and text from sparkfun.com)
+
+The Line Follower sensor is an add-on for your RedBot that gives your robot the ability to detect lines or nearby objects. The sensor works by detecting reflected light coming from its own infrared LED. By measuring the amount of reflected infrared light, it can detect transitions from light to dark (lines) or even objects directly in front of it.
 The sensor has a 3-pin header which connects directly to the RedBot Mainboard via female to female jumper wires. Use the included RedBot library to detect lines or objects. A mounting hole lets you easily connect one or more of these to the front or back of your robot chassis.
-Check out the entire RedBot family of products!              
-            
-                      
-              
+Check out the entire RedBot family of products!
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/11769</oompOfficialLink>
 	<company>Sparkfun</company>

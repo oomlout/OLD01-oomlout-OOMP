@@ -5,12 +5,10 @@
 	<hexID>SPAR11168</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                Did you know that your Arduino can spawn other Arduinos? Don't worry, it can't do it autonomously so you won't wind up with a replicator situation (-gate, not -Trek). The point is, the ArduinoISP sketch allows your Arduino to act as a programmer. You can use this awesome power to burn bootloaders onto ATMega chips, turning them into Arduino-compatible microcontrollers! In the past, this required a breadboard and a whole mess of jumper wires but we've just made it a ton easier on you with the SparkFun AVR ISP Shield!
-This shield, once assembled, gives your Arduino a 28-pin ZIF (Zero Insertion Force) socket so it can grab onto unsuspecting ICs. The socket is wired to work directly with the ArduinoISP code, but burning bootloaders isn't the only thing you can do with it. We've also connected the serial I/Os so that if you're a programming ninja you can do cool tricks like programming ICs using the bootloader on-the-go.              
-            
-                      
-              
+	<oompAbout>(image and text from sparkfun.com)
+
+Did you know that your Arduino can spawn other Arduinos? Don't worry, it can't do it autonomously so you won't wind up with a replicator situation (-gate, not -Trek). The point is, the ArduinoISP sketch allows your Arduino to act as a programmer. You can use this awesome power to burn bootloaders onto ATMega chips, turning them into Arduino-compatible microcontrollers! In the past, this required a breadboard and a whole mess of jumper wires but we've just made it a ton easier on you with the SparkFun AVR ISP Shield!
+This shield, once assembled, gives your Arduino a 28-pin ZIF (Zero Insertion Force) socket so it can grab onto unsuspecting ICs. The socket is wired to work directly with the ArduinoISP code, but burning bootloaders isn't the only thing you can do with it. We've also connected the serial I/Os so that if you're a programming ninja you can do cool tricks like programming ICs using the bootloader on-the-go.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/11168</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -20,8 +18,8 @@ This shield, once assembled, gives your Arduino a 28-pin ZIF (Zero Insertion For
 
 
 	<numComponents>17</numComponents>
-	<numOompComponents>10</numOompComponents>
-	<oompCompletion>59</oompCompletion>
+	<numOompComponents>13</numOompComponents>
+	<oompCompletion>76</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -41,7 +39,7 @@ This shield, once assembled, gives your Arduino a 28-pin ZIF (Zero Insertion For
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  eagleValue: AVR_SPI_PRG_6PTH  eagleDevice: AVR_SPI_PRG_6PTH  eaglePackage: 2X3</compID>
+		<compID>HEAD-I01-X-PI2X03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -125,14 +123,14 @@ This shield, once assembled, gives your Arduino a 28-pin ZIF (Zero Insertion For
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-SPSTSMD  eaglePackage: AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>S3</compIden>
-		<compID>NOT OOMP  eagleValue: Reset  eagleDevice: SWITCH-MOMENTARY-2SMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
+		<compID>BUTA-52D-X-SMDS-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

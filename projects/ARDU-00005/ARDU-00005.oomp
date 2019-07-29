@@ -16,8 +16,8 @@ The Arduino Mega 2560 is a microcontroller board based on the ATmega2560. It has
 
 
 	<numComponents>58</numComponents>
-	<numOompComponents>25</numOompComponents>
-	<oompCompletion>43</oompCompletion>
+	<numOompComponents>30</numOompComponents>
+	<oompCompletion>52</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -184,7 +184,7 @@ The Arduino Mega 2560 is a microcontroller board based on the ATmega2560. It has
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>GROUND</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SJ  eaglePackage: SJ</compID>
+		<compID>HEAF-I01-X-PI08-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -226,14 +226,14 @@ The Arduino Mega 2560 is a microcontroller board based on the ATmega2560. It has
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>ICSP</compIden>
-		<compID>NOT OOMP  eagleValue: ICSP  eagleDevice: 0114_PH254-203DF118A00V  eaglePackage: 2X03</compID>
+		<compID>HEAD-I01-X-PI2X03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>ICSP1</compIden>
-		<compID>NOT OOMP  eagleValue: ICSP  eagleDevice: 0114_PH254-203DF118A00V  eaglePackage: 2X03</compID>
+		<compID>HEAD-I01-X-PI2X03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -317,7 +317,7 @@ The Arduino Mega 2560 is a microcontroller board based on the ATmega2560. It has
 	<component>
 		<compIndex>43</compIndex>
 		<compIden>RESET-EN</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SJ  eaglePackage: SJ</compID>
+		<compID>HEAF-I01-X-PI08-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -387,7 +387,7 @@ The Arduino Mega 2560 is a microcontroller board based on the ATmega2560. It has
 	<component>
 		<compIndex>53</compIndex>
 		<compIden>X2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: 0056_USB-B-S-RA-WT-SPCC  eaglePackage: PN61729</compID>
+		<compID>HEAF-I01-X-PI08-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

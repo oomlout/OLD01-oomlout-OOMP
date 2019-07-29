@@ -5,14 +5,12 @@
 	<hexID>SPAR11190</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is the LilyPad Arduino USB board, controlled by an ATmega32U4 with the Arduino bootloader. It has a built in power supply socket and an on/off switch with the only extra piece of hardware you need to program the LilyPad USB is a micro-USB cable, since the new IC has built-in USB support. Any of our LiPo batteries can be plugged right into the JST socket to provide you with easy, on-the-go power. That LiPo battery is even rechargeable through the board, no more special external LiPo chargers required!
+	<oompAbout>(image and text from sparkfun.com)
+
+This is the LilyPad Arduino USB board, controlled by an ATmega32U4 with the Arduino bootloader. It has a built in power supply socket and an on/off switch with the only extra piece of hardware you need to program the LilyPad USB is a micro-USB cable, since the new IC has built-in USB support. Any of our LiPo batteries can be plugged right into the JST socket to provide you with easy, on-the-go power. That LiPo battery is even rechargeable through the board, no more special external LiPo chargers required!
 Just like the LilyPad Simple, this board operates at 3.3V and features a JST socket so you can directly connect a Li-Po battery for power and an on-board power switch so you can turn it off when you're not feeling particularly blinky. The LilyPad Arduino USB was designed to streamline your next sewable project by keeping things simple and giving you more room to work while eliminating the need to sew a power supply.
 LilyPad is a wearable e-textile technology developed by Leah Buechley and cooperatively designed by Leah and SparkFun. Each LilyPad was creatively designed to have large connecting pads to allow them to be sewn into clothing. Various input, output, power, and sensor boards are available. They're even washable!
-Note: A portion of this sale is given back to Dr. Leah Buechley for continued development and education of e-textiles and also to Arduino LLC to help fund continued development of new tools and new IDE features.              
-            
-                      
-              
+Note: A portion of this sale is given back to Dr. Leah Buechley for continued development and education of e-textiles and also to Arduino LLC to help fund continued development of new tools and new IDE features.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/11190</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 
 
 	<numComponents>28</numComponents>
-	<numOompComponents>22</numOompComponents>
-	<oompCompletion>79</oompCompletion>
+	<numOompComponents>27</numOompComponents>
+	<oompCompletion>96</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -85,7 +83,7 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  eagleValue: B340A  eagleDevice: DIODE-SCHOTTKY_  eaglePackage: SMA-DIODE</compID>
+		<compID>DIOS-D214-X-A3-V30</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -176,7 +174,7 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  eagleValue: SWITCH-DPDTSMD  eagleDevice: SWITCH-DPDTSMD  eaglePackage: AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -190,14 +188,14 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  eagleValue: MCP73831  eagleDevice: MCP73831  eaglePackage: SOT23-5</compID>
+		<compID>ICIC-SO235-X-K73831-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  eagleValue: MIC5219  eagleDevice: V_REG_MIC5219SMD  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A05D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -218,7 +216,7 @@ Note: A portion of this sale is given back to Dr. Leah Buechley for continued de
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  eagleValue: 8MHz  eagleDevice: RESONATORSMD  eaglePackage: RESONATOR-SMD</compID>
+		<compID>CERE-1263-X-MZ8-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

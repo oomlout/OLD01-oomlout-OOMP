@@ -5,14 +5,12 @@
 	<hexID>SPAR09896</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                Robots are fun, and Arduinos are easy. So wouldn't it be nice if there were a kit that included everything you need to get your Arduino device set up to control a simple two-motor-circuit buddy? The SparkFun Ardumoto Shield Kit is perfect for any robot enthusiast and includes an Ardumoto Shield, as well as pairs of tires, motors, connectors and wires. And, of course, it’s all stuffed in a classic SparkFun red box (which may come in handy as a robot chassis).
+	<oompAbout>(image and text from sparkfun.com)
+
+Robots are fun, and Arduinos are easy. So wouldn't it be nice if there were a kit that included everything you need to get your Arduino device set up to control a simple two-motor-circuit buddy? The SparkFun Ardumoto Shield Kit is perfect for any robot enthusiast and includes an Ardumoto Shield, as well as pairs of tires, motors, connectors and wires. And, of course, it’s all stuffed in a classic SparkFun red box (which may come in handy as a robot chassis).
 The Ardumoto Shield is an easy-to-use dual-motor controller for Arduino. Combined with an Arduino, the Ardumoto makes a fantastic controller platform for RC vehicles or even small autonomous robots. At the heart of the Ardumoto --- the big, black chip right in the middle --- is an L298, one of our favorite dual-channel motor drivers around, capable of driving up to 2A per channel. The board takes its power from the same Vin line as the Arduino board and includes blue and yellow LEDs to indicate active direction. All driver lines are diode protected from back EMF.
 Note: The motors included with this kit are not compatible with the Wheel Encoder kit. Sorry for the inconvenience.
- Get Started with the SparkFun Ardumoto Kit Guide               
-            
-                      
-              
+ Get Started with the SparkFun Ardumoto Kit Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9896</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ Note: The motors included with this kit are not compatible with the Wheel Encode
 
 
 	<numComponents>46</numComponents>
-	<numOompComponents>25</numOompComponents>
-	<oompCompletion>54</oompCompletion>
+	<numOompComponents>42</numOompComponents>
+	<oompCompletion>91</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -50,56 +48,56 @@ Note: The motors included with this kit are not compatible with the Wheel Encode
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  eagleValue: 1A/40V/500mV  eagleDevice: DIODE-SCHOTTKY-SS14  eaglePackage: SMA-DIODE</compID>
+		<compID>DIOS-D214-X-A01-V40</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  eagleValue: 1A/40V/500mV  eagleDevice: DIODE-SCHOTTKY-SS14  eaglePackage: SMA-DIODE</compID>
+		<compID>DIOS-D214-X-A01-V40</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>D3</compIden>
-		<compID>NOT OOMP  eagleValue: 1A/40V/500mV  eagleDevice: DIODE-SCHOTTKY-SS14  eaglePackage: SMA-DIODE</compID>
+		<compID>DIOS-D214-X-A01-V40</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>D4</compIden>
-		<compID>NOT OOMP  eagleValue: 1A/40V/500mV  eagleDevice: DIODE-SCHOTTKY-SS14  eaglePackage: SMA-DIODE</compID>
+		<compID>DIOS-D214-X-A01-V40</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>D5</compIden>
-		<compID>NOT OOMP  eagleValue: 1A/40V/500mV  eagleDevice: DIODE-SCHOTTKY-SS14  eaglePackage: SMA-DIODE</compID>
+		<compID>DIOS-D214-X-A01-V40</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>D6</compIden>
-		<compID>NOT OOMP  eagleValue: 1A/40V/500mV  eagleDevice: DIODE-SCHOTTKY-SS14  eaglePackage: SMA-DIODE</compID>
+		<compID>DIOS-D214-X-A01-V40</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>D7</compIden>
-		<compID>NOT OOMP  eagleValue: 1A/40V/500mV  eagleDevice: DIODE-SCHOTTKY-SS14  eaglePackage: SMA-DIODE</compID>
+		<compID>DIOS-D214-X-A01-V40</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>D8</compIden>
-		<compID>NOT OOMP  eagleValue: 1A/40V/500mV  eagleDevice: DIODE-SCHOTTKY-SS14  eaglePackage: SMA-DIODE</compID>
+		<compID>DIOS-D214-X-A01-V40</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -141,7 +139,7 @@ Note: The motors included with this kit are not compatible with the Wheel Encode
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI01-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -155,7 +153,7 @@ Note: The motors included with this kit are not compatible with the Wheel Encode
 	<component>
 		<compIndex>19</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_07NO_SILK  eaglePackage: 1X07_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI07-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -169,7 +167,7 @@ Note: The motors included with this kit are not compatible with the Wheel Encode
 	<component>
 		<compIndex>21</compIndex>
 		<compIden>J6</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI01-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -190,7 +188,7 @@ Note: The motors included with this kit are not compatible with the Wheel Encode
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>J9</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_02  eaglePackage: 1X02</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -204,35 +202,35 @@ Note: The motors included with this kit are not compatible with the Wheel Encode
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>J11</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI01-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>J12</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI01-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>J13</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI01-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>J14</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01PTH_NO_SILK_YES_STOP  eaglePackage: 1X01_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI01-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>J15</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_021X02_NO_SILK  eaglePackage: 1X02_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

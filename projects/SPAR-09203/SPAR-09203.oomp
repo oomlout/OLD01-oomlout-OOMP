@@ -5,14 +5,12 @@
 	<hexID>SPAR09203</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun EL Sequencer is a board that contains an Arduino-compatible microcontroller, and circuitry for controlling up to eight strands of electroluminescent wire. EL wire is flexible plastic cord that glows brightly when high-voltage AC is applied to it. It's available in numerous colors (see the related products below), runs cool, and requires very little current, but can be difficult to work with because of the high-voltage requirements. The EL Sequencer can safely switch high-voltage AC on and off, allowing you to easily create animated displays or whatever else your imagination can come up with.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun EL Sequencer is a board that contains an Arduino-compatible microcontroller, and circuitry for controlling up to eight strands of electroluminescent wire. EL wire is flexible plastic cord that glows brightly when high-voltage AC is applied to it. It's available in numerous colors (see the related products below), runs cool, and requires very little current, but can be difficult to work with because of the high-voltage requirements. The EL Sequencer can safely switch high-voltage AC on and off, allowing you to easily create animated displays or whatever else your imagination can come up with.
 In addition to this board, you will need an inverter (a component that generates the high-voltage AC needed by EL wire), EL wire/tape/panels, and a 5V FTDI BOB or cable to load your own programs. The board also has headers for XBee and NRF24L01+ radio modules for wireless projects. SparkFun carries two inverters, a 3V-input version that can drive a few feet of EL wire, and a 12V-input version capable of driving dozens of feet of EL wire. Choose the one appropriate to your power source and driving requirements. The EL Sequencer possesses zero-crossing optoisolated triacs for noise-free operation and full isolation between the AC and DC sides, and includes a 1.5A adjustable linear regulator to supply regulated DC to an external inverter (not included).
 Nate has used EL wire to make amazing interactive costumes; check out his Heartbeat Straitjacket and demo video.
-Note: We have fixed the silkscreen error on this board; the FTDI "black" and "green" labels have been fixed.              
-            
-                      
-              
+Note: We have fixed the silkscreen error on this board; the FTDI "black" and "green" labels have been fixed.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9203</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ Note: We have fixed the silkscreen error on this board; the FTDI "black" and "gr
 
 
 	<numComponents>78</numComponents>
-	<numOompComponents>42</numOompComponents>
-	<oompCompletion>54</oompCompletion>
+	<numOompComponents>56</numOompComponents>
+	<oompCompletion>72</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -78,77 +76,77 @@ Note: We have fixed the silkscreen error on this board; the FTDI "black" and "gr
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  eagleValue: Battery  eagleDevice: M02-JST-2MM-SMT  eaglePackage: JST-2-SMD</compID>
+		<compID>JSTS-02-X-PI03-SM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  eagleValue: DC-OUTPUT  eagleDevice: M02-JST-2MM-SMT  eaglePackage: JST-2-SMD</compID>
+		<compID>JSTS-02-X-PI03-SM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  eagleValue: AC-INPUT  eagleDevice: M02-JST-2MM-SMT  eaglePackage: JST-2-SMD</compID>
+		<compID>JSTS-02-X-PI03-SM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: M02-JST-2MM-SMT  eaglePackage: JST-2-SMD</compID>
+		<compID>JSTS-02-X-PI03-SM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: M02-JST-2MM-SMT  eaglePackage: JST-2-SMD</compID>
+		<compID>JSTS-02-X-PI03-SM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>J6</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: M02-JST-2MM-SMT  eaglePackage: JST-2-SMD</compID>
+		<compID>JSTS-02-X-PI03-SM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>J7</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: M02-JST-2MM-SMT  eaglePackage: JST-2-SMD</compID>
+		<compID>JSTS-02-X-PI03-SM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>J8</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: M02-JST-2MM-SMT  eaglePackage: JST-2-SMD</compID>
+		<compID>JSTS-02-X-PI03-SM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>J9</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: M02-JST-2MM-SMT  eaglePackage: JST-2-SMD</compID>
+		<compID>JSTS-02-X-PI03-SM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>J10</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: M02-JST-2MM-SMT  eaglePackage: JST-2-SMD</compID>
+		<compID>JSTS-02-X-PI03-SM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>J11</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: M02-JST-2MM-SMT  eaglePackage: JST-2-SMD</compID>
+		<compID>JSTS-02-X-PI03-SM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -414,14 +412,14 @@ Note: We have fixed the silkscreen error on this board; the FTDI "black" and "gr
 	<component>
 		<compIndex>56</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  eagleValue: POWER  eagleDevice: SWITCH-DPDTSMD  eaglePackage: AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>57</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  eagleValue: RESET  eagleDevice: SWITCH-MOMENTARY-2SMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
+		<compID>BUTA-52D-X-SMDS-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -568,7 +566,7 @@ Note: We have fixed the silkscreen error on this board; the FTDI "black" and "gr
 	<component>
 		<compIndex>78</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  eagleValue: 8MHz  eagleDevice: RESONATORSMD  eaglePackage: RESONATOR-SMD</compID>
+		<compID>CERE-1263-X-MZ8-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

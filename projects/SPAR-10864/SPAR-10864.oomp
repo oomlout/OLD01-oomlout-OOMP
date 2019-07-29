@@ -5,13 +5,11 @@
 	<hexID>SPAR10864</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                Ethernet connectivity is a great way to get your Arduino talking to other systems all over the world (or at least the network). But sometimes running an Ethernet cable is hard enough, why should you have to run a power cable too? That's where PoE comes into play: Power over Ethernet. The SparkFun PoEthernet Shield not only give your Arduino access to the Internet via the Ethernet Library but it also allows your project to power itself from the Ethernet line (provided you've injected power to it somewhere down the line).
+	<oompAbout>(image and text from sparkfun.com)
+
+Ethernet connectivity is a great way to get your Arduino talking to other systems all over the world (or at least the network). But sometimes running an Ethernet cable is hard enough, why should you have to run a power cable too? That's where PoE comes into play: Power over Ethernet. The SparkFun PoEthernet Shield not only give your Arduino access to the Internet via the Ethernet Library but it also allows your project to power itself from the Ethernet line (provided you've injected power to it somewhere down the line).
 The way this is accomplished is that the unused data pairs of the RJ-45 connector broken out to the 4-pin header in the corner of the shield. The 'V-' pin on that header breaks out the 7 andamp; 8 pair of RJ-45 pins, and the 'V+' pin breaks out the 4 andamp; 5 pair. You can use a couple of jumpers to connect those pins to 'GND' and 'VIN' respectively. This will send the PoE through the Arduino, to be regulated to 5 and 3.3V. This works really well with our passive PoE cable set! The shield also includes an SD card slot that can be accessed using the SD library.
-Note: This is not 802.3af-compatible PoE, it's more of a home-brew Power-over-Ethernet scheme that we like to call "DIY PoE." You shouldn't apply anything outside the 7-12V range to those pins (The input voltage range of the Arduino board) unless you regulate the power off-board.              
-            
-                      
-              
+Note: This is not 802.3af-compatible PoE, it's more of a home-brew Power-over-Ethernet scheme that we like to call "DIY PoE." You shouldn't apply anything outside the 7-12V range to those pins (The input voltage range of the Arduino board) unless you regulate the power off-board.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/10864</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ Note: This is not 802.3af-compatible PoE, it's more of a home-brew Power-over-Et
 
 
 	<numComponents>54</numComponents>
-	<numOompComponents>41</numOompComponents>
-	<oompCompletion>76</oompCompletion>
+	<numOompComponents>43</numOompComponents>
+	<oompCompletion>80</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -343,7 +341,7 @@ Note: This is not 802.3af-compatible PoE, it's more of a home-brew Power-over-Et
 	<component>
 		<compIndex>46</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  eagleValue: RESET  eagleDevice: SWITCH-MOMENTARY-2SMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
+		<compID>BUTA-52D-X-SMDS-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -399,7 +397,7 @@ Note: This is not 802.3af-compatible PoE, it's more of a home-brew Power-over-Et
 	<component>
 		<compIndex>54</compIndex>
 		<compIden>Y1</compIden>
-		<compID>NOT OOMP  eagleValue: 25MHz  eagleDevice: CRYSTAL5X3  eaglePackage: CRYSTAL-SMD-5X3</compID>
+		<compID>XTAL-5032-X-MZ25-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

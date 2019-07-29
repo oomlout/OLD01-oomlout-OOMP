@@ -5,11 +5,9 @@
 	<hexID>SPAR09235</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun SPI Shortcut allows you to control SPI pins over USB, allowing for a virtual "SPI Terminal." Using basic serial commands you can access any SPI device such as sensors, media, and even program some devices. You can change all of the SPI features (frequency, data order, etc.) on the fly with no programming involved! Comes with a simple-to-use terminal interface. All you need is the FTDI USB driver and a basic terminal program.              
-            
-                      
-              
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun SPI Shortcut allows you to control SPI pins over USB, allowing for a virtual "SPI Terminal." Using basic serial commands you can access any SPI device such as sensors, media, and even program some devices. You can change all of the SPI features (frequency, data order, etc.) on the fly with no programming involved! Comes with a simple-to-use terminal interface. All you need is the FTDI USB driver and a basic terminal program.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9235</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -19,8 +17,8 @@
 
 
 	<numComponents>12</numComponents>
-	<numOompComponents>7</numOompComponents>
-	<oompCompletion>58</oompCompletion>
+	<numOompComponents>8</numOompComponents>
+	<oompCompletion>67</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -89,7 +87,7 @@
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: TAC_SWITCHSMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
+		<compID>BUTA-52D-X-SMDS-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

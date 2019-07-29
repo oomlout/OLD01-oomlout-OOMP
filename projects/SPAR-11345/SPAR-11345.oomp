@@ -5,8 +5,9 @@
 	<hexID>SPAR11345</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                You talked, we listened, and we've revised our Geiger Counter board to address some of the most pressing concerns. This version features an improved voltage regulation circuit for the Geiger tube which has a much cleaner output. We've also modified the signal capture portion of the board so that it reads active high, allowing for more dependable counts that are less susceptible to fouling due to line capacitance. The new signal capture circuit also pushes the CPM limit to 100Hz!
+	<oompAbout>(image and text from sparkfun.com)
+
+You talked, we listened, and we've revised our Geiger Counter board to address some of the most pressing concerns. This version features an improved voltage regulation circuit for the Geiger tube which has a much cleaner output. We've also modified the signal capture portion of the board so that it reads active high, allowing for more dependable counts that are less susceptible to fouling due to line capacitance. The new signal capture circuit also pushes the CPM limit to 100Hz!
 This USB powered SparkFun Geiger Counter is equipped with an ATMega328 that can be programmed in circuit using one of the programmers below. Simply plug the unit into USB (make sure you have FTDI drivers installed), open a terminal program to the correct COM port at 9600bps, and you will see random bits being generated from the random background radiation. Each bit generated (an ASCII byte 0 or 1) represents an actual event in the tube in real-time, so the output can be used to deduce CPM or what ever units you need. While you're at it, why not check out the random number generating Geiger counter tutorial?
 Note: While the Geiger counter is powered and the switch is in the ON position, the board contains exposed high voltage components. In order to turn the unit off, you must flip the tube power switch to OFF while the USB cable is plugged in or while the board is still connected to your power supply. The reason being; when you move the switch into the OFF position, the high voltage lines are bled out through a resistor connected to ground, more information on this is in the tutorial.
 A project box or enclosure is suggested. Do not touch the end window of the Geiger tube and do not to touch any conductive region inside the area marked HIGH VOLTAGE when the Geiger tube is powered ON. An enclosure is not absolutely necessary, but if you choose not use an enclosure, remember to be extra careful with the end window and high voltage regions.
@@ -23,10 +24,6 @@ FTDI USB Interface
 On Board Power and Status LEDs
 TTL (Active High) Output Pin from Tube
 Arduino bootloader included. Use board type “Arduino Pro or Pro Mini, ATmega328 (3.3V, 8 MHZ)
-              
-            
-                      
-              
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/11345</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -36,8 +33,8 @@ Arduino bootloader included. Use board type “Arduino Pro or Pro Mini, ATmega328 
 
 
 	<numComponents>42</numComponents>
-	<numOompComponents>22</numOompComponents>
-	<oompCompletion>52</oompCompletion>
+	<numOompComponents>27</numOompComponents>
+	<oompCompletion>64</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -134,21 +131,21 @@ Arduino bootloader included. Use board type “Arduino Pro or Pro Mini, ATmega328 
 	<component>
 		<compIndex>14</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  eagleValue: PTCSMD  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
+		<compID>REFU-1206-X-A05D-V8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue: Red  eagleDevice: LED1206  eaglePackage: LED-1206</compID>
+		<compID>LEDS-1206-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>LED2</compIden>
-		<compID>NOT OOMP  eagleValue: Green  eagleDevice: LED1206  eaglePackage: LED-1206</compID>
+		<compID>LEDS-1206-G-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -295,7 +292,7 @@ Arduino bootloader included. Use board type “Arduino Pro or Pro Mini, ATmega328 
 	<component>
 		<compIndex>37</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  eagleValue: Reset  eagleDevice: TAC_SWITCHSMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
+		<compID>BUTA-52D-X-SMDS-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -323,7 +320,7 @@ Arduino bootloader included. Use board type “Arduino Pro or Pro Mini, ATmega328 
 	<component>
 		<compIndex>41</compIndex>
 		<compIden>U17</compIden>
-		<compID>NOT OOMP  eagleValue: AVR_SPI_PRG_6PTH  eagleDevice: AVR_SPI_PRG_6PTH  eaglePackage: 2X3</compID>
+		<compID>HEAD-I01-X-PI2X03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

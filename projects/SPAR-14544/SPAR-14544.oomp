@@ -5,14 +5,12 @@
 	<hexID>SPAR14544</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The low current version of the SparkFun Current Sensor Breakout is a high accuracy board that utilizes the ACS723 for low to moderate AC and DC current sensing applications. The ACS723 sensor uses a Hall effect sensor to output a voltage relative to the current flowing through the IP+ and IP- pins on the board. The advantage of using a Hall effect sensor, specifically, is that the circuit being sensed and the circuit reading the sensor are electrically isolated meaning that, although your Arduino is running on 5V, the sensed circuit can be operating at higher DC or AC voltages!
+	<oompAbout>(image and text from sparkfun.com)
+
+The low current version of the SparkFun Current Sensor Breakout is a high accuracy board that utilizes the ACS723 for low to moderate AC and DC current sensing applications. The ACS723 sensor uses a Hall effect sensor to output a voltage relative to the current flowing through the IP+ and IP- pins on the board. The advantage of using a Hall effect sensor, specifically, is that the circuit being sensed and the circuit reading the sensor are electrically isolated meaning that, although your Arduino is running on 5V, the sensed circuit can be operating at higher DC or AC voltages!
 This low current sensor breakout is capable of sensing very small currents down to around 10mA and large currents up to 5A! However, since the output is analog, your usable readings will be limited by noise and the resolution of the ADC reading the output. Additionally, this breakout has full electrical isolation of measured and sensed circuits and (thanks to an on-board amp) can adjust its sensitivity. Although the analog output is adjustable to 80kHz, the bandwidth on the ACS723 Sensor Breakout width filter has been set to 20kHz to reduce noise when using at high gains. The full 80KHz bandwidth that the sensor is capable of can be recovered by closing the JP1 (Bandwidth Select) jumper on the back of the board.
 Note: Although the chip itself is rated for up to 2.4kV (RMS) of isolation, the board has not been designed for such high voltage applications.
- Get Started with the SparkFun ACS723 Current Sensor Breakout Guide               
-            
-                      
-              
+ Get Started with the SparkFun ACS723 Current Sensor Breakout Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14544</oompOfficialLink>
 	<company>Sparkfun</company>

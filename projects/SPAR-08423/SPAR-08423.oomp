@@ -5,13 +5,11 @@
 	<hexID>SPAR08423</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is a simple breakout board for our RFID readers. The SparkFun RFID Reader Breakout converts the 2mm pins to bread board friendly 0.1" headers. With this ability the ID-3LA, ID-12LA, and the ID-20LA you can solder the reader directly to the breakout board or use the 2mm sockets.
+	<oompAbout>(image and text from sparkfun.com)
+
+This is a simple breakout board for our RFID readers. The SparkFun RFID Reader Breakout converts the 2mm pins to bread board friendly 0.1" headers. With this ability the ID-3LA, ID-12LA, and the ID-20LA you can solder the reader directly to the breakout board or use the 2mm sockets.
 This breakout board's edges actually fit flush within the under side the ID-12LA. The board also works with the ID-20LA, but is smaller than the edges. As stated before each pin of the RFID reader has been broken out including: VCC, READ, D0, D1, FORM, TIR, CP, both ANTs, RES, and GND. We've even added four half-mounting holes to the board to easily secure your project!
-Note: If you are concerned about soldering this board directly to the RFID reader, you can use 2mm sockets instead. This is due to the RFID being sensitive to heat and should be handled with care or if you would like to switch the readers out as you please.              
-            
-                      
-              
+Note: If you are concerned about soldering this board directly to the RFID reader, you can use 2mm sockets instead. This is due to the RFID being sensitive to heat and should be handled with care or if you would like to switch the readers out as you please.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/8423</oompOfficialLink>
 	<company>Sparkfun</company>

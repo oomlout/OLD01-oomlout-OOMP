@@ -5,14 +5,12 @@
 	<hexID>SPAR13199</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is the SparkFun GPS Shield Kit, a great launch pad for anyone looking to get into the world of GPS. This little kit includes our GPS Shield, an EM-506 GPS Receiver with interface cable, and a set of R3 headers to solder onto the shield. Adding GPS to your Arduino has never been easier. Multiple GPS receivers attach easily to the shield, and with the example sketch (check below), you will be able to locate your exact position within a few meters. Here's where we are. GPS also gives you amazingly accurate time!
+	<oompAbout>(image and text from sparkfun.com)
+
+This is the SparkFun GPS Shield Kit, a great launch pad for anyone looking to get into the world of GPS. This little kit includes our GPS Shield, an EM-506 GPS Receiver with interface cable, and a set of R3 headers to solder onto the shield. Adding GPS to your Arduino has never been easier. Multiple GPS receivers attach easily to the shield, and with the example sketch (check below), you will be able to locate your exact position within a few meters. Here's where we are. GPS also gives you amazingly accurate time!
 A connector for the popular EM-506 GPS receiver is populated on the board, and footprints for EM-408 and EB-85A connectors are also made available (connectors are not included and can be found below in the related items). The regular GPS pins (RX, TX, PPS, etc.) are also broken out to a 10-pin 0.1" pitch header, and a small prototyping area is also provided.
 The DLINE/UART switch switches the GPS module's input/output between Arduino's standard TX/RX pins or any digital pins on the Arduino (default setting uses pins 3 and 2 connected to TX and RX, respectively). The DLINE/UART switch must be set to DLINE in order to upload code through the Arduino IDE.
-The shield also includes the footprint for a 12mm coin cell battery holder to provide battery backup to the optional EB-85A GPS module.An ON/OFF switch is included which controls power to the GPS module. Additionally, the Arduino reset switch is also brought out.              
-            
-                      
-              
+The shield also includes the footprint for a 12mm coin cell battery holder to provide battery backup to the optional EB-85A GPS module.An ON/OFF switch is included which controls power to the GPS module. Additionally, the Arduino reset switch is also brought out.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13199</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ The shield also includes the footprint for a 12mm coin cell battery holder to pr
 
 
 	<numComponents>18</numComponents>
-	<numOompComponents>11</numOompComponents>
-	<oompCompletion>61</oompCompletion>
+	<numOompComponents>13</numOompComponents>
+	<oompCompletion>72</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -127,14 +125,14 @@ The shield also includes the footprint for a 12mm coin cell battery holder to pr
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>S2</compIden>
-		<compID>NOT OOMP  eagleValue: DPDT  eagleDevice: SWITCH-DPDTAYZ0202  eaglePackage: AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  eagleValue: APK2112-3.3V  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

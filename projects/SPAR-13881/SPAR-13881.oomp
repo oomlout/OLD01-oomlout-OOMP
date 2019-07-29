@@ -5,13 +5,11 @@
 	<hexID>SPAR13881</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                Need a bit more than just a SparkFun Stepoko controller? The Stepoko Motion Control Add-On Kit provides you with everything you need to get your CNC moving, powered, and controlled. This add-on will allow you to convert a simple mechanical kit into a full CNC machine! Inside each kit you will find our SparkFun Stepoko board, four NEMA23 stepper motors, an enclosure milled to hold the Stepoko, a 24V/5A power supply, a toggle switch, and 6ft A-B USB cable. Just add your own rig (like the Shapeoko 3) and you are ready to get started.
+	<oompAbout>(image and text from sparkfun.com)
+
+Need a bit more than just a SparkFun Stepoko controller? The Stepoko Motion Control Add-On Kit provides you with everything you need to get your CNC moving, powered, and controlled. This add-on will allow you to convert a simple mechanical kit into a full CNC machine! Inside each kit you will find our SparkFun Stepoko board, four NEMA23 stepper motors, an enclosure milled to hold the Stepoko, a 24V/5A power supply, a toggle switch, and 6ft A-B USB cable. Just add your own rig (like the Shapeoko 3) and you are ready to get started.
 The included SparkFun Stepoko is an Arduino compatible, 3-axis control solution with pre-installed grbl software and is able to connect to your computer to accept stepper motor commands. Additionally, the four stepper motors found in this kit are ideal for CNC projects by offering 125 oz.in of torque, 200 steps/rev, and adhere to a NEMA23 form factor.  This new revision updates the firmware on the Stepoko board to the latest version (0.9j).  We've also added a piece of thermal gap filler to help electrically insulate the board from your chassis and prevent problems from ESD, and some cable carriers for cable wrangling.
-Note: This kit does NOT come with a power cable to connect the power supply to your specific wall outlet. This way you will be able to use your own cable that fits your country's national standard.              
-            
-                      
-              
+Note: This kit does NOT come with a power cable to connect the power supply to your specific wall outlet. This way you will be able to use your own cable that fits your country's national standard.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13881</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ Note: This kit does NOT come with a power cable to connect the power supply to y
 
 
 	<numComponents>162</numComponents>
-	<numOompComponents>137</numOompComponents>
-	<oompCompletion>85</oompCompletion>
+	<numOompComponents>143</numOompComponents>
+	<oompCompletion>88</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -525,14 +523,14 @@ Note: This kit does NOT come with a power cable to connect the power supply to y
 	<component>
 		<compIndex>72</compIndex>
 		<compIden>D16</compIden>
-		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: DIODE-SCHOTTKY-MBRA140  eaglePackage: SMA-DIODE</compID>
+		<compID>DIOS-D214-X-A01-V40</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>73</compIndex>
 		<compIden>D17</compIden>
-		<compID>NOT OOMP  eagleValue: MBRA140  eagleDevice: DIODE-SCHOTTKY-MBRA140  eaglePackage: SMA-DIODE</compID>
+		<compID>DIOS-D214-X-A01-V40</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -546,14 +544,14 @@ Note: This kit does NOT come with a power cable to connect the power supply to y
 	<component>
 		<compIndex>75</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  eagleValue: PTCSMD  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
+		<compID>REFU-1206-X-A05D-V8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>76</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  eagleValue: AVR ISP  eagleDevice: AVR_SPI_PRG_6PTH  eaglePackage: 2X3</compID>
+		<compID>HEAD-I01-X-PI2X03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -588,7 +586,7 @@ Note: This kit does NOT come with a power cable to connect the power supply to y
 	<component>
 		<compIndex>81</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: 16MHZ  eagleDevice: RESONATOR16MHZ  eaglePackage: RESONATOR-SMD</compID>
+		<compID>CERE-1263-X-MZ16-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -1036,7 +1034,7 @@ Note: This kit does NOT come with a power cable to connect the power supply to y
 	<component>
 		<compIndex>145</compIndex>
 		<compIden>S5</compIden>
-		<compID>NOT OOMP  eagleValue: DPDT  eagleDevice: SWITCH-DPDTAYZ0202  eaglePackage: AYZ0202</compID>
+		<compID>SWIS-7135-X-DPDT-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

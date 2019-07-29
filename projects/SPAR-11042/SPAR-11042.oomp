@@ -5,15 +5,13 @@
 	<hexID>SPAR11042</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                Your 5V system can wield great power with this big, beefy relay board. How does 10A on the NC contacts and 20A on the NO contacts at 220VAC sound? The SparkFun Beefcake Relay Control Kit contains all the parts you need to get your high-power load under control. Only minimal assembly is required!
+	<oompAbout>(image and text from sparkfun.com)
+
+Your 5V system can wield great power with this big, beefy relay board. How does 10A on the NC contacts and 20A on the NO contacts at 220VAC sound? The SparkFun Beefcake Relay Control Kit contains all the parts you need to get your high-power load under control. Only minimal assembly is required!
 The heart of the board is a sealed, SPDT 20A/10A Relay. The relay is controlled by 5V logic through a transistor, and an LED tells you when the relay is closed. This is a kit, so it comes as through-hole parts with assembly required, which makes for some nice soldering practice. Screw terminal connectors on either side of the board make it easy to incorporate into your project.
 There are some pretty beefy traces connecting the relay to the load pins, but the 3-pin terminals are only rated for 15A max! If you plan on connecting a larger load, you'll need to solder directly to the board. As always with high current and voltage, play it safe and use your judgment when deciding how much of a load you want to put on a board -- in open airflow the PCB can handle the full 20A for a few minutes at a time, but in an enclosed area heat can build up.
 Note: Please keep in mind that this board is really meant for someone with experience and good knowledge of electricity. If you're uncomfortable soldering or dealing with high voltage, please check out the IoT Power Relay. The IoT Power Relay is fully enclosed, making it a lot safer.
- Get Started With the Beefcake Hookup and Assembly Guide               
-            
-                      
-              
+ Get Started With the Beefcake Hookup and Assembly Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/11042</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -23,8 +21,8 @@ Note: Please keep in mind that this board is really meant for someone with exper
 
 
 	<numComponents>9</numComponents>
-	<numOompComponents>4</numOompComponents>
-	<oompCompletion>44</oompCompletion>
+	<numOompComponents>5</numOompComponents>
+	<oompCompletion>56</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -65,7 +63,7 @@ Note: Please keep in mind that this board is really meant for someone with exper
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>LED1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: LED5MM-KIT  eaglePackage: LED5MM-KIT</compID>
+		<compID>LEDS-05-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -5,7 +5,9 @@
 	<hexID>ADAF02995</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
+	<oompAbout>(image and text from adafruit.com)
+
+
 Adafruit Feather M0 Bluefruit LE PCB
 
 Click here to purchase one from the Adafruit shop
@@ -34,8 +36,8 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 
 
 	<numComponents>30</numComponents>
-	<numOompComponents>22</numOompComponents>
-	<oompCompletion>73</oompCompletion>
+	<numOompComponents>25</numOompComponents>
+	<oompCompletion>83</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -118,7 +120,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  eagleValue: MBR120  eagleDevice: DIODE-SCHOTTKYSOD-123  eaglePackage: SOD-123</compID>
+		<compID>DIOS-S123-X-A01-V20</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -202,7 +204,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>SW1</compIden>
-		<compID>NOT OOMP  eagleValue: SPST_TACT-KMR2  eagleDevice: SPST_TACT-KMR2  eaglePackage: KMR2</compID>
+		<compID>BUTA-4632-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -223,7 +225,7 @@ Designed by Limor Fried/Ladyada for Adafruit Industries. Creative Commons Attrib
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  eagleValue: MCP73831T-2ACI/OT  eagleDevice: MCP73831/2  eaglePackage: SOT23-5</compID>
+		<compID>ICIC-SO235-X-K73831-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

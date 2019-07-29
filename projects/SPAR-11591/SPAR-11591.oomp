@@ -5,13 +5,11 @@
 	<hexID>SPAR11591</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                Pogo pins make life so much easier when you are trying to program without having to solder a single thing, and when you attach them to an In-system programming (ISP) adapter they become instantly better, this simple kit allows you to do just that. Introducing the ISP Pogo Adapter, a simple and easy way to adapt pogo pins to a 6-pin ISP header allowing you to program an IC still without soldering a header to do so.
+	<oompAbout>(image and text from sparkfun.com)
+
+Pogo pins make life so much easier when you are trying to program without having to solder a single thing, and when you attach them to an In-system programming (ISP) adapter they become instantly better, this simple kit allows you to do just that. Introducing the ISP Pogo Adapter, a simple and easy way to adapt pogo pins to a 6-pin ISP header allowing you to program an IC still without soldering a header to do so.
 We've also included a labeled SIP header row and a 6-pin molex cable for you to be able to use your Arduino (or other single-board microcontroller) as an ISP device!
-This adapter does come as a kit and assembly will be required.              
-            
-                      
-              
+This adapter does come as a kit and assembly will be required.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/11591</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,28 +19,28 @@ This adapter does come as a kit and assembly will be required.
 
 
 	<numComponents>4</numComponents>
-	<numOompComponents>0</numOompComponents>
-	<oompCompletion>0</oompCompletion>
+	<numOompComponents>3</numOompComponents>
+	<oompCompletion>75</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>J1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: M03X2POGO_PINS  eaglePackage: 2X3_POGO</compID>
+		<compID>HEAD-I01-X-PI2X03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>J2</compIden>
-		<compID>NOT OOMP  eagleValue: AVR_SPI_PRG_6NS  eagleDevice: AVR_SPI_PRG_6NS  eaglePackage: 2X3-NS</compID>
+		<compID>HEAD-I01-X-PI2X03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>3</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: M03X2POGO_PINS  eaglePackage: 2X3_POGO</compID>
+		<compID>HEAD-I01-X-PI2X03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

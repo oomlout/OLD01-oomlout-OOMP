@@ -5,12 +5,10 @@
 	<hexID>SPAR13058</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The MiP Robotic Platform is the first self-balancing robot that you can drive, dance, plays games, battle with other MiPs, and that you can control via a compatible iOS or Android device. But did you know you can hack it? With the SparkFun ProMini-Pack you can access the robot's built-in hacking port to add increased functionality and a miniature Arduino to your MiP. All you will need to do to get this pack integrated into your MiP are a few simple hardware modifications to the robot's chassis. Once those modifications are complete you will have your very own ProMini attached to your MiP that you can start programing with your own code in no time flat! This is the same Pro Mini board you know and love, now in a form factor that allows it to be easily incorporated and secured into your MiP.
-Like the Arduino Pro Mini, the MiP ProMini-Pack utilizes SparkFun's minimal design approach to the Arduino platform while still only requiring 3.3V to power and running the 8MHz bootloader. The ProMini-Pack screws into the MiP's battery pack and gives the user a two small soldering areas and a 4-pin Expansion Socket that can, when used in conjunction with an Expansion Cable, be connected to the MiP's hacking port. The hacking port that has been pre-soldered to the ProMini-Pack breaks out the following signals: GND (a ground connection to the battery on the MiP), RX (a 3.3v signal level UART receive pin), TX (a 3.3v signal level UART transmit pin), 6V (Raw battery power).              
-            
-                      
-              
+	<oompAbout>(image and text from sparkfun.com)
+
+The MiP Robotic Platform is the first self-balancing robot that you can drive, dance, plays games, battle with other MiPs, and that you can control via a compatible iOS or Android device. But did you know you can hack it? With the SparkFun ProMini-Pack you can access the robot's built-in hacking port to add increased functionality and a miniature Arduino to your MiP. All you will need to do to get this pack integrated into your MiP are a few simple hardware modifications to the robot's chassis. Once those modifications are complete you will have your very own ProMini attached to your MiP that you can start programing with your own code in no time flat! This is the same Pro Mini board you know and love, now in a form factor that allows it to be easily incorporated and secured into your MiP.
+Like the Arduino Pro Mini, the MiP ProMini-Pack utilizes SparkFun's minimal design approach to the Arduino platform while still only requiring 3.3V to power and running the 8MHz bootloader. The ProMini-Pack screws into the MiP's battery pack and gives the user a two small soldering areas and a 4-pin Expansion Socket that can, when used in conjunction with an Expansion Cable, be connected to the MiP's hacking port. The hacking port that has been pre-soldered to the ProMini-Pack breaks out the following signals: GND (a ground connection to the battery on the MiP), RX (a 3.3v signal level UART receive pin), TX (a 3.3v signal level UART transmit pin), 6V (Raw battery power).
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13058</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -20,8 +18,8 @@ Like the Arduino Pro Mini, the MiP ProMini-Pack utilizes SparkFun's minimal desi
 
 
 	<numComponents>24</numComponents>
-	<numOompComponents>20</numOompComponents>
-	<oompCompletion>83</oompCompletion>
+	<numOompComponents>23</numOompComponents>
+	<oompCompletion>96</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -90,14 +88,14 @@ Like the Arduino Pro Mini, the MiP ProMini-Pack utilizes SparkFun's minimal desi
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  eagleValue: PTCSMD  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
+		<compID>REFU-1206-X-A05D-V8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: 8MHz  eagleDevice: RESONATOR8MHZ  eaglePackage: RESONATOR-SMD</compID>
+		<compID>CERE-1263-X-MZ8-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -181,7 +179,7 @@ Like the Arduino Pro Mini, the MiP ProMini-Pack utilizes SparkFun's minimal desi
 	<component>
 		<compIndex>23</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  eagleValue: MIC5205  eagleDevice: MIC52053.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A015D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

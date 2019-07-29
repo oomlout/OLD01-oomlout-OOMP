@@ -5,18 +5,16 @@
 	<hexID>SPAR10025</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The EiBotBoard (EBB) was originally designed for the Egg-Bot project. It is a small (2.2" x 2.2") two channel stepper motor driver board with USB microcontroller. It is based on the UBW board and supports all of the commands that the UBW does (for the most part), plus several extra, like stepper motor commands and RC servo output commands.
+	<oompAbout>(image and text from sparkfun.com)
+
+The EiBotBoard (EBB) was originally designed for the Egg-Bot project. It is a small (2.2" x 2.2") two channel stepper motor driver board with USB microcontroller. It is based on the UBW board and supports all of the commands that the UBW does (for the most part), plus several extra, like stepper motor commands and RC servo output commands.
 The EBB also has commands to drive up to 7 RC servo motors at the same time! While the EBB has a built-in 5V power regulator for the RC servos, if too many servos are connected you may need to use the additional power input circuit on the back of the board to provide additional power.
 The idea with this board is to have a simple way to control two stepper motors from a PC over a USB connection. This is accomplished by two microstepping chopper stepper motor drivers and a small Microchip PIC microcontroller that has USB support. When you plug the EBB into a PC (Windows, Mac or Linux), it will show up as a serial port. You can easily type commands to it using a terminal emulator, or write your own application to send commands for moving the stepper motors.
 Note: We had a manufacturing error on about 60 of the first run of EiBotBoards. If you have already purchased an EBB, before powering it up please read this warning and double check the resistor value. Resistor R27 was supposed to have been populated with a 390 ohm resistor, but was incorrectly populated with a resistor value of 3269 ohms. This causes the voltage regulator to output 9V for Vcc, which will damage the PIC. If you are comfortable with switching out the resistor yourself, we would be happy to send you the correct resistor. If not, we are also willing to replace your EBB with a new one.
 To check your EBB, look at the small numbers on top of R27. To locate R27, hold the EBB so the stepper motor terminal blocks are on the top of the board, then look at the voltage regulator at the bottom right hand corner of the board. R27 is the resistor directly above the regulator, centered between the two pins of the regulator. The text on top of the resistor should read 391. If it does not, then you have one of the EBBs with the wrong resistor.
 We have currently fixed the problem and all future boards ordered after 11/29/2010 will not have this issue. Thank you for your understanding, and please feel free to contact customer service if you have any questions.
 Note: If using metal mounting hardware, please be aware that the top side of the board has a 3.3V copper pour and the bottom side has a ground copper pour around the lower right hand mounting hole. You will want to use plastic washers to prevent a short.
-**Note: **This product is a collaboration with Brian Schmalz. A portion of each sales goes back to them for product support and continued development.              
-            
-                      
-              
+Note: This product is a collaboration with Brian Schmalz. A portion of each sales goes back to them for product support and continued development.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/10025</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -26,8 +24,8 @@ Note: If using metal mounting hardware, please be aware that the top side of the
 
 
 	<numComponents>73</numComponents>
-	<numOompComponents>46</numOompComponents>
-	<oompCompletion>63</oompCompletion>
+	<numOompComponents>50</numOompComponents>
+	<oompCompletion>68</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -222,7 +220,7 @@ Note: If using metal mounting hardware, please be aware that the top side of the
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  eagleValue: PTCSMD  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
+		<compID>REFU-1206-X-A05D-V8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -271,14 +269,14 @@ Note: If using metal mounting hardware, please be aware that the top side of the
 	<component>
 		<compIndex>35</compIndex>
 		<compIden>J4</compIden>
-		<compID>NOT OOMP  eagleValue: IO  eagleDevice: M12PTH  eaglePackage: 1X12</compID>
+		<compID>HEAD-I01-X-PI12-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>36</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  eagleValue: IO  eagleDevice: M12PTH  eaglePackage: 1X12</compID>
+		<compID>HEAD-I01-X-PI12-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -299,7 +297,7 @@ Note: If using metal mounting hardware, please be aware that the top side of the
 	<component>
 		<compIndex>39</compIndex>
 		<compIden>J8</compIden>
-		<compID>NOT OOMP  eagleValue: ICSP  eagleDevice: M05_WIDENOSILK  eaglePackage: 1X05_NOSILK</compID>
+		<compID>HEAD-I01-X-PI2X03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

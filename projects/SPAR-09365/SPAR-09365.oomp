@@ -5,13 +5,11 @@
 	<hexID>SPAR09365</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The PCM1803A is a high-performance, low-cost, 24-bit stereo analog-to-digital converter that can sample as high as 96k. The PCM1803A is a great choice for a wide variety of applications where high performance is necessary. Such applications include AV amplifier receivers, CD recorders, electrical musical instruments, and high precision analog measurements.
+	<oompAbout>(image and text from sparkfun.com)
+
+The PCM1803A is a high-performance, low-cost, 24-bit stereo analog-to-digital converter that can sample as high as 96k. The PCM1803A is a great choice for a wide variety of applications where high performance is necessary. Such applications include AV amplifier receivers, CD recorders, electrical musical instruments, and high precision analog measurements.
 Communication with the PCM1803A is achieved through a serial interface called I2S, described in the datasheet below. Both master and slave communication modes are supported and four data formats are available. As recommended by the datasheet, the AGND and DGND are connected directly under the chip via a solder jumper.
-This board includes a number of the necessary components you'll need to get the PCM1803A up and running. Both 5V and 3.3VDC regulators are included to power the analog and digital sides, respectively. A 24.576MHz oscillator is included, allowing the PCM1803A to run at a number of different sampling frequencies. All pins of the PCM1803A are broken out to a pair of 0.1" pitch headers, including a 3.3V output pin from the regulator.              
-            
-                      
-              
+This board includes a number of the necessary components you'll need to get the PCM1803A up and running. Both 5V and 3.3VDC regulators are included to power the analog and digital sides, respectively. A 24.576MHz oscillator is included, allowing the PCM1803A to run at a number of different sampling frequencies. All pins of the PCM1803A are broken out to a pair of 0.1" pitch headers, including a 3.3V output pin from the regulator.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9365</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -21,8 +19,8 @@ This board includes a number of the necessary components you'll need to get the 
 
 
 	<numComponents>14</numComponents>
-	<numOompComponents>10</numOompComponents>
-	<oompCompletion>71</oompCompletion>
+	<numOompComponents>11</numOompComponents>
+	<oompCompletion>79</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -105,7 +103,7 @@ This board includes a number of the necessary components you'll need to get the 
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>U2</compIden>
-		<compID>NOT OOMP  eagleValue: 3.3V_REG  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

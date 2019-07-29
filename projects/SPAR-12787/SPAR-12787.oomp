@@ -5,12 +5,10 @@
 	<hexID>SPAR12787</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is the SparkFun RGB and Gesture Sensor, a small breakout board with a built in APDS-9960 sensor that offers ambient light and color measuring, proximity detection, and touchless gesture sensing. With this RGB and Gesture Sensor you will be able to control a computer, microcontroller, robot, and more with a simple swipe of your hand! This is, in fact, the same sensor that the Samsung Galaxy S5 uses and is probably one of the best gesture sensors on the market for the price.
-The APDS-9960 is a serious little piece of hardware with built in UV and IR blocking filters, four separate diodes sensitive to different directions, and an I2C compatible interface. For your convenience we have broken out the following pins: VL (optional power to IR LED), GND (Ground), VCC (power to APDS-9960 sensor), SDA (I2C data), SCL (I2C clock), and INT (interrupt). Each APDS-9960 also has a detection range of 4 to 8 inches (10 to 20 cm).              
-            
-                      
-              
+	<oompAbout>(image and text from sparkfun.com)
+
+This is the SparkFun RGB and Gesture Sensor, a small breakout board with a built in APDS-9960 sensor that offers ambient light and color measuring, proximity detection, and touchless gesture sensing. With this RGB and Gesture Sensor you will be able to control a computer, microcontroller, robot, and more with a simple swipe of your hand! This is, in fact, the same sensor that the Samsung Galaxy S5 uses and is probably one of the best gesture sensors on the market for the price.
+The APDS-9960 is a serious little piece of hardware with built in UV and IR blocking filters, four separate diodes sensitive to different directions, and an I2C compatible interface. For your convenience we have broken out the following pins: VL (optional power to IR LED), GND (Ground), VCC (power to APDS-9960 sensor), SDA (I2C data), SCL (I2C clock), and INT (interrupt). Each APDS-9960 also has a detection range of 4 to 8 inches (10 to 20 cm).
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/12787</oompOfficialLink>
 	<company>Sparkfun</company>

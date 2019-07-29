@@ -5,14 +5,12 @@
 	<hexID>SPAR11373</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun XBee Explorer Regulated takes care of the 3.3V regulation, signal conditioning, and basic activity indicators (Power, RSSI and DIN/DOUT activity LEDs). It translates the 5V serial signals to 3.3V so that you can connect a 5V (down to 3.3V) system to any XBee module. The board was conveniently designed to mate directly with the SparkFun Arduino Pro series of boards for wireless bootloading and USB based configuration.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun XBee Explorer Regulated takes care of the 3.3V regulation, signal conditioning, and basic activity indicators (Power, RSSI and DIN/DOUT activity LEDs). It translates the 5V serial signals to 3.3V so that you can connect a 5V (down to 3.3V) system to any XBee module. The board was conveniently designed to mate directly with the SparkFun Arduino Pro series of boards for wireless bootloading and USB based configuration.
 This unit works with all XBee modules including the Series 1 and 2, standard and Pro versions. Plug an XBee into this breakout and you will have direct access to the serial and programming pins on the XBee unit and will be able to power the XBee with 5V.
 This board comes fully populated with 3.3V regulator (5V max input), XBee socket, four status LEDs, and level shifting. In the latest revision the diode level shifter is replaced with a more robust MOSFET level shifter. This board does not include and XBee module. XBee modules sold below.
-Note: This board cannot source the power required for the Cellular XBee line. It will only work with the 802.15.4 variants.              
-            
-                      
-              
+Note: This board cannot source the power required for the Cellular XBee line. It will only work with the 802.15.4 variants.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/11373</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ Note: This board cannot source the power required for the Cellular XBee line. It
 
 
 	<numComponents>19</numComponents>
-	<numOompComponents>15</numOompComponents>
-	<oompCompletion>79</oompCompletion>
+	<numOompComponents>17</numOompComponents>
+	<oompCompletion>89</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -78,14 +76,14 @@ Note: This board cannot source the power required for the Cellular XBee line. It
 	<component>
 		<compIndex>8</compIndex>
 		<compIden>Q1</compIden>
-		<compID>NOT OOMP  eagleValue: MOSFET-NCHANNELSMD  eagleDevice: MOSFET-NCHANNELSMD  eaglePackage: SOT23-3</compID>
+		<compID>MOSN-SO23-X-A02D-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>Q2</compIden>
-		<compID>NOT OOMP  eagleValue: MOSFET-NCHANNELSMD  eagleDevice: MOSFET-NCHANNELSMD  eaglePackage: SOT23-3</compID>
+		<compID>MOSN-SO23-X-A02D-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

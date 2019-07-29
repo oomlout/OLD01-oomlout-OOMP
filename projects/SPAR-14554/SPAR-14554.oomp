@@ -5,15 +5,13 @@
 	<hexID>SPAR14554</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun Papa Soundie is an audio playback device breaking out VS1000D audio codec IC allowing this little board the ability to decode OGG Vorbis and WAV type files. With an SD card for sound storage and a built-in ATmega328P programmed with Arduino you’ll be adding custom sound effects to your project with less hardware and in a familiar programming environment.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun Papa Soundie is an audio playback device breaking out VS1000D audio codec IC allowing this little board the ability to decode OGG Vorbis and WAV type files. With an SD card for sound storage and a built-in ATmega328P programmed with Arduino you’ll be adding custom sound effects to your project with less hardware and in a familiar programming environment.
 The Papa Soundie is the upgraded version of the Little Soundie with similar areas that allow you, the user, to interact with the board but with more customizable options. The top section of this board contains the Arduino Controls. We’ve broken out 2 analog input pins and 7 digital pins, which includes three PWM pins, SPI and I2C communication pins on the ATMEGA328P to easily control audio playback using sensors and other input.
 Up to 32 files can be triggered to play from a micro SD card allowing for more storage space than that allowed on the Little Soundie. To play the audio stored in the SD card, plug in a powered speaker to the 3.5mm jack, upload an Arduino sketch the uses the Papa Soundie library, and start jammin'.
 Note: Speakers are required for the Papa Soundie, not headphones. Headphones won’t break anything but you won’t get any sound either.
- Get Started with the SparkFun Papa Soundie Guide               
-            
-                      
-              
+ Get Started with the SparkFun Papa Soundie Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14554</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -23,8 +21,8 @@ Note: Speakers are required for the Papa Soundie, not headphones. Headphones won
 
 
 	<numComponents>68</numComponents>
-	<numOompComponents>52</numOompComponents>
-	<oompCompletion>76</oompCompletion>
+	<numOompComponents>62</numOompComponents>
+	<oompCompletion>91</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -177,7 +175,7 @@ Note: Speakers are required for the Papa Soundie, not headphones. Headphones won
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_02  eaglePackage: 1X02</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -191,14 +189,14 @@ Note: Speakers are required for the Papa Soundie, not headphones. Headphones won
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_02  eaglePackage: 1X02</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>25</compIndex>
 		<compIden>J6</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_05  eaglePackage: 1X05</compID>
+		<compID>HEAD-I01-X-PI05-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -212,35 +210,35 @@ Note: Speakers are required for the Papa Soundie, not headphones. Headphones won
 	<component>
 		<compIndex>27</compIndex>
 		<compIden>J8</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_02  eaglePackage: 1X02</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>28</compIndex>
 		<compIden>J9</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_02  eaglePackage: 1X02</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>29</compIndex>
 		<compIden>J10</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_02  eaglePackage: 1X02</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>30</compIndex>
 		<compIden>J11</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_02  eaglePackage: 1X02</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>31</compIndex>
 		<compIden>J12</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01  eaglePackage: 1X01</compID>
+		<compID>HEAD-I01-X-PI01-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -478,7 +476,7 @@ Note: Speakers are required for the Papa Soundie, not headphones. Headphones won
 	<component>
 		<compIndex>65</compIndex>
 		<compIden>U3</compIden>
-		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_AP2112K-3.3V  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -499,7 +497,7 @@ Note: Speakers are required for the Papa Soundie, not headphones. Headphones won
 	<component>
 		<compIndex>68</compIndex>
 		<compIden>Y2</compIden>
-		<compID>NOT OOMP  eagleValue: 8MHz  eagleDevice: RESONATOR-8MHZSMD_3.2X1.3  eaglePackage: RESONATOR-SMD-3.2X1.3</compID>
+		<compID>CERE-1263-X-MZ8-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

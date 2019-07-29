@@ -5,14 +5,12 @@
 	<hexID>SPAR13003</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun Micro OLED Breakout Board breaks out a small monochrome, blue-on-black OLED. It’s "micro", but it still packs a punch – the OLED display is crisp, and you can fit a deceivingly large amount of graphics on there. This breakout is perfect for adding graphics to your next Arduino project, displaying diagnostic information without resorting to serial output, and teaching a little game theory while creating a fun, Arduino-based video game. Most important of all, though, is the Micro OLED is easy to control over either an SPI or I2C interface.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun Micro OLED Breakout Board breaks out a small monochrome, blue-on-black OLED. It’s "micro", but it still packs a punch – the OLED display is crisp, and you can fit a deceivingly large amount of graphics on there. This breakout is perfect for adding graphics to your next Arduino project, displaying diagnostic information without resorting to serial output, and teaching a little game theory while creating a fun, Arduino-based video game. Most important of all, though, is the Micro OLED is easy to control over either an SPI or I2C interface.
 You may be asking yourself, "Why does this board look so familiar?" Yes, this is essentially a MicroView without the Arduino portion. We understand that sometimes you just need a breakout, an open door for you to explore the possibilities of a super small OLED screen. Speaking of, the screen on this breakout is only 64 pixels wide and 48 pixels tall, measuring 0.66" across.
 In total, the Micro OLED Breakout provides access to 16 of the OLED’s pins. Fortunately, though, you’ll only need about half of them to make the display work. The top row of pins (GND-CS) breaks out everything you’d need to interface with the OLED over an SPI or I2C interface. The pins on the bottom (D7-vB) are mostly only used if you need to control the display over a parallel interface. This board operates at 3.3V with a current of 10mA (20mA max).
- Get Started with the SparkFun Micro OLED Breakout Guide               
-            
-                      
-              
+ Get Started with the SparkFun Micro OLED Breakout Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13003</oompOfficialLink>
 	<company>Sparkfun</company>

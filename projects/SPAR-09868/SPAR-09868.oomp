@@ -5,13 +5,11 @@
 	<hexID>SPAR09868</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This tiny breakout board features the ADMP401 MEMS microphone. One of the key advantages to this breakout and microphone is the bottom ported input. This means the microphone's input can fit flush against the enclosure of your project. Plus you will not have to deal with trying to solder the microphone's wacky footprint. Wootness!
+	<oompAbout>(image and text from sparkfun.com)
+
+This tiny breakout board features the ADMP401 MEMS microphone. One of the key advantages to this breakout and microphone is the bottom ported input. This means the microphone's input can fit flush against the enclosure of your project. Plus you will not have to deal with trying to solder the microphone's wacky footprint. Wootness!
 The amplifier on the breakout has a gain of 67 and more than meets the bandwidth requirements of the mic. The amplifier's AUD output will float at one half Vcc when no sound is being picked up. The amplifier produces a peak-to-peak output of about 200mV when the microphone is held at arms length and is being talked into at normal conversational volume levels. So the AUD output can easily be connected to the ADC of a micro.
- Get Started with the ADMP401 Breakout Guide               
-            
-                      
-              
+ Get Started with the ADMP401 Breakout Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9868</oompOfficialLink>
 	<company>Sparkfun</company>

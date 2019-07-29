@@ -17,8 +17,8 @@ The Leonardo differs from all preceding boards in that the ATmega32u4 has built-
 
 
 	<numComponents>47</numComponents>
-	<numOompComponents>22</numOompComponents>
-	<oompCompletion>47</oompCompletion>
+	<numOompComponents>23</numOompComponents>
+	<oompCompletion>49</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -171,7 +171,7 @@ The Leonardo differs from all preceding boards in that the ATmega32u4 has built-
 	<component>
 		<compIndex>22</compIndex>
 		<compIden>ICSP</compIden>
-		<compID>NOT OOMP  eagleValue: ICSP  eagleDevice: PINHD-2X3  eaglePackage: 2X03</compID>
+		<compID>HEAD-I01-X-PI2X03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

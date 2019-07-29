@@ -5,16 +5,14 @@
 	<hexID>SPAR13964</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                Are you a Java developer looking to add advanced hardware I/O capabilities to your Android or PC application? Well, then the IOIO-OTG is for you! The IOIO-OTG (pronounced “yo-yo-O-T-G”) is a development board specially designed to do just that. It features a PIC microcontroller, which acts as a bridge connecting an app on your PC or Android device to low-level peripherals like GPIO, PWM, ADC, I2C, SPI and UART. An app-level library helps you write control code for these low-level peripherals in the same way you'd write any other Java app! This special version of our older Version 2 of the IOIO-OTG comes with female headers already soldered onto the board!
+	<oompAbout>(image and text from sparkfun.com)
+
+Are you a Java developer looking to add advanced hardware I/O capabilities to your Android or PC application? Well, then the IOIO-OTG is for you! The IOIO-OTG (pronounced “yo-yo-O-T-G”) is a development board specially designed to do just that. It features a PIC microcontroller, which acts as a bridge connecting an app on your PC or Android device to low-level peripherals like GPIO, PWM, ADC, I2C, SPI and UART. An app-level library helps you write control code for these low-level peripherals in the same way you'd write any other Java app! This special version of our older Version 2 of the IOIO-OTG comes with female headers already soldered onto the board!
 What separates the IOIO-OTG from previous IOIO boards is the ability to leverage the USB On-The-Go specification to connect as a host *or *an accessory. There are several ways to connect the IOIO to your Java app. If the app is running on your Android device, the IOIO-OTG will act as a USB host and supply charging current to your device (meaning the IOIO-OTG will need its own power source). If your app is running on a Windows, Linux or OSX machine, the IOIO-OTG will assume device mode and present itself as a virtual serial port. When in device mode, the IOIO-OTG can be powered by the host! Connecting a USB Bluetooth dongle will cause the IOIO-OTG to show up as a Bluetooth serial connection so you can go wireless!
 A switch on the board can be used to force the IOIO-OTG into host mode, but most of the time the board can be left in "auto" mode, and it will detect its role in the connection. We're now shipping the IOIO-OTG board loaded with the V4.00 bootloader and the V3.30 application firmware. New application firmware is frequently released, and can be upgraded without needing a programmer using the IOIODude application.
 The board includes a JST connector for attaching a barrel jack and there are several pin headers broken out for voltage and ground access. A trimpot on the board allows you to adjust the charge current used when the IOIO-OTG is acting as a host. Unlike in the newer version of the IOIO-OTG, a USB-A to micro-A OTG cable is NOT included. The V2 IOIO-OTG was found in our old IOIO SIK, and once we are out of stock of this product we will not be restocking it.
 Note: Please do not power your IOIO-OTG with 10V over longer wires. This may cause your board to fail.
-Note: This product is a collaboration with Ytai Ben-Tsvi. A portion of each sale goes back to him for product support and continued development.              
-            
-                      
-              
+Note: This product is a collaboration with Ytai Ben-Tsvi. A portion of each sale goes back to him for product support and continued development.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13964</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -24,8 +22,8 @@ Note: This product is a collaboration with Ytai Ben-Tsvi. A portion of each sale
 
 
 	<numComponents>32</numComponents>
-	<numOompComponents>19</numOompComponents>
-	<oompCompletion>59</oompCompletion>
+	<numOompComponents>21</numOompComponents>
+	<oompCompletion>66</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -108,7 +106,7 @@ Note: This product is a collaboration with Ytai Ben-Tsvi. A portion of each sale
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  eagleValue: B340A  eagleDevice: DIODE-SCHOTTKY-B340A  eaglePackage: SMA-DIODE</compID>
+		<compID>DIOS-D214-X-A3-V30</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -136,7 +134,7 @@ Note: This product is a collaboration with Ytai Ben-Tsvi. A portion of each sale
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>F1</compIden>
-		<compID>NOT OOMP  eagleValue: 0.75A  eagleDevice: PTCSMD  eaglePackage: PTC-1206</compID>
+		<compID>REFU-1206-X-A05D-V8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

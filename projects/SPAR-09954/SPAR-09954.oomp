@@ -5,14 +5,12 @@
 	<hexID>SPAR09954</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This new version breaks out the PI09, FORCE WAKE, and the hardware reset lines. It also has a different crystal and uses the RN-131C.
+	<oompAbout>(image and text from sparkfun.com)
+
+This new version breaks out the PI09, FORCE WAKE, and the hardware reset lines. It also has a different crystal and uses the RN-131C.
 The WiFly Shield equips your Arduino the ability to connect to 802.11b/g wireless networks. The featured components of the shield are a Roving Network's RN-131C wireless module and an SC16IS750 SPI-to-UART chip. The SPI-to-UART bridge is used to allow for faster transmission speed and to free up the Arduino's UART.
 Power is taken from the Vin pin of your Arduino, regulated to 3.3V, and provided to both the RN-131C and the SC16IS750. You'll communicate with the WiFly Shield over SPI using Arduino digital pins 10-13 (CS, MOSI, MISO, SCLK respectively).
-The shield includes the RN-131C, SC16IS750 and their supporting components. The shield also provides a small prototyping area, with 0.1" spaced holes. Headers are not soldered on, we recommend the 6 and 8-pin stackable headers.              
-            
-                      
-              
+The shield includes the RN-131C, SC16IS750 and their supporting components. The shield also provides a small prototyping area, with 0.1" spaced holes. Headers are not soldered on, we recommend the 6 and 8-pin stackable headers.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9954</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ The shield includes the RN-131C, SC16IS750 and their supporting components. The 
 
 
 	<numComponents>24</numComponents>
-	<numOompComponents>18</numOompComponents>
-	<oompCompletion>75</oompCompletion>
+	<numOompComponents>20</numOompComponents>
+	<oompCompletion>83</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -162,7 +160,7 @@ The shield includes the RN-131C, SC16IS750 and their supporting components. The 
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>S1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: TAC_SWITCHSMD  eaglePackage: TACTILE_SWITCH_SMD</compID>
+		<compID>BUTA-52D-X-SMDS-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -190,7 +188,7 @@ The shield includes the RN-131C, SC16IS750 and their supporting components. The 
 	<component>
 		<compIndex>24</compIndex>
 		<compIden>U4</compIden>
-		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

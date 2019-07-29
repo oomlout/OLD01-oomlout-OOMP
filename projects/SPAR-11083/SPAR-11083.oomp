@@ -5,12 +5,10 @@
 	<hexID>SPAR11083</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This breakout for the Silicon Laboratories Si4703 FM tuner chip is a little more stripped down than our FM Tuner Evaluation Board. If your project already has an amp and just needs a full-featured FM tuner, this is the board for you. Beyond being a simple FM radio, the Si4703 is also capable of detecting and processing both Radio Data Service (RDS) and Radio Broadcast Data Service (RBDS) information. The Si4703 even does a very good job of filtering and carrier detection. It also enables data such as the station ID and song name to be displayed to the user.
-Using this board we are able to pick up multiple stations just as well as with a standard FM radio. The board breaks out all major pins and makes it easy to incorporate this great chip into your next radio project.              
-            
-                      
-              
+	<oompAbout>(image and text from sparkfun.com)
+
+This breakout for the Silicon Laboratories Si4703 FM tuner chip is a little more stripped down than our FM Tuner Evaluation Board. If your project already has an amp and just needs a full-featured FM tuner, this is the board for you. Beyond being a simple FM radio, the Si4703 is also capable of detecting and processing both Radio Data Service (RDS) and Radio Broadcast Data Service (RBDS) information. The Si4703 even does a very good job of filtering and carrier detection. It also enables data such as the station ID and song name to be displayed to the user.
+Using this board we are able to pick up multiple stations just as well as with a standard FM radio. The board breaks out all major pins and makes it easy to incorporate this great chip into your next radio project.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/11083</oompOfficialLink>
 	<company>Sparkfun</company>

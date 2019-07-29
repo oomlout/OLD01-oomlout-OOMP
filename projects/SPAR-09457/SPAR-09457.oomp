@@ -5,15 +5,13 @@
 	<hexID>SPAR09457</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The TB6612FNG Motor Driver can control up to two DC motors at a constant current of 1.2A (3.2A peak). Two input signals (IN1 and IN2) can be used to control the motor in one of four function modes: CW, CCW, short-brake and stop. The two motor outputs (A and B) can be separately controlled, and the speed of each motor is controlled via a PWM input signal with a frequency up to 100kHz. The STBY pin should be pulled high to take the motor out of standby mode.
+	<oompAbout>(image and text from sparkfun.com)
+
+The TB6612FNG Motor Driver can control up to two DC motors at a constant current of 1.2A (3.2A peak). Two input signals (IN1 and IN2) can be used to control the motor in one of four function modes: CW, CCW, short-brake and stop. The two motor outputs (A and B) can be separately controlled, and the speed of each motor is controlled via a PWM input signal with a frequency up to 100kHz. The STBY pin should be pulled high to take the motor out of standby mode.
 Logic supply voltage (VCC) can be in the range of 2.7--5.5VDC, while the motor supply (VM) is limited to a maximum voltage of 15VDC. The output current is rated up to 1.2A per channel (or up to 3.2A for a short, single pulse).
 This little board comes with all components installed as shown. Decoupling capacitors are included on both supply lines. All pins of the TB6612FNG are broken out to two 0.1" pitch headers; the pins are arranged such that input pins are on one side and output pins are on the other.
 Note: If you are looking for the SparkFun Motor Driver with headers, it can be found here or in the Similar Products below.
- Get Started With the Motor Driver Hookup Guide               
-            
-                      
-              
+ Get Started With the Motor Driver Hookup Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9457</oompOfficialLink>
 	<company>Sparkfun</company>

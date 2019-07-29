@@ -5,13 +5,11 @@
 	<hexID>SPAR10530</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                Sorry, the HMC5883L went EOL. This part is retired but we recommend the MAG3110 magnetometer or the 9DoF Stick which has a magnetometer built in. Neither are drop in replacements but both will allow you to detect the earth’s magentic field.
+	<oompAbout>(image and text from sparkfun.com)
+
+Sorry, the HMC5883L went EOL. This part is retired but we recommend the MAG3110 magnetometer or the 9DoF Stick which has a magnetometer built in. Neither are drop in replacements but both will allow you to detect the earth’s magentic field.
 This is a breakout board for Honeywell's HMC5883L, a 3-axis digital compass. Communication with the HMC5883L is simple and all done through an I2C interface. There is no on-board regulator, so a regulated voltage of 2.16-3.6VDC should be supplied.
-The breakout board includes the HMC5883L sensor and all filtering capacitors as shown. The power and 2-wire interface pins are all broken out to a 0.1" pitch header.              
-            
-                      
-              
+The breakout board includes the HMC5883L sensor and all filtering capacitors as shown. The power and 2-wire interface pins are all broken out to a 0.1" pitch header.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/10530</oompOfficialLink>
 	<company>Sparkfun</company>

@@ -5,12 +5,10 @@
 	<hexID>SPAR09627</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                Developed by Dave Vondle and IDEO Labs, this board is essentially the same as our Power Driver Shield, but the through-hole parts have been switched out for smaller SMD construction, allowing you to to drive high-current switches with your Arduino Pro Mini. This is a great shield for small prototyping.
-Note: The power circuit chip is only rated to drive 0.6 amps. However, we've successfully tested it to over 2A.              
-            
-                      
-              
+	<oompAbout>(image and text from sparkfun.com)
+
+Developed by Dave Vondle and IDEO Labs, this board is essentially the same as our Power Driver Shield, but the through-hole parts have been switched out for smaller SMD construction, allowing you to to drive high-current switches with your Arduino Pro Mini. This is a great shield for small prototyping.
+Note: The power circuit chip is only rated to drive 0.6 amps. However, we've successfully tested it to over 2A.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9627</oompOfficialLink>
 	<company>Sparkfun</company>

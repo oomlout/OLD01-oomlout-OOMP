@@ -5,16 +5,14 @@
 	<hexID>SPAR14347</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun AS7262 Visible Spectral Sensor Breakout brings spectroscopy to the palm of your hand, making it easier than ever to measure and characterize how different materials absorb and reflect different wavelengths of light. The AS7262 Breakout is unique in its ability to communicate by both an I2C interface and serial interface using AT commands. Hookup is easy, thanks to the Qwiic connectors attached to the board --- simply plug one end of the Qwiic cable into the breakout and the other into one of the Qwiic Shields, then stack the board on a development board. You’ll be ready to upload a sketch to start taking spectroscopy measurements in no time.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun AS7262 Visible Spectral Sensor Breakout brings spectroscopy to the palm of your hand, making it easier than ever to measure and characterize how different materials absorb and reflect different wavelengths of light. The AS7262 Breakout is unique in its ability to communicate by both an I2C interface and serial interface using AT commands. Hookup is easy, thanks to the Qwiic connectors attached to the board --- simply plug one end of the Qwiic cable into the breakout and the other into one of the Qwiic Shields, then stack the board on a development board. You’ll be ready to upload a sketch to start taking spectroscopy measurements in no time.
 The AS7262 spectrometer detects wavelengths in the visible range at 450, 500, 550, 570, 600 and 650nm of light each with 40nm of full-width half-max detection. The board also has multiple ways for you to illuminate objects that you will try to measure for a more accurate spectroscopy reading. There is an onboard LED that has been picked out specifically for this task, as well as two pins to solder your own LED into.
 
 The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shields and cables that make prototyping faster and less prone to error. All Qwiic-enabled boards use a common 1mm pitch, 4-pin JST connector. This reduces the amount of required PCB space, and polarized connections mean you can’t hook it up wrong.
 
- Get Started with the SparkFun AS726X Spectral Sensor Breakout Guide               
-            
-                      
-              
+ Get Started with the SparkFun AS726X Spectral Sensor Breakout Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/14347</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -24,8 +22,8 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 
 
 	<numComponents>18</numComponents>
-	<numOompComponents>10</numOompComponents>
-	<oompCompletion>56</oompCompletion>
+	<numOompComponents>13</numOompComponents>
+	<oompCompletion>72</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -87,7 +85,7 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>9</compIndex>
 		<compIden>J3</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_021X02_NO_SILK  eaglePackage: 1X02_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI02-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -101,14 +99,14 @@ The SparkFun Qwiic Connect System is an ecosystem of I2C sensors, actuators, shi
 	<component>
 		<compIndex>11</compIndex>
 		<compIden>J5</compIden>
-		<compID>NOT OOMP  eagleValue: Flash Programming  eagleDevice: AVR_SPI_PROG_3X2TESTPOINTS  eaglePackage: 2X3_TEST_POINTS</compID>
+		<compID>HEAD-I01-X-PI2X03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>12</compIndex>
 		<compIden>J8</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: I2C_STANDARD_NO_SILK  eaglePackage: 1X04_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI04-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

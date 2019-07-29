@@ -5,15 +5,13 @@
 	<hexID>SPAR10160</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                Here is a real time clock based on the DS3234 Real Time Clock IC. The DS3234 is a low-cost, extremely accurate SPI bus real-time clock with an integrated temperature-compensated crystal oscillator and crystal.
+	<oompAbout>(image and text from sparkfun.com)
+
+Here is a real time clock based on the DS3234 Real Time Clock IC. The DS3234 is a low-cost, extremely accurate SPI bus real-time clock with an integrated temperature-compensated crystal oscillator and crystal.
 The RTC maintains seconds, minutes, hours, day, date, month, and year information. The date at the end of the month is automatically adjusted for months with fewer than 31 days, including corrections of leap year. The clock operates in either the 24-hour or 12-hour format with AM/PM indicator. Two programmable time-of-day alarms and a programmable square-wave output are provided.
 The underside of the board holds a 12mm coin-cell battery holder for battery backup.
 Note: These do not include a battery. See the related products below for a battery.
- Get Started with the DeadOn RTC Module Hookup Guide               
-            
-                      
-              
+ Get Started with the DeadOn RTC Module Hookup Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/10160</oompOfficialLink>
 	<company>Sparkfun</company>

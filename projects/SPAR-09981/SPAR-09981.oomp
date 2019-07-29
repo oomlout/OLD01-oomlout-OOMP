@@ -5,14 +5,12 @@
 	<hexID>SPAR09981</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                This is a breakout board for the SC16IS750, a handy chip used to convert I2C or SPI serial signals to a single-channel, high-performance UART. As an application example: we use this chip on our WiFly Shield to allow an Arduino to communicate with the WiFly RN-131G module - which is normally controlled via a UART - using an SPI interface. This allows for greater communication speeds and frees up the Arduino's UART for other purposes.
+	<oompAbout>(image and text from sparkfun.com)
+
+This is a breakout board for the SC16IS750, a handy chip used to convert I2C or SPI serial signals to a single-channel, high-performance UART. As an application example: we use this chip on our WiFly Shield to allow an Arduino to communicate with the WiFly RN-131G module - which is normally controlled via a UART - using an SPI interface. This allows for greater communication speeds and frees up the Arduino's UART for other purposes.
 Power applied to the 'VIN' pin is sent through a 3.3V LDO regulator before powering the IC. The input pins of the SC16IS750 are 5.5V tolerant, so this board should work with both 3.3V and 5V controllers. Also populated on the board is a 14.7456MHz crystal, to serve as a clock input to the chip, and other supporting components.
 This board breaks out all pins of the SC16IS750 to two breadboard friendly 11-pin, 0.1" pitch headers.
-Replaces:BOB-09745. The reason for the replacement is the 12.288MHz crystal on BOB-09745 did not allow for the full range of baud rates. The 14.7456MHz crystal on this board increases the functionality to include all of the common baud rates from 9600 up to 921600.              
-            
-                      
-              
+Replaces:BOB-09745. The reason for the replacement is the 12.288MHz crystal on BOB-09745 did not allow for the full range of baud rates. The 14.7456MHz crystal on this board increases the functionality to include all of the common baud rates from 9600 up to 921600.
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/9981</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -22,8 +20,8 @@ Replaces:BOB-09745. The reason for the replacement is the 12.288MHz crystal on B
 
 
 	<numComponents>10</numComponents>
-	<numOompComponents>7</numOompComponents>
-	<oompCompletion>70</oompCompletion>
+	<numOompComponents>8</numOompComponents>
+	<oompCompletion>80</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -92,7 +90,7 @@ Replaces:BOB-09745. The reason for the replacement is the 12.288MHz crystal on B
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  eagleValue: 3.3V  eagleDevice: V_REG_LDOSMD  eaglePackage: SOT23-5</compID>
+		<compID>VREG-SO235-X-V33D-A06D</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

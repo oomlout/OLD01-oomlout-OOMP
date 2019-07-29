@@ -5,15 +5,13 @@
 	<hexID>SPAR13819</hexID>
 	<oompSort></oompSort>
 	<oompVersion>99</oompVersion>
-	<oompAbout>
-                The SparkFun Arduino ProtoShield is a bare PCB with no attached or included parts that lets you customize your own Arduino shield using whatever circuit you can come up with! You will even be able to test your circuit or project to make sure everything is working the way it should! The SparkFun Arduino ProtoShield is based off the Arduino R3’s footprint that allows you to easily incorporate it with favorite Arduino-based device.
+	<oompAbout>(image and text from sparkfun.com)
+
+The SparkFun Arduino ProtoShield is a bare PCB with no attached or included parts that lets you customize your own Arduino shield using whatever circuit you can come up with! You will even be able to test your circuit or project to make sure everything is working the way it should! The SparkFun Arduino ProtoShield is based off the Arduino R3’s footprint that allows you to easily incorporate it with favorite Arduino-based device.
 Now you don't need to buy the whole ProtoShield kit if you just need a piece of prototyping board that will fit on top of your Arduino. You might want to grab a stackable header kit, though, which you can find in the related items below.
 One of our favorite features with this version of the Arduino ProtoShield is the solderable-like breadboard prototyping area! Half of this area was designed with a breadboard in mind. On the underside of the shield you will be able to see open jumper pads between each through hole to make a connection like a breadboard. Once you add a component, simply add a solder jumper between holes to make a connection. For those that prefer the standard prototyping pads, we left the other side (near the BlueSMiRF and Serial UART ports) as is.
 We have also moved the prototype testing components (those used to make sure your circuit works effectively) off of the "mainland" of the shield and onto a ProtoSnap styled, removable PCB. On this test area you will find soldering areas for two 3mm LEDs (as well as pins to control and power them), two 330 Ohm resistors, a 10K Ohm resistor, and a pushbutton. These items you'll need to purchase separately.
- Get Started With the SparkFun Arduino ProtoShield Guide               
-            
-                      
-              
+ Get Started With the SparkFun Arduino ProtoShield Guide
 </oompAbout>
 	<oompOfficialLink>https://www.sparkfun.com/products/13819</oompOfficialLink>
 	<company>Sparkfun</company>
@@ -23,21 +21,21 @@ We have also moved the prototype testing components (those used to make sure you
 
 
 	<numComponents>15</numComponents>
-	<numOompComponents>6</numOompComponents>
-	<oompCompletion>40</oompCompletion>
+	<numOompComponents>12</numOompComponents>
+	<oompCompletion>80</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
 		<compIndex>1</compIndex>
 		<compIden>5V</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01  eaglePackage: 1X01</compID>
+		<compID>HEAD-I01-X-PI01-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>5V_RAIL</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_07NO_SILK  eaglePackage: 1X07_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI07-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -51,28 +49,28 @@ We have also moved the prototype testing components (those used to make sure you
 	<component>
 		<compIndex>4</compIndex>
 		<compIden>GND</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_01  eaglePackage: 1X01</compID>
+		<compID>HEAD-I01-X-PI01-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
 		<compIden>GND_RAIL_1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_07NO_SILK  eaglePackage: 1X07_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI07-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>GND_RAIL_2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: CONN_031X03_NO_SILK  eaglePackage: 1X03_NO_SILK</compID>
+		<compID>HEAD-I01-X-PI03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>ICSP</compIden>
-		<compID>NOT OOMP  eagleValue: ICSP  eagleDevice: AVR_SPI_PROG_3X2PTH  eaglePackage: 2X3</compID>
+		<compID>HEAD-I01-X-PI2X03-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
