@@ -20,8 +20,8 @@ If you are looking to add a little more stability to your Intel® Edison stack, c
 
 
 	<numComponents>20</numComponents>
-	<numOompComponents>13</numOompComponents>
-	<oompCompletion>65</oompCompletion>
+	<numOompComponents>12</numOompComponents>
+	<oompCompletion>60</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -146,7 +146,7 @@ If you are looking to add a little more stability to your Intel® Edison stack, c
 	<component>
 		<compIndex>18</compIndex>
 		<compIden>U4</compIden>
-		<compID>ICIC-TQ32-X-K328-01</compID>
+		<compID>NOT OOMP  eagleValue: ATMEGA328  eagleDevice: ATMEGA168  eaglePackage: TQFP32-08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

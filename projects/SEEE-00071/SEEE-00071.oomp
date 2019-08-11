@@ -13,9 +13,9 @@
 
 
 
-	<numComponents>9</numComponents>
+	<numComponents>7</numComponents>
 	<numOompComponents>4</numOompComponents>
-	<oompCompletion>44</oompCompletion>
+	<oompCompletion>57</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -27,55 +27,41 @@
 	</component>
 	<component>
 		<compIndex>2</compIndex>
-		<compIden>MARK1</compIden>
-		<compID>NOT OOMP  eagleValue: PAD-MARK  eagleDevice: PAD-MARK  eaglePackage: MARK</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>3</compIndex>
-		<compIden>MARK2</compIden>
-		<compID>NOT OOMP  eagleValue: PAD-MARK  eagleDevice: PAD-MARK  eaglePackage: MARK</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>4</compIndex>
 		<compIden>R1</compIden>
 		<compID>RESE-0603-X-O472-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>5</compIndex>
+		<compIndex>3</compIndex>
 		<compIden>R3</compIden>
 		<compID>RESE-0603-X-O472-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>6</compIndex>
+		<compIndex>4</compIndex>
 		<compIden>R5</compIden>
 		<compID>RESE-0603-X-O472-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>7</compIndex>
+		<compIndex>5</compIndex>
 		<compIden>R6</compIden>
 		<compID>RESE-0603-X-O472-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>8</compIndex>
+		<compIndex>6</compIndex>
 		<compIden>U2</compIden>
 		<compID>NOT OOMP  eagleValue: PSROCKER  eagleDevice: PSROCKER  eaglePackage: PSROCKER</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>9</compIndex>
+		<compIndex>7</compIndex>
 		<compIden>U3</compIden>
 		<compID>NOT OOMP  eagleValue:   eagleDevice: TWIG-2U  eaglePackage: 2U-DIM-W/-DRILL</compID>
 		<compWhy></compWhy>

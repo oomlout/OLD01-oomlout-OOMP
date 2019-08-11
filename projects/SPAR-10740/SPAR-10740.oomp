@@ -19,8 +19,8 @@ This revision corrects the silkscreen error on the FTDI header. We've also added
 
 
 	<numComponents>17</numComponents>
-	<numOompComponents>16</numOompComponents>
-	<oompCompletion>94</oompCompletion>
+	<numOompComponents>15</numOompComponents>
+	<oompCompletion>88</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -131,7 +131,7 @@ This revision corrects the silkscreen error on the FTDI header. We've also added
 	<component>
 		<compIndex>16</compIndex>
 		<compIden>U2</compIden>
-		<compID>ICIC-TQ32-X-K328-01</compID>
+		<compID>NOT OOMP  eagleValue: ATMEGA328  eagleDevice: ATMEGA168  eaglePackage: TQFP32-08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

@@ -13,9 +13,9 @@
 
 
 
-	<numComponents>39</numComponents>
-	<numOompComponents>14</numOompComponents>
-	<oompCompletion>36</oompCompletion>
+	<numComponents>35</numComponents>
+	<numOompComponents>15</numOompComponents>
+	<oompCompletion>43</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -146,146 +146,118 @@
 	</component>
 	<component>
 		<compIndex>19</compIndex>
-		<compIden>P2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK'ANNULAR'  eaglePackage: ROUND-MARK-1.0</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>20</compIndex>
-		<compIden>P3</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK'ANNULAR'  eaglePackage: ROUND-MARK-1.0</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>21</compIndex>
-		<compIden>P4</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK'ANNULAR'  eaglePackage: ROUND-MARK-1.0</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>22</compIndex>
-		<compIden>P5</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK'ANNULAR'  eaglePackage: ROUND-MARK-1.0</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>23</compIndex>
 		<compIden>PWR</compIden>
 		<compID>LEDS-0603-G-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>24</compIndex>
+		<compIndex>20</compIndex>
 		<compIden>R1</compIden>
 		<compID>RESE-0603-X-O473-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>25</compIndex>
+		<compIndex>21</compIndex>
 		<compIden>R2</compIden>
 		<compID>RESE-0603-X-O103-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>26</compIndex>
+		<compIndex>22</compIndex>
 		<compIden>R3</compIden>
-		<compID>NOT OOMP  eagleValue: 120R  eagleDevice: R-0603  eaglePackage: 0603</compID>
+		<compID>RESE-0603-X-O121-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>27</compIndex>
+		<compIndex>23</compIndex>
 		<compIden>R4</compIden>
 		<compID>RESE-0603-X-O102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>28</compIndex>
+		<compIndex>24</compIndex>
 		<compIden>R5</compIden>
 		<compID>RESE-0603-X-O102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>29</compIndex>
+		<compIndex>25</compIndex>
 		<compIden>R6</compIden>
 		<compID>RESE-0603-X-O102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>30</compIndex>
+		<compIndex>26</compIndex>
 		<compIden>R7</compIden>
 		<compID>RESE-0603-X-O102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>31</compIndex>
+		<compIndex>27</compIndex>
 		<compIden>RX</compIden>
 		<compID>LEDS-0603-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>32</compIndex>
+		<compIndex>28</compIndex>
 		<compIden>SCK</compIden>
 		<compID>NOT OOMP  eagleValue: JUMPER-3P-SHORT  eagleDevice: JUMPER-3P-SHORT  eaglePackage: 3P-SMD-SHORT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>33</compIndex>
+		<compIndex>29</compIndex>
 		<compIden>TF</compIden>
 		<compID>NOT OOMP  eagleValue: TF-CARD-8+4P  eagleDevice: TF-CARD-8+4P  eaglePackage: TF-8+4P-1.1-13.5X15MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>34</compIndex>
+		<compIndex>30</compIndex>
 		<compIden>TX</compIden>
 		<compID>LEDS-0603-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>35</compIndex>
+		<compIndex>31</compIndex>
 		<compIden>U1</compIden>
 		<compID>NOT OOMP  eagleValue: MCP2515  eagleDevice: MCP2515-SOIC18  eaglePackage: SOIC18</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>36</compIndex>
+		<compIndex>32</compIndex>
 		<compIden>U2</compIden>
 		<compID>NOT OOMP  eagleValue: MCP2551  eagleDevice: MCP2551-SOIC8  eaglePackage: SOIC8-6.0</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>37</compIndex>
+		<compIndex>33</compIndex>
 		<compIden>U4</compIden>
 		<compID>NOT OOMP  eagleValue:   eagleDevice: ARDUINO-38P'WITH/-SILK'  eaglePackage: ARDUINO-38P-WITH/-SILK-500519002</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>38</compIndex>
+		<compIndex>34</compIndex>
 		<compIden>V_OBD</compIden>
 		<compID>NOT OOMP  eagleValue:   eagleDevice: SWITCH-2CH-6P  eaglePackage: 6P-2CH-2.54-7.6X3.0</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>39</compIndex>
+		<compIndex>35</compIndex>
 		<compIden>X1</compIden>
 		<compID>NOT OOMP  eagleValue: 16MHz  eagleDevice: CRYSTAL-HC49S  eaglePackage: HC49/S</compID>
 		<compWhy></compWhy>

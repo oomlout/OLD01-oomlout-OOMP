@@ -14,8 +14,8 @@
 
 
 	<numComponents>18</numComponents>
-	<numOompComponents>10</numOompComponents>
-	<oompCompletion>56</oompCompletion>
+	<numOompComponents>12</numOompComponents>
+	<oompCompletion>67</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -56,7 +56,7 @@
 	<component>
 		<compIndex>6</compIndex>
 		<compIden>PWR</compIden>
-		<compID>NOT OOMP  eagleValue: red  eagleDevice: LED0603_DD  eaglePackage: LED0603</compID>
+		<compID>LEDS-0603-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -133,7 +133,7 @@
 	<component>
 		<compIndex>17</compIndex>
 		<compIden>WIFI</compIden>
-		<compID>NOT OOMP  eagleValue: blue  eagleDevice: LED0603_DD  eaglePackage: LED0603</compID>
+		<compID>LEDS-0603-L-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

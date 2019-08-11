@@ -13,9 +13,9 @@
 
 
 
-	<numComponents>37</numComponents>
+	<numComponents>33</numComponents>
 	<numOompComponents>15</numOompComponents>
-	<oompCompletion>41</oompCompletion>
+	<oompCompletion>45</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -111,167 +111,139 @@
 	</component>
 	<component>
 		<compIndex>14</compIndex>
-		<compIden>P1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-1.0</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>15</compIndex>
-		<compIden>P2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-1.0</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>16</compIndex>
-		<compIden>P3</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-1.0</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>17</compIndex>
-		<compIden>P4</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-1.0</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>18</compIndex>
 		<compIden>PWR</compIden>
 		<compID>NOT OOMP  eagleValue: GREEN  eagleDevice: LED-0603  eaglePackage: D0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>19</compIndex>
+		<compIndex>15</compIndex>
 		<compIden>R1</compIden>
 		<compID>RESE-0603-X-O102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>20</compIndex>
+		<compIndex>16</compIndex>
 		<compIden>R2</compIden>
 		<compID>RESE-0603-X-O102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>21</compIndex>
+		<compIndex>17</compIndex>
 		<compIden>R3</compIden>
 		<compID>RESE-0603-X-O102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>22</compIndex>
+		<compIndex>18</compIndex>
 		<compIden>R4</compIden>
 		<compID>RESE-0603-X-O102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>23</compIndex>
+		<compIndex>19</compIndex>
 		<compIden>R5</compIden>
 		<compID>RESE-0603-X-O102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>24</compIndex>
+		<compIndex>20</compIndex>
 		<compIden>R6</compIden>
 		<compID>RESE-0603-X-O102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>25</compIndex>
+		<compIndex>21</compIndex>
 		<compIden>R8</compIden>
 		<compID>RESE-0603-X-O102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>26</compIndex>
+		<compIndex>22</compIndex>
 		<compIden>R9</compIden>
 		<compID>RESE-0603-X-O102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>27</compIndex>
+		<compIndex>23</compIndex>
 		<compIden>R11</compIden>
 		<compID>RESE-0603-X-O102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>28</compIndex>
+		<compIndex>24</compIndex>
 		<compIden>R12</compIden>
 		<compID>RESE-0603-X-O102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>29</compIndex>
+		<compIndex>25</compIndex>
 		<compIden>R13</compIden>
 		<compID>RESE-0603-X-O102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>30</compIndex>
+		<compIndex>26</compIndex>
 		<compIden>RSSI</compIden>
 		<compID>NOT OOMP  eagleValue: RED  eagleDevice: LED-0603  eaglePackage: D0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>31</compIndex>
+		<compIndex>27</compIndex>
 		<compIden>RX</compIden>
 		<compID>NOT OOMP  eagleValue: RED  eagleDevice: LED-0603  eaglePackage: D0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>32</compIndex>
+		<compIndex>28</compIndex>
 		<compIden>SW1</compIden>
 		<compID>NOT OOMP  eagleValue: 6P-SMD-2CH-2.54-3.5X6.2  eagleDevice: SWITCH-2CH-6P-SMD  eaglePackage: 6P-SMD-2CH-2.54-3.5X6.2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>33</compIndex>
+		<compIndex>29</compIndex>
 		<compIden>SW2</compIden>
 		<compID>NOT OOMP  eagleValue: BUTTON-4P-REINFORCE'TS-1188E'  eagleDevice: BUTTON-4P-REINFORCE'TS-1188E'  eaglePackage: 4P-SMD-7X3.5X3.5H</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>34</compIndex>
+		<compIndex>30</compIndex>
 		<compIden>SW3</compIden>
 		<compID>NOT OOMP  eagleValue: 6P-SMD-2CH-2.54-3.5X6.2  eagleDevice: SWITCH-2CH-6P-SMD  eaglePackage: 6P-SMD-2CH-2.54-3.5X6.2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>35</compIndex>
+		<compIndex>31</compIndex>
 		<compIden>TX</compIden>
 		<compID>NOT OOMP  eagleValue: RED  eagleDevice: LED-0603  eaglePackage: D0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>36</compIndex>
+		<compIndex>32</compIndex>
 		<compIden>U1</compIden>
 		<compID>NOT OOMP  eagleValue: FT232RL  eagleDevice: FT232RL  eaglePackage: SSOP28</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>37</compIndex>
+		<compIndex>33</compIndex>
 		<compIden>U2</compIden>
 		<compID>NOT OOMP  eagleValue: LD1117-3.3v  eagleDevice: LD1117SOT89  eaglePackage: SOT89</compID>
 		<compWhy></compWhy>

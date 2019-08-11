@@ -13,7 +13,7 @@
 
 
 
-	<numComponents>5</numComponents>
+	<numComponents>3</numComponents>
 	<numOompComponents>0</numOompComponents>
 	<oompCompletion>0</oompCompletion>
 	<ooDesignator>U</ooDesignator>
@@ -34,20 +34,6 @@
 	</component>
 	<component>
 		<compIndex>3</compIndex>
-		<compIden>MARK1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-0.635</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>4</compIndex>
-		<compIden>MARK2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-0.635</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>5</compIndex>
 		<compIden>TWIG2</compIden>
 		<compID>NOT OOMP  eagleValue: U1N  eagleDevice: TWIG-1U  eaglePackage: 1U-DIM-W/-DRILL</compID>
 		<compWhy></compWhy>

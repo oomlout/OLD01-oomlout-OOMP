@@ -13,9 +13,9 @@
 
 
 
-	<numComponents>6</numComponents>
+	<numComponents>4</numComponents>
 	<numOompComponents>1</numOompComponents>
-	<oompCompletion>17</oompCompletion>
+	<oompCompletion>25</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -34,27 +34,13 @@
 	</component>
 	<component>
 		<compIndex>3</compIndex>
-		<compIden>P1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-1.0</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>4</compIndex>
-		<compIden>P2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-1.0</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>5</compIndex>
 		<compIden>Q1</compIden>
 		<compID>NOT OOMP  eagleValue: S9013  eagleDevice: TRANSISTOR-NPN-SOT23  eaglePackage: SOT23</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>6</compIndex>
+		<compIndex>4</compIndex>
 		<compIden>R1</compIden>
 		<compID>RESE-0603-X-O102-01</compID>
 		<compWhy></compWhy>

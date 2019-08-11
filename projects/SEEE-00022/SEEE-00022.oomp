@@ -13,9 +13,9 @@
 
 
 
-	<numComponents>15</numComponents>
+	<numComponents>11</numComponents>
 	<numOompComponents>6</numOompComponents>
-	<oompCompletion>40</oompCompletion>
+	<oompCompletion>55</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -41,83 +41,55 @@
 	</component>
 	<component>
 		<compIndex>4</compIndex>
-		<compIden>P1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK'ANNULAR'  eaglePackage: ROUND-MARK-1.0</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>5</compIndex>
-		<compIden>P4</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK'ANNULAR'  eaglePackage: ROUND-MARK-1.0</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>6</compIndex>
-		<compIden>P5</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK'ANNULAR'  eaglePackage: ROUND-MARK-1.0</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>7</compIndex>
-		<compIden>P6</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK'ANNULAR'  eaglePackage: ROUND-MARK-1.0</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>8</compIndex>
 		<compIden>Q1</compIden>
 		<compID>NOT OOMP  eagleValue: 2N7002  eagleDevice: MOSFET-N'SOT23'  eaglePackage: SOT23</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>9</compIndex>
+		<compIndex>5</compIndex>
 		<compIden>Q2</compIden>
 		<compID>NOT OOMP  eagleValue: 2N7002  eagleDevice: MOSFET-N'SOT23'  eaglePackage: SOT23</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>10</compIndex>
+		<compIndex>6</compIndex>
 		<compIden>R2</compIden>
 		<compID>RESE-0603-X-O472-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>11</compIndex>
+		<compIndex>7</compIndex>
 		<compIden>R3</compIden>
 		<compID>RESE-0603-X-O472-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>12</compIndex>
+		<compIndex>8</compIndex>
 		<compIden>R4</compIden>
 		<compID>RESE-0603-X-O472-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>13</compIndex>
+		<compIndex>9</compIndex>
 		<compIden>R5</compIden>
 		<compID>RESE-0603-X-O472-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>14</compIndex>
+		<compIndex>10</compIndex>
 		<compIden>U1</compIden>
 		<compID>NOT OOMP  eagleValue: ADXL345  eagleDevice: ADXL345  eaglePackage: LGA14</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>15</compIndex>
+		<compIndex>11</compIndex>
 		<compIden>U5</compIden>
 		<compID>NOT OOMP  eagleValue: XC6206P252MR-G  eagleDevice: XC6206MR  eaglePackage: SOT23</compID>
 		<compWhy></compWhy>

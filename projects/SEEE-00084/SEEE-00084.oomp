@@ -14,8 +14,8 @@
 
 
 	<numComponents>75</numComponents>
-	<numOompComponents>41</numOompComponents>
-	<oompCompletion>55</oompCompletion>
+	<numOompComponents>50</numOompComponents>
+	<oompCompletion>67</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -196,7 +196,7 @@
 	<component>
 		<compIndex>26</compIndex>
 		<compIden>GREEN</compIden>
-		<compID>NOT OOMP  eagleValue: GREEN  eagleDevice: LED0603_DD  eaglePackage: LED0603</compID>
+		<compID>LEDS-0603-G-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -462,56 +462,56 @@
 	<component>
 		<compIndex>64</compIndex>
 		<compIden>R31</compIden>
-		<compID>NOT OOMP  eagleValue: 1k  eagleDevice: R0603  eaglePackage: 0603</compID>
+		<compID>RESE-0603-X-O102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>65</compIndex>
 		<compIden>R32</compIden>
-		<compID>NOT OOMP  eagleValue: 1.8k  eagleDevice: R0603  eaglePackage: 0603</compID>
+		<compID>RESE-0603-X-O182-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>66</compIndex>
 		<compIden>R33</compIden>
-		<compID>NOT OOMP  eagleValue: 1.8k  eagleDevice: R0603  eaglePackage: 0603</compID>
+		<compID>RESE-0603-X-O182-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>67</compIndex>
 		<compIden>R34</compIden>
-		<compID>NOT OOMP  eagleValue: 3.3k  eagleDevice: R0603  eaglePackage: 0603</compID>
+		<compID>RESE-0603-X-O332-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>68</compIndex>
 		<compIden>R35</compIden>
-		<compID>NOT OOMP  eagleValue: 3.3k  eagleDevice: R0603  eaglePackage: 0603</compID>
+		<compID>RESE-0603-X-O332-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>69</compIndex>
 		<compIden>R36</compIden>
-		<compID>NOT OOMP  eagleValue: 100k  eagleDevice: R0603  eaglePackage: 0603</compID>
+		<compID>RESE-0603-X-O104-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>70</compIndex>
 		<compIden>R37</compIden>
-		<compID>NOT OOMP  eagleValue: 100k  eagleDevice: R0603  eaglePackage: 0603</compID>
+		<compID>RESE-0603-X-O104-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>71</compIndex>
 		<compIden>RED</compIden>
-		<compID>NOT OOMP  eagleValue: RED  eagleDevice: LED0603_DD  eaglePackage: LED0603</compID>
+		<compID>LEDS-0603-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

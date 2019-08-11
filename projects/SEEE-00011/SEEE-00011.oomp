@@ -13,9 +13,9 @@
 
 
 
-	<numComponents>30</numComponents>
+	<numComponents>28</numComponents>
 	<numOompComponents>7</numOompComponents>
-	<oompCompletion>23</oompCompletion>
+	<oompCompletion>25</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -160,69 +160,55 @@
 	</component>
 	<component>
 		<compIndex>21</compIndex>
-		<compIden>MARK1</compIden>
-		<compID>NOT OOMP  eagleValue: PAD-MARK  eagleDevice: PAD-MARK  eaglePackage: MARK</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>22</compIndex>
-		<compIden>MARK2</compIden>
-		<compID>NOT OOMP  eagleValue: PAD-MARK  eagleDevice: PAD-MARK  eaglePackage: MARK</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>23</compIndex>
 		<compIden>PIO[1]</compIden>
 		<compID>NOT OOMP  eagleValue: SWITCH-2CH-6P-2.54  eagleDevice: SWITCH-2CH-6P-SMD  eaglePackage: 6P-SMD-2CH-2.54-3.5X6.2</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>24</compIndex>
+		<compIndex>22</compIndex>
 		<compIden>Q3</compIden>
 		<compID>NOT OOMP  eagleValue: Si5904BDC  eagleDevice: 010-DUAL-N-MOSFET_1206-8  eaglePackage: 1206-8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>25</compIndex>
+		<compIndex>23</compIndex>
 		<compIden>R1</compIden>
 		<compID>RESE-0603-X-O331-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>26</compIndex>
+		<compIndex>24</compIndex>
 		<compIden>R2</compIden>
 		<compID>RESE-0603-X-O331-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>27</compIndex>
+		<compIndex>25</compIndex>
 		<compIden>R3</compIden>
 		<compID>RESE-0603-X-O105-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>28</compIndex>
+		<compIndex>26</compIndex>
 		<compIden>R10</compIden>
 		<compID>NOT OOMP  eagleValue: 10k  eagleDevice: 005-4R_1206  eaglePackage: R1206-8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>29</compIndex>
+		<compIndex>27</compIndex>
 		<compIden>S1</compIden>
 		<compID>NOT OOMP  eagleValue:   eagleDevice: EMI_SHIELD_BT  eaglePackage: BT_SHIELD</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>30</compIndex>
+		<compIndex>28</compIndex>
 		<compIden>T1</compIden>
 		<compID>NOT OOMP  eagleValue: PESD5V0L2BT  eagleDevice: D-ESD-PESDXL2BT  eaglePackage: SOT23</compID>
 		<compWhy></compWhy>

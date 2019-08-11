@@ -14,8 +14,8 @@
 
 
 	<numComponents>21</numComponents>
-	<numOompComponents>7</numOompComponents>
-	<oompCompletion>33</oompCompletion>
+	<numOompComponents>9</numOompComponents>
+	<oompCompletion>43</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -63,7 +63,7 @@
 	<component>
 		<compIndex>7</compIndex>
 		<compIden>D2</compIden>
-		<compID>NOT OOMP  eagleValue: red  eagleDevice: LED0603_DD  eaglePackage: LED0603</compID>
+		<compID>LEDS-0603-R-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -105,7 +105,7 @@
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>PWR</compIden>
-		<compID>NOT OOMP  eagleValue: green  eagleDevice: LED0603_DD  eaglePackage: LED0603</compID>
+		<compID>LEDS-0603-G-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

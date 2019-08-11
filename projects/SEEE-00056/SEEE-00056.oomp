@@ -13,9 +13,9 @@
 
 
 
-	<numComponents>11</numComponents>
+	<numComponents>9</numComponents>
 	<numOompComponents>3</numOompComponents>
-	<oompCompletion>27</oompCompletion>
+	<oompCompletion>33</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -27,69 +27,55 @@
 	</component>
 	<component>
 		<compIndex>2</compIndex>
-		<compIden>P1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-1.0</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>3</compIndex>
-		<compIden>P2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-1.0</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>4</compIndex>
 		<compIden>R1</compIden>
 		<compID>RESE-0603-X-O472-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>5</compIndex>
+		<compIndex>3</compIndex>
 		<compIden>R2</compIden>
 		<compID>RESE-0603-X-O472-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>6</compIndex>
+		<compIndex>4</compIndex>
 		<compIden>R3</compIden>
 		<compID>RESE-0603-X-O472-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>7</compIndex>
+		<compIndex>5</compIndex>
 		<compIden>SQW</compIden>
 		<compID>NOT OOMP  eagleValue: CK_1X132  eagleDevice: CK_1X132  eaglePackage: CK_1X1</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>8</compIndex>
+		<compIndex>6</compIndex>
 		<compIden>U1</compIden>
 		<compID>NOT OOMP  eagleValue: DS1307  eagleDevice: DS1307  eaglePackage: SO08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>9</compIndex>
+		<compIndex>7</compIndex>
 		<compIden>U2</compIden>
 		<compID>NOT OOMP  eagleValue:   eagleDevice: TWIG-2U  eaglePackage: 2U-DIM-W/-DRILL</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>10</compIndex>
+		<compIndex>8</compIndex>
 		<compIden>U3</compIden>
 		<compID>NOT OOMP  eagleValue:   eagleDevice: BATTERYBATTERY1225_SMT  eaglePackage: BATTERY1225_SMT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>11</compIndex>
+		<compIndex>9</compIndex>
 		<compIden>X1</compIden>
 		<compID>NOT OOMP  eagleValue: XTL_S  eagleDevice: XTL_S  eaglePackage: XTL_S</compID>
 		<compWhy></compWhy>

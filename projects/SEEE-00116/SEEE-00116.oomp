@@ -13,9 +13,9 @@
 
 
 
-	<numComponents>21</numComponents>
+	<numComponents>17</numComponents>
 	<numOompComponents>12</numOompComponents>
-	<oompCompletion>57</oompCompletion>
+	<oompCompletion>71</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -62,104 +62,76 @@
 	</component>
 	<component>
 		<compIndex>7</compIndex>
-		<compIden>P1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-1.0</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>8</compIndex>
-		<compIden>P2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-1.0</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>9</compIndex>
-		<compIden>P3</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-1.0</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>10</compIndex>
-		<compIden>P4</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-1.0</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>11</compIndex>
 		<compIden>R1</compIden>
 		<compID>RESE-0402-X-O103-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>12</compIndex>
+		<compIndex>8</compIndex>
 		<compIden>R2</compIden>
 		<compID>RESE-0402-X-O103-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>13</compIndex>
+		<compIndex>9</compIndex>
 		<compIden>R3</compIden>
 		<compID>RESE-0402-X-O102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>14</compIndex>
+		<compIndex>10</compIndex>
 		<compIden>R4</compIden>
 		<compID>RESE-0402-X-O102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>15</compIndex>
+		<compIndex>11</compIndex>
 		<compIden>R5</compIden>
 		<compID>RESE-0402-X-O102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>16</compIndex>
+		<compIndex>12</compIndex>
 		<compIden>R6</compIden>
 		<compID>RESE-0402-X-O102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>17</compIndex>
+		<compIndex>13</compIndex>
 		<compIden>R7</compIden>
 		<compID>RESE-0402-X-O102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>18</compIndex>
+		<compIndex>14</compIndex>
 		<compIden>R8</compIden>
 		<compID>RESE-0402-X-O102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>19</compIndex>
+		<compIndex>15</compIndex>
 		<compIden>R9</compIden>
 		<compID>RESE-0402-X-O102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>20</compIndex>
+		<compIndex>16</compIndex>
 		<compIden>R10</compIden>
 		<compID>RESE-0402-X-O103-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>21</compIndex>
+		<compIndex>17</compIndex>
 		<compIden>U1</compIden>
 		<compID>NOT OOMP  eagleValue: AT42QT1070-MMH  eagleDevice: AT42QT1070MMH  eaglePackage: VQFN20-3X3</compID>
 		<compWhy></compWhy>

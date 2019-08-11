@@ -13,9 +13,9 @@
 
 
 
-	<numComponents>15</numComponents>
-	<numOompComponents>3</numOompComponents>
-	<oompCompletion>20</oompCompletion>
+	<numComponents>9</numComponents>
+	<numOompComponents>4</numOompComponents>
+	<oompCompletion>44</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -27,97 +27,55 @@
 	</component>
 	<component>
 		<compIndex>2</compIndex>
-		<compIden>FR1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SEEEDSTUDIO-OPEN-SCH-FRAME  eaglePackage: SEEEDSTUDIO-PCB-FRAME</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>3</compIndex>
-		<compIden>FR2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SEEEDSTUDIO-OPEN-SCH-FRAME  eaglePackage: SEEEDSTUDIO-PCB-FRAME</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>4</compIndex>
-		<compIden>P1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK'ANNULAR'  eaglePackage: ROUND-MARK-1.0</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>5</compIndex>
-		<compIden>P2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK'ANNULAR'  eaglePackage: ROUND-MARK-1.0</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>6</compIndex>
-		<compIden>P3</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK'ANNULAR'  eaglePackage: ROUND-MARK-1.0</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>7</compIndex>
-		<compIden>P4</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK'ANNULAR'  eaglePackage: ROUND-MARK-1.0</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>8</compIndex>
 		<compIden>PSR</compIden>
 		<compID>NOT OOMP  eagleValue: PSR  eagleDevice: PSR  eaglePackage: PSR</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>9</compIndex>
+		<compIndex>3</compIndex>
 		<compIden>Q1</compIden>
 		<compID>NOT OOMP  eagleValue: 2N7002PW  eagleDevice: MOSFET-N'SOT23'  eaglePackage: SOT-23</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>10</compIndex>
+		<compIndex>4</compIndex>
 		<compIden>R1</compIden>
 		<compID>RESE-0603-X-O223-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>11</compIndex>
+		<compIndex>5</compIndex>
 		<compIden>R2</compIden>
-		<compID>NOT OOMP  eagleValue: 100R  eagleDevice: 005-R0603_S  eaglePackage: 0603_S</compID>
+		<compID>RESE-0603-X-O101-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>12</compIndex>
+		<compIndex>6</compIndex>
 		<compIden>R3</compIden>
 		<compID>RESE-0603-X-O103-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>13</compIndex>
+		<compIndex>7</compIndex>
 		<compIden>R4</compIden>
 		<compID>RESE-0603-X-O472-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>14</compIndex>
+		<compIndex>8</compIndex>
 		<compIden>R5</compIden>
 		<compID>NOT OOMP  eagleValue: 470k  eagleDevice: 005-R0603_S  eaglePackage: 0603_S</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>15</compIndex>
+		<compIndex>9</compIndex>
 		<compIden>VR1</compIden>
 		<compID>NOT OOMP  eagleValue: 10k  eagleDevice: RES-ADJ'RTRIM3214W'  eaglePackage: ADJR3-SMD-4.6X3.7MM</compID>
 		<compWhy></compWhy>

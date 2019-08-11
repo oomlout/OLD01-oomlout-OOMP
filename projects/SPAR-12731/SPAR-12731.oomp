@@ -19,8 +19,8 @@ With this version, we've corrected a few issues found with the board. These chan
 
 
 	<numComponents>10</numComponents>
-	<numOompComponents>9</numOompComponents>
-	<oompCompletion>90</oompCompletion>
+	<numOompComponents>10</numOompComponents>
+	<oompCompletion>100</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -89,7 +89,7 @@ With this version, we've corrected a few issues found with the board. These chan
 	<component>
 		<compIndex>10</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  eagleValue: FT232R  eagleDevice: FT232RLSSOP  eaglePackage: SSOP28DB</compID>
+		<compID>ICIC-TQ32-X-K328-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

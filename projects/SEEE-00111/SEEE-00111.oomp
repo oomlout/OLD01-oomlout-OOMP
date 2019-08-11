@@ -14,8 +14,8 @@
 
 
 	<numComponents>43</numComponents>
-	<numOompComponents>5</numOompComponents>
-	<oompCompletion>12</oompCompletion>
+	<numOompComponents>8</numOompComponents>
+	<oompCompletion>19</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -119,7 +119,7 @@
 	<component>
 		<compIndex>15</compIndex>
 		<compIden>DIGITAL</compIden>
-		<compID>NOT OOMP  eagleValue: 2.54-8p-male  eagleDevice: HEADER-8P-2.54  eaglePackage: 8P-2.54</compID>
+		<compID>HEAD-I01-X-PI08-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
@@ -308,14 +308,14 @@
 	<component>
 		<compIndex>42</compIndex>
 		<compIden>WIFI_RX</compIden>
-		<compID>NOT OOMP  eagleValue: 2.54-8p-male  eagleDevice: HEADER-8P-2.54  eaglePackage: 8P-2.54</compID>
+		<compID>HEAD-I01-X-PI08-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>43</compIndex>
 		<compIden>WIFI_TX</compIden>
-		<compID>NOT OOMP  eagleValue: 2.54-8p-male  eagleDevice: HEADER-8P-2.54  eaglePackage: 8P-2.54</compID>
+		<compID>HEAD-I01-X-PI08-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

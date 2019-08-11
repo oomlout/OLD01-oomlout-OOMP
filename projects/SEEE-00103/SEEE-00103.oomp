@@ -14,8 +14,8 @@
 
 
 	<numComponents>8</numComponents>
-	<numOompComponents>3</numOompComponents>
-	<oompCompletion>38</oompCompletion>
+	<numOompComponents>4</numOompComponents>
+	<oompCompletion>50</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -28,7 +28,7 @@
 	<component>
 		<compIndex>2</compIndex>
 		<compIden>D1</compIden>
-		<compID>NOT OOMP  eagleValue: LED0603  eagleDevice: LED0603  eaglePackage: LED0603</compID>
+		<compID>LEDS-0603-X-STAN-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

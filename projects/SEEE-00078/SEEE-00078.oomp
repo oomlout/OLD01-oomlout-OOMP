@@ -13,9 +13,9 @@
 
 
 
-	<numComponents>29</numComponents>
+	<numComponents>25</numComponents>
 	<numOompComponents>16</numOompComponents>
-	<oompCompletion>55</oompCompletion>
+	<oompCompletion>64</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -132,90 +132,62 @@
 	</component>
 	<component>
 		<compIndex>17</compIndex>
-		<compIden>P1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-1.0</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>18</compIndex>
-		<compIden>P2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-1.0</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>19</compIndex>
-		<compIden>P3</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-1.0</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>20</compIndex>
-		<compIden>P4</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-1.0</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>21</compIndex>
 		<compIden>R1</compIden>
 		<compID>RESE-0402-X-O103-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>22</compIndex>
+		<compIndex>18</compIndex>
 		<compIden>R2</compIden>
 		<compID>RESE-0402-X-O103-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>23</compIndex>
+		<compIndex>19</compIndex>
 		<compIden>R3</compIden>
 		<compID>RESE-0402-X-O103-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>24</compIndex>
+		<compIndex>20</compIndex>
 		<compIden>R12</compIden>
 		<compID>NOT OOMP  eagleValue: 43k_1%  eagleDevice: R-0402  eaglePackage: R0402</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>25</compIndex>
+		<compIndex>21</compIndex>
 		<compIden>U1</compIden>
 		<compID>NOT OOMP  eagleValue:   eagleDevice: TEMPLATE_SHIELDING-COVER  eaglePackage: TEMPLATE_SHIELDING-COVER-20.6X18.5</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>26</compIndex>
+		<compIndex>22</compIndex>
 		<compIden>U2</compIden>
 		<compID>NOT OOMP  eagleValue: RFBEE_EXT_MOUDLE_CCBEE_PRO  eagleDevice: RFBEE_EXT_MOUDLE_CCBEE_PRO  eaglePackage: RFBEE_EXT_MOUDLE_CCBEE-PRO</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>27</compIndex>
+		<compIndex>23</compIndex>
 		<compIden>U3</compIden>
 		<compID>NOT OOMP  eagleValue: JN5168  eagleDevice: JN5168  eaglePackage: HVQFN40</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>28</compIndex>
+		<compIndex>24</compIndex>
 		<compIden>U4</compIden>
 		<compID>NOT OOMP  eagleValue:   eagleDevice: W25X80  eaglePackage: WSON8</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>29</compIndex>
+		<compIndex>25</compIndex>
 		<compIden>X1</compIden>
 		<compID>NOT OOMP  eagleValue: 32MHz  eagleDevice: CRYSTAL'3225'  eaglePackage: 4P-SMD-3.2X2.5</compID>
 		<compWhy></compWhy>

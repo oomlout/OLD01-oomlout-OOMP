@@ -19,8 +19,8 @@ This breakout board includes the SP3485, FT232, TX/RX/RTS LEDs, Mini-B USB conne
 
 
 	<numComponents>15</numComponents>
-	<numOompComponents>12</numOompComponents>
-	<oompCompletion>80</oompCompletion>
+	<numOompComponents>13</numOompComponents>
+	<oompCompletion>87</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -110,7 +110,7 @@ This breakout board includes the SP3485, FT232, TX/RX/RTS LEDs, Mini-B USB conne
 	<component>
 		<compIndex>13</compIndex>
 		<compIden>U1</compIden>
-		<compID>NOT OOMP  eagleValue: FT232R  eagleDevice: FT232RLSSOP  eaglePackage: SSOP28DB</compID>
+		<compID>ICIC-TQ32-X-K328-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

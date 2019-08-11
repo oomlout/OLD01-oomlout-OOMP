@@ -13,9 +13,9 @@
 
 
 
-	<numComponents>25</numComponents>
-	<numOompComponents>12</numOompComponents>
-	<oompCompletion>48</oompCompletion>
+	<numComponents>24</numComponents>
+	<numOompComponents>14</numOompComponents>
+	<oompCompletion>58</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -83,111 +83,104 @@
 	</component>
 	<component>
 		<compIndex>10</compIndex>
-		<compIden>FR1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SEEEDSTUDIO-OPEN-SCH-FRAME  eaglePackage: SEEEDSTUDIO-PCB-FRAME</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>11</compIndex>
 		<compIden>J2</compIden>
 		<compID>NOT OOMP  eagleValue: 2P-2.0  eagleDevice: JACK-JST-2P-PW'2.0'  eaglePackage: JST-2.0</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>12</compIndex>
+		<compIndex>11</compIndex>
 		<compIden>MIC1</compIden>
 		<compID>NOT OOMP  eagleValue: MiniMicrophone_250002001  eagleDevice: MICROPHONE  eaglePackage: 2P-D8.9MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>13</compIndex>
+		<compIndex>12</compIndex>
 		<compIden>R2</compIden>
 		<compID>RESE-0402-X-O472-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>14</compIndex>
+		<compIndex>13</compIndex>
 		<compIden>R3</compIden>
 		<compID>RESE-0402-X-O472-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>15</compIndex>
+		<compIndex>14</compIndex>
 		<compIden>R4</compIden>
 		<compID>RESE-0402-X-O102-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>16</compIndex>
+		<compIndex>15</compIndex>
 		<compIden>R5</compIden>
 		<compID>RESE-0402-X-O104-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>17</compIndex>
+		<compIndex>16</compIndex>
 		<compIden>R6</compIden>
 		<compID>RESE-0402-X-O104-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>18</compIndex>
+		<compIndex>17</compIndex>
 		<compIden>R7</compIden>
 		<compID>RESE-0402-X-O104-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>19</compIndex>
+		<compIndex>18</compIndex>
 		<compIden>R10</compIden>
-		<compID>NOT OOMP  eagleValue: 470R  eagleDevice: R-0402  eaglePackage: R0402</compID>
+		<compID>RESE-0402-X-O471-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>20</compIndex>
+		<compIndex>19</compIndex>
 		<compIden>R11</compIden>
 		<compID>NOT OOMP  eagleValue: 560R  eagleDevice: RES-0402  eaglePackage: R0402</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>21</compIndex>
+		<compIndex>20</compIndex>
 		<compIden>R12</compIden>
-		<compID>NOT OOMP  eagleValue: 0R  eagleDevice: R-0402  eaglePackage: R0402</compID>
+		<compID>RESE-0402-X-O000-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>22</compIndex>
+		<compIndex>21</compIndex>
 		<compIden>REC</compIden>
 		<compID>NOT OOMP  eagleValue: BUTTON-4P-13mm  eagleDevice: BUTTON-4P-3110040P1  eaglePackage: 4P-6.0X6.0X5.0H</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>23</compIndex>
+		<compIndex>22</compIndex>
 		<compIden>U1</compIden>
 		<compID>NOT OOMP  eagleValue: ISD1820P  eagleDevice: ISD1820P  eaglePackage: DIP14</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>24</compIndex>
+		<compIndex>23</compIndex>
 		<compIden>U2</compIden>
 		<compID>NOT OOMP  eagleValue: NS8002  eagleDevice: AMPLIFIER-NS8002  eaglePackage: SOIC8-1.27-5X4MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>25</compIndex>
+		<compIndex>24</compIndex>
 		<compIden>VR2</compIden>
 		<compID>NOT OOMP  eagleValue: 10K  eagleDevice: RES-ADJ-SX3362P  eaglePackage: ADJR3-7.0X7.0X5.0MM</compID>
 		<compWhy></compWhy>

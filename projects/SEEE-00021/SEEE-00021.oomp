@@ -13,9 +13,9 @@
 
 
 
-	<numComponents>12</numComponents>
+	<numComponents>10</numComponents>
 	<numOompComponents>6</numOompComponents>
-	<oompCompletion>50</oompCompletion>
+	<oompCompletion>60</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -55,48 +55,34 @@
 	</component>
 	<component>
 		<compIndex>6</compIndex>
-		<compIden>P1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-0.635</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>7</compIndex>
-		<compIden>P2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: PAD-MARK  eaglePackage: ROUND-MARK-0.635</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>8</compIndex>
 		<compIden>R1</compIden>
 		<compID>RESE-0603-X-O103-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>9</compIndex>
+		<compIndex>7</compIndex>
 		<compIden>R2</compIden>
 		<compID>RESE-0603-X-O103-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>10</compIndex>
+		<compIndex>8</compIndex>
 		<compIden>U1</compIden>
 		<compID>NOT OOMP  eagleValue:   eagleDevice: TM1637  eaglePackage: SOP20-10.45</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>11</compIndex>
+		<compIndex>9</compIndex>
 		<compIden>U2</compIden>
 		<compID>NOT OOMP  eagleValue:   eagleDevice: LED-4-BETY-7-SEG  eaglePackage: 7-4-BYTE-SEG-2.54-30X14X7.3H</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>12</compIndex>
+		<compIndex>10</compIndex>
 		<compIden>U3</compIden>
 		<compID>NOT OOMP  eagleValue:   eagleDevice: TWIG-2U  eaglePackage: 2U-DIM-W/-DRILL</compID>
 		<compWhy></compWhy>

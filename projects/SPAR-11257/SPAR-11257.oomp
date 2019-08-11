@@ -19,8 +19,8 @@ We've made a minor change to the hardware, the new version has a new voltage reg
 
 
 	<numComponents>23</numComponents>
-	<numOompComponents>14</numOompComponents>
-	<oompCompletion>61</oompCompletion>
+	<numOompComponents>13</numOompComponents>
+	<oompCompletion>57</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -159,7 +159,7 @@ We've made a minor change to the hardware, the new version has a new voltage reg
 	<component>
 		<compIndex>20</compIndex>
 		<compIden>U1</compIden>
-		<compID>ICIC-TQ32-X-K328-01</compID>
+		<compID>NOT OOMP  eagleValue: ATmega328  eagleDevice: ATMEGA168  eaglePackage: TQFP32-08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>

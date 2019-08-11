@@ -13,9 +13,9 @@
 
 
 
-	<numComponents>18</numComponents>
+	<numComponents>16</numComponents>
 	<numOompComponents>10</numOompComponents>
-	<oompCompletion>56</oompCompletion>
+	<oompCompletion>63</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -69,76 +69,62 @@
 	</component>
 	<component>
 		<compIndex>8</compIndex>
-		<compIden>FR1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SEEEDSTUDIO-OPEN-SCH-FRAME  eaglePackage: SEEEDSTUDIO-PCB-FRAME</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>9</compIndex>
-		<compIden>FR2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SEEEDSTUDIO-OPEN-SCH-FRAME  eaglePackage: SEEEDSTUDIO-PCB-FRAME</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>10</compIndex>
 		<compIden>INTERFACE</compIden>
 		<compID>NOT OOMP  eagleValue: 2P-SHORT  eagleDevice: JUMPER-2P-SHORT  eaglePackage: 2P-SMD-SHORT</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>11</compIndex>
+		<compIndex>9</compIndex>
 		<compIden>Q7</compIden>
 		<compID>NOT OOMP  eagleValue: BSS138LT3G  eagleDevice: MOSFET-N'SOT23'  eaglePackage: SOT-23</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>12</compIndex>
+		<compIndex>10</compIndex>
 		<compIden>Q8</compIden>
 		<compID>NOT OOMP  eagleValue: BSS138LT3G  eagleDevice: MOSFET-N'SOT23'  eaglePackage: SOT-23</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>13</compIndex>
+		<compIndex>11</compIndex>
 		<compIden>R20</compIden>
 		<compID>RESE-0603-X-O103-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>14</compIndex>
+		<compIndex>12</compIndex>
 		<compIden>R21</compIden>
 		<compID>RESE-0603-X-O103-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>15</compIndex>
+		<compIndex>13</compIndex>
 		<compIden>R22</compIden>
 		<compID>RESE-0603-X-O103-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>16</compIndex>
+		<compIndex>14</compIndex>
 		<compIden>R23</compIden>
 		<compID>RESE-0603-X-O103-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>17</compIndex>
+		<compIndex>15</compIndex>
 		<compIden>U1</compIden>
 		<compID>NOT OOMP  eagleValue: BME280  eagleDevice: SENSOR-BME280  eaglePackage: LGA8-0.65-2.5X2.5X0.95MM</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>18</compIndex>
+		<compIndex>16</compIndex>
 		<compIden>U2</compIden>
 		<compID>NOT OOMP  eagleValue: XC6206P332MR-G  eagleDevice: PMIC-XC6206PMR  eaglePackage: SOT-23</compID>
 		<compWhy></compWhy>

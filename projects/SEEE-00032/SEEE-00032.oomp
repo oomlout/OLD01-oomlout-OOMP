@@ -13,9 +13,9 @@
 
 
 
-	<numComponents>10</numComponents>
-	<numOompComponents>2</numOompComponents>
-	<oompCompletion>20</oompCompletion>
+	<numComponents>8</numComponents>
+	<numOompComponents>4</numOompComponents>
+	<oompCompletion>50</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -41,48 +41,34 @@
 	</component>
 	<component>
 		<compIndex>4</compIndex>
-		<compIden>FR1</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SEEEDSTUDIO-OPEN-SCH-FRAME  eaglePackage: SEEEDSTUDIO-PCB-FRAME</compID>
+		<compIden>R1</compIden>
+		<compID>RESE-0603-X-O390-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>5</compIndex>
-		<compIden>FR2</compIden>
-		<compID>NOT OOMP  eagleValue:   eagleDevice: SEEEDSTUDIO-OPEN-SCH-FRAME  eaglePackage: SEEEDSTUDIO-PCB-FRAME</compID>
+		<compIden>R2</compIden>
+		<compID>RESE-0603-X-O390-01</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
 		<compIndex>6</compIndex>
-		<compIden>R1</compIden>
-		<compID>NOT OOMP  eagleValue: 39R  eagleDevice: R-0603  eaglePackage: 0603</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>7</compIndex>
-		<compIden>R2</compIden>
-		<compID>NOT OOMP  eagleValue: 39R  eagleDevice: R-0603  eaglePackage: 0603</compID>
-		<compWhy></compWhy>
-		<compDesc></compDesc>
-	</component>
-	<component>
-		<compIndex>8</compIndex>
 		<compIden>R3</compIden>
 		<compID>NOT OOMP  eagleValue: 24k  eagleDevice: R-0603  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>9</compIndex>
+		<compIndex>7</compIndex>
 		<compIden>R4</compIden>
 		<compID>NOT OOMP  eagleValue: 3.6R  eagleDevice: R-0603  eaglePackage: 0603</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
 	<component>
-		<compIndex>10</compIndex>
+		<compIndex>8</compIndex>
 		<compIden>U1</compIden>
 		<compID>NOT OOMP  eagleValue: P9813S14  eagleDevice: DRIVER-P9813-SOP14  eaglePackage: SOP14-1.27-8.65X3.9X1.35MM</compID>
 		<compWhy></compWhy>

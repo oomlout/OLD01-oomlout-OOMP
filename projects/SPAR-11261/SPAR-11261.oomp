@@ -43,8 +43,8 @@ Replaces:RTL-11052
 
 
 	<numComponents>41</numComponents>
-	<numOompComponents>35</numOompComponents>
-	<oompCompletion>85</oompCompletion>
+	<numOompComponents>34</numOompComponents>
+	<oompCompletion>83</oompCompletion>
 	<ooDesignator>U</ooDesignator>
 <componentList>
 	<component>
@@ -302,7 +302,7 @@ Replaces:RTL-11052
 	<component>
 		<compIndex>37</compIndex>
 		<compIden>U1</compIden>
-		<compID>ICIC-TQ32-X-K328-01</compID>
+		<compID>NOT OOMP  eagleValue: ATMEGA328  eagleDevice: ATMEGA168  eaglePackage: TQFP32-08</compID>
 		<compWhy></compWhy>
 		<compDesc></compDesc>
 	</component>
