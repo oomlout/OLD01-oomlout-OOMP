@@ -33,6 +33,25 @@
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
 		</oplList>
+		
+		<ooPin1>GND</ooPin1>		
+		<ooPin2>TXD</ooPin2>
+		<ooPin3>RXD</ooPin3>
+		<ooPin4>V3</ooPin4>
+		<ooPin5>UD+</ooPin5>
+		<ooPin6>UD-</ooPin6>
+		<ooPin7>X1</ooPin7>
+		<ooPin8>X0</ooPin8>
+		<ooPin9>CTS#</ooPin9>
+		<ooPin10>DSR#</ooPin10>
+		<ooPin11>RI#</ooPin11>
+		<ooPin12>DCD#</ooPin12>
+		<ooPin13>DTR#</ooPin13>
+		<ooPin14>RTS#</ooPin14>
+		<ooPin15>R232</ooPin15>
+		<ooPin16>VCC</ooPin16>
+		
+		
 		<ooDesignator>U1</ooDesignator>
 		<oompStatCount>0</oompStatCount>
 	<oompStatPercent>0</oompStatPercent>

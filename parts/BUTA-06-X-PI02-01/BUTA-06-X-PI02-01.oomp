@@ -40,7 +40,12 @@
 		<oompAbout>A simple tactile pushbutton with two pins. This button is not commonly used. However it is imcluded in OOMP due to it being a part in the SEEED OPL. For a more commonly used through hole button we recommend (BUTA-06-X-STAN-01)</oompAbout>
 		<oompSchem>
 			<drawItem>template;BUTA-XXXX-X-PI02-XX-schem</drawItem>
-		</oompSchem><ooDesignator>S1</ooDesignator>
+		</oompSchem>
+					<ooDesignator>S</ooDesignator>			
+			<oompSymbol>twoSidedPackage;##ooNumPins@@/2</oompSymbol>
+			
+			<ooPin1>.</ooPin1>
+			<ooPin2>.</ooPin2>
 		<oompStatCount>0</oompStatCount>
 	<oompStatPercent>0</oompStatPercent>
 </oompPart>

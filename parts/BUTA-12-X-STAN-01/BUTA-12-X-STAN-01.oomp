@@ -84,7 +84,12 @@
 		<oompSimp>
 			<drawItem>template;BUTA-12-X-STAN-01</drawItem>
 			<drawItem>template;XXXX-XXXX-X-XXXX-XX-simp-words</drawItem>
-		</oompSimp><ooDesignator>S1</ooDesignator>
+		</oompSimp>
+					<ooDesignator>S</ooDesignator>			
+			<oompSymbol>twoSidedPackage;##ooNumPins@@/2</oompSymbol>
+			
+			<ooPin1>.</ooPin1>
+			<ooPin2>.</ooPin2>
 		<oompStatCount>25</oompStatCount>
 	<oompStatPercent>0.210</oompStatPercent>
 </oompPart>

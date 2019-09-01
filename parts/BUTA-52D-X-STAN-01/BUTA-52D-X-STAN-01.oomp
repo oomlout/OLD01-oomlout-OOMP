@@ -50,7 +50,14 @@
 					<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 				</oplSystem>
 			</oplList>
-			<ooDesignator>S1</ooDesignator>
+					<oompSchem>
+			<drawItem>template;BUTA-XXXX-X-PI02-XX-schem</drawItem>
+		</oompSchem>
+						<ooDesignator>S</ooDesignator>			
+			<oompSymbol>twoSidedPackage;##ooNumPins@@/2</oompSymbol>
+			
+			<ooPin1>.</ooPin1>
+			<ooPin2>.</ooPin2>
 		<oompStatCount>0</oompStatCount>
 	<oompStatPercent>0</oompStatPercent>
 </oompPart>

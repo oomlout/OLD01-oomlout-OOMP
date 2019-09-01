@@ -45,7 +45,7 @@
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
-					<oplSystem>
+			<oplSystem>
 		<oplScheme>KiCad Default Library</oplScheme>
 		<oplCode>C-KICD</oplCode>
 		<oplFootprint1>(Package_QFP)TQFP-32_7x7mm_P0.8mm.kicad_mod</oplFootprint1>
@@ -63,8 +63,7 @@
 		<ooPadHeight>0.32 mm</ooPadHeight>
 		
 		
-		<ooPin1>PD3</ooPin1>
-		
+		<ooPin1>PD3</ooPin1>		
 		<ooPin2>PD4</ooPin2>
 		<ooPin3>GND</ooPin3>
 		<ooPin4>VCC</ooPin4>

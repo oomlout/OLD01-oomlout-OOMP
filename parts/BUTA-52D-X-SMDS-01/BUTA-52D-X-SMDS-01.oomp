@@ -49,6 +49,14 @@
 			<oplLink>https://www.seeedstudio.com/opl.html?</oplLink>
 		</oplSystem>
 	</oplList>
+			<oompSchem>
+			<drawItem>template;BUTA-XXXX-X-PI02-XX-schem</drawItem>
+		</oompSchem>
+				<ooDesignator>S</ooDesignator>			
+			<oompSymbol>twoSidedPackage;##ooNumPins@@/2</oompSymbol>
+			
+			<ooPin1>.</ooPin1>
+			<ooPin2>.</ooPin2>
 	<oompStatCount>128</oompStatCount>
 	<oompStatPercent>1.074</oompStatPercent>
 </oompPart>

@@ -119,11 +119,16 @@
 				<drawItem>rectangle;3.8;-2.25;1.4;0.7;pad 4</drawItem>
 				<drawItem>name;0;5;20;5;##name@@</drawItem>
 				<drawItem>oompURL;0;-5;2.835;##hexID@@</drawItem>
-			</oompDiag>
+			</oompDiag>		
+			
 			<oompSchem>
-			  		<drawItem>template;BUTA-XXXX-X-XXXX-XX-schem</drawItem>
+					<drawItem>template;BUTA-XXXX-X-XXXX-XX-schem</drawItem>
 			</oompSchem>
-			<ooDesignator>S1</ooDesignator>
+						<ooDesignator>S</ooDesignator>			
+			<oompSymbol>twoSidedPackage;##ooNumPins@@/2</oompSymbol>
+			
+			<ooPin1>.</ooPin1>
+			<ooPin2>.</ooPin2>
 		<oompStatCount>0</oompStatCount>
 	<oompStatPercent>0</oompStatPercent>
 </oompPart>

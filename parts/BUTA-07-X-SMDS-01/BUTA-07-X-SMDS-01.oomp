@@ -55,7 +55,11 @@
 			<oompSchem>
 					<drawItem>template;BUTA-XXXX-X-02PI-XX-schem</drawItem>
 			</oompSchem>
-			<ooDesignator>S1</ooDesignator>
+						<ooDesignator>S</ooDesignator>			
+			<oompSymbol>twoSidedPackage;##ooNumPins@@/2</oompSymbol>
+			
+			<ooPin1>.</ooPin1>
+			<ooPin2>.</ooPin2>
 		<oompStatCount>0</oompStatCount>
 	<oompStatPercent>0</oompStatPercent>
 </oompPart>
