@@ -12,3 +12,4 @@ set INKSdirectory=C:\GH\oomlout-INKS\
 
 start OOMP-generate-IndexPages1.bat
 start OOMP-generate-IndexPages2.bat
+start OOMP-generate-IndexPages3.bat

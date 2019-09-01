@@ -27,6 +27,15 @@
 			</manufacturer>
 		</sourceList>
 		<oplList>
+			
+			<oplSystem>
+				<oplScheme>OOMP</oplScheme>
+				<oplCode>C-OOMP</oplCode>
+				<oplName>32 Pin SMD (TQFP) AtMega328P</oplName>
+				<oplID>ICIC-TQ32-X-K328-01</oplID>
+				<oplLink><![CDATA[https://github.com/oomlout/oomlout-OOMP/wiki/ICIC-TQ32-X-K328-01]]></oplLink>
+				<oplFootprint1>(OOMP-kicad)OOMP-ICIC-TQ32-X-K328-01</oplFootprint1>
+			</oplSystem>
 			<oplSystem>
 				<oplScheme>SEEED OPL</oplScheme>
 				<oplCode>C-SEEE</oplCode>
@@ -36,9 +45,66 @@
 				<oplPackage></oplPackage>
 				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
 			</oplSystem>
+					<oplSystem>
+		<oplScheme>KiCad Default Library</oplScheme>
+		<oplCode>C-KICD</oplCode>
+		<oplFootprint1>(Package_QFP)TQFP-32_7x7mm_P0.8mm.kicad_mod</oplFootprint1>
+			<oplID> </oplID>
+		<oplLink><![CDATA[ ]]></oplLink>
+		<oplName> </oplName>
+</oplSystem>
 		</oplList>
 		<oompClass>Surface Mount</oompClass>
 		<oompClassCode>SMDS</oompClassCode>
+		
+		
+		<ooPitch>0.65 mm</ooPitch>
+		<ooPadWidth>1 mm</ooPadWidth>
+		<ooPadHeight>0.32 mm</ooPadHeight>
+		
+		
+		<ooPin1>PD3</ooPin1>
+		
+		<ooPin2>PD4</ooPin2>
+		<ooPin3>GND</ooPin3>
+		<ooPin4>VCC</ooPin4>
+		<ooPin5>GND</ooPin5>
+		<ooPin6>VCC</ooPin6>
+		<ooPin7>PB6</ooPin7>
+		<ooPin8>PB7</ooPin8>
+		<ooPin9>PD5</ooPin9>
+		<ooPin10>PD6</ooPin10>
+		<ooPin11>PD7</ooPin11>
+		<ooPin12>PB0</ooPin12>
+		<ooPin13>PB1</ooPin13>
+		<ooPin14>PB2</ooPin14>
+		<ooPin15>PB3</ooPin15>
+		<ooPin16>PB4</ooPin16>
+		<ooPin17>PB5</ooPin17>
+		<ooPin18>AVCC</ooPin18>
+		<ooPin19>ADC6</ooPin19>
+		<ooPin20>AREF</ooPin20>
+		<ooPin21>GND</ooPin21>
+		<ooPin22>ADC7</ooPin22>
+		<ooPin23>PC0</ooPin23>
+		<ooPin24>PC1</ooPin24>
+		<ooPin25>PC2</ooPin25>
+		<ooPin26>PC3</ooPin26>
+		<ooPin27>PC4</ooPin27>
+		<ooPin28>PC5</ooPin28>
+		<ooPin29>PC5</ooPin29>
+		<ooPin30>PD0</ooPin30>
+		<ooPin31>PD1</ooPin31>
+		<ooPin32>PD2</ooPin32>
+		<ooNumPins>32</ooNumPins>
+		<oompDiag>
+			<drawItem>template;ICIC-TQ32-X-XXXX-01-diag</drawItem>
+		</oompDiag>
+		<oompSymbol>twoSidedPackage;##ooNumPins@@</oompSymbol>
+		<oompFootprint>TQSMDPackage;##ooNumPins@@;##ooPitch@@;##ooPadWidth@@;##ooPadHeight@@</oompFootprint>
+		
+		
+		<ooPackageMarking>ATMEGA328</ooPackageMarking>
 		<ooDesignator>U1</ooDesignator>
 		<oompStatCount>38</oompStatCount>
 	<oompStatPercent>0.319</oompStatPercent>
