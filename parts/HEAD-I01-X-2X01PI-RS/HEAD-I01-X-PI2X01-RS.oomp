@@ -1,24 +1,25 @@
 <xml>
 <oompPart>
-	<oompID>HEAD-I01-X-PI01-RS</oompID>
-	<name>2.54 mm 1 Pin Header Right Angle (SMD)</name>
+	<oompID>HEAD-I01-X-PI2x01-RS</oompID>
+	<name>2.54 mm Header Right Angle (SMD)</name>
 	<oompSort></oompSort>
 	<oompType>HEAD</oompType>
 	<oompSize>I01</oompSize>
 	<oompColor>X</oompColor>
-	<oompDesc>PI01</oompDesc>
+	<oompDesc>2X01PI</oompDesc>
 	<oompIndex>RS</oompIndex>
 	<oompVersion>999</oompVersion>
 
 
 
-	<hexID>HRS01</hexID>
+	<hexID>HRS2X01</hexID>
 	<ooPitch>2.54 mm</ooPitch>
 	<ooWidth>2.54 mm</ooWidth>
-	<ooHeight>2.54 mm</ooHeight>
-	<ooLength>13.04 mm</ooLength>
-	<numPins>1</numPins>
-	<oompFootprint>HEAD-I01-X-PI01-RS</oompFootprint>
+	<ooHeight>5.08 mm</ooHeight>
+	<ooLength>17.66 mm</ooLength>
+	<numPins>2</numPins>
+	<numRows>2</numRows>
+	<oompFootprint>HEAD-I01-X-PI2x01-RS</oompFootprint>
 	<oompStatCount>0</oompStatCount>
 	<oompStatPercent>0</oompStatPercent>
 </oompPart>

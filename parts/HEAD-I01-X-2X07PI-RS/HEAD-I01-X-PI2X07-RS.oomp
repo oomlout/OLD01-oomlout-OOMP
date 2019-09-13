@@ -1,24 +1,25 @@
 <xml>
 <oompPart>
-	<oompID>HEAD-I01-X-PI07-RS</oompID>
-	<name>2.54 mm 7 Pin Header Right Angle (SMD)</name>
+	<oompID>HEAD-I01-X-PI2x07-RS</oompID>
+	<name>2.54 mm Header Right Angle (SMD)</name>
 	<oompSort></oompSort>
 	<oompType>HEAD</oompType>
 	<oompSize>I01</oompSize>
 	<oompColor>X</oompColor>
-	<oompDesc>PI07</oompDesc>
+	<oompDesc>2X07PI</oompDesc>
 	<oompIndex>RS</oompIndex>
 	<oompVersion>999</oompVersion>
 
 
 
-	<hexID>HRS07</hexID>
+	<hexID>HRS2X07</hexID>
 	<ooPitch>2.54 mm</ooPitch>
 	<ooWidth>17.78 mm</ooWidth>
-	<ooHeight>2.54 mm</ooHeight>
-	<ooLength>13.04 mm</ooLength>
-	<numPins>7</numPins>
-	<oompFootprint>HEAD-I01-X-PI07-RS</oompFootprint>
+	<ooHeight>5.08 mm</ooHeight>
+	<ooLength>17.66 mm</ooLength>
+	<numPins>14</numPins>
+	<numRows>2</numRows>
+	<oompFootprint>HEAD-I01-X-PI2x07-RS</oompFootprint>
 	<oompStatCount>0</oompStatCount>
 	<oompStatPercent>0</oompStatPercent>
 </oompPart>
