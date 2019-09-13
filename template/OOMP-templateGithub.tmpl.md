@@ -120,5 +120,4 @@ OPL Libraries
 
 @@bottomText,oompBasic.type,value@@   
 
-https://raw.githubusercontent.com/oomlout/oomlout-OOMP/master/parts/RESE-0402-X-O000-67/RESE-0402-X-O000-67-bbls_1500.png
 
