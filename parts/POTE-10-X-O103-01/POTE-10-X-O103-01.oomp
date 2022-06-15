@@ -1,45 +1,44 @@
-<xml>
-	<oompPart>
-		<oompID>POTE-10-X-O103-01</oompID>
-		<name>10 mm 10k Ohm Potentiometer</name>
-		<hexID>PTA103</hexID>
-		<oompSort></oompSort>
-		<oompClass>Through Hole Component</oompClass>
-		<oompClassCode>THTH</oompClassCode>
-		<oompType>POTE</oompType>
-		<oompSize>10</oompSize>
-		<oompColor>X</oompColor>
-		<oompDesc>O103</oompDesc>
-		<oompIndex>01</oompIndex>
-		<oompVersion>40</oompVersion>
-		<sourceList>
-			<manufacturer>
-				<company>Bourns</company>
-				<companyCode>C-BOUR</companyCode>
-				<name></name>
-				<partID>3386T-1-103LF</partID>
-				<link></link>
-				<note></note>
-			</manufacturer>
-			<bigDistributor>
-				<company>DigiKey</company>
-				<companyCode>C-DIGK</companyCode>
-				<name>10k Ohm 0.5W, 1/2W PC Pins Through Hole Trimmer Potentiometer Cermet 1 Turn Top Adjustment</name>
-				<partID>3386T-1-103LF-ND</partID>
-				<link><![CDATA[http://www.digikey.co.uk/product-detail/en/bourns-inc/3386T-1-103LF/3386T-1-103LF-ND/2537370]]></link>
-				<note></note>
-			</bigDistributor>
-			<bigDistributor>
-				<company>Mouser</company>
-				<companyCode>C-MOUS</companyCode>
-				<name>Trimmer Resistors - Through Hole 3/8" 10Kohms 10% 0.5Watts Square</name>
-				<partID>652-3386T-1-103LF</partID>
-				<link><![CDATA[http://www.mouser.co.uk/ProductDetail/Bourns/3386T-1-103LF/?qs=sGAEpiMZZMvygUB3GLcD7rufck0TIBKya5z2GcN51jQ%3d]]></link>
-				<note></note>
-			</bigDistributor>
-		</sourceList>
-		<ooDesignator>VR1</ooDesignator>
-		<oompStatCount>0</oompStatCount>
-	<oompStatPercent>0</oompStatPercent>
-</oompPart>
-</xml>
+
+newPart.addTag("oompID","POTE-10-X-O103-01")oompID
+newPart.addTag("name","10 mm 10k Ohm Potentiometer")name
+newPart.addTag("hexID","PTA103")hexID
+newPart.addTag("oompSort","")oompSort
+newPart.addTag("oompClass","Through Hole Component")oompClass
+newPart.addTag("oompClassCode","THTH")oompClassCode
+newPart.addTag("oompType","POTE")oompType
+newPart.addTag("oompSize","10")oompSize
+newPart.addTag("oompColor","X")oompColor
+newPart.addTag("oompDesc","O103")oompDesc
+newPart.addTag("oompIndex","01")oompIndex
+newPart.addTag("oompVersion","40")oompVersion
+newPart.addTag("sourceList
+	newPart.addTag("manufacturer
+		newPart.addTag("company","Bourns")company
+		newPart.addTag("companyCode","C-BOUR")companyCode
+		newPart.addTag("name","")name
+		newPart.addTag("partID","3386T-1-103LF")partID
+		newPart.addTag("link","")link
+		newPart.addTag("note","")note
+	newPart.addTag("/manufacturer
+	newPart.addTag("bigDistributor
+		newPart.addTag("company","DigiKey")company
+		newPart.addTag("companyCode","C-DIGK")companyCode
+		newPart.addTag("name","10k Ohm 0.5W, 1/2W PC Pins Through Hole Trimmer Potentiometer Cermet 1 Turn Top Adjustment")name
+		newPart.addTag("partID","3386T-1-103LF-ND")partID
+		newPart.addTag("link","<![CDATA[http://www.digikey.co.uk/product-detail/en/bourns-inc/3386T-1-103LF/3386T-1-103LF-ND/2537370]]","")link
+		newPart.addTag("note","")note
+	newPart.addTag("/bigDistributor
+	newPart.addTag("bigDistributor
+		newPart.addTag("company","Mouser")company
+		newPart.addTag("companyCode","C-MOUS")companyCode
+		newPart.addTag("name","Trimmer Resistors - Through Hole 3/8" 10Kohms 10% 0.5Watts Square")name
+		newPart.addTag("partID","652-3386T-1-103LF")partID
+		newPart.addTag("link","<![CDATA[http://www.mouser.co.uk/ProductDetail/Bourns/3386T-1-103LF/?qs=sGAEpiMZZMvygUB3GLcD7rufck0TIBKya5z2GcN51jQ%3d]]","")link
+		newPart.addTag("note","")note
+	newPart.addTag("/bigDistributor
+newPart.addTag("/sourceList
+newPart.addTag("ooDesignator","VR1")ooDesignator
+newPart.addTag("oompStatCount","0")oompStatCount
+	<oompStatPercent","0")oompStatPercent
+")oompPart
+")xml

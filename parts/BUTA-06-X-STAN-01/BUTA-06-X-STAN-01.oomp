@@ -1,181 +1,22 @@
-<xml>
-	<oompPart>
-		<index>4316</index>
-		<oompID>BUTA-06-X-STAN-01</oompID>
-		<name>6 mm Pushbutton (Tactile)</name>
-		<hexID>BT6</hexID>
-		<oompSort>0606</oompSort>
-		<oompType>BUTA</oompType>
-		<oompSize>06</oompSize>
-		<oompColor>X</oompColor>
-		<oompDesc>STAN</oompDesc>
-		<oompIndex>01</oompIndex>
-		<oompVersion>99</oompVersion>        
-		<ooWidth>6.2 mm</ooWidth>
-		<ooHeight>3.5 mm</ooHeight>
-		<ooLength>6.2 mm</ooLength>
-		<ooManufacturer>C-BEST</ooManufacturer>
-		<ooManufacturerPartNumber>TS-1109</ooManufacturerPartNumber>        
-		<ooNumPins>4</ooNumPins>
-		<usageList>
-			<useItem>
-				<useID>1</useID>
-				<importance>1</importance>
-				<useTitle>Reset Button</useTitle>
-				<useDescription>a reset button for a microcontroller.</useDescription>
-			</useItem>
-			<useItem>
-				<useID>2</useID>
-				<importance>2</importance>
-				<useTitle>Keypad Button</useTitle>
-				<useDescription>a button on a keypad.</useDescription>
-			</useItem>
-		</usageList>
-		<ooSEEEDsku>3110040P1</ooSEEEDsku>
-		<ooSEEEDdesc>SWITCH TACTILE SPST-NO 0.05A 12V</ooSEEEDdesc>		<sourceList>
-			<manufacturer>
-				<company>Omron</company>
-				<companyCode>C-OMRO</companyCode>
-				<name></name>
-				<partID>B3F-1000</partID>
-				<link></link>
-				<note></note>
-			</manufacturer>
-			<manufacturer>
-				<company>Shenzhen Best</company>
-				<companyCode>C-BEST</companyCode>
-				<name></name>
-				<partID>TS-1109</partID>
-				<link></link>
-				<note></note>
-			</manufacturer>
-			<manufacturer>
-				<company>TE Connectivity</company>
-				<companyCode>C-TECO</companyCode>
-				<name></name>
-				<partID>1825910-6</partID>
-				<link></link>
-				<note></note>
-			</manufacturer>
-			<manufacturer>
-				<company>Tyco</company>
-				<companyCode>C-TYCO</companyCode>
-				<name></name>
-				<partID>FSM4JH</partID>
-				<link></link>
-				<note></note>
-			</manufacturer>
-			<manufacturer>
-				<company>RVFM</company>
-				<companyCode>C-RVFM</companyCode>
-				<name>Tactile switches 6 x 6mm</name>
-				<partID>TC-00104-043C</partID>
-				<link></link>
-				<note></note>
-			</manufacturer>
-			<bigDistributor>
-				<company>DigiKey</company>
-				<companyCode>C-DIGK</companyCode>
-				<name>SWITCH TACTILE SPST-NO 0.05A 12V</name>
-				<partID>450-1650-ND</partID>
-				<link><![CDATA[http://www.digikey.co.uk/product-search/en?vendor=0&keywords=450-1650-ND]]></link>
-				<note></note>
-			</bigDistributor>
-			<bigDistributor>
-				<company>Farnell</company>
-				<companyCode>C-FARN</companyCode>
-				<name>TE CONNECTIVITY / ALCOSWITCH  FSM4JH  SWITCH, SPNO, 0.05A</name>
-				<partID>1555982</partID>
-				<link><![CDATA[http://uk.farnell.com/te-connectivity-alcoswitch/fsm4jh/switch-spno-0-05a/dp/1555982?ost=1555982]]></link>
-				<note></note>
-			</bigDistributor>
-			<bigDistributor>
-				<company>RS</company>
-				<companyCode>C-RSRS</companyCode>
-				<name>Black Button Tactile Switch, SPST-NO 50 mA@ 24 V dc 1.4mm</name>
-				<partID>479-1413</partID>
-				<link><![CDATA[http://uk.rs-online.com/web/p/tactile-switches/4791413/?searchTerm=479-1413&relevancy-data=636F3D3126696E3D4931384E525353746F636B4E756D6265724D504E266C753D656E266D6D3D6D61746368616C6C26706D3D5E5C647B337D5B5C732D2F255C2E2C5D5C647B332C347D2426706F3D313426736E3D592673743D52535F53544F434B5F4E554D4245522677633D4E4F4E45267573743D3437392D3134313326]]></link>
-				<note></note>
-			</bigDistributor>
-			<bigDistributor>
-				<company>Rapid Electronics</company>
-				<companyCode>C-RAPI</companyCode>
-				<name>Tactile Switch 6x6mm Height 4.3mm</name>
-				<partID>78-3800</partID>
-				<link><![CDATA[http://www.rapidonline.com/electronic-components/tactile-switch-6x6mm-height-4-3mm-78-3800]]></link>
-				<note></note>
-			</bigDistributor>
-			<bigDistributor>
-				<company>Sparkfun</company>
-				<companyCode>C-SPAR</companyCode>
-				<name>Mini Pushbutton Switch</name>
-				<partID>97</partID>
-				<link><![CDATA[https://www.sparkfun.com/products/97]]></link>
-				<note></note>
-			</bigDistributor>
-			<bigDistributor>
-				<company>Adafruit</company>
-				<companyCode>C-ADAF</companyCode>
-				<name>Tactile Button switch (6mm) x 20 pack</name>
-				<partID>367</partID>
-				<link><![CDATA[http://www.adafruit.com/products/367]]></link>
-				<note></note>
-			</bigDistributor>
-			<bigDistributor>
-				<company>Oomlout</company>
-				<companyCode>C-OOML</companyCode>
-				<name>Pushbuttons (x5)</name>
-				<partID>BUTT-01-05</partID>
-				<link><![CDATA[http://oomlout.co.uk/products/pushbutton-x5]]></link>
-				<note></note>
-			</bigDistributor>
-		</sourceList>
-		<oplList>
-			<oplSystem>
-				<oplScheme>HubStock</oplScheme>
-				<oplCode>C-HUBS</oplCode>
-				<oplName></oplName>
-				<oplID>OMRON/B3F-1000</oplID>
-				
-				<oplPackage></oplPackage>
-				<oplLink><![CDATA[https://circuithub.com/parts/OMRON/B3F-1000]]></oplLink>
-			</oplSystem>
-			<oplSystem>
-				<oplScheme>SEEED OPL</oplScheme>
-				<oplCode>C-SEEE</oplCode>
-				<oplName>DIP Button;SPST;160gf</oplName>
-				<oplID>3110040P1</oplID>
-				
-				<oplPackage>4P-6.0X6.0X5.0H</oplPackage>
-				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
-			</oplSystem>		</oplList>
-			<oompAbout>The most commonly used through hole tactile pushbutton. It's often more difficult to find a PCB without one of these than with.</oompAbout>
-			<ooSEEED3dModel>http://www.seeedstudio.com/wiki/File:4P-6.0X6.0X5.0H.zip</ooSEEED3dModel>
-			<oompClass>Through Hole Component</oompClass>
-			<oompClassCode>THTH</oompClassCode>
-			<oompBbls>
-				<drawItem>template;BUTA-06-X-STAN-01</drawItem>
-				<drawItem>template;XXXX-XXXX-X-XXXX-XX-bbls-words</drawItem>
-			</oompBbls>
-			<oompDiag>
-				<drawItem>template;BUTA-06-X-STAN-01</drawItem>
-			</oompDiag>
-			<oompIden>
-				<drawItem>template;BUTA-06-X-STAN-01</drawItem>
-			</oompIden>
-			
-			<oompSchem>
-					<drawItem>template;BUTA-XXXX-X-XXXX-XX-schem</drawItem>
-			</oompSchem>
-			
-			<ooDesignator>S</ooDesignator>			
-			<oompSymbol>twoSidedPackage;##ooNumPins@@/2</oompSymbol>
-			
-			<ooPin1>.</ooPin1>
-			<ooPin2>.</ooPin2>
+<xml
+	<oompPart
+newPart.addTag("hexID","BT6")hexID
+newPart.addTag("oompSort","0606")oompSort
+newPart.addTag("ooWidth","6.2 mm")ooWidth
+newPart.addTag("ooHeight","3.5 mm")ooHeight
+newPart.addTag("ooLength","6.2 mm")ooLength
+newPart.addTag("oompAbout","The most commonly used through hole tactile pushbutton. It's often more difficult to find a PCB without one of these than with.")
+newPart.addTag("oompClass","Through Hole Component")
+newPart.addTag("oompClassCode","THTH")
+newPart.addTag("oompBbls",template;BUTA-06-X-STAN-01")
+newPart.addTag("oompBbls","template;XXXX-XXXX-X-XXXX-XX-bbls-words")
+newPart.addTag("oompDiag","template;BUTA-06-X-STAN-01")
+newPart.addTag("oompIden","template;BUTA-06-X-STAN-01")			
+newPart.addTag("oompSchem","template;BUTA-XXXX-X-XXXX-XX-schem")
+
+newPart.addTag("ooDesignator","S")
+newPart.addTag("oompSymbol","twoSidedPackage;##ooNumPins@@/2")
+newPart.addTag("ooPin1",".")
+newPart.addTag("ooPin2",".")
 			
 			
-		<oompStatCount>0</oompStatCount>
-	<oompStatPercent>0</oompStatPercent>
-</oompPart>
-</xml>

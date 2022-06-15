@@ -1,96 +1,96 @@
-<xml>
-	<oompPart>
-		<index>9876</index>
-		<oompID>BUTA-12-X-STAN-01</oompID>
-		<name>12 mm Pushbutton (Tactile)</name>
-		<hexID>BT12</hexID>
-		<oompSort>1212</oompSort>
-		<oompType>BUTA</oompType>
-		<oompSize>12</oompSize>
-		<oompColor>X</oompColor>
-		<oompDesc>STAN</oompDesc>
-		<oompIndex>01</oompIndex>
-		<oompVersion>99</oompVersion>
-		<sourceList>
-			<manufacturer>
-				<company>Diptronics</company>
-				<companyCode>C-DIPT</companyCode>
-				<name></name>
-				<partID>DTS-24R-V</partID>
-				<link></link>
-				<note></note>
-				</manufacturer><bigDistributor>
-				<company>Rapid Electronics</company>
-				<companyCode>C-RAPI</companyCode>
-				<name>7.3mm Sq 12x12 Tactile Switch 260gf</name>
-				<partID>78-0631</partID>
-				<link><![CDATA[http://www.rapidonline.com/Electronic-Components/7-3mm-Sq-12x12-Tactile-Switch-260gf-78-0631]]></link>
-				<note></note>
-			</bigDistributor>
-			<bigDistributor>
-				<company>Sparkfun</company>
-				<companyCode>C-SPAR</companyCode>
-				<name>Tactile Button Assortment</name>
-				<partID>9190</partID>
-				<link><![CDATA[https://www.sparkfun.com/products/10302]]></link>
-				<note></note>
-			</bigDistributor>
-			<bigDistributor>
-				<company>Adafruit</company>
-				<companyCode>C-ADAF</companyCode>
-				<name>Colorful Round Tactile Button Switch Assortment - 15 pack</name>
-				<partID>1009</partID>
-				<link><![CDATA[http://www.adafruit.com/products/1009]]></link>
-				<note></note>
-			</bigDistributor>
-		</sourceList>
-		<oplList>
-			</oplList>		<usageList>
-			<useItem>
-				<useID>1</useID>
-				<importance>1</importance>
-				<useTitle>Reset Button</useTitle>
-				<useDescription>a reset button for a microcontroller.</useDescription>
-			</useItem>
-			<useItem>
-				<useID>2</useID>
-				<importance>2</importance>
-				<useTitle>Keypad Button</useTitle>
-				<useDescription>a button on a keypad.</useDescription>
-			</useItem>
-			<useItem>
-				<useID>2</useID>
-				<importance>2</importance>
-				<useTitle>Larger Button</useTitle>
-				<useDescription>a larger button to distinguish it from more standard pushbuttons.</useDescription>
-			</useItem>
-		</usageList><oompAbout>A good tactile pushbutton. Useful when something larger than the standard 6mm version is desired. These also have better pin spacing for using in a breadboard.</oompAbout><oompClass>Through Hole Component</oompClass>
-		<oompClassCode>THTH</oompClassCode>
-		<oompBbls>
-			<drawItem>template;BUTA-12-X-STAN-01</drawItem>
-			<drawItem>template;XXXX-XXXX-X-XXXX-XX-bbls-words</drawItem>
-		</oompBbls>
-		<oompDiag>
-			<drawItem>template;BUTA-12-X-STAN-01</drawItem>
-			<drawItem>template;XXXX-XXXX-X-XXXX-XX-diag-words</drawItem>
-		</oompDiag>
-		<oompIden>
-			<drawItem>template;BUTA-12-X-STAN-01</drawItem>
-			<drawItem>template;XXXX-XXXX-X-XXXX-XX-iden-words</drawItem>
-		</oompIden>
-		<oompSchem>
-				<drawItem>template;BUTA-XXXX-X-XXXX-XX-schem</drawItem>
-		</oompSchem>
-		<oompSimp>
-			<drawItem>template;BUTA-12-X-STAN-01</drawItem>
-			<drawItem>template;XXXX-XXXX-X-XXXX-XX-simp-words</drawItem>
-		</oompSimp>
-					<ooDesignator>S</ooDesignator>			
-			<oompSymbol>twoSidedPackage;##ooNumPins@@/2</oompSymbol>
+<xml
+	<oompPart
+newPart.addTag("index","9876")index
+newPart.addTag("oompID","BUTA-12-X-STAN-01")oompID
+newPart.addTag("name","12 mm Pushbutton (Tactile)")name
+newPart.addTag("hexID","BT12")hexID
+newPart.addTag("oompSort","1212")oompSort
+newPart.addTag("oompType","BUTA")oompType
+newPart.addTag("oompSize","12")oompSize
+newPart.addTag("oompColor","X")oompColor
+newPart.addTag("oompDesc","STAN")oompDesc
+newPart.addTag("oompIndex","01")oompIndex
+newPart.addTag("oompVersion","99")oompVersion
+newPart.addTag("sourceList
+	newPart.addTag("manufacturer
+		newPart.addTag("company","Diptronics")company
+		newPart.addTag("companyCode","C-DIPT")companyCode
+		newPart.addTag("name","")name
+		newPart.addTag("partID","DTS-24R-V")partID
+		newPart.addTag("link","")link
+		newPart.addTag("note","")note
+		newPart.addTag("/manufacturer","<bigDistributor
+		newPart.addTag("company","Rapid Electronics")company
+		newPart.addTag("companyCode","C-RAPI")companyCode
+		newPart.addTag("name","7.3mm Sq 12x12 Tactile Switch 260gf")name
+		newPart.addTag("partID","78-0631")partID
+		newPart.addTag("link","<![CDATA[http://www.rapidonline.com/Electronic-Components/7-3mm-Sq-12x12-Tactile-Switch-260gf-78-0631]]","")link
+		newPart.addTag("note","")note
+	newPart.addTag("/bigDistributor
+	newPart.addTag("bigDistributor
+		newPart.addTag("company","Sparkfun")company
+		newPart.addTag("companyCode","C-SPAR")companyCode
+		newPart.addTag("name","Tactile Button Assortment")name
+		newPart.addTag("partID","9190")partID
+		newPart.addTag("link","<![CDATA[https://www.sparkfun.com/products/10302]]","")link
+		newPart.addTag("note","")note
+	newPart.addTag("/bigDistributor
+	newPart.addTag("bigDistributor
+		newPart.addTag("company","Adafruit")company
+		newPart.addTag("companyCode","C-ADAF")companyCode
+		newPart.addTag("name","Colorful Round Tactile Button Switch Assortment - 15 pack")name
+		newPart.addTag("partID","1009")partID
+		newPart.addTag("link","<![CDATA[http://www.adafruit.com/products/1009]]","")link
+		newPart.addTag("note","")note
+	newPart.addTag("/bigDistributor
+newPart.addTag("/sourceList
+newPart.addTag("opl
+	newPart.addTag("/opl","newPart.addTag("usageList
+	newPart.addTag("useItem
+		newPart.addTag("useID","1")useID
+		newPart.addTag("importance","1")importance
+		newPart.addTag("useTitle","Reset Button")useTitle
+		newPart.addTag("useDescription","a reset button for a microcontroller.")useDescription
+	newPart.addTag("/useItem
+	newPart.addTag("useItem
+		newPart.addTag("useID","2")useID
+		newPart.addTag("importance","2")importance
+		newPart.addTag("useTitle","Keypad Button")useTitle
+		newPart.addTag("useDescription","a button on a keypad.")useDescription
+	newPart.addTag("/useItem
+	newPart.addTag("useItem
+		newPart.addTag("useID","2")useID
+		newPart.addTag("importance","2")importance
+		newPart.addTag("useTitle","Larger Button")useTitle
+		newPart.addTag("useDescription","a larger button to distinguish it from more standard pushbuttons.")useDescription
+	newPart.addTag("/useItem
+newPart.addTag("/usageList","<oompAbout","A good tactile pushbutton. Useful when something larger than the standard 6mm version is desired. These also have better pin spacing for using in a breadboard.")oompAbout","<oompClass","Through Hole Component")oompClass
+newPart.addTag("oompClassCode","THTH")oompClassCode
+newPart.addTag("oompBbls
+	newPart.addTag("drawItem","template;BUTA-12-X-STAN-01")drawItem
+	newPart.addTag("drawItem","template;XXXX-XXXX-X-XXXX-XX-bbls-words")drawItem
+newPart.addTag("/oompBbls
+newPart.addTag("oompDiag
+	newPart.addTag("drawItem","template;BUTA-12-X-STAN-01")drawItem
+	newPart.addTag("drawItem","template;XXXX-XXXX-X-XXXX-XX-diag-words")drawItem
+newPart.addTag("/oompDiag
+newPart.addTag("oompIden
+	newPart.addTag("drawItem","template;BUTA-12-X-STAN-01")drawItem
+	newPart.addTag("drawItem","template;XXXX-XXXX-X-XXXX-XX-iden-words")drawItem
+newPart.addTag("/oompIden
+newPart.addTag("oompSchem
+		newPart.addTag("drawItem","template;BUTA-XXXX-X-XXXX-XX-schem")drawItem
+newPart.addTag("/oompSchem
+newPart.addTag("oompSimp
+	newPart.addTag("drawItem","template;BUTA-12-X-STAN-01")drawItem
+	newPart.addTag("drawItem","template;XXXX-XXXX-X-XXXX-XX-simp-words")drawItem
+newPart.addTag("/oompSimp
+			newPart.addTag("ooDesignator","S")ooDesignator","			
+	newPart.addTag("oompSymbol","twoSidedPackage;##ooNumPins@@/2")oompSymbol
 			
-			<ooPin1>.</ooPin1>
-			<ooPin2>.</ooPin2>
-		<oompStatCount>25</oompStatCount>
-	<oompStatPercent>0.210</oompStatPercent>
-</oompPart>
-</xml>
+	newPart.addTag("ooPin1",".")ooPin1
+	newPart.addTag("ooPin2",".")ooPin2
+newPart.addTag("oompStatCount","25")oompStatCount
+	<oompStatPercent","0.210")oompStatPercent
+")oompPart
+")xml

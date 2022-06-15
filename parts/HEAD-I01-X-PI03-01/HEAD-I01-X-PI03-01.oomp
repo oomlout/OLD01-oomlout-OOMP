@@ -1,74 +1,31 @@
-<xml>
-	<oompPart>
-		<oompID>HEAD-I01-X-PI03-01</oompID>
-		<name>2.54 mm 3 Pin Header</name>
-		<hexID>H03</hexID>
-		<oompSort></oompSort>
-		<oompClass>Through Hole</oompClass>
-		<oompClassCode>THTH</oompClassCode>
-		<oompType>HEAD</oompType>
-		<oompSize>I01</oompSize>
-		<oompColor>X</oompColor>
-		<oompDesc>PI03</oompDesc>
-		<oompIndex>01</oompIndex>
-		<oompVersion>40</oompVersion>
-		<ooPitch>2.54</ooPitch>
-		<ooPinHeight>11.60</ooPinHeight>
-		<ooPinWidth>0.64</ooPinWidth>
-		<ooPinOffset>1.53</ooPinOffset>
-		<ooNumPins>3</ooNumPins>
-		<ooFootprint>OOMP-HEAD-I01-X-PI03-01</ooFootprint>
-		<sourceList>
-			<manufacturer>
-				<company>Yxcon</company>
-				<companyCode>C-YXCO</companyCode>
-				<name></name>
-				<partID>P125-1103A1BS116A1</partID>
-				<link></link>
-				<note></note>
-			</manufacturer>
-		</sourceList>
-		<oplList>
-			<oplSystem>
-				<oplScheme>SEEED OPL</oplScheme>
-				<oplCode>C-SEEE</oplCode>
-				<oplName>DIP Black Male Header VERT</oplName>
-				<oplID>320020079</oplID>
-				<oplFootprint>1X3P-2.54-2.54-11.6/3.0</oplFootprint>
-				<oplPackage>1X3P-2.54-2.54-11.6/3.0</oplPackage>
-				<oplLink><![CDATA[https://www.seeedstudio.com/opl.html]]></oplLink>
-			</oplSystem>
-		</oplList>
-		<oompBbls>
-			<drawItem>variable;clear</drawItem>
-			<drawItem>variable;pins;3</drawItem>
-			<drawItem>template;XXXX-I01-X-XX-01-bbls</drawItem>
-		</oompBbls>
-		<oompDiag>
-			<drawItem>variable;clear</drawItem>
-			<drawItem>variable;pins;3</drawItem>
-			<drawItem>template;HEAD-I01-X-XX-01-diag</drawItem>
-		</oompDiag>
-		<oompIden>
-			<drawItem>variable;clear</drawItem>
-			<drawItem>variable;pins;3</drawItem>
-			<drawItem>template;XXXX-I01-X-XX-01-iden</drawItem>
-		</oompIden>
-		<oompSchem>
-			<drawItem>variable;clear</drawItem>
-			<drawItem>variable;pins;3</drawItem>
-			<drawItem>template;XXXX-XX-X-XX-01-PINS-ODD-schem</drawItem>
-		</oompSchem>
-		<oompSimp>
-			<drawItem>variable;clear</drawItem>
-			<drawItem>variable;pins;3</drawItem>
-			<drawItem>template;XXXX-I01-X-XX-01-simp</drawItem>
-		</oompSimp>
-		<ooDesignator>J1</ooDesignator>
-		<schematicSymbol>HEAD-XX-X-PI03-XX</schematicSymbol>
-		<pcbFootprint>HEAD-I01-X-PI03-01</pcbFootprint>
+newPart.addTag("hexID","H03")
+newPart.addTag("oompSort","")
+newPart.addTag("oompClass","Through Hole")
+newPart.addTag("oompClassCode","THTH")
+newPart.addTag("ooPitch","2.54")
+newPart.addTag("ooPinHeight","11.60")
+newPart.addTag("ooPinWidth","0.64")
+newPart.addTag("ooPinOffset","1.53")
+newPart.addTag("ooNumPins","3")
+newPart.addTag("ooFootprint","OOMP-HEAD-I01-X-PI03-01")
+newPart.addTag("manufacturer",["Yxcon","C-YXCO","","P125-1103A1BS116A1","","")
+newPart.addTag("opl""SEEED OPL","C-SEEE","DIP Black Male Header VERT","320020079","1X3P-2.54-2.54-11.6/3.0","1X3P-2.54-2.54-11.6/3.0",https://www.seeedstudio.com/opl.html"])
+newPart.addTag("oompBbls","variable;clear")
+newPart.addTag("oompBbls","variable;pins;3")
+newPart.addTag("oompBbls","template;XXXX-I01-X-XX-01-bbls")
+newPart.addTag("oompDiag","variable;clear")
+newPart.addTag("oompDiag","variable;pins;3")
+newPart.addTag("oompDiag","template;HEAD-I01-X-XX-01-diag")
+newPart.addTag("oompIden",variable;clear")
+newPart.addTag("oompIden","variable;pins;3")
+newPart.addTag("drawItem","template;XXXX-I01-X-XX-01-iden")
+newPart.addTag("oompSchem","variable;clear")
+newPart.addTag("oompSchem","variable;pins;3")
+newPart.addTag("oompSchem","template;XXXX-XX-X-XX-01-PINS-ODD-schem")
+newPart.addTag("oompSimp","variable;clear")
+newPart.addTag("oompSimp","variable;pins;3")
+newPart.addTag("oompSimp","template;XXXX-I01-X-XX-01-simp")
 
-		<oompStatCount>32</oompStatCount>
-	<oompStatPercent>0.269</oompStatPercent>
-</oompPart>
-</xml>
+newPart.addTag("ooDesignator","J1")
+newPart.addTag("schematicSymbol","HEAD-XX-X-PI03-XX")
+newPart.addTag("pcbFootprint","HEAD-I01-X-PI03-01")
